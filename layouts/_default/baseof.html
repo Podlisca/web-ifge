@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "de" }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+  <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
+  <link rel="shortcut icon" href="/img/favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/nav.css">
+</head>
+
+<body>
+  <header>
+    <a href="/index.html">
+      <img src="/img/logo.jpg" alt="IFGE Logo" style="height: 100px;"/>
+    </a>
+    {{ partial "site-navigation" .}}
+  </header>
+  <div class="head-filler" style="grid-area: hfill1;"></div>
+  <div class="head-filler" style="grid-area: hfill2;"></div>
+
+  <main>
+    {{ block "main" . }}
+    {{ end }}
+  </main>
+
+  <footer>
+    {{ partialCached "site-footer.html" . }}
+  </footer>
+
+  <script>
+    const header = document.getElementsByTagName("header")[0];
+    let scroll_pos = 0;
+    let toggle = false;
+
+    window.onscroll = function (e) {
+      // called when the window is scrolled.
+      console.log("scroll " + e);
+      scroll_pos = window.scrollY;
+      if (!toggle) {
+        window.requestAnimationFrame(function () {
+          if (scroll_pos > 0) {//header.offsetHeight) {
+            header.classList.add("bg-hidden");
+          }
+          else {
+            header.classList.remove("bg-hidden");
+          }
+          toggle = false;
+        });
+        toggle = true;
+      }
+    }
+
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+        header.classList.add("responsive")
+      } else {
+        header.classList.remove("responsive")
+        x.className = "topnav";
+      }
+    }
+  </script>
+</body>
+
+</html>

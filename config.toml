@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "de"
+title = "IFGE"
+author = "Leichtware GmbH"
+uglyurls = true
+
+[params]
+SiteDescription = "Beschreibung auf Site-Ebene als Fallback der einzelnen Pages"

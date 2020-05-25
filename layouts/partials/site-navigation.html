@@ -1,0 +1,7 @@
+<nav class="topnav" id="myTopnav">
+  {{ range .Site.Menus.main }}
+    <a href="{{ .URL }}">{{ .Name }}</a> 
+  {{ end }}
+
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>    
+</nav>
