@@ -1,16 +1,16 @@
 /* Add a black background color to the top navigation */
 
 .topnav {
-  /* background-color: #CCC; */
-  /* overflow: hidden;   */
+  color: white;
   display: flex;
+  align-items: center;
   /* justify-content: flex-end;
   width: 100%; */
 }
 
 /* Style the links inside the navigation bar */
 
-header a, .topnav a {  
+.topnav a {  
   display: block;
   color: inherit;
   text-align: center;

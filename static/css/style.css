@@ -2,6 +2,7 @@
     --color-green: #16978c;
     --color-red: #a34d5d;
     --color-gray: #969696;
+    --color-lightgray: #eee;
     --color-creme: #f8eada;
 }
 
@@ -138,4 +139,9 @@ p {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+}
+
+img {
+    display: block;
+    max-width: 100%;
 }

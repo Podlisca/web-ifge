@@ -4,6 +4,8 @@ description: "Eine Super Beschreibung der Seite"
 draft: false
 ---
 
+{{< slider >}}
+
 # Antje Stimpfl
 Dipl. Lebens- und Sozialberaterin    
 Counselling, Psychotherapy, Cognitive Behavioural Therapy & Psychiatric Consultation.
