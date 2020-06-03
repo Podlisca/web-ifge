@@ -22,6 +22,7 @@ body {
             "hfill1 header hfill2"
             ". jumbo ."
             ". main ."
+            ". contact ."
             ". . ."
             "footer footer footer";
     grid-template-rows: auto auto auto 1fr auto;
@@ -41,6 +42,7 @@ body {
         "jumbo"
         "main"
         "."
+        "contact"
         "footer";
     }
 
@@ -81,6 +83,10 @@ main {
     grid-area: main;    
 }
 
+.contact {
+    grid-area: contact;
+}
+
 footer {
     grid-area: footer;
     background-color: var(--color-gray);
@@ -96,9 +102,6 @@ footer>div {
     padding: 5px;
 }
 
-section {
-    padding: 1em;
-}
 section.image {
     padding: 0;
     grid-area: pic; 

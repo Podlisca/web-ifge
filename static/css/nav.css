@@ -4,6 +4,7 @@
   color: white;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   /* justify-content: flex-end;
   width: 100%; */
 }
