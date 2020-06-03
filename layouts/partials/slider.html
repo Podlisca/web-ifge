@@ -1,0 +1,29 @@
+<!-- https://github.com/rchisholm/vanilla-slider -->
+
+<script type='text/javascript' src='/js/vanilla-slider.js'></script>
+
+<div style="grid-area: jumbo;">
+    <div id="slider-1" style="max-height: 400px; max-width: 100%;"></div>
+</div>
+
+<script>
+    var containerId = 'slider-1';
+
+    var options = {
+        transitionTime: 500,
+        transitionZoom: 'in',
+        bullets: true,
+        arrows:true,
+        arrowsHide: true,
+        auto: true,
+        autoTime: 4000,
+        images: [
+            'img/img1.jpg',
+            'img/img2.jpg',
+            'img/img3.jpg',
+            'img/img4.jpg'
+        ]
+    }
+
+    var slider = createSlider(containerId, options);
+</script>

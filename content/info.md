@@ -1,5 +1,5 @@
 ﻿---
-title: "Über mich"
+title: "Info"
 menu: "main"
 draft: false
 weight: 1
@@ -11,4 +11,4 @@ Hier kommt einfach nur Text usw.
 
 Es ist das Jahr {{< year >}}.
 
-{{< param iws >}} 
+{{< param iws >}}
