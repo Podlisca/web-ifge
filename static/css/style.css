@@ -188,7 +188,7 @@ img {
 .box {
     display: flex;
     justify-content: flex-end;
-    /* align-items: center; */
+    align-items: center;
 }
 .box .main {
     max-width: 640px;
@@ -197,4 +197,12 @@ img {
 .box .side {
     padding: 0 1em;
     flex-shrink: 1;
+}
+
+figure {
+    margin: 0;
+}
+
+figure h4 {
+    margin: 5px 0;
 }

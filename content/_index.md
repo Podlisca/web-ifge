@@ -8,7 +8,7 @@ draft: false
 
 {{% box %}}
 {{% bside %}}
-Sideee
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /bside %}}
 
 {{% bmain %}}

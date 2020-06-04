@@ -5,12 +5,15 @@ draft: false
 weight: 2
 iws: Hallo2
 ---
-{{% box %}}
-{{% bside %}}
+
 * * *
 # Ausbildungsphilosophie am IFGE  
-# Wien - Burgenland - Niederösterreich
+## Wien - Burgenland - Niederösterreich
 
+{{% box %}}
+{{% bside %}}
+
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /bside %}}
 {{% bmain %}}
 * * *
@@ -33,20 +36,31 @@ Silvia Podlisca
 {{% /bmain %}}
 {{% /box %}}
 
+{{% box %}}
+{{% bmain %}}
+
 * * *
 ## Lehrgang zur Lebens- und Sozialberatung
 * * *
 
 Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschätzenden und offenen Umgebung - an 3 Standorten (Wien, Burgenland und Niederösterreich) - lernen können, in der auf die Stärken jedes Einzelnen Rücksicht genommen und jede/r individuell gefördert wird. Die gesammelte Kompetenz eines breiten Referentenpools vermittelt Wissen am IFGE spannend, tiefgreifend und praxisorientiert, sodass sich Fachwissen, Auftreten und praktische Erfahrung letztlich intensiv festigen. Damit ermögliche ich es, dass IFGE-Absolvent*innen nicht nur fachlich auf höchstem Niveau ausgebildet sind, sondern von meinem erfahrenen, kompetenten Expertenteam auch jene Handwerkzeuge mitbekommen, die für den erfolgreichen Start in der Lebens- und Sozialberatung – psychologische Beratung – oder Supervision notwendig sind.
 
+{{% /bmain %}}
+{{% /box %}}
+
 * * *
 ## Unsere Ausbildungen im Überblick
 * * *
 
+{{% box flex-start %}}
+{{% bside %}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
 * Lebens- und Sozialberatung - psychologische Beratung
 * LSB Upgrade: Supervision
 * LSB Upgrade: Aufstellungsarbeit
+
+{{% /bside %}}
+{{% bside %}}
 
 ### AUS- UND WEITERBILDUNGEN
 * Psychologisches Teambuilding
@@ -55,10 +69,16 @@ Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschät
 * Historische & politische Aspekte in der Beratung
 * Klangschalenmassage
 
+{{% /bside %}}
+{{% bside %}}
+
 ### TIERGESTÜTZTE AUSBILDUNGEN
 * Tiergestützte psychologische Beratung
 * Erste Hilfe für Katzen
 * Erste Hilfe für Hunde
+
+{{% /bside %}}
+{{% bside %}}
 
 ### ONLINE AUSBILDUNGEN & TRAININGS
 * Grundlagen in der Onlineberatung & Onlinecoaching
@@ -70,3 +90,6 @@ Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschät
 * Fit and safe: Ganz sicher Spaß haben – online und unterwegs
 * „Zeig’ dich!“: Praxis von Anfang an professionell gründen
 * Planspiel Praxisaufbau
+
+{{% /bside %}}
+{{% /box %}}
