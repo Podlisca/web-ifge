@@ -4,5 +4,8 @@ title = "IFGE"
 author = "Leichtware GmbH"
 uglyurls = false
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 SiteDescription = "Beschreibung auf Site-Ebene als Fallback der einzelnen Pages"

@@ -5,10 +5,14 @@ draft: false
 weight: 2
 iws: Hallo2
 ---
-
+{{% box %}}
+{{% bside %}}
 * * *
 # Ausbildungsphilosophie am IFGE  
 # Wien - Burgenland - Niederösterreich
+
+{{% /bside %}}
+{{% bmain %}}
 * * *
 ## Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
 * * *
@@ -26,6 +30,8 @@ In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
 an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schüler*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen. Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Schüler*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt.
 
 Silvia Podlisca
+{{% /bmain %}}
+{{% /box %}}
 
 * * *
 ## Lehrgang zur Lebens- und Sozialberatung
