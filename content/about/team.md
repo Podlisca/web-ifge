@@ -1,6 +1,8 @@
 ﻿---
 title: "Team"
-menu: "main"
+menu: 
+    main:
+        parent: "Über mich"
 draft: false
 weight: 6
 ---

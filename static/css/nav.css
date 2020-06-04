@@ -138,3 +138,8 @@
     text-align: left;
   }
 }
+
+a.has-dropdown:after {
+  content: "\25BC";
+  font-size: 0.5em;
+}

@@ -35,6 +35,8 @@
     {{ end }}
   </main>
 
+  {{ partialCached "sidebar.html" . }}
+
   <section class="contact">
     {{ partialCached "site-contact.html" . }}
   </section>

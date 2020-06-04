@@ -21,7 +21,7 @@ body {
     grid-template-areas:
             "hfill1 header hfill2"
             ". jumbo ."
-            ". main ."
+            "aside main ."
             ". contact ."
             ". . ."
             "footer footer footer";
@@ -47,6 +47,10 @@ body {
     }
 
     .head-filler {
+        display: none;
+    }
+
+    aside {
         display: none;
     }
 }
@@ -83,6 +87,17 @@ main {
     grid-area: main;    
 }
 
+aside {
+    grid-area: aside;
+    position: relative;
+    padding: 1em;
+}
+
+aside ul {
+    position: sticky;
+    top: 1em;
+}
+
 .contact {
     grid-area: contact;
 }
@@ -115,7 +130,7 @@ section.image {
 }
 
 section.image>img {
-    width: 100%;
+    width: 100%;    
     display: block;
     max-height: 1000px;
 }
