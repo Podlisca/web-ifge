@@ -29,7 +29,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 ## Diplomlehrgang Lebensberatung in Wien, Burgenland & Niederösterreich / Upgrades / Fortbildung / Supervision
 * * *
 
-{{% box %}}
+{{% box flex-start %}}
 {{% bside %}}
 ### QUALITÄTSAUSBILDUNGEN IFGE
 Wien – Burgenland – Niederösterreich: Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen WKO zertifizierten Diplomlehrgänge zur Lebens- und Sozialberatung, die einmal wöchentlich berufsbegleitend stattfinden (montags, dienstags, donnerstags und freitags von 14.00 bis 20.00 Uhr, samstags von 10.00 bis 16.00 Uhr, mittwochs von 9:00 bis 15:00 Uhr). Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie Supervision und Aufstellungsarbeit) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert*innen- und Referent*innen-Team verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. Weitere Infos
