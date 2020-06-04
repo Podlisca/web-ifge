@@ -1,9 +1,9 @@
 ﻿---
 title: "Anmeldung"
-menu: "main"
+menu: "secondary"
 draft: false
-weight: 9
+weight: 3
 ---
 
-# Supervision
+# {{< param title >}}
 Paragraph

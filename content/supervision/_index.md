@@ -1,6 +1,8 @@
 ﻿---
 title: "Supervision"
-menu: "main"
+menu: 
+    main:
+        identifier: "supervision"
 draft: false
 weight: 4
 ---

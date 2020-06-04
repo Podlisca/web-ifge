@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 
-.topnav {
+.topnav, .secnav {
   color: white;
   display: flex;
   align-items: center;
@@ -11,7 +11,7 @@
 
 /* Style the links inside the navigation bar */
 
-.topnav a {  
+.topnav a, .secnav a {  
   display: block;
   color: inherit;
   text-align: center;
@@ -78,7 +78,7 @@
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 
-.topnav a:hover, .dropdown:hover .dropbtn {
+.topnav a:hover, .secnav a:hover, .dropdown:hover .dropbtn {
   background-color: #555;
   color: white;
 }
@@ -142,4 +142,14 @@
 a.has-dropdown:after {
   content: "\25BC";
   font-size: 0.5em;
+}
+
+.secnav {
+  justify-content: flex-end;
+}
+
+.secnav a {
+  font-size: 0.9em;
+  padding: 5px;
+  padding: 5px 16px;
 }

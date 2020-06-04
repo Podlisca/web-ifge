@@ -21,3 +21,9 @@
 
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>    
 </nav>
+
+<nav class="secnav">
+  {{ range .Site.Menus.secondary }}
+  <a class="{{ if $currentPage.IsMenuCurrent "secondary" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a> 
+  {{ end }}
+</nav>

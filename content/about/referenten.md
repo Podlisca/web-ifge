@@ -1,11 +1,12 @@
 ﻿---
-title: "Institutsteam"
+title: "Referenten"
 menu: 
     main:
         parent: "IFGE"
 draft: false
-weight: 1
+weight: 3
 ---
 
-# Team
+# Referenten
+
 Paragraph

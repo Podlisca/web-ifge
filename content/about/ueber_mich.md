@@ -1,6 +1,8 @@
 ﻿---
 title: "Über mich"
-menu: "main"
+menu:
+    main:
+        parent: "IFGE"
 draft: false
 weight: 1
 iws: Hallo2

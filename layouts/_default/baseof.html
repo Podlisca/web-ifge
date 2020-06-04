@@ -22,7 +22,9 @@
     <a href="/index.html">
       <img src="/img/logo.jpg" alt="IFGE Logo" style="height: 100px;"/>
     </a>
-    {{ partial "site-navigation" .}}
+    <div>
+      {{ partial "site-navigation" .}}
+    </div>
   </header>
   <div class="head-filler" style="grid-area: hfill1;"></div>
   <div class="head-filler" style="grid-area: hfill2;"></div>
@@ -37,9 +39,9 @@
 
   {{ partialCached "sidebar.html" . }}
 
-  <section class="contact">
+  {{/*  <section class="contact">
     {{ partialCached "site-contact.html" . }}
-  </section>
+  </section>  */}}
 
   <footer>
     {{ partialCached "site-footer.html" . }}

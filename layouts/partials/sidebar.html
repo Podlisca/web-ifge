@@ -1,11 +1,10 @@
 
 <!-- sidebar start -->
 <aside>
-    Sidebar
     <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
+            {{ if (.HasChildren) and (.Name eq $currentPage.Name)}}
                 <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
                     <a href="#">
                         {{ .Pre }}

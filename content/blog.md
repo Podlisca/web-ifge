@@ -1,9 +1,9 @@
 ﻿---
 title: "BLOG"
-menu: "main"
+menu: "secondary"
 draft: false
-weight: 7
+weight: 2
 ---
 
-# Supervision
+# {{< param title >}}
 Paragraph

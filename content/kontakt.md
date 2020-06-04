@@ -1,9 +1,10 @@
 ﻿---
 title: "Kontakt"
-menu: "main"
+menu: "secondary"
 draft: false
-weight: 8
+weight: 1
 ---
 
-# Supervision
-Paragraph
+# {{< param title >}}
+
+{{< kontakt >}}
