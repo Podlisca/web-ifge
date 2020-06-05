@@ -23,7 +23,7 @@
       <img src="/img/logo.jpg" alt="IFGE Logo" style="height: 100px;"/>
     </a>
     <div>
-      {{ partial "site-navigation" .}}
+      {{ partial "site-navigation" . }}
     </div>
   </header>
   <div class="head-filler" style="grid-area: hfill1;"></div>
@@ -37,38 +37,17 @@
     {{ end }}
   </main>
 
-  {{ partialCached "sidebar.html" . }}
-
+  {{ partial "sidebar.html" . }}
+  
   {{/*  <section class="contact">
     {{ partialCached "site-contact.html" . }}
   </section>  */}}
 
   <footer>
-    {{ partialCached "site-footer.html" . }}
+    {{ partial "site-footer.html" . }}
   </footer>
 
   <script>
-    const header = document.getElementsByTagName("header")[0];
-    let scroll_pos = 0;
-    let toggle = false;
-
-    window.onscroll = function (e) {
-      // called when the window is scrolled.
-      console.log("scroll " + e);
-      scroll_pos = window.scrollY;
-      if (!toggle) {
-        window.requestAnimationFrame(function () {
-          if (scroll_pos > 0) {//header.offsetHeight) {
-            header.classList.add("bg-hidden");
-          }
-          else {
-            header.classList.remove("bg-hidden");
-          }
-          toggle = false;
-        });
-        toggle = true;
-      }
-    }
 
     function myFunction() {
       var x = document.getElementById("myTopnav");
