@@ -35,6 +35,7 @@ body {
 }
 
 main {
+    margin-bottom: 5em;
     /* display: grid;
     grid-template-columns: 1fr minmax(auto, 640px);     */
 }
@@ -79,7 +80,11 @@ header {
     z-index: 999;    
     transition: ease-in-out 400ms;
     color: var(--color-light);    
-    background-color: var(--color-green);    
+    background-color: var(--color-green); 
+
+    font-family: Roboto, sans-serif, "google";
+    font-weight: 400;
+    /* letter-spacing: 2.24px; */
     /* filter: drop-shadow(5px 5px 7px black); */
 }
 header>.fltr {
@@ -200,9 +205,22 @@ img {
 }
 
 figure {
-    margin: 0;
+    margin: 1em;
+    margin-left: 0;
+    float: left;    
 }
 
-figure h4 {
+figure img {
+    max-width: 300px;    
+}
+
+figcaption h4 {
     margin: 5px 0;
+    font-size: 0.9em;
+    /* text-align: center; */
+    color: gray;
+}
+
+hr {
+    clear: both;
 }

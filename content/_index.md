@@ -6,24 +6,19 @@ draft: false
 
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
 
-{{% box %}}
-{{% bside %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
-
-{{% bmain %}}
 * * *
 ## Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
 * * *
 
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
 
 In meinem Institut biete ich zahlreiche  Ausbildungsangebote (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  Selbsterfahrungsangebote (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
 Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für mich – und mein Team – immer an erster Stelle. An allen drei Standorten in Wien, im Burgenland und in Niederösterreich!
-{{% /bmain %}}
-{{% /box %}}
 
 *Silvia Podlisca - Institutsleiterin*
+
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
 * * *
 ## Diplomlehrgang Lebensberatung in Wien, Burgenland & Niederösterreich / Upgrades / Fortbildung / Supervision
@@ -44,6 +39,7 @@ Sie sind noch nicht ganz sicher, ob die Ausbildung zur psychologischen Beratung 
 {{% bside %}}
 
 ### BILDUNGSPHILOSOPIE AM IFGE
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater*innen – psychologischen Berater*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher betrachte ich alle meine Schüler*innen von Anfang an als angehende Kolleg*innen und motiviere sie wertschätzend sowie individuell dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner Referent*innen, ermöglichen neueste Techniken des Unterrichts bei allen Seminaren, Upgrades und Ausbildungen. Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  Silvia Podlisca
 
 {{% /bside %}}
@@ -53,11 +49,8 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 ## Coaching für Führungskräfte 
 * * *
 
+
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am IFGE vertrete ich auch in der Arbeit mit FirmenkundInnen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit Martin Bransky das Unternehmen "Bransky und Podlisca Firmencoaching FCBP" ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden Gründungsprogramm (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten Tagesseminare sowie Workshops zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
 
 * * *
-
-
-{{< buttons>}}    
-
-{{< buttons>}}
