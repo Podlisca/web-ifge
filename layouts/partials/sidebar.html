@@ -1,8 +1,11 @@
 
 <!-- sidebar start -->
 <aside>
+
     <div class="cont">
-        {{ .Title }}
+        
+        {{ partial "breadcrumb" . }}
+        <hr>
         {{ .TableOfContents }}
     </div>
     {{/*  <div>

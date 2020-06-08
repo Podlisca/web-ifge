@@ -1,19 +1,28 @@
 <nav class="topnav" id="myTopnav">
   {{ $currentPage := . }}
   {{ range .Site.Menus.main }}
-    {{ if .HasChildren }}
+    {{ if .HasChildren }}  
+    <div class="navsection {{ if or ($currentPage.HasMenuCurrent "main" . ) ($currentPage.IsMenuCurrent "main" . ) }}active{{ end }}">
       <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
         
         <a href="{{ .URL }}" class="has-dropdown">
           {{ .Name }}
         </a>
-        
+
         <div class="dropdown-content">
           {{ range .Children }}
                 <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
           {{ end }}
         </div>
-      </div>        
+      </div>
+      {{ range .Children }}          
+        {{ if $currentPage.IsMenuCurrent "main" . }}
+          <a href="{{ .URL }}" class="section-site">
+            {{ .Name }}
+          </a>
+        {{ end}}
+      {{ end }}
+    </div>            
     {{ else }}
       <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a> 
     {{ end }}

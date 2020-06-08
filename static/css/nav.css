@@ -1,12 +1,18 @@
+:root {
+  --color-hover-dark: #555;
+  --color-hover-light: #ddd;
+}
+
 /* Add a black background color to the top navigation */
 
 .topnav, .secnav {
   color: white;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   flex-wrap: wrap;
   /* justify-content: flex-end;
   width: 100%; */
+  /* justify-content: space-between; */
 }
 
 /* Style the links inside the navigation bar */
@@ -22,10 +28,11 @@
 
 /* Add an active class to highlight the current page */
 
-.active {
+.dropdown-content a.active {
   /* background-color: #4CAF50;
   color: white; */
-  text-decoration: underline;
+  background-color: var(--color-hover-light);  
+  /* text-decoration: underline; */
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -79,14 +86,14 @@
 /* Add a dark background on topnav links and the dropdown button on hover */
 
 .topnav a:hover, .secnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
+  background-color: var(--color-hover-dark);
   color: white;
 }
 
 /* Add a grey background to dropdown links on hover */
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: var(--color-hover-light);
   color: black;
 }
 
@@ -152,4 +159,25 @@ a.has-dropdown:after {
   font-size: 0.9em;
   padding: 5px;
   padding: 5px 16px;
+}
+
+.navsection {
+  display: flex;
+  flex-direction: column;  
+  /* align-items: flex-start; */
+}
+
+.navsection.active {
+  /* background-color: rgba(255, 255, 255, 0.2); */
+  background: linear-gradient(0deg, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.3) 100%)
+}
+
+.secnav a.active {
+  background: linear-gradient(180deg, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.3) 100%)
+}
+
+.topnav a.section-site {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 0.9em;
 }

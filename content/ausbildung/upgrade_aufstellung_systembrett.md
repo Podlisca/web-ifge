@@ -7,5 +7,5 @@ draft: false
 weight: 4
 ---
 
-# {{< param title >}}
+# {{< section >}} {{< param title >}}
 Paragraph
