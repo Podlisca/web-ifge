@@ -1,5 +1,5 @@
 ﻿---
-title: "Referenten"
+title: "Referenten Ausbildung"
 menu: 
     main:
         parent: "IFGE"
@@ -79,8 +79,8 @@ VIDEO EINFUEGEN!!!
 Tel: 01/9971044-0
 Fax-Dw: -30
 anwalt@peterskolek.at
-***
 
+***
 ### Dr. Susanne Natiesta
 ***
 

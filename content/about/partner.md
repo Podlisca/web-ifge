@@ -12,7 +12,7 @@ weight: 6
 Unsere Partner\*innen sind wichtige Eckpfeiler unseres Erfolges und machen es möglich, dass wir uns auf unsere Kernkompetenzen konzentrieren können.
 
 ***
-### Katrin Pfleger - Grafikterin
+### Katrin Pfleger - Grafikerin
 ***
 
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
