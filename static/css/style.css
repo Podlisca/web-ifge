@@ -8,6 +8,10 @@
     --color-text: #444
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     box-sizing: content-box;
     font-family: Roboto, sans-serif;
@@ -38,7 +42,7 @@ body {
 }
 
 main {
-    margin-bottom: 5em;
+    margin-bottom: 5em;    
     /* display: grid;
     grid-template-columns: 1fr minmax(auto, 640px);     */
 }
@@ -221,6 +225,10 @@ figure {
     margin: 1em;
     margin-left: 0;
     float: left;    
+}
+
+figure img {
+    max-width: 300px;    
 }
 
 figcaption h4 {
