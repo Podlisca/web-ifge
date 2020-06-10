@@ -12,6 +12,12 @@ html {
     scroll-behavior: smooth;
 }
 
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
+
 body {
     box-sizing: content-box;
     font-family: Roboto, sans-serif;
