@@ -25,7 +25,6 @@ jobs:
         # extended: true
     
     - name: Build
-      working-directory: ./hugo
       run: hugo --minify
       env:
         TZ: Europe/Vienna 
