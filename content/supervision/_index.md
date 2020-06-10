@@ -4,7 +4,7 @@ menu:
     main:
         identifier: "supervision"
 draft: false
-weight: 4
+weight: 3
 ---
 
 

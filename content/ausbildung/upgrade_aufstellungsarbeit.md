@@ -2,7 +2,7 @@
 title: "Upgrade Aufstellungsarbeit"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 3
 ---

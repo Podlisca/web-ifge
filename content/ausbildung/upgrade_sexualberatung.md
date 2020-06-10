@@ -2,7 +2,7 @@
 title: "Upgrade Sexualberatung"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 5
 ---

@@ -1,8 +1,8 @@
 ﻿---
 title: "BLOG"
-menu: "secondary"
+menu: main
 draft: false
-weight: 2
+weight: 7
 ---
 
 # {{< param title >}}

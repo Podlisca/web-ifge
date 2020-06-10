@@ -4,7 +4,7 @@ menu:
     main:
         identifier: "psych"
 draft: false
-weight: 3
+weight: 5
 ---
 
 # {{< param title >}}

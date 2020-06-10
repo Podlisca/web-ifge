@@ -1,8 +1,8 @@
 ﻿---
 title: "Kontakt"
-menu: "secondary"
+menu: main
 draft: false
-weight: 1
+weight: 8
 ---
 
 # {{< param title >}}

@@ -2,7 +2,7 @@
 title: "Dipl. Lebensberatung - psychologische Beratung"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 1
 ---

@@ -2,7 +2,7 @@
 title: "Upgrade Aufstellung Systembrett"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 4
 ---

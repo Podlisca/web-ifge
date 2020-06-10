@@ -2,7 +2,7 @@
 title: "Ausbildung Vertrauenslehrer"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 8
 ---

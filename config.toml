@@ -9,3 +9,11 @@ unsafe = true
 
 [params]
 SiteDescription = "Beschreibung auf Site-Ebene als Fallback der einzelnen Pages"
+
+[menu]
+
+    [[menu.main]]
+        identifier = "ausb"
+        name = "Ausbildungen"        
+        url = "/about.html"
+        weight = 2

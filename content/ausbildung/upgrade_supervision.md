@@ -2,7 +2,7 @@
 title: "Upgrade Supervision"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 2
 ---

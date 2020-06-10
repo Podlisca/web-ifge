@@ -2,7 +2,7 @@
 title: "Weiterbildung historische & politische Aspekte"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 9
 ---

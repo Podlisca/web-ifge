@@ -1,8 +1,8 @@
 ﻿---
 title: "Anmeldung"
-menu: "secondary"
+menu: "main"
 draft: false
-weight: 3
+weight: 6
 ---
 
 # {{< param title >}}

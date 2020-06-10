@@ -2,7 +2,7 @@
   {{ $currentPage := . }}
   {{ range .Site.Menus.main }}
     {{ if .HasChildren }}  
-    <div class="navsection {{ if or ($currentPage.HasMenuCurrent "main" . ) ($currentPage.IsMenuCurrent "main" . ) }}active{{ end }}">
+      
       <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
         
         <a href="{{ .URL }}" class="has-dropdown">
@@ -11,28 +11,31 @@
 
         <div class="dropdown-content">
           {{ range .Children }}
-                <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                
+            {{ if .HasChildren }}
+              <div class="dropdown2 {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+          
+                <a href="{{ .URL }}" class="has-dropside">
+                  {{ .Name }}
+                </a>
+        
+                <div class="dropdown2-content">
+                  {{ range .Children }}
+                    <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>    
+                  {{ end }}
+                </div>
+              </div>
+            {{ else }}
+              <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+
           {{ end }}
         </div>
       </div>
-      {{ range .Children }}          
-        {{ if $currentPage.IsMenuCurrent "main" . }}
-          <a href="{{ .URL }}" class="section-site">
-            {{ .Name }}
-          </a>
-        {{ end}}
-      {{ end }}
-    </div>            
     {{ else }}
       <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a> 
     {{ end }}
   {{ end }}
 
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>    
-</nav>
-
-<nav class="secnav">
-  {{ range .Site.Menus.secondary }}
-  <a class="{{ if $currentPage.IsMenuCurrent "secondary" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a> 
-  {{ end }}
 </nav>

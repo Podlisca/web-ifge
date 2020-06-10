@@ -1,6 +1,8 @@
 ﻿---
-title: "Ausbildungen"
-menu: "main"
+title: "LSB"
+menu: 
+    main:
+        parent: ausb
 draft: false
 weight: 2
 iws: Hallo2

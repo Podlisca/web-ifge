@@ -2,7 +2,7 @@
 title: "Weiterbildung psych. Teambuilding"
 menu: 
     main:
-        parent: "Ausbildungen"
+        parent: ausb
 draft: false
 weight: 7
 ---
