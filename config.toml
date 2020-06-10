@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "de"
 title = "IFGE"
 author = "Leichtware GmbH"
-uglyurls = false
+uglyurls = true
 
 [markup.goldmark.renderer]
 unsafe = true
