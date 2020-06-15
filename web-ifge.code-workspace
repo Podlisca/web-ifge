@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../../../Volumes/openhab/conf"
+		},
+		{
+			"path": "../web-natiesta/hugo"
 		}
 	],
 	"settings": {}
