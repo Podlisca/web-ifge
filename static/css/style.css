@@ -215,16 +215,18 @@ img {
     display: flex;
     flex-wrap: wrap;
     /* justify-content: flex-end; */
-    align-items: stretch;    
+    align-items: center;    
 }
 
 .box > * {
     flex-basis: 0;
     flex-grow: 1;
+    padding: 1em;
 }
 
 .box.blue {
     background-color: var(--color-blue);
+    align-items: stretch;
 }
 
 .box .large {
@@ -240,12 +242,12 @@ img {
 
 figure {
     margin: 1em;
-    margin-left: 0;
+    /* margin-left: 0; */
     /* float: left;     */
 }
 
 figure img {
-    max-width: 280px;    
+    /* max-width: 280px;     */
 }
 
 figcaption h4 {

@@ -10,14 +10,19 @@ draft: false
 
 {{< slogan >}}
 
+{{% box %}}
+{{% small  %}}
 {{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-
+{{% /small  %}}
+{{% large %}}
 In meinem Institut biete ich zahlreiche  Ausbildungsangebote (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  Selbsterfahrungsangebote (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
 Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für mich – und mein Team – immer an erster Stelle. An allen drei Standorten in Wien, im Burgenland und in Niederösterreich!
 
 *Silvia Podlisca - Institutsleiterin*
 
+{{% /large %}}
+{{% /box %}}
 
 {{< line icon="pencil.svg" >}}
 ### Diplomlehrgang Lebensberatung in Wien, Burgenland & Niederösterreich / Upgrades / Fortbildung / Supervision
@@ -26,13 +31,32 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 {{% box blue=1 %}}
 {{% small  %}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 
 {{% large  %}}
 #### QUALITÄTSAUSBILDUNGEN IFGE
 Wien – Burgenland – Niederösterreich: Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen WKO zertifizierten Diplomlehrgänge zur Lebens- und Sozialberatung, die einmal wöchentlich berufsbegleitend stattfinden (montags, dienstags, donnerstags und freitags von 14.00 bis 20.00 Uhr, samstags von 10.00 bis 16.00 Uhr, mittwochs von 9:00 bis 15:00 Uhr). Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie Supervision und Aufstellungsarbeit) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert*innen- und Referent*innen-Team verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. Weitere Infos
 {{% /large  %}}
+{{% /box %}}
 
+{{% box align-items="flex-start" %}}
+{{% large  %}}
+#### QUALITÄTSAUSBILDUNGEN IFGE
+Wien – Burgenland – Niederösterreich: Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen WKO zertifizierten Diplomlehrgänge zur Lebens- und Sozialberatung, die einmal wöchentlich berufsbegleitend stattfinden (montags, dienstags, donnerstags und freitags von 14.00 bis 20.00 Uhr, samstags von 10.00 bis 16.00 Uhr, mittwochs von 9:00 bis 15:00 Uhr). Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie Supervision und Aufstellungsarbeit) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert*innen- und Referent*innen-Team verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. Weitere Infos
+{{% /large  %}}
+
+{{% small  %}}
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
+{{% /box %}}
+
+{{% box blue=1 %}}
+{{< card title="Titel1" text="Irgendwas asdkaösldk öalskd" >}}
+{{< card icon="pencil" title="Titel2" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
+{{< card icon="pencil" title="Titel3" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
 {{% /box %}}
 
 {{% box %}}
@@ -67,11 +91,6 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 
 * * *
 
-{{% box blue=1 %}}
-{{< card title="Titel" text="Irgendwas asdkaösldk öalskd" >}}
-{{< card icon="pencil" title="Titel2" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
-{{% /box %}}
-
 {{% box %}}
 {{% small  %}}
 #### SILVIA PODLISCA 
@@ -94,7 +113,7 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 ## Unsere Ausbildungen im Überblick
 * * *
 
-{{% box flex-start %}}
+{{% box align-items="flex-start" %}}
 {{% small  %}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
 * Lebens- und Sozialberatung - psychologische Beratung
