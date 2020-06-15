@@ -4,8 +4,6 @@ description: "Eine Super Beschreibung der Seite"
 draft: false
 ---
 
-{{< line "?" >}}
-
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
@@ -52,6 +50,8 @@ Wien – Burgenland – Niederösterreich: Am renommierten Ausbildungsinstitut I
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
+
+{{< line i >}}
 
 {{% box blue=1 %}}
 {{< card title="Titel1" text="Irgendwas asdkaösldk öalskd" >}}
