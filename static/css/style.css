@@ -230,7 +230,7 @@ img {
 .box .large {
     max-width: 640px;
     flex-shrink: 0;
-    flex-grow: 1;
+    flex-grow: 2;
 }
 .box .small {
     padding: 0 1em;
@@ -241,7 +241,7 @@ img {
 figure {
     margin: 1em;
     margin-left: 0;
-    float: left;    
+    /* float: left;     */
 }
 
 figure img {
@@ -253,10 +253,6 @@ figcaption h4 {
     font-size: 0.9em;
     text-align: center;
     color: gray;
-}
-
-hr {
-    clear: both;
 }
 
 h1, h2 {
@@ -320,4 +316,23 @@ main ul li:nth-child(even) {
 
 .card a::after {
     content: "\003e";
+}
+
+.line {
+    position: relative;
+    margin: 20px 0;
+}
+
+.line hr {
+    margin: 0;
+}
+
+.line img {
+    height: 1em;
+    fill: var(--color-green);
+    position: absolute;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    padding: 15px;
+    background: #fff;
 }
