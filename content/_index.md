@@ -4,7 +4,7 @@ description: "Eine Super Beschreibung der Seite"
 draft: false
 ---
 
-{{< line icon="pencil" >}}
+{{< line "?" >}}
 
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
 
@@ -19,7 +19,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 *Silvia Podlisca - Institutsleiterin*
 
 
-{{< line icon="icon" >}}
+{{< line icon="pencil.svg" >}}
 ### Diplomlehrgang Lebensberatung in Wien, Burgenland & Niederösterreich / Upgrades / Fortbildung / Supervision
 * * *
 

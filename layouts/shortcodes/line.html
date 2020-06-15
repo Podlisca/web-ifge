@@ -1,4 +1,6 @@
 <div class="line">
     <hr/>
-    <img src="img/{{ .Get "icon" }}.svg"/>
+    <div>
+{{ if .Get "icon" }} <img src="img/{{ .Get "icon" }}"/> {{ else }} {{ .Get 0 }} {{ end }}
+    </div>
 </div>

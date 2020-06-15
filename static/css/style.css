@@ -251,7 +251,7 @@ figure img {
 figcaption h4 {
     margin: 5px 0;
     font-size: 0.9em;
-    text-align: center;
+    /* text-align: center; */
     color: gray;
 }
 
@@ -329,10 +329,15 @@ main ul li:nth-child(even) {
 
 .line img {
     height: 1em;
-    fill: var(--color-green);
+}
+
+.line div {
+    color: var(--color-green);
+    font-weight: bold;
+    font-size: 2em;
     position: absolute;
     left: 50%;
     transform: translateY(-50%) translateX(-50%);
-    padding: 15px;
+    padding: 0 15px;
     background: #fff;
 }
