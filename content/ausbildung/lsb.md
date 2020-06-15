@@ -147,7 +147,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, 
 ***
 
 {{% box %}}
-{{% bside %}}
+{{% small  %}}
 ***
 #### ERÖFFNUNGSANGEBOT FÜR alle Standorte
 ****
@@ -159,9 +159,9 @@ Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, 
 
 GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware) 
 
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 ***
 #### ERÖFFNUNGSANGEBOT FÜR ST. PÖLTEN
 ***
@@ -175,7 +175,7 @@ GESAMTKOSTEN € 9.200,- (mit IFGE Schulungssoftware)
 
 * IFGE Schulungssoftware kostenlos (Warenwert € 180,-) egal für welche Zahlungsvariante Sie sich entscheiden.
 
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}
 
 ***
@@ -296,25 +296,25 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 Hier finden Sie ausführliche Informationen über:
 
 {{% box %}}
-{{% bside %}}
+{{% small  %}}
 #### PSYCHOLOGISCHE BERATUNG - EINZEL
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### PSYCHOLOGISCHE BERATUNG - PAAR
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### SYSTEMISCHE BERATUNG - EINZEL
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### FAMILIENAUFSTELLUNG IN DER GRUPPE
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
 {{% /box %}}
 
@@ -322,7 +322,7 @@ Hier finden Sie ausführliche Informationen über:
 # Spezialisierungen
 
 {{% box %}}
-{{% bside %}}
+{{% small  %}}
 #### KRISE/SUCHT/BURN-OUT
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
@@ -332,9 +332,9 @@ Hier finden Sie vertiefende Informationen über:
 * Suchtberatung
 * Burn-out Beratung
 
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### SEXUALBERATUNG
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
@@ -347,9 +347,9 @@ Hier finden Sie vertiefende Informationen über:
 * Gesunder Perversion
 * Stalking
 
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### TÄTER / OPFER / GEWALT
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
@@ -360,9 +360,9 @@ Hier finden Sie vertiefende Informationen über:
 * Opferberatung
 * Männliche Opfer
 * Häusliche Gewalt
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### BERATUNG ANGEHÖRIGE
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
@@ -373,5 +373,5 @@ Hier finden Sie vertiefende Informationen über:
 * Angehörige von Süchtigen
 * Suizid in der Familie
 
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}

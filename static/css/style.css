@@ -4,6 +4,7 @@
     --color-gray: #969696;
     --color-lightgray: #eee;
     --color-creme: #f8eada;
+    --color-blue: #e6f4f4;
     --padding-main: 1em;
     --color-text: #444
 }
@@ -212,16 +213,26 @@ img {
 
 .box {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     /* justify-content: flex-end; */
-    align-items: flex-start;
+    align-items: stretch;    
 }
 
-.box .main {
+.box > * {
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.box.blue {
+    background-color: var(--color-blue);
+}
+
+.box .large {
     max-width: 640px;
     flex-shrink: 0;
+    flex-grow: 1;
 }
-.box .side {
+.box .small {
     padding: 0 1em;
     flex-basis: 0;
     flex-grow: 1;
@@ -234,7 +245,7 @@ figure {
 }
 
 figure img {
-    max-width: 300px;    
+    max-width: 280px;    
 }
 
 figcaption h4 {
@@ -280,4 +291,33 @@ main ul li:nth-child(even) {
 
 .red {
     color: var(--color-red);
+}
+
+.card {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card > * {
+    padding: 0.5em;
+}
+
+.card .icon img {
+    height: 3em;
+}
+
+.card .title {
+    text-transform: uppercase;
+    color: var(--color-green);
+}
+
+.card .text {
+    flex-grow: 2;
+}
+
+.card a::after {
+    content: "\003e";
 }

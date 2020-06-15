@@ -45,20 +45,20 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 * * *
 
 {{% box flex-start %}}
-{{% bside %}}
+{{% small  %}}
 #### SILVIA PODLISCA 
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### REFERENT\*INNEN DES IFGE
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### IMPRESSIONEN IFGE  
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}
 
 * * *
@@ -66,14 +66,14 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 * * *
 
 {{% box flex-start %}}
-{{% bside %}}
+{{% small  %}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
 * Lebens- und Sozialberatung - psychologische Beratung
 * LSB Upgrade: Supervision
 * LSB Upgrade: Aufstellungsarbeit
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### AUS- UND WEITERBILDUNGEN
 * Psychologisches Teambuilding
@@ -82,16 +82,16 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 * Historische & politische Aspekte in der Beratung
 * Klangschalenmassage
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### TIERGESTÜTZTE AUSBILDUNGEN
 * Tiergestützte psychologische Beratung
 * Erste Hilfe für Katzen
 * Erste Hilfe für Hunde
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### ONLINE AUSBILDUNGEN & TRAININGS
 * Grundlagen in der Onlineberatung & Onlinecoaching
@@ -104,6 +104,6 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 * „Zeig’ dich!“: Praxis von Anfang an professionell gründen
 * Planspiel Praxisaufbau
 
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}
 

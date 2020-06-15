@@ -13,11 +13,11 @@ iws: Hallo2
 ## Wien - Burgenland - Niederösterreich
 
 {{% box %}}
-{{% bside %}}
+{{% small  %}}
 
 {{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
-{{% bmain %}}
+{{% /small  %}}
+{{% large  %}}
 * * *
 ## Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
 * * *
@@ -35,11 +35,11 @@ In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
 an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schüler*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen. Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Schüler*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt.
 
 Silvia Podlisca
-{{% /bmain %}}
+{{% /large  %}}
 {{% /box %}}
 
 {{% box %}}
-{{% bmain %}}
+{{% large  %}}
 
 * * *
 ## Lehrgang zur Lebens- und Sozialberatung
@@ -47,7 +47,7 @@ Silvia Podlisca
 
 Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschätzenden und offenen Umgebung - an 3 Standorten (Wien, Burgenland und Niederösterreich) - lernen können, in der auf die Stärken jedes Einzelnen Rücksicht genommen und jede/r individuell gefördert wird. Die gesammelte Kompetenz eines breiten Referentenpools vermittelt Wissen am IFGE spannend, tiefgreifend und praxisorientiert, sodass sich Fachwissen, Auftreten und praktische Erfahrung letztlich intensiv festigen. Damit ermögliche ich es, dass IFGE-Absolvent*innen nicht nur fachlich auf höchstem Niveau ausgebildet sind, sondern von meinem erfahrenen, kompetenten Expertenteam auch jene Handwerkzeuge mitbekommen, die für den erfolgreichen Start in der Lebens- und Sozialberatung – psychologische Beratung – oder Supervision notwendig sind.
 
-{{% /bmain %}}
+{{% /large  %}}
 {{% /box %}}
 
 * * *
@@ -55,14 +55,14 @@ Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschät
 * * *
 
 {{% box flex-start %}}
-{{% bside %}}
+{{% small  %}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
 * Lebens- und Sozialberatung - psychologische Beratung
 * LSB Upgrade: Supervision
 * LSB Upgrade: Aufstellungsarbeit
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### AUS- UND WEITERBILDUNGEN
 * Psychologisches Teambuilding
@@ -71,16 +71,16 @@ Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschät
 * Historische & politische Aspekte in der Beratung
 * Klangschalenmassage
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### TIERGESTÜTZTE AUSBILDUNGEN
 * Tiergestützte psychologische Beratung
 * Erste Hilfe für Katzen
 * Erste Hilfe für Hunde
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### ONLINE AUSBILDUNGEN & TRAININGS
 * Grundlagen in der Onlineberatung & Onlinecoaching
@@ -93,5 +93,5 @@ Für Schüler*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschät
 * „Zeig’ dich!“: Praxis von Anfang an professionell gründen
 * Planspiel Praxisaufbau
 
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}

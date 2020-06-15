@@ -1,0 +1,10 @@
+<div class="card">
+    <div class="icon">
+        <img src="img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon{{ end}}.svg "/>
+    </div>
+{{ with .Get "title" }} <div class="title">{{.}}</div>{{ end }}
+{{ with .Get "text" }} <div class="text">{{.}}</div>{{ end }}
+    <div>
+        <a href="#">Link</a>
+    </div>
+</div>

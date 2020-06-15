@@ -12,7 +12,7 @@
 
   <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
   <link rel="shortcut icon" href="/img/favicon.png">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> -->
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="/css/nav.css">  
 </head>
@@ -24,8 +24,7 @@
       <img src="/img/logo.jpg" alt="IFGE Logo" style="height: 100px;"/>
     </a>
     <div>
-      {{/*  {{ partial "site-navigation" . }}  */}}
-      <lw-navbar>asd</lw-navbar>
+      {{ partial "site-navigation" . }}      
     </div>
   </header>
   <div class="head-filler" style="grid-area: hfill1;"></div>

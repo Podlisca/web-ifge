@@ -6,9 +6,7 @@ draft: false
 
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
 
-* * *
-### Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
-* * *
+{{< slogan >}}
 
 {{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
 
@@ -19,31 +17,42 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 *Silvia Podlisca - Institutsleiterin*
 
 
-* * *
+{{< line >}}
 ### Diplomlehrgang Lebensberatung in Wien, Burgenland & Niederösterreich / Upgrades / Fortbildung / Supervision
 * * *
 
-{{% box flex-start %}}
-{{% bside %}}
+{{% box blue=1 %}}
+{{% small  %}}
+{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
+
+{{% large  %}}
 #### QUALITÄTSAUSBILDUNGEN IFGE
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 Wien – Burgenland – Niederösterreich: Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen WKO zertifizierten Diplomlehrgänge zur Lebens- und Sozialberatung, die einmal wöchentlich berufsbegleitend stattfinden (montags, dienstags, donnerstags und freitags von 14.00 bis 20.00 Uhr, samstags von 10.00 bis 16.00 Uhr, mittwochs von 9:00 bis 15:00 Uhr). Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie Supervision und Aufstellungsarbeit) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert*innen- und Referent*innen-Team verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. Weitere Infos
+{{% /large  %}}
 
-{{% /bside %}}
-{{% bside %}}
+{{% /box %}}
 
-#### BERUFSBILD - LEBENSBERATUNG
+{{% box %}}
+{{% small  %}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
+{{% large  %}}
+#### BERUFSBILD - LEBENSBERATUNG
 Sie sind noch nicht ganz sicher, ob die Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: Hier können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's hier.
 
-{{% /bside %}}
-{{% bside %}}
+{{% /large  %}}
+{{% /box %}}
 
-#### BILDUNGSPHILOSOPIE AM IFGE
+{{% box %}}
+{{% large %}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater*innen – psychologischen Berater*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher betrachte ich alle meine Schüler*innen von Anfang an als angehende Kolleg*innen und motiviere sie wertschätzend sowie individuell dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner Referent*innen, ermöglichen neueste Techniken des Unterrichts bei allen Seminaren, Upgrades und Ausbildungen. Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  Silvia Podlisca
+{{% /large %}}
 
-{{% /bside %}}
+{{% small  %}}
+#### BILDUNGSPHILOSOPIE AM IFGE
+Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater*innen – psychologischen Berater*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher betrachte ich alle meine Schüler*innen von Anfang an als angehende Kolleg*innen und motiviere sie wertschätzend sowie individuell dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner Referent*innen, ermöglichen neueste Techniken des Unterrichts bei allen Seminaren, Upgrades und Ausbildungen. Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  Silvia Podlisca
+{{% /small  %}}
 {{% /box %}}
 
 * * *
@@ -56,36 +65,42 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 
 * * *
 
-{{% box flex-start %}}
-{{% bside %}}
+{{% box blue=1 %}}
+{{< card title="Titel" text="Irgendwas asdkaösldk öalskd" >}}
+{{< card icon="pencil" title="Titel2" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
+{{% /box %}}
+
+{{% box %}}
+{{% small  %}}
 #### SILVIA PODLISCA 
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### REFERENT\*INNEN DES IFGE
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 
-{{% bside %}}
+{{% small  %}}
 #### IMPRESSIONEN IFGE  
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}
+
 
 * * *
 ## Unsere Ausbildungen im Überblick
 * * *
 
 {{% box flex-start %}}
-{{% bside %}}
+{{% small  %}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
 * Lebens- und Sozialberatung - psychologische Beratung
 * LSB Upgrade: Supervision
 * LSB Upgrade: Aufstellungsarbeit
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### AUS- UND WEITERBILDUNGEN
 * Psychologisches Teambuilding
@@ -94,16 +109,16 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 * Historische & politische Aspekte in der Beratung
 * Klangschalenmassage
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### TIERGESTÜTZTE AUSBILDUNGEN
 * Tiergestützte psychologische Beratung
 * Erste Hilfe für Katzen
 * Erste Hilfe für Hunde
 
-{{% /bside %}}
-{{% bside %}}
+{{% /small  %}}
+{{% small  %}}
 
 ### ONLINE AUSBILDUNGEN & TRAININGS
 * Grundlagen in der Onlineberatung & Onlinecoaching
@@ -116,6 +131,5 @@ Meine Philosophie hinsichtlich der Ausbildungs- und Selbsterfahrungsangebote am 
 * „Zeig’ dich!“: Praxis von Anfang an professionell gründen
 * Planspiel Praxisaufbau
 
-{{% /bside %}}
+{{% /small  %}}
 {{% /box %}}
-
