@@ -1,10 +1,12 @@
 <div class="card">
     <div class="icon">
-        <img src="img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon{{ end}}.svg "/>
+        <img src="img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon.svg{{ end}}"/>
     </div>
 {{ with .Get "title" }} <div class="title">{{.}}</div>{{ end }}
 {{ with .Get "text" }} <div class="text">{{.}}</div>{{ end }}
-    <div>
-        <a href="#">Link</a>
-    </div>
+<div class="link">
+    <a href="#">
+        <img src="img/noun_Arrow_5440-3.png" alt="arrow-right"/>
+    </a>
+</div>
 </div>

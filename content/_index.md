@@ -22,7 +22,18 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 {{% /large %}}
 {{% /box %}}
 
-{{< line icon="pencil.svg" >}}
+{{< line icon="noun_Information_478770-2.png" >}}
+
+{{% box blue=1 %}}
+{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
+{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
+{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
+{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
+{{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
+{{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
+{{% /box %}}
+
+{{< line icon="noun_Quote_1332053-2.png" >}}
 ### Diplomlehrgang Lebensberatung in Wien, Burgenland & Niederösterreich / Upgrades / Fortbildung / Supervision
 * * *
 
@@ -51,12 +62,12 @@ Wien – Burgenland – Niederösterreich: Am renommierten Ausbildungsinstitut I
 {{% /small  %}}
 {{% /box %}}
 
-{{< line i >}}
+{{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 %}}
 {{< card title="Titel1" text="Irgendwas asdkaösldk öalskd" >}}
-{{< card icon="pencil" title="Titel2" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
-{{< card icon="pencil" title="Titel3" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
+{{< card icon="pencil.svg" title="Titel2" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
+{{< card icon="pencil.svg" title="Titel3" text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." >}}
 {{% /box %}}
 
 {{% box %}}

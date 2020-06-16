@@ -9,6 +9,8 @@
     --color-text: #444
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
 html {
     scroll-behavior: smooth;
 }
@@ -21,7 +23,10 @@ html {
 
 body {
     box-sizing: content-box;
-    font-family: Roboto, sans-serif;
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-style: normal;
     
     color: var(--color-text);
 
@@ -79,7 +84,7 @@ main {
         display: none;
     }
 
-    .box {
+    .box:not(.blue) {
         flex-direction: column;
     }
 }
@@ -96,7 +101,6 @@ header {
     color: var(--color-light);    
     background-color: var(--color-green); 
 
-    font-family: Roboto, sans-serif, "google";
     font-weight: 400;
     /* letter-spacing: 2.24px; */
     /* filter: drop-shadow(5px 5px 7px black); */
@@ -316,13 +320,17 @@ main ul li:nth-child(even) {
     flex-grow: 2;
 }
 
-.card a::after {
-    content: "\003e";
+.card .link img {
+    height: 3em;
 }
+
+/* .card a::after {
+    content: "\003e";
+} */
 
 .line {
     position: relative;
-    margin: 22px 0;
+    margin: 50px 0;
 }
 
 .line hr {
@@ -330,7 +338,7 @@ main ul li:nth-child(even) {
 }
 
 .line img {
-    height: 1em;
+    height: 3em;
 }
 
 .line div {
