@@ -3,13 +3,14 @@ title: "LSB Upgrade Supervisionslehrgang"
 menu: 
     main:
         parent: ausb
-        identifier: supervision
+        identifier: upgrade_supervision
 draft: false
 weight: 2
 ---
 
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
+
 
 ***
 
@@ -50,7 +51,7 @@ Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderu
 
 ## WAS BIETET UNSER LEHRGANG?
 
-Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
+Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer\*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
 
 Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere durch praktische Übungssequenzen ausgebaut und gestärkt. Häufige Themen und Fragestellungen in der Supervision werden erarbeitet, um angehende Kolleg*innen sicher und kompetent begleiten und unterstützen zu können.
 
@@ -68,9 +69,6 @@ Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere 
 
 {{% small  %}}
 #### Gruppensupervision
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 

@@ -2,7 +2,8 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: supervision
+        parent: upgrade_supervision
+        identifier: supervision_rechtliches
 draft: false
 weight: 4
 ---

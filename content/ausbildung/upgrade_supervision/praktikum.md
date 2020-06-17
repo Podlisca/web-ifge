@@ -2,7 +2,8 @@
 title: "Praktikum"
 menu: 
     main:
-        parent: supervision
+        parent: upgrade_supervision
+        identifier: supervision_praktikum
 draft: false
 weight: 5
 ---

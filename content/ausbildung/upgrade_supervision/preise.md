@@ -2,7 +2,8 @@
 title: "Preise"
 menu: 
     main:
-        parent: supervision
+        parent: upgrade_supervision
+        identifier: supervision_preise
 draft: false
 weight: 2
 ---

@@ -2,7 +2,8 @@
 title: "Termine"
 menu: 
     main:
-        parent: supervision
+        parent: upgrade_supervision
+        identifier: supervision_termine
 draft: false
 weight: 3
 ---
@@ -50,19 +51,18 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{< figure src="/img/img2.jpg">}}
 
 #### Termine folgen
-
+{{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
 {{< figure src="/img/img2.jpg">}}
 
 #### Termine folgen
-
+{{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
 {{< figure src="/img/img2.jpg">}}
 
-## St. Pölten
 #### Start: 18. September 2021
 
 Samstag und Sonntag von 09:00 bis 18:00 Uhr
@@ -78,7 +78,6 @@ Modul 6: 19.02. und 20.02. 2022
 Prüfung: 02.04. 2022
 
 Anmeldung
-
 
 {{% /small  %}}
 
