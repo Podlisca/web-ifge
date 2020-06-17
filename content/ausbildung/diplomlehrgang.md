@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
 draft: false
-weight: 1
+weight: 8
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
@@ -43,18 +43,20 @@ Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung
 
 ***
 
-## Alle Informationen über den Lehrgang am IFGE
+## WAS BEDEUTET SUPERVISION?
 
-{{% box align-items="flex-start" %}}
-{{% large  %}}
+Im Rahmen der Supervision geht es nicht um die Selbsterfahrung der Supervisanden, sondern um deren Unterstützung als angehende Lebens- und Sozialberater*innen. Supervision wird sowohl von Einzelpersonen als auch Teams und Gruppen genützt, um Methoden sowie Handlungsmöglichkeiten im beruflichen Kontext zu reflektieren, um im Anschluss Klient*innen professioneller beraten zu können.
 
-Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem erfahrenen Referententeam vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung, Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen.
+Der/die Supervisor*in unterstützt beratend bei allen beruflichen Herausforderungen, um einen konstruktiven Umgang mit Problemen zu ermöglichen sowie positive Veränderungsprozesse einzuleiten. Durch gezielte Fragen des/r Supervisor*in und die externe Sichtweise werden neue Denkansätze und alternative Lösungen möglich.
 
-Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. Durch kleine Gruppen und  ausgewählte Referent*innen wird dadurch jedem/jeder einzelnen Teilnehmer*in viel Raum zum Üben und Ausprobieren des Erlernten gegeben. Die individuellen Stärken des/der Teilnehmer*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
+***
 
-Die Themen, mit denen zukünftige Klient*innen zu Lebens- und Sozialberater*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
+## WAS BIETET UNSER LEHRGANG?
 
-{{% /large  %}}
+Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
+
+Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere durch praktische Übungssequenzen ausgebaut und gestärkt. Häufige Themen und Fragestellungen in der Supervision werden erarbeitet, um angehende Kolleg*innen sicher und kompetent begleiten und unterstützen zu können.
+
 
 {{% small  %}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}

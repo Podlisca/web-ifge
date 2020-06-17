@@ -1,0 +1,109 @@
+﻿---
+title: "Kursaufbau"
+menu: 
+    main:
+        parent: supervision
+draft: false
+weight: 1
+---
+
+# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+{{< slogan >}}
+
+{{< line icon="noun_Information_478770-2.png" >}}
+
+AUFBAU DES LEHRGANGS SUPERVISION
+100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+#### Modul 1
+
+* Grundlagen der Lehrsupervision: Begriff, Abgrenzung und Geschichte
+* Supervision bzw. Helfen als Beruf
+* Anwendung und Formen
+* Ablauf bzw. Idealprozess
+* Häufige Themen
+* Modalitäten und Settings
+* Rolle Supervisor und Supervisand
+* Supervision und Organisationsberatung
+* Übertragung und Gegenübertragung
+* Lern- und Lehrsupervision
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Modul 2
+
+* Verschiedene Methoden der Supervision
+* Ressourcenorientierter Ansatz
+* Mehrpersonen-Setting
+* Team- und Organisationsberatung
+* Sexuelle Spannungen in Teams
+* Gruppen- und Teamsupervision
+* Lösungswege aus Teamkrisen
+* Hypnosystemische Beratung & Supervision
+* Lern- und Lehrsupervision
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Modul 3
+
+
+* Die dialogische Struktur des Selbst
+* Systemische Supervision
+* Hypnosystemische Supervision
+* Mehrere Systeme in der Supervision
+* Perspektivenwechsel und Metasicht
+* Arbeit mit Time-Lines
+* Supervision und Organisationsberatung
+* Lern- und Lehrsupervision
+
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Modul 4
+
+* Umgang mit Konflikten
+* Supervision und Organisationsberatung
+* Prüfungsvorbereitung
+* Arbeiten mit Teams
+* Mehrpersonen-Setting
+* Lern- und Lehrsupervision
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Modul 5
+* Tipps für die Arbeit mit dem Kräftefeld eines Systems
+* Spezialthemen (Sucht, Psychische Krankheiten)
+* Rechtliche Rahmenbedingungen und ethische Aspekte
+* Supervision und Organisationsberatung
+* Abschlussprüfung
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Modul 6
+
+* Seit 2019 teilt sich der Lehrstoff auf 6 Module + einen Prüfungstag auf. 
+
+{{% /small  %}}
+
+{{% /box %}}
+
+## PRÜFUNG
+
+Der Lehrgang schließt mit einer Abschlussprüfung  sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+
+## Leitung
+
+* Silvia Podlisca
+* Dr. Dieter Schmutzer
+
+
+

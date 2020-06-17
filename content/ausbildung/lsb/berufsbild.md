@@ -38,7 +38,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 ***
 
-Hier finden Sie ausführliche Informationen über:
+## Hier finden Sie ausführliche Informationen über:
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}

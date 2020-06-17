@@ -5,8 +5,8 @@ menu:
         parent: ausb
         identifier: lsb
 draft: false
-weight: 2
-iws: Hallo2
+weight: 1
+
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
