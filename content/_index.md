@@ -3,10 +3,11 @@ title: "Startseite"
 description: "Eine Super Beschreibung der Seite"
 draft: false
 ---
-
+***
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
+***
 
 {{% box %}}
 {{% small  %}}
