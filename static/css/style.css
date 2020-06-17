@@ -11,6 +11,22 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
 
+@font-face {
+    font-family: 'dhanikans_signature_2regular';
+    src: url('dhanikans_signature_2_dafont-webfont.woff2') format('woff2'),
+         url('dhanikans_signature_2_dafont-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dhanikans_signature_italicIt';
+    src: url('dhanikans_signature_italic_dafont-webfont.woff2') format('woff2'),
+         url('dhanikans_signature_italic_dafont-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -261,8 +277,16 @@ figcaption h4 {
     color: gray;
 }
 
-h1, h2 {
+h1 {
     text-align: center;
+    text-transform: uppercase;
+    color: var(--color-red);
+    font-size: 26px;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
     color: var(--color-red);
 }
 
@@ -291,8 +315,9 @@ main ul li:nth-child(even) {
     list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAAEhcmxxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAC/SURBVChTdZLREcIgDIYdwWeFqyM4giM4giM4Qp8b7nhRGKMjOEJHcARHqPnTUKjgd9de8icpf4FdjY1uLl6iUI9k4mCUng0m0Hut2OBeEjDHSBceu0mCeQkYFLroT5pmDo/hbCJ9JNHxGU/n/V5EUK6Boobs5OmuGm6axKKG9URaQ6UaLk42DHdJYFEmksDAKWyjUaXMb3OJ1LC7JU1RadbyT9CYthXaYqn9oYp1gPeteTb/wNGY6DwcLFeB+i++J3M0Peun0wAAAABJRU5ErkJggg==);
 }
 
-.red {
+.ifge-char {
     color: var(--color-red);
+    font-family: "dhanikans_signature_2regular";
 }
 
 .card {

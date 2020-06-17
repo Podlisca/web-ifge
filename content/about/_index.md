@@ -6,7 +6,7 @@ draft: false
 weight: 1
 ---
 
-# Übers das IFGE Wien - Burgenland - Niederösterreich
+{{< slogan >}}
 
 ***
 ### Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
