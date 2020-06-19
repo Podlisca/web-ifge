@@ -2,13 +2,13 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: upgrade_supervision
-        identifier: supervision_rechtliches
+        parent: upgrade_sexualberatung
+        identifier: sexualberatung_rechtliches
 draft: false
 weight: 4
 ---
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# Ausbildung: Sexualberatung / Paarberatung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

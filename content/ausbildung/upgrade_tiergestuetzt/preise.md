@@ -2,13 +2,13 @@
 title: "Preise"
 menu: 
     main:
-        parent: upgrade_supervision
-        identifier: supervision_preise
+        parent: upgrade_tiergestuetzt
+        identifier: tiergestuetzt_preise
 draft: false
 weight: 2
 ---
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -23,13 +23,12 @@ weight: 2
 
 ***
 
-## Kosten
+## Kosten (inkl. MwSt.)
 
 
-* iEinmalzahlung: € 1.980,-
-* Modulzahlung: € 450,- Anzahlzung + 5x €  360,- pro Modul (Gesamtsumme: € 2.250,-)
+Einmalzahlung: € 1.980,-
+Modulzahlung: € 450,- Anzahlzung + 5x €  360,- pro Modul (Gesamtsumme: € 2.250,-)
 
 Die Ausbildung ist nur komplett buchbar.
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse und Kuchen & Süßes angeboten.
-
+In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis hochwertige Snacks, Obst & Gemüse angeboten.

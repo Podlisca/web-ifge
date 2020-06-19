@@ -2,14 +2,14 @@
 title: "Termine"
 menu: 
     main:
-        parent: upgrade_supervision
-        identifier: supervision_termine
+        parent: upgrade_sexualberatung
+        identifier: sexualberatung_termine
 draft: false
 weight: 3
 ---
 
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# Ausbildung: Sexualberatung / Paarberatung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -48,6 +48,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
+#### Mariahilfer Straße
 {{< figure src="/img/img2.jpg">}}
 
 #### Termine folgen
@@ -55,12 +56,15 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 {{% small  %}}
 #### Burgenland
+#### Pinkafeld
 {{< figure src="/img/img2.jpg">}}
 
 #### Termine folgen
 {{% /small  %}}
 {{% small  %}}
+
 #### Niederösterreich
+#### St. Pölten
 {{< figure src="/img/img2.jpg">}}
 
 #### Start: 18. September 2021
@@ -68,12 +72,12 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 Samstag und Sonntag von 09:00 bis 18:00 Uhr
 Prüfungstag von 09:00 bis 16:00 Uhr 
 
-Modul 1: 18.09. und 19.09. 2021
-Modul 2: 02.10. und 03.10. 2021
-Modul 3: 06.11. und 07.11. 2021
-Modul 4: 04.12. und 05.12. 2021
-Modul 5: 08.01. und 09.01. 2022
-Modul 6: 19.02. und 20.02. 2022
+* Modul 1: 18.09. und 19.09. 2021
+* Modul 2: 02.10. und 03.10. 2021
+* Modul 3: 06.11. und 07.11. 2021
+* Modul 4: 04.12. und 05.12. 2021
+* Modul 5: 08.01. und 09.01. 2022
+* Modul 6: 19.02. und 20.02. 2022
 
 Prüfung: 02.04. 2022
 

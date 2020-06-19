@@ -2,13 +2,13 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: upgrade_supervision
-        identifier: supervision_rechtliches
+        parent: upgrade_tiergestuetzt
+        identifier: tiergestuetzt_rechtliches
 draft: false
 weight: 4
 ---
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -28,35 +28,35 @@ weight: 4
 ## Zugangsvoraussetzungen
 ***
 
-* Dipl. Lebens- und Sozialberater\*in
-* Lebens- und Sozialberater\*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Supervision erst mit Erhalt des Gewerbescheins
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psychologç*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
+* Dipl. Lebens- und Sozialberater*in
+* Lebens- und Sozialberater*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten 
+* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
 
-Die Ausbildung ist nur komplett buchbar.
+Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
 
 ***
 ## Prüfung
 ***
 
-Der Lehrgang schließt mit einer Abschlussprüfung  sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen des 7. Moduls sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
-Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 ***
 ## Zahlungsbedingungen
 ***
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 450,- Anzahlung auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung das erste Modul von € 450,- auf das Konto:
+
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
-Kontonr. 744 434 259
-BlZ 12000
 Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Supervision + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck Fortbildung Tiere + Ihren Namen an.
 
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.

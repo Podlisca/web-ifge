@@ -2,12 +2,17 @@
 title: "Partner"
 menu: 
     main:
-        parent: "IFGE"
+        parent: IFGE
+        identifier: partner
 draft: false
-weight: 6
+weight: 7
 ---
 
 # Partner
+
+{{< slogan >}}
+
+***
 
 Unsere Partner\*innen sind wichtige Eckpfeiler unseres Erfolges und machen es möglich, dass wir uns auf unsere Kernkompetenzen konzentrieren können.
 

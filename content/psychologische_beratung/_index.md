@@ -1,5 +1,5 @@
 ﻿---
-title: "Psychologische Beratung"
+title: "Gruppenselbsterfahrung"
 menu: 
     main:
         identifier: "psych"
