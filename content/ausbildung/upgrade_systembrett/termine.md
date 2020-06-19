@@ -21,36 +21,24 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
+
 ## Informationsveranstaltung
-***
 
 Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
 
 Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
 
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
+**JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!**
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
+
 ## Nächste Kurse & Lehrpläne 
-***
+
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
-#### Wien
-{{< figure src="/img/img2.jpg">}}
-
-#### Termine folgen
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< figure src="/img/img2.jpg">}}
-
-#### Termine folgen
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
+#### Wien & Pinkafeld
 {{< figure src="/img/img2.jpg">}}
 
 #### Start: 19. September 2020
@@ -67,8 +55,16 @@ Modul 6: 27.03. und 28.03.2021
 
 Prüfung: 11.04.2021
 
-
 Anmeldung
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Niederösterreich
+
+{{< figure src="/img/img2.jpg">}}
+
+#### Termine folgen
 
 {{% /small  %}}
 {{% /box %}}

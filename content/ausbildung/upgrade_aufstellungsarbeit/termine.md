@@ -32,9 +32,10 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
+
 ## Nächste Kurse & Lehrpläne 
-***
+
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -47,39 +48,35 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{% small  %}}
 #### Burgenland
 {{< figure src="/img/img2.jpg">}}
+#### Start: 16. Jänner 2021
 
-#### Termine folgen
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
+Prüfungstag von 09:00 bis 16:00 Uhr 
+
+Modul 1: 16.01. und 17.01.2021<br/>
+Modul 2: 13.02. und 03.02.2021<br/>
+Modul 3: 20.03. und 07.03.2021<br/>
+Modul 4: 24.04. und 05.04.2021<br/>
+Modul 5: 22.05. und 23.05.2021<br/>
+Modul 6: 26.06. und 27.06.2021<br/>
+
+Prüfung: 03.07.2021
+
+Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](http://stadthotel-pinkafeld.at/) ist in 5 Gehminuten erreichbar.
+
+
+[Anmeldung](www.ifge.at)
+
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
 {{< figure src="/img/img2.jpg">}}
+#### Termine folgen
 
-#### Start: 16. Jänner 2021
-
-Samstag und Sonntag von 09:00 bis 18:00 Uhr
-Prüfungstag von 09:00 bis 16:00 Uhr 
-
-Modul 1: 16.01. und 17.01.2021
-Modul 2: 13.02. und 03.02.2021
-Modul 3: 20.03. und 07.03.2021
-Modul 4: 24.04. und 05.04.2021
-Modul 5: 22.05. und 23.05.2021
-Modul 6: 26.06. und 27.06.2021
-
-Prüfung: 03.07.2021
-
-Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne.
-Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
-
-
-Anmeldung
 
 {{% /small  %}}
-{{% /box %}}
-
-
-
-
 
 
 

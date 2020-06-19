@@ -22,13 +22,14 @@ weight: 1
 
 ***
 
-AUFBAU DES LEHRGANGS SUPERVISION
-100 Ausbildungsstunden mit mind. 8 max. 12 Teilnehmer*innen
-
 ## Seminarhinhalte
 
 Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 In den Modulen wird sehr viel praktisch geübt.
+
+**100 Ausbildungsstunden mit mind. 8 max. 12 Teilnehmer*innen**
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## PRÜFUNG
 
@@ -37,6 +38,8 @@ Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 Die praktische Prüfung findet am letzten Seminartag statt. 
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Leitung
 

@@ -51,7 +51,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 #### Mariahilfer Straße
 {{< figure src="/img/img2.jpg">}}
 
-#### Termine folgen
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -59,7 +59,32 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 #### Pinkafeld
 {{< figure src="/img/img2.jpg">}}
 
-#### Termine folgen
+#### Start: 22. Jänner 2020
+
+Mittwoch von 14:00 bis 20:00 Uhr<br/>
+Sonntag von 10:00 bis 16:00 Uhr<br/>
+
+
+
+* 22.01.2020
+* 16.02.2020 
+* 26.02.2020
+* 08.03.2020 
+* 25.03.2020 
+* 08.04.2020 
+* 22.04.2020
+* 17.05.2020 
+* 27.05.2020 
+* 14.06.2020 
+* 24.06.2020 
+* 13.09.2020 
+* 27.09.2020 
+* 14.10.2020 
+* 01.11.2020 
+* 11.11.2020 
+* 29.11.2020
+
+Anmeldung
 {{% /small  %}}
 {{% small  %}}
 
@@ -67,21 +92,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 #### St. Pölten
 {{< figure src="/img/img2.jpg">}}
 
-#### Start: 18. September 2021
-
-Samstag und Sonntag von 09:00 bis 18:00 Uhr
-Prüfungstag von 09:00 bis 16:00 Uhr 
-
-* Modul 1: 18.09. und 19.09. 2021
-* Modul 2: 02.10. und 03.10. 2021
-* Modul 3: 06.11. und 07.11. 2021
-* Modul 4: 04.12. und 05.12. 2021
-* Modul 5: 08.01. und 09.01. 2022
-* Modul 6: 19.02. und 20.02. 2022
-
-Prüfung: 02.04. 2022
-
-Anmeldung
+#### Termine folgen
 
 {{% /small  %}}
 

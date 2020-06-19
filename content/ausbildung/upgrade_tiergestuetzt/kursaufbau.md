@@ -26,6 +26,8 @@ weight: 1
 AUFBAU DES LEHRGANGES: TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
+{{< line icon="noun_Information_478770-2.png" >}}
+
 ## Seminarhinhalte
 
 * kurze Wiederholung der Basics in der Beratung (Paraphrasieren, Normalisieren, Konkretisieren usw.)
@@ -56,13 +58,15 @@ AUFBAU DES LEHRGANGES: TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
 * Praxis und Fallbesprechungen
 * Supervision
 
-
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## PRÜFUNG
 
 Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen des 7. Moduls sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Leitung
 

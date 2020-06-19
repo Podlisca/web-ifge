@@ -18,13 +18,12 @@ weight: 1
 {{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
-{{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
 ***
 
-AUFBAU DES LEHRGANGS SUPERVISION
-100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+#### AUFBAU DES LEHRGANGS SUPERVISION
+**100 Ausbildungsstunden mit max. 12 Teilnehmer*innen**
 
 * Grundlegendes in der Sexualberatung
 * Sexualität und Sprache
@@ -48,12 +47,14 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Verhütung / Sterilisation
 * Abtreibung
 
-
+{{< line icon="noun_Information_478770-2.png" >}}
 ## PRÜFUNG
 
 Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen des 6. Moduls sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Leitung
 
