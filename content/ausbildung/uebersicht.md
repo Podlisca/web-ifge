@@ -1,14 +1,14 @@
 ﻿---
-title: "Übersicht Ausbildungen"
+title: "Ausbildungsphilosophie und Übersicht"
 menu: 
     main:
         parent: ausb
         identifier: uebersicht
 draft: false
-weight: 10
+weight: 1
 ---
 
-# Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
+# Ausbildungsphilosophie am IFE Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
 

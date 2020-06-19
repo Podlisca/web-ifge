@@ -9,8 +9,12 @@ draft: false
 {{< slogan >}}
 ***
 
-{{% box %}}
+{{< line icon="noun_Information_478770-2.png" >}}
 
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
 {{% large %}}
 In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](www.ifge.at) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](www.ifge.at) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
@@ -21,9 +25,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 \- Institutsleiterin \- 
 
 {{% /large %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
+
 {{% /box %}}
 
 ***
@@ -37,24 +39,30 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 
 * * *
 
+# Diplomlehrgang Lebensberatung in Wien, Pinkafeld & St. Pölten  
+# Upgrades / Fortbildung / Supervision
+
 {{% box align-items="flex-start" %}}
 {{% small  %}}
-#### Qualitätsausbildungen
 {{< figure src="/img/img2.jpg" >}}
+#### Qualitätsausbildungen
+
 **Wien – Burgenland – Niederösterreich:** 
 Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen **WKO zertifizierten [Diplomlehrgänge zur Lebens- und Sozialberatung](www.ifge.at)**, die einmal wöchentlich berufsbegleitend stattfinden. Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie [Supervision](www.ifge.at) und [Aufstellungsarbeit](www.ifge.at)) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert\*innen- und [Referent\*innen-Team](www.ifge.at) verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. [Weitere Infos](www.ifge.at)
 
 {{% /small  %}}
 
 {{% small  %}}
-#### Berufsbild Lebensberatung
 {{< figure src="/img/img2.jpg" >}}
+#### Berufsbild Lebensberatung
+
 Sie sind noch nicht ganz sicher, ob die A[usbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)(www.ifge.at)] für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](www.ifge.at) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der [Berufsausbildung](www.ifge.at) sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](www.ifge.at).
 {{% /small  %}}
 
 {{% small  %}}
-#### Bildungsphilosophie 
+
 {{< figure src="/img/img2.jpg" >}}
+#### Bildungsphilosophie 
 Es ist mir ein persönliches Anliegen, dazu beizutragen, den [Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen](www.ifge.at) auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen]www.ifge.at, ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](www.ifge.at). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
 {{% /small  %}}
 {{% /box %}}
