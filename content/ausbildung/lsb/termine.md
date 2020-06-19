@@ -45,6 +45,7 @@ Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan k�
 
 von 18:30 bis ca. 20:00 Uhr
 
+
 Hier geht es zur ANMELDUNG
 
 {{% /small  %}}
@@ -78,9 +79,9 @@ Hier geht es zur ANMELDUNG
 
 {{% /box %}}
 
-Kurs Hopping: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in 5 Gehminuten vom Haupbahnhof St. Pölten erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.
+**Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
 
-*Die Onlineveranstaltung wird über Webex Meeting abgehalten.
+*Die Onlineveranstaltung wird über [Webex Meeting](www.ifge.at) abgehalten. 
 
 
 ***

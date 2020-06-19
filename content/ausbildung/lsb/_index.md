@@ -21,12 +21,12 @@ weight: 1
 {{% large %}}
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
-Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
+Als [Lebens- und Sozialberater\*in - psychologische Berater\*in](www.ifge.at) arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen - psychologische Berater\*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Am IFGE wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
-Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung
+Am [IFGE](www.ifge.at) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
+**Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung**
 
 {{% /large %}}
 {{% /box %}}
@@ -50,7 +50,7 @@ Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung
 {{% box align-items="flex-start" %}}
 {{% large  %}}
 
-Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem erfahrenen Referententeam vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung, Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen.
+Die Ausbildung zur [Dipl. Lebens- und Sozialberatung - psychologische Beratung](www.ifge.at) am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](www.ifge.at) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](www.ifge.at)/[Familienaufstellung](www.ifge.at), [Krisenintervention](www.ifge.at) und Sexualberatung, Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen.
 
 Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren des Erlernten gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
 
@@ -73,9 +73,9 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 {{< figure src="/img/img2.jpg">}}
 #### Berufsbegleitendes Lernen
 
-Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Variante des Lernens in kleinen Dosen und die stetige Wiederholung innerhalb kürzester Zeit nicht nur jene Variante ist, in der das Festigen des Lehrstoffes besonders mühelos gelingt, es ist auch die idealste Möglichkeit, Berufstätigen und Eltern, welche an Wochenendkursen oft nicht teilnehmen können, den Einstieg in ihren Traumberuf zu ermöglichen. Kurs- und Ortshopping: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
+Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Variante des Lernens in kleinen Dosen und die stetige Wiederholung innerhalb kürzester Zeit nicht nur jene Variante ist, in der das Festigen des Lehrstoffes besonders mühelos gelingt, es ist auch die idealste Möglichkeit, Berufstätigen und Eltern, welche an Wochenendkursen oft nicht teilnehmen können, den Einstieg in ihren Traumberuf zu ermöglichen. **Kurs- und Ortshopping**: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
 
-Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin Silvia Podlisca mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen bezüglich des Kundenaufbaus weiter, vermittelt, worauf man bei der Selbstständigkeit achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
+Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin [Silvia Podlisca](www.ifge.at) mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen **bezüglich des Kundenaufbaus** weiter, vermittelt, worauf man bei der **Selbstständigkeit** achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
 
 {{% /small  %}}
 

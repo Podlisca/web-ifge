@@ -26,17 +26,17 @@ weight: 5
 ## Fachliche Tätigkeit
 
 
-Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt.
+Der Gesetzgeber sieht vor, dass **für den Erhalt des Gewerbescheins für die freie Praxis**, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt.
 
 Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen:
 
 * mindestens 100 protokollierte Beratungseinheiten (darunter mindestens fünf Erstgesprächsprotokolle und Prozessprotokolle über zwei abgeschlossene Beratungen) und
 * mindestens 100 nachgewiesene Supervisionseinheiten (10 Einzel- und 90 Gruppensupervision), davon mindestens 10 Einzelsupervisionseinheiten
-* Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten! Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. Hier finden Sie eine Liste von Supervisor*innen die die Voraussetzungen erfüllen.
+* **Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten!** Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren\*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor\*innen](www.ifge.at) die die Voraussetzungen erfüllen.
 
  
 
-Darüber hinaus sind folgende Tätigkeiten bis zum angeführten Höchstausmaß als fachliche Tätigkeit voll anzurechnen:
+**Darüber hinaus sind folgende Tätigkeiten bis zum angeführten Höchstausmaß als fachliche Tätigkeit voll anzurechnen:**
 
 * fachliche Beratungs-, Begleitungs- und Betreuungstätigkeiten in einschlägigen Praxen oder Institutionen im Ausmaß von höchstens 200 Stunden und
 * Teilnahme an Gruppen beruflich einschlägig tätiger Personen („Peergroups“ zur Prozessreflexion, Vertiefung der Lehrinhalte, Diskussion über Literatur, Übungen) im Ausmaß von höchstens 100 Stunden und
@@ -44,10 +44,10 @@ Darüber hinaus sind folgende Tätigkeiten bis zum angeführten Höchstausmaß a
 * Aufwand für die Vor- und Nacharbeit der genannten Tätigkeiten im Ausmaß von höchstens 150 Stunden
 
 
-Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von mindestens 30 Stunden nachzuweisen. Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen.
+Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von **mindestens 30 Stunden nachzuweisen**. [Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen](www.ifge.at).
 
-LINK SUPERVISOREN 
+Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](www.ifge.at)
 
-Den kompletten Gesetzestext finden Sie unter: www.lebensberater.at
+**Wenn Sie Fragen zur fachlichen Tätigkeit haben, helfe ich Ihnen sehr gerne weiter.** 
 
-Wenn Sie Fragen zur fachlichen Tätigkeit haben, helfe ich Ihnen sehr gerne weiter. Silvia Podlisca
+{{< silvia >}}

@@ -14,11 +14,11 @@ weight: 5
 
 ***
 
-Seit dem Beginn des ersten Lehrganges im Jahr 2012 hat mittlerweile eine Vielzahl an Schüler*innen die Ausbildung zum/zur Dipl. Lebens- und Sozialberater*in – psychologischen Berater*in mit Erfolg abgeschlossen.
+Seit dem Beginn des ersten Lehrganges im Jahr 2012 hat mittlerweile eine Vielzahl an Schüler\*innen die Ausbildung zum/zur [Dipl. Lebens- und Sozialberater\*in – psychologischen Berater\*in](www.ifge.at) mit Erfolg abgeschlossen.
 
-Als Institutsleiterin freue ich mich persönlich über jeden einzelnen Absolventen und jede einzelne Absolventin, der bzw. die ihre eigene Praxis erfolgreich eröffnet.Dass am IFGE besonders viele Diplomierte Lebens- und Sozialberater*innen – psychologische Berater*innen den Schritt in die Selbstständigkeit wagen, liegt der Erfahrung nach nicht nur an dem fachlich hohen Niveau und der besonderen Praxisorientierung am IFGE, sondern vor allem an der tatkräftigen Unterstützung, die wir jedem einzelnen Schüler und jeder einzelnen Schülerin auf dem Weg zur eigenen Praxis zuteilwerden lassen.
+Als Institutsleiterin freue ich mich persönlich über jeden einzelnen Absolventen und jede einzelne Absolventin, der bzw. die ihre eigene Praxis erfolgreich eröffnet.Dass am IFGE besonders viele Diplomierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen den Schritt in die Selbstständigkeit wagen, liegt der Erfahrung nach nicht nur an dem fachlich hohen Niveau und der besonderen Praxisorientierung am IFGE, sondern vor allem an der tatkräftigen Unterstützung, die wir jedem einzelnen Schüler und jeder einzelnen Schülerin auf dem Weg zur eigenen Praxis zuteilwerden lassen.
 
-IFGE ist bekannt dafür, alle Schüler\*innen und auch Absolvent*innen gleichermaßen effizient und wertschätzend dabei zu unterstützen, als selbstständige Berater*innen erfolgreich Fuß zu fassen. Einen Überblick über Absolvent\*innen in ganz unterschiedlichen Stadien ihrer unternehmerischen Selbstständigkeit finden Sie hier:
+IFGE ist bekannt dafür, alle Schüler\*innen und auch Absolvent\*innen gleichermaßen effizient und wertschätzend dabei zu unterstützen, als selbstständige Berater\*innen erfolgreich Fuß zu fassen. Einen Überblick über Absolvent\*innen in ganz unterschiedlichen Stadien ihrer unternehmerischen Selbstständigkeit finden Sie hier:
 
 
 ***
@@ -114,11 +114,11 @@ Das IFGE mit Silvia Podlisca ist ein Institut, das ich gerne weiterempfehle und 
 Schönburgstraße 27/16<br/>
 1040 Wien<br/>
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 Tel.: +43 (0)676 39 464 39<br/>
 E-Mail: Alexandra.Rahbar@holistic-balance.consulting<br/>
 Web: www.holistic-balance.consulting<br/>
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 *** 
@@ -145,11 +145,11 @@ In meiner Praxis, stehen Sie als KlientIn im Mittelpunkt. Sie können in der Ber
 Hofherrgasse 8/21<br/>
 1100 Wien<br/>
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 Tel.: +43 676 95 29 941<br/>
 E-Mail: amel.hamdi.lib@gmail.com<br/>
 Web: www.amelhamdi-lib.com<br/>
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 
@@ -182,11 +182,11 @@ Prozessbegleitung LUHE<br/>
 Kratochwiljestraße 12/ Turm 2/ Top 3<br/>
 1220 Wien<br/>
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 Tel.: +43 676 953 62 63<br/>
 E-Mail: helmy@luhe-prozessbegleitung.com<br/>
 Web: https://www.luhe-prozessbegleitung.com/<br/>
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 
@@ -200,28 +200,7 @@ Web: https://www.luhe-prozessbegleitung.com/<br/>
 {{< figure src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
-### Name
-
-{{% /large %}}
-{{% /box %}}
-
-### Kontakt
-{{% box align-items="flex-start" %}}
-{{% small  %}}
-<br/>
-<br/>
-{{% /small  %}}
-{{% small %}}
-Tel.: <br/>
-E-Mail: <br/>
-Web: <br/>
-{{% /small %}}
-{{% /box %}}
-
-
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-#### Andrea Linzer
-
+### Andrea Linzer
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin & Supervisorin
 
 Psychologische Beratung, Supervision, Familienaufstellung,  Musik und Kunst
@@ -230,16 +209,23 @@ Psychologische Beratung, Supervision, Familienaufstellung,  Musik und Kunst
 
 Ich sorge für wohltuende Entspannung, bin nach Kaiserschnitt, Abortus oder Abtreibung für Sie da und unterstütze Sie bei der Raucherentwöhnung. Familienaufstellungen gibt es im Einzel- als auch im Gruppensetting.“
 
-Meine Ausbildungszeit im IGFE war sehr lehrreich für mich. Silvia hat mich mit liebevoller Strenge sowohl durch eigene Themen begleitet als auch als Wissensvermittlerin nie „abbiegen“ lassen.
-Ich bin sehr froh, sie als äußerst kompetente und professionelle Ausbildnerin gehabt zu haben. Ich denke gerne an diese bewegende Zeit zurück und kann die Ausbildungen guten Gewissens weiter empfehlen!
+Meine Ausbildungszeit im IGFE war sehr lehrreich für mich. Silvia hat mich mit liebevoller Strenge sowohl durch eigene Themen begleitet als auch als Wissensvermittlerin nie „abbiegen“ lassen. Ich bin sehr froh, sie als äußerst kompetente und professionelle Ausbildnerin gehabt zu haben. Ich denke gerne an diese bewegende Zeit zurück und kann die Ausbildungen guten Gewissens weiter empfehlen!
 
-#### Kontakt:
-Obere Hochstraße 3/12
-7400 Oberwart
+{{% /large %}}
+{{% /box %}}
 
-Email: zentrum@innereharmonie.at
-Web: www.innereHarmonie.at
-Tel.: +43 (0)664 9252239
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+Obere Hochstraße 3/12<br/>
+7400 Oberwart<br/>
+{{% /small  %}}
+{{% large %}}
+Tel.: +43 (0)664 9252239<br/>
+E-Mail: zentrum@innereharmonie.at<br/>
+Web: www.innereHarmonie.at<br/>
+{{% /large %}}
+{{% /box %}}
 
 
 ***
@@ -253,27 +239,7 @@ Tel.: +43 (0)664 9252239
 {{< figure src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
-### Name
-
-{{% /large %}}
-{{% /box %}}
-
-### Kontakt
-{{% box align-items="flex-start" %}}
-{{% small  %}}
-<br/>
-<br/>
-{{% /small  %}}
-{{% small %}}
-Tel.: <br/>
-E-Mail: <br/>
-Web: <br/>
-{{% /small %}}
-{{% /box %}}
-
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-#### BEd. Susanna Kundics
-
+### BEd. Susanna Kundics
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin & Pädagogin
 
 ist in ihrer Praxis in Mödling gerne für Sie da. Frau Susanna Kundics bietet Einzel- und Paarberatungen an. Spezialisiert ist sie auf Sexualberatung, systemische Beratung und tiergestütze Beratung.
@@ -286,33 +252,19 @@ Weiters fühlt man sich in der familiären Atmosphäre gut aufgehoben. Speziell 
 
 Das Institut setzt alles daran, dass man nach der Ausbildung mit gutem Fachwissen und Selbstvertrauen seinen erworbenen Beruf ausüben kann.“
 
-#### Kontakt:
-Steinfeldergasse 24
-2340 Mödling
-
-Mail: susanna.kundics@gmail.com
-Web: www.psychologische-beratung.at
-Tel: 0664/ 99 55 15 54
-
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg">}}
-{{% /small  %}}
-{{% large %}}
-### Name
-
 {{% /large %}}
 {{% /box %}}
 
 ### Kontakt
 {{% box align-items="flex-start" %}}
 {{% small  %}}
-<br/>
-<br/>
+Steinfeldergasse 24<br/>
+2340 Mödling<br/>
 {{% /small  %}}
-{{% small %}}
-Tel.: <br/>
-E-Mail: <br/>
-Web: <br/>
-{{% /small %}}
+{{% large %}}
+Tel.: 0664/ 99 55 15 54<br/>
+E-Mail: susanna.kundics@gmail.com<br/>
+Web: www.psychologische-beratung.at<br/>
+{{% /large %}}
 {{% /box %}}
+

@@ -34,7 +34,8 @@ weight: 1
 * 16 Stunden Betriebswirtschaft
 * 16 Stunden Berufsethik und Berufsidentität
 
-584 Ausbildungsstunden auf 5 Semester mit max. 12 Teilnehmer*innen.
-Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!
+584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
+
+**Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
 
 

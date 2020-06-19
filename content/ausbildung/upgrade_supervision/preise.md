@@ -29,7 +29,7 @@ weight: 2
 * iEinmalzahlung: € 1.980,-
 * Modulzahlung: € 450,- Anzahlzung + 5x €  360,- pro Modul (Gesamtsumme: € 2.250,-)
 
-Die Ausbildung ist nur komplett buchbar.
+**Die Ausbildung ist nur komplett buchbar.**
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse und Kuchen & Süßes angeboten.
 

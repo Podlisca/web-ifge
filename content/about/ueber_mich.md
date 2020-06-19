@@ -88,3 +88,23 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 * Geprüfte Lehrlingsausbildnerin (1994)
 * Geprüfte Zoofachhändlerin (1994)
 
+{{< line icon="noun_Information_478770-2.png" >}}
+
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Impuls Pro" >}}
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](www.ifge.at). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
+{{% /small  %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Aufstellungsarbeit" >}}
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](www.ifge.at). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Aufstellungsleiter\*in](www.ifge.at).
+{{% /small  %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Supervision" >}}
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](www.ifge.at). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Supervisor\*in](www.ifge.at).
+{{% /small  %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Berufsverband" >}}
+Der [Berufsverband für Tiergestützte psychologische Beratung](www.ifge.at) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
+{{% /small  %}}
+{{% /box %}}

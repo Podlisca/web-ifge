@@ -8,7 +8,8 @@ draft: false
 weight: 1
 ---
 
-# Ausbildungsphilosophie am IFE Wien - Burgenland - Niederösterreich
+# Ausbildungsphilosophie am IFGE 
+# Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
 
@@ -54,41 +55,41 @@ an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schü
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
-* Lebens- und Sozialberatung - psychologische Beratung
-* LSB Upgrade: Supervision
-* LSB Upgrade: Aufstellungsarbeit
+* [Lebens- und Sozialberatung - psychologische Beratung](www.ifge.at)
+* [LSB Upgrade: Supervision](www.ifge.at)
+* [LSB Upgrade: Aufstellungsarbeit](www.ifge.at)
 
 {{% /small  %}}
 {{% small  %}}
 
 ### AUS- UND WEITERBILDUNGEN
-* Psychologisches Teambuilding
-* Sexual- & Paarberatung
-* VertrauenslehrerIn
-* Historische & politische Aspekte in der Beratung
-* Klangschalenmassage
+* [Psychologisches Teambuilding](www.ifge.at)
+* [Sexual- & Paarberatung](www.ifge.at)
+* [VertrauenslehrerIn](www.ifge.at)
+* [Historische & politische Aspekte in der Beratung](www.ifge.at)
+* [Klangschalenmassage](www.ifge.at)
 
 {{% /small  %}}
 {{% small  %}}
 
 ### TIERGESTÜTZTE AUSBILDUNGEN
-* Tiergestützte psychologische Beratung
-* Erste Hilfe für Katzen
-* Erste Hilfe für Hunde
+* [Tiergestützte psychologische Beratung](www.ifge.at)
+* [Erste Hilfe für Katzen](www.ifge.at)
+* [Erste Hilfe für Hunde](www.ifge.at)
 
 {{% /small  %}}
 {{% small  %}}
 
 ### ONLINE AUSBILDUNGEN & TRAININGS
-* Grundlagen in der Onlineberatung & Onlinecoaching
-* Umgang mit sexueller Belästigung & Stalking
-* Ganzheitlich gesund – Grundlagen der Psychosomatik
-* psychologisches Coaching
-* Umgang mit Love Scamming
-* Große weite Welt – Kinder vor Gefahren (im Netz) schützen
-* Fit and safe: Ganz sicher Spaß haben – online und unterwegs
-* „Zeig’ dich!“: Praxis von Anfang an professionell gründen
-* Planspiel Praxisaufbau
+* [Grundlagen in der Onlineberatung & Onlinecoaching](www.ifge.at)
+* [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
+* [Ganzheitlich gesund – Grundlagen der Psychosomatik](www.ifge.at)
+* [psychologisches Coaching](www.ifge.at)
+* [Umgang mit Love Scamming](www.ifge.at)
+* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](www.ifge.at)
+* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](www.ifge.at)
+* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](www.ifge.at)
+* [Planspiel Praxisaufbau](www.ifge.at)
 
 {{% /small  %}}
 {{% /box %}}

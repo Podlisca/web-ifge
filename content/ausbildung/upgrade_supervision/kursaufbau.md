@@ -70,17 +70,15 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Arbeit mit Time-Lines
 * Supervision und Organisationsberatung
 * Lern- und Lehrsupervision
-
-
 {{% /small  %}}
 
+{{% /box %}}
+{{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Modul 4
 
 * Umgang mit Konflikten
 * Supervision und Organisationsberatung
-* Prüfungsvorbereitung
-* Arbeiten mit Teams
 * Mehrpersonen-Setting
 * Lern- und Lehrsupervision
 
@@ -88,28 +86,34 @@ AUFBAU DES LEHRGANGS SUPERVISION
 
 {{% small  %}}
 #### Modul 5
-* Tipps für die Arbeit mit dem Kräftefeld eines Systems
+
 * Spezialthemen (Sucht, Psychische Krankheiten)
-* Rechtliche Rahmenbedingungen und ethische Aspekte
+* Arbeiten mit Teams
 * Supervision und Organisationsberatung
-* Abschlussprüfung
+* Prüfungsvorbereitung
 
 {{% /small  %}}
 
 {{% small  %}}
 #### Modul 6
 
-* Seit 2019 teilt sich der Lehrstoff auf 6 Module + einen Prüfungstag auf. 
+* Tipps für die Arbeit mit dem Kräftefeld eines Systems
+* Rechtliche Rahmenbedingungen und ethische Aspekte
+* Abschlussprüfung 
 
 {{% /small  %}}
 
 {{% /box %}}
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## PRÜFUNG
 
 Der Lehrgang schließt mit einer Abschlussprüfung  sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Leitung
 

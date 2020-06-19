@@ -26,20 +26,20 @@ weight: 2
 ## Kosten
 
 
-inkl. 120 Std. Gruppenselbsterfahrung und 90 Stunden Gruppensupervision für die fachliche Tätigkeit
+inkl. 120 Std. Gruppenselbsterfahrung und **90 Stunden Gruppensupervision für die fachliche Tätigkeit**
 
-* Einmalzahlung: € 9.800,-
-Einmalzahlung mit Frühbucherbonus: € 9.500,- *
+* Einmalzahlung: € 9.800,-<br/>
+**Einmalzahlung mit Frühbucherbonus\*: € 9.500,- \***
 
-* Semesterzahlung: € 2.110,- pro Semester (Gesamtsumme € 10.550,-)
-Semesterzahlung mit Frühbucherbonus: € 2.060,- pro Semester * (Gesamtsumme: € 10.300,-)
+* Semesterzahlung: € 2.110,- pro Semester (Gesamtsumme € 10.550,-)<br/>
+**Semesterzahlung mit Frühbucherbonus: € 2.060,- pro Semester (Gesamtsumme: € 10.300,-)\***
 
-* Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 380,- beginnend mit Kursstart (Gesamtsumme: € 11.900,-)
-Ratenzahlung mit Frühbucherbonus: € 360,- pro Rate*  (Gesamtsumme: € 11.300,-)
+* Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 380,- beginnend mit Kursstart (Gesamtsumme: € 11.900,-)<br/>
+**Ratenzahlung mit Frühbucherbonus: € 360,- pro Rate (Gesamtsumme: € 11.300,-)\*** 
 
 
 Für die Administration und die online Praktikumsübersicht ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 180,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden ( € 36,- pro Semester).
-Wenn Sie die Voraussetzungen für die Förderkriterien des Wiener ArbeitnehmerInnen Förderungsfonds (waff) erfüllen, wird die Ausbildung bis zu € 2.000,- gefördert. Weitere Infos hier: https://www.waff.at/foerderungen/
+Wenn Sie die Voraussetzungen für die **Förderkriterien des Wiener ArbeitnehmerInnen Förderungsfonds (waff)** erfüllen, wird die Ausbildung bis zu € 2.000,- gefördert. Weitere Infos hier: https://www.waff.at/foerderungen/
 
 Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit a. UStG 1994 steuerfrei.
 
@@ -49,18 +49,18 @@ Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, 
 
 ## Eröffnungsangebote
 
-{{% box %}}
+{{% box align-items="flex-start" %}}
 {{% small  %}}
 ***
 #### ERÖFFNUNGSANGEBOT FÜR alle Standorte
 ****
 
-(nur an den Infoabenden erhältlich):
+**(nur an den Infoabenden erhältlich):**
 
 * Sofort 1x Zahlung: € 9.300,- 
 * Bildungsscheck von 100,-
 
-GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware) 
+**GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware)**
 
 {{% /small  %}}
 
@@ -69,12 +69,12 @@ GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware)
 #### ERÖFFNUNGSANGEBOT FÜR ST. PÖLTEN
 ***
 
-(nur an den Infoabenden erhältlich):
+**(nur an den Infoabenden erhältlich):**
 
 * Sofort 1x Zahlung: € 9.300,- 
 * Bildungsscheck von 100,-
 
-GESAMTKOSTEN € 9.200,- (mit IFGE Schulungssoftware)
+**GESAMTKOSTEN € 9.200,- (mit IFGE Schulungssoftware)**
 
 * IFGE Schulungssoftware kostenlos (Warenwert € 180,-) egal für welche Zahlungsvariante Sie sich entscheiden.
 
@@ -96,4 +96,4 @@ GESAMTKOSTEN € 9.200,- (mit IFGE Schulungssoftware)
 
 Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
-Insbesondere das neue SMART-Board hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
+Insbesondere das neue [SMART-Board](www.ifge.at) hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
