@@ -1,0 +1,58 @@
+﻿---
+title: "Kursaufbau"
+menu: 
+    main:
+        parent: vertrauenslehrer
+        identifier: vertrauenslehrer_kursaufbau
+draft: false
+weight: 1
+---
+
+# Ausbildung zum/zur VertrauenslehrerIn
+{{< slogan >}}
+
+{{< line icon="noun_Information_478770-2.png" >}}
+
+{{% iconmenu %}}
+{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
+{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
+{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
+{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
+{{% /iconmenu %}}
+
+***
+
+#### AUFBAU DES LEHRGANGS 
+100 Ausbildungsstunden mit mind. 8 und max. 12 Teilnehmer*innen 
+
+Eine überschaubare Zahl an Teilnehmer*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
+
+Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+
+## Seminarhinhalte
+
+* Eigene Rolle als Teamleiter*in
+* Team als System
+* Utilisationsmöglichkeiten von Symptomen
+* Gruppendynamiken
+* Zielentwicklungsprozesse
+* „Problemtalk“ mal anders
+* Viele Gruppentools (Gruppenspiele; keine Aufstellungen)
+* Reflexion der Gruppenspiele 
+
+## PRÜFUNG
+
+
+Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+
+
+## Leitung
+
+* Susanna Kundics
+* Stefanie Jäger
+* Bettina Schermann
+
+

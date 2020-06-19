@@ -1,16 +1,17 @@
 ﻿---
-title: "Absolventen"
+title: "Absolventen des IFGE"
 menu: 
     main:
-        parent: "IFGE"
+        parent: IFGE
+        identifier: absolventen
 draft: false
-weight: 4
+weight: 5
 ---
 
 # Absolvent\*innen des IFGE
 
-***
-## Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
+{{< slogan >}}
+
 ***
 
 Seit dem Beginn des ersten Lehrganges im Jahr 2012 hat mittlerweile eine Vielzahl an Schüler*innen die Ausbildung zum/zur Dipl. Lebens- und Sozialberater*in – psychologischen Berater*in mit Erfolg abgeschlossen.
@@ -20,14 +21,20 @@ Als Institutsleiterin freue ich mich persönlich über jeden einzelnen Absolvent
 IFGE ist bekannt dafür, alle Schüler\*innen und auch Absolvent*innen gleichermaßen effizient und wertschätzend dabei zu unterstützen, als selbstständige Berater*innen erfolgreich Fuß zu fassen. Einen Überblick über Absolvent\*innen in ganz unterschiedlichen Stadien ihrer unternehmerischen Selbstständigkeit finden Sie hier:
 
 
-***
-## Wien
-***
+
+# Wien
 
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+***
 #### Mag. Bettina Schermann
+***
 
+
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin
 
 In meiner Praxis biete ich Freiraum zum Reden in Einzel,- und Paarberatungen.
@@ -35,21 +42,32 @@ In meiner Praxis biete ich Freiraum zum Reden in Einzel,- und Paarberatungen.
 Jede meiner Beratungseinheiten steht für individuelle Begleitung, in der jedes Anliegen Gehör findet. Zu meinen Beratungsfeldern zählt auch Supervision für Junglehrer/Innen im Einzel- und Gruppensetting.
 
 Für mich steht das IFGE für Professionalität mit Herz, wo Qualität hoch geschrieben wird und stets der Mensch selbst auch gesehen wird. Es bietet profunde Ausbildungen, wo neben Theorie vor allem auch vielen praktischen Übungen Raum gegeben wird. Ebenso bietet das IFGE Unterstützung und hilfreiche Tipps bei der eigenen Praxisgründung und ist für mich ein Ort mit familiärer Stimmung, an den ich immer gerne zurückkehre.
+{{% /large %}}
+{{% /box %}}
 
-#### Kontakt:
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+Mag. Bettina Schermann<br/>
+Effingergasse 31-35/4/3<br/>
+1160 Wien<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: +43 (0) 664 25 69 626<br/>
+E-Mail: info@lsbpb.at<br/>
+Web: www.lsbpb.at<br/>
+{{% /small %}}
+{{% /box %}}
 
-Effingergasse 31-35/4/3
-1160 Wien
 
-Mail: info@lsbpb.at
-Web: www.lsbpb.at
-Tel.: +43 (0) 664 25 69 626  
+
+
+
+
 
 ***
 
 
-
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 #### Nicole Francan
 
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin

@@ -2,13 +2,13 @@
 title: "Preise"
 menu: 
     main:
-        parent: upgrade_supervision
-        identifier: supervision_preise
+        parent: upgrade_aufstellungsarbeit
+        identifier: aufstellungsarbeit_preise
 draft: false
 weight: 2
 ---
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -26,8 +26,10 @@ weight: 2
 ## Kosten
 
 
-* iEinmalzahlung: € 1.980,-
+* Einmalzahlung: € 1.980,-
 * Modulzahlung: € 450,- Anzahlzung + 5x €  360,- pro Modul (Gesamtsumme: € 2.250,-)
+
+Die angegebenen Preise beinhalten bereits die Umsatzstuer. 
 
 Die Ausbildung ist nur komplett buchbar.
 

@@ -2,7 +2,8 @@
 title: "Über mich"
 menu:
     main:
-        parent: "IFGE"
+        parent: IFGE
+        identifier: ueber_mich
 draft: false
 weight: 1
 iws: Hallo2

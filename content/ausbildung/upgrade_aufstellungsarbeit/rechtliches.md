@@ -2,13 +2,13 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: upgrade_supervision
-        identifier: supervision_rechtliches
+        parent: upgrade_aufstellungsarbeit
+        identifier: aufstellungsarbeit_rechtliches
 draft: false
 weight: 4
 ---
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -28,20 +28,25 @@ weight: 4
 ## Zugangsvoraussetzungen
 ***
 
-* Dipl. Lebens- und Sozialberater\*in
-* Lebens- und Sozialberater\*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Supervision erst mit Erhalt des Gewerbescheins
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psychologç*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
+* Dipl. Lebens- und Sozialberater*in
+* Lebens- und Sozialberater*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Aufstellungen erst mit Erhalt des Gewerbescheins. 
+* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
 
-Die Ausbildung ist nur komplett buchbar.
+Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+
+Mind. 8 TeilnehmerInnen / Max. 12 TeilnehmerInnen
 
 ***
 ## Prüfung
 ***
 
-Der Lehrgang schließt mit einer Abschlussprüfung  sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
+Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 
-Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+Die praktische Prüfung findet am letzten Seminartag statt. 
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 ***
 ## Zahlungsbedingungen
@@ -56,7 +61,7 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Supervision + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Austellungsarbeit + Ihren Namen an.
 
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
