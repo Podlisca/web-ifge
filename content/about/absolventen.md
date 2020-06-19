@@ -21,20 +21,16 @@ Als Institutsleiterin freue ich mich persönlich über jeden einzelnen Absolvent
 IFGE ist bekannt dafür, alle Schüler\*innen und auch Absolvent*innen gleichermaßen effizient und wertschätzend dabei zu unterstützen, als selbstständige Berater*innen erfolgreich Fuß zu fassen. Einen Überblick über Absolvent\*innen in ganz unterschiedlichen Stadien ihrer unternehmerischen Selbstständigkeit finden Sie hier:
 
 
-
+***
 # Wien
-
-
 ***
-#### Mag. Bettina Schermann
-***
-
 
 {{% box %}}
 {{% small  %}}
 {{< figure src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
+### Mag. Bettina Schermann
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin
 
 In meiner Praxis biete ich Freiraum zum Reden in Einzel,- und Paarberatungen.
@@ -52,43 +48,51 @@ Mag. Bettina Schermann<br/>
 Effingergasse 31-35/4/3<br/>
 1160 Wien<br/>
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 Tel.: +43 (0) 664 25 69 626<br/>
 E-Mail: info@lsbpb.at<br/>
 Web: www.lsbpb.at<br/>
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
-
-
-
-
-
 
 
 ***
 
-
-#### Nicole Francan
-
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Nicole Francan
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin
 
 Ich denke gerne an die Zeit am IFGE zurück, es war teilweise mein zweites Zuhause und ich habe viele nette Menschen kennengelernt. Besonders gefallen hat mir am IFGE der hohe Praxisbezug und die Möglichkeit viele Beratungsgespräche zu üben inkl. Feedback.
 
 Ich biete in der Praxis in 1140 Wien Einzel- und Paarberatung, sowie Workshops/Erfahrungsaustausch an.
+{{% /large %}}
+{{% /box %}}
 
-#### Kontakt:
-Kuefsteingasse 25/4/16
-1140 Wien
-
-Mail: nicole.francan@chello.at
-Web: www.nicolefrancan.at
-Tel: 0676/6095467 
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+Kuefsteingasse 25/4/16<br/>
+1140 Wien<br/>
+{{% /small  %}}
+{{% large %}}
+Tel.: 0676/6095467 <br/>
+E-Mail: nicole.francan@chello.at<br/>
+Web: www.nicolefrancan.at<br/>
+{{% /large %}}
+{{% /box %}}
 
 ***
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-#### Alexandra Rahbar
-
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Alexandra Rahbar
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin
 
 holistic balance consulting
@@ -101,41 +105,62 @@ Meine Spezialgebiete mit systemischem Ansatz sind Krisen, Sexualität und Hochse
 Die Zeit am IFGE habe ich für mich sowohl beruflich als auch persönlich als sehr bereichernd erlebt: Viel Zeit und Raum, die umfassende Theorie in einem entspannt-professionellen Umfeld mit familiärer Atmosphäre praktisch zu erproben. Die fundierte Ausbildung unterstützt mich auch dabei, das erworbene Fachwissen mit gestärktem Selbstvertrauen in eigener Praxis umzusetzen.
 
 Das IFGE mit Silvia Podlisca ist ein Institut, das ich gerne weiterempfehle und selbst für spezielle Angebote weiterhin gerne besuche.
+{{% /large %}}
+{{% /box %}}
 
-#### Kontakt:
-Schönburgstraße 27/16
-1040 Wien
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+Schönburgstraße 27/16<br/>
+1040 Wien<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: +43 (0)676 39 464 39<br/>
+E-Mail: Alexandra.Rahbar@holistic-balance.consulting<br/>
+Web: www.holistic-balance.consulting<br/>
+{{% /small %}}
+{{% /box %}}
 
-Web: www.holistic-balance.consulting
-Tel: +43 (0)676 39 464 39
-Mail: Alexandra.Rahbar@holistic-balance.consulting
+*** 
 
-***
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-#### Amel Hamdi
-
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Amel Hamdi
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin
 
 Die Ausbildung beim Ifge war für mich nicht einfach eine Ausbildung. Vielmehr war sie eine Bereichrung für meine gesamte Persönlichkeit. An jedem Unterrichtstag wurde die professionelle Wissensvermittlung von Silvia und all den anderen Referenten mit Wertschätzung, Einfühlungsvermögen und Empathie abgerundet.
 
 In meiner Praxis, stehen Sie als KlientIn im Mittelpunkt. Sie können in der Beratung über jedes Thema sprechen, das Ihnen gerade wichtig ist. Sie erforschen Ihre Seele, begreifen Ihre Verhaltensweisen und können so neue Perspektiven und Lösungen entwickeln.
 
-#### Kontakt:
-Hofherrgasse 8/21
-1100 Wien
+{{% /large %}}
+{{% /box %}}
 
-Mail: amel.hamdi.lib@gmail.com
-Web: www.amelhamdi-lib.com
-Tel.: +43 676 95 29 941
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+Hofherrgasse 8/21<br/>
+1100 Wien<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: +43 676 95 29 941<br/>
+E-Mail: amel.hamdi.lib@gmail.com<br/>
+Web: www.amelhamdi-lib.com<br/>
+{{% /small %}}
+{{% /box %}}
 
 
 ***
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-#### Amina Helmy
-
-
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Amina Helmy
 Dipl. Lebens- und Sozialberaterin – Psychologische Beraterin
 
 Für mich zeichnet sich das IFGE vor allem durch seine fundierte und fachliche Ausbildung aus.
@@ -147,20 +172,52 @@ Ich biete in meiner Praxis in 1220 Wien Einzel- und Paarberatung, sowie Workshop
 Meine Schwerpunkte liegen in der systemischen Beratung, Krisenberatung, sowie Behinderung und Angehörigenberatung.
 
 In einem geschützten Rahmen begleite ich individuell und wertschätzend jedes Anliegen!
+{{% /large %}}
+{{% /box %}}
 
-#### Kontakt:
-Prozessbegleitung LUHE
-Kratochwiljestraße 12/ Turm 2/ Top 3
-1220 Wien
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+Prozessbegleitung LUHE<br/>
+Kratochwiljestraße 12/ Turm 2/ Top 3<br/>
+1220 Wien<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: +43 676 953 62 63<br/>
+E-Mail: helmy@luhe-prozessbegleitung.com<br/>
+Web: https://www.luhe-prozessbegleitung.com/<br/>
+{{% /small %}}
+{{% /box %}}
 
-
-Mail: helmy@luhe-prozessbegleitung.com
-Web: https://www.luhe-prozessbegleitung.com/
-Tel.: +43 676 953 62 63
 
 ***
 ## Burgenland
 ***
+
+
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Name
+
+{{% /large %}}
+{{% /box %}}
+
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+<br/>
+<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: <br/>
+E-Mail: <br/>
+Web: <br/>
+{{% /small %}}
+{{% /box %}}
+
 
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 #### Andrea Linzer
@@ -189,6 +246,31 @@ Tel.: +43 (0)664 9252239
 ## Niederösterreich
 ***
 
+
+
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Name
+
+{{% /large %}}
+{{% /box %}}
+
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+<br/>
+<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: <br/>
+E-Mail: <br/>
+Web: <br/>
+{{% /small %}}
+{{% /box %}}
+
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 #### BEd. Susanna Kundics
 
@@ -211,3 +293,26 @@ Steinfeldergasse 24
 Mail: susanna.kundics@gmail.com
 Web: www.psychologische-beratung.at
 Tel: 0664/ 99 55 15 54
+
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg">}}
+{{% /small  %}}
+{{% large %}}
+### Name
+
+{{% /large %}}
+{{% /box %}}
+
+### Kontakt
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+<br/>
+<br/>
+{{% /small  %}}
+{{% small %}}
+Tel.: <br/>
+E-Mail: <br/>
+Web: <br/>
+{{% /small %}}
+{{% /box %}}

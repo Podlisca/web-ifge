@@ -13,14 +13,17 @@ weight: 4
 {{< slogan >}}
 
 ***
-## LSB Referent\*innen Wien - Burgenland - Niederösterreich
-***
 
+{{% box %}}
+{{% small  %}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-
+{{% /small  %}}
+{{% small  %}}
 Das IFGE greift auf ein breites Referent\*innen-Pool zurück: es unterrichten Expert\*innen mit Branchenkenntnissen aus ihrem jeweiligen Bereich, um ein möglichst breitgefächertes Fachwissen sowie unterschiedlichste Praxisbeispiele bieten zu können.
 
 Jede\*r Referent\*in bringt sich mit seinem Know-how und seiner individuellen Persönlichkeit ein, so dass die Ausbildungsteilnehmer*innen unterschiedliche Unterrichtsmethoden sowie -stile kennenlernen können.
+{{% /small  %}}
+{{% /box %}}
 
 ***
 #### Dr. Dieter Schmutzer
@@ -55,11 +58,11 @@ In meiner beruflichen Tätigkeit – sei es Beratung, Supervision, Lehrtätigkei
 
 www.dieter-schmutzer.at
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 ### Unterrichtschwerpunkt
 * Sexualberatung
 * Krisenintervention
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 
@@ -93,11 +96,11 @@ Im Jahr 2001 habe ich eine Ausbildung zur Wirtschaftsmediatorin beendet und übe
 ### Kontakt
 Web: www.roessner.at/
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 ### Unterrichtsthemen
 * Mediation
 * Betriebswirtschaft 
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 

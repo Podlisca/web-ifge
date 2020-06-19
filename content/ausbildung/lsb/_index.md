@@ -21,7 +21,7 @@ weight: 1
 {{% large %}}
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
-Als Lebens- und Sozialberater\*in - psychologische Berater*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
+Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen - psychologische Berater\*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
@@ -52,14 +52,13 @@ Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung
 
 Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem erfahrenen Referententeam vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung, Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen.
 
-Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. Durch kleine Gruppen und  ausgewählte Referent*innen wird dadurch jedem/jeder einzelnen Teilnehmer*in viel Raum zum Üben und Ausprobieren des Erlernten gegeben. Die individuellen Stärken des/der Teilnehmer*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
+Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren des Erlernten gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
 
-Die Themen, mit denen zukünftige Klient*innen zu Lebens- und Sozialberater*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
+Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
 
 {{% /large  %}}
 
 {{% small  %}}
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
@@ -82,10 +81,17 @@ Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutslei
 
 {{% small  %}}
 {{< figure src="/img/img2.jpg">}}
-#### Entwicklung & Untersützung
+#### Entwicklung & Unterstützung
 
-Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemische Beratung, Familienaufstellung, Work-Life-Balance oder Sexualberatung - Themenbereiche, die von anderen Lehrgängen oft nur kurz aufgegriffen werden.
+Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. 
 
+Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. 
+
+Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemische Beratung, Familienaufstellung, Work-Life-Balance oder Sexualberatung - Themenbereiche, die von anderen Lehrgängen oft nur kurz aufgegriffen werden. 
+
+Über 800 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit.
+
+Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 12 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
 
 {{% /small  %}}
 
@@ -95,7 +101,7 @@ Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst vi
 
 Aufgrund des unvergleichlichen Qualitätsanspruchs, der an d as Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene IFGE-Software geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
  
-Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater*innen/psychologische Berater\*innen bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
+Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
 
 Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse sowie Kuchen & Süßes angeboten.
 

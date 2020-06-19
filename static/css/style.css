@@ -242,7 +242,7 @@ img {
 .box > * {
     flex-basis: 0;
     flex-grow: 1;
-    padding: 1em;
+    padding: 0 1em;
 }
 
 .box.blue {
@@ -256,7 +256,6 @@ img {
     flex-grow: 2;
 }
 .box .small {
-    padding: 0 1em;
     flex-basis: 0;
     flex-grow: 1;
 }

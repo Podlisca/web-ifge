@@ -11,30 +11,55 @@ iws: Hallo2
 
 # Silvia Podlisca - Institutsleiterin Wien - Burgenland - Niederösterreich
 
-* * *
-### Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!
-* * *
+{{< slogan >}}
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+***
 
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
+{{% large %}}
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden.
+{{% /large %}}
+{{% /box %}}
 
+{{% box %}}
+{{% large %}}
 Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit betrachtet habe. Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“.
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
-Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der klassischen Lebensberatung, ist es mir möglich, ganz individuell auf jeden meiner Klient*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.
+Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](www.ifge.at), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.
 
-Sowohl als Seminarleiterin als auch als psychologische Beraterin und Supervisorin fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
+Sowohl als [Seminarleiterin](www.ifge.at) als auch als [psychologische Beraterin](www.ifge.at) und [Supervisorin](www.ifge.at) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
 
-Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansatz verfolge ich seit jeher auch im Business-Coaching, welches seit Jahren mein Angebot ergänzt. Gerade in bestehenden Firmenstrukturen ist es wesentlich, Muster rasch zu erkennen und diese anzusprechen, um im Anschluss mit den Verantwortlichen neue Strategien zu entwickeln. Da mir die Erhaltung bzw. Wiederherstellung eines erfolgreichen und gesunden Betriebsklimas in Unternehmen, die meine Hilfe in Anspruch nehmen, seit jeher ein persönliches Anliegen ist, biete ich regelmäßig Aus- und Fortbildungsseminare für Führungspersönlichkeiten im gehobenen Management an. Der Wunsch, gewinnbringende Unternehmensstrategien mit betriebspsychologischem Fachwissen zu verbinden, gab schließlich den Anstoß dazu, im Jahr 2017 gemeinsam mit Martin Bransky „Bransky und Podlisca Firmencoaching FCBP“ ins Leben zu rufen, wodurch ich heute mit viel Freude Führungskräfte in allen Bereichen – von der Unternehmensgründung bis zur Mitarbeiter*innenführung – effektiv und wertschätzend unterstütze.
+{{% /large %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
+{{% /box %}}
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}} Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient*innen-Arbeit mit Hunden und Katzen, zeigt sich, wie ideal sich Vierbeiner sich in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Institutstiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auch dadurch auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
+{{% box %}}
+Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansatz verfolge ich seit jeher auch im [Business-Coaching](www.ifge.at), welches seit Jahren mein Angebot ergänzt. Gerade in bestehenden Firmenstrukturen ist es wesentlich, Muster rasch zu erkennen und diese anzusprechen, um im Anschluss mit den Verantwortlichen neue Strategien zu entwickeln. Da mir die Erhaltung bzw. Wiederherstellung eines erfolgreichen und gesunden Betriebsklimas in Unternehmen, die meine Hilfe in Anspruch nehmen, seit jeher ein persönliches Anliegen ist, biete ich regelmäßig Aus- und Fortbildungsseminare für Führungspersönlichkeiten im gehobenen Management an. Der Wunsch, gewinnbringende Unternehmensstrategien mit betriebspsychologischem Fachwissen zu verbinden, gab schließlich den Anstoß dazu, im Jahr 2017 gemeinsam mit Martin Bransky [„Bransky und Podlisca Firmencoaching FCBP“](www.ifge.at) ins Leben zu rufen, wodurch ich heute mit viel Freude Führungskräfte in allen Bereichen – von der Unternehmensgründung bis zur Mitarbeiter*innenführung – effektiv und wertschätzend unterstütze.
+{{% /box %}}
 
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{% /small  %}}
+{{% large %}}
+Ein weiterer wesentlicher Teil meiner [Philosophie am IFGE](www.ifge.at) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychologische Beratung](www.ifge.at) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit Hunden und Katzen, zeigt sich, wie ideal sich Vierbeiner sich in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Institutstiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auch dadurch auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
+{{% /large %}}
+{{% /box %}}
+
+{{% box %}}
 Dabei gilt zu beachten, dass meine Arbeit keine psychotherapeutische ist und keine medizinische Behandlung ersetzt.
-
+{{% /box %}}
+{{% box %}}
 Ein besonders großes Anliegen ist mir meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig besuchte ich einen ein­jährigen Kurs an der Volkshochschule für Pädagogik und Psychologie.
-
-Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine persönlichen Erfahrungen legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen Familienaufstellung nach Bert Hellinger. Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die Ausbildungen zur Dipl. Lebens- und Sozialberaterin, Sexualberaterin sowie Supervisorin.
+{{% /box %}}
+{{% box %}}
+Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine persönlichen Erfahrungen legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung]www.ifge.at nach Bert Hellinger. Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die Ausbildungen zur [Dipl. Lebens- und Sozialberaterin](www.ifge.at), Sexualberaterin sowie [Supervisorin](www.ifge.at).
+{{% /box %}}
 
  * * *
  #### MEINE AUSBILDUNGEN / FORTBILDUNGEN
@@ -63,4 +88,3 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 * Geprüfte Lehrlingsausbildnerin (1994)
 * Geprüfte Zoofachhändlerin (1994)
 
-* * * 
