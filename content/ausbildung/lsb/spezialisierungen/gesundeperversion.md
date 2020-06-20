@@ -1,10 +1,50 @@
 ---
-title: "Suchtberatung"
+title: "Gesunde Perversion"
 menu:
     main:
         parent: berufsbild
 draft: false
 ---
 
-# Suchtberatung
+
+# Gesunde Perversion
+{{< slogan >}}
+***
+
+{{% floatbox %}}
+### ZWISCHEN LUSTVOLLEM HÖHENFLUG UND INNERER BELASTUNG
+
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+
+Perversionen haben heute zumeist ihren anrüchigen Schrecken verloren und dank der neosexuellen Bewegung, die immer weiter voranschreitet, gibt es im sexuellen Beratungskontext nur mehr sehr wenige echte Tabus. Viel eher werden Perversionen als das Salz in der Suppe betrachtet: Die Würze macht die ansonsten schnell langweilige Suppe besonders aufregend. Aber wichtig zu bedenken ist: Eine versalzene Suppe schmeckt niemandem und zu viel Salz ist auf Dauer nicht gesund. Gesunde Perversion beschreibt den Zustand einer vielfältigen, lustvollen Sexualität, in der Menschen über ihren sexuellen Tellerrand hinausblicken. Rollenspiele, bestimmte Fetische, besondere sexuelle Vorlieben oder Phantasien, Swingerclub-Besuche und Fesselspielchen sind weiter verbreitet, als häufig angenommen wird.
+
+So mancher sexuellen Spielart haftet ein wenig Verruchtes, ja sogar etwas fast Verbotenes an, wodurch diejenigen, die sich ihre Leidenschaften erlauben, ihr Sexleben als besonders belebend, vielfältig und befriedigend empfinden. Der absolute sexuelle Kick wird in der Psychologie auch als die sogenannte „Mega-Lust“ beschrieben. Diese belebende Mega-Lust kann durch ein ausgewogenes Maß an „gesunder Perversion“ z. B. in langjährigen Partnerschaften nachhaltige Anziehung ermöglichen und Paare somit vor sexuellem Frust im Bett bewahren.
+
+{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+
+Dieser befreite, lustvolle Umgang mit den eigenen sexuellen Bedürfnissen und die daraus entstehende Mega-Lust scheint für viele Menschen auch heute noch fast unerreichbar. Dadurch entsteht häufig Neid auf jene Menschen, die sich ihrer Sexualität völlig befreit – ja sogar enthemmt – hingeben. Diese unterschwellige Missgunst nährt auch heute noch so manche Glaubenssätze. Diese Glaubenssätze sind tief und fest in uns verankert: „Das ist doch krank“, „Gute Frauen machen so etwas nicht“, „Ein richtiger Mann kann sich nicht fesseln lassen“, „Das ist ungesund“. Mir ist wichtig zu betonen, dass vieles „normaler“ ist, als so manche meiner Klient\*innen denken. Sie sind also keineswegs verrückt, wenn Sie besondere Vorlieben, Fetische oder Beziehungsmodelle ausleben möchten.
+
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+
+Durch das freie Ausleben „gesunder Perversion“ können Menschen ein besonders befreites Gefühl und eine völlig neue, befriedigende Art ihrer Sexualität kennen lernen. Häufig sind es überholte Moralvorstellungen, die Menschen daran hindern, ihren Bedürfnissen lustvoll und befreit nachzugehen. Dass enthemmte Sexualität heute überhaupt möglich ist, verdanken wir der sexuellen Revolution der 60er-Jahre. Durch die Pille rückte zum ersten Mal in der Geschichte plötzlich auch die Lust der Frau in den Vordergrund und es galt, verstaubte Moralvorstellungen neu zu bewerten. Sexualität konnte auf einmal entängstigt erlebt werden, ungewollte Schwangerschaften standen nicht mehr im Vordergrund und Frauen sowie Männer erlebten Sexualität in diesen Tagen früher und entspannter als die Generationen davor. Der sexuelle Wandel hinsichtlich herrschender Moralvorstellungen – die sogenannte Neosexuelle Revolution, durch die befreite Sexualität erst einem größeren Kreis an Menschen möglich wurde – dauert seither an.
+
+Ich begrüße diesen Paradigmenwechsel, der auch in der Sexualberatung stattfindet. Denn es geht keineswegs darum, psychologisch aufzudröseln, wodurch Ihre persönlichen Neigungen, Vorlieben oder auch Fetische entstanden sind, oder darum, diese zu verändern, so lange Sie sich wohl damit fühlen. Durch die neosexuelle Strömung verzichten endlich immer mehr Therapeut*innen und Berater*innen darauf, sexuelle Bedürfnisse zu hinterfragen, sondern nehmen diese als sexuelle Kompetenz ihrer Kliet\*innen wahr.
+
+Doch wenn aus der gesunden Würze – der ausgewogenen Perversion – nach und nach ein gewisser Leidensdruck entsteht, ist es wichtig, einen neuen Umgang mit der eigenen Sexualität zu finden, der er ermöglicht, Bedürfnisse lustvoll, gesund und befreit in Ihre Sexualität integrieren zu können. Wesentlich ist in der Sexualberatung heute also weniger, ob etwas im Allgemeinen (noch) gesund ist, sondern viel eher, wie Sie einen gesunden und vor allem risikofreien Umgang mit Ihren Bedürfnissen finden oder erhalten können. 
+
+Durch meine langjährige Erfahrung in der Sexualberatung ist mir bewusst, dass sich viele Menschen die Frage stellen, ob das, was sie zu sexuellen Höhenflügen bewegt, noch gesund ist. Oder ob jener Fetisch vielleicht sogar „krank“ sein könnte? Eben jene Gedanken können vielfach von anfänglicher Besorgnis über Ängste bis hin zur völligen Lustlosigkeit führen. Was gerade noch zu einem absoluten Lustgewinn geführt hat, kann im nächsten Augenblick Scham und Unsicherheit erzeugen oder aber der absolute Lustgewinn wird sich selbst versagt, weil man meint, dass sich dies nicht gehöre. Diese ambivalenten Gefühle können so weit gehen, dass sich Menschen das offene Ausleben ihrer Sexualität bewusst verbieten. Dieser Verzicht kann im Extremfall eine Störung der eigenen Lust  zur Folge haben.
+
+{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+
+Doch der Leidensdruck rund um sexuelle Perversionen kann auch in einer gegensätzlichen Richtung geartet sein. Nämlich dann, wenn aus einer spielerischen Variante der Sexualität ein unstillbares Verlagen wird, welches für das Stillen so mancher Bedürfnisse immer extremere Mittel erfordert. Oftmals beginnt dann schleichend ein gefährliches Spiel unter dem Namen „höher, schneller, weiter“, um ein konstantes Lustlevel erreichen zu können. Die Phantasien werden z. B. extremer und allumfassender. Sie drängen sich in jede noch so alltägliche Situation, fordern ihren Platz bei den unpassendsten Gelegenheiten und nehmen Betroffene immer weiter ein, wodurch das sexuelle Erleben zur aufreibenden Belastung wird. Wenn ein Mensch immer extremere Varianten des gleichen Spiels benötigt, kann sein Bedürfnis irgendwann nicht mehr befriedigt werden – ohne sich selbst oder andere zu belasten oder gar zu gefährden. Bevor ein derart frustrierender und risikobehafteter Zustand entsteht – spätestens aber, wenn dieser bereits entstanden ist –, lege ich Ihnen professionelle Unterstützung durch die psychologische Beratung besonders ans Herz!
+
+Zusammenfassend möchte ich festhalten, dass gesunde Perversion da endet, wo die Ausschließlichkeit beginnt. Ein Fetisch kann die eigene Sexualität sowohl bereichern als auch belasten, wenn NUR mehr durch diesen Fetisch Lust erlebt werden kann. Die Grenzen zwischen belebender, vielfältiger, leidenschaftlicher Mega-Lust und belastender Perversion sind fließend. Wenn Sie unsicher sind, wo Sie sich gerade bewegen, kann die psychologische Beratung wieder Klarheit und Gelassenheit entstehen lassen. Gleichzeitig ermöglichen Sie es sich durch die psychologische Unterstützung, (wieder) einen gesunden Zugang zur sexuellen Vielfältigkeit empfinden und leben können.    
+
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+
+Wo immer Sie sich in Ihren Gedanken gerade zwischen belastender, gelebter Sexualität und unerfüllter, sorgenbesetzter Phantasie befinden: In der Sexualberatung entdecken Sie Ihre Sexualität für sich selbst völlig neu und können erleben, wie Sie Zugang zu Ihren inneren – oft tief – verborgenen Wünschen finden.
+
+Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst, Ihren Phantasien und Ihrer Sexualität finden, der Ihnen ein ausgewogenes, risikoarmes und befriedigendes Erleben Ihrer eigenen Lust ermöglicht.
+{{% /floatbox %}}
+
 

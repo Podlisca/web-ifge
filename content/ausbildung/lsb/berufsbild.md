@@ -84,11 +84,11 @@ Hier finden Sie vertiefende Informationen über:
 
 Hier finden Sie vertiefende Informationen über:
 
-* Sexualberatung
-* Sexualität und Alter
-* Sexualberatung für Paare
-* Gleichgeschlechtliche Liebe
-* Gesunder Perversion
+* [Sexualberatung]({{< relref "spezialisierungen/sexualberatung" >}})
+* [Sexualität und Alter]({{< relref "spezialisierungen/sexualitaetalter" >}})
+* [Sexualberatung für Paare]({{< relref "spezialisierungen/sexualitaetpaare" >}})
+* [Gleichgeschlechtliche Liebe]({{< relref "spezialisierungen/gleichgeschlechtlich" >}})
+* [Gesunder Perversion]({{< relref "spezialisierungen/gesundeperversion" >}})
 
 {{% /small  %}}
 
@@ -98,11 +98,11 @@ Hier finden Sie vertiefende Informationen über:
 
 Hier finden Sie vertiefende Informationen über: 
 
-* Täterberatung
-* Stalking
-* Opferberatung
-* Männliche Opfer
-* Häusliche Gewalt
+* [Täterberatung]({{< relref "spezialisierungen/taeterberatung" >}})
+* [Stalking]({{< relref "spezialisierungen/stalking" >}})
+* [Opferberatung]({{< relref "spezialisierungen/opferberatung" >}})
+* [Männliche Opfer]({{< relref "spezialisierungen/maennlicheopfer" >}})
+* [Häusliche Gewalt]({{< relref "spezialisierungen/haeuslichegewalt" >}})
 {{% /small  %}}
 
 {{% small  %}}
@@ -111,10 +111,10 @@ Hier finden Sie vertiefende Informationen über:
 
 Hier finden Sie vertiefende Informationen über:
 
-* Angehörige von Opfern oder TäterIn
-* Angehörige von Kranken
-* Angehörige von Süchtigen
-* Suizid in der Familie
+* [Angehörige von Opfern oder TäterIn]({{< relref "spezialisierungen/angehoerigetaeteropfer" >}})
+* [Angehörige von Kranken]({{< relref "spezialisierungen/angehoerigekranken" >}})
+* [Angehörige von Süchtigen]({{< relref "spezialisierungen/angehoerigesucht" >}})
+* [Suizid in der Familie]({{< relref "spezialisierungen/suizid" >}})
 
 {{% /small  %}}
 {{% /box %}}
