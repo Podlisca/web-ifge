@@ -23,16 +23,17 @@ weight: 1
 ***
 
 #### AUFBAU DES LEHRGANGS 
-100 Ausbildungsstunden mit mind. 8 und max. 12 Teilnehmer*innen 
+100 Ausbildungsstunden mit mind. 8 und **max. 12 Teilnehmer\*innen**
 
-Eine überschaubare Zahl an Teilnehmer*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
+Eine überschaubare Zahl an Teilnehmer\*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
 
-Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Seminarhinhalte
 
-* Eigene Rolle als Teamleiter*in
+* Eigene Rolle als Teamleiter\*in
 * Team als System
 * Utilisationsmöglichkeiten von Symptomen
 * Gruppendynamiken
@@ -41,6 +42,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*in
 * Viele Gruppentools (Gruppenspiele; keine Aufstellungen)
 * Reflexion der Gruppenspiele 
 
+{{< line icon="noun_Information_478770-2.png" >}}
 ## PRÜFUNG
 
 
@@ -48,11 +50,11 @@ Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
-
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
-* Susanna Kundics
-* Stefanie Jäger
-* Bettina Schermann
+* [Susanna Kundics](www.ifge.at)
+* [Stefanie Jäger](www.ifge.at)
+* [Bettina Schermann](www.ifge.at)
 
 

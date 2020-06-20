@@ -31,9 +31,9 @@ In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang a
 Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
 
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Informationsveranstaltung
-***
+
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -84,9 +84,8 @@ Hier geht es zur ANMELDUNG
 *Die Onlineveranstaltung wird über [Webex Meeting](www.ifge.at) abgehalten. 
 
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Nächste Kurse & Lehrpläne 
-***
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -102,6 +101,8 @@ Anmeldung
 
 PDF DOWNLOAD
 
+***
+
 ## LSB 13
 #### Start: 13. Februar 2021
 
@@ -111,6 +112,7 @@ Anmeldung
 
 PDF DOWNLOAD
 
+***
 
 ## LSB 16
 #### Start: 12. Februar 2022

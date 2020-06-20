@@ -24,7 +24,7 @@ weight: 3
 
 ***
 ## Nächste Kurse & Lehrpläne 
-***
+
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -40,17 +40,17 @@ weight: 3
 
 #### Start: 16. Oktober 2020
 
-Freitag von 14:00 bis 20:00 Uhr
-Samstag von 09:00 bis 18:00 Uhr
-Sonntag von 09:00 bis 17:00 Uhr
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-Wochenende: 16.10. und 18.10.2020
+Wochenende: 16.10. und 18.10.2020<br/>
 
-ACHTUNG: Die Ausbildung findet in der Zweigstelle Pinkafeld statt! Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne.
+ACHTUNG: Die Ausbildung findet in der Zweigstelle Pinkafeld statt! Wien - Pinkafeld verfügt über **eine ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
 Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
 
-Anmeldung
+[Anmeldung](www.ifge.at)
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich

@@ -36,13 +36,19 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Viele Gruppentools (Gruppenspiele; keine Aufstellungen)
 * Reflexion der Gruppenspiele 
 
+{{< line icon="noun_Information_478770-2.png" >}}
+
 ## PRÜFUNG
 
--
+Diese Fortbildung schließt ohne Prüfung ab. 
 
-## Leitung
+Alle TeilnehmerInnen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 * Silvia Podlisca
+
 
 
 

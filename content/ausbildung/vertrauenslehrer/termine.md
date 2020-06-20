@@ -29,11 +29,11 @@ Vereinbaren Sie jetzt ein persönliches Informationsgespräch. Dieses bietet aus
 
  
 
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
+**JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!**
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Nächste Kurse & Lehrpläne 
-***
+
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -58,18 +58,20 @@ Anmeldung
 
 #### Start: 30. Oktober 2021
 
-Samstag von 09:00 bis 18:00 Uhr
-Sonntag von 09:00 bis 17:00 Uhr
-Prüfungstag: von 09.00 bis 16:00 Uhr
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 17:00 Uhr<br/>
+Prüfungstag: von 09.00 bis 16:00 Uhr<br/>
 
-Modul 1: 30.10. und 31.10.2021
-Modul 2: 11.12. und 12.12.2021
-Modul 3: 12.12. und 13.12.2020
-Modul 4: 23.01. und 24.01.2021
-Modul 5: 20.02. und 21.02.2021
-Modul 6: 20.03. und 21.03.2021
+Modul 1: 30.10. und 31.10.2021<br/>
+Modul 2: 11.12. und 12.12.2021<br/>
+Modul 3: 12.12. und 13.12.2020<br/>
+Modul 4: 23.01. und 24.01.2021<br/>
+Modul 5: 20.02. und 21.02.2021<br/>
+Modul 6: 20.03. und 21.03.2021<br/>
 
 Prüfung: 10.04.2021
+
+[Anmeldung](www.ifge.at)
 
 {{% /small  %}}
 {{% /box %}}

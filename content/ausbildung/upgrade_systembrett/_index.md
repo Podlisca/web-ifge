@@ -64,13 +64,3 @@ Eben jene Kenntnisse werden in diesem Upgrade gelehrt, erweitert und gefestigt. 
 
 
 
-#### WELCHE INHALTE BIETET DAS UPGRADE ZUR AUFSTELLUNG AM SYSTEMBRETT?
-
-
-
-#### JAHRZEHNTE LANGE ERFAHRUNG TRIFFT AUF FACHLICHES TOP-NIVEAU
-
-
-
-
-

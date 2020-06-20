@@ -99,9 +99,9 @@ Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 12
 {{< figure src="/img/img2.jpg">}}
 #### Entwicklungspotenzial
 
-Aufgrund des unvergleichlichen Qualitätsanspruchs, der an d as Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene IFGE-Software geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
+Aufgrund des unvergleichlichen Qualitätsanspruchs, der an d as Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene **IFGE-Software** geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
  
-Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
+**Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen** bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
 
 Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse sowie Kuchen & Süßes angeboten.
 

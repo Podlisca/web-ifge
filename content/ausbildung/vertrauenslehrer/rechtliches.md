@@ -20,29 +20,26 @@ weight: 4
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-# Rechtliches 
-
 
 ***
 ## Zugangsvoraussetzungen
-***
+
 
 * Pädagog*innen
 * Pädagog*innen in Ausbildung
 * Lebens- und Sozialberater*innen (auch in Ausbildung)
 * Interessierte Personen, die einen ersten Einblick in die psychosoziale Arbeit erhalten wollen
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Prüfung
-***
 
 Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
-***
+
 
 Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 450,- Anzahlung auf das Konto:
 
@@ -60,9 +57,9 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 W
 
 
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
-***
+
 
 Die Ausbildung ist nur komplett zu buchen und innerhalb von zwei Jahren (4 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von zwei Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Ausbildungsgebühr zu rechnen.
 

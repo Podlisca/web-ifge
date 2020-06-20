@@ -23,7 +23,7 @@ weight: 3
 
 ***
 ## Informationsveranstaltung
-***
+
 
 Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
 
@@ -31,9 +31,10 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
+
 ## Nächste Kurse & Lehrpläne 
-***
+
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -49,11 +50,11 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 #### Start: 30. Oktober 2021
 
-Samstag von 09:00 bis 18:00 Uhr
-Sonntag von 09:00 bis 17:00 Uhr
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-Modul 1: 30.10. und 31.10.2021
-Modul 2: 11.12. und 12.12.2021
+Modul 1: 30.10. und 31.10.2021<br/>
+Modul 2: 11.12. und 12.12.2021<br/>
 
 ACHTUNG: Die Ausbildung findet in der Zweigstelle Pinkafeld statt! Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne.
 

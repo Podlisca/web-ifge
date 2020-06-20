@@ -23,7 +23,7 @@ weight: 1
 ***
 
 AUFBAU DES LEHRGANGS SUPERVISION
-100 Ausbildungsstunden mit mind. 8 max. 12 Teilnehmer*innen
+100 Ausbildungsstunden mit mind. 8 **max. 12 Teilnehmer\*innen**
 
 ## Seminarhinhalte
 
@@ -36,12 +36,13 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Erziehung: zwischen autoritär und laissez-faire
 * Versöhnung durch Verständnis
 
-Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
+{{< line icon="noun_Information_478770-2.png" >}}
 ## PRÜFUNG
+Diese Fortbildung endet ohne Prüfung. 
 
--
-
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
 * Alexandra Rahbar
