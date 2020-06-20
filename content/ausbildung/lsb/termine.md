@@ -7,7 +7,6 @@ draft: false
 weight: 3
 ---
 
-
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
@@ -20,11 +19,12 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{% /iconmenu %}}
 
 ***
 
-# Termine
+## Termine
 
 In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an.
 

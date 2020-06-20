@@ -193,6 +193,11 @@ section.image>img {
     max-height: 1000px;
 }
 
+a, a:visited {
+    color: var(--color-green);
+    text-decoration: none;
+}
+
 .btn {
     background-color: rgba(163, 184, 180, 1);
     border: solid rgba(153, 153, 151, 1) 0px;    
@@ -269,7 +274,7 @@ figcaption h4 {
     color: gray;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-weight: 300;
 }
 
@@ -288,8 +293,7 @@ h2 {
 }
 
 h3, h4 {
-    text-align: center;
-    font-weight: bold;
+    text-align: center;    
     text-transform: uppercase;
     color: var(--color-red);
     font-size: 18px;
@@ -396,4 +400,25 @@ main ul li:nth-child(even) {
 .signature {
     color: var(--color-red);
     font-size: 1.8rem;
+}
+
+.floatbox {
+    padding: var(--padding-main);
+}
+
+.floatbox img {
+    max-width: 350px;
+    padding: var(--padding-main);    
+    margin: 0;
+    padding: 0;
+}
+
+.floatbox img.left {
+    float: left;
+    padding-right: var(--padding-main);
+}
+
+.floatbox img.right {
+    float: right;
+    padding-left: var(--padding-main);
 }

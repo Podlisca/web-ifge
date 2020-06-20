@@ -3,6 +3,7 @@ title: "Berufsbild"
 menu: 
     main:
         parent: lsb
+        identifier: berufsbild
 draft: false
 weight: 6
 ---
@@ -19,16 +20,12 @@ weight: 6
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{% /iconmenu %}}
 
 ***
 
-
-## Berufsbild
-
-***
 ## Machen Sie sich ein Bild über Ihre Zukunft als Lebensberater*in
-***
 
 Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
 
@@ -36,28 +33,28 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - psychologischen Beratung  zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Hier finden Sie ausführliche Informationen über:
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
-#### PSYCHOLOGISCHE BERATUNG - EINZEL
+#### [PSYCHOLOGISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzelberatung" >}})
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### PSYCHOLOGISCHE BERATUNG - PAAR
+#### [PSYCHOLOGISCHE BERATUNG - PAAR]({{< relref "berufsbilder/paarberatung" >}})
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### SYSTEMISCHE BERATUNG - EINZEL
+#### [SYSTEMISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzel_system" >}})
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### FAMILIENAUFSTELLUNG IN DER GRUPPE
+#### [FAMILIENAUFSTELLUNG IN DER GRUPPE]
 {{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 
@@ -74,9 +71,10 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 Hier finden Sie vertiefende Informationen über:
 
-* Krisenberatung
-* Suchtberatung
-* Burn-out Beratung
+* [Krisenberatung]({{< relref "spezialisierungen/krisenberatung" >}})
+* [Suchtberatung]({{< relref "spezialisierungen/suchtberatung" >}})
+* [Burn-out Beratung]({{< relref "spezialisierungen/burnout" >}})
+* [Trauerbewältigung]({{< relref "spezialisierungen/trauerbewaeltigung" >}})
 
 {{% /small  %}}
 
@@ -91,7 +89,6 @@ Hier finden Sie vertiefende Informationen über:
 * Sexualberatung für Paare
 * Gleichgeschlechtliche Liebe
 * Gesunder Perversion
-* Stalking
 
 {{% /small  %}}
 

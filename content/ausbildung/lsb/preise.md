@@ -19,6 +19,7 @@ weight: 2
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{% /iconmenu %}}
 
 ***
