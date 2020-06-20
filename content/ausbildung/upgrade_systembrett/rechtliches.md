@@ -20,12 +20,8 @@ weight: 4
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-# Rechtliches 
-
-
 ***
 ## Zugangsvoraussetzungen
-***
 
 * Dipl. Lebens- und Sozialberater*innen - psychologische Berater*innen
 * Interessierte Sozialarbeiter*innen, Betreuer*innen, Psycholog*innen, Pädagog*innen, Psychotherapeuten*innen
@@ -34,9 +30,8 @@ weight: 4
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab.
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Prüfung
-***
 
 Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 
@@ -44,9 +39,9 @@ Die praktische Prüfung findet am letzten Seminartag statt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
-***
+
 
 Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 450,- Anzahlung auf das Konto:
 
@@ -62,9 +57,8 @@ zu überweisen. Bitte geben Sie als Verwendungszweck Fortbildung Systembrett + I
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
-***
 
 Die Ausbildung ist nur komplett zu buchen und innerhalb von zwei Jahren (4 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von zwei Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Ausbildungsgebühr zu rechnen.
 

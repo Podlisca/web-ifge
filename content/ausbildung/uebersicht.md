@@ -37,8 +37,6 @@ an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schü
 {{% /large %}}
 {{% /box %}}
 
-
-
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 %}}

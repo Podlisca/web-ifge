@@ -24,7 +24,7 @@ weight: 3
 
 ***
 ## Informationsveranstaltung
-***
+
 
 Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
 

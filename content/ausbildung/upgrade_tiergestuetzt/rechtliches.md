@@ -21,12 +21,8 @@ weight: 4
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-# Rechtliches 
-
-
 ***
 ## Zugangsvoraussetzungen
-***
 
 * Dipl. Lebens- und Sozialberater*in
 * Lebens- und Sozialberater*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten 
@@ -36,17 +32,15 @@ Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Z
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Prüfung
-***
 
 Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen des 7. Moduls sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
-***
 
 Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung das erste Modul von € 450,- auf das Konto:
 
@@ -61,9 +55,8 @@ zu überweisen. Bitte geben Sie als Verwendungszweck Fortbildung Tiere + Ihren N
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
-***
 
 Die Ausbildung ist nur komplett zu buchen und innerhalb von zwei Jahren (4 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von zwei Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Ausbildungsgebühr zu rechnen.
 

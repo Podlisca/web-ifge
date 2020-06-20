@@ -21,21 +21,19 @@ weight: 4
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /box %}}
 
-# Rechtliches 
 
 
 ***
 ## Zugangsvoraussetzungen
-***
 
 * Mindestalter 24 Jahre
 * Persönliches Aufnahmegespräch oder Infoabend
 * Seelische und geistige Stabilität
 
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Prüfung
-***
+
 
 * pro Semester gibt es eine mündliche Zwischenprüfung
 * Diplomarbeit
@@ -45,9 +43,9 @@ weight: 4
 Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 80%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Diplomarbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
 
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
-***
+
 
 Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 500,- Anzahlung auf das Konto:
 
@@ -60,9 +58,9 @@ Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
-***
+
 
 Die Ausbildung ist nur komplett zu buchen und innerhalb von 5 Jahren (10 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von 5 Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Lehrgangsgebühr zu rechnen. Ein kompletter Umstieg in eine andere Gruppe ist nur möglich, wenn nach Ausbildungsstart der gewünschten Gruppe, noch Plätze frei sind.
 
