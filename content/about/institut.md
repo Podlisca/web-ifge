@@ -69,12 +69,11 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 {{% /large %}}
 {{% /box %}}
 
-
+***
 {{% box blue=1 %}}
 {{% small  %}}
-***
 # Coaching für Führungskräfte
-***
+
 
 Meine [Philosophie](www.ifge.at) hinsichtlich der [Ausbildungs-](www.ifge.at) und [Selbsterfahrungsangebote](www.ifge.at) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](www.ifge.at) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](www.ifge.at) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen [Führungskräfte-Coaching](www.ifge.at) und bei den maßgeschneiderten [Tagesseminare](www.ifge.at) sowie [Workshops](www.ifge.at) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
 

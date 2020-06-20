@@ -31,11 +31,25 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 
 {{% box blue=1 %}}
 {{< card-more icon="pencil.svg" title="Ausbildungsangebote">}}
-Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung.
+Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
+
+Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung.
 {{% /card-more %}}
-{{< card icon="pencil.svg" title="Online-Ausbildungen" text="Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden. __Verschaffen Sie sich einen Überblick über die zahlreichen Angebote__." >}}
-{{< card icon="pencil.svg" title="Supervision" text="Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen." >}}
-{{< card icon="pencil.svg" title="Gruppenselbsterfahrung" text="Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet. Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt, Potenziale und Ressourcen entdeckt sowie das eigene Handeln reflektiert." >}}
+{{< card-more icon="pencil.svg" title="Online-Ausbildungen">}}
+Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. 
+
+Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden. __Verschaffen Sie sich einen Überblick über die zahlreichen Angebote__.
+{{< /card-more >}}
+{{< card-more icon="pencil.svg" title="Supervision">}}
+Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
+
+Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
+{{< /card-more >}}
+{{< card-more icon="pencil.svg" title="Gruppenselbsterfahrung">}}
+Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. 
+
+Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet. Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt, Potenziale und Ressourcen entdeckt sowie das eigene Handeln reflektiert.
+{{< /card-more >}}
 {{% /box %}}
 
 * * *

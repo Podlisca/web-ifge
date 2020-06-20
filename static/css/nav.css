@@ -1,7 +1,3 @@
-:root {
-  --color-hover-dark: #555;
-  --color-hover-light: #ddd;
-}
 
 /* Add a black background color to the top navigation */
 
@@ -35,11 +31,9 @@
 
 /* Add an active class to highlight the current page */
 
-.dropdown-content a.active {
-  /* background-color: #4CAF50;
-  color: white; */
-  background-color: var(--color-hover-light);  
-  /* text-decoration: underline; */
+.dropdown-content a.active {  
+  color: var(--color-red);
+  background-color: var(--color-creme);
 }
 
 /* Hide the link that should open and close the topnav on small screens */
@@ -68,31 +62,22 @@
   margin: 0;
 }
 
-.dropdown2 {
-  position: relative;
-}
-
 /* Style the dropdown content (hidden by default) */
 
-.dropdown-content, .dropdown2-content {
+.dropdown-content {
+  color: white;
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: var(--color-green);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
-}
-
-.dropdown2-content {
-  left: 100%;
-  top: 0;
 }
 
 /* Style the links inside the dropdown */
 
 .dropdown-content a {
   float: none;
-  color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -101,21 +86,21 @@
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 
-.topnav a:hover, .secnav a:hover, .topnav .has-dropdown:hover, .dropdown:hover .dropbtn {
-  background-color: var(--color-hover-dark);
-  color: white;
+.topnav a:hover, .topnav .has-dropdown:hover, .dropdown:hover .dropbtn {
+  background-color: var(--color-creme);
+  color: var(--color-red);
 }
 
 /* Add a grey background to dropdown links on hover */
 
 .dropdown-content a:hover {
-  background-color: var(--color-hover-light);
-  color: black;
+  background-color: var(--color-creme);
+  color: var(--color-red);
 }
 
 /* Show the dropdown menu when the user moves the mouse over the dropdown button */
 
-.dropdown:hover .dropdown-content, .dropdown2:hover .dropdown2-content {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 
@@ -189,9 +174,6 @@ a.has-dropside:after {
   /* align-items: flex-start; */
 }
 
-.secnav a.active {
-  background: linear-gradient(180deg, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.3) 100%)
-}
 
 .topnav a.section-site {
   padding-top: 2px;

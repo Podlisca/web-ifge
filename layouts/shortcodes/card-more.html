@@ -14,10 +14,7 @@
 </div>
 {{ end }}
 <div class="text">
-<details>
-    <summary>Summary</summary>
     {{ .Inner }}
-</details>
 </div>
 <div class="link">
 <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
