@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-# Über das IFGE
+# Über das IFGE<br/>
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
@@ -20,7 +20,7 @@ weight: 2
 {{< figure src="/img/img1.jpg" title=" Silvia Podlisca - Institutsleiterin" >}}
 {{% /small  %}}
 {{% large %}}
-Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf **I**nstitut **0**ür **g**anzheitliches **E**rleben (IFGE) –  Silvia Podlisca e.U. geändert.
+Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf **I**nstitut **f**ür **g**anzheitliches **E**rleben (IFGE) –  Silvia Podlisca e.U. geändert.
 
 Mit der Bekanntheit des nunmehrigen IFGE – wo fortan **I**ntuition, **F**achwissen, **G**efühl und **E**rfolg vereint wurden – stieg die Nachfrage an Seminaren, Workshops und Zusatzausbildungen. So entschied ich mich, das IFGE gänzlich um den [Ausbildungsschwerpunkt](www.ifge.at) zu erweitern.
 {{% /large %}}
@@ -68,5 +68,24 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 
 Meine [Philosophie](www.ifge.at) hinsichtlich der [Ausbildungs-](www.ifge.at) und [Selbsterfahrungsangebote](www.ifge.at) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](www.ifge.at) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](www.ifge.at) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen [Führungskräfte-Coaching](www.ifge.at) und bei den maßgeschneiderten [Tagesseminare](www.ifge.at) sowie [Workshops](www.ifge.at) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
 
-* * *
+{{< line icon="noun_Information_478770-2.png" >}}
+
+{{% box align-items="flex-start" %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Impuls Pro" >}}
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](www.ifge.at). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
+{{% /small  %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Aufstellungsarbeit" >}}
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](www.ifge.at). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Aufstellungsleiter\*in](www.ifge.at).
+{{% /small  %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Supervision" >}}
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](www.ifge.at). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Supervisor\*in](www.ifge.at).
+{{% /small  %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" title="Berufsverband" >}}
+Der [Berufsverband für Tiergestützte psychologische Beratung](www.ifge.at) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
+{{% /small  %}}
+{{% /box %}}
 
