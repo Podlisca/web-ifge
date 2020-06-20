@@ -10,20 +10,27 @@
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
-  /* justify-content: flex-end;
-  width: 100%; */
-  /* justify-content: space-between; */
+  justify-content: flex-end;  
 }
 
 /* Style the links inside the navigation bar */
 
-.topnav a, .secnav a {  
+.topnav a, .secnav a, .topnav .has-dropdown {  
   display: block;
   color: inherit;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+}
+
+.topnav .has-dropdown:hover {
+  cursor: default;
+}
+
+.topnav .active, .topnav .has-dropdown:hover {    
+  background: var(--color-creme);
+  color: var(--color-red);
 }
 
 /* Add an active class to highlight the current page */
@@ -94,7 +101,7 @@
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 
-.topnav a:hover, .secnav a:hover, .dropdown:hover .dropbtn {
+.topnav a:hover, .secnav a:hover, .topnav .has-dropdown:hover, .dropdown:hover .dropbtn {
   background-color: var(--color-hover-dark);
   color: white;
 }
@@ -155,7 +162,7 @@
   }
 }
 
-a.has-dropdown:after {
+div.has-dropdown:after {
   content: "\25BC";
   font-size: 0.5em;
 }
@@ -180,11 +187,6 @@ a.has-dropside:after {
   display: flex;
   flex-direction: column;  
   /* align-items: flex-start; */
-}
-
-.topnav .active {
-  /* background-color: rgba(255, 255, 255, 0.2); */
-  background: linear-gradient(0deg, rgba(255,255,255,0.0) 0%, rgba(255,255,255,0.3) 100%)
 }
 
 .secnav a.active {

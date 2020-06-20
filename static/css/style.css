@@ -9,8 +9,6 @@
     --color-text: #444
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
-
 @font-face {
     font-family: 'dhanikans_signature_2regular';
     src: url('dhanikans_signature_2_dafont-webfont.woff2') format('woff2'),
@@ -41,7 +39,7 @@ body {
     box-sizing: content-box;
     
     font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
     
     color: var(--color-text);
@@ -109,15 +107,9 @@ header {
     padding: 10px;
     grid-area: header;
     display: flex;
-    justify-content: space-between;    
-    position: relative;
-    top: 0;
-    z-index: 999;    
-    transition: ease-in-out 400ms;
+    justify-content: space-between;
     color: var(--color-light);    
     background-color: var(--color-green); 
-
-    font-weight: 400;
     /* letter-spacing: 2.24px; */
     /* filter: drop-shadow(5px 5px 7px black); */
 }
@@ -277,6 +269,10 @@ figcaption h4 {
     color: gray;
 }
 
+h1, h2, h3 {
+    font-weight: 300;
+}
+
 h1 {
     text-align: center;
     text-transform: uppercase;
@@ -314,11 +310,6 @@ main ul li:nth-child(odd) {
 
 main ul li:nth-child(even) {
     list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAAEhcmxxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAC/SURBVChTdZLREcIgDIYdwWeFqyM4giM4giM4Qp8b7nhRGKMjOEJHcARHqPnTUKjgd9de8icpf4FdjY1uLl6iUI9k4mCUng0m0Hut2OBeEjDHSBceu0mCeQkYFLroT5pmDo/hbCJ9JNHxGU/n/V5EUK6Boobs5OmuGm6axKKG9URaQ6UaLk42DHdJYFEmksDAKWyjUaXMb3OJ1LC7JU1RadbyT9CYthXaYqn9oYp1gPeteTb/wNGY6DwcLFeB+i++J3M0Peun0wAAAABJRU5ErkJggg==);
-}
-
-.ifge-char {
-    color: var(--color-red);
-    font-family: "dhanikans_signature_2regular";
 }
 
 .card {
@@ -385,4 +376,24 @@ main ul li:nth-child(even) {
     transform: translateY(-50%) translateX(-50%);
     padding: 0 15px;
     background: #fff;
+}
+
+.ifge-font {    
+    font-family: "dhanikans_signature_2regular";
+}
+
+.slogan {
+    color: var(--color-green);
+    font-size: larger;
+    text-align: center;      
+}
+
+.slogan .ifge-font {
+    color: var(--color-red);
+    font-size: 1.4rem;
+}
+
+.signature {
+    color: var(--color-red);
+    font-size: 1.8rem;
 }

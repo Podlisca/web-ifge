@@ -5,9 +5,9 @@
       
       <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
         
-        <a href="{{ .URL }}" class="has-dropdown">
+        <div class="has-dropdown">
           {{ .Name }}
-        </a>
+        </div>
 
         <div class="dropdown-content">
           {{ range .Children }}
