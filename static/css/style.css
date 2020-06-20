@@ -342,12 +342,21 @@ main ul li:nth-child(even) {
     color: var(--color-green);
 }
 
+.card .title a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .card .text {
     flex-grow: 2;
 }
 
 .card .link img {
     height: 3em;
+}
+
+.card.active {
+    background-color: var(--color-creme);
 }
 
 /* .card a::after {

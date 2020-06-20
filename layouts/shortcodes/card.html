@@ -1,12 +1,22 @@
-<div class="card">
-    <div class="icon">
+
+<div class="card{{ if eq .Parent.Name "iconmenu"}}{{ if eq .Page.RelPermalink ( relref . (print (.Get "title" | lower) ".md" ) )}} active{{ end }}{{ end }}">
+
+<div class="icon">
+    <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
         <img src="/img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon.svg{{ end}}"/>
-    </div>
-{{ with .Get "title" }} <div class="title">{{.}}</div>{{ end }}
+    </a>
+</div>
+{{ if .Get "title" }} 
+<div class="title">
+<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">    
+{{ .Get "title"}}
+</a>
+</div>
+{{ end }}
 {{ with .Get "text" }} <div class="text">{{.}}</div>{{ end }}
 <div class="link">
-    <a href="#">
-        <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right"/>
-    </a>
+<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
+    <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right"/>
+</a>
 </div>
 </div>

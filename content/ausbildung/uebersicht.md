@@ -1,5 +1,6 @@
 ﻿---
 title: "Ausbildungsphilosophie und Kursangebote"
+name: ausbildung
 menu: 
     main:
         parent: ausb
