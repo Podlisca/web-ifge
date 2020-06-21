@@ -1,6 +1,5 @@
 ﻿---
 title: "Startseite"
-description: "Eine Super Beschreibung der Seite"
 draft: false
 ---
 
