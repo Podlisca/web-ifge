@@ -14,10 +14,12 @@
   <link rel="shortcut icon" href="/img/favicon.png">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/nav.css">  
+  <link rel="stylesheet" href="/css/nav.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 </head>
 
 <body>
+  {{ partial "cookieconsent" . }}
   <script src="/js/navbar.js"></script>
   <header>
     <a href="/index.html">
