@@ -1,6 +1,9 @@
 <img src="/img/logo.jpg" style="height: 3em; margin: 0 5px;"/>
-<div><a href="/kontakt/" style="color: inherit;">Kontakt</a></div>
-<div>Datenschutz</div>
-<div>Impressum</div>
-<div>IFGE</div>
+
+{{ $currentPage := . }}
+{{ range .Site.Menus.footer }}
+    <div>
+        <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>   
+    </div>      
+{{ end }}
 <div>{{ now.Format "02.01.2006 15:04 "}}</div>
