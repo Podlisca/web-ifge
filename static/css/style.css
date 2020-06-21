@@ -225,8 +225,10 @@ footer div a {
 p {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
+    -webkit-font-smoothing: antialiased;
     hyphens: auto;
     text-align: justify;
+    line-height: 1.5;
 }
 
 img {
