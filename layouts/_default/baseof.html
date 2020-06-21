@@ -22,22 +22,24 @@
   {{ partial "cookieconsent" . }}
   <script src="/js/navbar.js"></script>
   <header>
-    <a href="/index.html">
-      <img src="/img/logo.jpg" alt="IFGE Logo"/>
-    </a>
-    <div>
-      {{ partial "site-navigation" . }}      
+    <div class="cont">
+      <a href="/index.html">
+        <img src="/img/logo.jpg" alt="IFGE Logo"/>
+      </a>
+      <div>
+        {{ partial "site-navigation" . }}      
+      </div>
     </div>
   </header>
-  <div class="head-filler" style="grid-area: hfill1;"></div>
-  <div class="head-filler" style="grid-area: hfill2;"></div>
 
-  {{ block "jumbo" . }}
-  {{ end }}
+  {{/*  <div class="head-filler" style="grid-area: hfill1;"></div>
+  <div class="head-filler" style="grid-area: hfill2;"></div>  */}}
 
   <main>
-    {{ block "main" . }}
-    {{ end }}
+    <div class="cont">
+      {{ block "main" . }}
+      {{ end }}
+    </div>
   </main>
 
   <!-- {{ partial "sidebar.html" . }} -->
