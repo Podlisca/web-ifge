@@ -10,7 +10,7 @@ weight: 4
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -24,7 +24,7 @@ weight: 4
 
 
 
-***
+{{< line icon="/icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
 * Mindestalter 24 Jahre
@@ -32,19 +32,19 @@ weight: 4
 * Seelische und geistige Stabilität
 
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/test_2.png" >}}
 ## Prüfung
 
-
+{{% box blue=1 %}}
 * pro Semester gibt es eine mündliche Zwischenprüfung
 * Diplomarbeit
 * Mündliche Abschlussprüfung & Fachgespräch
 * Keine Prüfungsgebühr, kein Auswahlseminar
 
 Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 80%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Diplomarbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
+{{% /box %}}
 
-
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
 
@@ -59,7 +59,7 @@ Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/vertrag.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
 

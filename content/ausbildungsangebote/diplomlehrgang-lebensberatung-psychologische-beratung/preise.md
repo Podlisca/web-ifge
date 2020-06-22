@@ -10,7 +10,7 @@ weight: 2
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 2
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="/icon/kosten_tuerkis.png" >}}
 
 ## Kosten
 
@@ -44,9 +44,11 @@ Wenn Sie die Voraussetzungen für die **Förderkriterien des Wiener Arbeitnehmer
 
 Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit a. UStG 1994 steuerfrei.
 
-Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse und Kuchen & Süßes angeboten.
+Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-***
+{{< line icon="/icon/aktion.png" >}}
+
+{{% box blue=1 %}}
 
 ## Eröffnungsangebote
 
@@ -82,7 +84,9 @@ Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, 
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{% /box %}}
+
+{{< line icon="/icon/aktion.png" >}}
 #### Frühbucherbonus
 ***
 
@@ -91,10 +95,13 @@ Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, 
 * LSB 16 (Samstag, 10 - 16 Uhr) in Wien bis 30.09.2021
 
 
-***
+{{< line icon="/icon/fachwissen_tuerkis.png" >}}
+
+{{% box blue=1 %}}
 ## Unterrichtsmaterialien
 ***
 
 Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
 Insbesondere das neue [SMART-Board](www.ifge.at) hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
+{{% /box %}}

@@ -10,7 +10,7 @@ weight: 5
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 5
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="/icon/praktikum.png" >}}
 
 ## Fachliche Tätigkeit
 
