@@ -19,12 +19,14 @@
 </head>
 
 <body>
+  
   {{ partial "cookieconsent" . }}
+
   <script src="/js/navbar.js"></script>
   <header>
     <div class="cont">
       <a href="/index.html">
-        <img src="/img/logo.jpg" alt="IFGE Logo"/>
+        <img src="/img/logo.jpg" alt="IFGE Logo" class="logo"/>
       </a>
       <div>
         {{ partial "site-navigation" . }}      
@@ -52,6 +54,9 @@
     {{ partial "site-footer.html" . }}
   </footer>
 
+  {{ partial "floating-button.html" . }}
+  {{ partial "scroll-top.html" .}}
+  
   <script>
 
     function toggleResponsive() {

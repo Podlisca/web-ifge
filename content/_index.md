@@ -8,7 +8,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{< slogan >}}
 
-{{< line icon="/icon/zitat.png" >}}
+{{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
 
@@ -21,7 +21,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 \- Institutsleiterin \-
 {{% /floatbox %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% box blue=1 %}}
 {{< card-more icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
