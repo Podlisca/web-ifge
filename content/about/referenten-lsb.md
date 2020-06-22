@@ -12,7 +12,7 @@ weight: 4
 
 {{< slogan >}}
 
-***
+{{< referenten-liste >}}
 
 {{% floatbox %}}
 
@@ -22,7 +22,7 @@ Jede\*r Referent\*in bringt sich mit seinem Know-how und seiner individuellen Pe
 
 {{% /floatbox %}}
 
-***
+{{< line icon="icon/referenten.png" >}}
 #### Dr. Dieter Schmutzer
 ***
 

@@ -200,7 +200,9 @@ img {
 .box.more {
     align-items: flex-start;
 }
-
+.box .full {
+    width: 100%;
+}
 .box .large {
     max-width: 640px;
     flex-shrink: 0;

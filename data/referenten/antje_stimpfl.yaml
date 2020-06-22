@@ -1,0 +1,16 @@
+Name: Antje Stimpfl
+Reihenfolge: 2
+Bild: /img/img2.jpg
+Float: left
+Text: 
+    - "dieser text steht oben nebem dem Bild"
+    - "Volle Beite Text."
+Werdegang:
+    - Station1
+    - Station2
+Kontakt:
+    - Web
+    - tel
+Unterrichtsthemen:
+    - Mediation
+    - Wirtschaft
