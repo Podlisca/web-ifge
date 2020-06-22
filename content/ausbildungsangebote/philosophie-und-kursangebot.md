@@ -14,7 +14,7 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="/icon/zitat.png" >}}
+{{< line icon="icon/zitat.png" >}}
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
@@ -39,7 +39,7 @@ an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schü
 {{% /large %}}
 {{% /box %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% box blue=1 %}}
 {{< card-more icon="/icon/3_standorte_schwarz.png" title="Lernen an 3 Standorten" >}}
@@ -56,7 +56,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% /box %}}
 
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 ## Unsere Ausbildungen im Überblick
 * * *
