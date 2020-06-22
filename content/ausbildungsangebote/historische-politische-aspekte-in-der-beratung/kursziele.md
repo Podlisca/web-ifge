@@ -3,6 +3,7 @@ title: "Kursziele"
 menu: 
     main:
         parent: politik
+        identifier: politik_ziele
 draft: false
 weight: 1
 ---

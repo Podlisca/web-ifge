@@ -3,6 +3,7 @@ title: "Kursziele"
 menu: 
     main:
         parent: upgrade_supervision
+        identifier: upgrade_supervision_ziele
 draft: false
 weight: 1
 ---
