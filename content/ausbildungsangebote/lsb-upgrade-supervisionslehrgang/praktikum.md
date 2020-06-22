@@ -11,7 +11,7 @@ weight: 5
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
@@ -21,7 +21,7 @@ weight: 5
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/praktikum.png" >}}
+{{< line icon="icon/praktikum.png" >}}
 
 ## Praktikum
 
