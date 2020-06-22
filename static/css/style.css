@@ -273,11 +273,11 @@ main ul li:nth-child(even) {
 }
 
 .card > * {
-    padding: 0.5em;
+    /* padding: 0.5em; */
 }
 
 .card .icon img {
-    height: 3em;
+    height: 70px;
 }
 
 .card .title {
