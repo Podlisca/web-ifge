@@ -10,7 +10,7 @@ weight: 1
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 1
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/diplomlehrgang.png" >}}
+{{< line icon="icon/diplomlehrgang.png" >}}
 
 ## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychologische Beratung
 

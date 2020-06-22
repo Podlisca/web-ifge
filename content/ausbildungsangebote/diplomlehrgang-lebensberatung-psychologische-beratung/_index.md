@@ -13,7 +13,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="/icon/diplomlehrgang.png" >}}
+{{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% floatbox %}}
 

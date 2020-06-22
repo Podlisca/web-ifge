@@ -10,7 +10,7 @@ weight: 3
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 3
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 ## Termine
 
@@ -31,7 +31,7 @@ In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang a
 Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
 
 
-{{< line icon="/icon/termine.png" >}}
+{{< line icon="icon/termine.png" >}}
 ## Informationsveranstaltung
 
 
@@ -85,7 +85,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 *Die Onlineveranstaltung wird über [Webex Meeting](www.ifge.at) abgehalten. 
 
 
-{{< line icon="/icon/termine.png" >}}
+{{< line icon="icon/termine.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
 {{% box align-items="flex-start" %}}

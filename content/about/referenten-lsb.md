@@ -14,16 +14,13 @@ weight: 4
 
 ***
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% small  %}}
-Das IFGE greift auf ein breites Referent\*innen-Pool zurück: es unterrichten Expert\*innen mit Branchenkenntnissen aus ihrem jeweiligen Bereich, um ein möglichst breitgefächertes Fachwissen sowie unterschiedlichste Praxisbeispiele bieten zu können.
+{{% floatbox %}}
+
+{{< image src="/img/img2.jpg" title="Bildbeschreibung" float="left" >}} Das IFGE greift auf ein breites Referent\*innen-Pool zurück: es unterrichten Expert\*innen mit Branchenkenntnissen aus ihrem jeweiligen Bereich, um ein möglichst breitgefächertes Fachwissen sowie unterschiedlichste Praxisbeispiele bieten zu können.
 
 Jede\*r Referent\*in bringt sich mit seinem Know-how und seiner individuellen Persönlichkeit ein, so dass die Ausbildungsteilnehmer*innen unterschiedliche Unterrichtsmethoden sowie -stile kennenlernen können.
-{{% /small  %}}
-{{% /box %}}
+
+{{% /floatbox %}}
 
 ***
 #### Dr. Dieter Schmutzer
@@ -108,7 +105,6 @@ Web: www.roessner.at/
 #### Mag. Peter Skolek
 ***
 
-
 {{% box %}}
 {{% small  %}}
 {{< figure src="/img/img1.jpg">}}
@@ -131,10 +127,10 @@ Fax-Dw: -30<br/>
 E-Mail: anwalt@peterskolek.at
 
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 ### Unterrichtsthemen
 * Recht
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 
@@ -177,11 +173,11 @@ E-Mail: natiesta@beautydoc.at<br/>
 Web: www.beautydoc.at
 
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 ### Unterrichtsthemen
 * Medizin
 * Sexualkrankheiten
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 
@@ -226,7 +222,7 @@ Laufende Fort- und Weiterbildungen im Bereich der psychologisch-systemischen Ber
 {{% small  %}}
 ### Kontakt
 {{% /small  %}}
-{{% small %}}
+{{% large %}}
 ### Unterrichtsthemen
 * Einführung
 * Ethik
@@ -235,7 +231,7 @@ Laufende Fort- und Weiterbildungen im Bereich der psychologisch-systemischen Ber
 * Work-Life-Balance
 * Tiergestützte Beratung
 
-{{% /small %}}
+{{% /large %}}
 {{% /box %}}
 
 

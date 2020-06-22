@@ -166,9 +166,12 @@ p, ul {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;
-    hyphens: auto;
-    text-align: justify;
+    hyphens: auto;    
     line-height: 1.45;
+}
+
+p {
+    text-align: justify;
 }
 
 img {
@@ -252,6 +255,11 @@ h3, h4 {
 
 h3 {
     text-align: left;
+    color: var(--color-green);
+}
+
+/* Überschriften immer grün auf blauem Hintergrund */
+.blue h1, .blue h2, .blue h3, .blue h4, .blue h5 {
     color: var(--color-green);
 }
 

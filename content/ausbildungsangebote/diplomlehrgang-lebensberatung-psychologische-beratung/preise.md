@@ -10,7 +10,7 @@ weight: 2
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 2
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/kosten_tuerkis.png" >}}
+{{< line icon="icon/kosten_tuerkis.png" >}}
 
 ## Kosten
 
@@ -46,7 +46,7 @@ Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit
 
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-{{< line icon="/icon/aktion.png" >}}
+{{< line icon="icon/aktion.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -86,7 +86,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/aktion.png" >}}
+{{< line icon="icon/aktion.png" >}}
 #### Frühbucherbonus
 ***
 
@@ -95,7 +95,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 * LSB 16 (Samstag, 10 - 16 Uhr) in Wien bis 30.09.2021
 
 
-{{< line icon="/icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}

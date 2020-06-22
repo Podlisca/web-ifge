@@ -10,14 +10,14 @@ weight: 1
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="/icon/zitat.jpg" >}}
+{{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
 
 {{< image src="/img/kursziel_1.jpg" float="left">}} Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. Weitere Infos 
 {{% /floatbox %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -29,7 +29,7 @@ weight: 1
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/diplomlehrgang.png" >}}
+{{< line icon="icon/diplomlehrgang.png" >}}
 
 ## Alle Informationen über den Lehrgang am IFGE
 
@@ -43,7 +43,7 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 
 {{% /floatbox %}}
 
-{{< line icon="/icon/diplomlehrgang.png" >}}
+{{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% box blue=1 %}}
 
