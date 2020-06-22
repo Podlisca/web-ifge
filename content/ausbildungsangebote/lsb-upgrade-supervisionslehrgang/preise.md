@@ -11,9 +11,10 @@ weight: 2
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
 {{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
@@ -21,7 +22,7 @@ weight: 2
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="/icon/kosten_tuerkis.png" >}}
 
 ## Kosten
 
@@ -31,5 +32,5 @@ weight: 2
 
 **Die Ausbildung ist nur komplett buchbar.**
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse und Kuchen & Süßes angeboten.
+In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 

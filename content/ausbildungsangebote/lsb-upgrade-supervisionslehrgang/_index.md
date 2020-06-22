@@ -29,7 +29,6 @@ WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
 
 {{% /floatbox %}}
 
-
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
@@ -41,19 +40,7 @@ WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
-
-## WAS BEDEUTET SUPERVISION?
-
-
-Im Rahmen der Supervision geht es nicht um die [Selbsterfahrung](www.ifge.at) der Supervisanden, sondern um deren Unterstützung als angehende Lebens- und Sozialberater*innen. [Supervision](www.ifge.at) wird sowohl von Einzelpersonen als auch Teams und Gruppen genützt, um Methoden sowie Handlungsmöglichkeiten im beruflichen Kontext zu reflektieren, um im Anschluss Klient\*innen professioneller beraten zu können.
-
-Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderungen, um einen konstruktiven Umgang mit Problemen zu ermöglichen sowie positive Veränderungsprozesse einzuleiten. Durch gezielte Fragen des/r Supervisor*in und die externe Sichtweise werden neue Denkansätze und alternative Lösungen möglich.
-
-{{< line icon="icon/supervision_tuerkis.png" >}}
-
-{{% box blue=1 %}}
-{{% small  %}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 ## WAS BIETET UNSER LEHRGANG?
 
@@ -68,17 +55,17 @@ Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere 
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
-#### Einzelsupervision
+#### [Einzelsupervision](/supervision/einzelsupervision.html)
 {{< figure src="/img/img2.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### Teamsupervision
+#### [Teamsupervision](/supervision/teamsupervision.html)
 {{< figure src="/img/img2.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### Gruppensupervision
+#### [Gruppensupervision](/supervision/geschlossenegruppe.html)
 {{< figure src="/img/img2.jpg" >}}
 {{% /small  %}}
 

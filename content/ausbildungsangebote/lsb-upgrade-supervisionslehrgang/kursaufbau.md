@@ -11,9 +11,10 @@ weight: 1
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
 {{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
@@ -21,13 +22,14 @@ weight: 1
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/supervision_tuerkis.png" >}}
 
-AUFBAU DES LEHRGANGS SUPERVISION
+
+## AUFBAU DES LEHRGANGS SUPERVISION
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 {{% box align-items="flex-start" %}}
-{{% small  %}}
+{{% small %}}
 #### Modul 1
 
 * Grundlagen der Lehrsupervision: Begriff, Abgrenzung und Geschichte
@@ -41,9 +43,9 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Übertragung und Gegenübertragung
 * Lern- und Lehrsupervision
 
-{{% /small  %}}
+{{% /small %}}
 
-{{% small  %}}
+{{% small %}}
 #### Modul 2
 
 * Verschiedene Methoden der Supervision
@@ -56,11 +58,10 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Hypnosystemische Beratung & Supervision
 * Lern- und Lehrsupervision
 
-{{% /small  %}}
+{{% /small %}}
 
-{{% small  %}}
+{{% small %}}
 #### Modul 3
-
 
 * Die dialogische Struktur des Selbst
 * Systemische Supervision
@@ -102,18 +103,23 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Abschlussprüfung 
 
 {{% /small  %}}
-
 {{% /box %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/test.png" >}}
 
-## PRÜFUNG
+{{% box blue=1 %}}
+{{% small  %}}
+
+## Prüfung
 
 Der Lehrgang schließt mit einer Abschlussprüfung  sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/referenten.png" >}}
 
 ## Leitung
 

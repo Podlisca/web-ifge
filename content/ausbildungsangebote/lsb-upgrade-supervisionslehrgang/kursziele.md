@@ -14,7 +14,8 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. [Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
+{{< image src="/img/kursziel_1.jpg" float="left">}} Das Ziel der Zusatzausbildung am IFGE ist, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als Expert*in bei allen beruflichen Herausforderungen beratend zur Seite stehen können. Als SupervisorIn erweitern Sie Ihr berufliches Angebot um eine besonders in der Lebens- und Sozialberatung – psychologischen Beratung sehr wichtige Komponente. Die ausgewählten Inhalte des LSB-Upgrades reichen von den Grundlagen der Lehrsupervision über die speziellen Ansprüche an ein Mehrpersonensetting bis hin zu Lösungswegen aus Teamkrisen. Wir bereiten Sie darüber hinaus ideal auf Organisationsberatung, systemische Supervision und betriebsrelevante Themen wie sexuelle Belästigung und Probleme in Teams vor. 
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -26,68 +27,15 @@ weight: 1
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
-{{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/diplomlehrgang.png" >}}
+{{< line icon="icon/supervision_tuerkis.png" >}}
 
-## Alle Informationen über den Lehrgang am IFGE
-
-{{% floatbox %}}
-
-{{< image src="/img/kursziel_2.jpg" float="right">}} Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb.html) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html), [Krisenintervention](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/krisenberatung.html) und [Sexualberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualberatung.html), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
-
-{{< image src="/img/kursziel_3.jpg" float="right">}} Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
-
-Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
-
-{{% /floatbox %}}
-
-{{< line icon="icon/diplomlehrgang.png" >}}
-
-{{% box blue=1 %}}
-
-## Warum den Lehrgang am IFGE besuchen?
-{{% /box %}}
-{{% box more=1 blue=1 align-items="flex-start" %}}
-{{% card-more title="Berufsbegleitendes Lernen" img="/berufsbegleitendes_lernen.jpg" %}}
-Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Variante des Lernens in kleinen Dosen und die stetige Wiederholung innerhalb kürzester Zeit nicht nur jene Variante ist, in der das Festigen des Lehrstoffes besonders mühelos gelingt, es ist auch die idealste Möglichkeit, Berufstätigen und Eltern, welche an Wochenendkursen oft nicht teilnehmen können, den Einstieg in ihren Traumberuf zu ermöglichen. **Kurs- und Ortshopping**: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
-
-Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin [Silvia Podlisca](/about/ueber_mich.html) mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen **bezüglich des Kundenaufbaus** weiter, vermittelt, worauf man bei der **Selbstständigkeit** achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
-{{% /card-more %}}
-
-{{% card-more title="Entwicklung & Unterstützung" img="/entwicklung_unterstuetzung.jpg" %}}
-Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. 
-
-Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. 
-
-Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemische Beratung, Familienaufstellung, Work-Life-Balance oder Sexualberatung - Themenbereiche, die von anderen Lehrgängen oft nur kurz aufgegriffen werden. 
-
-Über 800 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit.
-
-Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 12 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
-{{% /card-more  %}}
-
-{{% card-more title="Entwicklungspotenzial" img="/entwicklungspotential.jpg" %}}
-
-Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene **IFGE-Software** geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
- 
-**Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen** bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
-
-Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse sowie Kuchen & Süßes angeboten.
-{{% /card-more  %}}
-{{% /box %}}
+## WAS BEDEUTET SUPERVISION?
 
 
+Im Rahmen der Supervision geht es nicht um die [Selbsterfahrung](www.ifge.at) der Supervisanden, sondern um deren Unterstützung als angehende Lebens- und Sozialberater*innen. [Supervision](www.ifge.at) wird sowohl von Einzelpersonen als auch Teams und Gruppen genützt, um Methoden sowie Handlungsmöglichkeiten im beruflichen Kontext zu reflektieren, um im Anschluss Klient\*innen professioneller beraten zu können.
 
-
-
-
-
-
-
-
-
-
+Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderungen, um einen konstruktiven Umgang mit Problemen zu ermöglichen sowie positive Veränderungsprozesse einzuleiten. Durch gezielte Fragen des/r Supervisor*in und die externe Sichtweise werden neue Denkansätze und alternative Lösungen möglich.
 
 
