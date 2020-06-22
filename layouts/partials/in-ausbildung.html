@@ -1,0 +1,24 @@
+{{ $style := .style}}
+{{ with .context }}
+    <div class="referent {{ $style }}">
+        <hr/>
+        <h2>{{ .Name }}</h2>
+        <hr/>
+        <div class="floatbox">            
+            {{ range .Text }}                
+                <p>{{ . }}</p>
+            {{ end }}
+            <div style="clear: both;"></div>            
+        </div>
+        <div class="box" style="align-items: flex-start;">
+            {{ if .Kontakt }}
+                <div class="small">
+                    <h3>Kontakt</h3>
+                    {{ range .Kontakt }}
+                        {{ . }}<br/>
+                    {{ end }}    
+                </div>
+            {{ end }}            
+        </div>
+    </div>
+{{ end }}
