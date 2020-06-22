@@ -191,13 +191,14 @@ footer div a {
     text-decoration: none;
 }
 
-img.quer {
+.floatbox img.quer {
     max-width: 394px;
     max-height: 262.5px;
     width: 394px;
     height: 262.5px;
 }
-img.hoch {
+
+.floatbox img.hoch {
     max-width: 248px;
     max-height: 366px;
     width: 248px;
