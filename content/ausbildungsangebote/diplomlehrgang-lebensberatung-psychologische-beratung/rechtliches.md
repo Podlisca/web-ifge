@@ -62,6 +62,8 @@ Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
 {{< line icon="icon/vertrag.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
 ## Allgemeine Geschäftsbedingungen
 
 
@@ -74,3 +76,5 @@ Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet o
 Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt.
 
 Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie hier.
+{{% /small  %}}
+{{% /box %}}

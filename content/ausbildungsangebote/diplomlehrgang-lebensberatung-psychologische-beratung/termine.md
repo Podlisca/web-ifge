@@ -22,15 +22,6 @@ weight: 3
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
-
-## Termine
-
-In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an.
-
-Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
-
-
 {{< line icon="icon/termine.png" >}}
 ## Informationsveranstaltung
 
@@ -85,14 +76,14 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 *Die Onlineveranstaltung wird über [Webex Meeting](www.ifge.at) abgehalten. 
 
 
-{{< line icon="icon/termine.png" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
 {{< figure src="/img/img2.jpg">}}
-
+***
 ## LSB 12
 #### Start: 09. September 2020
 
@@ -123,16 +114,17 @@ Montags von 14:00 bis 20:00 Uhr
 
 Samstags von 10:00 bis 16:00 Uhr
 
-[ANMELDUNG](/anmeldung.html)
-
 Kursplan folgt 
 
+[VORMERKEN](/anmeldung.html)
+
+***
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
 {{< figure src="/img/img2.jpg">}}
-
+***
 ## LSB 14
 #### Start: 09. Februar 2021
 
@@ -150,15 +142,18 @@ Dienstags von 14:00 bis 20:00 Uhr
 
 Kursplan folgt 
 
-[ANMELDUNG](/anmeldung.html)
+[VORMERKEN](/anmeldung.html)
 {{% /small  %}}
+
 {{% /box %}}
+
+***
 {{% /small  %}}
 
 {{% small  %}}
 #### Niederösterreich
 {{< figure src="/img/img2.jpg">}}
-
+***
 ## LSB 15
 #### Start: 31. August 2020
 
@@ -179,10 +174,11 @@ Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am W
 
 Kursplan folgt 
 
-[ANMELDUNG](/anmeldung.html)
+[VORMERKEN](/anmeldung.html)
 {{% /small  %}}
 {{% /box %}}
 
+***
 
 
 
