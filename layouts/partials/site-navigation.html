@@ -1,13 +1,21 @@
-<nav class="topnav" id="myTopnav">
+<nav class="topnav" id="myTopnav">  
+  <div>
+    <a href="javascript:void(0);" class="icon" onclick="toggleResponsive()">&#9776;</a>    
+  </div>
   {{ $currentPage := . }}
   {{ range .Site.Menus.main }}
     {{ if .HasChildren }}  
       
       <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-        
-        <div class="has-dropdown">
-          {{ .Name }}
+        <div style="display: flex; justify-content: space-between;">
+          <div class="has-dropdown">
+            {{ .Name }}
+          </div>
+          <div class="submenu-toggler">
+            <a href="javascript:void(0);" onclick="toggleSubmenu(this);">+</a>    
+          </div>
         </div>
+
 
         <div class="dropdown-content">
           {{ range .Children }}              
@@ -16,9 +24,9 @@
         </div>
       </div>
     {{ else }}
-      <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a> 
+      <div>
+        <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+      </div>
     {{ end }}
-  {{ end }}
-
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>    
+  {{ end }}  
 </nav>
