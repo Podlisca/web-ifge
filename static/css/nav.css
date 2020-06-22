@@ -1,7 +1,8 @@
+@import "theme.css";
 
 /* Add a black background color to the top navigation */
 
-.topnav, .secnav {
+.topnav {
   color: white;
   display: flex;
   align-items: flex-start;
@@ -11,7 +12,7 @@
 
 /* Style the links inside the navigation bar */
 
-.topnav a, .secnav a, .topnav .has-dropdown {  
+.topnav a, .topnav .has-dropdown {  
   display: block;
   color: inherit;
   text-align: center;
@@ -104,11 +105,17 @@
   display: block;
 }
 
+.submenu-toggler {
+  display: none;
+  width: 3em;
+}
+
+
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 
 @media screen and (max-width: 700px) {
   /* .topnav a:not(:first-child), .dropdown .dropbtn { */
-  .topnav a, .dropdown .dropbtn {
+  .topnav a, .dropdown {
     display: none;
   }
   .topnav a.icon {
@@ -121,29 +128,56 @@
 
 @media screen and (max-width: 700px) {
   .topnav.responsive {
-    position: relative;
+    position: absolute;
+    background-color: var(--color-green);
+    top: 0;
+    left: 0;
+    width: 100vw;
     flex-direction: column;    
   }
-  .topnav.responsive a.icon {
+  /* .topnav.responsive a.icon {
     position: absolute;
     right: 0;
     top: 0;
-  }
-  .topnav.responsive a {
+  } */
+  .topnav.responsive a, .topnav.responsive > div {
     float: none;
+    width: 100%;
     display: block;
     text-align: left;
+    border-top: 1px solid var(--color-dark);
+    border-bottom: 1px rgba(0,0,0,.15) solid;
+  }
+  .topnav.responsive .submenu-toggler {
+    display: block;
   }
   .topnav.responsive .dropdown {
     float: none;
   }
   .topnav.responsive .dropdown-content {
     position: relative;
+    margin-left: 20px;
+    /* box-shadow: -7px 1px 0px 0px rgba(0, 0, 0, 0.2); */
+  }
+  .topnav.topnav.responsive .icon {
+    align-self: flex-end;    
+  }
+  .topnav.topnav.responsive .icon a {
+    width: none;
   }
   .topnav.responsive .dropdown .dropbtn {
     display: block;
     width: 100%;
     text-align: left;
+  }
+  .dropdown:hover .dropdown-content {
+    display: none;
+  }
+  .topnav.topnav.responsive .dropdown-content.show {
+    display: block;
+  }
+  .topnav.responsive .submenu-toggler a {
+    border-bottom-width: 0px;
   }
 }
 
@@ -156,27 +190,4 @@ a.has-dropside:after {
   content: "\25B6";
   font-size: 0.5em;
   margin-left: 3px;
-}
-
-.secnav {
-  justify-content: flex-end;
-}
-
-.secnav a {
-  font-size: 0.9em;
-  padding: 5px;
-  padding: 5px 16px;
-}
-
-.navsection {
-  display: flex;
-  flex-direction: column;  
-  /* align-items: flex-start; */
-}
-
-
-.topnav a.section-site {
-  padding-top: 2px;
-  padding-bottom: 2px;
-  font-size: 0.9em;
 }
