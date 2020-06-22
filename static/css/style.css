@@ -1,13 +1,4 @@
-:root {
-    --color-green: #16978c;
-    --color-red: #a34d5d;
-    --color-gray: #969696;
-    --color-lightgray: #eee;
-    --color-creme: #f8eada;
-    --color-blue: #e6f4f4;
-    --padding-main: 1em;
-    --color-text: #444
-}
+@import "theme.css";
 
 @font-face {
     font-family: 'dhanikans_signature_2regular';
@@ -36,7 +27,9 @@ html {
 }
 
 body {
-    box-sizing: content-box;
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
     
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
@@ -181,24 +174,6 @@ footer>div {
     padding: 5px;
 }
 
-section.image {
-    padding: 0;
-    grid-area: pic; 
-    margin-top: -51px;
-}
-.image.bg {
-    background-size: cover; 
-    height: 100vh;
-    max-height: 500px; 
-    background-position: center center;
-}
-
-section.image>img {
-    width: 100%;    
-    display: block;
-    max-height: 1000px;
-}
-
 main a, main a:visited {
     color: var(--color-green);
     text-decoration: none;
@@ -209,23 +184,18 @@ footer div a {
     text-decoration: none;
 }
 
-.btn {
-    background-color: rgba(163, 184, 180, 1);
-    border: solid rgba(153, 153, 151, 1) 0px;    
-    display: flex;
-    text-decoration: none;
-    color: inherit;
-    padding: 5px;
-    transition: ease-in 200ms;
-    margin: 2px 5px;
-}
-.btn>span {
-    min-width: 150px;
-    text-align: center;
+.floatbox img.quer {
+    max-width: 394px;
+    max-height: 262.5px;
+    width: 394px;
+    height: 262.5px;
 }
 
-.btn:hover {
-    background-color: var(--color-main);    
+.floatbox img.hoch {
+    max-width: 248px;
+    max-height: 366px;
+    width: 248px;
+    height: 366px;
 }
 
 p {
@@ -234,7 +204,7 @@ p {
     -webkit-font-smoothing: antialiased;
     hyphens: auto;
     text-align: justify;
-    line-height: 1.5;
+    line-height: 1.45;
 }
 
 img {
@@ -413,7 +383,7 @@ main ul li:nth-child(even) {
 
 .signature {
     color: var(--color-red);
-    font-size: 1.8rem;
+    font-size: 2.0rem;
 }
 
 .floatbox {

@@ -9,7 +9,7 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
-
+  
   <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
   <link rel="shortcut icon" href="/img/favicon.png">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
@@ -52,14 +52,32 @@
     {{ partial "site-footer.html" . }}
   </footer>
 
+  {{ partial "scroll-top.html" .}}
+  
   <script>
 
-    function myFunction() {
+    function toggleResponsive() {
       var x = document.getElementById("myTopnav");
       if (x.className === "topnav") {
         x.className += " responsive";        
       } else {
         x.className = "topnav";
+        /*  Array.from(document.getElementsByClassName("myclass")).forEach(
+          (el) => {
+            el.style.display = "none";
+          }
+        );  */
+      }
+    }
+
+    function toggleSubmenu(obj) {
+      if (obj.textContent === "+") {
+        obj.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.add("show");
+        obj.textContent = "-";
+      }
+      else {
+        obj.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.remove("show");
+        obj.textContent = "+";
       }
     }
   </script>
