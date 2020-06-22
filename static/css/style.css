@@ -204,7 +204,7 @@ p {
     -webkit-font-smoothing: antialiased;
     hyphens: auto;
     text-align: justify;
-    line-height: 1.5;
+    line-height: 1.45;
 }
 
 img {
@@ -383,7 +383,7 @@ main ul li:nth-child(even) {
 
 .signature {
     color: var(--color-red);
-    font-size: 1.8rem;
+    font-size: 2.0rem;
 }
 
 .floatbox {
