@@ -27,11 +27,17 @@
     {{ .Inner }}
 </div>
 <div class="link">
-<a href="javascript:void(0);" onclick="showMore(this);">
+<a class="more" href="javascript:void(0);" onclick="toggleMore(this);">
     Mehr lesen...
 </a>
-<a href="javascript:void(0);" onclick="showMore(this);">
+<a class="more" href="javascript:void(0);" onclick="toggleMore(this);">
     <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right" style="transform: rotate(90deg);"/>
+</a>
+<a class="less" href="javascript:void(0);" onclick="toggleMore(this);">
+    Weniger...
+</a>
+<a class="less" href="javascript:void(0);" onclick="toggleMore(this);">
+    <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right" style="transform: rotate(-90deg);"/>
 </a>
 </div>
 </div>

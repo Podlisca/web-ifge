@@ -340,11 +340,25 @@ main ul li:nth-child(even) {
     ); 
 }
 
+.card .text {
+    transition: max-height 300ms;
+}
+
 .card.show .text {
-    max-height: 1000px;    
+    max-height: 1000px;
     transition: max-height 600ms;
 }
-.card.show .link {
+
+.card:not(.show) .link .less {
+    display: none;
+}
+.card.show .link .less {
+    display: block;
+}
+.card:not(.show) .link .more {
+    display: block;
+}
+.card.show .link .more {
     display: none;
 }
 
