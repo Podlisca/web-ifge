@@ -390,7 +390,7 @@ main ul li:nth-child(even) {
 
 .signature {
     color: var(--color-red);
-    font-size: 1.8rem;
+    font-size: 2.0rem;
 }
 
 .floatbox {

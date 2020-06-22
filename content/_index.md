@@ -7,44 +7,42 @@ draft: false
 
 {{< slogan >}}
 
-***
+{{< line icon="/icon/zitat.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
-In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](www.ifge.at) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](www.ifge.at) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
+{{% floatbox %}}
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
 
-Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für [mich](www.ifge.at) – und mein Team – immer an erster Stelle. An allen drei Standorten in **Wien**, im **Burgenland** und in **Niederösterreich**!
+In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildung/uebersicht.html) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
+
+Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für [mich](/about/ueber_mich.html) – und [mein Team](http://localhost:1313/about/institut.html) – immer an erster Stelle. An allen drei Standorten in **Wien**, im **Burgenland** und in **Niederösterreich**!
 
 {{< silvia >}}
 
-\- Institutsleiterin \- 
+\- Institutsleiterin \-
+{{% /floatbox %}}
 
-{{% /large %}}
 
-{{% /box %}}
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 %}}
-{{< card-more icon="pencil.svg" title="Ausbildungsangebote">}}
+{{< card-more icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
 Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
 
 Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung.
 {{% /card-more %}}
-{{< card-more icon="pencil.svg" title="Online-Ausbildungen">}}
+{{< card-more icon="icon/online_ausbildungen.png" title="Online-Ausbildungen">}}
 Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. 
 
-Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden. __Verschaffen Sie sich einen Überblick über die zahlreichen Angebote__.
+Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden. [Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/ausbildung/uebersicht.html).
 {{< /card-more >}}
-{{< card-more icon="pencil.svg" title="Supervision">}}
+{{< card-more icon="icon/supervision.png" title="Supervision">}}
 Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
 
 Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
 {{< /card-more >}}
-{{< card-more icon="pencil.svg" title="Gruppenselbsterfahrung">}}
+{{< card-more icon="icon/gruppenselbsterfahrung.png" title="Gruppenselbsterfahrung">}}
 Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. 
 
 Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet. Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt, Potenziale und Ressourcen entdeckt sowie das eigene Handeln reflektiert.
@@ -55,6 +53,8 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 
 # Diplomlehrgang Lebensberatung in Wien, Pinkafeld & St. Pölten  
 # Upgrades / Fortbildung / Supervision
+
+***
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
