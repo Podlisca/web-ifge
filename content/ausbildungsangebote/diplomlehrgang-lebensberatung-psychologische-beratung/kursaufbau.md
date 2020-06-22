@@ -37,6 +37,8 @@ weight: 1
 
 584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
 
+[Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)
+
 **Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
 
 
