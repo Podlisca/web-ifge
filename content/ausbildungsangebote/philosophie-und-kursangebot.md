@@ -56,12 +56,14 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% /box %}}
 
 
-* * *
+{{< line icon="/icon/info_tuerkis.png" >}}
+
 ## Unsere Ausbildungen im Überblick
 * * *
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
+{{< figure src="/img/icon/diplomlehrgang.png">}}
 ### WKO ZERTIFIZIERTE LEHRGÄNGE
 * [Lebens- und Sozialberatung - psychologische Beratung](www.ifge.at)
 * [LSB Upgrade: Supervision](www.ifge.at)
@@ -69,7 +71,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-
+{{< figure src="/img/icon/zertifikat.png">}}
 ### AUS- UND WEITERBILDUNGEN
 * [Psychologisches Teambuilding](www.ifge.at)
 * [Sexual- & Paarberatung](www.ifge.at)
@@ -79,7 +81,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-
+{{< figure src="/img/icon/tiere.png">}}
 ### TIERGESTÜTZTE AUSBILDUNGEN
 * [Tiergestützte psychologische Beratung](www.ifge.at)
 * [Erste Hilfe für Katzen](www.ifge.at)
@@ -87,7 +89,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-
+{{< figure src="/img/icon/fachwissen_tuerkis.png">}}
 ### ONLINE AUSBILDUNGEN & TRAININGS
 * [Grundlagen in der Onlineberatung & Onlinecoaching](www.ifge.at)
 * [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
