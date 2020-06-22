@@ -1,0 +1,41 @@
+<div>
+    <div class="line">
+        <hr/>
+        <div>
+            <img src="/img/icon/referenten.png" alt="Referent Icon"/>       
+        </div>
+    </div>
+    <h2>{{ .Name }}</h2>
+    <hr/>
+    <div class="floatbox">
+        <p>
+        <img src="{{ .Bild }}" class="float {{ .Float }}" alt="{{ .Name }}"/>
+        {{ range $index, $element := .Text }}
+            {{ if ne $index 0}}
+                <p>
+            {{ end }}
+            {{ . }}
+            </p>
+        {{ end }}
+        <div style="clear: both;"></div>
+        <ul>
+            {{ range .Werdegang }}
+                <li>{{ . }}</li>        
+            {{ end }}
+        </ul>
+    </div>
+    <div class="box" style="align-items: flex-start;">
+        <div class="small">
+            <h3>Kontakt</h3>
+            {{ range .Kontakt }}
+                {{ . }}<br/>
+            {{ end }}    
+            </div>
+        <div class="large">
+            <h3>Unterrichtsschwerpunkt</h3>
+            {{ range .Unterrichtsthemen }}
+                {{ . }}<br/>
+            {{ end }}
+        </div>
+    </div>
+</div>
