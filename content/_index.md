@@ -46,7 +46,7 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 {{< /card-more >}}
 {{% /box %}}
 
-{{< line icon="/icon/diplomlehrgang.png" >}}
+{{< line icon="/icon/zertifikat.png" >}}
 
 # Diplomlehrgang Lebensberatung in Wien, Pinkafeld & St. Pölten  
 # Upgrades / Fortbildung / Supervision
