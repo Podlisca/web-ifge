@@ -161,7 +161,8 @@ footer div a {
     height: 366px;
 }
 
-p {
+/* Weiche Schriftart nur für Haupttexte und Listen verwenden */
+p, ul {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;

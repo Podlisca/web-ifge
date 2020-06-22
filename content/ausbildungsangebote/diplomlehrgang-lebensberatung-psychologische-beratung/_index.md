@@ -6,30 +6,30 @@ menu:
         identifier: lsb
 draft: false
 weight: 1
+description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
 
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-***
+{{< line icon="/icon/diplomlehrgang.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
+{{% floatbox %}}
+
+{{< image src="/img/silvia-podlisca.png" float="left" title="Bildbeschreibung" format="hoch">}} 
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
-Als [Lebens- und Sozialberater\*in - psychologische Berater\*in](www.ifge.at) arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
+
+Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen - psychologische Berater\*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Am [IFGE](www.ifge.at) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
+Am [IFGE](/about/institut.html) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
+
 **Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung**
 
-{{% /large %}}
-{{% /box %}}
+{{% /floatbox %}}
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
