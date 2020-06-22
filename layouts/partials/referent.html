@@ -33,9 +33,11 @@
             </div>
         <div class="large">
             <h3>Unterrichtsschwerpunkt</h3>
-            {{ range .Unterrichtsthemen }}
-                {{ . }}<br/>
-            {{ end }}
+            <ul>
+                {{ range .Unterrichtsthemen }}
+                    <li>{{ . }}</li>
+                {{ end }}
+            </ul>
         </div>
     </div>
 </div>
