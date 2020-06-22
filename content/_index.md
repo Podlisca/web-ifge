@@ -1,6 +1,7 @@
 ﻿---
 title: "Startseite"
 draft: false
+description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr oder Samstags von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie Supervision und Aufstellungsarbeit, sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
 ---
 
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
@@ -10,11 +11,10 @@ draft: false
 {{< line icon="/icon/zitat.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
 
-In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildung/uebersicht.html) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/philosophie-und-kursangebot.html) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
-Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für [mich](/about/ueber_mich.html) – und [mein Team](http://localhost:1313/about/institut.html) – immer an erster Stelle. An allen drei Standorten in **Wien**, im **Burgenland** und in **Niederösterreich**!
+Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für [mich](/about/ueber_mich.html) – und [mein Team](/about/team.html) – immer an erster Stelle. An allen drei Standorten in **Wien**, im **Burgenland** und in **Niederösterreich**! blablablablsdfkjlwerioasdlfjlaw alsdfjo öels dlkfjöoawerj flskd oöas iefjsld öoaiew lksydösi jfsj asjef
 
 {{< silvia >}}
 
@@ -22,9 +22,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 {{% /floatbox %}}
 
 
-
-
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/diplomlehrgang.png" >}}
 
 {{% box blue=1 %}}
 {{< card-more icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
@@ -49,7 +47,7 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 {{< /card-more >}}
 {{% /box %}}
 
-* * *
+{{< line icon="icon/l" >}}
 
 # Diplomlehrgang Lebensberatung in Wien, Pinkafeld & St. Pölten  
 # Upgrades / Fortbildung / Supervision
