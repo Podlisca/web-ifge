@@ -1,4 +1,4 @@
-{{ $toggle := true }}
+{{ $toggle := false }}
 {{ range sort $.Site.Data.referenten "Reihenfolge" "asc"}}
    {{ if $toggle }}    
       {{ partial "referent.html" (dict "context" . "style" "" ) }}
