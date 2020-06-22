@@ -17,8 +17,11 @@
     {{ .Inner }}
 </div>
 <div class="link">
-<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
-    <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right"/>
+<a href="javascript:void(0);" onclick="showMore(this);">
+    Mehr lesen...
+</a>
+<a href="javascript:void(0);" onclick="showMore(this);">
+    <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right" style="transform: rotate(90deg);"/>
 </a>
 </div>
 </div>

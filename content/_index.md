@@ -23,7 +23,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-{{% box blue=1 %}}
+{{% box blue=1 more=1 %}}
 {{< card-more icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
 Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
 

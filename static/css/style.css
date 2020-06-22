@@ -194,6 +194,10 @@ img {
     align-items: stretch;
 }
 
+.box.more {
+    align-items: flex-start;
+}
+
 .box .large {
     max-width: 640px;
     flex-shrink: 0;
@@ -291,7 +295,35 @@ main ul li:nth-child(even) {
 }
 
 .card .text {
+    max-height: 150px;
+    overflow: hidden;
     flex-grow: 2;
+    position: relative;
+}
+
+.box.more .link {
+    margin-top: 10px;
+}
+
+.box.more .card:not(.show) .text:after {    
+    position: absolute;
+    bottom: 0;
+    height: 100%;        
+    width: 100%;
+    content: "";
+    background: linear-gradient(to bottom,
+        rgba(230,244,244, 0) 60%, 
+        rgba(230,244,244, 1) 90%
+    );
+    pointer-events: none; /* so the text is still selectable */
+}
+
+.card.show .text {
+    max-height: 1000px;    
+    transition: max-height 600ms;
+}
+.card.show .link {
+    display: none;
 }
 
 .card .link img {
