@@ -166,9 +166,12 @@ p, ul {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;
-    hyphens: auto;
-    text-align: justify;
+    hyphens: auto;    
     line-height: 1.45;
+}
+
+p {
+    text-align: justify;
 }
 
 img {
