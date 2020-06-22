@@ -258,6 +258,11 @@ h3 {
     color: var(--color-green);
 }
 
+/* Überschriften immer grün auf blauem Hintergrund */
+.blue h1, .blue h2, .blue h3, .blue h4, .blue h5 {
+    color: var(--color-green);
+}
+
 hr {    
     border-top: 1px solid var(--color-green);
     margin-top: 25px;
