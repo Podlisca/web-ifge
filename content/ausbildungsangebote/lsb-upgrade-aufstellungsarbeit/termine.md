@@ -23,7 +23,13 @@ weight: 3
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="/icon/termine.png" >}}
+
+
+{{% box blue=1 %}}
+{{% small  %}}
+
+
 ## Informationsveranstaltung
 
 
@@ -32,8 +38,9 @@ Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detail
 Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
 
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
-
-{{< line icon="noun_Information_478770-2.png" >}}
+{{% /small  %}}
+{{% /box %}}
+{{< line icon="/icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
 
@@ -55,12 +62,12 @@ Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 Prüfungstag von 09:00 bis 16:00 Uhr 
 
-Modul 1: 16.01. und 17.01.2021<br/>
-Modul 2: 13.02. und 03.02.2021<br/>
-Modul 3: 20.03. und 07.03.2021<br/>
-Modul 4: 24.04. und 05.04.2021<br/>
-Modul 5: 22.05. und 23.05.2021<br/>
-Modul 6: 26.06. und 27.06.2021<br/>
+**Modul 1:** 16.01. und 17.01.2021<br/>
+**Modul 2:** 13.02. und 03.02.2021<br/>
+**Modul 3:** 20.03. und 07.03.2021<br/>
+**Modul 4:** 24.04. und 05.04.2021<br/>
+**Modul 5:** 22.05. und 23.05.2021<br/>
+**Modul 6:** 26.06. und 27.06.2021<br/>
 
 Prüfung: 03.07.2021
 
@@ -68,7 +75,7 @@ Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. D
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](http://stadthotel-pinkafeld.at/) ist in 5 Gehminuten erreichbar.
 
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](/anmeldung.html)
 
 {{% /small  %}}
 {{% small  %}}

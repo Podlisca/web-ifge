@@ -11,7 +11,7 @@ weight: 1
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 1
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="/icon/aufstellung.png" >}}
 
 AUFBAU DES LEHRGANGS SUPERVISION
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
@@ -72,9 +72,10 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Aufstellung eigener Themen
 * Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilder)
 
-
 {{% /small  %}}
+{{% /box %}}
 
+{{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Modul 4
 
@@ -108,6 +109,12 @@ Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilde
 
 {{% /box %}}
 
+{{< line icon="/icon/test.png" >}}
+
+
+{{% box blue=1 %}}
+{{% small  %}}
+
 ## PRÜFUNG
 
 Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
@@ -115,6 +122,10 @@ Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 Die praktische Prüfung findet am letzten Seminartag statt. 
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="/icon/referenten.png" >}}
 
 ## Leitung
 

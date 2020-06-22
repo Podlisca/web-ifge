@@ -12,7 +12,7 @@ Das SystemDimensionsBrett® ist eine Weiterentwicklung klassisacher Aufstellungs
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< figure src="/img/img1.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 Mit dem SystemDimensionsBrett® arbeitet man mehrdimensional. Es werden mehrere Einsichten oder Zeitebenen gleichzeitig dargestellt. Das öffnet den Blick, verdeutlicht Zusammenhänge und Wechselwirkungen, und schafft Klarheit. Mögliche Folgen von Verstrickungen können so besser aufgedeckt werden.

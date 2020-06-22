@@ -11,7 +11,7 @@ weight: 4
 # # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -23,7 +23,8 @@ weight: 4
 {{% /iconmenu %}}
 
 
-***
+
+{{< line icon="/icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
 
@@ -37,7 +38,12 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 Mind. 8 TeilnehmerInnen / Max. 12 TeilnehmerInnen
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/test.png" >}}
+
+
+{{% box blue=1 %}}
+{{% small  %}}
+
 ## Prüfung
 
 
@@ -46,8 +52,9 @@ Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
 Die praktische Prüfung findet am letzten Seminartag statt. 
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
-
-{{< line icon="noun_Information_478770-2.png" >}}
+{{% /small  %}}
+{{% /box %}}
+{{< line icon="/icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
 
@@ -65,12 +72,18 @@ zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Austellungsarbe
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
-{{< line icon="noun_Information_478770-2.png" >}}
-## Allgemeine Geschäftsbedingungen
+{{< line icon="/icon/vertrag.png" >}}
 
+
+{{% box blue=1 %}}
+{{% small  %}}
+
+## Allgemeine Geschäftsbedingungen
 
 Die Ausbildung ist nur komplett zu buchen und innerhalb von zwei Jahren (4 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von zwei Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Ausbildungsgebühr zu rechnen.
 
 Bei Zahlungsverzug von mehr als 10 Tagen bei Einmal- oder Modulzahlung wird automatisch der gesamte offene Restbetrag fällig. Der Lehrgang kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
 
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
+{{% /small  %}}
+{{% /box %}}

@@ -11,7 +11,7 @@ weight: 2
 # # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 2
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/kosten_tuerkis.png" >}}
 
 ## Kosten
 
@@ -34,5 +34,5 @@ Die angegebenen Preise beinhalten bereits die Umsatzstuer.
 
 **Die Ausbildung ist nur komplett buchbar.**
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse und Kuchen & Süßes angeboten.
+In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 

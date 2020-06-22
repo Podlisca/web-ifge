@@ -12,7 +12,7 @@ weight: 3
 # Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/termine.png" >}}
 
 ## Informationsveranstaltung
 
@@ -32,8 +32,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 
-{{< line icon="noun_Information_478770-2.png" >}}
-
+{{< line icon="/icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
 
@@ -47,12 +46,12 @@ Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 Prüfungstag von 09:00 bis 16:00 Uhr 
 
-Modul 1: 19.09. und 20.09.2020<br/>
-Modul 2: 21.11. und 22.11.2020<br/>
-Modul 3: 02.01. und 03.01.2021<br/>
-Modul 4: 30.01. und 31.01.2021<br/>
-Modul 5: 06.03. und 07.03.2021<br/>
-Modul 6: 27.03. und 28.03.2021<br/>
+**Modul 1:** 19.09. und 20.09.2020<br/>
+**Modul 2:** 21.11. und 22.11.2020<br/>
+**Modul 3:** 02.01. und 03.01.2021<br/>
+**Modul 4:** 30.01. und 31.01.2021<br/>
+**Modul 5:** 06.03. und 07.03.2021<br/>
+**Modul 6:** 27.03. und 28.03.2021<br/>
 
 Prüfung: 11.04.2021
 
