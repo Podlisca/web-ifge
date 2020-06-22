@@ -12,9 +12,9 @@ weight: 3
 
 {{< slogan >}}
 
-***
+ {{< line icon="/icon/gruppenselbsterfahrung.png" >}}
 
-Wir vermitteln Wissen mit Spaß, Leidenschaft und persönlichem Engagement!
+## Wir vermitteln Wissen mit Spaß, Leidenschaft und persönlichem Engagement!
 
 {{% box %}}
 {{% small  %}}
@@ -35,13 +35,17 @@ Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchst
 
 Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  eine 2,5 jährige interne Ausbildung um anschließend am IFGE unterrichten zu können.
 
-***
+ {{< line icon="/icon/silvia.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+
+
 #### Dominique Karlovits
-***
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< figure src="/img/karlovits.jpg">}}
 {{% /small  %}}
 {{% small %}}
 
@@ -67,6 +71,7 @@ Mit meinem Organisationstalent übernehme ich alle anstehenden Aufgaben stets fr
 * 2012 Pflegehelferin im Zuge der Ausbildung zur Dipl. Sozialbetreuerin
 * 2010 Matura - Oberstufenrealgymnasium
 
-
+{{% /small  %}}
+{{% /box %}}
 
 
