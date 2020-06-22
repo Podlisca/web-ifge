@@ -87,8 +87,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% /box %}}
 
 {{< line icon="icon/aktion.png" >}}
-#### Frühbucherbonus
-***
+## Frühbucherbonus
 
 *Der Frühbucherbonus ist derzeit für folgende Lehrgänge gültig:
 
@@ -100,7 +99,6 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% box blue=1 %}}
 {{% small  %}}
 ## Unterrichtsmaterialien
-***
 
 Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
