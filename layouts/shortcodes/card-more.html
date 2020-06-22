@@ -1,18 +1,28 @@
 
 <div class="card{{ if eq .Parent.Name "iconmenu"}}{{ if eq .Page.RelPermalink ( relref . (print (.Get "title" | lower) ".md" ) )}} active{{ end }}{{ end }}">
 
+{{ if .Get "icon" }} 
 <div class="icon">
     <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
         <img src="/img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon.svg{{ end}}"/>
     </a>
 </div>
+{{ end }}
+
 {{ if .Get "title" }} 
-<div class="title">
-<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">    
-{{ .Get "title"}}
+<div class="title">    
+<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
+{{ if .Get "img"}}<h4>{{ .Get "title"}}</h4>{{ else }}{{ .Get "title"}}{{ end }}
 </a>
 </div>
 {{ end }}
+
+{{ if .Get "img"}}
+<div class="image">
+    <img src="/img/{{ .Get "img" }}"/>
+</div>
+{{ end }}
+
 <div class="text">
     {{ .Inner }}
 </div>
