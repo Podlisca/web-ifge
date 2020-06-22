@@ -1,0 +1,42 @@
+<style>   
+
+    .floating-button-container {
+        display: flex;
+        flex-direction: column;
+        position: fixed; 
+        top: 40%;
+        right: 30px;
+    }
+
+    @media (max-width: 1200px) {
+        .floating-button-container {
+            display: none;
+        }
+    }
+
+    .floating-button-container img {
+        width: 60px;
+    }
+
+    .floating-button-container a {
+        color: white;
+        text-decoration: none;
+    }
+
+    /*  .floating-button-container a span {
+        display: inline-block;
+        overflow: hidden;
+        transition: 0.4s max-width ease-in-out;
+        max-width: 0;
+    }  */
+
+</style>
+
+<div class="floating-button-container">
+    <a href="tel:00436766108936" title="+43 676 6108936">
+        <img src="/img/icon/tel_rot.png">
+    </a>
+    <a href="mailto:silvia.podlisca@ifge.at?subject=Anfrage" title="silvia.podlisca@ifge.at">
+        <img src="/img/icon/mail_rot.png">
+    </a>
+</div>

@@ -19,7 +19,9 @@
 </head>
 
 <body>
+  
   {{ partial "cookieconsent" . }}
+
   <script src="/js/navbar.js"></script>
   <header>
     <div class="cont">
@@ -52,6 +54,7 @@
     {{ partial "site-footer.html" . }}
   </footer>
 
+  {{ partial "floating-button.html" . }}
   {{ partial "scroll-top.html" .}}
   
   <script>
