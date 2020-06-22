@@ -49,21 +49,14 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 
 ## Warum den Lehrgang am IFGE besuchen?
 {{% /box %}}
-{{% box blue=1 align-items="flex-start" %}}
-{{% small  %}}
-{{< figure src="/img/img2.jpg">}}
-#### Berufsbegleitendes Lernen
-
+{{% box more=1 blue=1 align-items="flex-start" %}}
+{{% card-more title="Berufsbegleitendes Lernen" img="/img2.jpg" %}}
 Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Variante des Lernens in kleinen Dosen und die stetige Wiederholung innerhalb kürzester Zeit nicht nur jene Variante ist, in der das Festigen des Lehrstoffes besonders mühelos gelingt, es ist auch die idealste Möglichkeit, Berufstätigen und Eltern, welche an Wochenendkursen oft nicht teilnehmen können, den Einstieg in ihren Traumberuf zu ermöglichen. **Kurs- und Ortshopping**: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
 
 Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin [Silvia Podlisca](/about/ueber_mich.html) mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen **bezüglich des Kundenaufbaus** weiter, vermittelt, worauf man bei der **Selbstständigkeit** achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
+{{% /card-more %}}
 
-{{% /small  %}}
-
-{{% small  %}}
-{{< figure src="/img/img2.jpg">}}
-#### Entwicklung & Unterstützung
-
+{{% card-more title="Entwicklung & Unterstützung" img="/img2.jpg" %}}
 Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. 
 
 Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. 
@@ -73,21 +66,16 @@ Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemisch
 Über 800 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit.
 
 Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 12 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
+{{% /card-more  %}}
 
-{{% /small  %}}
-
-{{% small  %}}
-{{< figure src="/img/img2.jpg">}}
-#### Entwicklungspotenzial
+{{% card-more title="Entwicklungspotenzial" img="/img2.jpg" %}}
 
 Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene **IFGE-Software** geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
  
 **Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen** bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
 
 Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse sowie Kuchen & Süßes angeboten.
-
-
-{{% /small  %}}
+{{% /card-more  %}}
 {{% /box %}}
 
 

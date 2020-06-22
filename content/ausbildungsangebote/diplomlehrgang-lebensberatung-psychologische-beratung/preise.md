@@ -49,10 +49,12 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{< line icon="/icon/aktion.png" >}}
 
 {{% box blue=1 %}}
-
+{{% small  %}}
 ## Eröffnungsangebote
+{{% /small  %}}
+{{% /box  %}}
 
-{{% box align-items="flex-start" %}}
+{{% box blue=1 align-items="flex-start" %}}
 {{% small  %}}
 ***
 #### ERÖFFNUNGSANGEBOT FÜR alle Standorte
@@ -84,8 +86,6 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% /small  %}}
 {{% /box %}}
 
-{{% /box %}}
-
 {{< line icon="/icon/aktion.png" >}}
 #### Frühbucherbonus
 ***
@@ -98,10 +98,12 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{< line icon="/icon/fachwissen_tuerkis.png" >}}
 
 {{% box blue=1 %}}
+{{% small  %}}
 ## Unterrichtsmaterialien
 ***
 
 Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
 Insbesondere das neue [SMART-Board](www.ifge.at) hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
+{{% /small  %}}
 {{% /box %}}

@@ -56,7 +56,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{% /small  %}}
 
 {{% small  %}}
-#### [FAMILIENAUFSTELLUNG IN DER GRUPPE]
+#### [FAMILIENAUFSTELLUNG IN DER GRUPPE]({{< relref "/gruppenselbsterfahrung/familienaufstellung.html" >}})
 {{< figure src="/img/img2.jpg" >}}
 {{% /small  %}}
 

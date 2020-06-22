@@ -56,6 +56,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 
 * 09.10.2020
 * 13.11.2020
+<br/> <br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -103,7 +104,7 @@ Mittwochs von 09:00 bis 15:00 Uhr
 
 ***
 {{% box blue=1 %}}
-
+{{% small  %}}
 ## LSB 13
 #### Start: 13. Februar 2021
 
@@ -112,6 +113,7 @@ Montags von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.html)
 
 [Termine LSB 13 herunterladen](/downloads/LSB_13_termine.pdf)
+{{% /small  %}}
 {{% /box %}}
 
 ***
@@ -142,14 +144,14 @@ Dienstags von 14:00 bis 20:00 Uhr
 
 ***
 {{% box blue=1 %}}
-
-## LSB 18
+{{% small  %}}
+## LSB 17
 #### Start: September 2021
 
 Kursplan folgt 
 
 [ANMELDUNG](/anmeldung.html)
-
+{{% /small  %}}
 {{% /box %}}
 {{% /small  %}}
 
@@ -171,17 +173,16 @@ Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am W
 ***
 
 {{% box blue=1 %}}
-
+{{% small  %}}
 ## LSB 18
 #### Start: September 2021
 
 Kursplan folgt 
 
 [ANMELDUNG](/anmeldung.html)
-
+{{% /small  %}}
 {{% /box %}}
 
-{{% /small  %}}
 
 
 

@@ -33,15 +33,17 @@ weight: 4
 
 
 {{< line icon="/icon/test_2.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
 ## Prüfung
 
-{{% box blue=1 %}}
 * pro Semester gibt es eine mündliche Zwischenprüfung
 * Diplomarbeit
 * Mündliche Abschlussprüfung & Fachgespräch
 * Keine Prüfungsgebühr, kein Auswahlseminar
 
 Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 80%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Diplomarbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
+{{% /small  %}}
 {{% /box %}}
 
 {{< line icon="/icon/vertrag.png" >}}
