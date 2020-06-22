@@ -16,7 +16,7 @@ weight: 2
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< figure src="/img/silvia_start.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 

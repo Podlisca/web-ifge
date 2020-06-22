@@ -18,8 +18,8 @@ weight: 1
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
-{{< figure src="/img/img1.jpg" >}}
+{{< figure src="/img/ausbildungsphilosophie1.jpg">}}
+{{< figure src="/img/ausbildungsphilosophie2.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 
