@@ -1,48 +1,51 @@
-<div>
-    <div class="line">
-        <hr/>
-        <div>
-            <img src="/img/icon/referenten.png" alt="Referent Icon"/>       
-        </div>
-    </div>
-    <h2>{{ .Name }}</h2>
-    <hr/>
-    <div class="floatbox">
-        <p>
-        <img src="{{ .Bild }}" class="float {{ .Float }}" alt="Foto {{ .Name }}"/>
-        {{ range $index, $element := .Text }}
-            {{ if ne $index 0}}
-                <p>
-            {{ end }}
-            {{ . }}
-            </p>
-        {{ end }}
-        <div style="clear: both;"></div>
-        {{ range  .Werdegang}}
-            {{ if .Abschnitt }}<p>{{ .Abschnitt }}</p>{{ end }}            
-            <ul>
-                {{ range .Station }}
-                    <li>{{ . }}</li>    
-                {{ end}}
-            </ul>
-        {{ end }}
-    </div>
-    <div class="box" style="align-items: flex-start;">
-        {{ if .Kontakt }}
-            <div class="small">
-                <h3>Kontakt</h3>
-                {{ range .Kontakt }}
-                    {{ . }}<br/>
-                {{ end }}    
+{{ $style := .style}}
+{{ with .context }}
+    <div class="referent {{ $style }}">
+        <div class="line">
+            <hr/>
+            <div>
+                <img src="/img/icon/referenten.png" alt="Referent Icon"/>       
             </div>
-        {{ end }}
-        <div class="large">
-            <h3>Unterrichtsschwerpunkt</h3>
-            <ul>
-                {{ range .Unterrichtsthemen }}
-                    <li>{{ . }}</li>
+        </div>
+        <h2>{{ .Name }}</h2>
+        <hr/>
+        <div class="floatbox">
+            <p>
+            <img src="{{ .Bild }}" class="float {{ .Float }}" alt="Foto {{ .Name }}"/>
+            {{ range $index, $element := .Text }}
+                {{ if ne $index 0}}
+                    <p>
                 {{ end }}
-            </ul>
+                {{ . }}
+                </p>
+            {{ end }}
+            <div style="clear: both;"></div>
+            {{ range  .Werdegang}}
+                {{ if .Abschnitt }}<p>{{ .Abschnitt }}</p>{{ end }}            
+                <ul>
+                    {{ range .Station }}
+                        <li>{{ . }}</li>    
+                    {{ end}}
+                </ul>
+            {{ end }}
+        </div>
+        <div class="box" style="align-items: flex-start;">
+            {{ if .Kontakt }}
+                <div class="small">
+                    <h3>Kontakt</h3>
+                    {{ range .Kontakt }}
+                        {{ . }}<br/>
+                    {{ end }}    
+                </div>
+            {{ end }}
+            <div class="large">
+                <h3>Unterrichtsschwerpunkt</h3>
+                <ul>
+                    {{ range .Unterrichtsthemen }}
+                        <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </div>
         </div>
     </div>
-</div>
+{{ end }}

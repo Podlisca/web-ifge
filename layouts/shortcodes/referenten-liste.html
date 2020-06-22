@@ -1,3 +1,10 @@
+{{ $toggle := true }}
 {{ range sort $.Site.Data.referenten "Reihenfolge" "asc"}}
-   {{ partial "referent.html" . }}
+   {{ if $toggle }}    
+      {{ partial "referent.html" (dict "context" . "style" "" ) }}
+      {{ $toggle = false }}
+   {{ else }}
+      {{ partial "referent.html" (dict "context" . "style" "blue" ) }}
+      {{ $toggle = true }}
+   {{ end}}
 {{ end }}
