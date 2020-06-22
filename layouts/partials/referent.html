@@ -18,11 +18,14 @@
             </p>
         {{ end }}
         <div style="clear: both;"></div>
-        <ul>
-            {{ range .Werdegang }}
-                <li>{{ . }}</li>        
-            {{ end }}
-        </ul>
+        {{ range  .Werdegang}}
+            {{ if .Abschnitt }}<p>{{ .Abschnitt }}</p>{{ end }}            
+            <ul>
+                {{ range .Station }}
+                    <li>{{ . }}</li>    
+                {{ end}}
+            </ul>
+        {{ end }}
     </div>
     <div class="box" style="align-items: flex-start;">
         <div class="small">
