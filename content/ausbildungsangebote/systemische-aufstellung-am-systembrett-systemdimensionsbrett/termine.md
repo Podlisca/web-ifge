@@ -22,7 +22,7 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/termine.png" >}}
+{{< line icon="icon/termine.png" >}}
 
 ## Informationsveranstaltung
 
@@ -32,7 +32,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 
-{{< line icon="/icon/termin_kursplan.png" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
 

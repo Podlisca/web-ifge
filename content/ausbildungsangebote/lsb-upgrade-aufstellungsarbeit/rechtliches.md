@@ -11,7 +11,7 @@ weight: 4
 # # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -24,7 +24,7 @@ weight: 4
 
 
 
-{{< line icon="/icon/lebenslauf.png" >}}
+{{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
 
@@ -38,7 +38,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 Mind. 8 TeilnehmerInnen / Max. 12 TeilnehmerInnen
 
-{{< line icon="/icon/test.png" >}}
+{{< line icon="icon/test.png" >}}
 
 
 {{% box blue=1 %}}
@@ -54,7 +54,7 @@ Die praktische Prüfung findet am letzten Seminartag statt.
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 {{% /small  %}}
 {{% /box %}}
-{{< line icon="/icon/vertrag.png" >}}
+{{< line icon="icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
 
@@ -72,7 +72,7 @@ zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Austellungsarbe
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
-{{< line icon="/icon/vertrag.png" >}}
+{{< line icon="icon/vertrag.png" >}}
 
 
 {{% box blue=1 %}}

@@ -12,7 +12,7 @@ weight: 3
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -23,7 +23,7 @@ weight: 3
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/termine.png" >}}
+{{< line icon="icon/termine.png" >}}
 
 # Termine
 
@@ -32,7 +32,7 @@ In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang a
 Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
 
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 
@@ -48,7 +48,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/termin_kursplan.png" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
 

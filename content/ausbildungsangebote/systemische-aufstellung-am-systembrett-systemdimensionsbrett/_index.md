@@ -11,7 +11,7 @@ weight: 6
 # Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
 {{< slogan >}}
 
-{{< line icon="/icon/aufstellung.png" >}}
+{{< line icon="icon/aufstellung.png" >}}
 
 {{% box %}}
 {{% small  %}}

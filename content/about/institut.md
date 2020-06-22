@@ -13,13 +13,13 @@ weight: 2
 
 {{< slogan >}}
 
- {{< line icon="/icon/lebenslauf.png" >}}
+ {{< line icon="icon/lebenslauf.png" >}}
 
 {{% floatbox %}} 
 {{< image src="/img/img1.jpg" float="left" >}} Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf {{< red >}}**I**{{< /red >}}nstitut {{< red >}}**f**{{< /red >}}ür {{< red >}}**g**{{< /red >}}anzheitliches {{< red >}}**E**{{< /red >}}rleben (IFGE) –  Silvia Podlisca e.U. geändert. Mit der Bekanntheit des nunmehrigen IFGE – wo fortan {{< red >}}**I**{{< /red >}}ntuition, {{< red >}}**F**{{< /red >}}achwissen, {{< red >}}**G**{{< /red >}}efühl und {{< red >}}**E**{{< /red >}}rfolg vereint wurden – stieg die Nachfrage an Seminaren, Workshops und Zusatzausbildungen. So entschied ich mich, das IFGE gänzlich um den [Ausbildungsschwerpunkt](/ausbildungsangebote/philosophie-und-kursangebot.html) zu erweitern.
 {{% /floatbox %}}
 
- {{< line icon="/icon/diplomlehrgang.png" >}}
+ {{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
@@ -63,7 +63,7 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 {{% /large %}}
 {{% /box %}}
 
- {{< line icon="/icon/coaching.png" >}}
+ {{< line icon="icon/coaching.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 # Coaching für Führungskräfte
@@ -74,7 +74,7 @@ Meine Philosophie hinsichtlich der Ausbildungs-](/ausbildungsangebote/philosophi
 {{% /small  %}}
 {{% /box %}}
 
- {{< line icon="/icon/zertifikat.png" >}}
+ {{< line icon="icon/zertifikat.png" >}}
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}

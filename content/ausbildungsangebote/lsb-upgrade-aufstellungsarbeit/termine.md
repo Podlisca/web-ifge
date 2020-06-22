@@ -23,7 +23,7 @@ weight: 3
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/termine.png" >}}
+{{< line icon="icon/termine.png" >}}
 
 
 {{% box blue=1 %}}
@@ -40,7 +40,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 {{% /small  %}}
 {{% /box %}}
-{{< line icon="/icon/termin_kursplan.png" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
 

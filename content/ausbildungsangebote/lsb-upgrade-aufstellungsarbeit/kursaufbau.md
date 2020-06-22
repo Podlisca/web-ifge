@@ -11,7 +11,7 @@ weight: 1
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 1
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/aufstellung.png" >}}
+{{< line icon="icon/aufstellung.png" >}}
 
 AUFBAU DES LEHRGANGS SUPERVISION
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
@@ -109,7 +109,7 @@ Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilde
 
 {{% /box %}}
 
-{{< line icon="/icon/test.png" >}}
+{{< line icon="icon/test.png" >}}
 
 
 {{% box blue=1 %}}
@@ -125,7 +125,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/referenten.png" >}}
+{{< line icon="icon/referenten.png" >}}
 
 ## Leitung
 
