@@ -162,7 +162,7 @@ footer div a {
 }
 
 /* Weiche Schriftart nur für Haupttexte und Listen verwenden */
-p, ul {
+p, ul, .small, .large {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;
