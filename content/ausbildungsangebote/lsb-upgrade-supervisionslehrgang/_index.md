@@ -43,18 +43,20 @@ WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
 {{< line icon="icon/info_tuerkis.png" >}}
 
 ## WAS BIETET UNSER LEHRGANG?
+{{% box %}}
+{{% small %}}
 
 Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer\*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
 
 Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere durch praktische Übungssequenzen ausgebaut und gestärkt. Häufige Themen und Fragestellungen in der Supervision werden erarbeitet, um angehende Kolleg*innen sicher und kompetent begleiten und unterstützen zu können.
 
-{{% /small  %}}
+{{% /small %}}
 {{% /box %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% box align-items="flex-start" %}}
-{{% small  %}}
+{{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
 {{< figure src="/img/img2.jpg" >}}
 {{% /small  %}}
