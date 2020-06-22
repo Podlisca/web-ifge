@@ -3,7 +3,7 @@
 
 {{ if .Get "icon" }} 
 <div class="icon">
-    <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
+    <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}{{ if .Get "link" }}{{ .Get "link" }}{{ else }}#{{ end }}{{ end }}">
         <img src="/img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon.svg{{ end}}"/>
     </a>
 </div>
@@ -11,7 +11,7 @@
 
 {{ if .Get "title" }} 
 <div class="title">    
-<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
+<a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}{{ if .Get "link" }}{{ .Get "link" }}{{ else }}#{{ end }}{{ end }}">
 {{ if .Get "img"}}<h4>{{ .Get "title"}}</h4>{{ else }}{{ .Get "title"}}{{ end }}
 </a>
 </div>
