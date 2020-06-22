@@ -65,41 +65,41 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% small  %}}
 {{< figure src="/img/icon/diplomlehrgang.png">}}
 #### WKO ZERTIFIZIERTE LEHRGÄNGE
-* [Lebens- und Sozialberatung - psychologische Beratung](www.ifge.at)
-* [LSB Upgrade: Supervision](www.ifge.at)
-* [LSB Upgrade: Aufstellungsarbeit](www.ifge.at)
+* [Lebens- und Sozialberatung - psychologische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html)
+* [LSB Upgrade: Supervision](/ausbildungsangebote/lsb-upgrade-supervisionslehrgang.html)
+* [LSB Upgrade: Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit.html)
 
 {{% /small  %}}
 {{% small  %}}
 {{< figure src="/img/icon/zertifikat.png">}}
 #### AUS- UND WEITERBILDUNGEN
-* [Psychologisches Teambuilding](www.ifge.at)
-* [Sexual- & Paarberatung](www.ifge.at)
-* [VertrauenslehrerIn](www.ifge.at)
-* [Historische & politische Aspekte in der Beratung](www.ifge.at)
-* [Klangschalenmassage](www.ifge.at)
+* [Psychologisches Teambuilding](/ausbildungsangebote/ausbildung-psychologisches-teambuilding.html)
+* [Sexual- & Paarberatung](/ausbildungsangebote/sexualberatung-paarberatung.html)
+* [VertrauenslehrerIn](/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin.html)
+* [Historische & politische Aspekte in der Beratung](/ausbildungsangebote/historische-politische-aspekte-in-der-beratung.html)
+* Klangschalenmassage
 
 {{% /small  %}}
 {{% small  %}}
 {{< figure src="/img/icon/fachwissen_tuerkis.png">}}
 #### ONLINE AUSBILDUNGEN & TRAININGS
-* [Grundlagen in der Onlineberatung & Onlinecoaching](www.ifge.at)
+* [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
 * [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
-* [Ganzheitlich gesund – Grundlagen der Psychosomatik](www.ifge.at)
-* [psychologisches Coaching](www.ifge.at)
-* [Umgang mit Love Scamming](www.ifge.at)
-* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](www.ifge.at)
-* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](www.ifge.at)
-* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](www.ifge.at)
-* [Planspiel Praxisaufbau](www.ifge.at)
+* [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
+* [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
+* [Umgang mit Love Scamming](/online-ausbildungsangebote/umgang_love_scamming.html)
+* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz.html)
+* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/workshop_fit_safe.html)
+* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau.html)
+* [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau.html)
 
 {{% /small  %}}
 {{% small  %}}
 {{< figure src="/img/icon/tiere.png">}}
 #### TIERGESTÜTZTE AUSBILDUNGEN
-* [Tiergestützte psychologische Beratung](www.ifge.at)
-* [Erste Hilfe für Katzen](www.ifge.at)
-* [Erste Hilfe für Hunde](www.ifge.at)
+* [Tiergestützte psychologische Beratung](/ausbildungsangebote/tiergestützte-psychologische-beratung.html)
+* Erste Hilfe für Katzen
+* Erste Hilfe für Hunde
 
 {{% /small  %}}
 {{% /box %}}
