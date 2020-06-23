@@ -10,34 +10,34 @@ unsafe = true
 [params]
 SiteDescription = "Beschreibung auf Site-Ebene als Fallback der einzelnen Pages"
 
-#[menu]
+[menu]
 
-#    [[menu.main]]
-#        name = "Übers IFGE"
-#        identifier = "IFGE"
-#        url = "#"
-#        weight = 1
+    [[menu.main]]
+        name = "Übers IFGE"
+        identifier = "IFGE"
+        url = "#"
+        weight = 1
 
-#    [[menu.main]]
-#        name = "Ausbildungen"
-#        identifier = "ausb"
-#        url = "#"       
-#        weight = 2
+    [[menu.main]]
+        name = "Ausbildungen"
+        identifier = "ausb"
+        url = "#"       
+        weight = 2
 
-#    [[menu.main]]
-#        name = "Online-Ausbildungen"
-#        identifier = "online"
-#        url = "#"
-#        weight = 3
+    [[menu.main]]
+        name = "Online-Ausbildungen"
+        identifier = "online"
+        url = "#"
+        weight = 3
     
-#    [[menu.main]]
-#        name = "Supervision"
-#        identifier = "supervision"
-#        url = "#"
-#        weight = 4
+    [[menu.main]]
+        name = "Supervision"
+        identifier = "supervision"
+        url = "#"
+        weight = 4
     
-#    [[menu.main]]
-#        name = "Gruppenselbsterfahrung"
-#        identifier = "gruppenselbsterfahrung"
-#        url = "#"
-#        weight = 5
+    [[menu.main]]
+        name = "Gruppenselbsterfahrung"
+        identifier = "gruppenselbsterfahrung"
+        url = "#"
+        weight = 5
