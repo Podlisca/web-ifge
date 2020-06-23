@@ -7,7 +7,7 @@ draft: false
 weight: 2
 ---
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
+# Name
 {{< slogan >}}
 
 {{< line icon="/icon/info_tuerkis.png" >}}

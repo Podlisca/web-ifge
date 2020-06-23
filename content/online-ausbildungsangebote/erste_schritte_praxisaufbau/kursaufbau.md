@@ -7,7 +7,7 @@ draft: false
 weight: 1
 ---
 
-# Online-Ausbildung
+# Name
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -22,7 +22,7 @@ weight: 1
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
 
-## AUFBAU DES LEHRGANGS SUPERVISION
+## AUFBAU DES LEHRGANGS 
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 {{% box align-items="flex-start" %}}
