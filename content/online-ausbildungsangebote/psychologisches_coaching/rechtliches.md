@@ -2,13 +2,14 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: grundlagen_psychosomatik
-        identifier: grundlagen_psychosomatik_rechtliches
-draft: true
+        parent: onlinecoaching
+        identifier: onlinecoaching_rechtliches
+draft: false
 weight: 4
 ---
 
-# Ganzheitlich gesund – Grundlagen der Psychosomatik
+# ONLINE Ausbildung: 
+# psychologisches Coaching
 
 {{< slogan >}}
 
@@ -24,20 +25,21 @@ weight: 4
 
 
 {{< line icon="icon/lebenslauf.png" >}}
+
 ## Zugangsvoraussetzungen
 
-* Diese Ausbildung ist für alle offen.
+* Diese Ausbildung ist für alle offen
 
 {{< line icon="icon/test.png" >}}
+
 {{% box blue=1 %}}
 {{% small  %}}
-
 ## Prüfung
-
 
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Erleben ausgestellt.
+Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
 
 {{% /small  %}}
 {{% /box %}}
@@ -45,7 +47,7 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 {{< line icon="icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 196,- auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 490,- Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
 
@@ -53,7 +55,9 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck "Ganzheitlichkeit: Grundlagen Psychosomatik" + Ihren Namen an. Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Ausbildungsbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Ausbildungsgebühr zu bezahlen; danach die volle Ausbildungsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
+zu überweisen. Bitte geben Sie als Verwendungszweck Coaching Onlineschulung + Ihren Namen an.
+
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Ausbildungsbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Ausbildungsgebühr zu bezahlen; danach die volle Ausbildungsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
 {{< line icon="icon/vertrag.png" >}}
 {{% box blue=1 %}}

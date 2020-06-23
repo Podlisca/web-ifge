@@ -8,7 +8,8 @@ draft: true
 weight: 1
 ---
 
-# Name
+# ONLINE Ausbildung: 
+# „Zeig’ dich!“: Praxis von Anfang an professionell gründen
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -24,68 +25,31 @@ weight: 1
 
 
 ## AUFBAU DES LEHRGANGS 
-100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+28 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
 
-{{% box align-items="flex-start" %}}
-{{% small %}}
-#### Modul 1
+### WELCHE FRAGEN IM WORKSHOP BEANTWORTET WERDEN
 
-* Inhaltspunkt
-* Inhaltspunkt
+Vor der Eröffnung einer eigenen Beratungspraxis stehen (angehende) Berater\*innen zumeist vor zahlreichen Fragen. Vor allem, wenn diese bisher noch nie selbstständig waren. Die folgenden und alle individuell im Workshop auftauchenden Fragen werden branchenrelevant und praxistauglich erläutert:
 
-
-{{% /small %}}
-
-{{% small %}}
-#### Modul 2
-
-* Inhaltspunkt
-* Inhaltspunkt
-
-{{% /small %}}
-
-{{% small %}}
-#### Modul 3
-
-* Inhaltspunkt
-* Inhaltspunkt
-{{% /small  %}}
-
-{{% /box %}}
-{{% box align-items="flex-start" %}}
-{{% small  %}}
-#### Modul 4
-
-* Inhaltspunkt
-* Inhaltspunkt
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Modul 5
-
-* Inhaltspunkt
-* Inhaltspunkt
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Modul 6
-
-* Inhaltspunkt
-* Inhaltspunkt
-
-{{% /small  %}}
-{{% /box %}}
+* Wie gestalte ich einen professionellen Werbeauftritt?
+* Wie viel Geld muss ich in etwa investieren, wenn ich Grafik, Programmierung oder Text von einem Profi gestalten lasse?
+* Wie viel Zeit und Ressourcen werde ich in etwa benötigen, wenn ich vieles oder alles davon selbst erledigen möchte?
+* Brauche ich einen Unternehmensnamen?
+* Welche Werbestrategien empfehlen sich für den Anfang? Und was kosten sie?
+* Benötige ich ein Firmenlogo und wenn ja – wie sollte es in der psychosozialen Branche gestaltet sein?
+* Wie können Social Media-Kanäle zieldienlich für den Erfolg in der psychologischen Beratung eingesetzt werden?
+* Welche organisations-systemischen Fragen gilt es, sich im Zuge der Gewerbeeröffnung zu stellen?
+ 
+Für diese und andere Fragen ist in dem Workshop, der speziell auf die Branche der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychologischen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater\*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen.
 
 {{< line icon="icon/test.png" >}}
 
+## Prüfung
 {{% box blue=1 %}}
 {{% small  %}}
+Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-## Prüfung
-
-text
+Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Erleben ausgestellt.
 
 {{% /small  %}}
 {{% /box %}}
@@ -94,8 +58,8 @@ text
 
 ## Leitung
 
-* Silvia Podlisca
-* Dr. Dieter Schmutzer
+* Carina Fritz
+
 
 
 

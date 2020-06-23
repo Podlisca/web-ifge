@@ -8,15 +8,17 @@ draft: true
 weight: 2
 ---
 
-# Name
+# ONLINE Ausbildung: 
+# „Zeig’ dich!“: Praxis von Anfang an professionell gründen
+
 {{< slogan >}}
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} 
-texttexttext
+{{< image src="/img/silvia_start.jpg" float="left " >}} Die beste Ausbildung  nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient\*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient\*innen? Dafür müssen Sie sichtbar werden. „Zeig’ dich!“ ist die Devise – aber bitte professionell. Bevor der erste Klient oder die erste Klientin also die eigene Praxis betritt, gibt es zahlreiche Schritte, die es für eine erfolgreiche und vor allem professionelle Gründung braucht. Und das sind gar nicht wenige.
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -29,14 +31,6 @@ texttexttext
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
 
-## WAS BIETET UNSER LEHRGANG?
-{{% box %}}
-{{% small %}}
 
-texttexttext
-
-{{% /small %}}
-{{% /box %}}
 

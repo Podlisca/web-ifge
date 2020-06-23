@@ -39,11 +39,13 @@ Schon diese Beispiele des Volksmundes zeigen die untrennbare Verbindung von Kör
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-## WAS BIETET UNSER LEHRGANG?
+## VERMITTLUNG VON JAHRZEHNTELANGER ERFAHRUNG IN DER KÖRPERARBEIT
 {{% box %}}
 {{% small %}}
 
-texttexttext
+Die fachlichen Inhalte verbinden teils uraltes, traditionelles Heilwissen aus allen Teilen der Welt mit evidenzbasierten Informationen aus der modernen Anatomie und Medizin. In dieser digitalen Ausbildung profitieren Sie von Silvia Podliscas jahrzehntelanger, praktischer Erfahrung in der körperorientierten Behandlung. Die Vermittlung von medizinischem Fachwissen hat dabei am IFGE langjährige Tradition. So wurde bereits im Jahr 2006 damit begonnen, körperorientierte Methoden – wie beispielsweise die professionelle Anwendung der Klangschalenmassage oder die Arbeit „Touch of health“ – am Institut für ganzheitliches Erleben zu unterrichten.
+
+Sowohl die Unterrichtstechnik als auch die Vermittlung von Fachwissen hat sich seither konstant weiterentwickelt, so dass Sie von einer digitalen Fortbildung auf höchstem Niveau im ganzheitlichen, psychosomatischen Bereich profitieren.
 
 {{% /small %}}
 {{% /box %}}

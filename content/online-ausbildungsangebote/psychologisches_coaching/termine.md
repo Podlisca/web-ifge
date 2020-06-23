@@ -2,14 +2,14 @@
 title: "Termine"
 menu: 
     main:
-        parent: zeig_dich
-        identifier: zeig_dich_termine
+        parent: onlinecoaching
+        identifier: onlinecoaching_termine
 draft: false
 weight: 3
 ---
 
 # ONLINE Ausbildung: 
-# „Zeig’ dich!“: Praxis von Anfang an professionell gründen
+# psychologisches Coaching
 
 {{< slogan >}}
 

@@ -2,14 +2,14 @@
 title: "Preise"
 menu: 
     main:
-        parent: online_grundlagen
-        identifier: online_grundlagen_preise
-draft: true
+        parent: onlinecoaching
+        identifier: onlinecoaching_preise
+draft: false
 weight: 2
 ---
 
-# ONLINE Ausbildung
-# Grundlagen der Onlineberatung
+# ONLINE Ausbildung: 
+# psychologisches Coaching
 
 {{< slogan >}}
 
@@ -27,8 +27,6 @@ weight: 2
 
 ## Kosten
 
-Einmalzahlung: € 196,- 
+* Einmalzahlung: € 490,-
 
 **Die Ausbildung ist nur komplett buchbar.**
-
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. 
