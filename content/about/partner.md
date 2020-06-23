@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: partner
-draft: false
+draft: true
 weight: 7
 ---
 

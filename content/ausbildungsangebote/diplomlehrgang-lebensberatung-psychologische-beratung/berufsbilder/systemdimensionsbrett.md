@@ -3,7 +3,7 @@ title: "Systemdimensionsbrett"
 menu:
     main:
         parent: berufsbild
-draft: false
+draft: true
 ---
 
 # SystemDimensionsBrett®

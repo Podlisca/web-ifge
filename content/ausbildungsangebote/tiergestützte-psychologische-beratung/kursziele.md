@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: upgrade_tiergestuetzt
-draft: false
+        identifier: upgrade_tiergestuetzt_ziele
+draft: true
 weight: 1
 ---
 

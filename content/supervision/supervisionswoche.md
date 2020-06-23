@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "supervisionswoche"
-draft: false
+draft: true
 weight: 4
 ---
 

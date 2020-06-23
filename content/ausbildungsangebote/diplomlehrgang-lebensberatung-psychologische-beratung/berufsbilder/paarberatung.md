@@ -3,7 +3,7 @@ title: "Paarberatung"
 menu:
     main:
         parent: berufsbild
-draft: false
+draft: true
 ---
 
 # Paarberatung am IFGE

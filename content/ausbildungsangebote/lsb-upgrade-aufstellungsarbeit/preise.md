@@ -4,14 +4,14 @@ menu:
     main:
         parent: upgrade_aufstellungsarbeit
         identifier: aufstellungsarbeit_preise
-draft: false
+draft: true
 weight: 2
 ---
 
 # # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

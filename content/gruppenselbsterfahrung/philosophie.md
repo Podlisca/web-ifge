@@ -4,7 +4,7 @@ menu:
     main:
         parent: gruppenselbsterfahrung
         identifier: philosophie
-draft: false
+draft: true
 weight: 2
 ---
 

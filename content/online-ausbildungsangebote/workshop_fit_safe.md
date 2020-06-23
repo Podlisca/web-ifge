@@ -3,7 +3,7 @@ title: "Workshop Fit & Safe für Mädchen"
 menu: 
     main:
         parent: "online"
-draft: false
+draft: true
 weight: 8
 ---
 

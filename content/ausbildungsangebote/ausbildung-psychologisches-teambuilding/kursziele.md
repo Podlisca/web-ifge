@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: teambuilding
-draft: false
+        identifier: teambuilding_ziele
+draft: true
 weight: 1
 ---
 

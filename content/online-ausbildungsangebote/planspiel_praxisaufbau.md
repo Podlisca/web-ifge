@@ -3,7 +3,7 @@ title: "Planspiel Praxisaufbau"
 menu: 
     main:
         parent: "online"
-draft: false
+draft: true
 weight: 10
 ---
 

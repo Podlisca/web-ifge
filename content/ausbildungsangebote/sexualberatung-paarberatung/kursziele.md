@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: upgrade_sexualberatung
-draft: false
+        identifier: upgrade_sexualberatung_ziele
+draft: true
 weight: 1
 ---
 

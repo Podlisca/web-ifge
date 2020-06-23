@@ -71,6 +71,10 @@ main {
     grid-template-columns: 1fr minmax(auto, 640px);     */
 }
 
+img.logo {
+    max-width: 160px;
+}
+
 @media (max-width: 700px) {
     body {
         grid-template-columns: auto;
@@ -429,6 +433,13 @@ main ul li:nth-child(even) {
     padding: 0;
 }
 
+@media (max-width: 700px) {
+    .floatbox img.quer {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
 .floatbox img.left {
     float: left;
     padding-right: var(--padding-main);
@@ -445,4 +456,9 @@ main ul li:nth-child(even) {
 
 .green {
     color: var(--color-green);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
 }

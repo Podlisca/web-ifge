@@ -4,14 +4,14 @@ menu:
     main:
         parent: upgrade_supervision
         identifier: supervision_rechtliches
-draft: false
+draft: true
 weight: 4
 ---
 
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -23,7 +23,7 @@ weight: 4
 {{% /iconmenu %}}
 
 
-{{< line icon="/icon/lebenslauf.png" >}}
+{{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
 
@@ -34,7 +34,7 @@ weight: 4
 Die Ausbildung ist nur komplett buchbar.
 
 
-{{< line icon="/icon/test.png" >}}
+{{< line icon="icon/test.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 
@@ -47,7 +47,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/vertrag.png" >}}
+{{< line icon="icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
 
@@ -65,7 +65,7 @@ zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Supervision + I
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
-{{< line icon="/icon/vertrag.png" >}}
+{{< line icon="icon/vertrag.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 

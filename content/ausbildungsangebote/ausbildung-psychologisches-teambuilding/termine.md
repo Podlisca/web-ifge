@@ -4,7 +4,7 @@ menu:
     main:
         parent: teambuilding
         identifier: teambuilding_termine
-draft: false
+draft: true
 weight: 3
 ---
 

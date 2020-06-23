@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: vertrauenslehrer
-draft: false
+        identifier: vertrauenslehrer_ziele
+draft: true
 weight: 1
 ---
 

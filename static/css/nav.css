@@ -121,6 +121,7 @@
   .topnav a.icon {
     float: right;
     display: block;
+    font-size: 1.5em;
   }
 }
 
@@ -133,7 +134,8 @@
     top: 0;
     left: 0;
     width: 100vw;
-    flex-direction: column;    
+    flex-direction: column;
+    z-index: 99;
   }
   /* .topnav.responsive a.icon {
     position: absolute;

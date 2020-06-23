@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: upgrade_systembrett
-draft: false
+        identifier: upgrade_systembrett_ziele
+draft: true
 weight: 1
 ---
 

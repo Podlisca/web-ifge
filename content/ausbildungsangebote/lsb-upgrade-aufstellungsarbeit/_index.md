@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_aufstellungsarbeit
-draft: false
+draft: true
 weight: 3
 ---
 
@@ -29,7 +29,7 @@ WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018
 {{% /floatbox %}}
 
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

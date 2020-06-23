@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: ueber_mich
-draft: false
+draft: true
 weight: 1
 ---
 
@@ -13,7 +13,7 @@ weight: 1
 
 {{< slogan >}}
 
- {{< line icon="/icon/silvia.png" >}}
+ {{< line icon="icon/silvia.png" >}}
 
 {{% floatbox %}}
 
@@ -49,7 +49,7 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 
 {{% /floatbox %}}
 
- {{< line icon="/icon/lebenslauf.png" >}}
+ {{< line icon="icon/lebenslauf.png" >}}
  #### MEINE AUSBILDUNGEN / FORTBILDUNGEN
 
 * Beratung/Therapie bei sexuellen Paarproblemen (Dipl.Psych.in Garbriele Frohme,2019)
@@ -76,7 +76,7 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 * Geprüfte Lehrlingsausbildnerin (1994)
 * Geprüfte Zoofachhändlerin (1994)
 
-  {{< line icon="/icon/zertifikat.png" >}}
+  {{< line icon="icon/zertifikat.png" >}}
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}

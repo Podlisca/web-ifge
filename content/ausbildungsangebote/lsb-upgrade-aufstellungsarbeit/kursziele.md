@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: upgrade_aufstellungsarbeit
-draft: false
+        identifier: upgrade_aufstellungsarbeit_ziele
+draft: true
 weight: 1
 ---
 

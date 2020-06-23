@@ -4,7 +4,7 @@ menu:
     main:
         parent: gruppenselbsterfahrung
         identifier: glaubenssatzaufstellung
-draft: false
+draft: true
 weight: 4
 ---
 

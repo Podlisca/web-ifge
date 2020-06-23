@@ -3,7 +3,7 @@ title: "Suizid in der Familie"
 menu:
     main:
         parent: berufsbild
-draft: false
+draft: true
 ---
 
 # Suchtberatung

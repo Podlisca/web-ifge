@@ -4,7 +4,7 @@ menu:
     main:
         parent: politik
         identifier: politik_termine
-draft: false
+draft: true
 weight: 3
 ---
 

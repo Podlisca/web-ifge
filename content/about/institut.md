@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: institut
-draft: false
+draft: true
 weight: 2
 ---
 
@@ -13,13 +13,13 @@ weight: 2
 
 {{< slogan >}}
 
- {{< line icon="/icon/lebenslauf.png" >}}
+ {{< line icon="icon/lebenslauf.png" >}}
 
 {{% floatbox %}} 
 {{< image src="/img/img1.jpg" float="left" >}} Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf {{< red >}}**I**{{< /red >}}nstitut {{< red >}}**f**{{< /red >}}ür {{< red >}}**g**{{< /red >}}anzheitliches {{< red >}}**E**{{< /red >}}rleben (IFGE) –  Silvia Podlisca e.U. geändert. Mit der Bekanntheit des nunmehrigen IFGE – wo fortan {{< red >}}**I**{{< /red >}}ntuition, {{< red >}}**F**{{< /red >}}achwissen, {{< red >}}**G**{{< /red >}}efühl und {{< red >}}**E**{{< /red >}}rfolg vereint wurden – stieg die Nachfrage an Seminaren, Workshops und Zusatzausbildungen. So entschied ich mich, das IFGE gänzlich um den [Ausbildungsschwerpunkt](/ausbildungsangebote/philosophie-und-kursangebot.html) zu erweitern.
 {{% /floatbox %}}
 
- {{< line icon="/icon/diplomlehrgang.png" >}}
+ {{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
@@ -63,18 +63,18 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 {{% /large %}}
 {{% /box %}}
 
- {{< line icon="/icon/coaching.png" >}}
+ {{< line icon="icon/coaching.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 # Coaching für Führungskräfte
 
 
-Meine Philosophie hinsichtlich der Ausbildungs-](/ausbildungsangebote/philosophie-und-kursangebot.html) und [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky(https://www.fcbp.at/team/) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](https://www.fcbp.at/gr%C3%BCndung/) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten [Tagesseminare](https://www.fcbp.at/tagestrainings/) sowie [Workshops](https://www.fcbp.at/workshops/) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
+Meine Philosophie hinsichtlich der [Ausbildungs-](/ausbildungsangebote/philosophie-und-kursangebot.html) und [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](https://www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](https://www.fcbp.at/gr%C3%BCndung/) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten [Tagesseminare](https://www.fcbp.at/tagestrainings/) sowie [Workshops](https://www.fcbp.at/workshops/) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
 
 {{% /small  %}}
 {{% /box %}}
 
- {{< line icon="/icon/zertifikat.png" >}}
+ {{< line icon="icon/zertifikat.png" >}}
 
 {{% box align-items="flex-start" %}}
 {{% small  %}}
