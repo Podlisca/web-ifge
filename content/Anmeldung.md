@@ -80,9 +80,9 @@ Mit Ihrer Anmeldung stimmen Sie den AGB zu. Die Widerrufsbelehrung und Datenschu
 <form method="post" action="anmeldung.php">
 <table>
     <tr>
-        <td><label for="anrede">Anrede</label></td>
+        <td><label for="anrede" class="required">Anrede</label></td>
         <td>
-            <input type="radio" id="male" name="anrede" value="Hr.">
+            <input type="radio" id="male" name="anrede" value="Hr." required>
             <label for="male">Hr.</label><br>
             <input type="radio" id="female" name="anrede" value="Fr.">
             <label for="female">Fr.</label><br>
@@ -91,25 +91,25 @@ Mit Ihrer Anmeldung stimmen Sie den AGB zu. Die Widerrufsbelehrung und Datenschu
         </td>
     <tr>
     <tr>
-        <td><label for="vorname">Vorname</label></td>
-        <td><input type="text" id="vorname" name="vorname"></td>
+        <td><label for="vorname" class="required">Vorname</label></td>
+        <td><input type="text" id="vorname" name="vorname" required></td>
     </tr>
     <tr>
-        <td><label for="nachname">Nachname</label></td>
-        <td><input type="text" id="nachname" name="nachname"></td>
+        <td><label for="nachname" class="required">Nachname</label></td>
+        <td><input type="text" id="nachname" name="nachname" required></td>
     </tr>
     <tr>
         <td><label for="fname">Firmenname</label></td>
         <td><input type="text" id="fname" name="firmenname"></td>
     </tr>
     <tr>
-        <td><label for="email">Email</label></td>
-        <td><input type="text" id="email" name="email"></td>
+        <td><label for="email" class="required">Email</label></td>
+        <td><input type="email" id="email" name="email" required></td>
     </tr>
     <tr>
-        <td><label for="veranstaltung">Veranstaltung</label></td>
+        <td><label for="veranstaltung" class="required">Veranstaltung</label></td>
         <td>
-            <select id="veranstaltung" name="veranstaltung">
+            <select id="veranstaltung" name="veranstaltung" required>
                 {{< kurse-select >}}
             </select>
         </td>
@@ -142,20 +142,20 @@ Mit Ihrer Anmeldung stimmen Sie den AGB zu. Die Widerrufsbelehrung und Datenschu
         <td><input type="text" id="uid" name="uid"></td>
     </tr>
     <tr>
-        <td><label for="adresse">Adresse</label></td>
-        <td><input type="text" id="adresse" name="adresse"></td>
+        <td><label for="adresse" class="required">Adresse</label></td>
+        <td><input type="text" id="adresse" name="adresse" required></td>
     </tr>
     <tr>
-        <td><label for="plz">PLZ</label></td>
-        <td><input type="text" id="plz" name="plz"></td>
+        <td><label for="plz" class="required">PLZ</label></td>
+        <td><input type="text" id="plz" name="plz" required></td>
     </tr>
     <tr>
-        <td><label for="ort">Ort</label></td>
-        <td><input type="text" id="ort" name="ort"></td>
+        <td><label for="ort" class="required">Ort</label></td>
+        <td><input type="text" id="ort" name="ort" required></td>
     </tr>
     <tr>
-        <td><label for="tel">Tel.</label></td>
-        <td><input type="text" id="tel" name="tel"></td>
+        <td><label for="tel" class="required">Tel.</label></td>
+        <td><input type="text" id="tel" name="tel" required></td>
     </tr>
     <tr>
         <td><label for="nachricht">Ihre Mitteilung an uns</label></td>
@@ -170,16 +170,16 @@ Mit Ihrer Anmeldung stimmen Sie den AGB zu. Die Widerrufsbelehrung und Datenschu
         <td><input type="text" id="aktion" name="aktion"></td>
     </tr>
     <tr>
-        <td><label for="agb">Ich stimme den AGB zu</label></td>
-        <td><input type="checkbox" id="agb" name="agb"></td>
+        <td><label for="agb" class="required">Ich stimme den AGB zu</label></td>
+        <td><input type="checkbox" id="agb" name="agb" required></td>
     </tr>
     <tr>
-        <td><label for="wdruf">Widerrufsbelehrung gelesen u. akzeptiert</label></td>
-        <td><input type="checkbox" id="wdruf" name="wdruf"></td>
+        <td><label for="wdruf" class="required">Widerrufsbelehrung gelesen u. akzeptiert</label></td>
+        <td><input type="checkbox" id="wdruf" name="wdruf" required></td>
     </tr>
     <tr>
-        <td><label for="datenschutz">Es gilt die Datenschutzerklärung</label></td>
-        <td><input type="checkbox" id="datenschutz" name="datenschutz"></td>
+        <td><label for="datenschutz" class="required">Es gilt die Datenschutzerklärung</label></td>
+        <td><input type="checkbox" id="datenschutz" name="datenschutz" required></td>
     </tr>
     <tr>
         <td colspan="2"><input type="submit" name="submit"></td>

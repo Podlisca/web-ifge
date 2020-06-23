@@ -463,3 +463,8 @@ main ul li:nth-child(even) {
     display: flex;
     justify-content: center;
 }
+
+.required:after {
+    content:" *";
+    color: var(--color-red);
+}
