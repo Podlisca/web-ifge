@@ -413,6 +413,7 @@ main ul li:nth-child(even) {
     transform: translateY(-50%) translateX(-50%);
     padding: 0 15px;
     background: #fff;
+    border-radius: 55px;
 }
 
 .ifge-font {    
