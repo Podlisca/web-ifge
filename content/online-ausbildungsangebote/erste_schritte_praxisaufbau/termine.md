@@ -12,7 +12,7 @@ weight: 3
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +22,7 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 {{% box %}}
 {{% small  %}}
 
@@ -38,7 +38,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/termin_kursplan.png" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
 

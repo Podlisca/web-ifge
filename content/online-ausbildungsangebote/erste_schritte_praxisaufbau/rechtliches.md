@@ -11,7 +11,7 @@ weight: 4
 # Ausbildung
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,14 +22,14 @@ weight: 4
 {{% /iconmenu %}}
 
 
-{{< line icon="/icon/lebenslauf.png" >}}
+{{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
 
 * Name
 * ...
 
-{{< line icon="/icon/test.png" >}}
+{{< line icon="icon/test.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 
@@ -43,7 +43,7 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/vertrag.png" >}}
+{{< line icon="icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
 Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 196,- auf das Konto:
@@ -56,7 +56,7 @@ BIC: BKAUATWW
 
 zu überweisen. Bitte geben Sie als Verwendungszweck "Grundlagen in der Onlineberatung & Coaching" + Ihren Namen an. Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Ausbildungsbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Ausbildungsgebühr zu bezahlen; danach die volle Ausbildungsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
-{{< line icon="/icon/vertrag.png" >}}
+{{< line icon="icon/vertrag.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 

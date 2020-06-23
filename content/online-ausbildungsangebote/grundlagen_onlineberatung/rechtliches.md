@@ -12,7 +12,7 @@ weight: 4
 
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -23,7 +23,7 @@ weight: 4
 {{% /iconmenu %}}
 
 
-{{< line icon="/icon/lebenslauf.png" >}}
+{{< line icon="icon/lebenslauf.png" >}}
 
 ## Zugangsvoraussetzungen
 
