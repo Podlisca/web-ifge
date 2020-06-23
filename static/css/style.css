@@ -89,7 +89,7 @@ img.logo {
         width: 100px;
     }
 
-    .box:not(.blue) {
+    .box:not(.menu) {
         flex-direction: column;
     }
 }
