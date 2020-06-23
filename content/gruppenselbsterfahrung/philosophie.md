@@ -10,7 +10,7 @@ weight: 2
 
 # Philosophie
 {{< slogan >}}
-***
+{{< line icon="icon/gruppenselbsterfahrung_3.png" >}}
 
 {{% floatbox %}}
 
