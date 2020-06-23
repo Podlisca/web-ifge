@@ -7,8 +7,10 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 # Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
-***
 
+{{< line icon="icon/silvia.png" >}}
+
+{{% center %}}
 **Liebe Besucher,** <br/>
 
 **unsere Seite befindet sich im Umbau, weshalb noch nicht der gewohnte Inhalt vorhanden ist.**
@@ -16,9 +18,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 **Wir bitten um Verständnis.**
 
 {{< silvia >}}
-
-***
-
+{{% /center %}}
 
 {{< line icon="icon/zitat.png" >}}
 
