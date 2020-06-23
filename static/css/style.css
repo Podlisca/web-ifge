@@ -140,6 +140,10 @@ footer {
 footer>div {
     padding: 5px;
 }
+footer .logo {
+    height: 4em; 
+    margin: 0 5px;
+}
 
 main a, main a:visited {
     color: var(--color-green);
