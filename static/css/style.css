@@ -178,7 +178,7 @@ body>footer div a {
 }
 
 /* Weiche Schriftart nur für Haupttexte und Listen verwenden */
-p, ul, .small, .large, article {
+p, ul, .small, .large, article, table {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;
