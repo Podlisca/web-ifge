@@ -15,7 +15,7 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](www.ifge.at) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
+{{< image src="/img/upgrade_supervision_1.jpg" float="left " >}} Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](www.ifge.at) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
 
 Dies erfordert neben einer aufrechten Gewerbeberechtigung den Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung). 
 
@@ -58,17 +58,17 @@ Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere 
 {{% box align-items="flex-start" %}}
 {{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
-{{< figure src="/img/img2.jpg" >}}
+{{< figure src="/img/einzelsupervision.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Teamsupervision](/supervision/teamsupervision.html)
-{{< figure src="/img/img2.jpg" >}}
+{{< figure src="/img/teamsupervision.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Gruppensupervision](/supervision/geschlossenegruppe.html)
-{{< figure src="/img/img2.jpg" >}}
+{{< figure src="/img/gruppensupervision.jpg" >}}
 {{% /small  %}}
 
 {{% /box %}}
