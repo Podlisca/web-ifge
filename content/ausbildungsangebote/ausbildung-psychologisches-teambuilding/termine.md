@@ -39,14 +39,14 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
 
 #### Termine folgen
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 #### Start: 30. Oktober 2021
 
@@ -64,7 +64,7 @@ Anmeldung
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 #### Termine folgen
 

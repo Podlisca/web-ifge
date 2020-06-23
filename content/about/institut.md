@@ -47,6 +47,25 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% /small  %}}
 {{% /box %}}
 
+{{% box blue=1 align-items="flex-start" %}}
+{{% small  %}}
+#### Wien
+{{< figure src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< figure src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
+
+{{% /small  %}}
+{{% small  %}}
+#### Niederösterreich
+{{< figure src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+
+{{% /small  %}}
+{{% /box %}}
+
 ***
 # Entwicklung & Unterstützung wird am IFGE groß geschrieben
 ***

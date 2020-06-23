@@ -26,6 +26,5 @@ weight: 5
 
 ## Praktikum
 
-
-PRAKTIKUM IM AUSMASS VON 100 STUNDEN
+### PRAKTIKUM IM AUSMASS VON 100 STUNDEN
 Zusätzlich zu den 100 Ausbildungsstunden ist für die Aufnahme in die Expertenliste der WKO/Wirtschaftskammer ein Praktikum im Ausmaß von 100 Stunden im Bereich der Austellungsarbeit erforderlich sowie 5 Einzelsupervisonsstunden (Bestätigung durch eine/n beim Fachverband eingetragene/n Supervisor\*in) vorgeschrieben.
