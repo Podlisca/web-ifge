@@ -3,7 +3,7 @@ title: "Zeig dich - Erste Schritte im Praxisaufbau"
 menu: 
     main:
         parent: "online"
-draft: false
+draft: true
 weight: 9
 ---
 

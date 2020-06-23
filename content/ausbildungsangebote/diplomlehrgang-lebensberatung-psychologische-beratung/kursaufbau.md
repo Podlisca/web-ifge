@@ -3,7 +3,7 @@ title: "Kursaufbau"
 menu: 
     main:
         parent: lsb
-draft: false
+draft: true
 weight: 1
 ---
 

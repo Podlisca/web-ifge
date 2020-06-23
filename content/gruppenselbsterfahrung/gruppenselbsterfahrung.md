@@ -4,7 +4,7 @@ menu:
     main:
         parent: gruppenselbsterfahrung
         identifier: selbsterfahrungsgruppe
-draft: false
+draft: true
 weight: 5
 ---
 

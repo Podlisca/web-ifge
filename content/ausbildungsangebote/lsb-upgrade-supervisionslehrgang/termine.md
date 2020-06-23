@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_supervision
         identifier: supervision_termine
-draft: false
+draft: true
 weight: 3
 ---
 

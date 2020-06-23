@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: institut
-draft: false
+draft: true
 weight: 2
 ---
 

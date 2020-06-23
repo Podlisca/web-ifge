@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_systembrett
         identifier: systembrett_preise
-draft: false
+draft: true
 weight: 2
 ---
 

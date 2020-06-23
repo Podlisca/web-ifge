@@ -3,7 +3,7 @@ title: "Grundlagen der Onlineberatung"
 menu: 
     main:
         parent: "online"
-draft: false
+draft: true
 weight: 2
 ---
 

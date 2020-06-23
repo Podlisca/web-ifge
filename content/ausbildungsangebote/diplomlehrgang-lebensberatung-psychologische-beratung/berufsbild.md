@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsb
         identifier: berufsbild
-draft: false
+draft: true
 weight: 6
 ---
 

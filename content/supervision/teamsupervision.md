@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "teamsupervision"
-draft: false
+draft: true
 weight: 5
 ---
 
