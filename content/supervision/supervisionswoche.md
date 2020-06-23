@@ -31,7 +31,7 @@ Die Schulungs- und Supervisionswoche kann nur von (ehemaligen) Schüler\*innen v
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Termine
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien  
 {{< figure src="/img/img2.jpg">}}

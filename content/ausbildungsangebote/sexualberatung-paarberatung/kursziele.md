@@ -51,7 +51,7 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 {{% /small %}}
 {{% /box %}}
 
-{{% box more=1 blue=1 align-items="flex-start" %}}
+{{% box more=1 blue=1 top-align=1 %}}
 {{% card-more title="Berufsbegleitendes Lernen" img="berufsbegleitendes_lernen.jpg" %}}
 Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Variante des Lernens in kleinen Dosen und die stetige Wiederholung innerhalb kürzester Zeit nicht nur jene Variante ist, in der das Festigen des Lehrstoffes besonders mühelos gelingt, es ist auch die idealste Möglichkeit, Berufstätigen und Eltern, welche an Wochenendkursen oft nicht teilnehmen können, den Einstieg in ihren Traumberuf zu ermöglichen. **Kurs- und Ortshopping**: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
 

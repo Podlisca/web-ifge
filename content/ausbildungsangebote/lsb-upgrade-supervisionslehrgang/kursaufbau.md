@@ -28,7 +28,7 @@ weight: 1
 ## AUFBAU DES LEHRGANGS SUPERVISION
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small %}}
 #### Modul 1
 
@@ -74,7 +74,7 @@ weight: 1
 {{% /small  %}}
 
 {{% /box %}}
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Modul 4
 

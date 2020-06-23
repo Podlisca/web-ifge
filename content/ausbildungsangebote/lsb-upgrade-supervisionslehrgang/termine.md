@@ -52,7 +52,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 ## Nächste Kurse & Lehrpläne 
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
 {{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}

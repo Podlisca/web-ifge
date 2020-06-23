@@ -65,7 +65,7 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 
 ***
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/qualitaetsausbildungen.jpg" >}}
 #### Qualitätsausbildungen

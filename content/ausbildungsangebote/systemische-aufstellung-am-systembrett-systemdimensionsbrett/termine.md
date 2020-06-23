@@ -37,7 +37,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 ## Nächste Kurse & Lehrpläne 
 
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien & Pinkafeld
 

@@ -65,7 +65,7 @@ Das Ausleben einer befriedigenden Sexualität ist des Weiteren für Opfer von se
 
 Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch angreifen.
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/img1.jpg" title="Verhütungsmethoden im Überblick: vom Kondom über Vaginalring, Antibabypille, Hormonpflaster u.v.m." >}}
 {{% /small  %}}

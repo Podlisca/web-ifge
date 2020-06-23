@@ -54,7 +54,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% /small  %}}
 {{% /box  %}}
 
-{{% box blue=1 align-items="flex-start" %}}
+{{% box blue=1 top-align=1 %}}
 {{% small  %}}
 ***
 #### ERÖFFNUNGSANGEBOT FÜR alle Standorte

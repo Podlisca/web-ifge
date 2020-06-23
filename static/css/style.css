@@ -75,6 +75,10 @@ img.logo {
     max-width: 160px;
 }
 
+.box.top-align {
+    align-items: flex-start;
+}
+
 @media (max-width: 700px) {
     body {
         grid-template-columns: auto;
@@ -91,6 +95,10 @@ img.logo {
 
     .box:not(.menu) {
         flex-direction: column;
+    }
+
+    .box.top-align {
+        align-items: center;
     }
 }
 

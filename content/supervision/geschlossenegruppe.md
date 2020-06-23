@@ -52,7 +52,7 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 ## Gruppensupervision - Vier neue Gruppen starten Januar 2021
 
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien - Gruppe 1 
 {{< figure src="/img/img2.jpg">}}

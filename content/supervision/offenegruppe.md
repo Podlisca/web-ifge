@@ -31,7 +31,7 @@ Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin mögl
 {{< line icon="icon/termine.png" >}}
 ## Termine
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien  
 {{< figure src="/img/img2.jpg">}}

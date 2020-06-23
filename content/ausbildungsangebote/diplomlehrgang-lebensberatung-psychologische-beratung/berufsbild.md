@@ -39,7 +39,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{% /small  %}}
 {{% /box %}}
 
-{{% box blue=1 align-items="flex-start" %}}
+{{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### [PSYCHOLOGISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzelberatung" >}})
 {{< figure src="/img/img2.jpg" >}}
@@ -66,7 +66,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 # Spezialisierungen
 ***
 
-{{% box more=1 align-items="flex-start" %}}
+{{% box more=1 top-align=1 %}}
 {{% card-more img="img2.jpg" title="KRISE/SUCHT/BURN-OUT"  %}}
 Mein persönlicher Zugang zu der Arbeit mit Klient\*innen, die sich in Krisen befinden, ist, sie professionell und emphatisch dabei zu unterstützen, in sich selbst die Kraft zu entdecken, die sie benötigen, um von der Ohnmacht in die Macht zu kommen und um die veränderte Situation zu akzeptieren. Dadurch können Sie Ihr Leben trotz – oder gerade aufgrund dieser Veränderung – neu und gesund gestalten. Sie entdecken wieder den Mut in sich, der einen kraftvollen und lebendigen Alltag gelingen lässt.
 {{% /card-more  %}}
@@ -91,7 +91,7 @@ Hinzu kommt die moralische Instanz, die meint: „Mir ist ja eh nix passiert.“
 {{% /card-more  %}}
 {{% /box %}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 

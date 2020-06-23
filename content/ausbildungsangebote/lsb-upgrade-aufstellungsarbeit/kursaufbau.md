@@ -29,7 +29,7 @@ AUFBAU DES LEHRGANGS SUPERVISION
 
 ## Seminarhinhalte
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Modul 1
 
@@ -75,7 +75,7 @@ AUFBAU DES LEHRGANGS SUPERVISION
 {{% /small  %}}
 {{% /box %}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Modul 4
 

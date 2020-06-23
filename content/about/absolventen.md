@@ -42,7 +42,7 @@ Für mich steht das IFGE für Professionalität mit Herz, wo Qualität hoch gesc
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Mag. Bettina Schermann<br/>
 Effingergasse 31-35/4/3<br/>
@@ -73,7 +73,7 @@ Ich biete in der Praxis in 1140 Wien Einzel- und Paarberatung, sowie Workshops/E
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Kuefsteingasse 25/4/16<br/>
 1140 Wien<br/>
@@ -109,7 +109,7 @@ Das IFGE mit Silvia Podlisca ist ein Institut, das ich gerne weiterempfehle und 
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Schönburgstraße 27/16<br/>
 1040 Wien<br/>
@@ -140,7 +140,7 @@ In meiner Praxis, stehen Sie als KlientIn im Mittelpunkt. Sie können in der Ber
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Hofherrgasse 8/21<br/>
 1100 Wien<br/>
@@ -176,7 +176,7 @@ In einem geschützten Rahmen begleite ich individuell und wertschätzend jedes A
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Prozessbegleitung LUHE<br/>
 Kratochwiljestraße 12/ Turm 2/ Top 3<br/>
@@ -215,7 +215,7 @@ Meine Ausbildungszeit im IGFE war sehr lehrreich für mich. Silvia hat mich mit 
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Obere Hochstraße 3/12<br/>
 7400 Oberwart<br/>
@@ -256,7 +256,7 @@ Das Institut setzt alles daran, dass man nach der Ausbildung mit gutem Fachwisse
 {{% /box %}}
 
 ### Kontakt
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 Steinfeldergasse 24<br/>
 2340 Mödling<br/>

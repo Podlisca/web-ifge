@@ -51,7 +51,7 @@ Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderu
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
 {{< figure src="/img/einzelsupervision.jpg" >}}
