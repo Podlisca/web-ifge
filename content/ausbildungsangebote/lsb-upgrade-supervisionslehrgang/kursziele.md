@@ -36,11 +36,13 @@ Die ausgewählten Inhalte des LSB-Upgrades reichen von den Grundlagen der Lehrsu
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
-## WAS BEDEUTET SUPERVISION?
+## WAS BIETET UNSER LEHRGANG?
+{{% box %}}
+{{% small %}}
 
+Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer\*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
 
-Im Rahmen der Supervision geht es nicht um die [Selbsterfahrung](www.ifge.at) der Supervisanden, sondern um deren Unterstützung als angehende Lebens- und Sozialberater*innen. [Supervision](www.ifge.at) wird sowohl von Einzelpersonen als auch Teams und Gruppen genützt, um Methoden sowie Handlungsmöglichkeiten im beruflichen Kontext zu reflektieren, um im Anschluss Klient\*innen professioneller beraten zu können.
+Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere durch praktische Übungssequenzen ausgebaut und gestärkt. Häufige Themen und Fragestellungen in der Supervision werden erarbeitet, um angehende Kolleg*innen sicher und kompetent begleiten und unterstützen zu können.
 
-Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderungen, um einen konstruktiven Umgang mit Problemen zu ermöglichen sowie positive Veränderungsprozesse einzuleiten. Durch gezielte Fragen des/r Supervisor*in und die externe Sichtweise werden neue Denkansätze und alternative Lösungen möglich.
-
-
+{{% /small %}}
+{{% /box %}}
