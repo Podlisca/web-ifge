@@ -12,7 +12,7 @@ Das SystemDimensionsBrett® ist eine Weiterentwicklung klassisacher Aufstellungs
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" >}}
+{{< figure src="/img/systemdimensionsbrett_1.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 Mit dem SystemDimensionsBrett® arbeitet man mehrdimensional. Es werden mehrere Einsichten oder Zeitebenen gleichzeitig dargestellt. Das öffnet den Blick, verdeutlicht Zusammenhänge und Wechselwirkungen, und schafft Klarheit. Mögliche Folgen von Verstrickungen können so besser aufgedeckt werden.
@@ -27,7 +27,7 @@ Das SystemDimensionsBrett® überrascht Aufstellungsleiter und Klienten gleicher
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< figure src="/img/systemdimensionsbrett_2.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 Das SystemDimensionsBrett® basiert auf der Grundannahme, dass sich das menschliche Erleben aus den Faktoren Raum, Zeit und Bewegung zusammensetzt. Eine Aufstellung, egal ob mit Menschen oder auf einem Brett, ist eine ein- bzw. zweidimensionale Methode. Die Erweiterung um eine weitere Dimension stellt daher einen natürlichen Entwicklungsvorgang dar.
