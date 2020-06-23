@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_tiergestuetzt
         identifier: tiergestuetzt_preise
-draft: false
+draft: true
 weight: 2
 ---
 

@@ -21,7 +21,7 @@ SiteDescription = "Beschreibung auf Site-Ebene als Fallback der einzelnen Pages"
     [[menu.main]]
         name = "Ausbildungen"
         identifier = "ausb"
-        url = "#"
+        url = "#"       
         weight = 2
 
     [[menu.main]]

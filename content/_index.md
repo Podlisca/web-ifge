@@ -8,6 +8,18 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{< slogan >}}
 
+{{< line icon="icon/silvia.png" >}}
+
+{{% center %}}
+**Liebe Besucher,** <br/>
+
+**unsere Seite befindet sich im Umbau, weshalb noch nicht der gewohnte Inhalt vorhanden ist.**
+
+**Wir bitten um Verständnis.**
+
+{{< silvia >}}
+{{% /center %}}
+
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
@@ -64,7 +76,7 @@ Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/berufsbild.jpg" >}}
+{{< figure src="/img/home_berufsbild.jpg" >}}
 #### Berufsbild Lebensberatung
 Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbild.html) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbild.html).
 {{% /small  %}}

@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: lsb
-draft: false
+draft: true
 weight: 1
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
 
@@ -17,9 +17,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_lehrgang.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
-
-Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
+{{< image src="/img/lsb_lehrgang.jpg" float="left" title="Bildbeschreibung" format="hoch">}} Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
 
 Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
 

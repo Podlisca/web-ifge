@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_tiergestuetzt
         identifier: upgrade_tiergestuetzt_ziele
-draft: false
+draft: true
 weight: 1
 ---
 

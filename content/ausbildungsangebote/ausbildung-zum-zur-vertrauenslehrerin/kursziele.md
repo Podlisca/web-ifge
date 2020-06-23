@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_ziele
-draft: false
+draft: true
 weight: 1
 ---
 

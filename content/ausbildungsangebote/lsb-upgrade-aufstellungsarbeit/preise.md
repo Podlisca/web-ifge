@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_aufstellungsarbeit
         identifier: aufstellungsarbeit_preise
-draft: false
+draft: true
 weight: 2
 ---
 

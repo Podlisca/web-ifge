@@ -3,7 +3,7 @@ title: "Preise"
 menu: 
     main:
         parent: lsb
-draft: false
+draft: true
 weight: 2
 ---
 
@@ -22,7 +22,7 @@ weight: 2
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/kosten_tuerkis.png" >}}
+{{< line icon="icon/kosten_tuerkis_2.png" >}}
 
 ## Kosten
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_aufstellungsarbeit
         identifier: upgrade_aufstellungsarbeit_ziele
-draft: false
+draft: true
 weight: 1
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_aufstellungsarbeit
-draft: false
+draft: true
 weight: 3
 ---
 
@@ -25,6 +25,8 @@ Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildung
 Dadurch sind Sie für Ihre Kund\*innen einfach zu finden und zeigen Ihren Klient\*innen gleichermaßen, dass Sie vertrauenswürdige und fachlich kompetente Expertise in der Aufstellungsarbeit vorweisen können. In dieser Ausbildung geht es vor allem darum, einen Einblick in die systemische Denk- und Sichtweise zu erhalten.
 
 WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018
+
+{{% silvia %}}
 
 {{% /floatbox %}}
 

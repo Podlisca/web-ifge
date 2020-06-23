@@ -3,7 +3,7 @@ title: "Psychologisches Coaching"
 menu: 
     main:
         parent: "online"
-draft: false
+draft: true
 weight: 4
 ---
 

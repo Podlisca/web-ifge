@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_tiergestuetzt
-draft: false
+draft: true
 weight: 4
 ---
 
