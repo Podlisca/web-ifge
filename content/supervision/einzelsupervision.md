@@ -13,7 +13,8 @@ weight: 1
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
-***
+
+{{< line icon="icon/supervision_tuerkis.png" >}}
 
 {{% box %}}
 {{% small  %}}
@@ -26,7 +27,7 @@ weight: 1
 {{% /large %}}
 {{% /box %}}
 
-{{% box %}}
+{{% box blue=1 %}}
 {{% large %}}
 In der Einzelsupervision ist es mir dabei wichtig, dass wir uns nicht nur ansehen, wo Sie gerade fachlich nicht weiterkommen und dafür Strategien entwickeln, die für Sie und Ihre Klient\*innen hilfreich sind, sondern dass wir in der Supervision vor allem auch auf Ihre persönlichen Themen eingehen können, die in Ihren Beratungseinheiten auftauchen und Sie womöglich am Weiterkommen hindern. Für die fachliche sowie emotionale Begleitung Ihrer Arbeit nehme ich mir in der Einzelsupervision besonders viel Zeit. So erleben Sie in einem freundlichen, fachlich wertschätzenden und gelegentlich auch auflockernden Klima Ihr persönliches Vorankommen, welches nicht nur Ihnen, sondern auch den Anliegen Ihrer Klient*innen sowie dem Erfolg Ihres Unternehmens dient. Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gruppensupervisionen](www.ifge.at)  zu empfehlen, da in dieser durch spezielle Gruppendynamiken sichtbar wird, was in Einzelsitzungen manchmal im Verborgenen bleiben kann.
 {{% /large %}}
@@ -34,6 +35,8 @@ In der Einzelsupervision ist es mir dabei wichtig, dass wir uns nicht nur ansehe
 {{< figure src="/img/img1.jpg" title=" Silvia Podlisca - Institutsleiterin" >}}
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/kontakt.png" >}}
 
 **Bitte kontaktieren Sie mich für einen Termin unter +43 676 610 89 36**
 
