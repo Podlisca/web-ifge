@@ -3,7 +3,8 @@ title: "Kursziele"
 menu: 
     main:
         parent: zeig_dich
-draft: false
+        identifier: zeig_dich_ziele
+draft: true
 weight: 1
 ---
 

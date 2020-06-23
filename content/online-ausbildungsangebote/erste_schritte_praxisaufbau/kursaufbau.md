@@ -3,7 +3,8 @@ title: "Kursaufbau"
 menu: 
     main:
         parent: zeig_dich
-draft: false
+        identifier: zeig_dich_aufbau
+draft: true
 weight: 1
 ---
 
