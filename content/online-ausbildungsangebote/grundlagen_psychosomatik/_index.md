@@ -1,11 +1,11 @@
 ﻿---
-title: "Ganzheitlich gesund – Grundlagen der Psychosomatik"
+title: "ONLINE Ausbildung - Ganzheitlichkeit: Grundlagen Psychosomatik"
 menu: 
     main:
         parent: online
         identifier: grundlagen_psychosomatik
 draft: true
-weight: 2
+weight: 3
 ---
 
 # Ganzheitlich gesund – Grundlagen der Psychosomatik

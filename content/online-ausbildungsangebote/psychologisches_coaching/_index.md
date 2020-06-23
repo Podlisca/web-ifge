@@ -5,7 +5,7 @@ menu:
         parent: online
         identifier: onlinecoaching
 draft: true
-weight: 3
+weight: 4
 ---
 
 # ONLINE Ausbildung: 

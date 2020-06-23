@@ -1,11 +1,11 @@
 ﻿---
-title: "Zeig dich - Erste Schritte im Praxisaufbau"
+title: "ONLINE Ausbildung - Zeig dich - Erste Schritte im Praxisaufbau"
 menu: 
     main:
         parent: online
         identifier: zeig_dich
 draft: true
-weight: 2
+weight: 9
 ---
 
 # ONLINE Ausbildung: 
