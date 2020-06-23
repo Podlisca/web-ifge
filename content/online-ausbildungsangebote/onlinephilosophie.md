@@ -7,11 +7,66 @@ draft: true
 weight: 1
 ---
 
-# Onlinephilosophie und Kursangebote
-{{< slogan >}}
-***
+# Philosophie: Online Schulungen & Trainings 
+# Vo der Praxis für die Praxis
+
+{{< line icon="icon/zitat.png" >}}
+
+## Aus- und Fortbildungen online: Ihr digitales Lernerlebnis
+
+Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden.
+
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
-{{% /floatbox %}}
+### Ansprechende Lernatmosphäre & fachliche Qualität – auch online!
+
+{{< image src="/img/lsb_lehrgang.jpg" float="right" >}} Die Inhalte unserer digitalen Ausbildungen sind in gewohnt hoher fachlicher Qualität bewusst auf das Online-Setting zugeschnitten, wodurch auch in allen online stattfindenden Aus- und Fortbildungen ein Höchstmaß an behaglicher, konzentrationsfördernder und ansprechender Lernatmosphäre geschaffen wird. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln. Wir freuen uns daher besonders über das konstante Feedback der Schüler\*innen, dass der gewohnt persönliche Rahmen genauso wie die lockere Unterrichtsstimmung und die herzliche Professionalität uneingeschränkt auch in unseren Onlineausbildungen gegeben ist. Das individuelle Eingehen auf alle Teilnehmer*innen wird am IFGE auch in den digitalen Ausbildungen groß geschrieben. 
+
+
+
+{{< image src="/img/lsb_lehrgang.jpg" float="left" >}} 
+
+### Kommen Sie ans IFGE – ohne anreisen zu müssen
+
+Unser virtueller Unterrichtsraum, der die physischen Standorte in Wien, Burgenland und Niederösterreich ergänzt, wurde dank des digitalen Weitblicks schon im Jahr 2014 konzipiert. Wir konnten die digitalen Angebote umsichtig sowie bedächtig umsetzen und sind seither mit dem E-Learning am IFGE auf alle Eventualitäten vorbereitet. 
+
+Das vorausblickende Eingehen auf die sich wandelnden Bedürfnisse im psychosozialen Ausbildungsbereich hat ermöglicht, dass dem IFGE heute eine eigene Online-Technik zur Verfügung steht, die über die Jahre hinweg penibel aufgebaut wurde. Dadurch konnten Änderungen in den Datenschutzbestimmungen sowie im Nutzer*innenverhalten sukzessive mitentwickelt werden.
+
+{{< image src="/img/lsb_lehrgang.jpg" float="right" >}} 
+
+### Digitaler Lerngenuss auf höchstem Niveau
+
+Anstatt sich von äußeren Umständen dazu drängen zu lassen, (zu) rasch installierte und damit fehleranfällige digitale Wege zu beschreiten, hat das IFGE langfristig auf sorgfältige Entwicklung idealer und vor allem sicherer digitaler Beratungs- und Lernbedingungen gesetzt.
+
+Dank eigener Server, spezieller Kameratechnik, verschlüsselter Verbindungen und großzügiger Investitionen in digitale Sicherheitstechnik sowie in eine eigens für die psychosozialen Ausbildungsangebote entwickelte Software, bietet das IFGE digitalen Lerngenuss auf höchstem Niveau – erprobt und damit frei von Improvisationen.
+
+Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen weiteren sehr wesentlichen Grund für die weitreichenden Investitionen in den E-Learning-Bereich: Das Ermöglichen von absolut flexiblen Kursvarianten. Die Online-Trainings, die in der fachlichen Qualität den klassischen IFGE-Ausbildungen  in nichts nachstehen, können bequem von zu Hause aus absolviert werden – ganz gleich, wo Sie sich gerade befinden. Das IFGE macht es Ihnen damit noch einfacher, sich trotz Kernberuf, eigener Praxis, Kinderbetreuungspflichten oder weiter entferntem Wohnort weiterzubilden.
+
+**Derzeit können die folgenden Kurse auch online absolviert werden:**
+
+* [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
+* [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
+* [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
+* [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
+* [Umgang mit Love Scamming](/online-ausbildungsangebote/umgang_love_scamming.html)
+* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz.html)
+* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/workshop_fit_safe.html)
+* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau.html)
+* [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau.html)
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+## DIE VORTEILE DES ONLINEUNTERRICHTS AM IFGE AUF EINEN BLICK
+
+Digitale Fortbildungen am Institut für ganzheitliches Erleben bedeuten:
+
+* Höchster Sicherheitsstandard sowie perfekte Datenschutzrahmenbedingungen im Onlinekursraum.
+* Fachliche Inhalte, die genau auf die besonderen Anforderungen an das digitale Unterrichten sowie auf das E-Lerning zugeschnitten sind.
+* Referent*innen, die im Digital-Learning bereits erfahren sind.
+* Weitreichender Lerngenuss bei größtmöglicher örtlicher und räumlicher Flexibilität.
+* Ideale Voraussetzungen, um die Qualität, die am IFGE gelebt wird, kennenzulernen.
+* Spannende Lerninhalte bequem von zu Hause aus oder auf Dienstreise absolvieren.
+* Langfristig implementierte digitale Unterrichtsvarianten, die einen absolut reibungslosen Ablauf der Onlinekurse ermöglichen.
+ 
+

@@ -53,7 +53,7 @@ Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere 
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/supervision_tuerkis.png" >}}
 
 {{% box align-items="flex-start" %}}
 {{% small %}}

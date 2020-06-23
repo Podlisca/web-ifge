@@ -17,7 +17,9 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden.
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
+
+Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden.
 
 <br/>
 
