@@ -28,7 +28,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
+{{< figure src="/img/ifge_wien.jpg">}}
 
 **05.09.2020** von 10 -16 Uhr - ausgebucht
 **14.09.2020** von 14 -20 Uhr   [Anmeldung](www.ifge.at)
@@ -68,7 +68,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+{{< figure src="/img/ifge_pinkafeld.jpg">}}
 
 **03.09.2020** von 14 -20 Uhr   Anmeldung
 **08.10.2020** von 14 -20 Uhr   Anmeldung
@@ -97,7 +97,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](http://
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< figure src="/img/ifge_stpoelten.jpg">}}
 
 **Dreitagesaufstellung: 04. - 06.12.20**
 Fr. von 14 - 20 Uhr,
