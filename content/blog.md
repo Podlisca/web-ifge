@@ -5,5 +5,4 @@ draft: true
 weight: 7
 ---
 
-# {{< param title >}}
-Paragraph
+# BLOG

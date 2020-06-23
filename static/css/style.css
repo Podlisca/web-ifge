@@ -134,7 +134,7 @@ main {
     padding: var(--padding-main);
 }
 
-footer {
+body>footer {
     grid-area: footer;
     background-color: var(--color-gray);
     color: white;
@@ -145,10 +145,10 @@ footer {
     align-items: center;
     flex-wrap: wrap;
 }
-footer>div {
+body>footer>div {
     padding: 5px;
 }
-footer .logo {
+body>footer .logo {
     height: 4em; 
     margin: 0 5px;
 }
@@ -158,7 +158,7 @@ main a, main a:visited {
     text-decoration: none;
 }
 
-footer div a {
+body>footer div a {
     color: inherit;
     text-decoration: none;
 }
@@ -178,7 +178,7 @@ footer div a {
 }
 
 /* Weiche Schriftart nur für Haupttexte und Listen verwenden */
-p, ul, .small, .large {
+p, ul, .small, .large, article {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;
