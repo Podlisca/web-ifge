@@ -83,7 +83,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
 ***
 ## LSB 12
 #### Start: 09. September 2020
