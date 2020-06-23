@@ -79,7 +79,8 @@ Leitung: Silvia Podlisca<br/>
 Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
-**ALLGEMEINE GESCHÄFTSBEDINGUNGEN:**
+***
+### ALLGEMEINE GESCHÄFTSBEDINGUNGEN
  
 Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
