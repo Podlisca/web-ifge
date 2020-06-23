@@ -62,7 +62,7 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 ### Familienaufstellung
 
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 * Familienaufstellung Eintages Seminar
 

@@ -47,7 +47,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% /small  %}}
 {{% /box %}}
 
-{{% box blue=1 align-items="flex-start" %}}
+{{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### Wien
 {{< figure src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
@@ -97,7 +97,7 @@ Meine Philosophie hinsichtlich der [Ausbildungs-](/ausbildungsangebote/philosoph
 
  {{< line icon="icon/zertifikat.png" >}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/impulspro.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.

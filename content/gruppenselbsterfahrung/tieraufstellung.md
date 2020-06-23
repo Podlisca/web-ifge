@@ -62,7 +62,7 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 
 ***
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/tieraufstellung_1.jpg" title="Tiere spiegeln uns sehr oft unsere Gefühle und aktuellen Themen wider." >}}
 {{% /small  %}}

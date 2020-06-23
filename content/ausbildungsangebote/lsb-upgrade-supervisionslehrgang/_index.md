@@ -55,7 +55,7 @@ Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere 
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
 {{< figure src="/img/einzelsupervision.jpg" >}}

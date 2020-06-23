@@ -25,7 +25,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samsta
 
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](www.ifge.at)
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
 {{< figure src="/img/img2.jpg">}}

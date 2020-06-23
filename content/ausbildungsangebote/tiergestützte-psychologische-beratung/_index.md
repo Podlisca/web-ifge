@@ -76,7 +76,7 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/img2.jpg">}}
 #### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?

@@ -16,7 +16,7 @@ weight: 1
 
 {{< line icon="icon/zitat.png" >}}
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/ausbildungsphilosophie1.jpg">}}
 {{< figure src="/img/ausbildungsphilosophie2.jpg" >}}
@@ -61,7 +61,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 ## Unsere Ausbildungen im Überblick
 * * *
 
-{{% box align-items="flex-start" %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 {{< figure src="/img/icon/diplomlehrgang.png">}}
 #### WKO ZERTIFIZIERTE LEHRGÄNGE
