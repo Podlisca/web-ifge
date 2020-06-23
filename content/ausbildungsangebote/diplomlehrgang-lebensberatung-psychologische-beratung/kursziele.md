@@ -14,7 +14,12 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. [Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
+{{< image src="/img/kursziel_1.jpg" float="left">}} Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
+
+Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. [Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
+
+{{% silvia %}}
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
