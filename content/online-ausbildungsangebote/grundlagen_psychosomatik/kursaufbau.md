@@ -27,4 +27,36 @@ weight: 1
 
 ## AUFBAU DES LEHRGANGS
 
-12 Ausbildungsstunden (2 x 6 Stunden) mit max. 12 TeilnehmerInnen.
+12 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
+
+Neben der ärztlichen Betreuung kann der ganzheitliche Ansatz im psychologischen Beratungsprozess für Klient*innen demnach ein sehr wesentlicher sein. Um hier ein möglichst breites Spektrum an Bewusstsein für das Zusammenspiel von Organismus und Seele zu erhalten, beinhaltet unser fachlicher Streifzug durch die Psychosomatik unter anderem folgende Bereiche:
+
+* Grundprinzipien der Psychosomatik: Was genau bedeutet der Begriff?
+* Welche Bereiche fallen darunter?
+* Anatomisches Grundverständnis: Der Körper und seine Organe von Kopf bis Fuß
+* Körperebenen und Organsprache: Welche Organe stehen für welche seelischen Prozesse?
+* Streifzug durch die Traditionelle Chinesische Medizin: Welche Funktionen haben Energiebahnen, wo verlaufen sie und wie können Sie dieses Wissen in der Beratung einbauen?
+* Verbindung von psychologischer Gesprächsführung und Körperarbeit
+* Physische Übungen für mehr Balance zwischen Körper und Geist
+
+{{< line icon="icon/test.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+
+## Prüfung
+
+Der Lehrgang schließt ohne Abschlussprüfung ab.
+
+Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Erleben ausgestellt.
+
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/referenten.png" >}}
+
+## Leitung
+
+* Silvia Podlisca
+
+

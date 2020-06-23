@@ -30,14 +30,14 @@ weight: 3
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
 
 #### Termine folgen
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 #### Start: 16. Oktober 2020
 
@@ -55,7 +55,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 #### Termine folgen
 

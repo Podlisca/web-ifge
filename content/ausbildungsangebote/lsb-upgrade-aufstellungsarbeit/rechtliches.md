@@ -8,7 +8,7 @@ draft: true
 weight: 4
 ---
 
-# # Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
+# Lsb Upgrade: Fortbildungslehrgang Aufstellungsarbeit
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

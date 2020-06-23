@@ -8,11 +8,12 @@ draft: true
 weight: 3
 ---
 
+# ONLINE Ausbildung
 # Grundlagen der Onlineberatung
 
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,24 +23,40 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 {{% box %}}
 {{% small  %}}
 
-## Onlinetermine
-in Planung
+## Informationsveranstaltung
 
+Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
+
+Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
+
+**Jetzt persönliches Infogespräch unter: +43 676 610 89 36 oder silvia.podlisca@ifge.at vereinbaren!**
+
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/termin_kursplan.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+## Nächste Kurse & Lehrpläne 
+
+#### Start: Termine in Planung 
+
+Jedes Modul besteht aus 6 Unterrichtsstsunden. 
 Die Veranstaltung wird über Webex Meeting abgehalten.
-Die Ausbildung ist nur komplett zu buchen.
- Leitung: Silvia Podlisca                            zur ANMELDUNG
 
-Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung.
+**Modul 1:** <br/>
+**Modul 2:** <br/>
+
 
 [Anmeldung](/anmeldung.html)
 
-
-
-
+{{% /small  %}}
+{{% /box %}}
 
 
 

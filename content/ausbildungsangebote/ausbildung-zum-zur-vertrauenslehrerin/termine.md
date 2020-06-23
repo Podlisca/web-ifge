@@ -38,14 +38,14 @@ Vereinbaren Sie jetzt ein persönliches Informationsgespräch. Dieses bietet aus
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
 
 #### Termine folgen
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 #### Termine folgen
 
@@ -53,7 +53,7 @@ Anmeldung
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 
 #### Start: 30. Oktober 2021

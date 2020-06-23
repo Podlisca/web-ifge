@@ -8,10 +8,12 @@ draft: false
 weight: 2
 ---
 
-# Name
+# ONLINE Ausbildung: 
+# „Zeig’ dich!“: Praxis von Anfang an professionell gründen
+
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -21,15 +23,10 @@ weight: 2
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/kosten_tuerkis.png" >}}
+{{< line icon="icon/kosten_tuerkis_2.png" >}}
 
 ## Kosten
 
-
-* iEinmalzahlung: € 1.980,-
-* Modulzahlung: 
+* Einmalzahlung: € 490,-
 
 **Die Ausbildung ist nur komplett buchbar.**
-
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
-

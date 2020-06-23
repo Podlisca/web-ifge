@@ -40,7 +40,11 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien & Pinkafeld
-{{< figure src="/img/img2.jpg">}}
+
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
+
 #### Start: 19. September 2020
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
@@ -59,7 +63,8 @@ Anmeldung
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+
 #### Termine folgen
 {{% /small  %}}
 {{% /box %}}

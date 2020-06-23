@@ -49,22 +49,21 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{% small  %}}
 #### Wien
 #### Mariahilfer Straße
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
 
+#### Termine folgen
 
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
 #### Pinkafeld
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 #### Start: 22. Jänner 2020
 
 Mittwoch von 14:00 bis 20:00 Uhr<br/>
 Sonntag von 10:00 bis 16:00 Uhr<br/>
-
-
 
 * 22.01.2020
 * 16.02.2020 
@@ -90,13 +89,13 @@ Anmeldung
 
 #### Niederösterreich
 #### St. Pölten
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 #### Termine folgen
 
 {{% /small  %}}
 
-
+{{% /box %}}
 
 
 

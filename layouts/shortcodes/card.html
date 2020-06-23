@@ -3,7 +3,7 @@
 
 <div class="icon">
     <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}#{{ end }}">
-        <img src="/img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon.svg{{ end}}"/>
+        <img src="/img/{{ if .Get "icon" }}{{ .Get "icon" }}{{ else }}icon.svg{{ end}}" alt="{{ .Get "icon" }}"/>
     </a>
 </div>
 {{ if .Get "title" }} 

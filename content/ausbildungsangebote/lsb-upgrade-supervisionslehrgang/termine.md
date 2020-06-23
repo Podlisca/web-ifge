@@ -55,20 +55,20 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
 
 #### Termine folgen
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 #### Termine folgen
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 #### Start: 18. September 2021
 

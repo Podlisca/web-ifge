@@ -89,7 +89,7 @@ img.logo {
         width: 100px;
     }
 
-    .box:not(.blue) {
+    .box:not(.menu) {
         flex-direction: column;
     }
 }
@@ -139,6 +139,10 @@ footer {
 }
 footer>div {
     padding: 5px;
+}
+footer .logo {
+    height: 4em; 
+    margin: 0 5px;
 }
 
 main a, main a:visited {
@@ -229,6 +233,7 @@ figure {
 
 figure img {
     /* max-width: 280px;     */
+    min-width: 150px;
 }
 
 figcaption h4 {
@@ -461,4 +466,9 @@ main ul li:nth-child(even) {
 .center {
     display: flex;
     justify-content: center;
+}
+
+.required:after {
+    content:" *";
+    color: var(--color-red);
 }

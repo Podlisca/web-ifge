@@ -29,7 +29,8 @@ weight: 3
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+
 * 30.09.2020 
 * 28.10.2020 
 * 09.12.2020
@@ -43,7 +44,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg" >}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 * 09.10.2020
 * 13.11.2020
@@ -57,7 +58,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg" >}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 * 15.07.2020
 * 06.08.2020
@@ -82,7 +83,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 {{% box align-items="flex-start" %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/img2.jpg">}}
 ***
 ## LSB 12
 #### Start: 09. September 2020
@@ -123,7 +123,8 @@ Kursplan folgt
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+
+
 ***
 ## LSB 14
 #### Start: 09. Februar 2021
@@ -152,7 +153,6 @@ Kursplan folgt
 
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
 ***
 ## LSB 15
 #### Start: 31. August 2020

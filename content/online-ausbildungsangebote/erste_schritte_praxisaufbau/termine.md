@@ -8,11 +8,12 @@ draft: false
 weight: 3
 ---
 
+# ONLINE Ausbildung: 
+# „Zeig’ dich!“: Praxis von Anfang an professionell gründen
 
-# Lsb Upgrade: Zertifizierter Lehrgang Supervision
 {{< slogan >}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -22,7 +23,7 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="icon/info_tuerkis.png" >}}
 {{% box %}}
 {{% small  %}}
 
@@ -38,27 +39,26 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="/icon/termin_kursplan.png" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
 
+{{% box blue=1 %}}
+{{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: 18. September 2021
+#### Start: Termine in Planung
 
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 18:00 Uhr<br/>
-Prüfungstag von 09:00 bis 16:00 Uhr 
+Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
+Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1:** 01.01. und 01.01.2021<br/>
-**Modul 2:** 02.10. und 03.10.2021<br/>
-**Modul 3:** 06.11. und 07.11.2021<br/>
-**Modul 4:** 04.12. und 05.12.2021<br/>
-**Modul 5:** 08.01. und 09.01.2022<br/>
-**Modul 6:** 19.02. und 20.02.2022<br/>
-
-Prüfung: 02.04. 2022
+**Modul 1:** <br/>
+**Modul 2:** <br/>
+**Modul 3:** <br/>
+**Modul 4:** <br/>
 
 [Anmeldung](/anmeldung.html)
 
+{{% /small  %}}
+{{% /box %}}
 
 
 
