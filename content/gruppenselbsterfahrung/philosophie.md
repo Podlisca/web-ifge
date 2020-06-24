@@ -25,17 +25,17 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
 
 {{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
+
 {{% box blue=1 %}}
-{{% large %}}
+{{% small %}}
+
 In der Psychologie kennen wir verschiedene Bewusstseinsebenen. Neben dem, was wir täglich ganz klar und bewusst wahrnehmen, laufen in unserem Erleben zahlreiche Empfindungen unbewusst ab. Erlebnisse werden in diesem unbewussten Teil meist ganz anders verarbeitet und abgespeichert, als wir vordergründig erkennen können. Sie bemerken dies vielleicht, wenn Sie „so ein bestimmtes Gefühl“ haben. Dieses diffuse Bauchgefühl – unsere Intuition – wird von unserem bewussten Verstand häufig nicht ernst genommen. 
+
+{{< image src="/img/silvia_3.jpg" float="right">}}
 
 Dabei können wir auf der Ebene des Gefühls und der Intuition viel eher langfristige Lösungen für uns finden, als wenn wir es auf der reinen Verstandesebene versuchen. Zudem ist es auch schade, wenn wir nur maximal ein Drittel unserer Kapazität nützen. Denn so manche Unzufriedenheit im menschlichen Erleben hängt häufig damit zusammen, dass wir die anderen Bewusstseinsebenen vernachlässigen. 
 
 Ist der Fluss der verschieden Bewusstseinsebenen längerfristig unterbrochen, entstehen belastende Situationen und Erlebenszustände, auf die manche Menschen emotional reagieren, während andere wiederum körperliche Symptome zeigen. Doch nur, wenn wir alle unsere Bewusstseinsebenen – zur rechten Zeit – nutzen und deren Potenzial vollkommen ausschöpfen, sind wir im Fluss und somit in der vollen Lebenskraft.
-{{% /large %}}
-{{% small %}}
-{{< image src="/img/silvia_3.jpg">}}
-{{< image src="/img/silvia_3.jpg">}}
 {{% /small %}}
 {{% /box %}}
 
