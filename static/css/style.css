@@ -513,3 +513,9 @@ img.small {
     content:" *";
     color: var(--color-red);
 }
+
+/* Safari 7.1+ */
+
+_::-webkit-full-page-media, _:future, :root .box .card {
+    min-height: fit-content;
+}
