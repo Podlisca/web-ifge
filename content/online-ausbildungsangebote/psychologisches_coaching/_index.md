@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - psychologisches Coaching"
+title: "ONLINE Ausbildung - Psychologisches Coaching"
 menu: 
     main:
         parent: online
@@ -9,7 +9,7 @@ weight: 4
 ---
 
 # ONLINE Ausbildung: 
-# psychologisches Coaching
+# Psychologisches Coaching
 
 {{< slogan >}}
 
