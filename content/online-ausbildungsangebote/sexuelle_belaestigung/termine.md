@@ -41,7 +41,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-{{% box blue=1 %}}
+{{% box %}}
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 

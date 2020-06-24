@@ -47,7 +47,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*i
 {{< line icon="icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 490,- Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 490,- auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
 
