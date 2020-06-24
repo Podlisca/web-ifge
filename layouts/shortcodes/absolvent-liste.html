@@ -1,0 +1,41 @@
+{{ $toggle := false }}
+
+<hr/>
+<h2>Wien</h2>
+
+{{ range $.Site.Data.absolventen.wien }}
+   {{ if $toggle }}    
+      {{ partial "absolvent.html" (dict "context" . "style" "" ) }}
+      {{ $toggle = false }}
+   {{ else }}
+      {{ partial "absolvent.html" (dict "context" . "style" "blue" ) }}
+      {{ $toggle = true }}
+   {{ end}}
+{{ end }}
+
+
+<hr/>
+<h2>Burgenland</h2>
+
+{{ range $.Site.Data.absolventen.burgenland }}
+   {{ if $toggle }}    
+      {{ partial "absolvent.html" (dict "context" . "style" "" ) }}
+      {{ $toggle = false }}
+   {{ else }}
+      {{ partial "absolvent.html" (dict "context" . "style" "blue" ) }}
+      {{ $toggle = true }}
+   {{ end}}
+{{ end }}
+
+<hr/>
+<h2>Niederösterreich</h2>
+
+{{ range $.Site.Data.absolventen.noe }}
+   {{ if $toggle }}    
+      {{ partial "absolvent.html" (dict "context" . "style" "" ) }}
+      {{ $toggle = false }}
+   {{ else }}
+      {{ partial "absolvent.html" (dict "context" . "style" "blue" ) }}
+      {{ $toggle = true }}
+   {{ end}}
+{{ end }}
