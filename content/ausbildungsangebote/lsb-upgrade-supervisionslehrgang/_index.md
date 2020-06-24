@@ -54,17 +54,17 @@ Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderu
 {{% box top-align=1 %}}
 {{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
-{{< figure src="/img/einzelsupervision.jpg" >}}
+{{< image src="/img/einzelsupervision.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Teamsupervision](/supervision/teamsupervision.html)
-{{< figure src="/img/teamsupervision.jpg" >}}
+{{< image src="/img/teamsupervision.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Gruppensupervision](/supervision/geschlossenegruppe.html)
-{{< figure src="/img/gruppensupervision.jpg" >}}
+{{< image src="/img/gruppensupervision.jpg" >}}
 {{% /small  %}}
 
 {{% /box %}}

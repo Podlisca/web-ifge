@@ -17,7 +17,7 @@ weight: 7
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 
@@ -48,7 +48,7 @@ Dann ist unsere vielseitige, nachhaltige und vor allem praxisorientierte Fortbil
 Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet das IFGE in seiner Zweigstelle in Pinkafeld dabei nicht nur fachlich fundierte Inhalte, sondern auch die idealen Räumlichkeiten: So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der ausreichend Platz für Entfaltung bietet, in geschütztem Rahmen erproben und damit nachhaltig verinnerlichen. Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -59,7 +59,7 @@ Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](w
 #### INTENSIVER PSYCHOLOGISCHER SCHWERPUNKT
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 
@@ -79,7 +79,7 @@ Mit diesem Fachwissen auf dem Gebiet der [Psychologie](www.ifge.at) werden aus r
 In unserer Ausbildung wird jede Intervention fachlich erklärt, sodass Sie diese in Zukunft ideal anleiten können. Gleichzeitig gehen wir einen intensiven Schritt weiter, denn jedes Tool wird psychologisch beleuchtet. Wir gehen dabei gründlich vor: Vom Beginn der Intervention über die Begleitung einzelner Team-Spiele bis hin zu der Arbeit mit den aus den Spielen gewonnenen Erkenntnissen. So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht. Am [IFGE](www.ifge.at) wir dabei mit hochmodernen Unterrichtsmethoden gearbeitet, zu denen auch eine Vielzahl an neuartigen Team-Building-Tools gehören. 
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 

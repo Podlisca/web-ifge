@@ -34,7 +34,7 @@ Die Schulungs- und Supervisionswoche kann nur von (ehemaligen) Schüler*innen vo
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### Wien  
-{{< figure src="/img/ifge_wien.jpg">}}
+{{< image src="/img/ifge_wien.jpg">}}
 
 ### 24.08. - 28.08.2020<br/>
 
@@ -48,7 +48,7 @@ Leitung: Silvia Podlisca<br/>
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/ifge_pinkafeld.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg">}}
 
 ### 27.07. - 31.07.2020<br/>
 
@@ -61,7 +61,7 @@ Leitung: Silvia Podlisca<br/>
 
 
 #### Niederösterereich
-{{< figure src="/img/ifge_stpoelten.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg">}}
 ### Termine folgen
 
 {{% /small  %}}

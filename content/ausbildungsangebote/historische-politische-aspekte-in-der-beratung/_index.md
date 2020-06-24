@@ -17,7 +17,7 @@ weight: 9
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 

@@ -67,15 +67,15 @@ Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch a
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Verhütungsmethoden im Überblick: vom Kondom über Vaginalring, Antibabypille, Hormonpflaster u.v.m." >}}
+{{< image src="/img/img1.jpg" title="Verhütungsmethoden im Überblick: vom Kondom über Vaginalring, Antibabypille, Hormonpflaster u.v.m." >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Das Anschauungsmaterial bietet eine Übersicht über die verschiedenen hormonellen, natürlichen, mechanischen etc. Alternativen." >}}
+{{< image src="/img/img1.jpg" title="Das Anschauungsmaterial bietet eine Übersicht über die verschiedenen hormonellen, natürlichen, mechanischen etc. Alternativen." >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Hier lernst Du den richtigen Gebrauch mit Kondomen." >}}
+{{< image src="/img/img1.jpg" title="Hier lernst Du den richtigen Gebrauch mit Kondomen." >}}
 {{% /small  %}}
 {{% /box %}}
 

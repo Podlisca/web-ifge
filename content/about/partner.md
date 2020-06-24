@@ -20,7 +20,7 @@ Unsere Partner\*innen sind wichtige Eckpfeiler unseres Erfolges und machen es m�
 ### Katrin Pfleger - Grafikerin
 ***
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
 Katrin Pfleger betreut uns schon sehr lange sehr erfolgreich!
 
@@ -37,7 +37,7 @@ Folgender Link führt Sie zu ihrer Homepage: www.pflegergrafik.at
 ### Stefan Seelig - Fotograf
 ***
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
 Stefan Seelig ist selbstständiger Fotograf und seit kurzem auch mit Videos beschäftigt. Von ihm stammen sämtliche Fotos und Videos auf unserer Homepage.
 
@@ -48,7 +48,7 @@ Unter folgendem Link gelangen Sie auf seine Homepage www.stefan-seelig.at
 ### Dr. Susanne Natiesta
 ***
 
-{{< figure src="/img/img2.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img2.jpg" title="Bildbeschreibung" >}}
 
 Ich bin Ärztin für Allgemeinmedizin und habe mich auf die ästhetische Medizin spezialisiert.
 

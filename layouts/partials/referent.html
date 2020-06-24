@@ -1,14 +1,18 @@
 {{ $style := .style}}
 {{ with .context }}
+    <div class="line">
+        <hr/>
+        <div>
+            <img src="/img/icon/referenten.png" alt="Referent Icon"/>       
+        </div>
+    </div>
+
     <div class="referent {{ $style }}">
-        <div class="line">
-            <hr/>
-            <div>
-                <img src="/img/icon/referenten.png" alt="Referent Icon"/>       
+        <div class="box">
+            <div class="small">
+                <h4>{{ .Name }}</h4>
             </div>
         </div>
-        <h2>{{ .Name }}</h2>
-        <hr/>
         <div class="floatbox">
             <p>
             <img src="{{ .Bild }}" class="float {{ .Float }}" alt="Foto {{ .Name }}"/>

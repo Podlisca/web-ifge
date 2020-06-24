@@ -1,1 +1,4 @@
-<img src="{{ .Get "src" }}" class="{{ .Get "float" }} {{ if .Get "format"}} {{ .Get "format" }} {{ else }}quer{{ end }}" alt="{{ .Get "title" }}"/>
+
+<div>
+    <img src="{{ .Get "src" }}" class="{{ .Get "float" }} {{ if .Get "format"}} {{ .Get "format" }} {{ else }}quer{{ end }} {{ if .Get "small" }} small{{ end }} " alt="{{ .Get "title" }}"/>
+</div>
