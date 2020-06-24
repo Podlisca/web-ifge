@@ -13,12 +13,9 @@ weight: 7
 
 {{< line icon="icon/teambuilding.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{% floatbox %}}
 
-{{% /small  %}}
-{{% large %}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left">}}
 
 **Methodenschwerpunkt:** viele Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
 
@@ -26,8 +23,7 @@ Sie möchten als [Lebens- und Sozialberater\*innen – psychologische Berater\*i
 
 Dann ist unsere vielseitige, nachhaltige und vor allem praxisorientierte Fortbildung für psychologisches Teambuilding möglicherweise genau das Richtige für Sie. Denn in dieser Zusatzausbildung geht es um sehr viel mehr als um das reine Kennenlernen diverser „Teamspielchen“.
 
-{{% /large %}}
-{{% /box %}}
+{{% /floatbox %}}
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -41,18 +37,3 @@ Dann ist unsere vielseitige, nachhaltige und vor allem praxisorientierte Fortbil
 {{% /iconmenu %}}
 
 ***
-
-#### LANGJÄHRIGE ERFAHRUNG IM PSYCHOLOGISCHEN WIRTSCHAFTSBEREICH
-
-{{% floatbox %}}
-
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="right" >}}
-
-Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet das IFGE in seiner Zweigstelle in Pinkafeld dabei nicht nur fachlich fundierte Inhalte, sondern auch die idealen Räumlichkeiten: So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der ausreichend Platz für Entfaltung bietet, in geschütztem Rahmen erproben und damit nachhaltig verinnerlichen. Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
-
-Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](www.ifge.at) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](www.ifge.at) und [Sexualberaterin](www.ifge.at) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](www.ifge.at) immer wieder mit namhaften Firmen zusammen. 
-
-Im Zuge des [Coaching-Unternehmens FCBP](www.fcbp.at) schult sie Führungskräfte, ist im Konflikt-Management tätig und leitet [Tagestrainings](www.ifge.at) für AbteilungsleiterInnen gemeinsam mit [Martin Bransky](www.ifge.at), der als fachliche Assistenz auch Ihre Ausbildung für psychologisches Teambuilding begleiten wird.
-
-
-{{% /floatbox %}}
