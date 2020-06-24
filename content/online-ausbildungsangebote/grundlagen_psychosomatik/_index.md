@@ -20,10 +20,14 @@ weight: 3
 
 Die Psychosomatik ist ein hochgradig spannender Teilbereich der ganzheitlichen Gesundheit und kann in der psychologischen Beratung für Berater\*innen sowie für deren Klient\*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten emotionalen Dynamiken auf die Spur zu kommen.
 
+{{% box %}}
+{{% small %}}
 * „Das geht mir an die Nieren.“
 * „Ich hab die Nase voll.“ 
 * „Das schlägt mir auf den Magen.“
 * „Ich möchte aus der Haut fahren.“
+{{% /small %}}
+{{% /box %}}
 
 {{% silvia %}}
 
