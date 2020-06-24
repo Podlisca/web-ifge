@@ -20,8 +20,7 @@ Das IFGE gilt als Ausbildungsinstitut, in dem der Leiterin sowie den Referent\*i
 
 Einen Überblick über Kursteilnehmer\*innen am IFGE in ganz unterschiedlichen Stadien ihrer unternehmerischen Ausbildung und Selbstständigkeit finden Sie hier:
 
-MERKBLATT IAUS ZUM DOWNLOAD!!!
-
+[Merkblatt i.A.u.S zum herunterladen](/downloads/Merkblatt-LSB-in-Ausbildung-unter-Supervision.pdf)
 
 {{< in-ausbildung-liste >}}
 
