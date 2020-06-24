@@ -16,7 +16,9 @@ weight: 2
  {{< line icon="icon/silvia.png" >}}
 
 {{% floatbox %}} 
-{{< image src="/img/das_institut.jpg" float="left" >}} Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. 
+{{< image src="/img/das_institut.jpg" float="left" >}}
+
+Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. 
 
 Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf {{< red >}}**I**{{< /red >}}nstitut {{< red >}}**f**{{< /red >}}ür {{< red >}}**g**{{< /red >}}anzheitliches {{< red >}}**E**{{< /red >}}rleben (IFGE) –  Silvia Podlisca e.U. geändert. Mit der Bekanntheit des nunmehrigen IFGE – wo fortan {{< red >}}**I**{{< /red >}}ntuition, {{< red >}}**F**{{< /red >}}achwissen, {{< red >}}**G**{{< /red >}}efühl und {{< red >}}**E**{{< /red >}}rfolg vereint wurden – stieg die Nachfrage an Seminaren, Workshops und Zusatzausbildungen. So entschied ich mich, das IFGE gänzlich um den [Ausbildungsschwerpunkt](/ausbildungsangebote/philosophie-und-kursangebot.html) zu erweitern.
 {{% /floatbox %}}
@@ -100,18 +102,22 @@ Meine Philosophie hinsichtlich der [Ausbildungs-](/ausbildungsangebote/philosoph
 {{% box top-align=1 %}}
 {{% small  %}}
 {{< image src="/img/impulspro.jpg" >}}
+
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
+
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/supervision.jpg" >}}
+
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Supervisor\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/berufsverband.jpg" >}}
+
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}
