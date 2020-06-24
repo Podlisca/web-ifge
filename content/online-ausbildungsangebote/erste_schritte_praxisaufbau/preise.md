@@ -13,7 +13,7 @@ weight: 2
 
 {{< slogan >}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="/icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

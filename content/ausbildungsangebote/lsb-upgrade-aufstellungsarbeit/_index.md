@@ -16,7 +16,7 @@ weight: 3
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_lehrgang.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
+{{< image src="/img/lsb_upgrade_aufstellung.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
 
 ## SYSTEMISCHE AUFSTELLUNG MIT SCHWERPUNKT AUF DER METHODE BERT HELLINGERS
 

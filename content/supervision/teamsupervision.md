@@ -17,7 +17,7 @@ weight: 6
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/teambuilding.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
 

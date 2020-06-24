@@ -75,7 +75,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/info_tuerkis.png" >}}
 # Entwicklung & Unterstützung wird am IFGE groß geschrieben
 ***
 
@@ -93,7 +93,7 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 {{% /large %}}
 {{% /box %}}
 
- {{< line icon="icon/coaching.png" >}}
+ {{< line icon="icon/Coaching.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 # Coaching für Führungskräfte

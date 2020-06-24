@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}}
+{{< image src="/img/ziel_aufstellung.jpg" float="left">}}
 
 Das Ziel dieser Zusatzausbildung ist es, Sie optimal auf die systemische Arbeit vorzubereiten. 
 

@@ -13,13 +13,17 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/zeig_dich.png" >}}
 
 
 ### WARUM PROFESSIONELLES AUFTRETEN VON ANFANG AN ZENTRAL IST
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} Denn eines steht außer Frage: Sie sind nicht der bzw. die einzige Anbieter\*in eines psychosozialen Beratungsangebotes. Es gilt also auch im Sozialbereich, die eigenen besonderen Fähigkeiten herauszustreichen und sich von anderen Angeboten abzuheben. Damit dies professionell und zieldienlich gelingt, braucht es ein ausreichendes Maß an Vorwissen, das dieser Online-Workshop ausführlich vermittelt. Denn Ihr Werbeauftritt ist und bleibt der erste wichtige Eindruck, den potenzielle Kund\*innen von Ihnen erhalten. Ein Selfie im privaten Wohnzimmer bei schummrigen Licht mit veralteter Frontkameratechnik bei „Über mich“ dient Ihrem Ruf und dem der Branche genauso wenig wie eine E-Mail-Adresse die „mausi1985@beispiel.at“ oder ähnlich lautet.
+{{< image src="/img/kursziel_1.jpg" float="left">}} 
+
+Denn eines steht außer Frage: Sie sind nicht der bzw. die einzige Anbieter\*in eines psychosozialen Beratungsangebotes. Es gilt also auch im Sozialbereich, die eigenen besonderen Fähigkeiten herauszustreichen und sich von anderen Angeboten abzuheben. Damit dies professionell und zieldienlich gelingt, braucht es ein ausreichendes Maß an Vorwissen, das dieser Online-Workshop ausführlich vermittelt. 
+
+Denn Ihr Werbeauftritt ist und bleibt der erste wichtige Eindruck, den potenzielle Kund\*innen von Ihnen erhalten. Ein Selfie im privaten Wohnzimmer bei schummrigen Licht mit veralteter Frontkameratechnik bei „Über mich“ dient Ihrem Ruf und dem der Branche genauso wenig wie eine E-Mail-Adresse die „mausi1985@beispiel.at“ oder ähnlich lautet.
 
 Zeigen Sie stattdessen Ihren künftigen Kund\*innen bereits auf den ersten Blick, dass Ihr Angebot ein seriöses ist, das Ihrer zeit- und arbeitsaufwendigen, fundierten sowie durchaus auch kostenintensiven Ausbildung gerecht wird.
 
@@ -35,7 +39,7 @@ Zeigen Sie stattdessen Ihren künftigen Kund\*innen bereits auf den ersten Blick
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/zeig_dich.png" >}}
 
 ## BESONDERER SCHWERPUNKT AUF DIGITALEN UNTERNEHMENSAUFTRITT
 

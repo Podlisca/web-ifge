@@ -17,7 +17,7 @@ weight: 4
 
 ## TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
 
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/tiergestuetzt.jpg" title="Bildbeschreibung" float="left" >}}
 
 **Schwerpunkt Tiere:** Hund & Katze<br/>
 **Schwerpunkt Kommunikation:** Systemik & Hypnosystemik, Konfliktmanagement,  gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools

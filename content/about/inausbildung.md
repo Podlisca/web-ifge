@@ -12,7 +12,7 @@ weight: 6
 
 {{< slogan >}}
 
-***
+{{< line icon="icon/i_a_u_s.png" >}}
 
 An den drei Standorten des IFGE finden kontinuierlich zwischen fünf und sieben Berufsausbildungskurse zum/zur [Dipl. Lebens- und Sozialberater\*in – psychologischen Berater\*in](www.ifge.at) gleichzeitig statt. Durch die parallel laufenden Kurse, in denen sich die IFGE-Schüler\*innen jeweils in unterschiedlichen Stadien der Ausbildung befinden, ist es der Institutsleitung möglich, einen konstanten Überblick darüber zu bewahren, was die Lernenden zu welchem Zeitpunkt an Unterstützung benötigen.
 

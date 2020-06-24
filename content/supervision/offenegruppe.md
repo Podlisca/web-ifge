@@ -18,7 +18,7 @@ weight: 4
 {{% floatbox %}}
 ### DIE VORTEILE DER OFFENEN SUPERVISIONSGRUPPE
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/offene_sv_gruppe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in allen Ausbildungsstadien und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
 
@@ -101,7 +101,7 @@ Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, k�
 
 {{% floatbox %}}
 
-{{< image float="left" src="/img/img1.jpg" title="Bildbeschreibung" >}} 
+{{< image float="left" src="/img/offene_sv_gruppe1.jpg" title="Bildbeschreibung" >}} 
 
 Zusätzlich zu Einzelsupervisionen, in denen auch Ihre persönlichen Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychologischen Berater\*innen in Ausbildung sehr zu empfehlen. 
 
