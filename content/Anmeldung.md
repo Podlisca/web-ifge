@@ -56,11 +56,11 @@ url: "/anmeldung.php"
             
             //Weiterleitung, hier konnte jetzt per echo auch Ausgaben stehen
             if($mail_senden){
-                echo "ok $empfaenger $betreff $msg";
+                echo "Vielen Dank für Ihre Anmeldung.";
                 #header("Location: ".$url_ok); //Mail wurde gesendet
                 exit();
             } else{
-                echo "Fehler";
+                echo "Bei der Anmeldung ist ein Fehler passiert.";
                 #header("Location: ".$url_fehler); //Fehler beim Senden
             exit();
             }
