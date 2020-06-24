@@ -56,9 +56,9 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 2: Mittwoch 30.09.2020** <br/>
 **Modul 3: Montag 05.10.2020** <br/>
 **Modul 4: Montag 19.10.2020** <br/>
-**Modul 4: Mittwoch 28.10.2020** <br/>
-**Modul 4: Montag 02.11.2020** <br/>
-**Modul 4: Montag 09.11.2020** <br/>
+**Modul 5: Mittwoch 28.10.2020** <br/>
+**Modul 6: Montag 02.11.2020** <br/>
+**Modul 7: Montag 09.11.2020** <br/>
 
 [Anmeldung](/anmeldung.html)
 

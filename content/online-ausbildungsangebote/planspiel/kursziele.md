@@ -13,13 +13,20 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/planspiel.png" >}}
 
 
-### Überschrift
+## DEN SCHRITT IN DIE SELBSTSTÄNDIGKEIT PROFESSIONELL UNTERSTÜTZT WAGEN
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/ifge_stpoelten.jpg" float="left">}} 
+
+
+Die eigene Berufung zum Beruf machen, damit den Schritt in die Selbstständigkeit wagen und eine eigene psychologische Praxis eröffnen: Diesen Traum haben viele, die die Ausbildung zur psychologischen Beratung absolvieren oder absolviert haben. Doch wenige trauen sich tatsächlich, ihren Traum zu realisieren. Wieso ist nun gerade am IFGE die Rate derer so hoch, die sich während oder nach der Ausbildung letztlich tatsächlich in die Selbstständigkeit und damit in die freie Praxis wagen?
+
+Ganz einfach: Weil am Institut für ganzheitliches Erleben jeder und jede die volle Unterstützung bei der Realisierung dieses Traumes erhält. 
+
+Und das gilt nicht nur für die fundierten theoretischen Fachinhalte, die am IFGE in allen Aus- sowie Fortbildungen gelehrt werden, sondern vor allem auch für unseren praxisorientierten Zugang, den wir mit diesem Planspiel auch externen Interessierten anbieten. Denn der Schritt zur eigenen Praxis braucht Tatendrang und Praxiswissen. Dieses wird im Planspiel „Das Einmaleins der Gründung“ vermittelt, indem Sie sich gemeinsam mit den vortragenden Expert*innen die ganz konkrete Frage stellen: Was braucht es, um die eigene Praxis zu gründen?
 
 {{% /floatbox %}}
 
@@ -33,7 +40,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/planspiel.png" >}}
 
 ## Den gesamten Praxisaufbau samt erstem Geschäftsjahr simulieren
 
