@@ -93,7 +93,7 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 {{% /large %}}
 {{% /box %}}
 
- {{< line icon="icon/Coaching.png" >}}
+ {{< line icon="icon/coaching.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 # Coaching für Führungskräfte
