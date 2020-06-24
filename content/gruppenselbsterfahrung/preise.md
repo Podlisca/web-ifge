@@ -74,12 +74,19 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 {{% /small  %}}
 {{% small  %}}
 * Teilnehmer\*in mit eigenem Anliegen: € 180,-
+
 * Teilnehmende\*r Beobachter\*in: € 60,-
+
 * Teilnehmer\*in mit eigenem Anliegen: € 290,-
+
 * Teilnehmende\*r Beobachter\*in: € 120,-
+
 * Teilnehmer\*in mit eigenem Anliegen:€ 390,-
+
 * Teilnehmende\*r Beobachter\*in: € 130,-
+
 * Teilnehmer\*in mit eigenem Anliegen:€ 590,-
+
 * Teilnehmende\*r Beobachter\*in: € 240,-
 {{% /small  %}}
 {{% /box %}}
