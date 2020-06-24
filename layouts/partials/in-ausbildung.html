@@ -1,14 +1,33 @@
 {{ $style := .style}}
 {{ with .context }}
+    
+        <hr/>        
+    
     <div class="referent {{ $style }}">
-        <hr/>
-        <h2>{{ .Name }}</h2>
-        <hr/>
-        <div class="floatbox">            
-            {{ range .Text }}                
-                <p>{{ . }}</p>
+        <div class="box">
+            <div class="small">
+                <h4>{{ .Name }}</h4>
+            </div>
+        </div>
+        <div class="floatbox">
+            <p>
+            <img src="{{ .Bild }}" class="float {{ .Float }}" alt="Foto {{ .Name }}"/>
+            {{ range $index, $element := .Text }}
+                {{ if ne $index 0}}
+                    <p>
+                {{ end }}
+                {{ . }}
+                </p>
             {{ end }}
-            <div style="clear: both;"></div>            
+            <div style="clear: both;"></div>
+            {{ range  .Werdegang}}
+                {{ if .Abschnitt }}<p>{{ .Abschnitt }}</p>{{ end }}            
+                <ul>
+                    {{ range .Station }}
+                        <li>{{ . }}</li>    
+                    {{ end}}
+                </ul>
+            {{ end }}
         </div>
         <div class="box" style="align-items: flex-start;">
             {{ if .Kontakt }}
