@@ -33,7 +33,7 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien  
-{{< figure src="/img/ifge_wien.jpg">}}
+{{< image src="/img/ifge_wien.jpg">}}
 
 **15.11.2020**<br/>
 Sonntag 09:00 bis 18:00 Uhr<br/> 
@@ -48,7 +48,7 @@ Leitung: Silvia Podlisca<br/>
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/ifge_pinkafeld.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg">}}
 
 **12.09.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
@@ -63,7 +63,7 @@ Leitung: Silvia Podlisca<br/>
 
 {{% small  %}}
 #### Online Gruppensupervision
-{{< figure src="/img/ifge_pinkafeld.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg">}}
 
 **Die nächsten Termine befinden sich in Planung**
 

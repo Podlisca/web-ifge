@@ -64,16 +64,16 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/tieraufstellung_1.jpg" title="Tiere spiegeln uns sehr oft unsere Gefühle und aktuellen Themen wider." >}}
+{{< image src="/img/tieraufstellung_1.jpg" title="Tiere spiegeln uns sehr oft unsere Gefühle und aktuellen Themen wider." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/tieraufstellung_2.jpg" title="Als treue Begleiter versuchen Sie uns so auf etwas aufmerksam zu machen." >}}
+{{< image src="/img/tieraufstellung_2.jpg" title="Als treue Begleiter versuchen Sie uns so auf etwas aufmerksam zu machen." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/tieraufstellung_3.jpg" title="Unsere geliebten Vierbeiner sind ein wichtiger Teil des Systems Familie." >}}
+{{< image src="/img/tieraufstellung_3.jpg" title="Unsere geliebten Vierbeiner sind ein wichtiger Teil des Systems Familie." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/tieraufstellung_4.jpg" title="Eine Systemische Tieraufstellung kann Einblicke und Lösungen möglich machen." >}}
+{{< image src="/img/tieraufstellung_4.jpg" title="Eine Systemische Tieraufstellung kann Einblicke und Lösungen möglich machen." >}}
 {{% /small  %}}
 {{% /box %}}
 

@@ -18,8 +18,8 @@ weight: 1
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/ausbildungsphilosophie1.jpg">}}
-{{< figure src="/img/ausbildungsphilosophie2.jpg" >}}
+{{< image src="/img/ausbildungsphilosophie1.jpg">}}
+{{< image src="/img/ausbildungsphilosophie2.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 
@@ -63,7 +63,8 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/icon/diplomlehrgang.png">}}
+{{< image src="/img/icon/diplomlehrgang.png" small=1 >}}
+
 #### WKO ZERTIFIZIERTE LEHRGÄNGE
 * [Lebens- und Sozialberatung - psychologische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html)
 * [LSB Upgrade: Supervision](/ausbildungsangebote/lsb-upgrade-supervisionslehrgang.html)
@@ -71,7 +72,8 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/icon/zertifikat.png">}}
+{{< image src="/img/icon/zertifikat.png" small=1 >}}
+
 #### AUS- UND WEITERBILDUNGEN
 * [Psychologisches Teambuilding](/ausbildungsangebote/ausbildung-psychologisches-teambuilding.html)
 * [Sexual- & Paarberatung](/ausbildungsangebote/sexualberatung-paarberatung.html)
@@ -81,7 +83,8 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/icon/onlineausbildung.png">}}
+{{< image src="/img/icon/onlineausbildung.png" small=1 >}}
+
 #### ONLINE AUSBILDUNGEN & TRAININGS
 * [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
 * [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
@@ -95,7 +98,8 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/icon/tiere.png">}}
+{{< image src="/img/icon/tiere.png" small=1 >}}
+
 #### TIERGESTÜTZTE AUSBILDUNGEN
 * [Tiergestützte psychologische Beratung](/ausbildungsangebote/tiergestützte-psychologische-beratung.html)
 * Erste Hilfe für Katzen

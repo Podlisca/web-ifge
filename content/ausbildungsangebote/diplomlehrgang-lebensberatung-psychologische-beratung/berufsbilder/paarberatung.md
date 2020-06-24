@@ -13,7 +13,7 @@ draft: true
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
@@ -26,7 +26,7 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -43,7 +43,7 @@ Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den feh
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](www.ifge.at) bewusst [Täter\*innen](www.ifge.at) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
@@ -56,7 +56,7 @@ Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, 
 Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Beziehung so gestalten, wie es für Sie beide am besten dienlich ist – frei von übernommen Altlasten und (oft heimlich) schlechtem Gewissen gegenüber Ihren Eltern. 
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -64,15 +64,15 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](www.ifge.at).
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Jeder wird gehört..." >}}
+{{< image src="/img/img1.jpg" title="Jeder wird gehört..." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
+{{< image src="/img/img1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Wenn es einmal emotionaler wird.." >}}
+{{< image src="/img/img1.jpg" title="Wenn es einmal emotionaler wird.." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
+{{< image src="/img/img1.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
 {{% /small  %}}
 {{% /box %}}

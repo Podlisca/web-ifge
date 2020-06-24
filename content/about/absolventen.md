@@ -27,7 +27,7 @@ IFGE ist bekannt dafür, alle Schüler\*innen und auch Absolvent\*innen gleicher
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### Mag. Bettina Schermann
@@ -60,7 +60,7 @@ Web: www.lsbpb.at<br/>
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### Nicole Francan
@@ -89,7 +89,7 @@ Web: www.nicolefrancan.at<br/>
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### Alexandra Rahbar
@@ -126,7 +126,7 @@ Web: www.holistic-balance.consulting<br/>
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### Amel Hamdi
@@ -157,7 +157,7 @@ Web: www.amelhamdi-lib.com<br/>
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### Amina Helmy
@@ -197,7 +197,7 @@ Web: https://www.luhe-prozessbegleitung.com/<br/>
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### Andrea Linzer
@@ -236,7 +236,7 @@ Web: www.innereHarmonie.at<br/>
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% large %}}
 ### BEd. Susanna Kundics

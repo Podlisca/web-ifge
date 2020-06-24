@@ -42,22 +42,22 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### [PSYCHOLOGISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzelberatung" >}})
-{{< figure src="/img/img2.jpg" >}}
+{{< image src="/img/img2.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [PSYCHOLOGISCHE BERATUNG - PAAR]({{< relref "berufsbilder/paarberatung" >}})
-{{< figure src="/img/img2.jpg" >}}
+{{< image src="/img/img2.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [SYSTEMISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzel_system" >}})
-{{< figure src="/img/img2.jpg" >}}
+{{< image src="/img/img2.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [FAMILIENAUFSTELLUNG IN DER GRUPPE]({{< relref "/gruppenselbsterfahrung/familienaufstellung.html" >}})
-{{< figure src="/img/img2.jpg" >}}
+{{< image src="/img/img2.jpg" >}}
 {{% /small  %}}
 
 {{% /box %}}

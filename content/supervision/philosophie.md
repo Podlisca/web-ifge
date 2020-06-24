@@ -15,7 +15,9 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
+{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}}
+
+Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
 
 Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
 
@@ -33,29 +35,37 @@ Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektie
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
+{{< image src="/img/icon/einzel_sv.png" small=1 >}}
+
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
-{{< image src="/img/icon/einzel_sv.png" >}}
 {{% /small  %}}
 
 {{% small  %}}
+{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
+
 #### [Geschlossene SV Gruppe](/supervision/geschlossenegruppe.html)
 
-{{< image src="/img/icon/sv_gruppe_geschlossen.png" >}}
 {{% /small  %}}
 
 {{% small  %}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+
 #### [Offene SV Tage](/supervision/offenegruppe.html)
-{{< image src="/img/icon/sv_gruppe_offen.png" >}}
+
 {{% /small  %}}
 
 {{% small  %}}
+{{< image src="/img/icon/sv_woche.png" small=1 >}}
+
 #### [Intensivwoche](/supervision/supervisionswoche.html)
-{{< image src="/img/icon/sv_woche.png" >}}
+
 {{% /small  %}}
 
 {{% small  %}}
+{{< image src="/img/icon/sv_teambuilding.png" small=1 >}}
+
 #### [Teamsupervision](/supervision/teamsupervision.html)
-{{< image src="/img/icon/sv_teambuilding.png" >}}
+
 {{% /small  %}}
 
 {{% /box %}}

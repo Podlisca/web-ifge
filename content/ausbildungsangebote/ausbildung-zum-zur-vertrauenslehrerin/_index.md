@@ -16,7 +16,7 @@ weight: 8
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 
@@ -65,7 +65,7 @@ Der Mangel an zusätzlicher Ausbildung und an verinnerlichten Methoden ist vor a
 Da es für den Posten der Vertrauenslehrer\*innen kaum Ausbildungsmöglichkeiten gibt, stehen viele Lehrer\*innen in dieser Funktion ratlos und überfordert vor den oben genannten Fragen und sind verunsichert: Was darf ich? Was ist der fachlich korrekte nächste Schritt? Was sollte ich keinesfalls tun? Häufig melden sich jene Lehrer\*innen freiwillig oder werden zur Vertrauensperson ernannt, die von vornherein ein besonders gutes Verhältnis zu den Schüler\*innen haben. Gerade durch das daher gelegentlich bereits bestehende Vertrauens- und Naheverhältnis gilt es auch, die Frage nach einer gesunden Distanz zu den Anliegen der Schüler\*innen fachlich und emotional zu beantworten.
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 

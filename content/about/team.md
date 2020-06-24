@@ -18,7 +18,7 @@ weight: 3
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg">}}
+{{< image src="/img/img1.jpg">}}
 {{% /small  %}}
 {{% small %}}
 Das IFGE-Team wächst stetig - aufgrund der Teamgröße konnten nicht alle Referent*innen am gleichen Fototermin vor Ort sein.
@@ -45,7 +45,7 @@ Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  ein
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/karlovits.jpg">}}
+{{< image src="/img/karlovits.jpg">}}
 {{% /small  %}}
 {{% small %}}
 

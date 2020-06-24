@@ -42,26 +42,26 @@ Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung 
 Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender [Lebens- und Sozialberater\*innen – psychologische Berater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html). 
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/institut_2.jpg" >}}
-{{< figure src="/img/institut_3.jpg" >}}
+{{< image src="/img/institut_2.jpg" >}}
+{{< image src="/img/institut_3.jpg" >}}
 {{% /small  %}}
 {{% /box %}}
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### Wien
-{{< figure src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
 
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
+{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
 
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
 
 {{% /small  %}}
 {{% /box %}}
@@ -72,8 +72,8 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/institut_4.jpg" >}}
-{{< figure src="/img/institut_5.jpg" >}}
+{{< image src="/img/institut_4.jpg" >}}
+{{< image src="/img/institut_5.jpg" >}}
 {{% /small  %}}
 
 {{% large %}}
@@ -99,19 +99,19 @@ Meine Philosophie hinsichtlich der [Ausbildungs-](/ausbildungsangebote/philosoph
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/impulspro.jpg" >}}
+{{< image src="/img/impulspro.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/aufstellungsarbeit.jpg" >}}
+{{< image src="/img/aufstellungsarbeit.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/supervision.jpg" >}}
+{{< image src="/img/supervision.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Supervisor\*in.
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/berufsverband.jpg" >}}
+{{< image src="/img/berufsverband.jpg" >}}
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}

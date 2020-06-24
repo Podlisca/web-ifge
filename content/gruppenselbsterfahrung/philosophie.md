@@ -32,8 +32,8 @@ Dabei können wir auf der Ebene des Gefühls und der Intuition viel eher langfri
 Ist der Fluss der verschieden Bewusstseinsebenen längerfristig unterbrochen, entstehen belastende Situationen und Erlebenszustände, auf die manche Menschen emotional reagieren, während andere wiederum körperliche Symptome zeigen. Doch nur, wenn wir alle unsere Bewusstseinsebenen – zur rechten Zeit – nutzen und deren Potenzial vollkommen ausschöpfen, sind wir im Fluss und somit in der vollen Lebenskraft.
 {{% /large %}}
 {{% small %}}
-{{< figure src="/img/silvia_3.jpg">}}
-{{< figure src="/img/silvia_3.jpg">}}
+{{< image src="/img/silvia_3.jpg">}}
+{{< image src="/img/silvia_3.jpg">}}
 {{% /small %}}
 {{% /box %}}
 

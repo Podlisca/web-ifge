@@ -17,7 +17,7 @@ weight: 5
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% small %}}
 Auch wenn Sexualität in Medien heute präsenter zu sein scheint als je zuvor und unsere Gesellschaft sich vermeintlich so offen wie nie gibt, zeigt sich das tatsächliche, individuelle sexuelle Erleben für viele Menschen häufig problembehaftet. Eben weil die vielerorts zur Schau gestellte sexuelle Offenheit so präsent ist, gibt es mehr und mehr Personen, die sich verunsichert fühlen und es nicht wagen, die eigenen sexuellen Unsicherheiten, Anliegen, Probleme und Sorgen mit ihren Partner\*innen oder mit Freunden zu teilen. Der Bereich der [Sexualberatung](www.ifge.at) ist damit eine wesentliche Säule der psychologischen Beratung, weil er vielen Menschen überhaupt erst ermöglicht, in einem geschützten, wertfreien und sicheren Rahmen über intime Anliegen zu sprechen.
@@ -32,7 +32,7 @@ Da es für Klient\*innen großes Vertrauen in die Beratenden benötigt, um sich 
 Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberatung – psychologischen Beratung ein besonderes Hauptaugenmerk auf die Besonderheiten und Interventionsmöglichkeiten in der Paar- und Sexualberatung gelegt wird, können im Rahmen der Gesamtausbildung bestimmte vertiefende Themen dennoch nur im Überblick für die reguläre Arbeit in der psychologischen Beratung behandelt werden. Wer sich später auf das Thema „Sexualberatung“ spezialisieren und das in der Grundausbildung erlernte Wissen vertiefen sowie erweitern möchte, der hat dazu in unserem Upgrade die Möglichkeit. Die Fortbildung eignet sich darüber hinaus selbstverständlich auch für alle diplomierten oder sich in Ausbildung befindlichen psychologischen Berater\*innen anderer Ausbildungsinstitute, die ihre Interventionsmöglichkeiten vertiefen möchten.
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -56,7 +56,7 @@ Durch die Zusatzausbildung „Sexualberatung – Paarberatung“ erhalten Sie ni
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% small %}}
 Durch unsere hochmodernen Unterrichtsmethoden, die Expertise unserer Referent\*innen und den idealen Mix aus der Vermittlung von aktuellstem Fachwissen und praxisnahen Übungssequenzen erweitern Sie Ihr fachspezifisches Wissen spielerisch und können sich mit Ihrem fundierten Zusatzangebot von Ihren Kolleg*innen  abgrenzen. Die wesentlichen Inhalte der Zusatzausbildung konzentrieren sich dabei auf [sexuelle Orientierungen](www.ifge.at), [Paraphilien](www.ifge.at), [Opfer-](www.ifge.at) und [Täterarbeit](www.ifge.at), verpönte Sexualität , Sexualerkrankungen und vieles mehr. Dabei erarbeiten Sie die Themenkreise durch einen Methodenmix aus gewaltfreier, wertschätzender Kommunikation, vertiefender Gesprächsführung und systemischer Gesprächsführung im Einzel- sowie im Paarkontext.
@@ -72,7 +72,7 @@ Da am IFGE die systemische Sichtweise auf Probleme aller Art ein zentraler Teil 
 Die Vertiefung des Wissens im Bereich der [Sexualberatung](www.ifge.at) in Verbindung mit der [Systemik](www.ifge.at) bedeutet, dass sich die Ausbildungsinhalte in Zukunft verstärkt auf das Arbeiten mit erstarrten Welten, Abspaltungen oder dissoziierten Anteile konzentriert.
 {{% /small %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -88,7 +88,7 @@ Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professio
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% large %}}
 In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. Sie betrachten mögliche systemische Verstrickungen, vertiefen das Wissen rund um die aktuelle Rechtsprechung in dieser oft als „schwarz“ bezeichneten Form der Erotik und beschäftigen sich mit den passenden Interventionen für Menschen, die mit Anliegen rund um das Thema BDSM zu Ihnen kommen. Im Zuge der Arbeit mit KlientInnen aus dem Bereich des BDSM geht es immer wieder auch um Grenzen – ein Thema, das in der Fortbildung intensiv beleuchtet wird:
@@ -107,7 +107,7 @@ Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung
 
 {{% /large %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
 {{% /small  %}}
 {{% /box %}}
 

@@ -80,19 +80,19 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/impulspro.jpg" >}}
+{{< image src="/img/impulspro.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/aufstellungsarbeit.jpg" >}}
+{{< image src="/img/aufstellungsarbeit.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/supervision.jpg" >}}
+{{< image src="/img/supervision.jpg" >}}
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Supervisor\*in.
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/berufsverband.jpg" >}}
+{{< image src="/img/berufsverband.jpg" >}}
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}
