@@ -29,7 +29,9 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 {{% floatbox %}}
 ## Ansprechende Lernatmosphäre & fachliche Qualität – auch online!
 
-{{< image src="/img/philosophie_online1.jpg" float="right" >}} Die Inhalte unserer digitalen Ausbildungen sind in gewohnt hoher fachlicher Qualität bewusst auf das Online-Setting zugeschnitten, wodurch auch in allen online stattfindenden Aus- und Fortbildungen ein Höchstmaß an behaglicher, konzentrationsfördernder und ansprechender Lernatmosphäre geschaffen wird. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln. Wir freuen uns daher besonders über das konstante Feedback der Schüler\*innen, dass der gewohnt persönliche Rahmen genauso wie die lockere Unterrichtsstimmung und die herzliche Professionalität uneingeschränkt auch in unseren Onlineausbildungen gegeben ist. Das individuelle Eingehen auf alle Teilnehmer*innen wird am IFGE auch in den digitalen Ausbildungen groß geschrieben. 
+{{< image src="/img/philosophie_online1.jpg" float="right" >}}
+
+Die Inhalte unserer digitalen Ausbildungen sind in gewohnt hoher fachlicher Qualität bewusst auf das Online-Setting zugeschnitten, wodurch auch in allen online stattfindenden Aus- und Fortbildungen ein Höchstmaß an behaglicher, konzentrationsfördernder und ansprechender Lernatmosphäre geschaffen wird. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln. Wir freuen uns daher besonders über das konstante Feedback der Schüler\*innen, dass der gewohnt persönliche Rahmen genauso wie die lockere Unterrichtsstimmung und die herzliche Professionalität uneingeschränkt auch in unseren Onlineausbildungen gegeben ist. Das individuelle Eingehen auf alle Teilnehmer*innen wird am IFGE auch in den digitalen Ausbildungen groß geschrieben. 
 
 
 

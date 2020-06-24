@@ -17,7 +17,9 @@ weight: 7
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Ganz sicher Spaß haben? Ganz SICHER Spaß haben! Das ist das Ziel des spannenden, interaktiven und kurzweiligen Online-Workshops „Fit and safe“, der ganz speziell auf Mädchen und junge Frauen zugeschnitten ist. Denn obwohl auf dem Weg ins Erwachsenenleben so manche brenzlige Situation auf dich warten kann, so sollten deine Teeny-Jahre doch eine besondere Zeit der Ausgelassenheit, Unbeschwertheit und Fröhlichkeit sein dürfen.
+{{< image src="/img/silvia_start.jpg" float="left " >}}
+
+Ganz sicher Spaß haben? Ganz SICHER Spaß haben! Das ist das Ziel des spannenden, interaktiven und kurzweiligen Online-Workshops „Fit and safe“, der ganz speziell auf Mädchen und junge Frauen zugeschnitten ist. Denn obwohl auf dem Weg ins Erwachsenenleben so manche brenzlige Situation auf dich warten kann, so sollten deine Teeny-Jahre doch eine besondere Zeit der Ausgelassenheit, Unbeschwertheit und Fröhlichkeit sein dürfen.
 
 Damit aus Spaß kein ungewollter Ernst wird, braucht es jedoch eine Menge an Wissen rund um die speziellen Gefahren, die im Internet, auf Partys oder beim ersten Treffen mit dem süßen Jungen aus dem Chat lauern können.
 

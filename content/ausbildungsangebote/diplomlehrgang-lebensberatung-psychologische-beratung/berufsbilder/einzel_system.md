@@ -16,6 +16,7 @@ Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Famili
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Denn häufig begleitet meine Klient\*innen jahrelang z.B. der Glaubenssatz, dass die Umsetzung ihrer Vorhaben oder der Schritt zur Weiterentwicklung einer hundertprozentigen Zustimmung ihrer selbst und auch der Zustimmung anderer bedürfen.  Fähigkeiten „wohldosiert“ einzusetzen, bedeutet hier also auch, zu erkennen, dass nicht zwangsläufig 100 Prozent von Ihnen gefordert sind, wenn Sie etwas verändern möchten. Denken Sie nur einmal an eine demokratische Abstimmung! Hier reicht schon eine einfach Mehrheit – also über 50 Prozent Zustimmung –, um in die Handlung zu gehen. Wo haben Sie sich vielleicht bisher etwas verwehrt oder haben sich nicht erlaubt, aktiv zu werden, weil Sie empfunden haben, für einen neuen Schritt „nur“ zu 80 Prozent gerüstet zu sein? Die sogenannte „innere Opposition“ ist sogar dringend notwendig, um sowohl flexibel als auch dynamisch zu bleiben und „Betriebsblindheiten“ zu vermeiden. 
@@ -28,12 +29,14 @@ Doch egal von welcher systemischen Schule geschaut wird, systemische Beratung be
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% /box %}}
 
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Systemische Beratung bedeutet in meinem Verständnis nicht – wie so oft anders in Aussicht gestellt – dass mit einer großen Familienaufstellung in der Gruppe jedes einzelne belastende Thema von Klient\*innen aufgearbeitet und für immer dauerhaft gelöst werden kann. Die [Philosophie](www.ifge.at), die bei mir am Institut für ganzheitliches Erleben gelebt wird, ist viel eher die Lösung der kleinen, sicheren Schritte. Diese scheinen auf den ersten Blick möglicherweise nicht als so gewichtig wie die Lösungen, die in Gruppenaufstellungen sichtbar gemacht und bearbeitet werden, helfen aber ebenso durch das kontinuierliche innere Erleben, sichtbar Gewordenes nachhaltig in persönliche Lösungskonzepte zu integrieren. Systemische Einzelstunden festigen dazu oft den in der Gruppe erzielten Aufstellungserfolg.
@@ -47,6 +50,7 @@ Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, 
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](www.ifge.at) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient\*innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können.
@@ -60,6 +64,7 @@ Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb bes
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Sichtbar machen, was seit mehreren Generationen im Familiensystem wirkt" >}}
+
 {{% /small  %}}
 {{% large %}}
 Durch das von Mag. Rathkolb und mir entwickelte SystemDimensionsBrett® ist es mir möglich, noch besser auf die Systemik einzugehen und diese auch "anschaubar" zu machen.
@@ -79,6 +84,7 @@ Der Aufstellungsprozess gliedert sich immer in Etappen. Zunächst gilt es, das I
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Zusammenhänge im Raum der Zeit erkennen" >}}
+
 {{% /small  %}}
 {{% /box %}}
 

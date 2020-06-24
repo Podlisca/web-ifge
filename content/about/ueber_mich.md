@@ -17,7 +17,9 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_podlisca.jpg" float="left" title="Bildbeschreibung" >}} Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
+{{< image src="/img/silvia_podlisca.jpg" float="left" title="Bildbeschreibung" >}}
+
+Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
 Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden.
 
@@ -35,7 +37,9 @@ Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hil
 
 Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansatz verfolge ich seit jeher auch im [Business-Coaching](www.fcbp.at), welches seit Jahren mein Angebot ergänzt. Gerade in bestehenden Firmenstrukturen ist es wesentlich, Muster rasch zu erkennen und diese anzusprechen, um im Anschluss mit den Verantwortlichen neue Strategien zu entwickeln. Da mir die Erhaltung bzw. Wiederherstellung eines erfolgreichen und gesunden Betriebsklimas in Unternehmen, die meine Hilfe in Anspruch nehmen, seit jeher ein persönliches Anliegen ist, biete ich regelmäßig Aus- und Fortbildungsseminare für Führungspersönlichkeiten im gehobenen Management an. Der Wunsch, gewinnbringende Unternehmensstrategien mit betriebspsychologischem Fachwissen zu verbinden, gab schließlich den Anstoß dazu, im Jahr 2017 gemeinsam mit Martin Bransky [„Bransky und Podlisca Firmencoaching FCBP“](www.fcbp.at) ins Leben zu rufen, wodurch ich heute mit viel Freude Führungskräfte in allen Bereichen – von der Unternehmensgründung bis zur Mitarbeiter*innenführung – effektiv und wertschätzend unterstütze.
 
-{{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Bildbeschreibung" >}} Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie.html) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
+{{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Bildbeschreibung" >}}
+
+Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie.html) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -81,18 +85,22 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 {{% box top-align=1 %}}
 {{% small  %}}
 {{< image src="/img/impulspro.jpg" >}}
+
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
+
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/supervision.jpg" >}}
+
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Supervisor\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/berufsverband.jpg" >}}
+
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}

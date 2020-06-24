@@ -17,7 +17,9 @@ weight: 10
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Sind Sie im Geiste auch schon damit beschäftigt, innerlich Ihren perfekten Praxisraum einzurichten? Dann sind Sie mit Ihrer Gründung entweder schon sehr, sehr weit – oder aber stehen noch ganz am träumerischen Anfang. Sollte ersteres der Fall sein, wissen Sie vermutlich auch bereits, wie hoch Ihr jährlicher Aufwand an Putzmitteln und WC-Papier für die Praxis sein wird. Nein? Darüber haben Sie sich noch keine Gedanken gemacht? Dann stehen Sie wohl doch wieder – zumindest zum Teil – ganz am Anfang.
+{{< image src="/img/silvia_start.jpg" float="left " >}}
+
+Sind Sie im Geiste auch schon damit beschäftigt, innerlich Ihren perfekten Praxisraum einzurichten? Dann sind Sie mit Ihrer Gründung entweder schon sehr, sehr weit – oder aber stehen noch ganz am träumerischen Anfang. Sollte ersteres der Fall sein, wissen Sie vermutlich auch bereits, wie hoch Ihr jährlicher Aufwand an Putzmitteln und WC-Papier für die Praxis sein wird. Nein? Darüber haben Sie sich noch keine Gedanken gemacht? Dann stehen Sie wohl doch wieder – zumindest zum Teil – ganz am Anfang.
 
 Genau diesen Anfang möchte Ihnen das IFGE erleichtern. Denn gerade an solch vermeintliche Kleinigkeiten wie den Reinigungsaufwand denkt man selten, wenn man von der eigenen Praxis träumt. unterhaltsam sowie fundiert vermittelt.
 

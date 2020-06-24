@@ -17,7 +17,9 @@ weight: 6
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Die Zahl der Internetbetrüger\*innen ist genauso groß wie die Möglichkeiten des Onlinebetrugs vielfältig sind. Dabei haben die meisten von uns genaue Vorstellung, wer die Opfer von Internetbetrüger\*innen sind: Ältere Leute, die nicht lernen wollen, dass man Mail-Anhänge und Links von Unbekannten nicht anklicken darf, oder besonders naive Menschen, die Bankcodes in Onlinefelder eingeben. Und dann haben wir noch das Bild der liebeshungrigen und vor allem völlig verzweifelten Männer und Frauen, die auf die Heiratsschwindler der heutigen Zeit hereinfallen: die sogenannten Love Scammer.
+{{< image src="/img/silvia_start.jpg" float="left " >}}
+
+Die Zahl der Internetbetrüger\*innen ist genauso groß wie die Möglichkeiten des Onlinebetrugs vielfältig sind. Dabei haben die meisten von uns genaue Vorstellung, wer die Opfer von Internetbetrüger\*innen sind: Ältere Leute, die nicht lernen wollen, dass man Mail-Anhänge und Links von Unbekannten nicht anklicken darf, oder besonders naive Menschen, die Bankcodes in Onlinefelder eingeben. Und dann haben wir noch das Bild der liebeshungrigen und vor allem völlig verzweifelten Männer und Frauen, die auf die Heiratsschwindler der heutigen Zeit hereinfallen: die sogenannten Love Scammer.
 Leider ist das eines jener Klischeebilder, die verhindern, dass sich die Opfer der digitalen Liebesbetrüger zeitgerecht rechtliche und vor allem psychologische Hilfe suchen. 
 
 Denn in der Realität sind es Menschen aus allen Bildungsschichten, oftmals sogar jene, die für ihr analytisches sowie vorsichtiges Geschick bekannt sind, die von den unglaublich perfiden Maschenschafen der Love Scammer getäuscht werden. Oftmals erfahren Betroffene erst durch Zeitungsartikel und Fernsehnachrichten, in denen andere Opfer sich zu Wort melden, dass sie nicht die einzigen sind, die sich haben täuschen lassen.

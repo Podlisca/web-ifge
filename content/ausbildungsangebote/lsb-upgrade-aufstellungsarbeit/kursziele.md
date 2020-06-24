@@ -33,7 +33,9 @@ weight: 1
 {{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/kursziel_2.jpg" float="right" >}} Ungelöstes im Herkunftssystem reicht oftmals sehr stark in unser Gegenwartssystem hinein – wir alle sind in ein Familiensystem eingebunden, das intensiv auf unser Leben einwirkt. So kann es sein, dass jemand heimlich mit einer Krankheit oder Schwierigkeit im Einklang und im Glück ist, weil das Teil seines Systems ist. Familienaufstellungen bringen sogenannte Verstrickungen ans Licht, die im Verborgenen bzw. unbewusst wirken. Werden diese nicht erkannt, helfen Therapien oder Beratungsgespräche oftmals nur kurzfristig und die hinderliche Dynamik schleicht sich nach und nach wieder ein. Die Ursache von Krankheiten, die Hintergründe warum jemand ein schweres Unrecht begeht, der Vorwurf an Vater und Mutter – die systemische Sichtweise liefert dazu ebenso überraschende wie spannende Inputs und verändert oft den eigenen Blick auf die Welt.
+{{< image src="/img/kursziel_2.jpg" float="right" >}}
+
+Ungelöstes im Herkunftssystem reicht oftmals sehr stark in unser Gegenwartssystem hinein – wir alle sind in ein Familiensystem eingebunden, das intensiv auf unser Leben einwirkt. So kann es sein, dass jemand heimlich mit einer Krankheit oder Schwierigkeit im Einklang und im Glück ist, weil das Teil seines Systems ist. Familienaufstellungen bringen sogenannte Verstrickungen ans Licht, die im Verborgenen bzw. unbewusst wirken. Werden diese nicht erkannt, helfen Therapien oder Beratungsgespräche oftmals nur kurzfristig und die hinderliche Dynamik schleicht sich nach und nach wieder ein. Die Ursache von Krankheiten, die Hintergründe warum jemand ein schweres Unrecht begeht, der Vorwurf an Vater und Mutter – die systemische Sichtweise liefert dazu ebenso überraschende wie spannende Inputs und verändert oft den eigenen Blick auf die Welt.
 {{% /floatbox %}}
 
 {{% box blue=1 %}}
