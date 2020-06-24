@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Grundlagen i der der Onlineberatung & Onlinecoaching"
+title: "ONLINE Ausbildung - Grundlagen in der der Onlineberatung & Onlinecoaching"
 menu: 
     main:
         parent: online
@@ -13,7 +13,7 @@ weight: 2
 
 {{< slogan >}}
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="/icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 
