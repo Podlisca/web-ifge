@@ -5,7 +5,7 @@ menu:
         parent: "supervision"
         identifier: "supervisionswoche"
 draft: true
-weight: 4
+weight: 5
 ---
 
 # Schulungs- und Supervisionswoche

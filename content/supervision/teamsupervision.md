@@ -5,7 +5,7 @@ menu:
         parent: "supervision"
         identifier: "teamsupervision"
 draft: true
-weight: 5
+weight: 6
 ---
 
 # Teambuilding & Supervision
