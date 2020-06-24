@@ -206,7 +206,6 @@ img {
     flex-wrap: nowrap;
     /* justify-content: flex-end; */
     align-items: center;
-    padding: 0.5em 0;
 }
 
 @media (max-width: 1024px) {

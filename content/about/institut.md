@@ -13,7 +13,7 @@ weight: 2
 
 {{< slogan >}}
 
- {{< line icon="icon/silvia.png" >}}
+{{< line icon="icon/silvia.png" >}}
 
 {{% floatbox %}} 
 {{< image src="/img/das_institut.jpg" float="left" >}}
@@ -23,15 +23,18 @@ Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Mens
 Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf {{< red >}}**I**{{< /red >}}nstitut {{< red >}}**f**{{< /red >}}ür {{< red >}}**g**{{< /red >}}anzheitliches {{< red >}}**E**{{< /red >}}rleben (IFGE) –  Silvia Podlisca e.U. geändert. Mit der Bekanntheit des nunmehrigen IFGE – wo fortan {{< red >}}**I**{{< /red >}}ntuition, {{< red >}}**F**{{< /red >}}achwissen, {{< red >}}**G**{{< /red >}}efühl und {{< red >}}**E**{{< /red >}}rfolg vereint wurden – stieg die Nachfrage an Seminaren, Workshops und Zusatzausbildungen. So entschied ich mich, das IFGE gänzlich um den [Ausbildungsschwerpunkt](/ausbildungsangebote/philosophie-und-kursangebot.html) zu erweitern.
 {{% /floatbox %}}
 
- {{< line icon="icon/diplomlehrgang.png" >}}
+{{< line icon="icon/diplomlehrgang.png" >}}
 
-{{% box blue=1 %}}
+{{% box %}}
 {{% small %}}
 
 # Von der Praxis zum renommierten Ausbildungsinstitut für Lebens- und Sozialberatung & Upgrades an drei Standorten
 
 {{% /small %}}
 {{% /box %}}
+
+{{% box %}}
+{{% large %}}
 
 {{% box blue=1 %}}
 {{% large %}}
@@ -43,6 +46,9 @@ Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung 
 
 Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender [Lebens- und Sozialberater\*innen – psychologische Berater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html). 
 {{% /large %}}
+{{% /box %}}
+
+{{% /large %}}
 {{% small  %}}
 {{< image src="/img/institut_2.jpg" >}}
 <br>
@@ -50,7 +56,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% /small  %}}
 {{% /box %}}
 
-{{% box blue=1 top-align=1 %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
 {{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
