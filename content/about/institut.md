@@ -45,6 +45,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/institut_2.jpg" >}}
+<br>
 {{< image src="/img/institut_3.jpg" >}}
 {{% /small  %}}
 {{% /box %}}
