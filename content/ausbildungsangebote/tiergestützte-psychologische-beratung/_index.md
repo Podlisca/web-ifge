@@ -11,27 +11,20 @@ weight: 4
 # Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung
 {{< slogan >}}
 
-***
+{{< line icon="icon/tiere.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
+{{% floatbox %}}
 
 ## TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
+
+{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left" >}}
 
 **Schwerpunkt Tiere:** Hund & Katze<br/>
 **Schwerpunkt Kommunikation:** Systemik & Hypnosystemik, Konfliktmanagement,  gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
 
 Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für L[ebens- und Sozialberater\*innen - psychologische Berater\*innen](www.ifge.at) sowie Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, interessant,  die sich durch einen starken Bezug zu Tieren auszeichnen und die die positiven Effekte, die Vierbeiner auf uns Menschen haben, gerne in den Beratungsprozess einsetzen möchten.
 
-**Bei dieser Fortbildung werden die Berater\*innen ausgebildet, Hunde und Katzen in die psychologische Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.**
-
-Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden Tieren in Ihre Arbeit einfließen lassen können. Im Zuge der Fortbildung erfahren Sie, wie Sie beispielsweise Ihre eigenen Vierbeiner in der freien Praxis für Interventionen situativ bestmöglich einsetzen.
-
-{{% /large %}}
-{{% /box %}}
+{{% /floatbox %}}
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -44,41 +37,32 @@ Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden T
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/tiere.png" >}}
+
+
+{{% floatbox %}}
+{{% box blue=1 %}}
+{{% small %}}
 
 #### Ideal auch für Berufseinsteigerinnen
 
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/img2.jpg">}}
-{{% /small  %}}
+{{< image src="/img/img1.jpg" float="right" >}}
 
-{{% large  %}}
-Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](www.ifge.at) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt!  Am IFGE trainieren Sie tiergestützte Interventionen mit den jahrelang ausgebildeten [Hunden Pluto & Sally](www.ifge.at).
-{{% /large  %}}
+Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](www.ifge.at) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
 
+Am IFGE trainieren Sie tiergestützte Interventionen mit den jahrelang ausgebildeten [Hunden Pluto & Sally](www.ifge.at). So können Sie das Erlernte praxisnah mit ihren eigenen Tieren in der freien Praxis umsetzen.
+
+{{% /small %}}
 {{% /box %}}
-So können Sie das Erlernte praxisnah mit ihren eigenen Tieren in der freien Praxis umsetzen.
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/tiere.png" >}}
 
-{{% box %}}
-
-{{% large  %}}
 Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: allein ihre Anwesenheit kann beruhigend wirken; es werden weniger Stresshormone ausgeschüttet. Weiters senken Streicheleinheiten den Blutdruck und stärken unser Immunsystem. Tiere können sehr entspannend wirken und eignen sich auch sehr gut als Tröster für traurige Momente. In der tiergestützten Beratung hat man die Möglichkeit, von diesen positiven Effekten zu profitieren.
-{{% /large  %}}
 
-{{% small  %}}
-{{< image src="/img/img2.jpg">}}
-{{% /small  %}}
-{{% /box %}}
+{{< line icon="icon/tiere.png" >}}
 
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/img2.jpg">}}
+{{% box more=1 blue=1 %}}
+{{< card-more link="" img="img1.jpg" title="">}}
 
 #### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?
 
@@ -89,9 +73,9 @@ Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Mensc
 Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Tiere unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie zeigen uns durch ihre unbekümmerte  Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen. Tiere fordern ihre Menschen auch dazu auf, Aktivität zu zeigen sowie Verantwortung zu übernehmen.
 
 Wir beziehen in unseren Lehrgang bzw. in die Ausbildung sorgfältig ausgewählte und ausgebildete Vierbeiner ein.
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/img2.jpg">}}
+{{% /card-more %}}
+
+{{< card-more link="" img="img1.jpg" title="">}}
 
 #### WAS BIETET UNSER FORTBILDUNGSLEHRGANG?
 
@@ -109,5 +93,6 @@ Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen und Pädagog\*innen, we
 * Sehr gute Organisation und Abwicklung durch mehrjährige Erfahrung in der Gestaltung sowie Durchführung von Ausbildungen
 * Beschränkung der Teilnehmer\*innen-Anzahl auf maximal 12 Personen - jedem/jeder einzelnen Teilnehmer*in wird so viel Raum zum Üben und Ausprobieren des Erlernten gegeben
 
-{{% /small  %}}
+{{% /card-more  %}}
 {{% /box %}}
+{{% /floatbox %}}
