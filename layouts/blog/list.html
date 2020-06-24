@@ -1,0 +1,42 @@
+{{ define "main"}}
+    <style>
+        .post-container {
+            display: grid;
+            grid-template-columns: auto auto auto;
+        }
+
+        article header {
+            background: none;
+            height: 130px;
+            overflow: hidden;
+        }
+
+        @media (max-width: 900px) {
+            .post-container {
+                grid-template-columns: auto auto;
+            }
+        }
+
+        @media (max-width: 700px) {
+            .post-container {
+                grid-template-columns: auto;
+            }
+            article header {
+                height: auto;
+            }
+        }
+        
+        article.post {
+            padding: 0.5em;
+        }
+
+    </style>
+    <h2 id="title">BLOG</h2>    
+    <div class="post-container">        
+        {{ range .Pages.Reverse }}
+          {{ .Render "summary"}}
+        {{ end }}
+    </div>
+
+
+{{ end }}

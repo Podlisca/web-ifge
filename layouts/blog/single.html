@@ -1,0 +1,22 @@
+{{ define "main"}}
+    
+    {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}">Vorheriger Artikel</a>
+    {{ end }}
+    {{ if and .PrevInSection .NextInSection }} | {{ end }}
+    {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}">Nächster Artikel</a>
+    {{ end }}
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}">Vorheriger Artikel</a>
+    {{ end }}
+    {{ if and .PrevInSection .NextInSection }} | {{ end }}
+    {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}">Nächster Artikel</a>
+    {{ end }}
+{{ end }}

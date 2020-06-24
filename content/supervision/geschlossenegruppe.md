@@ -5,7 +5,7 @@ menu:
         parent: "supervision"
         identifier: "geschlossenegruppe"
 draft: true
-weight: 2
+weight: 3
 ---
 
 
@@ -55,7 +55,7 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien - Gruppe 1 
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg">}}
 
 #### Start: 06.01.2021
 Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
@@ -80,7 +80,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 
 {{% small  %}}
 #### Wien - Gruppe 2
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_wien.jpg">}}
 
 #### Start: 06.01.2021
 Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
@@ -105,7 +105,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 
 {{% small  %}}
 #### Burgenland
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_pinkafeld.jpg">}}
 
 #### Start: 06.01.2021
 Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
@@ -129,7 +129,7 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< figure src="/img/img2.jpg">}}
+{{< image src="/img/ifge_stpoelten.jpg">}}
 
 
 #### Start: 06.01.2021

@@ -32,12 +32,12 @@ Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung 
 
 Das Ziel ist, Ihre persönlichen Handlungsmöglichkeiten und Ihr Potenzial im Alltag deutlich zu erweitern und zu mehr Lebensfreude und Leichtigkeit zu gelangen.
 
-{{% box blue=1 %}}
-{{< card-more icon="pencil.svg" title="Intensiv Selbsterfahrungswoche in Wien: 06. - 10 Juli 2020 in Wien">}}
+{{% box more=1 blue=1 %}}
+{{< card-more icon="icon/gruppenselbsterfahrung.png" title="Intensiv Selbsterfahrungswoche in Wien: 06. - 10 Juli 2020 in Wien">}}
 Mo. - Do. von 09:00 bis 18.00 Uhr 
 Fr. von 09:00 bis 14:00 Uhr
 
-Mindestens 10 Teilnehmer*innen; höchstens 14 Teilnehmer*innen
+Mindestens 10 Teilnehmer\*innen; höchstens 14 Teilnehmer*innen
 
 Ein Einstieg in die Gruppenselbsterfahrung während dieser Zeit ist nicht möglich.
 
@@ -65,7 +65,7 @@ Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Train
 
 Die Schweigepflicht bezüglich der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.  ANMELDUNG
 {{% /card-more %}}
-{{< card-more icon="pencil.svg" title="Geschlossene Selbsterfahrungsgruppe in Wien: Start 04. Sept. 2020">}}
+{{< card-more icon="icon/gruppenselbsterfahrung.png" title="Geschlossene Selbsterfahrungsgruppe in Wien: Start 04. Sept. 2020">}}
 Die Gruppe findet ab September 2020 jeden zweiten Freitag von 10.00 bis 13.00 Uhr statt - beginnend mit 04.09.2020. Der letzte Termin ist der 11.12.2020
 
 Termine: 04.09.2020  / 18.09.2020 / 02.10.2020 / 16.10.2020 / 30.10.2020 / 13.11.20 / 27.11.2020/ 11.12.2020

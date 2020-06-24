@@ -1,0 +1,53 @@
+---
+title: "Psychologische Beratung: Ausbilden und arbeiten auf Augenhöhe"
+draft: true
+tags: []
+weight: 98
+---
+
+Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca
+Gerade im psychosozialen Bereich liest und hört man viel über „Wertschätzung“, „Achtsamkeit“, „Intuition“ und „Augenhöhe“. Doch was bedeutet das konkret für die Ausbildung künftiger Lebens- und SozialberaterInnen sowie für deren Arbeit mit KlientInnen? Und warum ist der Stellenwert des Fachwissens dabei so essenziell?
+
+ 
+
+Silvia Podlisca, Leiterin des Instituts für ganzheitliches Erleben, kennt die Antworten.
+
+
+von Sonja Vorderdörfler
+
+ 
+
+Das Angebot für die Ausbildung zum/zur Dipl. Lebens- und SozialberaterIn – psychologische/r BeraterIn ist groß und wird stetig größer. Doch auch die Nachfrage an qualitativen Bildungsangeboten in der psychosozialen Arbeit nimmt kontinuierlich zu. Um die damit verbundene, mittlerweile sehr lange Wartezeit auf einen qualitativen Ausbildungsplatz am Institut für ganzheitliches Erleben zu verkürzen und um mehr Menschen zu ermöglichen, ihre Berufung zum Beruf zu machen, bietet das IFGE zahlreiche flexible Berufsausbildungsangebote sowie Fortbildungen und Upgrades an. Seit kurzem finden sich die Angebote neben dem Hauptinstitut in Wien auch in einer Zweigstelle in Pinkafeld im Burgenland. Für 2020 ist bereits eine Zweigstelle in Sankt Pölten in Niederösterreich geplant. Doch weshalb sind gerade die IFGE-Ausbildungsangebote so gefragt und was macht das Lernen an diesem Institut so einzigartig? Inhaberin Silvia Podlisca gibt Antworten auf diese und viele weitere spannende Fragen. 
+
+ 
+
+Freude an der Arbeit mit Menschen, Empathie sowie Intuition und ausreichend eigene Lebenserfahrung – macht das alleine schon einen guten psychologischen Berater bzw. eine gute Beraterin aus?
+
+Podlisca: Kurz gesagt: Nein. Weiter ausgeführt heißt das, dass Einfühlungsvermögen und Intuition für die psychologische Beratung zwar wesentliche Voraussetzungen sind, doch mit diesen Eigenschaften alleine ist man für eine professionelle Beratung von KlientInnen noch lange nicht gerüstet. Das zentrale Element für eine gelungene Beratung ist tiefgehendes Fachwissen gepaart mit einer professionell wertschätzenden Haltung den KlientInnen gegenüber. Das bedeutet, dass meine SchülerInnen von Anfang an lernen, frei von Absicht, frei von Wertung und frei von Interpretation auf ihre KlientInnen zuzugehen. Das klingt vielleicht erst einmal selbstverständlich, aber gerade wenn es um Tabu- und Randthemen geht, ist es für die SchülerInnen oftmals eine erste wesentliche Lernerfahrung, zu sehen, wo ihre eigenen Grenzen liegen und wie sie mit diesen in der Beratung professionell umgehen. In diesen klientendienlichen Umgang müssen die SchülerInnen erst hineinwachsen und dafür ist am IFGE ausreichend Zeit: Letztlich ergibt sich die Profession aus dem Festigen des Fachwissens und aus den überdurchschnittlich zahlreichen Praxisübungen, auf die am IFGE viel Wert gelegt wird. Einer klaren, professionellen Haltung und dem gefestigten Fachwissen folgt die Empathie und Intuition, die es für gelungene Beratung braucht, fast automatisch. Zur eigenen Lebenserfahrung möchte ich sagen, dass es nicht von ungefähr kommt, ein gewisses Stundenausmaß an Selbsterfahrung in der Ausbildung zu absolvieren. Die eigene Geschichte kann im Beratungsprozess sogar hinderlich werden, vor allem, wenn sie unreflektiert ist. Denn KlientInnen die eigenen Lösungsmöglichkeiten und Bewältigungsstrategien überzustülpen, mag vielleicht gut gemeint sein, nimmt den Hilfesuchenden jedoch die Möglichkeit, sich selbst weiterzuentwickeln und sich ihrem persönlichen Erleben entsprechend zu entfalten.
+
+ 
+
+Das heißt, die eigene Lebenserfahrung des Beraters oder der Beraterin hat nichts mit dem Erfolg einer Beratung zu tun?
+
+Podlisca: Ich bin zumindest keine Freundin davon, die eigene Erfahrung aus Privatleben oder aus dem persönlichen Umkreis als Qualitätskriterium für professionelle Beratung heranzuziehen. Zwar gibt es selbstverständlich so etwas wie Feldkompetenz oder Betroffenen-Expertise, doch diese in die Beratung einfließen zu lassen ist ein heikles Spiel. Denn „frei von Wertung und Interpretation“ bedeutet vor allem, dass wir professionellen Lebens- und SozialberaterInnen unsere KlientInnen zuerst einmal versuchen, ganzheitlich in ihrem persönlichen Erleben zu erfassen. Und nur weil ich vielleicht einmal in der gleichen Situation war, weiß ich noch lange nicht, ob mein Gegenüber in eben dieser Situation ähnlich empfindet wie ich. Diese oftmals falsche Annahme, der andere könnte wie ich empfinden, kann den Beratungsprozess holprig oder gar umprofessionell werden lassen. Und hier sind wir bei dem berühmten Wort der „Augenhöhe“. Diese bedeutet, dass wir unsere KlientInnen immer genau da abholen, wo sie gerade stehen und sie in ihrer Gesamtheit erfassen. Es bedeutet aber gleichzeitig, dass wir lösungs- und ressourcenorientiert davon ausgehen, dass unser Gegenüber in sich bereits alles das trägt, das er oder sie für eine individuelle, passende, umsetzbare und hilfreiche Lösung braucht. Wir psychologischen BeraterInnen begleiten professionell, wertschätzend und mit herzlicher Distanz dabei, diese Lösungen zu finden. Wir geben sie jedoch keinesfalls vor. Das ist mit Augenhöhe gemeint.
+
+ 
+
+Augenhöhe ist auch etwas, das Sie neben modernsten Unterrichtsmaterialien am IFGE, einer gemütlichen und lernfreundlichen Umgebung und einem eigens geschulten ReferentInnen-Team aus unterschiedlichsten Fachbereichen immer wieder hinsichtlich Ihrer Ausbildungsangebote betonen. Was konkret bedeutet das am IFGE?
+
+Podlisca: Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit KlientInnen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. Das bedeutet, dass sowohl ich als auch meine ReferentInnen individuell auf alle KursteilnehmerInnen eingehen und jeder bzw. jede die Zeit bekommt, die er oder sie braucht, um sich beruflich professionell zu entwickeln. Augenhöhe meint in diesem Fall aber auch, dass ich meine SchülerInnen nicht nur konsequent fördere, sondern auch fordere.
+
+ 
+
+Sie sagen, Sie fordern Ihre SchülerInnen auch. Wieso ist Ihnen persönlich das so wichtig?
+
+Podlisca: Mein Wunsch ist es, dass SchülerInnen mit IFGE-Diplom im Anschluss alles an Werkzeugen in der Hand haben, die es braucht, um erfolgreich eine eigene Praxis zu gründen. Dabei unterstütze und ermutige ich von Anfang an. Das bedeutet allerdings auch viel Eigeninitiative der SchülerInnen und darum ist es mir wichtig, Professionalität zu fördern und zu fordern. Denn gerade in Krisenberatungen oder bei besonders intensiven KlientInnen-Anliegen ist Professionalität unerlässlich. Das beginnt bei der seriösen Terminvereinbarung am Telefon, geht über ein professionelles Setting – also wie sind beispielsweise meine Räumlichkeiten eingerichtet –, bis hin zu der Website- oder Honorargestaltung. Und ich erwarte professionelles Herangehen bei Übungsfällen, die es am IFGE in besonders großer Zahl gibt. Denn ich weiß, wie wichtig es ist, in diesen Übungssequenzen Sicherheit für die ersten echten Beratungsgespräche zu gewinnen. Das fachliche Feedback danach ist neben dem inhaltlichen Fokus immer auch auf die Stärken der jeweiligen SchülerInnen ausgelegt. Ich als Institutsleiterin habe daher nach wie vor unglaubliche Freude daran, einen Großteil der Seminare selbst zu unterrichten, einfach weil ich bemerke, wie mein Konzept des Unterrichts auf Augenhöhe aufgeht und immer wieder bestätigt wird. Vor allem dann, wenn ich wahrnehme, wie meine SchülerInnen die Qualität unserer Ausbildungen von Semester zu Semester mehr und mehr schätzen. Spätestens in der eigenen Praxis wird den ehemaligen IFGE-SchülerInnen oft sehr deutlich bewusst, wie viele Vorteile ihnen und ihren KlientInnen die praxisorientierte, professionelle und fördernde Ausbildung am IFGE im Berufsalltag bietet. Das sehe ich beispielsweise an diplomierten IFGE-Absolventen, die oft Jahre nach ihrer erfolgreichen Praxisgründung mit Dankesworten für die qualitativen Ausbildungsjahre an mich herantreten.
+
+ 
+
+Sie haben neben Ihrer besonderen Herzlichkeit, Ihrem breit gefächerten Fachwissen und Ihrer individuell unterstützenden Herangehensweise im Unterricht auch den Ruf, streng zu sein. Ist dem wirklich so?
+
+Podlisca (lacht): Nun ja, wenn es um Prüfungen geht, bin ich konsequent – aber immer fair und wertschätzend. Was sicher stimmt, ist, dass man das Diplom am IFGE nicht geschenkt bekommt. Das ist mir persönlich auch sehr wichtig, denn ich erachte die Lebens- und Sozialberatung – psychologische Beratung als wesentlichen Teil der Gesundheitssäulen in Österreich. Das Berufsbild ist sehr breit gefächert und kann damit bei vielen Themen unglaublich hilfreich für so viele Menschen sein. Professionelle psychologische Beratung vermag also als präventives Gesundheitsmodell sehr viel zu leisten, wenn es darum geht, KlientInnen bei der gesunden Bewältigung ihrer Sorgen, Ängste und Krisen zu unterstützen. Dadurch können viele Belastungen abgefangen werden, sodass sich psychische Störungen oder Erkrankungen gar nicht erst manifestieren. Das leistet nicht nur einen wertvollen Beitrag zu unserem Sozialsystem, wenn man an die stetig steigenden Krankenstände aufgrund psychischer Ursachen denkt, sondern vor allem bedeutet das für den einzelnen Klienten und die einzelne Klientin, dass sie in der Beratung erfahren, wie sie ihr Leben wieder aktiver, gesünder, befreiter und zuversichtlicher aktiv selbst gestalten können. Doch das gelingt nur, wenn die BeraterInnen wirklich gut ausgebildet sind und seriös arbeiten. Darauf achte ich am IFGE. Wenn das streng ist, dann bin ich gerne streng. (Lacht) Aber wer aktiv am Unterricht teilnimmt, wirkliches Interesse daran hat, Menschen professionell zu begleiten und wer mutig ist, sich in den Übungssequenzen kontinuierlich in seiner künftigen Profession weiterzuentwickeln, der schafft die Prüfungen am IFGE ganz locker. Ich sehe es nämlich auch als meine Aufgabe, meine SchülerInnen von Anfang an so zu unterrichten, dass am Ende der Ausbildung alle stolz ihr Diplom in Händen halten können.
+Alle Infos zur Diplomausbildung am IFGE finden Sie hier: Diplomlehrgang Lebensberatung - psychologische Beratung
+Alle Ausbildungsangebote des IFGE finden Sie hier: Ausbildungen im Überblick
+
