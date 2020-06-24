@@ -97,6 +97,7 @@ img.logo {
 
     header img.logo {
         width: 100px;
+        width: 60px;
     }
 
     .box:not(.menu) {

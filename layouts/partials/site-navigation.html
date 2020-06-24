@@ -1,5 +1,5 @@
 <nav class="topnav" id="myTopnav">  
-  <div>
+  <div class="toggleResponsive">
     <a href="javascript:void(0);" class="icon" onclick="toggleResponsive()">&#9776;</a>    
   </div>
   {{ $currentPage := . }}
@@ -7,7 +7,12 @@
     {{ if .HasChildren }}  
       
       <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-        <div style="display: flex; justify-content: space-between;">
+        <div class="mobile">
+          <div class="has-dropdown">
+            <a href="javascript:void(0);" onclick="toggleSubmenuMobile(this);">{{ .Name }} <span>&#9654;</span></a>
+          </div>          
+        </div>
+        <div class="desktop">
           <div class="has-dropdown">
             {{ .Name }}
           </div>
@@ -15,7 +20,6 @@
             <a href="javascript:void(0);" onclick="toggleSubmenu(this);">+</a>    
           </div>
         </div>
-
 
         <div class="dropdown-content">
           {{ range .Children }}              
@@ -25,7 +29,7 @@
       </div>
     {{ else }}
       <div>
-        <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+        <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
       </div>
     {{ end }}
   {{ end }}  
