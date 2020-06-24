@@ -17,6 +17,7 @@ draft: true
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden. 
@@ -33,12 +34,14 @@ Professionelle Beratung bedeutet, dass Ihnen weder Lösungen aufgezwungen, noch 
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% /box %}}
 
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt.

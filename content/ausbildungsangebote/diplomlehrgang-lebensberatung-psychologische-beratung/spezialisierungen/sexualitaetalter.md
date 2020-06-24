@@ -12,7 +12,8 @@ draft: true
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
+
 In einer Welt, in der Sexualität hauptsächlich mit Jugend, fitten Körpern und vitaler Aktivität in Verbindung gebracht wird, fällt es vielen älteren Menschen schwer, über ihre körperlichen Bedürfnisse zu sprechen oder sich ihr sexuelles Verlangen überhaupt einzugestehen.
 
 Während einem Mann in höherem Alter durchaus manchmal noch sexuelles Begehren zugesprochen und ihm am Stammtisch in heiterer Runde die „blaue Pille“ empfohlen wird, ist das Lustempfinden älterer Frauen oftmals weit an den Rand der gesellschaftlichen Wahrnehmung gedrängt. Dabei verspüren Frauen – wie Männer ebenso – auch im fortgeschrittenen Alter häufig den Wunsch nach mehr inniger Nähe und sexueller Zärtlichkeit.
