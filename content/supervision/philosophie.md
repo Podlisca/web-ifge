@@ -34,28 +34,28 @@ Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektie
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### [Einzelsupervision](/supervision/einzelsupervision.html)
-{{< figure src="/img/icon/einzel_sv.png" >}}
+{{< image src="/img/icon/einzel_sv.png" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Geschlossene SV Gruppe](/supervision/geschlossenegruppe.html)
 
-{{< figure src="/img/icon/sv_gruppe_geschlossen.png" >}}
+{{< image src="/img/icon/sv_gruppe_geschlossen.png" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Offene SV Tage](/supervision/offenegruppe.html)
-{{< figure src="/img/icon/sv_gruppe_offen.png" >}}
+{{< image src="/img/icon/sv_gruppe_offen.png" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Intensivwoche](/supervision/supervisionswoche.html)
-{{< figure src="/img/icon/sv_woche.png" >}}
+{{< image src="/img/icon/sv_woche.png" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [Teamsupervision](/supervision/teamsupervision.html)
-{{< figure src="/img/icon/sv_teambuilding.png" >}}
+{{< image src="/img/icon/sv_teambuilding.png" >}}
 {{% /small  %}}
 
 {{% /box %}}
