@@ -13,22 +13,21 @@ weight: 4
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
-{{< line icon="icon/gruppensupervision.png" >}}
+{{< line icon="icon/supervision_tuerkis.png" >}}
 
-
+{{% floatbox %}}
 ### DIE VORTEILE DER OFFENEN SUPERVISIONSGRUPPE
 
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in allen Ausbildungsstadien und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
-Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in allen Ausbildungsstadien und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. Der Vorteil einer offenen Gruppe liegt nicht nur in der spannenden Dynamik einer sich ständig neu zusammengesetzten Teilnehmer\*innenschaft, sondern ermöglicht vor allem, auch akute Themen im gruppensupervisorischen Kontext zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der erfahrenen psychologischen Berater\*innen, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
-{{% /large %}}
-{{% /box %}}
+Der Vorteil einer offenen Gruppe liegt nicht nur in der spannenden Dynamik einer sich ständig neu zusammengesetzten Teilnehmer\*innenschaft, sondern ermöglicht vor allem, auch akute Themen im gruppensupervisorischen Kontext zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der erfahrenen psychologischen Berater\*innen, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
+
+In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
+
+{{% /floatbox %}}
 
 {{< line icon="icon/termine.png" >}}
+
 ## Termine
 
 {{% box top-align=1 %}}
@@ -61,11 +60,13 @@ Samstag 09:00 bis 18:00 Uhr<br/>
 Leitung: Silvia Podlisca<br/> 
 [Anmeldung](www.ifge.at)
 {{% /small  %}}
+
 {{% small  %}}
 #### Online Gruppensupervision
+{{< figure src="/img/ifge_pinkafeld.jpg">}}
 
+**Die nächsten Termine befinden sich in Planung**
 
-nächster Termin in Planung
 {{% /small  %}}
 {{% /box %}}
 
@@ -109,3 +110,4 @@ Die Stärke der Gruppensupervisionen liegt vor allem in der Dynamik der Gruppe s
 Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (Denk-) Muster mit Rollenspielen, (Familien-) Aufstellungen und geführten Gesprächen in der Gruppe beleuchtet und aufgearbeitet.
 {{% /small %}}
 {{% /box %}}
+

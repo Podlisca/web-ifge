@@ -81,7 +81,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 {{% /small  %}}
 {{% small  %}}
-{{< figure src="/img/icon/fachwissen_tuerkis.png">}}
+{{< figure src="/img/icon/onlineausbildung.png">}}
 #### ONLINE AUSBILDUNGEN & TRAININGS
 * [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
 * [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)

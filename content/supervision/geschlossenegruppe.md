@@ -14,38 +14,42 @@ weight: 3
 
 {{< slogan >}}
 
-{{< line icon="icon/gruppenselbsterfahrung.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
 ### Gruppensupervision - Vier neue Gruppen starten Januar 2021
 
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
-Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
+{{% floatbox %}}
+
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
+
+<br/>
 
 Die Teilnehmer\*innen lernen sich rasch kennen und es entsteht ein vertrautes Gefühl, in dem man sich nach und nach auch an komplexere Themen und intensive Übungsfälle heranwagt. Dadurch, dass die Teilnehmer\*innen in einem gemeinsamen Kontext supervisiorisch über ein ganzes Jahr begleitet werden, wird die Gruppe an sich zu einem wichtigen Teil der Supervision.
-{{% /large %}}
-{{% /box %}}
+
+<br/>
 
 Gleichzeitig können alle Teilnehmer\*innen ihren eigenen Entwicklungsprozess sowie die Entwicklungsschritte der anderen Gruppenmitglieder in einem zeitlich nachhaltigen Rahmen verfolgen, wodurch in wertschätzender Atmosphäre der berufliche Fortschritt und die Erweiterung des Fachwissens aller Teilnehmer\*innen Monat für Monat deutlich sichtbar wird. Durch die Regelmäßigkeit innerhalb eines gesamten Supervisionsjahres kann intensiv und individuell auf alle Gruppenmitglieder eingegangen werden.
 
-{{< line icon="icon/gruppenselbsterfahrung.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
 
-{{% box %}}
+{{< image src="/img/silvia_podlisca_2.jpg" float="right" title="Bildbeschreibung" >}}
+
+{{% box blue=1 %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
 Zusätzlich zu Einzelsupervisionen, in denen auch Ihre {{< green >}}persönlichen {{< /green >}} Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychologischen Berater\*innen in Ausbildung sehr zu empfehlen. Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg\*innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
-{{% /large %}}
+{{% /small %}}
 {{% /box %}}
+
+<br/>
 
 Die Stärke der Gruppensupervisionen liegt vor allem in der Dynamik der Gruppe selbst. Durch diese kann sichtbar gemacht werden, was in Einzelsitzungen im Verborgenen bleibt. In den Supervisionsgruppen am IFGE geht es also zu einem großen Teil um fachliche sowie methodische Impulse. Außerdem fördert die Gruppe in Ihnen neue Perspektiven und Sichtweisen. Aus diesem Grund ist die Kombination aus Einzel- und Gruppensupervision für Lebensberater\*innen die ideale Möglichkeit, sich intensiv, schnell und nachhaltig im eigenen Tätigkeitsbereich weiterzuentwickeln und damit ihr volles Potenzial spielerisch zu optimieren.
 
 Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (Denk-) Muster mit Rollenspielen, (Familien-) Aufstellungen und geführten Gesprächen in der Gruppe beleuchtet und aufgearbeitet.
+
+
+
+{{% /floatbox %}}
 
 
 {{< line icon="icon/termine.png" >}}

@@ -15,14 +15,13 @@ weight: 6
 
 {{< line icon="icon/teambuilding.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title=" Silvia Podlisca - Institutsleiterin" >}}
-{{% /small  %}}
-{{% large %}}
-Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. Wie wirke ich auf andere? Wo sind meine Stärken? Welche Ressourcen habe ich bisher vielleicht noch nicht ausgeschöpft oder an einer unpassenden Stelle eingesetzt? Wie kann mein persönlicher beruflicher Erfolg gelingen? Wie kann ein vielleicht eben erst neu formiertes Team zu einer produktiven und vor allem gegenseitig wertschätzenden Formation werden? Diese und viele weitere Fragen werden im Rahmen der Teambuilding-Supervision beantwortet. Damit erhalten Sie neue, hilfreiche Handlungsmuster und spannende Lösungen für Ihr berufliches Fortkommen sowie für Ihre arbeitsbezogene Zufriedenheit.
-{{% /large %}}
-{{% /box %}}
+{{% floatbox %}}
+
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
+
+Wie wirke ich auf andere? Wo sind meine Stärken? Welche Ressourcen habe ich bisher vielleicht noch nicht ausgeschöpft oder an einer unpassenden Stelle eingesetzt? Wie kann mein persönlicher beruflicher Erfolg gelingen? 
+
+Wie kann ein vielleicht eben erst neu formiertes Team zu einer produktiven und vor allem gegenseitig wertschätzenden Formation werden? Diese und viele weitere Fragen werden im Rahmen der Teambuilding-Supervision beantwortet. Damit erhalten Sie neue, hilfreiche Handlungsmuster und spannende Lösungen für Ihr berufliches Fortkommen sowie für Ihre arbeitsbezogene Zufriedenheit.
 
 In dieser teamfokussierten [Supervisionsgruppe](www.ifge.at) werden verschiedene bewährte und vor allem spannende Übungen mit in den Prozess einbezogen. In einer heiteren und wertschätzenden Atmosphäre geht es dabei um sehr viel mehr, als um oft belächelte „Teamspielchen“. Denn im Zuge der Supervision werden Strukturen nicht nur bildlich sichtbar gemacht, sondern für Sie erfolgbringend im Team-Kontext aufgedröselt.
 
@@ -42,20 +41,17 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 *** 
 
 ### Nutzen Sie Ihr volles Potenzial
-{{% box %}}
-{{% large %}}
-Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. Nutzen Sie Ihr volles Potenzial, indem Sie durch unser psychologisches Teambuilding Störfaktoren ausräumen und Ihre Ressourcen fördern. Je nach Anliegen oder Kernthematik Ihrer beruflichen Herausforderungen gehen wir individuell im Team auf Sie ein. Unser Angebot beinhaltet ein breites Spektrum an psychologischen Interventionen im wirtschaftlichen Kontext, die nachhaltige Lösungen entstehen lassen. Durch hochmoderne Utensilien für diverse Tools gestaltet sich die Teambuilding-Supervision für Sie kurzweilig, abwechslungsreich und vor allem neuartig. 
-{{% /large %}}
+{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. 
 
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title=" Silvia Podlisca - Institutsleiterin" >}}
-{{% /small  %}}
-{{% /box %}}
+Nutzen Sie Ihr volles Potenzial, indem Sie durch unser psychologisches Teambuilding Störfaktoren ausräumen und Ihre Ressourcen fördern. Je nach Anliegen oder Kernthematik Ihrer beruflichen Herausforderungen gehen wir individuell im Team auf Sie ein. 
+
+Unser Angebot beinhaltet ein breites Spektrum an psychologischen Interventionen im wirtschaftlichen Kontext, die nachhaltige Lösungen entstehen lassen. Durch hochmoderne Utensilien für diverse Tools gestaltet sich die Teambuilding-Supervision für Sie kurzweilig, abwechslungsreich und vor allem neuartig. 
 
 Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelingen, keinesfalls zu kurz. Außerdem erhalten Sie im Zuge der Supervision spannende Inputs rund um soziodynamische, psychologische und wirtschaftliche Prozesse in Gruppen, damit Sie diese letztlich für Ihren persönlichen beruflichen Erfolg einsetzen können. Sie erfahren dazu einen neuen Zugang zum Thema Teambuilding, der im Besonderen auf Ihre Ressourcen und Ihre Zufriedenheit fokussiert. Profitieren Sie von einer idealen Verbindung bewährter Teambuilding-Strategien kombiniert mit allen Vorteilen der [Supervision](www.ifge.at) für Ihre nachhaltig berufliche Zufriedenheit.
 
 
-***
+{{< line icon="icon/info_tuerkis.png" >}}
+
 {{% box blue=1 %}}
 {{% small %}}
 Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberater\*in befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt.
@@ -99,3 +95,4 @@ Kontaktieren Sie mich für einen Termin unter +43 676 610 89 36 oder informieren
 
 {{% /small %}}
 {{% /box %}}
+{{% floatbox %}}
