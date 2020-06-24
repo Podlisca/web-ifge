@@ -23,7 +23,7 @@ weight: 6
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/beratung.png" >}}
+{{< line icon="/icon/Beratung.png" >}}
 ## Machen Sie sich ein Bild über Ihre Zukunft als Lebensberater*in
 
 Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
@@ -62,7 +62,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% /box %}}
 
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="/icon/Beratung.png" >}}
 # Spezialisierungen
 ***
 

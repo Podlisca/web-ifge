@@ -12,17 +12,21 @@ draft: true
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/sexualitaet_alter_1.jpg" float="left" title="Bildbeschreibung" >}}
 
 In einer Welt, in der Sexualität hauptsächlich mit Jugend, fitten Körpern und vitaler Aktivität in Verbindung gebracht wird, fällt es vielen älteren Menschen schwer, über ihre körperlichen Bedürfnisse zu sprechen oder sich ihr sexuelles Verlangen überhaupt einzugestehen.
 
-Während einem Mann in höherem Alter durchaus manchmal noch sexuelles Begehren zugesprochen und ihm am Stammtisch in heiterer Runde die „blaue Pille“ empfohlen wird, ist das Lustempfinden älterer Frauen oftmals weit an den Rand der gesellschaftlichen Wahrnehmung gedrängt. Dabei verspüren Frauen – wie Männer ebenso – auch im fortgeschrittenen Alter häufig den Wunsch nach mehr inniger Nähe und sexueller Zärtlichkeit.
+Während einem Mann in höherem Alter durchaus manchmal noch sexuelles Begehren zugesprochen und ihm am Stammtisch in heiterer Runde die „blaue Pille“ empfohlen wird, ist das Lustempfinden älterer Frauen oftmals weit an den Rand der gesellschaftlichen Wahrnehmung gedrängt. 
+
+Dabei verspüren Frauen – wie Männer ebenso – auch im fortgeschrittenen Alter häufig den Wunsch nach mehr inniger Nähe und sexueller Zärtlichkeit.
 
 ### PROBLEME ÄLTERER MENSCHEN
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/sexualitaet_alter_2.jpg" float="right" title="Bildbeschreibung" >}}
 
-Dass „reifer Sex“ selbstverständlich andere Qualitäten hat als das, was wir als Teenager erlebt haben, ist dabei unbestritten. Je älter wir werden, umso eher plagen uns körperliche Wehwehchen oder chronische Krankheiten, die manchen Menschen oft jede Lust auf Sexualität nehmen. Häufig ist es im Alter jedoch auch so, dass aus Rücksicht auf Partner*innen, die vermeintlich keine Sexualität mehr leben wollen, körperliche Nähe ganz vermieden wird – dabei handelt es sich in manchen Fällen jedoch um Missverständnisse. Denn auch wenn das sexuelle Verlangen im Alter tendenziell abnimmt, ist die Sexualität an sich auch weiterhin für Menschen ein wichtiger Faktor, um Nähe, Zärtlichkeit, Zuneigung, Befriedigung und partnerschaftliche Lebensenergie zu erfahren.
+Dass „reifer Sex“ selbstverständlich andere Qualitäten hat als das, was wir als Teenager erlebt haben, ist dabei unbestritten. Je älter wir werden, umso eher plagen uns körperliche Wehwehchen oder chronische Krankheiten, die manchen Menschen oft jede Lust auf Sexualität nehmen. Häufig ist es im Alter jedoch auch so, dass aus Rücksicht auf Partner*innen, die vermeintlich keine Sexualität mehr leben wollen, körperliche Nähe ganz vermieden wird – dabei handelt es sich in manchen Fällen jedoch um Missverständnisse. 
+
+Denn auch wenn das sexuelle Verlangen im Alter tendenziell abnimmt, ist die Sexualität an sich auch weiterhin für Menschen ein wichtiger Faktor, um Nähe, Zärtlichkeit, Zuneigung, Befriedigung und partnerschaftliche Lebensenergie zu erfahren.
 
 ### HÄUFIGE THEMEN IN DER SEXUALBERATUNG
 

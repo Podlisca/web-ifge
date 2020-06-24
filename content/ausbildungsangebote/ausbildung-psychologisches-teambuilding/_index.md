@@ -15,7 +15,7 @@ weight: 7
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left">}}
+{{< image src="/img/ausbildung_teambuilding.jpg" title="Bildbeschreibung" float="left">}}
 
 **Methodenschwerpunkt:** viele Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
 

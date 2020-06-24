@@ -11,13 +11,10 @@ weight: 8
 # Ausbildung zum/zur VertrauenslehrerIn
 {{< slogan >}}
 
-{{< line icon="icon/vertrauenslehrer.png" >}}
+{{< line icon="icon/Vertrauenslehrer.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
+{{% floatbox %}}
+{{< image src="/img/vertrauenslehrer.jpg" title="Bildbeschreibung" float="left" >}}
 
 ### Optimal vorbereitet für die Arbeit mit Kindern und Jugendlichen an Schulen
 
@@ -27,8 +24,8 @@ weight: 8
 
 Vertrauenslehrer\*innen sind in vielen Schulen – von der Volksschule bis zur Oberstufe – ein wesentlicher Faktor für ein funktionierendes Schulklima. Doch aufgrund von Ressourcenmangel fehlt es vielen Schulen an der Möglichkeit, ihren Vertrauenslehrer\*innen eine umfassende Ausbildung im Bereich der psychosozialen Arbeit zuteil werden zu lassen.
 
-{{% /large %}}
-{{% /box %}}
+
+{{% /floatbox %}}
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
