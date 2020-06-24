@@ -11,6 +11,8 @@ weight: 1
 # ONLINE Ausbildung: 
 # Das Einmaleins der Gründung: Planspiel zum erfolgreichen Aufbau Ihrer Praxis
 
+{{% slogan %}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}

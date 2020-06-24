@@ -22,7 +22,7 @@ weight: 2
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/kosten_tuerkis_2.png" >}}
+{{< line icon="/icon/kosten_tuerkis_2.png" >}}
 
 ## Kosten
 

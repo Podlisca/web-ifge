@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - psychologisches Coaching"
+title: "ONLINE Ausbildung - Psychologisches Coaching"
 menu: 
     main:
         parent: online
@@ -9,11 +9,11 @@ weight: 4
 ---
 
 # ONLINE Ausbildung: 
-# psychologisches Coaching
+# Psychologisches Coaching
 
 {{< slogan >}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 
@@ -24,6 +24,8 @@ Firmen haben längst erkannt, dass unmotivierte, falsch eingesetzte MitarbeiterI
 Krankenstände und nicht genützte Arbeitsressourcen kosten den Firmen Unmengen an Geld, sodass immer mehr Firmen interne oder externe Coaches beauftragen Ihre MitarbeiterInnen diesbezüglich zu unterstützen.
 
 Die Kompetenzen & Methoden, die in dieser Ausbildung vermittelt werden sind vielseitig anwendbar und in viele Bereiche des beruflichen Kontextes übertragbar.
+
+{{% silvia %}}
 
 {{% /floatbox %}}
 
@@ -37,7 +39,7 @@ Die Kompetenzen & Methoden, die in dieser Ausbildung vermittelt werden sind viel
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 

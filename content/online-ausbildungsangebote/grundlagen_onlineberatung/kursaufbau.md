@@ -23,10 +23,10 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/fachwissen.png" >}}
 
 
-## AUFBAU DES LEHRGANGS 
+## AUFBAU DER ONLINEAUSBILDUNG 
 12 Ausbildungsstunden (2 x 6 Stunden) mit max. 12 TeilnehmerInnen.
 
 ## ONLINE RICHTIG BERATEN VON A WIE „AUFBAU DER BEZIEHUNG“ BIS Z WIE „ZOOM“

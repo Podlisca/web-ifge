@@ -11,6 +11,8 @@ weight: 1
 # ONLINE Ausbildung: 
 # psychologisches Coaching
 
+{{< slogan >}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
@@ -21,7 +23,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
 ## AUFBAU DES LEHRGANGS 
@@ -43,7 +45,7 @@ weight: 1
 {{% small  %}}
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung.
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
 
 {{% /small  %}}

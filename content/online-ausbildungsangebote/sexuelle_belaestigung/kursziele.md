@@ -13,17 +13,21 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/stalking.png" >}}
 
 
 ## SEXUELLE BELÄSTIGUNG AM ARBEITSPLATZ & COACHING VON VERTRAUENSPERSONEN
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} Ob offen angeprangert oder destruktiv im Geheimen wirkend: Sexuelle Belästigung ist leider nach wie vor in vielen Bereichen der Berufswelt ein relevantes Thema. Als Coach oder Supervior*in braucht es daher umfangreiches Fachwissen über die Besonderheiten dieser Form der sexualisierten Gewalt.
+{{< image src="/img/online_sex_belaestigung1.jpg" float="left">}}
+
+Ob offen angeprangert oder destruktiv im Geheimen wirkend: Sexuelle Belästigung ist leider nach wie vor in vielen Bereichen der Berufswelt ein relevantes Thema. Als Coach oder Supervior*in braucht es daher umfangreiches Fachwissen über die Besonderheiten dieser Form der sexualisierten Gewalt.
 
 Welche Dynamiken sich bei Sexueller Belästigung zeigen, wer davon häufig betroffen ist, wie die unterschiedlichen Formen des Umgangs damit aussehen und vor allem, welche personellen, rechtlichen sowie emotionalen Konsequenzen dies für Ihre Auftraggeber\*innen bedeuten kann, ist ausführlicher Inhalt dieser digitalen Fortbildung. 
 
 Gleichzeitig lernen Sie in unserem Onlinekurs alles, was es benötigt, um Vertrauenspersonen zum Thema „Sexuelle Belästigung“ in Unternehmen zu schulen. Diese Fähigkeit erweitert Ihr beraterisches Portfolio im Coachingbereich, mit dem Sie sich als fachlicher Experte bzw. als fachliche Expertin in diesem sensiblen Gebiet präsentieren und Ihren Coaching-Mehrwert für Geschäftsführer\*innen deutlich machen können.
+
+{{% silvia %}}
 
 {{% /floatbox %}}
 

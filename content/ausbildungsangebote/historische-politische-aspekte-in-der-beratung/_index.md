@@ -11,9 +11,7 @@ weight: 9
 # Historische, politische u. gesellschaftliche Aspekte in der Beratung am IFGE Burgenland
 {{< slogan >}}
 
-
-
-***
+{{< line icon="icon/politik.png" >}}
 
 {{% box %}}
 {{% small  %}}
@@ -23,9 +21,9 @@ weight: 9
 
 ## Auf den Spuren der Vergangenheit – die Gegenwart verstehen
 
-#### "Nur wer die Vergangenheit kennt – ohne zu urteilen –, kann systemisch erfolgreich arbeiten." – Silvia Podlisca
+**"Nur wer die Vergangenheit kennt – ohne zu urteilen –, kann systemisch erfolgreich arbeiten."**
 
-**Nächster Termin: 16. - 18.10.2020 am IFGE Burgenland (Pinkafeld)**
+{{% silvia %}}
 
 Über historische und gesellschaftliche Entwicklungen Bescheid zu wissen, ist ein wesentlicher Aspekt in der psychologischen Beratung. Vor allem dann, wenn sich Berater*innen schwerpunktmäßig für [systemische Beratung](www.ifge.at) entschieden haben.
 
@@ -45,7 +43,7 @@ weight: 9
 
 ***
 
-Das Seminar "Auf den Spuren der Vergangenheit – die Gegenwart verstehen" vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der [psychologischen Beratung(www.ifge.at)]. Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen. Erst durch das Verstehen der Hintergründe und ihrer Zusammenhänge wird das Nachvollziehen bestimmter Handlungen möglich. Beobachtungen haben immer wieder gezeigt, wie fehlendes Wissen über historische, politische und gesellschaftliche Zusammenhänge [erfolgreiche Aufstellungen](www.ifge.at) verhindert.
+Das Seminar "Auf den Spuren der Vergangenheit – die Gegenwart verstehen" vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der [psychologischen Beratung](www.ifge.at). Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen. Erst durch das Verstehen der Hintergründe und ihrer Zusammenhänge wird das Nachvollziehen bestimmter Handlungen möglich. Beobachtungen haben immer wieder gezeigt, wie fehlendes Wissen über historische, politische und gesellschaftliche Zusammenhänge [erfolgreiche Aufstellungen](www.ifge.at) verhindert.
 
  
 
