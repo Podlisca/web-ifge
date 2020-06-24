@@ -55,6 +55,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{% /small  %}}
 {{% /box %}}
 {{< line icon="icon/vertrag.png" >}}
+
 ## Zahlungsbedingungen
 
 

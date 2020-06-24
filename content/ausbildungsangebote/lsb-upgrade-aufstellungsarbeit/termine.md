@@ -37,7 +37,7 @@ Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detail
 
 Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
 
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
+**JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!**
 {{% /small  %}}
 {{% /box %}}
 {{< line icon="icon/termin_kursplan.png" >}}
