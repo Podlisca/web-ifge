@@ -65,7 +65,7 @@ Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektie
 {{< /card-more >}}
 
 
-{{< card-more link="/gruppenselbsterfahrung/philosophie.html" icon="icon/gruppenselbsterfahrung_schmal_schwarz.png" title="Gruppenselbsterfahrung">}}
+{{< card-more link="/gruppenselbsterfahrung/philosophie.html" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Gruppenselbsterfahrung">}}
 Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. 
 
 Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet. Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt, Potenziale und Ressourcen entdeckt sowie das eigene Handeln reflektiert. 
