@@ -13,7 +13,7 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="icon/love_scamming.png" >}}
+{{< line icon="icon/Love_Scamming.png" >}}
 
 ## DIGITALE HEIRATSSCHWINDLER: WAS TUN, WENN DIE WELT ZUSAMMENGEBROCHEN IST?
 {{% floatbox %}}
