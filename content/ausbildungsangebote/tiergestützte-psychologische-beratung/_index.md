@@ -46,7 +46,7 @@ Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für L
 
 #### Ideal auch für Berufseinsteigerinnen
 
-{{< image src="/img/img1.jpg" float="right" >}}
+{{< image src="/img/tiergestuetzt_3.jpg" float="right" >}}
 
 Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](www.ifge.at) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
 
@@ -62,7 +62,7 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 {{< line icon="icon/tiere.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more link="" img="img1.jpg" title="">}}
+{{< card-more link="" img="tiergestuetzt_4.jpg" title="">}}
 
 #### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?
 
@@ -75,7 +75,7 @@ Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesün
 Wir beziehen in unseren Lehrgang bzw. in die Ausbildung sorgfältig ausgewählte und ausgebildete Vierbeiner ein.
 {{% /card-more %}}
 
-{{< card-more link="" img="img1.jpg" title="">}}
+{{< card-more link="" img="tiergestuetzt_6.jpg" title="">}}
 
 #### WAS BIETET UNSER FORTBILDUNGSLEHRGANG?
 

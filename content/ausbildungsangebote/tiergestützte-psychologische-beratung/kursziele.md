@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/tiergestuetzt_2.jpg" float="left">}} 
 
 Bei dieser Fortbildung werden die Berater\*innen ausgebildet, Hunde und Katzen in die psychologische Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
 

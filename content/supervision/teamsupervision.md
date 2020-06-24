@@ -40,10 +40,10 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="icon/coaching.png" >}}
+{{< line icon="icon/Coaching.png" >}}
 
 ### Nutzen Sie Ihr volles Potenzial
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/teambuilding_ziel_2.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. 
 
@@ -83,9 +83,9 @@ Mit Ihrer Teilnahme stimmen Sie den allgemeinen Rahmenbedingungen zu.
 
  
 
-Preis pro Einheit (4 Stunden)  bis zu 8 Teilnehmer*innen: € 490,-  (inkl. 20 % Mwst.)
+Preis pro Einheit (4 Stunden)  bis zu 8 Teilnehmer\*innen: € 490,-  (inkl. 20 % Mwst.)
 
-Preis pro Einheit (4 Stunden) ab 9 Teilnehmer*innen mit 2 Trainer*innen: € 890,-  (inkl. 20 % Mwst.)
+Preis pro Einheit (4 Stunden) ab 9 Teilnehme\r*innen mit 2 Trainer\*innen: € 890,-  (inkl. 20 % Mwst.)
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 

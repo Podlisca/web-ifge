@@ -14,7 +14,7 @@ weight: 3
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/tiergestuetzt.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Systemische Tieraufstellung kann sowohl in Einzelsitzungen als auch in Form von Gruppenseminaren die Lösung für die Probleme zwischen Mensch und Tier darstellen. 
 
@@ -37,7 +37,7 @@ Mir ist dabei wichtig zu erwähnen, dass Tiere immer in der Gegenwart leben. Auc
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/tieraufstellung.jpg" float="right" title="Bildbeschreibung" >}}
 
 Hinzu kommt, dass Tiere uns einen Schritt voraus sind, denn sie werten nicht. Auch ein Hund, der aus schwierigsten Verhältnissen stammt, kann den Vorbesitzer\*innen gegenüber innerlich recht loyal verbunden sein. Innere und unbewusste Vorwürfe, die wir Menschen oftmals gegenüber den Vorbesitzern der eigenen Haustiere haben, schaffen somit Spannungen zwischen unserem Tier und uns selbst.
 

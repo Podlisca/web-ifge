@@ -24,7 +24,7 @@ weight: 1
 ***
 
 AUFBAU DES LEHRGANGS SUPERVISION
-100 Ausbildungsstunden mit mind. 8 **max. 12 Teilnehmer\*innen**
+100 Ausbildungsstunden mit **mind. 8 max. 12 Teilnehmer\*innen**
 
 ## Seminarhinhalte
 
@@ -40,8 +40,13 @@ AUFBAU DES LEHRGANGS SUPERVISION
 Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
+
 ## PRÜFUNG
 Diese Fortbildung endet ohne Prüfung. 
+{{% /small  %}}
+{{% /box %}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung

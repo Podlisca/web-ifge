@@ -8,7 +8,7 @@ draft: true
 
 # Suchtberatung
 {{< slogan >}}
-+**
+***
 
 {{% floatbox %}}
 

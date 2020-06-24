@@ -50,7 +50,7 @@ So können Sie die verkehrte Welt mit der Umkehrbrille selbst erleben, bevor Sie
 
 In der Fortbildung fließen die langjährige, wirtschaftliche Erfahrung in großen Organisationen mit der umfassenden psychologischen Komponente der Teamarbeit zusammen. Die Zusatzausbildung „Psychologisches Teambuilding“ hebt sich durch den intensiv psychologischen Schwerpunkt von reinen Tool-Vermittlungs-Seminaren deutlich ab. An zwei Wochenenden wird ein besonderes Hauptaugenmerk auf die wesentlichen Faktoren von Gruppendynamiken in unterschiedlichsten Kontexten gelegt. 
 
-{{< image src="/img/teambuilding_ziel_2.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/teambuilding_ziel_2.jpg" title="Bildbeschreibung" float="left" >}}
 
 Dies ermöglicht Ihnen, Strukturen rasch zu erkennen und somit letztlich auch, daraus mit einem Team konstruktive, neue Muster zu gestalten, wodurch Sie sich von klassischen Unternehmens-Coaches zu unterscheiden lernen. Denn Sie erhalten nicht nur Anleitungen für neuartige und moderne Tools in der Teamarbeit, sondern eignen sich durch die Fortbildung wichtiges psychologisches Zusatz-Know-how an.
 
@@ -65,7 +65,11 @@ Mit diesem Fachwissen auf dem Gebiet der [Psychologie](www.ifge.at) werden aus r
 
 {{< image src="/img/teambuilding_ziel_3.jpg" title="Bildbeschreibung" float="right" >}}
 
-Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet das IFGE in seiner Zweigstelle in Pinkafeld dabei nicht nur fachlich fundierte Inhalte, sondern auch die idealen Räumlichkeiten: So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der ausreichend Platz für Entfaltung bietet, in geschütztem Rahmen erproben und damit nachhaltig verinnerlichen. Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
+Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet das IFGE in seiner Zweigstelle in Pinkafeld dabei nicht nur fachlich fundierte Inhalte, sondern auch die idealen Räumlichkeiten: 
+
+So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der ausreichend Platz für Entfaltung bietet, in geschütztem Rahmen erproben und damit nachhaltig verinnerlichen. 
+
+Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
 
 Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](www.ifge.at) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](www.ifge.at) und [Sexualberaterin](www.ifge.at) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](www.ifge.at) immer wieder mit namhaften Firmen zusammen. 
 
