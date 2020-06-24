@@ -27,7 +27,7 @@ Wie kann ein vielleicht eben erst neu formiertes Team zu einer produktiven und v
 
 In dieser teamfokussierten [Supervisionsgruppe](www.ifge.at) werden verschiedene bewährte und vor allem spannende Übungen mit in den Prozess einbezogen. In einer heiteren und wertschätzenden Atmosphäre geht es dabei um sehr viel mehr, als um oft belächelte „Teamspielchen“. Denn im Zuge der Supervision werden Strukturen nicht nur bildlich sichtbar gemacht, sondern für Sie erfolgbringend im Team-Kontext aufgedröselt.
 
-***
+{{< line icon="icon/coaching1.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
@@ -40,7 +40,7 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 {{% /small %}}
 {{% /box %}}
 
-*** 
+{{< line icon="icon/Coaching.png" >}}
 
 ### Nutzen Sie Ihr volles Potenzial
 {{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} 
