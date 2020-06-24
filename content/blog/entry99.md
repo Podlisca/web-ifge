@@ -1,6 +1,6 @@
 ---
 title: "Psychologische Beratung: Was genau ist denn das?"
-draft: true
+draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 99
 ---

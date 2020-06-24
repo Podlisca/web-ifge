@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: zeig_dich
-draft: true
+draft: false
 weight: 9
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: politik
         identifier: politik_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

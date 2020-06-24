@@ -1,6 +1,6 @@
 ---
 title: "Stellungnahme – 5 Antworten zum Konflikt zwischen ÖVS und WKO"
-draft: true
+draft: false
 tags: []
 weight: 96
 ---

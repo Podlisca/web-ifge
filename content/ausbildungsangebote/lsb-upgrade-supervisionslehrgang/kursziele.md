@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_supervision
         identifier: upgrade_supervision_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: lovescamming
-draft: true
+draft: false
 weight: 6
 ---
 

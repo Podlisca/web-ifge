@@ -1,7 +1,7 @@
 ﻿---
 title: "Anmeldung"
 menu: "main"
-draft: true
+draft: false
 weight: 6
 url: "/anmeldung.php"
 ---

@@ -4,7 +4,7 @@ menu:
     main:
         parent: kinder_gefahrenschutz
         identifier: kinder_gefahrenschutz_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

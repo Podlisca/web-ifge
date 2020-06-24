@@ -1,6 +1,6 @@
 ---
 title: "Seinen Platz in der Familie finden - über die Wirkung des Familienstellens"
-draft: true
+draft: false
 tags: []
 weight: 91
 ---

@@ -5,7 +5,7 @@ menu:
     main:
         parent: ausb
         identifier: uebersicht
-draft: true
+draft: false
 weight: 1
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "einzelsupervision"
-draft: true
+draft: false
 weight: 2
 ---
 

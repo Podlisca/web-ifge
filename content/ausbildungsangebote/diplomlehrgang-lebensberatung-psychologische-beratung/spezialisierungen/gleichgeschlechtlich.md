@@ -3,7 +3,7 @@ title: "Gleichgeschlechtliche Liebe"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Gleichgeschlechtliche Liebe

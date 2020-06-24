@@ -4,7 +4,7 @@ menu:
     main:
         parent: gruppenselbsterfahrung
         identifier: familienaufstellung
-draft: true
+draft: false
 weight: 3
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_systembrett
-draft: true
+draft: false
 weight: 6
 ---
 

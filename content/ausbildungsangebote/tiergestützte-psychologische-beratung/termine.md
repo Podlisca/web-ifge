@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_tiergestuetzt
         identifier: tiergestuetzt_termine
-draft: true
+draft: false
 weight: 3
 ---
 

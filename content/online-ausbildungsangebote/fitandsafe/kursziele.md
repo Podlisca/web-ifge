@@ -4,7 +4,7 @@ menu:
     main:
         parent: fitandsafe
         identifier: fitandsafe_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

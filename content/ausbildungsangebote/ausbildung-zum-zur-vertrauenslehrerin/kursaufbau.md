@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

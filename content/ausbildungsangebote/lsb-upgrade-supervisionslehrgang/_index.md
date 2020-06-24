@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_supervision
-draft: true
+draft: false
 weight: 2
 ---
 

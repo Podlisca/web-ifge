@@ -3,7 +3,7 @@ title: "Lebensberatung - psychologische Beratung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Lebensberatung und Sozialberatung

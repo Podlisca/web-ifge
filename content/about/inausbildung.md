@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: inausbildung
-draft: true
+draft: false
 weight: 6
 ---
 

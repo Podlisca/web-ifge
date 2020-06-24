@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_sexualberatung
-draft: true
+draft: false
 weight: 5
 ---
 

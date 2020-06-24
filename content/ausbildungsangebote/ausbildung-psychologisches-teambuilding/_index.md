@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: teambuilding
-draft: true
+draft: false
 weight: 7
 ---
 

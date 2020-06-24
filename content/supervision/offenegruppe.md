@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "offenegruppe"
-draft: true
+draft: false
 weight: 4
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: gruppenselbsterfahrung
         identifier: termine
-draft: true
+draft: false
 weight: 6
 ---
 # Termine

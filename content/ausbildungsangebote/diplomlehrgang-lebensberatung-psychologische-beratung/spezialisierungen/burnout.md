@@ -3,7 +3,7 @@ title: "Burn-out Beratung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Burn-out Beratung

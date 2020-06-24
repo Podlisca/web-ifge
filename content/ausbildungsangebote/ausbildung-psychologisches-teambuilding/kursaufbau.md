@@ -4,7 +4,7 @@ menu:
     main:
         parent: teambuilding
         identifier: teambuilding_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

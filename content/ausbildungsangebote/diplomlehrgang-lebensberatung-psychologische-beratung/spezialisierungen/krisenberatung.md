@@ -3,7 +3,7 @@ title: "Krisenberatung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 # Krisenberatung
 {{< slogan >}}

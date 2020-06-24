@@ -1,7 +1,7 @@
 ---
 title: "Cookie-Richtlinie"
 menu: footer
-draft: true
+draft: false
 weight: 5
 ---
 

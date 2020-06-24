@@ -3,7 +3,7 @@ title: "Onlinephilosophie und Kursangebote"
 menu: 
     main:
         parent: "online"
-draft: true
+draft: false
 weight: 1
 ---
 

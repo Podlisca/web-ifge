@@ -4,7 +4,7 @@ menu:
     main:
         parent: onlinecoaching
         identifier: onlinecoaching_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: onlinecoaching
-draft: true
+draft: false
 weight: 4
 ---
 

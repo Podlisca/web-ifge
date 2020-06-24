@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: fitandsafe
-draft: true
+draft: false
 weight: 7
 ---
 

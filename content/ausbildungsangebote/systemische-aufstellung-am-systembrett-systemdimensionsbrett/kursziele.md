@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_systembrett
         identifier: upgrade_systembrett_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

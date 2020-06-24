@@ -1,6 +1,6 @@
 ---
 title: "Neujahrsvorsätze – Zum Scheitern verurteilt"
-draft: true
+draft: false
 tags: []
 weight: 94
 ---

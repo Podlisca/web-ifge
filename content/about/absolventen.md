@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: absolventen
-draft: true
+draft: false
 weight: 5
 ---
 

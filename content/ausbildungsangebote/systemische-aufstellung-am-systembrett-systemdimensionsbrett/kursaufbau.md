@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_systembrett
         identifier: systembrett_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

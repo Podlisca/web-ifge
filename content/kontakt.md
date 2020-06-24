@@ -1,7 +1,7 @@
 ﻿---
 title: "Kontakt"
 menu: main
-draft: true
+draft: false
 weight: 8
 ---
 

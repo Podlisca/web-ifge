@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: politik
-draft: true
+draft: false
 weight: 9
 ---
 

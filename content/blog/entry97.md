@@ -1,6 +1,6 @@
 ---
 title: "Lebenslanges Lernen – Heute ist früh genug"
-draft: true
+draft: false
 tags: []
 weight: 97
 ---

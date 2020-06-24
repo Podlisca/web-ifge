@@ -3,7 +3,7 @@ title: "Gesunde Perversion"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: teambuilding
         identifier: teambuilding_rechtliches
-draft: true
+draft: false
 weight: 4
 ---
 

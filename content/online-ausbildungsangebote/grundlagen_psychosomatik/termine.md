@@ -4,7 +4,7 @@ menu:
     main:
         parent: grundlagen_psychosomatik
         identifier: grundlagen_psychosomatik_termine
-draft: true
+draft: false
 weight: 3
 ---
 
