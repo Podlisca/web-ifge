@@ -17,7 +17,7 @@ weight: 6
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
 
@@ -43,7 +43,7 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 *** 
 
 ### Nutzen Sie Ihr volles Potenzial
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. 
 

@@ -16,7 +16,7 @@ weight: 5
 
 {{% floatbox %}}
 
-{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
@@ -64,6 +64,7 @@ Leitung: Silvia Podlisca<br/>
 
 #### Niederösterereich
 {{< image src="/img/ifge_stpoelten.jpg">}}
+
 ### Termine folgen
 
 {{% /small  %}}
@@ -90,10 +91,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*i
 
 Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
- 
-
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
-
 
 Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer\*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
 {{% /small  %}}
