@@ -12,7 +12,7 @@ weight: 7
 
 {{< slogan >}}
 
-***
+{{< line icon="icon/partner.png" >}}
 
 Unsere Partner\*innen sind wichtige Eckpfeiler unseres Erfolges und machen es möglich, dass wir uns auf unsere Kernkompetenzen konzentrieren können.
 

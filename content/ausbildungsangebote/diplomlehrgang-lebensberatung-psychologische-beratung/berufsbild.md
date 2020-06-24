@@ -23,7 +23,7 @@ weight: 6
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/beratung.png" >}}
+{{< line icon="icon/Beratung.png" >}}
 ## Machen Sie sich ein Bild über Ihre Zukunft als Lebensberater*in
 
 Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
@@ -42,48 +42,48 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### [PSYCHOLOGISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzelberatung" >}})
-{{< image src="/img/img2.jpg" >}}
+{{< figure src="/img/berufsbild_einzelberatung.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [PSYCHOLOGISCHE BERATUNG - PAAR]({{< relref "berufsbilder/paarberatung" >}})
-{{< image src="/img/img2.jpg" >}}
+{{< figure src="/img/berufsbild_paarberatung.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [SYSTEMISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzel_system" >}})
-{{< image src="/img/img2.jpg" >}}
+{{< figure src="/img/berufsbild_system_einzel.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
 #### [FAMILIENAUFSTELLUNG IN DER GRUPPE]({{< relref "/gruppenselbsterfahrung/familienaufstellung.html" >}})
-{{< image src="/img/img2.jpg" >}}
+{{< figure src="/img/berufsbild_familienaufstellung_gruppe.jpg" >}}
 {{% /small  %}}
 
 {{% /box %}}
 
-{{< line icon="Beratung.png" >}}
+{{< line icon="/icon/Beratung.png" >}}
 # Spezialisierungen
 ***
 
 {{% box more=1 top-align=1 %}}
-{{% card-more img="img2.jpg" title="KRISE/SUCHT/BURN-OUT"  %}}
+{{% card-more img="berufsbild_krise.jpg" title="KRISE/SUCHT/BURN-OUT"  %}}
 Mein persönlicher Zugang zu der Arbeit mit Klient\*innen, die sich in Krisen befinden, ist, sie professionell und emphatisch dabei zu unterstützen, in sich selbst die Kraft zu entdecken, die sie benötigen, um von der Ohnmacht in die Macht zu kommen und um die veränderte Situation zu akzeptieren. Dadurch können Sie Ihr Leben trotz – oder gerade aufgrund dieser Veränderung – neu und gesund gestalten. Sie entdecken wieder den Mut in sich, der einen kraftvollen und lebendigen Alltag gelingen lässt.
 {{% /card-more  %}}
 
-{{% card-more img="img2.jpg" title="SEXUALBERATUNG" %}}
+{{% card-more img="berufsbild_sexualberatung.jpg" title="SEXUALBERATUNG" %}}
 Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit.
 
 Ängste und Hemmungen, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, belastende Vorlieben oder Neigungen sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
 {{% /card-more  %}}
 
-{{% card-more img="img2.jpg" title="TÄTER / OPFER / GEWALT" %}}
+{{% card-more img="berufsbild_gewalt.jpg" title="TÄTER / OPFER / GEWALT" %}}
 Zahlreiche Institutionen, Therapeut\*innen, Berater\*innen und Vereine kümmern sich in Österreich um die Anliegen von Gewaltopfern. Dies ist eine überaus erfreuliche Entwicklung, die ich ungemein begrüße, denn noch vor wenigen Jahrzehnten war es für Opfer sexueller Straftaten um einiges schwieriger, gehört zu werden und einen Platz zu finden, an dem der Betrachtung eigener belastender Erlebnisse Raum gegeben wurde. Dank dem Engagement der Opferschutz-Organisationen und der medialen Berichterstattung der vergangenen Jahrzehnte, hat sich langsam in den Köpfen der Menschen etabliert, wie wichtig Opferschutz ist.
 
 Dass das Thema „Sexuelle Gewalt“ – ebenso wie häusliche Gewalt – dabei kein Randthema ist, zeigen die Zahlen. 
 {{% /card-more  %}}
 
-{{% card-more img="img2.jpg" title="BERATUNG ANGEHÖRIGE" %}}
+{{% card-more img="berufsbild_angehoerige.jpg" title="BERATUNG ANGEHÖRIGE" %}}
 Wenn eine Gewalttat passiert – ganz gleich ob es sich dabei um sexualisierte oder andere Formen von Gewalt handelt – gilt die gesamte Konzentration sowohl den Täter*innen als auch den Opfern. 
 
 Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Was in der Akutsituation verständlich ist, bringt die Angehörigen im Alltag aber völlig an den Rand. Gefühle der Vernachlässigung stellen sich ein. Die Ambivalenz zwischen Verständnis, Wut, Scham, Mitgefühl sowie der Emotion, selbst unterzugehen und langsam unsichtbar zu werden, belastet enorm.
