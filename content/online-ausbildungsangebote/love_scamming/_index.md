@@ -13,7 +13,7 @@ weight: 6
 
 {{< slogan >}}
 
-{{< line icon="icon/love_scamming.png" >}}
+{{< line icon="icon/Love_Scamming.png" >}}
 
 {{% floatbox %}}
 

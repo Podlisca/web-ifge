@@ -38,7 +38,7 @@ weight: 4
 
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer*innen erhalten eine Bestätigung über fachliche Fortbildung.
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
 
 {{% /small  %}}
