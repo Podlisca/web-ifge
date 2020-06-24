@@ -16,18 +16,18 @@ weight: 3
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-### Gruppensupervision - Vier neue Gruppen starten Januar 2021
+## Gruppensupervision - Vier neue Gruppen starten Januar 2021
 
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-<br/>
+Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
 
-Die Teilnehmer\*innen lernen sich rasch kennen und es entsteht ein vertrautes Gefühl, in dem man sich nach und nach auch an komplexere Themen und intensive Übungsfälle heranwagt. Dadurch, dass die Teilnehmer\*innen in einem gemeinsamen Kontext supervisiorisch über ein ganzes Jahr begleitet werden, wird die Gruppe an sich zu einem wichtigen Teil der Supervision.
+Die Teilnehmer\*innen lernen sich rasch kennen und es entsteht ein vertrautes Gefühl, in dem man sich nach und nach auch an komplexere Themen und intensive Übungsfälle heranwagt. 
 
-<br/>
+Dadurch, dass die Teilnehmer\*innen in einem gemeinsamen Kontext supervisiorisch über ein ganzes Jahr begleitet werden, wird die Gruppe an sich zu einem wichtigen Teil der Supervision.
 
 Gleichzeitig können alle Teilnehmer\*innen ihren eigenen Entwicklungsprozess sowie die Entwicklungsschritte der anderen Gruppenmitglieder in einem zeitlich nachhaltigen Rahmen verfolgen, wodurch in wertschätzender Atmosphäre der berufliche Fortschritt und die Erweiterung des Fachwissens aller Teilnehmer\*innen Monat für Monat deutlich sichtbar wird. Durch die Regelmäßigkeit innerhalb eines gesamten Supervisionsjahres kann intensiv und individuell auf alle Gruppenmitglieder eingegangen werden.
 

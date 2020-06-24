@@ -17,7 +17,9 @@ weight: 6
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+
+Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
 
 Wie wirke ich auf andere? Wo sind meine Stärken? Welche Ressourcen habe ich bisher vielleicht noch nicht ausgeschöpft oder an einer unpassenden Stelle eingesetzt? Wie kann mein persönlicher beruflicher Erfolg gelingen? 
 
@@ -41,7 +43,9 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 *** 
 
 ### Nutzen Sie Ihr volles Potenzial
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. 
+{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} 
+
+Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. 
 
 Nutzen Sie Ihr volles Potenzial, indem Sie durch unser psychologisches Teambuilding Störfaktoren ausräumen und Ihre Ressourcen fördern. Je nach Anliegen oder Kernthematik Ihrer beruflichen Herausforderungen gehen wir individuell im Team auf Sie ein. 
 
