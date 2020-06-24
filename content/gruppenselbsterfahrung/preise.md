@@ -11,12 +11,13 @@ weight: 7
 
 # Preise
 {{< slogan >}}
-***
+{{< line icon="icon/kosten_tuerkis.png" >}}
 
-**Die Preise für Ausbildungen finden Sie beim jeweiligen Angebot.**
+#### Die Preise für Ausbildungen finden Sie beim jeweiligen Angebot.
 
+{{< line icon="icon/kosten_tuerkis_2.png" >}}
 
-### Selbsterfahrungsangebot
+## Selbsterfahrungsangebot
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -57,41 +58,52 @@ Zahlungsmöglichkeiten: Bar, Bankomat- oder Kreditkarte
 
 Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis, dass Stunden, die nicht mind. 48 Stunden vorher telefonisch abgesagt werden, voll verrechnet werden.
 
-***
+{{< line icon="icon/aufstellung.png" >}}
 
-### Familienaufstellung
+## Familienaufstellung
 
 
 {{% box top-align=1 %}}
 {{% small  %}}
 * Familienaufstellung Eintages Seminar
-
-* Familienaufstellung Zweitages Seminar
-
-* Familienaufstellung Dreitages Seminar
-
-* Familienaufstellung Intensivwoche
 {{% /small  %}}
 {{% small  %}}
 * Teilnehmer\*in mit eigenem Anliegen: € 180,-
-
 * Teilnehmende\*r Beobachter\*in: € 60,-
-
-* Teilnehmer\*in mit eigenem Anliegen: € 290,-
-
-* Teilnehmende\*r Beobachter\*in: € 120,-
-
-* Teilnehmer\*in mit eigenem Anliegen:€ 390,-
-
-* Teilnehmende\*r Beobachter\*in: € 130,-
-
-* Teilnehmer\*in mit eigenem Anliegen:€ 590,-
-
-* Teilnehmende\*r Beobachter\*in: € 240,-
 {{% /small  %}}
 {{% /box %}}
 
 
+{{% box top-align=1 %}}
+{{% small  %}}
+* Familienaufstellung Zweitages Seminar
+{{% /small  %}}
+{{% small  %}}
+* Teilnehmer\*in mit eigenem Anliegen: € 290,-
+* Teilnehmende\*r Beobachter\*in: € 120,-
+{{% /small  %}}
+{{% /box %}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+* Familienaufstellung Dreitages Seminar
+{{% /small  %}}
+{{% small  %}}
+* Teilnehmer\*in mit eigenem Anliegen:€ 390,-
+* Teilnehmende\*r Beobachter\*in: € 130,-
+{{% /small  %}}
+{{% /box %}}
+
+
+{{% box top-align=1 %}}
+{{% small  %}}
+* Familienaufstellung Intensivwoche
+{{% /small  %}}
+{{% small  %}}
+* Teilnehmer\*in mit eigenem Anliegen:€ 590,-
+* Teilnehmende\*r Beobachter\*in: € 240,-
+{{% /small  %}}
+{{% /box %}}
 
 
 Alle Preisangaben inklusive 20 % MwSt.
