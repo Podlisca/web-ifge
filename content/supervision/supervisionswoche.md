@@ -16,7 +16,9 @@ weight: 5
 
 {{% floatbox %}}
 
-{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
+{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}}
+
+Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
 Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt.
 

@@ -14,6 +14,7 @@ draft: true
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
@@ -27,6 +28,7 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -44,6 +46,7 @@ Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den feh
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](www.ifge.at) bewusst [Täter\*innen](www.ifge.at) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
@@ -57,6 +60,7 @@ Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Be
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -65,14 +69,18 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](www.ifge.at).
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Jeder wird gehört..." >}}
+
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
+
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Wenn es einmal emotionaler wird.." >}}
+
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
+
 {{% /small  %}}
 {{% /box %}}

@@ -17,7 +17,9 @@ weight: 4
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Firmen haben längst erkannt, dass unmotivierte, falsch eingesetzte MitarbeiterInnen nicht die Arbeitsleistung zeigen die gewünscht wird und wesentlich häufiger zu Krankheit neigen.
+{{< image src="/img/silvia_start.jpg" float="left " >}}
+
+Firmen haben längst erkannt, dass unmotivierte, falsch eingesetzte MitarbeiterInnen nicht die Arbeitsleistung zeigen die gewünscht wird und wesentlich häufiger zu Krankheit neigen.
 
 Krankenstände und nicht genützte Arbeitsressourcen kosten den Firmen Unmengen an Geld, sodass immer mehr Firmen interne oder externe Coaches beauftragen Ihre MitarbeiterInnen diesbezüglich zu unterstützen.
 

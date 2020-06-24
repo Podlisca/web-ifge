@@ -21,7 +21,9 @@ weight: 3
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
+{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
+
+Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
 
 <br/>
 

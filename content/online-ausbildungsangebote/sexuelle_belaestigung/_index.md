@@ -17,7 +17,9 @@ weight: 5
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Erinnern Sie sich noch daran, dass die Gesetzesänderung aus dem Jahr 2016, in der das unerwünschte Berühren von Oberschenkeln und Gesäß strafrechtlich erfasst wurde, unter dem lapidaren Namen „Pograpsch-Paragraph“ bekannt wurde? Haben Sie auch oft rollende Augen bemerkt, wenn es um #metoo in der öffentlichen Wahrnehmung gegangen ist? Und haben Sie nicht auch schon einmal von jemandem die Aussage gehört, dass ein untragbares Maß an täglichen Liebesbekundungen doch „einfach als Kompliment“ angesehen werden sollte? Dass Sie vermutlich zumindest bei zwei von drei Fragen nickend zustimmen werden, zeigt ein nach wie vor bestehendes, erhebliches Problem in unserer beruflichen sowie privaten Gesellschaft. Sowohl die Themen „Sexuelle Belästigung“ als auch „Stalking“ werden in vielen Bereichen nicht ausreichend ernst genommen. Dies sorgt sowohl für persönliche Belastungen als auch für unternehmerische Probleme.
+{{< image src="/img/silvia_start.jpg" float="left " >}}
+
+Erinnern Sie sich noch daran, dass die Gesetzesänderung aus dem Jahr 2016, in der das unerwünschte Berühren von Oberschenkeln und Gesäß strafrechtlich erfasst wurde, unter dem lapidaren Namen „Pograpsch-Paragraph“ bekannt wurde? Haben Sie auch oft rollende Augen bemerkt, wenn es um #metoo in der öffentlichen Wahrnehmung gegangen ist? Und haben Sie nicht auch schon einmal von jemandem die Aussage gehört, dass ein untragbares Maß an täglichen Liebesbekundungen doch „einfach als Kompliment“ angesehen werden sollte? Dass Sie vermutlich zumindest bei zwei von drei Fragen nickend zustimmen werden, zeigt ein nach wie vor bestehendes, erhebliches Problem in unserer beruflichen sowie privaten Gesellschaft. Sowohl die Themen „Sexuelle Belästigung“ als auch „Stalking“ werden in vielen Bereichen nicht ausreichend ernst genommen. Dies sorgt sowohl für persönliche Belastungen als auch für unternehmerische Probleme.
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

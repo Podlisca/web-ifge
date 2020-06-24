@@ -18,6 +18,7 @@ weight: 7
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 
@@ -49,6 +50,7 @@ Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -60,6 +62,7 @@ Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](w
 {{% box %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% large %}}
 
@@ -80,6 +83,7 @@ In unserer Ausbildung wird jede Intervention fachlich erklärt, sodass Sie diese
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}
+
 {{% /small  %}}
 {{% /box %}}
 

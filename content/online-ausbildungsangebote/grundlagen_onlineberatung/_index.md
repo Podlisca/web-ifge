@@ -17,7 +17,9 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen.
+{{< image src="/img/silvia_start.jpg" float="left " >}}
+
+Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen.
 
 {{% /floatbox %}}
 
