@@ -79,6 +79,7 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 {{% box top-align=1 %}}
 {{% small  %}}
 {{< image src="/img/img2.jpg">}}
+
 #### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?
 
 Die tiergestützte psychologische Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient\*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. 
@@ -91,6 +92,7 @@ Wir beziehen in unseren Lehrgang bzw. in die Ausbildung sorgfältig ausgewählte
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/img2.jpg">}}
+
 #### WAS BIETET UNSER FORTBILDUNGSLEHRGANG?
 
 Der erfolgreiche Abschluss des Ausbildungslehrgang berechtigt diplomierte Lebens- und Sozialberater\*innen dazu, „Tiergestützte psychologische Beratung“ sowie „Tiergestützte Lebens- und Sozialberatung“ in Österreich anzubieten.

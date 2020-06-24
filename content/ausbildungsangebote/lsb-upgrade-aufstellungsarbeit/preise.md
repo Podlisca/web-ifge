@@ -22,7 +22,7 @@ weight: 2
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/kosten_tuerkis.png" >}}
+{{< line icon="icon/kosten_tuerkis_2.png" >}}
 
 ## Kosten
 
