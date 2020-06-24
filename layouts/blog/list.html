@@ -1,39 +1,55 @@
 {{ define "main"}}
     <style>
         .post-container {
-            display: grid;
-            grid-template-columns: auto auto auto;
+            display: flex;
+            flex-direction: column;
         }
 
         article header {
-            background: none;
-            height: 130px;
+            background: none;            
             overflow: hidden;
         }
 
-        @media (max-width: 900px) {
-            .post-container {
-                grid-template-columns: auto auto;
-            }
+        article.post {
+            display: grid;
+            grid-template-areas: 
+            " header header "
+            " pic main ";
+        }
+
+        article.post > div {
+            grid-area: main;
+            padding: 1em;
         }
 
         @media (max-width: 700px) {
             .post-container {
-                grid-template-columns: auto;
+                grid-template-columns: auto auto;
             }
             article header {
                 height: auto;
             }
+            article.post {
+                grid-template-areas: 
+                " header "
+                " pic "
+                " main ";
+            }
         }
-        
-        article.post {
-            padding: 0.5em;
+
+        article.post header {
+            grid-area: header;            
         }
+
+        article.post img {
+            grid-area: pic;
+        }
+                
 
     </style>
     <h2 id="title">BLOG</h2>    
     <div class="post-container">        
-        {{ range .Pages.Reverse }}
+        {{ range .Pages.Reverse }}            
           {{ .Render "summary"}}
         {{ end }}
     </div>
