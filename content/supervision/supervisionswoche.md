@@ -12,26 +12,26 @@ weight: 5
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
-***
+{{< line icon="/icon/aufstellung.png" >}}
 
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/img1.jpg" title="Bildbeschreibung" >}}
-{{% /small  %}}
-{{% large %}}
+{{% floatbox %}}
 
-Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
+{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
 Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt.
 
-Die Schulungs- und Supervisionswoche kann nur von (ehemaligen) Schüler\*innen von mir besucht werden.
-{{% /large %}}
+Die Schulungs- und Supervisionswoche kann nur von (ehemaligen) Schüler*innen von mir besucht werden.
+
+{{% /floatbox %}}
+{{< line icon="/icon/info_tuerkis.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+## Termine
+{{% /small  %}}
 {{% /box %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
-## Termine
-
-{{% box top-align=1 %}}
+{{% box blue=1 top-align=1 %}}
 {{% small  %}}
 #### Wien  
 {{< figure src="/img/ifge_wien.jpg">}}
@@ -58,15 +58,17 @@ Leitung: Silvia Podlisca<br/>
 ### [Anmeldung](www.ifge.at)
 {{% /small  %}}
 {{% small  %}}
-#### Online Gruppensupervision
 
+
+#### Niederösterereich
+{{< figure src="/img/ifge_stpoelten.jpg">}}
 ### Termine folgen
 
 {{% /small  %}}
 {{% /box %}}
 
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="/icon/vertrag.png" >}}
 
 ### Allgemeines
 
@@ -78,9 +80,12 @@ Leitung: Silvia Podlisca<br/>
 Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
-***
+{{< line icon="/icon/vertrag.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
 ### ALLGEMEINE GESCHÄFTSBEDINGUNGEN
- 
+
 Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
  
@@ -89,3 +94,5 @@ Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Train
 
 
 Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer\*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+{{% /small  %}}
+{{% /box %}}

@@ -8,40 +8,54 @@ draft: true
 weight: 1
 ---
 
-# Philosophie Supervision 
+# Philosophie: Supervision
 {{< slogan >}}
-{{< line icon="icon/gruppenselbsterfahrung.png" >}}
 
-## SILVIA PODLISCA
+{{< line icon="icon/supervision.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} texttexttext
+{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
 
-{{< line icon="icon/gruppenselbsterfahrung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
+Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
 
-{{% /small %}}
-{{% /box %}}
+{{< silvia >}}
 
-***
-
-
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
-
-texttrxttext
-
-{{< line icon="icon/zitat.png" >}}
-
-texttexttext 
-
-***
-{{% box blue=1 %}}
-{{% small %}}
-Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist oder eine medizinische Behandlung ersetzt. Alle Angebote unterliegen strengster Vertraulichkeit!
-{{% /small %}}
-{{% /box %}}
-
-***
+\- Institutsleiterin \-
 {{% /floatbox %}}
+
+{{< line icon="icon/info_tuerkis.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
+## Hier finden Sie ausführliche Informationen über:
+{{% /small  %}}
+{{% /box %}}
+
+{{% box blue=1 top-align=1 %}}
+{{% small  %}}
+#### [Einzelsupervision](/supervision/einzelsupervision.html)
+{{< figure src="/img/icon/einzel_sv.png" >}}
+{{% /small  %}}
+
+{{% small  %}}
+#### [Geschlossene SV Gruppe](/supervision/geschlossenegruppe.html)
+
+{{< figure src="/img/icon/sv_gruppe_geschlossen.png" >}}
+{{% /small  %}}
+
+{{% small  %}}
+#### [Offene SV Tage](/supervision/offenegruppe.html)
+{{< figure src="/img/icon/sv_gruppe_offen.png" >}}
+{{% /small  %}}
+
+{{% small  %}}
+#### [Intensivwoche](/supervision/supervisionswoche.html)
+{{< figure src="/img/icon/sv_woche.png" >}}
+{{% /small  %}}
+
+{{% small  %}}
+#### [Teamsupervision](/supervision/teamsupervision.html)
+{{< figure src="/img/icon/sv_teambuilding.png" >}}
+{{% /small  %}}
+
+{{% /box %}}
