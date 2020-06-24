@@ -13,11 +13,15 @@ weight: 2
 
 {{< slogan >}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}} Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen.
+{{< image src="/img/grundlagen_onlineberatung.jpg" float="left " >}} 
+
+Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: 
+
+**Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen.**
 
 {{% /floatbox %}}
 
@@ -31,10 +35,10 @@ weight: 2
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 Und dies scheint auf den ersten Blick einfacher, als es tatsächlich ist. Ein Videoberatungs-Tool ist schnell heruntergeladen und über eine stabile Internetverbindung verfügen in unseren Breiten heute die meisten Menschen.
 
-Aber damit alleine ist es nicht getan, denn die Ansprüche, die an eine professionelle Onlineberatung bzw. an ein professionelles Coaching im digitalen Bereich gestellt werden, gehen über nette Videochats mit Freunden und Verwandten deutlich hinaus.  Immerhin gilt es, die Herausforderungen eines Beratungsprozesses – wie etwa einen gelungenen Beziehungsaufbau – in die digitale Welt zu transferieren. Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professionelle psychologische Onlineberatung & digitales Coaching“ ausführlich vermittelt wird. Im Zuge der Fortbildung wird für Sie auch rasch spürbar, dass es einen großes Unterschied zwischen digitaler und emotionaler Distanz gibt. So lernen Sie gemeinsam mit Ihren Fortbildungskolleg*innen, wie selbst der vertiefende Beziehungsaufbau über das Medium „Videotelefonie“ erfolgreich glückt.
+Aber damit alleine ist es nicht getan, denn die Ansprüche, die an eine professionelle Onlineberatung bzw. an ein professionelles Coaching im digitalen Bereich gestellt werden, gehen über nette Videochats mit Freunden und Verwandten deutlich hinaus.  Immerhin gilt es, die Herausforderungen eines Beratungsprozesses – wie etwa einen gelungenen Beziehungsaufbau – in die digitale Welt zu transferieren. 
 
 

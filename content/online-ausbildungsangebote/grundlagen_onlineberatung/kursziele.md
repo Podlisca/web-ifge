@@ -13,6 +13,17 @@ weight: 1
 
 {{< slogan >}}
 
+{{< line icon="icon/zitat.png" >}}
+
+{{% floatbox %}}
+{{< image src="/img/grundlagen_onlineberatung_ziel.jpg" float="left">}}
+
+Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professionelle psychologische Onlineberatung & digitales Coaching“ ausführlich vermittelt wird. Im Zuge der Fortbildung wird für Sie auch rasch spürbar, dass es einen großes Unterschied zwischen digitaler und emotionaler Distanz gibt. So lernen Sie gemeinsam mit Ihren Fortbildungskolleg*innen, wie selbst der vertiefende Beziehungsaufbau über das Medium „Videotelefonie“ erfolgreich glückt.
+
+{{% silvia %}}
+
+{{% /floatbox %}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
@@ -23,7 +34,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 ## ERWEITERN SIE IHR PORTFOLIO UND DAMIT IHREN KUNDENKREIS
 {{% box %}}
