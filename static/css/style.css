@@ -95,7 +95,7 @@ img.logo {
         "footer";
     }
 
-    img.logo {
+    header img.logo {
         width: 100px;
     }
 
@@ -466,7 +466,7 @@ main ul li:nth-child(even) {
 }
 
 .floatbox img {
-    max-width: 350px;
+    max-width: min(350px, 100%);
     padding: var(--padding-main);    
     margin: 0;
     padding: 0;
