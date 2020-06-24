@@ -49,7 +49,7 @@ Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den feh
 
 {{% /small  %}}
 {{% large %}}
-Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](www.ifge.at) bewusst [Täter\*innen](www.ifge.at) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
+Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](https://www.ifge.at) bewusst [Täter\*innen](https://www.ifge.at) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
 {{% /large %}}
 {{% /box %}}
 
@@ -64,7 +64,7 @@ Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Be
 {{% /small  %}}
 {{% /box %}}
 
-Lesen Sie hier mehr über die [systemische Wirkung in Familien](www.ifge.at).
+Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge.at).
 
 {{% box %}}
 {{% small  %}}

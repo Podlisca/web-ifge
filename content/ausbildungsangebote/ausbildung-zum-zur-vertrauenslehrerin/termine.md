@@ -72,7 +72,7 @@ Modul 6: 20.03. und 21.03.2021<br/>
 
 Prüfung: 10.04.2021
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](https://www.ifge.at)
 
 {{% /small  %}}
 {{% /box %}}

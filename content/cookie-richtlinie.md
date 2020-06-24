@@ -20,7 +20,7 @@ Es wird hierbei aber nur das Cookie selbst auf dem Endgerät identifiziert. Eine
 ### Zustimmung zur Verwendung von Cookies
 Cookies, die nicht unbedingt erforderlich sind, um die Dienste auf dieser Website zur Verfügung zu stellen, werden erst nach Einwilligung verwendet. Indem der Nutzer auf Grundlage eines von uns auf der Website erteilten Hinweises („Cookie-Banner“) eine Einwilligung zur Verwendung von Cookies erteilt hat, stimmt er der Verwendung von Cookies zu.
 
-Seine [Cookie Einstellungen](www.ifge.at) kann der Nutzer jederzeit anpassen.
+Seine [Cookie Einstellungen](https://www.ifge.at) kann der Nutzer jederzeit anpassen.
 
 Wie der Nutzer Cookies generell (inklusive der unbedingt erforderlichen Cookies) in seinem Browser deaktivieren oder löschen kann, wird unter dem Punkt "Deaktivierung oder Löschung sämtlicher Cookies" beschrieben.
 

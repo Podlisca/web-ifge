@@ -39,9 +39,9 @@ Menschen im fortgeschrittenen Alter kommen häufig mit folgenden Anliegen zu mir
 * Einschränkung des sexuellen Lustempfindens durch (chronische) Krankheiten
 * Unterschiedliche sexuelle Wünsche in der Partnerschaft
 
-Nutzen Sie die [Sexualberatung](www.ifge.at), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychologische Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
+Nutzen Sie die [Sexualberatung](https://www.ifge.at), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychologische Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
 
-Lesen Sie mehr über meine [Philosophie am IFGE](www.ifge.at)
+Lesen Sie mehr über meine [Philosophie am IFGE](https://www.ifge.at)
 
 {{% /floatbox %}}
 

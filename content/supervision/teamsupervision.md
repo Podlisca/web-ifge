@@ -25,14 +25,14 @@ Wie wirke ich auf andere? Wo sind meine Stärken? Welche Ressourcen habe ich bis
 
 Wie kann ein vielleicht eben erst neu formiertes Team zu einer produktiven und vor allem gegenseitig wertschätzenden Formation werden? Diese und viele weitere Fragen werden im Rahmen der Teambuilding-Supervision beantwortet. Damit erhalten Sie neue, hilfreiche Handlungsmuster und spannende Lösungen für Ihr berufliches Fortkommen sowie für Ihre arbeitsbezogene Zufriedenheit.
 
-In dieser teamfokussierten [Supervisionsgruppe](www.ifge.at) werden verschiedene bewährte und vor allem spannende Übungen mit in den Prozess einbezogen. In einer heiteren und wertschätzenden Atmosphäre geht es dabei um sehr viel mehr, als um oft belächelte „Teamspielchen“. Denn im Zuge der Supervision werden Strukturen nicht nur bildlich sichtbar gemacht, sondern für Sie erfolgbringend im Team-Kontext aufgedröselt.
+In dieser teamfokussierten [Supervisionsgruppe](https://www.ifge.at) werden verschiedene bewährte und vor allem spannende Übungen mit in den Prozess einbezogen. In einer heiteren und wertschätzenden Atmosphäre geht es dabei um sehr viel mehr, als um oft belächelte „Teamspielchen“. Denn im Zuge der Supervision werden Strukturen nicht nur bildlich sichtbar gemacht, sondern für Sie erfolgbringend im Team-Kontext aufgedröselt.
 
 {{< line icon="icon/coaching1.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
 ### Ressourcen stärken
-Am IFGE gehen wir durch die [langjährige psychologische Erfahrung](www.ifge.at) also einen wichtigen Schritt weiter: Das, was sich an möglicherweise destruktiven Mustern zeigt und was in so manchen Übungen noch einmal deutlich sichtbar wird, haben Sie vielleicht – bewusst oder unbewusst – bereits gespürt. Doch möglicherweise fehlen Ihnen noch klare Hinweise, wie Sie diese Muster in neue, konstruktive Strukturen umwandeln können? Sie arbeiten in der Gruppe daran, vorhandene Ressourcen sowie Stärken zieldienlich für Ihre berufliche Zufriedenheit und Ihren wirtschaftlichen Erfolg einsetzen zu können. 
+Am IFGE gehen wir durch die [langjährige psychologische Erfahrung](https://www.ifge.at) also einen wichtigen Schritt weiter: Das, was sich an möglicherweise destruktiven Mustern zeigt und was in so manchen Übungen noch einmal deutlich sichtbar wird, haben Sie vielleicht – bewusst oder unbewusst – bereits gespürt. Doch möglicherweise fehlen Ihnen noch klare Hinweise, wie Sie diese Muster in neue, konstruktive Strukturen umwandeln können? Sie arbeiten in der Gruppe daran, vorhandene Ressourcen sowie Stärken zieldienlich für Ihre berufliche Zufriedenheit und Ihren wirtschaftlichen Erfolg einsetzen zu können. 
 
 ### Teambuilding im psychologischen Kontext
 Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Komponente der Supervision gesehen, wodurch der Mehrwert der psychologischen Betrachtung Ihrer beruflichen Dynamiken mit in den Prozess eingebunden wird. Dazu gehört auch, dass wir psychosoziale Strukturen mit in unseren geschulten Blick nehmen. Denn auch wenn eine Übung vordergründig geglückt und eine Aufgabe spielerisch gemeistert scheint, können wir als exakte Beobachter in Teams destruktive Muster erkennen, die im verborgenen wirken. Wir lassen uns also vom kurzfristigen Erfolg einer Team-Übung nicht verführen, sondern nehmen den gesamten Prozess in den Blick, um auch langfristig erfolgreiche Strukturen für Sie zu erarbeiten und zu festigen. So entwickeln Sie sich persönlich ebenso weiter, wie sich auch das gesamte Team weiterentwickeln kann.
@@ -51,7 +51,7 @@ Nutzen Sie Ihr volles Potenzial, indem Sie durch unser psychologisches Teambuild
 
 Unser Angebot beinhaltet ein breites Spektrum an psychologischen Interventionen im wirtschaftlichen Kontext, die nachhaltige Lösungen entstehen lassen. Durch hochmoderne Utensilien für diverse Tools gestaltet sich die Teambuilding-Supervision für Sie kurzweilig, abwechslungsreich und vor allem neuartig. 
 
-Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelingen, keinesfalls zu kurz. Außerdem erhalten Sie im Zuge der Supervision spannende Inputs rund um soziodynamische, psychologische und wirtschaftliche Prozesse in Gruppen, damit Sie diese letztlich für Ihren persönlichen beruflichen Erfolg einsetzen können. Sie erfahren dazu einen neuen Zugang zum Thema Teambuilding, der im Besonderen auf Ihre Ressourcen und Ihre Zufriedenheit fokussiert. Profitieren Sie von einer idealen Verbindung bewährter Teambuilding-Strategien kombiniert mit allen Vorteilen der [Supervision](www.ifge.at) für Ihre nachhaltig berufliche Zufriedenheit.
+Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelingen, keinesfalls zu kurz. Außerdem erhalten Sie im Zuge der Supervision spannende Inputs rund um soziodynamische, psychologische und wirtschaftliche Prozesse in Gruppen, damit Sie diese letztlich für Ihren persönlichen beruflichen Erfolg einsetzen können. Sie erfahren dazu einen neuen Zugang zum Thema Teambuilding, der im Besonderen auf Ihre Ressourcen und Ihre Zufriedenheit fokussiert. Profitieren Sie von einer idealen Verbindung bewährter Teambuilding-Strategien kombiniert mit allen Vorteilen der [Supervision](https://www.ifge.at) für Ihre nachhaltig berufliche Zufriedenheit.
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -95,7 +95,7 @@ Preis pro Einheit (4 Stunden) ab 9 Teilnehme\r*innen mit 2 Trainer\*innen: € 8
 ### EINZELSUPERVISION
 Sie möchten in Einzelsupervisionen besonders viel Zeit für Ihre Anliegen nehmen?
 
-Kontaktieren Sie mich für einen Termin unter +43 676 610 89 36 oder informieren Sie sich [hier](www.ifge.at).
+Kontaktieren Sie mich für einen Termin unter +43 676 610 89 36 oder informieren Sie sich [hier](https://www.ifge.at).
 
 {{% /small %}}
 {{% /box %}}

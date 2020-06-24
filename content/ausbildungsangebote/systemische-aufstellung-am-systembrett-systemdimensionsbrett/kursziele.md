@@ -19,7 +19,7 @@ weight: 1
 
 {{< image src="/img/ausbildung_systembrett_ziel.jpg" float="left">}}
 
-Für die [systemische Einzelberatung](www.ifge.at) erlernen bzw. verankern Sie gleich zwei Systembrett-Techniken: Sie beginnen mit der systemischen Arbeit auf dem klassischen Brett und steigern Ihre Fähigkeiten im Zuge der Module Schritt für Schritt, bis Sie ebenso die Methode der Aufstellung auf dem patentierten [SystemDimensionsBrett®](www.ifge.at) beherrschen werden.
+Für die [systemische Einzelberatung](https://www.ifge.at) erlernen bzw. verankern Sie gleich zwei Systembrett-Techniken: Sie beginnen mit der systemischen Arbeit auf dem klassischen Brett und steigern Ihre Fähigkeiten im Zuge der Module Schritt für Schritt, bis Sie ebenso die Methode der Aufstellung auf dem patentierten [SystemDimensionsBrett®](https://www.ifge.at) beherrschen werden.
 
 Dieses eigens von Institutsleiterin Silvia Podlisca entwickelte, spezielle Systembrett, mit dem auf drei verschiedenen Ebenen gearbeitet werden kann, erfordert wesentliche Kenntnisse in der mehrdimensionalen Aufstellungsarbeit.
 

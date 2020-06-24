@@ -51,7 +51,7 @@ ACHTUNG: Die Ausbildung findet in der Zweigstelle Pinkafeld statt! Wien - Pinkaf
 
 Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
