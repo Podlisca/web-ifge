@@ -34,9 +34,6 @@
     </div>
   </header>
 
-  {{/*  <div class="head-filler" style="grid-area: hfill1;"></div>
-  <div class="head-filler" style="grid-area: hfill2;"></div>  */}}
-
   <main>
     <div class="cont">
       {{ block "main" . }}
@@ -45,10 +42,6 @@
   </main>
 
   <!-- {{ partial "sidebar.html" . }} -->
-  
-  {{/*  <section class="contact">
-    {{ partialCached "site-contact.html" . }}
-  </section>  */}}
 
   <footer>
     {{ partial "site-footer.html" . }}
@@ -64,12 +57,7 @@
       if (x.className === "topnav") {
         x.className += " responsive";        
       } else {
-        x.className = "topnav";
-        /*  Array.from(document.getElementsByClassName("myclass")).forEach(
-          (el) => {
-            el.style.display = "none";
-          }
-        );  */
+        x.className = "topnav";        
       }
     }
 
