@@ -95,8 +95,9 @@ img.logo {
         "footer";
     }
 
-    img.logo {
+    header img.logo {
         width: 100px;
+        width: 60px;
     }
 
     .box:not(.menu) {
@@ -215,9 +216,17 @@ img {
 }
 
 @media (max-width: 700px) {
-    .box {
+    .box:not(.menu) {
         flex-direction: column;
     }
+
+    /* .box.menu .link {
+        display: none;
+    } */
+/* 
+    .box.menu .card {
+        padding: 0.3em;
+    } */
 }
 
 .box > * {
@@ -458,7 +467,7 @@ main ul li:nth-child(even) {
 }
 
 .floatbox img {
-    max-width: 350px;
+    max-width: min(350px, 100%);
     padding: var(--padding-main);    
     margin: 0;
     padding: 0;

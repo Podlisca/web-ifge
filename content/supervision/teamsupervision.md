@@ -40,7 +40,7 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="icon/Coaching.png" >}}
+{{< line icon="icon/coaching.png" >}}
 
 ### Nutzen Sie Ihr volles Potenzial
 {{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} 
