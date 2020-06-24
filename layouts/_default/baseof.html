@@ -20,7 +20,7 @@
 
 <body>
   
-  {{/*  {{ partial "cookieconsent" . }}  */}}
+  {{ partial "cookieconsent" . }}
 
   <script src="/js/navbar.js"></script>
   <header>
@@ -34,9 +34,6 @@
     </div>
   </header>
 
-  {{/*  <div class="head-filler" style="grid-area: hfill1;"></div>
-  <div class="head-filler" style="grid-area: hfill2;"></div>  */}}
-
   <main>
     <div class="cont">
       {{ block "main" . }}
@@ -45,10 +42,6 @@
   </main>
 
   <!-- {{ partial "sidebar.html" . }} -->
-  
-  {{/*  <section class="contact">
-    {{ partialCached "site-contact.html" . }}
-  </section>  */}}
 
   <footer>
     {{ partial "site-footer.html" . }}
@@ -64,24 +57,23 @@
       if (x.className === "topnav") {
         x.className += " responsive";        
       } else {
-        x.className = "topnav";
-        /*  Array.from(document.getElementsByClassName("myclass")).forEach(
-          (el) => {
-            el.style.display = "none";
-          }
-        );  */
+        x.className = "topnav";        
       }
     }
 
     function toggleSubmenu(obj) {
       if (obj.textContent === "+") {
-        obj.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.add("show");
+        obj.parentNode.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.add("show");
         obj.textContent = "-";
       }
       else {
-        obj.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.remove("show");
+        obj.parentNode.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.remove("show");
         obj.textContent = "+";
       }
+    }
+
+    function toggleSubmenuMobile(obj) {
+      obj.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.toggle("show");
     }
 
     function toggleMore(obj) {      
