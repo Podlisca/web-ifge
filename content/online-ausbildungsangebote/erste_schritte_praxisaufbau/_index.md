@@ -13,13 +13,17 @@ weight: 9
 
 {{< slogan >}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/zeig_dich.png" >}}
 
 {{% floatbox %}}
 
 {{< image src="/img/silvia_start.jpg" float="left " >}}
 
-Die beste Ausbildung  nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient\*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient\*innen? Dafür müssen Sie sichtbar werden. „Zeig’ dich!“ ist die Devise – aber bitte professionell. Bevor der erste Klient oder die erste Klientin also die eigene Praxis betritt, gibt es zahlreiche Schritte, die es für eine erfolgreiche und vor allem professionelle Gründung braucht. Und das sind gar nicht wenige.
+Die beste Ausbildung  nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient\*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient\*innen? 
+
+Dafür müssen Sie sichtbar werden. „Zeig’ dich!“ ist die Devise – aber bitte professionell. Bevor der erste Klient oder die erste Klientin also die eigene Praxis betritt, gibt es zahlreiche Schritte, die es für eine erfolgreiche und vor allem professionelle Gründung braucht. Und das sind gar nicht wenige.
+
+{{% silvia %}}
 
 {{% /floatbox %}}
 

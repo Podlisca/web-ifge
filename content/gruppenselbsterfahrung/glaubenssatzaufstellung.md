@@ -11,13 +11,13 @@ weight: 4
 
 # NEUE WIRKSAME REALITÄTEN ERSCHAFFEN
 {{< slogan >}}
-{{< line icon="icon/aufstellung.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
 {{% floatbox %}}
 
 ## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG NACH BERT HELLINGER
 
-{{< image src="/img/img1.jpg" float="left">}}
+{{< image src="/img/glaubenssatz1.jpg" float="left">}}
 
 Während es in der klassischen Familienaufstellung nach Bert Hellinger vor allem darum geht, die eigenen destruktiven Muster zu erkennen und Verständnis für die persönliche Familiengeschichte – also das eigene Herkunftssystem – zu entwickeln, damit es schließlich für Sie gut weitergehen kann, arbeite ich in der Glaubenssatz-Aufstellung vorrangig gegenwartsbezogen. 
 
@@ -39,9 +39,9 @@ Ein bekannter Lösungssatz in der klassischen Familienaufstellung ist die Bitte 
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/aufstellung.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/glaubenssatz2.jpg" float="right" title="Bildbeschreibung" >}}
 
 Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie? Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, keine einfache Umkehr darstellt, sondern viel eher eine wirksame neue Realität entsteht!
 
@@ -53,7 +53,7 @@ Die systemischen Glaubenssatz-Aufstellungen am IFGE werden dabei von unseren Ins
 {{% small  %}}
 ## WIE GELINGEN NEUE REALITÄTEN – IM EINKLANG MIT DER HERKUNFT?
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/glaubenssatz3.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein praktisches Beispiel für den Unterschied zwischen einfacher Umkehr und kraftvoller neuer Realität zeigt das Anliegen von Klientinnen, die das Gefühl haben, immer wieder zu scheitern. 
 
@@ -67,9 +67,9 @@ Diese könnte dann – bezugnehmend auf das, was für meine Klientinnen im Leben
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/aufstellung.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/glaubenssatz4.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Gleichzeitig ist es essenziell, im Blick zu behalten, wo Ihre bisherige Realität für Sie in der Vergangenheit dienlich war, um anzuerkennen, was für Sie und Ihr System bis heute wichtig gewesen ist. So entsteht auch bei den Familienmitgliedern ein Blick für den Gewinn, den es ihrem System bringt, wenn die Klientin genug Geld hat. 
 
