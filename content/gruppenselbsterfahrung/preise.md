@@ -4,7 +4,7 @@ menu:
     main:
         parent: gruppenselbsterfahrung
         identifier: preise
-draft: true
+draft: false
 weight: 7
 ---
 

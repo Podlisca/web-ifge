@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_tiergestuetzt
         identifier: tiergestuetzt_termine
-draft: true
+draft: false
 weight: 3
 ---
 
@@ -61,7 +61,7 @@ Prüfungstag von 09:00 bis 16:00 Uhr<br/>
 
 Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [ANMELDEN](www.ifge.at)
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [ANMELDEN](https://www.ifge.at)
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.

@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: team
-draft: true
+draft: false
 weight: 3
 ---
 

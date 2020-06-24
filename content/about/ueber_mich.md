@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: ueber_mich
-draft: true
+draft: false
 weight: 1
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: online_grundlagen
-draft: true
+draft: false
 weight: 2
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -54,8 +54,8 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
-* [Susanna Kundics](www.ifge.at)
-* [Stefanie Jäger](www.ifge.at)
-* [Bettina Schermann](www.ifge.at)
+* [Susanna Kundics](https://www.ifge.at)
+* [Stefanie Jäger](https://www.ifge.at)
+* [Bettina Schermann](https://www.ifge.at)
 
 

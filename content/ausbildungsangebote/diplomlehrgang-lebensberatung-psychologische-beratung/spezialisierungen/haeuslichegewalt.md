@@ -3,7 +3,7 @@ title: "Häusliche Gewalt"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Häusliche Gewalt

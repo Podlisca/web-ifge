@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: referenten
-draft: true
+draft: false
 weight: 4
 ---
 

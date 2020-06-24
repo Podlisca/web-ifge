@@ -4,7 +4,7 @@ menu:
     main:
         parent: politik
         identifier: politik_rechtliches
-draft: true
+draft: false
 weight: 4
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: fitandsafe
         identifier: fitandsafe_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

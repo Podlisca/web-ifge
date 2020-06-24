@@ -3,7 +3,7 @@ title: "Onlinephilosophie und Kursangebote"
 menu: 
     main:
         parent: "online"
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -65,7 +65,7 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
 * [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
-* [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
+* [Umgang mit sexueller Belästigung & Stalking](https://www.ifge.at)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
 * [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/umgang_love_scamming.html)

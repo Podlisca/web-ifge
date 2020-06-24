@@ -4,7 +4,7 @@ menu:
     main:
         parent: zeig_dich
         identifier: zeig_dich_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

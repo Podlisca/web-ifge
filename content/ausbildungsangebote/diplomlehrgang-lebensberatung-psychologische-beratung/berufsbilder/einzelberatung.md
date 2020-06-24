@@ -3,7 +3,7 @@ title: "Lebensberatung - psychologische Beratung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Lebensberatung und Sozialberatung
@@ -26,11 +26,11 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 {{% /large %}}
 {{% /box %}}
 
-Am [IFGE](www.ifge.at) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
+Am [IFGE](https://www.ifge.at) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
 
 {{% box %}}
 {{% large %}}
-Professionelle Beratung bedeutet, dass Ihnen weder Lösungen aufgezwungen, noch Sie in bestimmte Richtungen dirigiert werden. In der psychologischen Beratung geht es auch nicht darum, möglicherweise bereits gescheiterte Lösungsversuche zu wiederholen. Viel eher beschäftigen Sie sich in einem vertrauensvollen Rahmen mit neuen Lösungswegen, die oft so überraschend klar, einfach, leicht und umsetzbar sind, dass Sie diese in vielen Fällen innerlich schmunzeln lassen und immer groß machen. Auch wenn Sie Ihre persönliche Lösung aktuell noch nicht finden können und vielleicht schon einige Um- oder Irrwege hinter sich oder fast schon das Vertrauen in sich verloren haben, sind solche Lösungen möglich! Und Sie wissen – tief in sich – am allerbesten, was für Sie persönlich in Ihrem Leben wichtig ist. Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](www.ifge.at) in der Beratung lesen.
+Professionelle Beratung bedeutet, dass Ihnen weder Lösungen aufgezwungen, noch Sie in bestimmte Richtungen dirigiert werden. In der psychologischen Beratung geht es auch nicht darum, möglicherweise bereits gescheiterte Lösungsversuche zu wiederholen. Viel eher beschäftigen Sie sich in einem vertrauensvollen Rahmen mit neuen Lösungswegen, die oft so überraschend klar, einfach, leicht und umsetzbar sind, dass Sie diese in vielen Fällen innerlich schmunzeln lassen und immer groß machen. Auch wenn Sie Ihre persönliche Lösung aktuell noch nicht finden können und vielleicht schon einige Um- oder Irrwege hinter sich oder fast schon das Vertrauen in sich verloren haben, sind solche Lösungen möglich! Und Sie wissen – tief in sich – am allerbesten, was für Sie persönlich in Ihrem Leben wichtig ist. Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://www.ifge.at) in der Beratung lesen.
 {{% /large %}}
 {{% small  %}}
 {{< image src="/img/img1.jpg" title="Bildbeschreibung" >}}

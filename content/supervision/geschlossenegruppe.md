@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "geschlossenegruppe"
-draft: true
+draft: false
 weight: 3
 ---
 
@@ -79,7 +79,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 01.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 
 {{% small  %}}
@@ -104,7 +104,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 15.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 
 {{% small  %}}
@@ -129,7 +129,7 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 08.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
@@ -154,7 +154,7 @@ Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 22.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](www.ifge.at)
+[Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 {{% /box %}}
 

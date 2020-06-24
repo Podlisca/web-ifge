@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_systembrett
-draft: true
+draft: false
 weight: 6
 ---
 
@@ -17,17 +17,17 @@ weight: 6
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/systembrett_2.jpg" title="Bildbeschreibung" float="left" >}}
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](www.ifge.at)).
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](https://www.ifge.at)).
 
-Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in [Gruppenseminaren](www.ifge.at) gesammelt haben.
+Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in [Gruppenseminaren](https://www.ifge.at) gesammelt haben.
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](www.ifge.at) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](www.ifge.at)  erworben und gefestigt werden.
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](https://www.ifge.at) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](https://www.ifge.at)  erworben und gefestigt werden.
 
 
 
-Diese Systembrett-Fortbildung eignet sich ebenso dazu, zusätzlich zum klassischen [Aufstellungsupgrade](www.ifge.at) auch noch Fach-Expertise in einem weiteren systemischen Bereich – speziell für [Beratungen im Einzelsetting(www.ifge.at)] – zu sammeln.
+Diese Systembrett-Fortbildung eignet sich ebenso dazu, zusätzlich zum klassischen [Aufstellungsupgrade](https://www.ifge.at) auch noch Fach-Expertise in einem weiteren systemischen Bereich – speziell für [Beratungen im Einzelsetting(https://www.ifge.at)] – zu sammeln.
 
 {{% /floatbox %}}
 
@@ -46,7 +46,9 @@ Diese Systembrett-Fortbildung eignet sich ebenso dazu, zusätzlich zum klassisch
 
 {{% box %}}
 {{< card icon="/icon/bildung_schwarz.png" title="WELCHE INHALTE BIETET DAS UPGRADE ZUR AUFSTELLUNG AM SYSTEMBRETT?" text="Das Upgrade bietet wesentliche Inhalte, welche die psychologisch-systemische Arbeit im Einzelsetting deutlich erleichtert. Neben der Methode des inneren Bildes und der bekannten Zettelarbeit ist die Technik der Aufstellungsarbeit am Systembrett für viele Klient\*innen die eindrucksvollste. Immerhin können – ähnlich wie in der Gruppenaufstellung – Dynamiken und Bewegungen im Außen sichtbar gemacht und dadurch erweitert wahrgenommen werden. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Teilnehmer\*innen dieses Upgrades arbeiten demnach idealerweise bereits mit eigenen Klient\*innen, um Fälle vorstellen und supervidieren lassen zu können. Am IFGE geht es nicht nur darum, dass Sie herzlich, professionell und wertschätzend dabei unterstütz werden, Ihr gesamtes Potenzial in der systemischen Beratungstätigkeit auszuschöpfen, sondern in der Ausbildung selbst wird ebenso aus dem Vollen geschöpft: Neben den beiden verschiedenen Systembrett-Varianten steht Ihnen ein unvergleichlicher Fundus an völlig unterschiedlichen Stellvertreterimagen zur Verfügung. Anhand dieser bekommen Sie ein Gefühl dafür, mit welchen Formen oder imagen Sie sich wohl fühlen und mit welchen davon Sie in Zukunft vielleicht – vermehrt – arbeiten wollen." >}}
+
 {{< card icon="/icon/fachwissen.png" title="JAHRZEHNTE LANGE ERFAHRUNG TRIFFT AUF FACHLICHES TOP-NIVEAU" text="Dank des über 20 Jahre intensiv geschulten systemischen Blicks von Institutsleiterin Silvia Podlisca, die alle Module dieses Upgrades persönlich unterrichtet, erhalten Sie hinsichtlich Ihrer Fälle sowie eigener Aufstellungsarbeiten nicht nur neue systemische Sichtweisen. Sondern Sie lernen gleichzeitig, wie Sie die Methode der unterschiedlichen Systembretter zieldienlich für Ihre Klient\*innen einsetzen. Das fachliche Niveau des Upgrades bietet auch für langjährig in der Aufstellungsarbeit tätige psychologische Berater\*innen und Psychotherapeut\*innen neue Anreize. Durch diese gehaltvollen systemischen Fachinputs wird vorhandenes Wissen gefestigt und um neueste Erkenntnisse sowie um eigens entwickelte Aufstellungs-Methoden erweitert. Fertige Teilnehmer\*innen können nach Beendigung der Zusatzausbildung auf einen fachlichen System-Methodenkoffer der Spitzenklasse zurückgreifen und diesen zieldienlich in Einzelsettings einsetzen. Gleichzeitig erlauben die gelehrten neuen Inhalte, auch die eigene Aufstellungsarbeit in der Gruppe weiterzuentwickeln." >}}
+
 {{% /box %}}
 
 

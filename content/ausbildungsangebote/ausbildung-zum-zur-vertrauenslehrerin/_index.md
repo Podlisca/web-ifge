@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: vertrauenslehrer
-draft: true
+draft: false
 weight: 8
 ---
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_sexualberatung
         identifier: sexualberatung_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

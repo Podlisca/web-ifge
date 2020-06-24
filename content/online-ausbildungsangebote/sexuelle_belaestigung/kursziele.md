@@ -4,7 +4,7 @@ menu:
     main:
         parent: sexundstalking
         identifier: sexundstalking_ziele
-draft: true
+draft: false
 weight: 1
 ---
 

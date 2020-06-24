@@ -3,7 +3,7 @@ title: "Angehörige von Süchtigen"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Angehörige von Süchtigen

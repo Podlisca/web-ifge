@@ -3,7 +3,7 @@ title: "Opferberatung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 # Opferberatung
 {{< slogan >}}

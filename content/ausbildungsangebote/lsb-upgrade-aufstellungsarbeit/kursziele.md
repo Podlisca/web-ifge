@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_aufstellungsarbeit
         identifier: upgrade_aufstellungsarbeit_ziele
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -62,7 +62,7 @@ Der Unterricht besteht zu einem hohen Anteil aus vielen praktischen Übungseinhe
 
 ## Warum den Lehrgang am IFGE besuchen
 
-Dank unserer jahrelangen Erfahrung in der [systemischen Aufstellungsarbeit](/gruppenselbsterfahrung/familienaufstellung.html) sowie im Unterrichten dieser Methode, sammeln Sie am IFGE rasch praktische Erfahrung und erhalten einen umfassenden Überblick über besonders wirksame Interventionsmöglichkeiten. So liegt der Schwerpunkt der Fortbildung auf der klassischen Familienaufstellung von Bert Hellinger, deren Dynamiken, Regeln und Lösungssätze Sie im Zuge der Ausbildung verinnerlichen werden. Gleichsam werden auch weitere relevante Strömungen der Systemik in die Fortbildung eingebaut, damit Sie durch einen umfassenden Methoden-Mix Ihre Klient\innen optimal beraten können. Sie erlernen beispielsweise ebenso [hypnosystemische Methoden](www.ifge.at, wie die [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html).
+Dank unserer jahrelangen Erfahrung in der [systemischen Aufstellungsarbeit](/gruppenselbsterfahrung/familienaufstellung.html) sowie im Unterrichten dieser Methode, sammeln Sie am IFGE rasch praktische Erfahrung und erhalten einen umfassenden Überblick über besonders wirksame Interventionsmöglichkeiten. So liegt der Schwerpunkt der Fortbildung auf der klassischen Familienaufstellung von Bert Hellinger, deren Dynamiken, Regeln und Lösungssätze Sie im Zuge der Ausbildung verinnerlichen werden. Gleichsam werden auch weitere relevante Strömungen der Systemik in die Fortbildung eingebaut, damit Sie durch einen umfassenden Methoden-Mix Ihre Klient\innen optimal beraten können. Sie erlernen beispielsweise ebenso [hypnosystemische Methoden](https://www.ifge.at, wie die [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html).
 
 {{% box blue=1 %}}
 {{% small  %}}

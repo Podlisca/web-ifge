@@ -3,7 +3,7 @@ title: "Angehörige von Kranken"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Angehörige von kranken Menschen

@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_supervision
         identifier: supervision_rechtliches
-draft: true
+draft: false
 weight: 4
 ---
 

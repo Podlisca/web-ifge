@@ -3,7 +3,7 @@ title: "Sexualberatung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Sexualberatung
@@ -85,4 +85,4 @@ Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch a
 
 Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl. Lebens- und Sozialberater*in. Sollten Sie sich für diese Ausbildung interessieren, folgen Sie dem angeführten Link.
 
-[www.ifge.at/ausbildungsangebote/dipl-lebens-und-sozialberaterin/](www.ifge.at)
+[www.ifge.at/ausbildungsangebote/dipl-lebens-und-sozialberaterin/](https://www.ifge.at)

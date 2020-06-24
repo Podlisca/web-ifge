@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_tiergestuetzt
         identifier: tiergestuetzt_rechtliches
-draft: true
+draft: false
 weight: 4
 ---
 

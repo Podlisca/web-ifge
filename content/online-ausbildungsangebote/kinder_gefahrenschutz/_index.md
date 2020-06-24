@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: kinder_gefahrenschutz
-draft: true
+draft: false
 weight: 7
 ---
 
