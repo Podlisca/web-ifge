@@ -12,7 +12,7 @@ weight: 5
 
 {{< slogan >}}
 
-***
+{{< line icon="icon/absolvent.png" >}}
 
 Seit dem Beginn des ersten Lehrganges im Jahr 2012 hat mittlerweile eine Vielzahl an Schüler\*innen die Ausbildung zum/zur [Dipl. Lebens- und Sozialberater\*in – psychologischen Berater\*in](www.ifge.at) mit Erfolg abgeschlossen.
 

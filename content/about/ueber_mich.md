@@ -17,7 +17,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_podlisca.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/das_institut.jpg" float="left" title="Bildbeschreibung" >}}
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 

@@ -23,25 +23,10 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
-{{% box %}}
-{{% small  %}}
-
-## Informationsveranstaltung
-
-
-Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
-
-Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
-
-**Jetzt persönliches Infogespräch unter: +43 676 610 89 36 oder silvia.podlisca@ifge.at vereinbaren!**
-
-{{% /small  %}}
-{{% /box %}}
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-{{% box blue=1 %}}
+{{% box %}}
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
