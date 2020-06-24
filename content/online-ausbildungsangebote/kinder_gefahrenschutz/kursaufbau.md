@@ -21,13 +21,12 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/gefahr_internet.png" >}}
 
 
 ## AUFBAU DES LEHRGANGS 
 6 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
 
-### Seminarinhalte
 
 {{< line icon="icon/test.png" >}}
 

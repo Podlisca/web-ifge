@@ -32,5 +32,6 @@ Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden T
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/diplomlehrgang.png" >}}
+***
+
 

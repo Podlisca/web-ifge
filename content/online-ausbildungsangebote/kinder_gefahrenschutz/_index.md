@@ -13,16 +13,17 @@ weight: 7
 
 {{< slogan >}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/gefahr_internet.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}}
+{{< image src="/img/kinder_schuetzen.jpg" float="left " >}}
 
 Vermutlich hat sich noch jede Generation darüber aufgeregt, dass die nachfolgende um vieles schlimmer, frecher und rücksichtsloser sei als die eigene. Diese Wahrnehmung hat sich wohl schon seit Jahrhunderten nicht mehr verändert. Doch es gibt eine erst kürzlich entstandene Herausforderung, welche die heutige Elternschaft mit sich bringt, die neben dieser Konstante tatsächlich eine absolute Neuerung in Erziehungsfragen darstellt: Wussten unsere Eltern und Großeltern in den meisten Fällen noch, was sie sich darunter vorzustellen hatten, wenn ihre Söhne und Töchter die Nacht in der Disco verbrachten, so führt der blitzschnelle Trendwandel der aktuellen Zeit dazu, dass heutigen Eltern vielfach eben jene Vorstellung von dem Treiben ihrer Kinder fehlt.
 
 Denn durch die rasante digitale Entwicklung der letzten Jahre stehen viele Eltern heute erstmals vor der Situation, dass sie die virtuellen Räume, in denen sich ihre Kinder bewegen, schlicht nicht mehr kennen. Kein Wunder: Hat man sich gerade erst erfolgreich mit Facebook auseinandergesetzt, hört man zum ersten Mal von SnapChat, wenn das unter den Kids schon wieder out ist. Hier ist eine Sorge vieler Eltern oftmals sehr zentral: „Wie soll ich mein Kind vor einer Welt beschützen, die ich selbst nicht einmal kenne?“
 
+{{% silvia %}}
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -35,7 +36,7 @@ Denn durch die rasante digitale Entwicklung der letzten Jahre stehen viele Elter
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/gefahr_internet.png" >}}
 
 {{% floatbox %}}
 

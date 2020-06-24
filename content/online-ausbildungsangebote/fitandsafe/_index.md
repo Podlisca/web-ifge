@@ -13,11 +13,11 @@ weight: 7
 
 {{< slogan >}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/spass_internet.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}}
+{{< image src="/img/fit_safe_maedchen.jpg" float="left " >}}
 
 Ganz sicher Spaß haben? Ganz SICHER Spaß haben! Das ist das Ziel des spannenden, interaktiven und kurzweiligen Online-Workshops „Fit and safe“, der ganz speziell auf Mädchen und junge Frauen zugeschnitten ist. Denn obwohl auf dem Weg ins Erwachsenenleben so manche brenzlige Situation auf dich warten kann, so sollten deine Teeny-Jahre doch eine besondere Zeit der Ausgelassenheit, Unbeschwertheit und Fröhlichkeit sein dürfen.
 
@@ -37,15 +37,11 @@ Im Workshop „Fit and safe – ganz sicher Spaß haben“ geht es dabei aber ke
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/spass_internet.png" >}}
 
 {{% floatbox %}}
 
 ## WISSEN MACHT STARK UND UNABHÄNGIG: FÜR ALLE FRAGEN VIEL PLATZ
 
-Abgesehen von einem rechtlichen Rahmen wirst du in unserem Workshop keinerlei Verbote hören. Was du nicht SOLLST, wird dir ja immer wieder gesagt. Viel eher möchten wir dir in „Fit and safe“ die Möglichkeit geben, alle Fragen zur digitalen und zur Partywelt zu stellen. Genau die Fragen, die du zu Hause vielleicht nicht stellen möchtest, um deine Eltern nicht zu beunruhigen. In unserem Workshop ist Platz für alle Themen, die dich bewegen und die dir auf der Zunge brennen: Vom Versenden von (sexy) Fotos über K.-Tropfen und Trends sowie Mutproben bis hin zum Fortgehen und zu Drogen. Gleichzeitig kannst dich darauf verlassen, dass alle deine Fragen vertraulich behandelt werden. Nichts von dem, was du wissen willst, dringt nach draußen und wir versprechen dir: Die Antworten werden ehrlich sein.
-
-Denn am IFGE vertreten wir die Auffassung: Wissen macht stark, unabhängig und damit sicher. Wer sich sicher fühlt, strahlt auch Sicherheit aus. Und die darf immer oberste Priorität haben – auch wenn es ums Spaßhaben geht.
-
-
+Abgesehen von einem rechtlichen Rahmen wirst du in unserem Workshop keinerlei Verbote hören. Was du nicht SOLLST, wird dir ja immer wieder gesagt. Viel eher möchten wir dir in „Fit and safe“ die Möglichkeit geben, alle Fragen zur digitalen und zur Partywelt zu stellen. Genau die Fragen, die du zu Hause vielleicht nicht stellen möchtest, um deine Eltern nicht zu beunruhigen. 
 {{% /floatbox %}}

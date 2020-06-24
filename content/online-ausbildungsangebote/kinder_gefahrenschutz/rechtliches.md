@@ -30,6 +30,8 @@ weight: 4
 
 * Diese Ausbildung ist für alle offen
 
+Das Seminar „Große weite Welt – Kinder vor Gefahren (im Netz) schützen“ eignet sich nicht nur für Eltern, sondern kann auch für Betreuer\*innen von Jugendgruppen oder Lehrer\*innen wesentlichen neuen Input liefern.
+
 {{< line icon="icon/test.png" >}}
 
 {{% box blue=1 %}}

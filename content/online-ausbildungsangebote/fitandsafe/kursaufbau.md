@@ -21,24 +21,11 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/spass_internet.png" >}}
 
 
 ## AUFBAU DES LEHRGANGS 
 6 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
-
-### Seminarinhalte
-#### TOTALEN WEITBLICK – WAS LIEGT DAHINTER? 
-Wie du dich am besten auf Instagram in Szene setzt, welche Tutorial-Themen auf YouTube gerade angesagt sind und welche Emojis welche Bedeutungen haben, das wissen du und deine Freundinnen längst. In welchem Outfit und zu welcher Musik Partys besonders viel Spaß machen, weißt du auch. In unserem Workshop erfährst du allerdings, was hinter der glitzernden und lustigen Fassade liegen kann. Dazu gehört spannendes Wissen rund um:
-
-* Zahlen, Daten und Fakten zu Problemen, die durch ein zu sorgloses Verhalten im Netz entstehen können.
-* Wer sind die Menschen, die es auf die Unwissenheit junger Frauen abgesehen haben?
-* Welche digitalen Trends und welche Mutproben in Schule und in der Freizeit gibt es eigentlich? Welche davon kannst du bedenkenlos genießen und wo braucht es deine Aufmerksamkeit?
-* Welche rechtlichen Probleme können auf dich oder deine Eltern zukommen, wenn du bestimmte Handlungen setzt?
-* Wie anonym ist die Anonymität des Internets wirklich?
-* Was genau fällt unter Cybermobbing? Welche Leute stecken dahinter? Wer ist betroffen und was solltest du dabei beachten?
-* Worauf musst du beim Fortgehen aufpassen?
-* Wie erkennst du K.O.-Tropfen und wie wirken sie?
 
 {{< line icon="icon/test.png" >}}
 
