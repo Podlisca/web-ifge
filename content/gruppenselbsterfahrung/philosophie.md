@@ -10,7 +10,7 @@ weight: 2
 
 # Philosophie
 {{< slogan >}}
-{{< line icon="/icon/gruppenselbsterfahrung_tuerkis.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
 ## SILVIA PODLISCA
 
