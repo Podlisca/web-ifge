@@ -12,6 +12,21 @@ weight: 1
 
 {{< slogan >}}
 
+{{< line icon="icon/zitat.png" >}}
+
+## VERMITTLUNG VON JAHRZEHNTELANGER ERFAHRUNG IN DER KÖRPERARBEIT
+
+{{% floatbox %}}
+{{< image src="/img/grundlagen_psychosomatik_ziel.jpg" float="left">}}
+
+Die fachlichen Inhalte verbinden teils uraltes, traditionelles Heilwissen aus allen Teilen der Welt mit evidenzbasierten Informationen aus der modernen Anatomie und Medizin. In dieser digitalen Ausbildung profitieren Sie von meine jahrzehntelanger, praktischer Erfahrung in der körperorientierten Behandlung. Die Vermittlung von medizinischem Fachwissen hat dabei am IFGE langjährige Tradition. So wurde bereits im Jahr 2006 damit begonnen, körperorientierte Methoden – wie beispielsweise die professionelle Anwendung der Klangschalenmassage oder die Arbeit „Touch of health“ – am Institut für ganzheitliches Erleben zu unterrichten.
+
+Sowohl die Unterrichtstechnik als auch die Vermittlung von Fachwissen hat sich seither konstant weiterentwickelt, so dass Sie von einer digitalen Fortbildung auf höchstem Niveau im ganzheitlichen, psychosomatischen Bereich profitieren.
+
+{{% silvia %}}
+
+{{% /floatbox %}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
@@ -22,7 +37,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/psychosomatik.png" >}}
 
 ## GANZHEITLICHE GESUNDHEIT: EIN STREIFZUG DURCH DIE VERSCHIEDENEN METHODEN
 
