@@ -15,7 +15,9 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} Das Ziel dieser Zusatzausbildung ist es, Sie optimal auf die systemische Arbeit vorzubereiten. Sie erhalten ein Tool, welches Ihnen ermöglicht, eine besondere Tiefe im KlientInnen-Prozess zu erreichen. Neben der klassischen Familienaufstellung nach Hellinger, die in Gruppen geleitet wird, erlernen Sie in unserem Upgrade jedoch auch vielfältige Möglichkeiten, diese Methode im Einzelsetting anzuwenden.
+{{< image src="/img/kursziel_1.jpg" float="left">}}
+
+Das Ziel dieser Zusatzausbildung ist es, Sie optimal auf die systemische Arbeit vorzubereiten. Sie erhalten ein Tool, welches Ihnen ermöglicht, eine besondere Tiefe im KlientInnen-Prozess zu erreichen. Neben der klassischen Familienaufstellung nach Hellinger, die in Gruppen geleitet wird, erlernen Sie in unserem Upgrade jedoch auch vielfältige Möglichkeiten, diese Methode im Einzelsetting anzuwenden.
 
 {{% /floatbox %}}
 

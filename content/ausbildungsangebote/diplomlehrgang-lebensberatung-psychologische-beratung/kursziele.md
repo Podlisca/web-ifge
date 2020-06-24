@@ -14,7 +14,9 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
+{{< image src="/img/kursziel_1.jpg" float="left">}} 
+
+Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
 
 Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. [Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
 
@@ -40,9 +42,13 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_2.jpg" float="right">}} Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb.html) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html), [Krisenintervention](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/krisenberatung.html) und [Sexualberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualberatung.html), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
+{{< image src="/img/kursziel_2.jpg" float="right">}}
 
-{{< image src="/img/kursziel_3.jpg" float="right">}} Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
+Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb.html) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html), [Krisenintervention](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/krisenberatung.html) und [Sexualberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualberatung.html), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
+
+{{< image src="/img/kursziel_3.jpg" float="right">}}
+
+Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
 
 Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
 
