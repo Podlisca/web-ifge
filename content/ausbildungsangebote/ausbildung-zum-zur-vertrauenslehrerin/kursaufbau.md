@@ -14,6 +14,7 @@ weight: 1
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% iconmenu %}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
 {{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
@@ -22,7 +23,7 @@ weight: 1
 
 ***
 
-#### AUFBAU DES LEHRGANGS 
+## AUFBAU DES LEHRGANGS 
 100 Ausbildungsstunden mit mind. 8 und **max. 12 Teilnehmer\*innen**
 
 Eine überschaubare Zahl an Teilnehmer\*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
