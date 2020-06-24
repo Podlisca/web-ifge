@@ -12,19 +12,23 @@ draft: true
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit.
 
-Ängste und Hemmungen, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, belastende Vorlieben oder Neigungen sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
+Ängste und Hemmungen, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, belastende Vorlieben oder Neigungen sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. 
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
 
-Mein besonderes Augenmerk in der Sexualberatung richte ich dabei seit Jahren ebenso auf Teilbereiche der Sexualität, die von Betroffenen oftmals als besonders belastend erlebt werden, die jedoch trotzdem häufig an den Rand des gesellschaftlichen Bewusstseins gedrängt werden. Dazu gehören etwa die zahlreichen Diskrepanzen, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. Sexualität im Alter findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
+{{< image src="/img/sexualberatung_2.jpg" float="right" title="Bildbeschreibung" >}}
+
+Mein besonderes Augenmerk in der Sexualberatung richte ich dabei seit Jahren ebenso auf Teilbereiche der Sexualität, die von Betroffenen oftmals als besonders belastend erlebt werden, die jedoch trotzdem häufig an den Rand des gesellschaftlichen Bewusstseins gedrängt werden. 
+
+Dazu gehören etwa die zahlreichen Diskrepanzen, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. Sexualität im Alter findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
 
 Gerade wenn es um spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geht, fragen sich viele Menschen, ob Ihr Denken und Handeln „noch normal“ ist. Am IFGE vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für belebende sexuelle Höhenflüge sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_3.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein weiterer wichtiger Teil der Sexualberatung findet leider auch bei professionellen Berater*innen wenig bewusste Beachtung: Der Umgang mit belastenden Phantasien und Wünschen. Die Angst, die eigenen Phantasien nicht unter Kontrolle zu haben und vielleicht sogar zum Täter / Stalker zu werden, kann das eigene sexuelle Erleben empfindlich belasten. 
 
@@ -67,15 +71,15 @@ Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch a
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/img1.jpg" title="Verhütungsmethoden im Überblick: vom Kondom über Vaginalring, Antibabypille, Hormonpflaster u.v.m." >}}
+{{< image src="/img/verhuetungskoffer_1.jpg" title="Verhütungsmethoden im Überblick: vom Kondom über Vaginalring, Antibabypille, Hormonpflaster u.v.m." >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/img1.jpg" title="Das Anschauungsmaterial bietet eine Übersicht über die verschiedenen hormonellen, natürlichen, mechanischen etc. Alternativen." >}}
+{{< image src="/img/verhuetungskoffer_2.jpg" title="Das Anschauungsmaterial bietet eine Übersicht über die verschiedenen hormonellen, natürlichen, mechanischen etc. Alternativen." >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/img1.jpg" title="Hier lernst Du den richtigen Gebrauch mit Kondomen." >}}
+{{< image src="/img/verhuetungskoffer_3.jpg" title="Hier lernst Du den richtigen Gebrauch mit Kondomen." >}}
 {{% /small  %}}
 {{% /box %}}
 
