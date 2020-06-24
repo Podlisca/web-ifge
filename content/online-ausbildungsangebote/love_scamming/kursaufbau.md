@@ -11,6 +11,8 @@ weight: 1
 # ONLINE Ausbildung: 
 # Umgang mit Love Scamming
 
+{{< slogan >}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
@@ -21,8 +23,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
-
+{{< line icon="icon/love_scamming.png" >}}
 
 ## AUFBAU DES LEHRGANGS 
 6 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
