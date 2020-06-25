@@ -3,6 +3,7 @@ title: "Seinen Platz in der Familie finden - über die Wirkung des Familienstell
 draft: false
 tags: []
 weight: 91
+img: "blog_familienstellen.jpg"
 ---
 
 Seinen Platz in der Familie finden - über die Wirkung des Familienstellens

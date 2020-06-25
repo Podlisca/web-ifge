@@ -3,6 +3,7 @@ title: "Lehrer*innen an ihren Grenzen: Welche Spuren Corona in den Kinderseelen 
 draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 100
+img: "blog_corona.jpg"
 ---
 
 Der Lehrer\*innen-Beruf steht verhältnismäßig weit oben in der Risikorangliste der Burn-out-Jobs. Ein psychisch ohnehin bereist sehr fordernder Berufsalltags in der Schule hat sich nach Corona noch einmal deutlich verändert. Was das für Pädagog*innen bedeutet und womit sie jetzt vermehrt konfrontiert sein werden.
