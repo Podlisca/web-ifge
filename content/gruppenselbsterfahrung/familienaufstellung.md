@@ -60,7 +60,7 @@ Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sic
 {{% small  %}}
 Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
-{{< image src="/img/familienaufstellung_3.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/familienaufstellung_3.jpg" float="left" title="Bildbeschreibung" format="hoch" >}} 
 
 Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig.
 
