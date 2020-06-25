@@ -16,7 +16,7 @@ weight: 3
 
 ## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG NACH BERT HELLINGER
 
-{{< image src="/img/img1.jpg" float="left">}}
+{{< image src="/img/familienaufstellung_1.jpg" float="left">}}
 
 Systemische Beratung kann sowohl in Einzelsitzungen, als auch in Form von Gruppenseminaren die Lösung für die Probleme in den verschiedensten Lebenssituationen darstellen.
 
@@ -44,7 +44,7 @@ Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum ver
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/familienaufstellung_2.jpg" float="right" title="Bildbeschreibung" >}}
 
 Nur wenn jeder das gleiche Recht hat, dazuzugehören -- frei von Wertung und der Überheblichkeit, sich besser oder größer als eine ausgeschlossene oder ungeliebte Person zu fühlen –, empfindet sich die Sippe vollständig und in der sogenannten Familienseele kehrt Einklang und Frieden ein. 
 
@@ -60,9 +60,9 @@ Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sic
 {{% small  %}}
 Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/familienaufstellung_3.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig. 
+Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig.
 
 Durch diese kindliche Liebe in uns und dem damit verbundenen Wunsch, zu helfen, ist es häufig schwierig, sich alleine aus solchen Verstrickungen zu befreien. 
 
@@ -75,7 +75,7 @@ Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Al
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/familienaufstellung_4.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Erweitert wurde diese Arbeit durch die sogenannten "Bewegungen der Seele" und den "Bewegungen des Geistes". Dabei wird in einer wortlosen Sequenz ohne Eingriffe des Beraters/der Beraterin die tiefe Verbundenheit zwischen den Personen erkennbar. Erst wenn ge­se­hen, ge­hört und an­er­kannt wird, was in der Größe der Fa­mi­li­en­see­le wirkt, kön­nen Lö­sun­gen be­gin­nen.
 
