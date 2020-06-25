@@ -8,18 +8,6 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{< slogan >}}
 
-{{< line icon="icon/silvia.png" >}}
-
-{{% center %}}
-**Liebe Besucher,** <br/>
-
-**unsere Seite befindet sich im Umbau, weshalb noch nicht der gewohnte Inhalt vorhanden ist.**
-
-**Wir bitten um Verständnis.**
-
-{{< silvia >}}
-{{% /center %}}
-
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
