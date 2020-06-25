@@ -16,7 +16,7 @@ weight: 5
 
 {{% floatbox %}}
 
-{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/supervisionswoche.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 

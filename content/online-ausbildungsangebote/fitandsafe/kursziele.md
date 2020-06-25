@@ -17,7 +17,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/kursziel_fit_safe_maedchen.jpg" float="left">}} 
 
 
 In unserem Workshop ist Platz für alle Themen, die dich bewegen und die dir auf der Zunge brennen: Vom Versenden von (sexy) Fotos über K.-Tropfen und Trends sowie Mutproben bis hin zum Fortgehen und zu Drogen. Gleichzeitig kannst dich darauf verlassen, dass alle deine Fragen vertraulich behandelt werden. Nichts von dem, was du wissen willst, dringt nach draußen und wir versprechen dir: Die Antworten werden ehrlich sein.

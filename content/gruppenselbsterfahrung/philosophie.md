@@ -16,7 +16,7 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/philo_gse.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden ...
 
@@ -43,7 +43,7 @@ Aus genau diesem Grund vereine ich am IFGE die verschiedenen Ebenen wie Intuitio
 
 Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualitative Philosophie des IFGE finden Sie mittlerweile an **drei Standorten: in Wien, im Burgenland und in Niederösterreich**. Sowohl am Hauptstandort in Wien als auch in den Niederlassungen in Pinkafeld und St. Pölten wird diese Haltung von mir als Institutsleiterin und Hauptreferentin sowie von meinen sorgfältig ausgewählten und geschulten Referent\*innen gelebt. 
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/supervisionswoche.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
 
@@ -66,7 +66,7 @@ Durch die bewusste Gesprächsführung werden belastenden Situationen aufgearbeit
 
 ***
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/kursziel_vertrauenslehrer.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Durch meine umfassenden Ausbildungen in der Energetik sowie in der klassischen Lebensberatung ist es mir möglich, ganz individuell auf jede Klient*in einzugehen. Sowohl als Seminarleiterin als auch als psychologische Beraterin und Supervisorin fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden. Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Die Lösungen, welche gefunden/erfunden werden, zeichnen sich durch Klarheit, Einfachheit und Leichtigkeit aus und lassen sich mit Freude in Ihren Alltag integrieren.
 

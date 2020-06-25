@@ -15,9 +15,13 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/vertrauenslehrer_ziel.jpg" float="left">}} 
 
-In unserer 100 Stunden umfassenden Ausbildung lernen Sie, Konflikte gar nicht erst entstehen zu lassen. Dies ist insofern von zentraler Bedeutung, als dass gerade unterschwellige, schwelende Konfliktherde heimlich zerstörerisch wirken können. Gleichzeitig erhalten Sie umfangreiches Wissen darüber, wie Sie Lösungen für verschiedenste Arten von Konflikten finden, die für alle Beteiligten passend sind und erlernen, wie Sie Konfliktherde langfristig vermeiden, sie auflösen und letztlich in ein konstruktives Miteinander umwandeln.
+In unserer 100 Stunden umfassenden Ausbildung lernen Sie, Konflikte gar nicht erst entstehen zu lassen. Dies ist insofern von zentraler Bedeutung, als dass gerade unterschwellige, schwelende Konfliktherde heimlich zerstörerisch wirken können. 
+
+Gleichzeitig erhalten Sie umfangreiches Wissen darüber, wie Sie Lösungen für verschiedenste Arten von Konflikten finden, die für alle Beteiligten passend sind und erlernen, wie Sie Konfliktherde langfristig vermeiden, sie auflösen und letztlich in ein konstruktives Miteinander umwandeln.
+
+{{% silvia %}}
 
 {{% /floatbox %}}
 

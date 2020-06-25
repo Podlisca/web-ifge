@@ -17,7 +17,7 @@ weight: 5
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}}
+{{< image src="/img/umgang_sex_belaestigung.jpg" float="left " >}}
 
 Erinnern Sie sich noch daran, dass die Gesetzesänderung aus dem Jahr 2016, in der das unerwünschte Berühren von Oberschenkeln und Gesäß strafrechtlich erfasst wurde, unter dem lapidaren Namen „Pograpsch-Paragraph“ bekannt wurde? Haben Sie auch oft rollende Augen bemerkt, wenn es um #metoo in der öffentlichen Wahrnehmung gegangen ist?
 

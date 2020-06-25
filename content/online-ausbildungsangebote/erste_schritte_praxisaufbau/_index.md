@@ -17,7 +17,7 @@ weight: 9
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_start.jpg" float="left " >}}
+{{< image src="/img/zeig_dich.jpg" float="left " >}}
 
 Die beste Ausbildung  nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient\*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient\*innen? 
 

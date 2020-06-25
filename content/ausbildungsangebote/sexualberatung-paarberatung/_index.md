@@ -14,7 +14,7 @@ weight: 5
 {{< line icon="icon/paar_sexualberatung.png" >}}
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/sexualberatung_paarberatung_1.jpg" title="Bildbeschreibung" float="left" >}}
 
 **Methodenschwerpunkt:** gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, systemische Gesprächsführung
 
@@ -26,7 +26,7 @@ Der Bereich der [Sexualberatung](https://www.ifge.at) ist damit eine wesentliche
 
 Da es für Klient\*innen großes Vertrauen in die Beratenden benötigt, um sich in einem derart gelagerten Beratungsprozess überhaupt zu öffnen, sind geschulte und empathiefähige Berater\*innen immer wieder gefragt. Weil das Feld der Sexualberatung aufgrund der hochintimen Anliegen der Klient\*innen ein besonders sensibles ist, ist es wichtig, möglichst umfassend im Bereich der [Sexual- und Paarberatung](https://www.ifge.at) ausgebildet zu sein, um die eigenen Klient\*innen optimal unterstützen zu können. Viele Ausbildungen im Bereich der [Lebens- und Sozialberatung - psychologischen Beratung](https://www.ifge.at) streifen dieses Themengebiet nur kurz, wodurch sich manche Lebens- und Sozialberater\*innen - psychologische Berater\*innen mit sexuellen Klient\*innen-Anliegen unwohl oder gar überfordert fühlen.
 
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="right">}}
+{{< image src="/img/sexualberatung_paarberatung_2.jpg" title="Bildbeschreibung" float="right">}}
 
 Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberatung – psychologischen Beratung ein besonderes Hauptaugenmerk auf die Besonderheiten und Interventionsmöglichkeiten in der Paar- und Sexualberatung gelegt wird, können im Rahmen der Gesamtausbildung bestimmte vertiefende Themen dennoch nur im Überblick für die reguläre Arbeit in der psychologischen Beratung behandelt werden. Wer sich später auf das Thema „Sexualberatung“ spezialisieren und das in der Grundausbildung erlernte Wissen vertiefen sowie erweitern möchte, der hat dazu in unserem Upgrade die Möglichkeit. Die Fortbildung eignet sich darüber hinaus selbstverständlich auch für alle diplomierten oder sich in Ausbildung befindlichen psychologischen Berater\*innen anderer Ausbildungsinstitute, die ihre Interventionsmöglichkeiten vertiefen möchten.
 
@@ -49,7 +49,7 @@ Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberat
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="left">}}
+{{< image src="/img/sexualberatung_paarberatung_3.jpg" title="Bildbeschreibung" float="left">}}
 
 Durch unsere hochmodernen Unterrichtsmethoden, die Expertise unserer Referent\*innen und den idealen Mix aus der Vermittlung von aktuellstem Fachwissen und praxisnahen Übungssequenzen erweitern Sie Ihr fachspezifisches Wissen spielerisch und können sich mit Ihrem fundierten Zusatzangebot von Ihren Kolleg*innen  abgrenzen. 
 
@@ -57,7 +57,7 @@ Die wesentlichen Inhalte der Zusatzausbildung konzentrieren sich dabei auf [sexu
 {{% /floatbox %}}
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/sexualberatung_paarberatung_4.jpg" title="Bildbeschreibung" float="right" >}}
 
 Da am IFGE die systemische Sichtweise auf Probleme aller Art ein zentraler Teil all unserer Ausbildungen ist, wird die Systemik als Methode auch in dem Upgrade „Paar- und Sexualberatung“ in Zukunft eine wesentliche Rolle spielen, um die Spezialisierungen am Institut fachgerecht sowie zieldienlich zu verbinden. Die Ausbildungsinhalte eigenen sich daher in besonderem Maße auch für bereits am IFGE lernende Schüler\*innen, die schon ein gewisses Maß an systemischem Grundwissen mit einbringen.
 

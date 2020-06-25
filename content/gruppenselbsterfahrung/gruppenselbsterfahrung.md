@@ -26,7 +26,7 @@ weight: 5
 ***
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/umgang_sex_belaestigung.jpg" float="left" title="Bildbeschreibung" >}}
 
 Selbsterfahrungsgruppe, Supervisionsgruppe, Familienaufstellung, Fremdwahrnehmung, Lehrgang Lebensberatung, Lebens- und Sozialberatung, Psychologische Beratung, Fortbildung, Supervision, tiergestützte psychologische Beratung, Lsb Upgrade, Aufstellungsarbe
 Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet.

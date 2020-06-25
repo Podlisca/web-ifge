@@ -19,7 +19,7 @@ weight: 1
 ### WARUM PROFESSIONELLES AUFTRETEN VON ANFANG AN ZENTRAL IST
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/zeig_dich_ziel.jpg" float="left">}} 
 
 Denn eines steht außer Frage: Sie sind nicht der bzw. die einzige Anbieter\*in eines psychosozialen Beratungsangebotes. Es gilt also auch im Sozialbereich, die eigenen besonderen Fähigkeiten herauszustreichen und sich von anderen Angeboten abzuheben. Damit dies professionell und zieldienlich gelingt, braucht es ein ausreichendes Maß an Vorwissen, das dieser Online-Workshop ausführlich vermittelt. 
 
