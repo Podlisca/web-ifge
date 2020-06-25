@@ -3,7 +3,7 @@ title: "Angehörige von Opfern oder Tätern"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Beratung für Angehörige

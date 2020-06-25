@@ -1,8 +1,9 @@
 ---
 title: "Psychologische Beratung: Was genau ist denn das?"
-draft: true
+draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 99
+img: "blog_psychologische_beratung.jpg"
 ---
 
 Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca
@@ -12,15 +13,12 @@ Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psy
 
 Hinter jedem steckt etwas anderes.
 
- 
-
 Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier.
 
- 
 
 Beratungs-, Therapie- und Arztangebote gibt es viele. Vor allem bei Worten, die mit PSYCH beginnen, ist die Verwirrung daher oftmals groß. Was ist jetzt was? Und wo bin ich am besten aufgehoben? Und was entspricht eher weniger dem, was ich mir an Hilfestellung erwarte? Die Fragen rund um den Bereich der psychosozialen Angebote sind breit gefächert, denn die Begriffe klingen durchaus ähnlich. Wir haben daher hier für Sie einen übersichtlichen und umfassenden Überblick zusammengestellt, mit dem Sie in Zukunft diese Fragen für sich ganz einfach beantworten können.
 
-WER IST PSYCHOLOGE ODER PSYCHOLOGIN?
+### WER IST PSYCHOLOGE ODER PSYCHOLOGIN?
 Als PsychologInnen dürfen sich alle Personen bezeichnen, die ein Psychologiestudium erfolgreich abgeschlossen haben. Während des Studiums beschäftigen sich angehende PsychologInnen wissenschaftlich mit den theoretischen Zusammenhängen der menschlichen Seele.
 
 Wie sieht das Arbeitsfeld aus?
@@ -39,7 +37,7 @@ Was sind die Grenzen der PsychologInnen?
 
 Ohne weitere Fortbildung oder Zusatzausbildung in der praktischen Gesprächsführung mit KlientInnen dürfen PsychologInnen keine eigene Praxis eröffnen. Einige PsychologInnen absolvieren daher Zusatzausbildungen zum/zur klinischen PsychologIn (siehe nächster Punkt), bilden sich zu PsychotherapeutInnen weiter oder setzen andere zusätzliche Ausbildungsschwerpunkte nach dem Psychologiestudium.
 
-WER IST KLINISCHER PSYCHOLOGE ODER KLINISCHE PSYCHOLOGIN?
+### WER IST KLINISCHER PSYCHOLOGE ODER KLINISCHE PSYCHOLOGIN?
 Klinische PsychologInnen haben Psychologie studiert und im Anschluss eine weitere Ausbildung – eine sogenannte postgraduale klinisch-psychologische Fachausbildung – absolviert. Sie arbeiten oftmals in Krankenhäusern, können aber genauso gut in eigener Praxis tätig sein.
 
  
@@ -60,7 +58,7 @@ Was sind die Grenzen der Klinischen PsychologInnen?
 
 Klinische PsychologInnen sind keine ÄrztInnen, auch wenn das Wort „klinisch“ dazu verleitet, es anzunehmen. Das bedeutet: Wenn PatientInnen aufgrund organischer Ursachen – wie Fehlfunktionen im Gehirn – an psychischen Auffälligkeiten leiden, werden klinische PsychologInnen zusätzlich mit ÄrztInnen zusammen arbeiten. Beispielsweise mit PsychiaterInnen (siehe unten).
 
-WER IST PSYCHOTHERAPEUT ODER PSYCHOTHERAPEUTIN?
+### WER IST PSYCHOTHERAPEUT ODER PSYCHOTHERAPEUTIN?
 PsychotherapeutInnen durchlaufen in Österreich eine besonders lange, zweistufige Ausbildung. Nach dem sogenannten Propädeutikum müssen Personen, die Psychotherapie anbieten möchten, noch das Fachspezifikum absolvieren – je nachdem, auf welche Therapierichtung sie sich spezialisieren wollen. Die Ausbildung dauert mehrere Jahre und erfordert einen besonders großen theoretischen und praktischen Lernaufwand.
 
  
@@ -102,6 +100,6 @@ Was sind die Grenzen der Psychologischen BeraterInnen?
 
 Auch wenn psychologische BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben. In diesem Fall verweisen Lebens- und SozialberaterInnen an PsychotherapeutInnen oder ÄrztInnen.
 
-WER IST PSYCHIATER ODER PSYCHIATERIN?
+### WER IST PSYCHIATER ODER PSYCHIATERIN?
 PsychiaterInnen werden ebenso gerne in einem Atemzug mit PsychologInnen, Klinischen PsychologInnen, PsychotherapeutInnen oder Lebens- und SozialberaterInnen – psychologischen BeraterInnen genannt. Dabei unterscheidet sich ihr Berufsbild ganz grundlegend von den vier erstgenannten. Denn PsychiaterInnen sind in erster Linie ÄrztInnen. Diese haben sich als FachärztInnen auf die Diagnose und Behandlung psychischer Erkrankungen spezialisiert. Die Psychiatrie hat sich dabei aus dem Fachgebiet der Neurologie entwickelt. Als ÄrztInnen absolvieren PsychiaterInnen dennoch oftmals psychologische oder psychotherapeutische Zusatzausbildungen. In der Psychiatrie werden Störungen und seelische Erkrankungen demnach vorwiegend organisch betrachtet, wodurch hier auch das Verschreiben von Medikamenten immer wieder als wesentlicher Teil der Behandlung zum Einsatz kommt.
 

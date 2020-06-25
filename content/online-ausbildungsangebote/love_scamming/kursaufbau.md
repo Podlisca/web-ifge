@@ -4,7 +4,7 @@ menu:
     main:
         parent: lovescamming
         identifier: lovescamming_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

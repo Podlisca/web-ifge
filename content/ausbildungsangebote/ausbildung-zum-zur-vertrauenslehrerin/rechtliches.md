@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_rechtliches
-draft: true
+draft: false
 weight: 4
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Kinderlose Frauen"
-draft: true
+draft: false
 tags: []
 weight: 92
+img: "blog_kinderlos.jpg"
 ---
 
 Rollenbilder prägen unser Alltagsleben. Der Mann als Bauarbeiter, Mechaniker und Ernährer der Familie. Die Frau als in Teilzeit arbeitende Mutter, Hausfrau und Köchin. Was macht es mit uns, wenn sich jemand diesen Rollen widersetzt, diese freiwillig oder unfreiwillig nicht erfüllen möchte?

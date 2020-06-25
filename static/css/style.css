@@ -202,6 +202,11 @@ img {
     align-items: center;
 }
 
+.box.blue img {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
 @media (max-width: 1024px) {
     .box {
         flex-wrap: wrap;

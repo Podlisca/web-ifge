@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_systembrett
         identifier: systembrett_rechtliches
-draft: true
+draft: false
 weight: 4
 ---
 

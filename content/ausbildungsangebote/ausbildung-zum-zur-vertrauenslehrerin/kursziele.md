@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_ziele
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -31,7 +31,7 @@ In unserer 100 Stunden umfassenden Ausbildung lernen Sie, Konflikte gar nicht er
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/Vertrauenslehrer.png" >}}
+{{< line icon="icon/vertrauenslehrer.png" >}}
 
 {{% floatbox %}}
 
@@ -51,7 +51,7 @@ Der Mangel an zusätzlicher Ausbildung und an verinnerlichten Methoden ist vor a
 * Wie gilt es, mit vermuteten Problemen von Schüler\*innen umzugehen? (Bspw. vermutete Magersucht, Drogenabhängigkeit, Vermutung von Gewalt in der Familie, …)
 * rechtliche Abgrenzungen & Informationen zu schulspezifischen Themen
 
-{{< line icon="icon/Vertrauenslehrer.png" >}}
+{{< line icon="icon/vertrauenslehrer.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
 Da es für den Posten der Vertrauenslehrer\*innen kaum Ausbildungsmöglichkeiten gibt, stehen viele Lehrer\*innen in dieser Funktion ratlos und überfordert vor den oben genannten Fragen und sind verunsichert: Was darf ich? Was ist der fachlich korrekte nächste Schritt? Was sollte ich keinesfalls tun? Häufig melden sich jene Lehrer\*innen freiwillig oder werden zur Vertrauensperson ernannt, die von vornherein ein besonders gutes Verhältnis zu den Schüler\*innen haben. Gerade durch das daher gelegentlich bereits bestehende Vertrauens- und Naheverhältnis gilt es auch, die Frage nach einer gesunden Distanz zu den Anliegen der Schüler\*innen fachlich und emotional zu beantworten.

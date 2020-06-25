@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: planspiel
-draft: true
+draft: false
 weight: 10
 ---
 

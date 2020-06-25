@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "supervisionswoche"
-draft: true
+draft: false
 weight: 5
 ---
 
@@ -57,7 +57,7 @@ Leitung: Silvia Podlisca<br/>
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: Silvia Podlisca<br/> 
-### [Anmeldung](www.ifge.at)
+### [Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 {{% small  %}}
 

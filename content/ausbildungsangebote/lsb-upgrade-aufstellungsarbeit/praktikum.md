@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_aufstellungsarbeit
         identifier: aufstellungsarbeit_praktikum
-draft: true
+draft: false
 weight: 5
 ---
 

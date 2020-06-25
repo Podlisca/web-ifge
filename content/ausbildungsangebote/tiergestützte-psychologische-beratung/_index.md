@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_tiergestuetzt
-draft: true
+draft: false
 weight: 4
 ---
 
@@ -22,7 +22,7 @@ weight: 4
 **Schwerpunkt Tiere:** Hund & Katze<br/>
 **Schwerpunkt Kommunikation:** Systemik & Hypnosystemik, Konfliktmanagement,  gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
 
-Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für L[ebens- und Sozialberater\*innen - psychologische Berater\*innen](www.ifge.at) sowie Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, interessant,  die sich durch einen starken Bezug zu Tieren auszeichnen und die die positiven Effekte, die Vierbeiner auf uns Menschen haben, gerne in den Beratungsprozess einsetzen möchten.
+Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für L[ebens- und Sozialberater\*innen - psychologische Berater\*innen](https://www.ifge.at) sowie Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, interessant,  die sich durch einen starken Bezug zu Tieren auszeichnen und die die positiven Effekte, die Vierbeiner auf uns Menschen haben, gerne in den Beratungsprozess einsetzen möchten.
 
 {{% /floatbox %}}
 
@@ -48,9 +48,9 @@ Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für L
 
 {{< image src="/img/tiergestuetzt_3.jpg" float="right" >}}
 
-Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](www.ifge.at) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
+Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](https://www.ifge.at) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
 
-Am IFGE trainieren Sie tiergestützte Interventionen mit den jahrelang ausgebildeten [Hunden Pluto & Sally](www.ifge.at). So können Sie das Erlernte praxisnah mit ihren eigenen Tieren in der freien Praxis umsetzen.
+Am IFGE trainieren Sie tiergestützte Interventionen mit den jahrelang ausgebildeten [Hunden Pluto & Sally](https://www.ifge.at). So können Sie das Erlernte praxisnah mit ihren eigenen Tieren in der freien Praxis umsetzen.
 
 {{% /small %}}
 {{% /box %}}

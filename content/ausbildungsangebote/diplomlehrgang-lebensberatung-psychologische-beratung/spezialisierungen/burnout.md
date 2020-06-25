@@ -3,7 +3,7 @@ title: "Burn-out Beratung"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 
 # Burn-out Beratung
@@ -29,7 +29,7 @@ Burn-out ist also keineswegs als wohlverdiente Pause, die man sich hart erarbeit
 
 Dazu gehört, dass dieser Zustand mittlerweile gerne als Synonym für stressige Phasen im Büro oder im Privatleben verwendet wird. „Wenn das so weitergeht, muss ich kündigen, sonst krieg ich gleich ein Burn-out“ oder „Ich bin schon am Rande des Burn-outs mit den Kindern“ hört man immer wieder. Aus diesen leichtfertigen Aussagen, die Stressphasen mit Burn-out gleichsetzen, ergibt sich, dass Betroffene gelegentlich wenig ernst genommen werden. Menschen, die sich einem tatsächlichen Burn-out nähern, empfinden dadurch oft eine große Hemmschwelle, sich Hilfe zu holen. Die Sorge, dass die eigenen, nagenden Gefühle lapidar mit „Also dann streng dich halt mehr an“ oder „Das darfst du nicht so ernst nehmen“ abgetan werden, hindert Betroffene immer wieder daran, präventive Beratung in Anspruch zu nehmen. Dabei sind gerade diese verinnerlichten Sätze wie „Ich muss stark und perfekt sein“ oder „Da muss ich jetzt durchbeißen“ erste recht deutliche Warnsignale, die unbedingt ernst genommen werden sollten.
 
-Bei mir am [IFGE](www.ifge.at) biete ich Ihnen die Möglichkeit, sich mit Ihren Risikofaktoren auseinanderzusetzen und ganz individuelle Strategien für ihre psychische Widerstandsfähigkeit (Resilienz) zu entwickelt. Durch wertschätzende Kommunikation, vielfältige Methoden und meine jahrelange Erfahrung im wirtschaftlichen Beratungsbereich gelingt es Ihnen, ganz neue Handlungsoptionen für Sie persönlich zu entdecken, um gesund zu bleiben.
+Bei mir am [IFGE](https://www.ifge.at) biete ich Ihnen die Möglichkeit, sich mit Ihren Risikofaktoren auseinanderzusetzen und ganz individuelle Strategien für ihre psychische Widerstandsfähigkeit (Resilienz) zu entwickelt. Durch wertschätzende Kommunikation, vielfältige Methoden und meine jahrelange Erfahrung im wirtschaftlichen Beratungsbereich gelingt es Ihnen, ganz neue Handlungsoptionen für Sie persönlich zu entdecken, um gesund zu bleiben.
 
 Die Burn-out-Beratung ist ebenso für Führungskräfte und Teamleiter hilfreich, die auf eine ausgewogene Balance ihres Teams und auf die Gesundheit ihrer Mitarbeiter bewusst achten wollen.
 

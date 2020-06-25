@@ -14,7 +14,7 @@ weight: 3
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-[Fotodokumentation](www.ifge.at)
+[Fotodokumentation](https://www.ifge.at)
 
 
 link unter familienaufstellung

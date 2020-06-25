@@ -4,7 +4,7 @@ menu:
     main:
         parent: supervision
         identifier: philosophie_supervision
-draft: true
+draft: false
 weight: 1
 ---
 

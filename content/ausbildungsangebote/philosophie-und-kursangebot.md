@@ -5,7 +5,7 @@ menu:
     main:
         parent: ausb
         identifier: uebersicht
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -87,12 +87,12 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 #### ONLINE AUSBILDUNGEN & TRAININGS
 * [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
-* [Umgang mit sexueller Belästigung & Stalking](www.ifge.at)
+* [Umgang mit sexueller Belästigung & Stalking](https://www.ifge.at)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
 * [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/umgang_love_scamming.html)
 * [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz.html)
-* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/workshop_fit_safe.html)
+* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/fitandsafe.html)
 * [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau.html)
 * [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau.html)
 

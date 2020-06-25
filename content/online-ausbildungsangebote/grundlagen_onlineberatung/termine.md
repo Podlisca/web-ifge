@@ -4,7 +4,7 @@ menu:
     main:
         parent: online_grundlagen
         identifier: online_grundlagen_termine
-draft: true
+draft: false
 weight: 3
 ---
 

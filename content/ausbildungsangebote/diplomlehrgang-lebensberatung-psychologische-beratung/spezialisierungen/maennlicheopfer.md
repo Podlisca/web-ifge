@@ -3,7 +3,7 @@ title: "Männliche Opfer"
 menu:
     main:
         parent: berufsbild
-draft: true
+draft: false
 ---
 # Männer als Opfer
 {{< slogan >}}

@@ -4,7 +4,7 @@ menu:
     main:
         parent: sexundstalking
         identifier: sexundstalking_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 

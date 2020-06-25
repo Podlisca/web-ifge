@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: grundlagen_psychosomatik
-draft: true
+draft: false
 weight: 3
 ---
 

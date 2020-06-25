@@ -1,7 +1,7 @@
 ﻿---
 title: "BLOG"
 menu: main
-draft: true
+draft: false
 weight: 7
 ---
 

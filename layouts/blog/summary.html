@@ -1,11 +1,18 @@
-<article class="post">
-    <header>        
+<div class="line">
+    <hr/>
+</div>
+
+<article class="post">    
+    <img src="/img/{{ .Param "img" }}" alt="Foto {{ .Title }}">    
+    <header>
         <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
         {{/*  <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words </div>  */}}
     </header>
-    {{ .Summary }}
-    <footer>
-        <a href='{{ .Permalink }}'><nobr>Mehr lesen →</nobr></a>
-        {{/*  <a href='{{ .Permalink }}'><nobr>Mehr lesen <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right" style="transform: rotate(90deg);"/></nobr></a>  */}}
-    </footer>
+    <div>
+        {{ .Summary }}
+        <footer>
+            <a href='{{ .Permalink }}'><nobr>Mehr lesen →</nobr></a>
+            {{/*  <a href='{{ .Permalink }}'><nobr>Mehr lesen <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right" style="transform: rotate(90deg);"/></nobr></a>  */}}
+        </footer>
+    </div>
 </article>

@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: upgrade_systembrett
-draft: true
+draft: false
 weight: 6
 ---
 
@@ -19,15 +19,15 @@ weight: 6
 
 {{< image src="/img/systembrett_2.jpg" title="Bildbeschreibung" float="left" >}}
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](www.ifge.at)).
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](https://www.ifge.at)).
 
-Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in [Gruppenseminaren](www.ifge.at) gesammelt haben.
+Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in [Gruppenseminaren](https://www.ifge.at) gesammelt haben.
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](www.ifge.at) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](www.ifge.at)  erworben und gefestigt werden.
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](https://www.ifge.at) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](https://www.ifge.at)  erworben und gefestigt werden.
 
 
 
-Diese Systembrett-Fortbildung eignet sich ebenso dazu, zusätzlich zum klassischen [Aufstellungsupgrade](www.ifge.at) auch noch Fach-Expertise in einem weiteren systemischen Bereich – speziell für [Beratungen im Einzelsetting(www.ifge.at)] – zu sammeln.
+Diese Systembrett-Fortbildung eignet sich ebenso dazu, zusätzlich zum klassischen [Aufstellungsupgrade](https://www.ifge.at) auch noch Fach-Expertise in einem weiteren systemischen Bereich – speziell für [Beratungen im Einzelsetting(https://www.ifge.at)] – zu sammeln.
 
 {{% /floatbox %}}
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: teambuilding
         identifier: teambuilding_ziele
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -20,7 +20,7 @@ In unserer Ausbildung wird jede Intervention fachlich erklärt, sodass Sie diese
 
 {{< image src="/img/teambuilding_ziel_1.jpg" title="Bildbeschreibung" float="right" >}}
 
-So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht. Am [IFGE](www.ifge.at) wir dabei mit hochmodernen Unterrichtsmethoden gearbeitet, zu denen auch eine Vielzahl an neuartigen Team-Building-Tools gehören. 
+So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht. Am [IFGE](https://www.ifge.at) wir dabei mit hochmodernen Unterrichtsmethoden gearbeitet, zu denen auch eine Vielzahl an neuartigen Team-Building-Tools gehören. 
 
 
 So können Sie die verkehrte Welt mit der Umkehrbrille selbst erleben, bevor Sie diese Intervention in Teams anleiten. Mit einer breiten Auswahl an spannenden Techniken und zur Verfügung stehenden, hochwertigen Utensilien lernen Sie Teams von der Pike auf zu begleiten – und zwar aus einem neuartigen Blickwinkel, der selbst für alte Coaching-Hasen wichtige neue Inputs und Möglichkeiten liefert.
@@ -55,7 +55,7 @@ In der Fortbildung fließen die langjährige, wirtschaftliche Erfahrung in groß
 Dies ermöglicht Ihnen, Strukturen rasch zu erkennen und somit letztlich auch, daraus mit einem Team konstruktive, neue Muster zu gestalten, wodurch Sie sich von klassischen Unternehmens-Coaches zu unterscheiden lernen. Denn Sie erhalten nicht nur Anleitungen für neuartige und moderne Tools in der Teamarbeit, sondern eignen sich durch die Fortbildung wichtiges psychologisches Zusatz-Know-how an.
 
 
-Mit diesem Fachwissen auf dem Gebiet der [Psychologie](www.ifge.at) werden aus reinen Teamspielen somit echte Prozessarbeiten, die tatsächlich spürbare, positive Veränderungen für die Unternehmen und die Team-Mitglieder ermöglichen und zudem noch Spaß machen. Denn gerade der Eisatz spielerischer Elemente, die zur Erheiterung beitragen, ermöglicht Veränderung für die von Ihnen begleiteten Teams in einer Leichtigkeit, mit der Sie Widerstände von vornherein auf ein Mindestmaß begrenzen können. Durch einen heiteren, herzlichen Zugang, bei dem Sie gleichermaßen die psychologisch und teamdynamisch wesentlichen Prozesse im Blick haben, gelingen Lösungen der zweiten Ordnung simpel aber nachhaltig.
+Mit diesem Fachwissen auf dem Gebiet der [Psychologie](https://www.ifge.at) werden aus reinen Teamspielen somit echte Prozessarbeiten, die tatsächlich spürbare, positive Veränderungen für die Unternehmen und die Team-Mitglieder ermöglichen und zudem noch Spaß machen. Denn gerade der Eisatz spielerischer Elemente, die zur Erheiterung beitragen, ermöglicht Veränderung für die von Ihnen begleiteten Teams in einer Leichtigkeit, mit der Sie Widerstände von vornherein auf ein Mindestmaß begrenzen können. Durch einen heiteren, herzlichen Zugang, bei dem Sie gleichermaßen die psychologisch und teamdynamisch wesentlichen Prozesse im Blick haben, gelingen Lösungen der zweiten Ordnung simpel aber nachhaltig.
 {{% /small %}}
 {{% /box %}}
 
@@ -71,9 +71,9 @@ So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der
 
 Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
 
-Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](www.ifge.at) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](www.ifge.at) und [Sexualberaterin](www.ifge.at) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](www.ifge.at) immer wieder mit namhaften Firmen zusammen. 
+Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](https://www.ifge.at) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](https://www.ifge.at) und [Sexualberaterin](https://www.ifge.at) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](https://www.ifge.at) immer wieder mit namhaften Firmen zusammen. 
 
-Im Zuge des [Coaching-Unternehmens FCBP](www.fcbp.at) schult sie Führungskräfte, ist im Konflikt-Management tätig und leitet [Tagestrainings](www.ifge.at) für AbteilungsleiterInnen gemeinsam mit [Martin Bransky](www.ifge.at), der als fachliche Assistenz auch Ihre Ausbildung für psychologisches Teambuilding begleiten wird.
+Im Zuge des [Coaching-Unternehmens FCBP](www.fcbp.at) schult sie Führungskräfte, ist im Konflikt-Management tätig und leitet [Tagestrainings](https://www.ifge.at) für AbteilungsleiterInnen gemeinsam mit [Martin Bransky](https://www.ifge.at), der als fachliche Assistenz auch Ihre Ausbildung für psychologisches Teambuilding begleiten wird.
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}

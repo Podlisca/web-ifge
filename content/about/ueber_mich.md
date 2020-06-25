@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: ueber_mich
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -13,7 +13,7 @@ weight: 1
 
 {{< slogan >}}
 
- {{< line icon="icon/silvia.png" >}}
+{{< line icon="icon/silvia.png" >}}
 
 {{% floatbox %}}
 
@@ -27,13 +27,18 @@ Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategi
 
 Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit betrachtet habe. Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“.
 
-{{< image src="/img/silvia_podlisca_2.jpg" float="right" title="Bildbeschreibung" >}}
+{{% /floatbox %}}
 
 {{% box blue=1 %}}
-{{% small  %}}
+{{% large %}}
 Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](/supervision/einzelsupervision.html) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
-{{% /small  %}}
+{{% /large %}}
+{{% small %}}
+  {{< image src="/img/silvia_podlisca_2.jpg" title="Bildbeschreibung" >}}
+{{% /small %}}
 {{% /box %}}
+
+{{% floatbox %}}
 
 Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansatz verfolge ich seit jeher auch im [Business-Coaching](www.fcbp.at), welches seit Jahren mein Angebot ergänzt. Gerade in bestehenden Firmenstrukturen ist es wesentlich, Muster rasch zu erkennen und diese anzusprechen, um im Anschluss mit den Verantwortlichen neue Strategien zu entwickeln. Da mir die Erhaltung bzw. Wiederherstellung eines erfolgreichen und gesunden Betriebsklimas in Unternehmen, die meine Hilfe in Anspruch nehmen, seit jeher ein persönliches Anliegen ist, biete ich regelmäßig Aus- und Fortbildungsseminare für Führungspersönlichkeiten im gehobenen Management an. Der Wunsch, gewinnbringende Unternehmensstrategien mit betriebspsychologischem Fachwissen zu verbinden, gab schließlich den Anstoß dazu, im Jahr 2017 gemeinsam mit Martin Bransky [„Bransky und Podlisca Firmencoaching FCBP“](www.fcbp.at) ins Leben zu rufen, wodurch ich heute mit viel Freude Führungskräfte in allen Bereichen – von der Unternehmensgründung bis zur Mitarbeiter*innenführung – effektiv und wertschätzend unterstütze.
 

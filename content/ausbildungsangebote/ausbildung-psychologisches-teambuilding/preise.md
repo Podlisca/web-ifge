@@ -4,7 +4,7 @@ menu:
     main:
         parent: teambuilding
         identifier: teambuilding_preise
-draft: true
+draft: false
 weight: 2
 ---
 
