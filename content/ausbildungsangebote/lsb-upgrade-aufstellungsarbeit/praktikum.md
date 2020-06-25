@@ -22,7 +22,7 @@ weight: 5
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/praktikum.png" >}}
 
 ## Praktikum
 
