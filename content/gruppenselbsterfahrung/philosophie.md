@@ -16,7 +16,7 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/philo_gse.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/politik_1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden ...
 
