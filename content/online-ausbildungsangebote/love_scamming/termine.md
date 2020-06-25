@@ -39,7 +39,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 
 **Modul 1: 13.11.2020** <br/>
 
-[Anmeldung](/anmeldung.html)
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}

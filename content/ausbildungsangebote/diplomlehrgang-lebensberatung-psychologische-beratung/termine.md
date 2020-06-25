@@ -38,7 +38,7 @@ weight: 3
 von 18:30 bis ca. 20:00 Uhr
 
 
-Hier geht es zur [ANMELDUNG](/anmeldung.html)
+Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% /small  %}}
 
@@ -52,7 +52,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 
 von 18:30 bis ca. 20:00 Uhr
 
-Hier geht es zur [ANMELDUNG](/anmeldung.html)
+Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% /small  %}}
 
@@ -66,7 +66,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 
 von 18:30 bis ca. 20:00 Uhr
 
-Hier geht es zur [ANMELDUNG](/anmeldung.html)
+Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% /small  %}}
 
@@ -89,7 +89,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.html)
 
 Mittwochs von 09:00 bis 15:00 Uhr
 
-[ANMELDUNG](/anmeldung.html)
+[ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 12 herunterladen](/downloads/LSB_12_termine.pdf)
 
@@ -101,7 +101,7 @@ Mittwochs von 09:00 bis 15:00 Uhr
 
 Montags von 14:00 bis 20:00 Uhr
 
-[ANMELDUNG](/anmeldung.html)
+[ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 13 herunterladen](/downloads/LSB_13_termine.pdf)
 {{% /small  %}}
@@ -116,7 +116,7 @@ Samstags von 10:00 bis 16:00 Uhr
 
 Kursplan folgt 
 
-[VORMERKEN](/anmeldung.html)
+[VORMERKEN](/anmeldung.php)
 
 ***
 {{% /small  %}}
@@ -131,7 +131,7 @@ Kursplan folgt
 
 Dienstags von 14:00 bis 20:00 Uhr
 
-[ANMELDUNG](/anmeldung.html)
+[ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 14 herunterladen](/downloads/LSB_14_termine.pdf)
 
@@ -143,7 +143,7 @@ Dienstags von 14:00 bis 20:00 Uhr
 
 Kursplan folgt 
 
-[VORMERKEN](/anmeldung.html)
+[VORMERKEN](/anmeldung.php)
 {{% /small  %}}
 
 {{% /box %}}
@@ -161,7 +161,7 @@ Montags von 14:00 bis 20:00 Uhr
 
 Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am Wochenende statt. 
 
-[ANMELDUNG](/anmeldung.html)
+[ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 15 herunterladen](/downloads/LSB_15_termine.pdf)
 
@@ -174,7 +174,7 @@ Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am W
 
 Kursplan folgt 
 
-[VORMERKEN](/anmeldung.html)
+[VORMERKEN](/anmeldung.php)
 {{% /small  %}}
 {{% /box %}}
 

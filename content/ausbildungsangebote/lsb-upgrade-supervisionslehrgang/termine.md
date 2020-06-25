@@ -85,7 +85,7 @@ Prüfungstag von 09:00 bis 16:00 Uhr
 
 Prüfung: 02.04. 2022
 
-[Anmeldung](/anmeldung.html)
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 

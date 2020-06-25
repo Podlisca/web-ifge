@@ -76,7 +76,7 @@ Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. D
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](http://stadthotel-pinkafeld.at/) ist in 5 Gehminuten erreichbar.
 
 
-[Anmeldung](/anmeldung.html)
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}

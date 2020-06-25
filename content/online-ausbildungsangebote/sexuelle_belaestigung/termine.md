@@ -45,7 +45,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 3: 18.07.2020** <br/>
 **Modul 4: 19.07.2020** <br/>
 
-[Anmeldung](/anmeldung.html)
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}

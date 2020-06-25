@@ -39,7 +39,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 3:** <br/>
 **Modul 4:** <br/>
 
-[Anmeldung](/anmeldung.html)
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}

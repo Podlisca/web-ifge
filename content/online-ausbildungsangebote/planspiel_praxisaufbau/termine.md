@@ -60,7 +60,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 6: Montag 02.11.2020** <br/>
 **Modul 7: Montag 09.11.2020** <br/>
 
-[Anmeldung](/anmeldung.html)
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}
