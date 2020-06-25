@@ -12,12 +12,12 @@ url: "/anmeldung.php"
 
         if (isset($_POST['submit']))
         {        
-            $email_from = "roman.stimpfl@leichtware.at";   //Absender falls keiner angegeben wurde
+            $email_from = "anmeldeformular@ifge.at";   //Absender falls keiner angegeben wurde
             $sendermail_antwort = true;      //E-Mail Adresse des Besuchers als Absender. false= Nein ; true = Ja
             $name_von_emailfeld = "Email";   //Feld in der die Absenderadresse steht
             
-            $empfaenger = "admin@leichtware.at"; //Empfänger-Adresse
-            $mail_cc = ""; //CC-Adresse, diese E-Mail-Adresse bekommt einer weitere Kopie
+            $empfaenger = "silvia.podlisca@ifge.at"; //Empfänger-Adresse
+            $mail_cc = "admin@leichtware.at"; //CC-Adresse, diese E-Mail-Adresse bekommt einer weitere Kopie
             $betreff = "IFGE Neue Anmeldung"; //Betreff der Email
             
             $url_ok = "http://www.domain.de/ok.php"; //Zielseite, wenn E-Mail erfolgreich versendet wurde
