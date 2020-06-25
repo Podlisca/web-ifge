@@ -16,30 +16,33 @@ weight: 3
 
 ## Wir vermitteln Wissen mit Spaß, Leidenschaft und persönlichem Engagement!
 
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/img1.jpg">}}
-{{% /small  %}}
-{{% small %}}
+{{% floatbox %}}
+
+{{< image src="/img/das_institut.jpg" float="left" >}}
+
 Das IFGE-Team wächst stetig - aufgrund der Teamgröße konnten nicht alle Referent*innen am gleichen Fototermin vor Ort sein.
 
 Alle Ausbildungen beinhalten Schulungen in:
-
+{{% box %}}
+{{% small  %}}
 * systemischer und personenzentrierter Gesprächsführung sowie gewaltfreier Kommunikation,
 * Kompetenz - sowohl im komplementär-medizinischen, psychosomatischen wie im energetischen Bereich
 * unternehmerisches Know-how - speziell, um in der Gesundheitsbranche erfolgreich zu sein!
-
-Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchsten Ausbildungsstandard zu garantieren!
-{{% /small %}}
+{{% /small  %}}
 {{% /box %}}
 
+Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchsten Ausbildungsstandard zu garantieren!
+
+{{% silvia %}}
+
 Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  eine 2,5 jährige interne Ausbildung um anschließend am IFGE unterrichten zu können.
+
+{{% /floatbox %}}
 
  {{< line icon="icon/silvia.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
-
 
 #### Dominique Karlovits
 
@@ -60,7 +63,8 @@ Mit meinem Organisationstalent übernehme ich alle anstehenden Aufgaben stets fr
 {{% /box %}}
 
 
-
+{{% box %}}
+{{% small  %}}
 
 ### AUSBILDUNG
 
