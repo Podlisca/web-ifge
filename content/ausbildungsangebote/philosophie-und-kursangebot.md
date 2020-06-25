@@ -92,7 +92,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 * [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/umgang_love_scamming.html)
 * [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz.html)
-* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/workshop_fit_safe.html)
+* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/fitandsafe.html)
 * [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau.html)
 * [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau.html)
 

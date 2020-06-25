@@ -11,7 +11,7 @@ weight: 8
 # Ausbildung zum/zur VertrauenslehrerIn
 {{< slogan >}}
 
-{{< line icon="icon/Vertrauenslehrer.png" >}}
+{{< line icon="icon/vertrauenslehrer.png" >}}
 
 {{% floatbox %}}
 {{< image src="/img/vertrauenslehrer.jpg" title="Bildbeschreibung" float="left" >}}
