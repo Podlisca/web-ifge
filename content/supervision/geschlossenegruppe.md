@@ -33,11 +33,12 @@ Gleichzeitig können alle Teilnehmer\*innen ihren eigenen Entwicklungsprozess so
 
 {{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
 
-{{< image src="/img/silvia_podlisca_2.jpg" float="right" title="Bildbeschreibung" >}}
-
 {{% box blue=1 %}}
-{{% small  %}}
+{{% large  %}}
 Zusätzlich zu Einzelsupervisionen, in denen auch Ihre {{< green >}}persönlichen {{< /green >}} Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychologischen Berater\*innen in Ausbildung sehr zu empfehlen. Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg\*innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
+{{% /large %}}
+{{% small %}}
+{{< image src="/img/silvia_podlisca_2.jpg" title="Bildbeschreibung" >}}
 {{% /small %}}
 {{% /box %}}
 

@@ -36,14 +36,13 @@ Aus diesem Grund schreibt auch die Wirtschaftskammer zur Eintragung des Gewerbes
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/einzel_sv.jpg" float="right" title="Bildbeschreibung" >}} 
 
 {{% box blue=1 %}}
-{{% large  %}}
+{{% large %}}
 In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo Sie gerade fachlich nicht weiterkommen und dafür Strategien entwickeln, die für Sie und {{< green >}} Ihre {{< /green >}}Klient\*innen hilfreich sind, sondern dass wir in der Supervision vor allem auch auf Ihre persönlichen Themen eingehen können, die in Ihren Beratungseinheiten auftauchen und Sie womöglich am Weiterkommen hindern. Für die fachliche sowie emotionale Begleitung Ihrer Arbeit nehme ich mir in der Einzelsupervision besonders viel Zeit. So erleben Sie in einem freundlichen, fachlich wertschätzenden und gelegentlich auch auflockernden Klima Ihr persönliches Vorankommen, welches nicht nur Ihnen, sondern auch den Anliegen Ihrer Klient*innen sowie dem Erfolg Ihres Unternehmens dient. 
 {{% /large  %}}
 {{% small  %}}
-{{< image src="/img/home_silvia_1.jpg" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzel_sv.jpg" title="Bildbeschreibung" >}} 
 {{% /small  %}}
 {{% /box %}}
 
