@@ -15,9 +15,14 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/kursziel_sexualberatung_paarberatung.jpg" float="left">}} 
 
-Durch die Zusatzausbildung „Sexualberatung – Paarberatung“ erhalten Sie nicht nur eigene Sicherheit in diesem Themenkomplex, sondern vor allem spezifisches Know-how in der Beratung von Einzelpersonen und Paaren, deren Anliegen sich um den breit gefächerten Bereich der Sexualität drehen. Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardunterricht weit hinaus und bietet die Festigung sowie eine wesentliche Vertiefung des Fachwissens in diesem Themengebiet.
+Durch die Zusatzausbildung „Sexualberatung – Paarberatung“ erhalten Sie nicht nur eigene Sicherheit in diesem Themenkomplex, sondern vor allem spezifisches Know-how in der Beratung von Einzelpersonen und Paaren, deren Anliegen sich um den breit gefächerten Bereich der Sexualität drehen. 
+
+Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardunterricht weit hinaus und bietet die Festigung sowie eine wesentliche Vertiefung des Fachwissens in diesem Themengebiet.
+
+{{% silvia %}}
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
