@@ -8,11 +8,30 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{< slogan >}}
 
+{{< line icon="icon/silvia.png" >}}
+
+{{% center style="max-width: 700px"%}}
+
+**Liebe Besucherin, lieber Besucher**
+
+**unsere Website wurde völlig neu gestaltet weshalb es vorkommen kann, dass noch nicht jeder Link funktioniert oder noch kleine „Hoppalas“ passieren.**
+
+**Wir bitten um Verständnis 😊 herzlichst Silvia Podlisca**
+
+**P.s. Wir freuen uns über Feedback**
+
+{{< silvia >}}<br>
+**- Institutsleiterin -**
+
+{{% /center %}}
+
+
+
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/home_silvia_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/home_1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/philosophie-und-kursangebot.html) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
