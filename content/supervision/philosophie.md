@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/philo_gse.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/philo_supervision_1.jpg" float="left" title="Bildbeschreibung" >}}
 
 Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
 

@@ -62,7 +62,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% /box %}}
 
-{{< line icon="/icon/Beratung.png" >}}
+{{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
 ***
 

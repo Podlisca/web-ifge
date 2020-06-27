@@ -12,15 +12,17 @@ weight: 2
 {{< slogan >}}
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-## SILVIA PODLISCA
-
 {{% floatbox %}}
 
 {{< image src="/img/politik_1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden ...
+Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
-Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit betrachtet habe. Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“. 
+Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden ...
+
+Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit betrachtet habe. 
+
+Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“. 
 
 In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
 
