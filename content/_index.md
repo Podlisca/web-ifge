@@ -8,6 +8,25 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{< slogan >}}
 
+{{< line icon="icon/silvia.png" >}}
+
+{{% center style="max-width: 700px"%}}
+
+**Liebe Besucherin, lieber Besucher**
+
+**unsere Website wurde völlig neu gestaltet weshalb es vorkommen kann, dass noch nicht jeder Link funktioniert oder noch kleine „Hoppalas“ passieren.**
+
+**Wir bitten um Verständnis 😊 herzlichst Silvia Podlisca**
+
+**P.s. Wir freuen uns über Feedback**
+
+{{< silvia >}}<br>
+**- Institutsleiterin -**
+
+{{% /center %}}
+
+
+
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}

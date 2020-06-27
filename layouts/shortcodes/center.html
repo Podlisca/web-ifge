@@ -1,5 +1,5 @@
 <div class="center">
-<div>
+<div {{ if .Get "style" }} style="{{ .Get "style" }}" {{ end }}>
 {{ .Inner }}
 </div>
 </div>
