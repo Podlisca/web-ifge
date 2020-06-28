@@ -16,9 +16,9 @@ weight: 3
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_upgrade_aufstellung.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
-
 ## SYSTEMISCHE AUFSTELLUNG MIT SCHWERPUNKT AUF DER METHODE BERT HELLINGERS
+
+{{< image src="/img/upgrade_aufstellung1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung.html))
 

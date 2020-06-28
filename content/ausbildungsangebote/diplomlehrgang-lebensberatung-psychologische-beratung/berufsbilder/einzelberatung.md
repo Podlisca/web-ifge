@@ -51,3 +51,13 @@ Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und ande
 {{% /box %}}
 
 Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir am IFGE auch, dass aufgrund langjähriger Erfahrung und zahlreicher Zusatzausbildungen ein Mix aus unterschiedlichsten psychologischen Methoden ermöglicht wird, der somit die absolut individuelle Begleitung Ihres Prozesses sichert.
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

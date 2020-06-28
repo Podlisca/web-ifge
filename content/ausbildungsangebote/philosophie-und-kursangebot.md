@@ -102,8 +102,8 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 #### TIERGESTÜTZTE AUSBILDUNGEN
 * [Tiergestützte psychologische Beratung](/ausbildungsangebote/tiergestützte-psychologische-beratung.html)
-* Erste Hilfe für Katzen
-* Erste Hilfe für Hunde
+* [Erste Hilfe für Katzen](https://www.berufsverband-tiergestuetzteberatung.at/geprüfte-kurse/erste-hilfe-für-katzen/)
+* [Erste Hilfe für Hunde](https://www.berufsverband-tiergestuetzteberatung.at/geprüfte-kurse/erste-hilfe-für-hunde/)
 
 {{% /small  %}}
 {{% /box %}}

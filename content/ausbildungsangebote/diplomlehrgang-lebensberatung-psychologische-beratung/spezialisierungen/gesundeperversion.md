@@ -47,4 +47,12 @@ Wo immer Sie sich in Ihren Gedanken gerade zwischen belastender, gelebter Sexual
 Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst, Ihren Phantasien und Ihrer Sexualität finden, der Ihnen ein ausgewogenes, risikoarmes und befriedigendes Erleben Ihrer eigenen Lust ermöglicht.
 {{% /floatbox %}}
 
+***
 
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

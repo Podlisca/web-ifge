@@ -32,3 +32,12 @@ Eine Atmosphäre der Sicherheit und des Trostes entsteht also schon alleine durc
 Ich begleite meine Klient\*innen schon langjährig u.a. im Falle von Krisen und in Situationen, aus denen kein Ausweg möglich scheint. Sie bekommen bei mir Zeit und Raum, um in Ihrem Tempo über die Dinge zu sprechen, die Ihnen am Herzen liegen.
 {{% /floatbox %}}
 
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

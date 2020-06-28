@@ -30,3 +30,13 @@ All diese Emotionen meinen Angehörige oft, unterdrücken zu müssen, um die Kra
 
 Am IFGE biete ich Ihnen die Möglichkeit, Ihre Gefühle zuzulassen, um damit in Ihrem Alltag umgehen zu können. Vielleicht gibt es Wichtiges, das Sie noch besprechen oder erleben möchten. Die große Angst, die Sie um Ihre Angehörigen haben, müssen Sie vor mir nicht – wie vielleicht zu Hause vor den Kindern – verbergen. Sie darf sein und findet in verständnisvoller Atmosphäre Platz. Die Überforderung, die Sie möglicherweise verspüren, findet hier bei mir Raum und darf ausgesprochen werden – frei von Bewertungen meinerseits. Welche Gefühle Sie auch immer bewegen und belasten, hier müssen Sie sich nicht verstellen. Warten Sie nicht, bis Sie Ihre Grenzen erreicht haben, sondern sorgen Sie gut für sich – gerade dann, wenn Sie das Bedürfnis haben, auch für andere zu sorgen. Denn nur wenn es IHNEN gut geht, können Sie kraftvoll für die erkrankte Person da sein!
 {{% /floatbox %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

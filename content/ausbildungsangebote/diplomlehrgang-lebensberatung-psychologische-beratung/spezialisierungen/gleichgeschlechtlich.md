@@ -45,3 +45,13 @@ Denn die inneren Diskrepanzen gehören zum Menschsein dazu und beschäftigten pr
 Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all dem, was Sie als Mensch ausmacht und mit dem, was Sie beschäftigt. Psychologische Beratung bedeutet auch professionelle Unterstützung dabei, sich den eigenen widersprüchlichen Empfindungen bewusst zu werden und diese miteinander in Einklang zu bringen.
 
 {{% /floatbox %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

@@ -86,3 +86,13 @@ Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch a
 Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl. Lebens- und Sozialberater*in. Sollten Sie sich für diese Ausbildung interessieren, folgen Sie dem angeführten Link.
 
 [www.ifge.at/ausbildungsangebote/dipl-lebens-und-sozialberaterin/](https://www.ifge.at)
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

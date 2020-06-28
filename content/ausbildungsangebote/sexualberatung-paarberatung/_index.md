@@ -73,22 +73,37 @@ Diese Interventionstechniken sind gerade in der Arbeit mit [Opfern sexueller Gew
 ## VERTIEFENDE INHALTE IN DER SEXUALBERATUNG UND BEI RANDTHEMEN
 
 Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professionelle Beschäftigung mit Rand- und Tabuthemen, die zunehmende Bedeutung für Menschen gewinnen, weshalb gut ausgebildete Paar- und Sexualberater\*innen immer wichtiger werden.
+{{% /small %}}
+{{% /box %}}
 
+{{% box blue=1 %}}
+{{% small %}}
 {{< image src="/img/gesunde_perversion_3.jpg" title="Bildbeschreibung" float="left" >}}
 
-In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. Sie betrachten mögliche systemische Verstrickungen, vertiefen das Wissen rund um die aktuelle Rechtsprechung in dieser oft als „schwarz“ bezeichneten Form der Erotik und beschäftigen sich mit den passenden Interventionen für Menschen, die mit Anliegen rund um das Thema BDSM zu Ihnen kommen. Im Zuge der Arbeit mit KlientInnen aus dem Bereich des BDSM geht es immer wieder auch um Grenzen – ein Thema, das in der Fortbildung intensiv beleuchtet wird:
+In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. 
+
+Sie betrachten mögliche systemische Verstrickungen, vertiefen das Wissen rund um die aktuelle Rechtsprechung in dieser oft als „schwarz“ bezeichneten Form der Erotik und beschäftigen sich mit den passenden Interventionen für Menschen, die mit Anliegen rund um das Thema BDSM zu Ihnen kommen. Im Zuge der Arbeit mit KlientInnen aus dem Bereich des BDSM geht es immer wieder auch um Grenzen – ein Thema, das in der Fortbildung intensiv beleuchtet wird:
 
 Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkennen, Ziehen und Erweitern der eigenen Grenzen zu? Welche inneren – und äußeren – Konflikte können hierbei entstehen? Welche Rolle spielen die Erwartungen (oder Forderungen) des dominanten Parts beim Erkennen und Benennen möglicher Grenzen und Tabus? Inwiefern können Introjektionen und Identifizierungen Einfluss auf das Grenzerleben des devoten Gegenübers nehmen? Was, wenn Grenzen überschritten wurden? Was, wenn der Reiz des sexuellen Erlebens Suchtcharakter annimmt? Wie kann auch eine außergewöhnliche Form der Erotik in Zukunft wieder mit Genuss erlebt werden, wenn etwas schief gelaufen ist, ohne dass der bisher als lustvoll empfundenen sexuellen Spielart gänzlich der Rücken gekehrt werden muss?
 
 **Gesunde Grenzen** zu erkennen, zu setzen und ihnen zu erlauben, dass sie variieren dürfen, ist dabei Teil zahlreicher Problematiken, die Menschen in die Beratung führen. Nicht zuletzt deshalb werden viele Tools für die Beschäftigung mit und die Entwicklung der eigenen Grenzen  im Upgrade unterrichtet.
-
-{{< image src="/img/gesunde_perversion_2.jpg" title="Bildbeschreibung" float="right" >}}
-
-Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. Was bedeuten sie für Klient\*innen, weshalb machen sie oftmals Angst und können dabei lustvoll zugleich sein? Wo liegt die Grenze zur Realität? Was, wenn eine (lang) gehegte Phantasie real ausgelebt wurde und die Klient\*innen das Erlebnis als unangenehm – ja vielleicht sogar als verstörend – erlebt hat? Welche Möglichkeiten und Tools gibt es, um Klient\*innen bei der Erkenntnisfindung zu unterstützen? All diese Fragen werden in der Zusatzausbildung ausführlich beantwortet.
-
-Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im Upgrade die intensive Beschäftigung mit dem Thema „Lustverbot“. Klient\*innen ist oftmals wenig bis gar nicht bewusst, dass es – gelegentlich weit zurück liegende – Verbote sind, die sie am Ausleben einer befreiten Sexualität hindern. Ganz gleich, ob diese Verbote im Außen zu suchen sind oder aufgrund eines (unbewussten) inneren Lebensplans persönlich erstellt wurden: In der Zusatzausbildung lernen Sie, welche Interventionen es gibt, um Klient\*innen dabei zu unterstützen, sich selbst die gesunde Erlaubnis für ihre Wünsche zu geben.
-
 {{% /small %}}
 {{% /box %}}
 
-{{% /floatbox %}}
+{{% box blue=1 %}}
+{{% small %}}
+{{< image src="/img/gesunde_perversion_2.jpg" title="Bildbeschreibung" float="right" >}}
+
+Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. 
+
+* Was bedeuten sie für Klient\*innen, weshalb machen sie oftmals Angst und können dabei lustvoll zugleich sein? 
+* Wo liegt die Grenze zur Realität? 
+* Was, wenn eine (lang) gehegte Phantasie real ausgelebt wurde und die Klient\*innen das Erlebnis als unangenehm – ja vielleicht sogar als verstörend – erlebt hat? 
+* Welche Möglichkeiten und Tools gibt es, um Klient\*innen bei der Erkenntnisfindung zu unterstützen? <p>
+
+All diese Fragen werden in der Zusatzausbildung ausführlich beantwortet. 
+
+Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im Upgrade die intensive Beschäftigung mit dem Thema „Lustverbot“. Klient\*innen ist oftmals wenig bis gar nicht bewusst, dass es – gelegentlich weit zurück liegende – Verbote sind, die sie am Ausleben einer befreiten Sexualität hindern. Ganz gleich, ob diese Verbote im Außen zu suchen sind oder aufgrund eines (unbewussten) inneren Lebensplans persönlich erstellt wurden: In der Zusatzausbildung lernen Sie, welche Interventionen es gibt, um Klient\*innen dabei zu unterstützen, sich selbst die gesunde Erlaubnis für ihre Wünsche zu geben.
+{{% /small %}}
+{{% /box %}}
+

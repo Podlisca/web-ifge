@@ -42,7 +42,7 @@ wien@ifge.at
 Bruckgasse 1<br/>
 7423 Pinkafeld 
 
-bgl@ifge.at
+bgld@ifge.at
 
 {{% /small %}}
 
@@ -98,4 +98,4 @@ buchhaltung@ifge.at
 
 ### IFGE - PRESSE
 
-Für Presseanfragen wenden Sie sich bitte an Carina Fritz unter presse@ifge.at
+Für Presseanfragen wenden Sie sich bitte an Carina Fritz per E-Mail unter presse@ifge.at oder telefonisch unter +43 676 755 58 86. 

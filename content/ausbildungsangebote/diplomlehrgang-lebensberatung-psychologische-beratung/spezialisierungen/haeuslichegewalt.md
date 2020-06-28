@@ -38,3 +38,13 @@ Opfer von häuslicher Gewalt stehen verschiedensten miteinander verwobenen Probl
 In der psychologischen Beratung nehme ich mir für Ihr Anliegen und Ihre Sorgen so viel Zeit wie nötig. Gerade in diesem Fall möchte ich die absolute Vertraulichkeit, welcher unsere Gespräche unterliegen, noch einmal besonders betonen. Hier bei mir am IFGE können Sie sich sicher sein, dass von mir keinerlei Schritte bzw. Maßnahmen getätigt, gefordert oder auch nur erwartet werden, wenn Sie für diese (noch) nicht bereit sind oder wenn diese Schritte für Ihre persönliche Lösung keinerlei Relevanz haben. Wichtig ist in erster Linie, dass Sie hier einen Platz finden, an dem Sie zur Ruhe kommen können und an dem Sie – mit all dem, was Sie bewegt – gehört werden. In meinen Beratungsräumen finden Sie die Sicherheit vor, die Sie benötigen, um sich selbst wieder zu finden und um kraftvolle Entscheidungen treffen sowie Schritte setzen zu können, wann auch immer die Zeit für Sie reif ist. 
 
 {{% /floatbox %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}
