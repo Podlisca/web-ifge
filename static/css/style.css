@@ -67,6 +67,41 @@ body {
     margin-right: auto;
 }
 
+.formular {
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 0.5em;
+    row-gap: 0.5em;
+}
+
+.formular select {
+    width: 100%;    
+}
+
+.formular label {
+    text-align: right;
+}
+
+.formular input, .formular select, .formular label {
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button {
+    background-color: var(--color-red);
+    color: white;
+    border-width: 0;
+    padding: 0.5em;
+    margin-top: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.0em;
+}
+.button:hover {
+    cursor: pointer;
+}
+
 main {
     margin-bottom: 5em;
 }
@@ -100,6 +135,17 @@ img.logo {
 
     .box.top-align {
         align-items: center;
+    }
+
+    .formular {
+        grid-template-columns: auto;
+        row-gap: 0.2em;
+    }
+
+    .formular label {
+        margin-top: 0.6em;
+        text-align: left;
+        padding: 2px;
     }
 }
 
@@ -178,12 +224,12 @@ body>footer div a {
 }
 
 /* Weiche Schriftart nur für Haupttexte und Listen verwenden */
-p, ul, .small, .large, article, table {
+p, ul, .small, .large, article, table, .formular {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     -webkit-font-smoothing: antialiased;
     hyphens: auto;    
-    line-height: 1.45;
+    line-height: 1.45;    
 }
 
 p {
@@ -510,6 +556,10 @@ img.small {
 .required:after {
     content:" *";
     color: var(--color-red);
+}
+
+textarea {
+    resize: none;
 }
 
 /* Safari 7.1+ */
