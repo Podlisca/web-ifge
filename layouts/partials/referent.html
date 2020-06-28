@@ -34,12 +34,10 @@
             {{ end }}
         </div>
         <div class="box" style="align-items: flex-start;">
-            {{ if .Kontakt }}
+            {{ with .Kontakt.Web }}
                 <div class="small">
                     <h3>Kontakt</h3>
-                    {{ range .Kontakt }}
-                        {{ . }}<br/>
-                    {{ end }}    
+                    <a href="//{{ . }}" target="_blank">{{ . }}</a>
                 </div>
             {{ end }}
             <div class="large">
