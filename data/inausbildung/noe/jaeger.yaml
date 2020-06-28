@@ -8,8 +8,9 @@ Text:
     - "Ich habe mich deshalb 2018 für die Ausbildung zur psychologischen Beraterin am IFGE entschieden und meine Praxis „Lebenszone“ in Hochstraß, Niederösterreich eröffnet."
     - "Ein wichtiger Faktor in der Entscheidung für dieses Institut, war für mich, die Flexibilität in Bezug auf verpasste Unterrichtseinheiten, die hier mit „Kurs- Hopping“ flexibel absolviert werden können."
 Kontakt:
-    - Hochstraß
-    - 3033 Klausen-Leopoldsdorf
-    - "Web: http://lebenszone.at"
-    - "Tel: +43 6705050418"
-    - "Mail: office@lebenszone.at"
+    Anschrift:
+        - Hochstraß
+        - 3033 Klausen-Leopoldsdorf
+    Web: lebenszone.at
+    Tel: +43 6705050418
+    Mail: office@lebenszone.at
