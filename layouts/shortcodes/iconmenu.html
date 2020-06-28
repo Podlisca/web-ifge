@@ -1,3 +1,13 @@
-<div class="menu box blue" {{ with .Get "align-items" }} style="align-items: {{.}}"{{ end }}>
+{{ if ne .Page.Parent .Page.FirstSection}}
+<div class="box blue" style="text-align: center;">
+    <a href="{{ .Page.Parent.Permalink }}">
+        <div style="display: flex; align-items: center; justify-content: center;">
+            <img src="/img/icon/ausbildungsangebote.png" style="height: 3em; padding-top: 0; padding-bottom: 0;">
+            <span><h5> {{ .Page.Parent.Title }}</h5></span>
+        </div>
+    </a>
+</div>
+{{ end }}
+<div class="menu box blue" {{ with .Get "align-items" }} style="align-items: {{.}}"{{ end }}>    
     {{ .Inner }}
 </div>
