@@ -84,3 +84,13 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge
 
 {{% /small  %}}
 {{% /box %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

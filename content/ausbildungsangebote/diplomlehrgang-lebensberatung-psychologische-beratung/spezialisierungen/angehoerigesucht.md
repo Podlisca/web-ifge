@@ -34,3 +34,13 @@ Ich möchte nochmals erwähnen, dass das Zusammenleben mit einem oder einer Abh�
 Hier bei mir am IFGE stehen Sie mit Ihren Gedanken, Wünschen, Sorgen, Ängsten und Hoffnungen im Vordergrund. Sie finden hier einen Raum, an dem Sie nicht stark oder vorsichtig sein oder sich rechtfertigen müssen, sondern an dem Sie Platz für Sie ganz persönlich haben. Hier dürfen Sie einfach alles sagen, wonach Ihnen gerade ist. Dadurch finden Sie in der Beratung neue Möglichkeiten und individuelle Lösungen, wie Sie mit Ihrem Thema in Zukunft auf eine für Sie gesunde und stärkende Weise umgehen können.
 
 {{% /floatbox %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

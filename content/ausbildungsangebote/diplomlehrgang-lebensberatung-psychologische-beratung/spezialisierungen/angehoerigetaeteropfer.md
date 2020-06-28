@@ -33,3 +33,13 @@ Meine intensiven Schwerpunkte bei der Arbeit mit Angehörigen liegen dabei auf:
 Im Zuge der Beratung finden Sie Lösungen und erstellen Konzepte, wie Sie mit Ihrem Thema so umgehen können, dass für Sie wieder Leichtigkeit und Zuversicht in Ihren Alltag einkehren kann.
 
 {{% /floatbox %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

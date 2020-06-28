@@ -29,7 +29,7 @@ Wenn ein Selbstmord begangen oder ein Suizidversuch unternommen wurde, ist der S
 
 {{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
 
-Gerade bei Suiziden ist die Gefühlspalette der nahestehenden Personen häufig unüberschaubar groß. Denn zum Schock, der Verzweiflung und der Hilflosigkeit gesellen sich immer wieder nagende Schuldgefühle: „Was habe ich übersehen?“, „Habe ich einen Hilferuf missachtet?“, „Hat es Anzeichen gegeben, die ich nicht sehen konnte?“, „Habe ich nicht genug geholfen?“, „Habe ich es zu wenig ernst genommen?“ oder „War ich zu wenig da?“ sind nur einige der zahlreichen Schuldfragen, die unfreiwillig immer und immer wieder im Kopf kreisen – und dort zu einer unerträglichen Belastung werden. Hinzu kommt, dass es große Angst macht, diese Fragen laut auszusprechen. Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg*innen abgegeben wurde und auch wenn Angehörige, Freund*innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
+Gerade bei Suiziden ist die Gefühlspalette der nahestehenden Personen häufig unüberschaubar groß. Denn zum Schock, der Verzweiflung und der Hilflosigkeit gesellen sich immer wieder nagende Schuldgefühle: „Was habe ich übersehen?“, „Habe ich einen Hilferuf missachtet?“, „Hat es Anzeichen gegeben, die ich nicht sehen konnte?“, „Habe ich nicht genug geholfen?“, „Habe ich es zu wenig ernst genommen?“ oder „War ich zu wenig da?“ sind nur einige der zahlreichen Schuldfragen, die unfreiwillig immer und immer wieder im Kopf kreisen – und dort zu einer unerträglichen Belastung werden. Hinzu kommt, dass es große Angst macht, diese Fragen laut auszusprechen. Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg\*innen abgegeben wurde und auch wenn Angehörige, Freund\*innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
 
 ### BILDER UND GEDANKEN, DIE NICHT MEHR LOSLASSEN
 
@@ -64,3 +64,13 @@ Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind S
 
 
 {{% /floatbox %}}
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

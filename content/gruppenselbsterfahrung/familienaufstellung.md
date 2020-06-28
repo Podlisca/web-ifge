@@ -102,6 +102,6 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 
 [Fotodokumentation](https://www.ifge.at)
 
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systematische Einzelberatung**
+**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
 
 ***

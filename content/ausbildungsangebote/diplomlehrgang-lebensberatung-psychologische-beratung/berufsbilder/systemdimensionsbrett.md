@@ -58,3 +58,13 @@ Einen weiteren wesentlichen Einfluss auf die Entwicklung des SystemDimensionsBre
 Die Möglichkeit im Raumschach, dass sich auf mehreren Ebenen gleichzeitig etwas abspielt und in die anderen Ebenen hineinwirkt, war blicköffnend in der Entwicklung des SystemDimensionsBrett®.
 
 ***
+
+***
+
+{{% box blue=1 %}}
+{{% small %}}
+
+Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+
+{{% /small  %}}
+{{% /box %}}

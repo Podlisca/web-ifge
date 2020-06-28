@@ -14,7 +14,7 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/politik_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
@@ -25,13 +25,68 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“. 
 
 In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
+{{% /floatbox %}}
+
+{{< line icon="icon/info_tuerkis.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
+## Hier finden Sie ausführliche Informationen über:
+{{% /small  %}}
+{{% /box %}}
+
+{{% box blue=1 top-align=1 %}}
+{{% small  %}}
+{{< image src="/img/icon/einzel_sv.png" small=1 >}}
+
+#### [Familien-aufstellung](//gruppenselbsterfahrung/familienaufstellung.html)
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
+
+#### [Systemische Tieraufstellung](/gruppenselbsterfahrung/tieraufstellung.html)
+
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+
+#### [Glaubenssatz-Aufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
+
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_woche.png" small=1 >}}
+
+#### [Gruppen-selbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html)
+
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_teambuilding.png" small=1 >}}
+
+#### [Termine](/gruppenselbsterfahrung/termine.html)
+
+{{% /small  %}}
+
+{{% /box %}}
+
+
+
+
 
 {{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
+{{% floatbox %}}
 
-{{% box blue=1 %}}
+{{% box %}}
 {{% small %}}
 
 In der Psychologie kennen wir verschiedene Bewusstseinsebenen. Neben dem, was wir täglich ganz klar und bewusst wahrnehmen, laufen in unserem Erleben zahlreiche Empfindungen unbewusst ab. Erlebnisse werden in diesem unbewussten Teil meist ganz anders verarbeitet und abgespeichert, als wir vordergründig erkennen können. Sie bemerken dies vielleicht, wenn Sie „so ein bestimmtes Gefühl“ haben. Dieses diffuse Bauchgefühl – unsere Intuition – wird von unserem bewussten Verstand häufig nicht ernst genommen. 
+{{% /small %}}
+{{% /box %}}
+
+{{% box blue=1 %}}
+{{% small %}}
 
 {{< image src="/img/silvia_3.jpg" float="right">}}
 
@@ -45,11 +100,16 @@ Aus genau diesem Grund vereine ich am IFGE die verschiedenen Ebenen wie Intuitio
 
 Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualitative Philosophie des IFGE finden Sie mittlerweile an **drei Standorten: in Wien, im Burgenland und in Niederösterreich**. Sowohl am Hauptstandort in Wien als auch in den Niederlassungen in Pinkafeld und St. Pölten wird diese Haltung von mir als Institutsleiterin und Hauptreferentin sowie von meinen sorgfältig ausgewählten und geschulten Referent\*innen gelebt. 
 
+{{% box blue=1 %}}
+{{% small %}}
 {{< image src="/img/supervisionswoche.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
 
 Schon die bloße Anwesenheit der Tiere erzeugt bei meinen KlientInnen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. 
+{{% /small %}}
+{{% /box %}}
+
 
 Tiere spüren darüber hinaus recht deutlich, ob Klient\*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auch dadurch auf intensive Weise. 
 So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
