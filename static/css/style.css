@@ -248,9 +248,18 @@ img {
     align-items: center;
 }
 
+.box.menu .card {
+    padding: 0.2em;
+}
+
 .box.blue img {
     padding-top: 1em;
     padding-bottom: 1em;
+}
+
+.box.menu img {
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 @media (max-width: 1024px) {
