@@ -3,7 +3,7 @@ title: "Anmeldung"
 menu: "main"
 draft: false
 weight: 6
-url: "/test.php"
+url: "/anmeldung.php"
 ---
 
 {{< php >}}
@@ -40,19 +40,19 @@ url: "/test.php"
         }
 
         function getMessageExtern() {
-            return "Liebe(r) " . $_POST['Anrede'] . " " . $_POST['Nachname'] . ",\n\nVielen Dank für Ihre Anmeldung zu:\n\n " .$_POST['Veranstaltung'] . ".\n\nDies ist noch keine Anmeldebestätigung, diese erhalten sie separat von Frau Silvia Podlisca.\n\nDiese Email wurde automatisch generiert.\n\nIFGE";
+            return "Liebe(r) " . $_POST['Anrede'] . " " . $_POST['Nachname'] . ",\n\nVielen Dank für Ihre Anmeldung zu:\n\n " .$_POST['Veranstaltung'] . ".\n\nDies ist noch keine Anmeldebestätigung, diese erhalten Sie separat von Frau Silvia Podlisca.\n\nDiese Email wurde automatisch generiert.\n\nInstitut für ganzheitliches Erleben - IFGE";
         }
 
         if (isset($_POST['submit']))
         {        
-            $from_intern = "noreply@ifge.at";
+            $from = "noreply@ifge.at";
 
             $feld_email = "Email";
             $feld_veranstaltung = "Veranstaltung";
             
             $empfaenger = "silvia.podlisca@ifge.at, wien@ifge.at, buchhaltung@ifge.at";
-            $empfaenger = "admin@leichtware.at, antje.stimpfl@leichtware.at";
-            $betreff = "Anmeldung für ";
+            //$empfaenger = "admin@leichtware.at, antje.stimpfl@leichtware.at";
+            $betreff = "Anmeldung ";
             
             $url_ok = "http://www.domain.de/ok.php"; //Zielseite, wenn E-Mail erfolgreich versendet wurde
             $url_fehler = "http://www.domain.de/fehler.php"; //Zielseite, wenn E-Mail nicht gesendet werden konnte                       
@@ -60,7 +60,7 @@ url: "/test.php"
             
             //E-Mail Adresse des Besuchers als Absender
             //if ($sendermail_antwort and isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {
-            //    $from_intern = $_POST[$feld_email];
+            //    $from = $_POST[$feld_email];
             //}
 
             // Betreff
@@ -70,22 +70,19 @@ url: "/test.php"
             $mail_intern = true;
             $mail_extern = true;
 
-            $mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from_intern, ""));
+            $mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, ""));
             
             // Auto-Response an Kunden
-            if (isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {
-                $from_extern = "wien@ifge.at";
-                                
-                $mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from_intern, ""));
+            if (isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {                                
+                $mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, ""));
             }
             
-            //Weiterleitung, hier konnte jetzt per echo auch Ausgaben stehen
             if($mail_intern && $mail_extern){
-                #echo "Vielen Dank für Ihre Anmeldung.";
-                echo "Intern:";
-                echo "Empfänger: ".$empfaenger."Betreff: ".$betreff."Message: ".getMessageIntern()." Header:".getHeader($from_intern, ""); 
-                echo "Extern:";
-                echo "Empfänger: ".$_POST[$feld_email]."Betreff: ".$betreff."Message: ".getMessageExtern()." Header:".getHeader($from_intern, ""); 
+                echo "Vielen Dank für Ihre Anmeldung.";
+                //echo "Intern:";
+                //echo "Empfänger: ".$empfaenger."Betreff: ".$betreff."Message: ".getMessageIntern()." Header:".getHeader($from, ""); 
+                //echo "Extern:";
+                //echo "Empfänger: ".$_POST[$feld_email]."Betreff: ".$betreff."Message: ".getMessageExtern()." Header:".getHeader($from, ""); 
                 #header("Location: ".$url_ok); //Mail wurde gesendet
                 exit();
             } else{
@@ -110,7 +107,7 @@ Mit Ihrer Anmeldung stimmen Sie den AGB zu. Die Widerrufsbelehrung und Datenschu
 
 {{< line >}}
 
-<form method="post" action="test.php">
+<form method="post" action="anmeldung.php">
 <div class=formular>
     <label for="anrede" class="required">Anrede</label>
     <div>
@@ -134,7 +131,7 @@ Mit Ihrer Anmeldung stimmen Sie den AGB zu. Die Widerrufsbelehrung und Datenschu
         {{< kurse-select >}}
     </select>
     <label for="aufst">nur bei Aufstellungen</label>
-    <select id="aufst" name="nur bei Aufstellungen">
+    <select id="aufst" name="Nur bei Aufstellungen">
             <option>-</option>
             <option>Familienaufstellung - mit eigenem Anliegen</option>
             <option>Familienaufstellung - teilnehmender Beobachter</option>
