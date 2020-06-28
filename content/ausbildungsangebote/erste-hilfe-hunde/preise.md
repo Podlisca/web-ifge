@@ -2,9 +2,9 @@
 title: "Preise"
 menu: 
     main:
-        parent: politik
-        identifier: politik_preise
-draft: false
+        parent: hunde
+        identifier: hunde_preise
+draft: true
 weight: 2
 ---
 

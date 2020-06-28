@@ -4,7 +4,7 @@ menu:
     main:
         parent: hunde
         identifier: hunde_ziele
-draft: false
+draft: true
 weight: 1
 ---
 

@@ -2,9 +2,9 @@
 title: "Termine"
 menu: 
     main:
-        parent: politik
-        identifier: politik_termine
-draft: false
+        parent: hunde
+        identifier: hunde_termine
+draft: true
 weight: 3
 ---
 
