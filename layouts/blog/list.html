@@ -1,21 +1,39 @@
 {{ define "main"}}
+
+    {{ .Content }}
+
     <style>
         .post-container {
             display: flex;
-            flex-direction: column;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: left;         
+        }
+        .post-container .post:nth-child(even) {
+            background-color: var(--color-blue);
         }
 
         article header {
             background: none;            
-            overflow: hidden;
+            overflow: visible;
+            height: 9em;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
 
         article.post {
-            display: grid;
+            margin: 0.5em;
+            max-width: 31%;
+            display: grid;            
             grid-template-areas: 
-            " header header "
-            " pic main ";
+            " header "
+            " pic "
+            " main "
+            " . ";
+            grid-template-rows: auto auto auto 1fr;
         }
+        
 
         article.post > div {
             grid-area: main;
@@ -30,6 +48,7 @@
                 height: auto;
             }
             article.post {
+                max-width: 100%;
                 grid-template-areas: 
                 " header "
                 " pic "
@@ -43,16 +62,14 @@
 
         article.post img {
             grid-area: pic;
-        }
-                
+        }    
 
     </style>
-    <h2 id="title">BLOG</h2>    
+
     <div class="post-container">        
         {{ range .Pages.Reverse }}            
           {{ .Render "summary"}}
         {{ end }}
     </div>
-
 
 {{ end }}

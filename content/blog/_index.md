@@ -6,3 +6,7 @@ weight: 7
 ---
 
 # BLOG
+
+{{< slogan >}}
+
+{{< line icon="icon/blog.png" >}}
