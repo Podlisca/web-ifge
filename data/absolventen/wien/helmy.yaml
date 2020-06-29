@@ -10,9 +10,10 @@ Text:
     - "Meine Schwerpunkte liegen in der systemischen Beratung, Krisenberatung, sowie Behinderung und Angehörigenberatung."
     - "In einem geschützten Rahmen begleite ich individuell und wertschätzend jedes Anliegen!"
 Kontakt:
-    - "Prozessbegleitung LUHE"
-    - "Kratochwiljestraße 12/ Turm 2/ Top 3"
-    - "1220 Wien"
-    - "Tel.: +43 676 953 62 63"
-    - "E-Mail: helmy@luhe-prozessbegleitung.com"
-    - "Web: https://www.luhe-prozessbegleitung.com/"
+    Anschrift:
+        - "Prozessbegleitung LUHE"
+        - "Kratochwiljestraße 12/ Turm 2/ Top 3"
+        - "1220 Wien"
+    Tel: +43 676 953 62 63
+    Email: helmy@luhe-prozessbegleitung.com
+    Web: www.luhe-prozessbegleitung.com
