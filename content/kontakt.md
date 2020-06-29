@@ -7,6 +7,8 @@ weight: 8
 
 # {{< param title >}}
 
+{{< slogan >}}
+
 {{< line icon="icon/3_standorte.png" >}}
 
 {{% box top-align=1 %}}
