@@ -1,5 +1,7 @@
 Name: Dr. Dieter Schmutzer
 Reihenfolge: 1
+Bundesland:
+    - Wien
 Bild: /img/schmutzer.jpg
 Float: left
 Text: 
