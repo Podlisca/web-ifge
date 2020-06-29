@@ -14,8 +14,14 @@ weight: 3
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-[Fotodokumentation](https://www.ifge.at)
+Die folgenden Bilder wurden gestellt, um Ihnen einen Einblick in meine Arbeit zu ermöglichen bzw. damit Sie sich einen Eindruck verschaffen können.
 
+Es werden laufend neue Fotos, Videos und Erklärungen hinzugefügt. Bitte die Fotos anklicken um die Untertiteln zu sehen!
 
-link unter familienaufstellung
-Seite noch unterzuordnen 
+## VERSÖHNUNG KANN NICHT DIE VERGANGENHEIT VERÄNDERN - SIE BEREICHERT ABER UNSERE ZUKUNFT UNGEMEIN!
+
+### Ablauf einer Aufstellung
+
+{{% floatbox %}}
+
+{{< image src="/img/aufstellungsdoku_1.jpg" float="right" title="Bildbeschreibung" >}}
