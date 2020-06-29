@@ -16,7 +16,9 @@ Um nach Abschluss des Diplomlehrganges zur Lebens- und Sozialberatung – psycho
 
 Die zehn Einzelsupervisions-Stunden müssen hingegen selbst organisiert werden. Bei der Suche nach einem passenden Supervisor bzw. einer passenden Supervisorin ist wichtig, zu beachten, dass sowohl die Stunden der Gruppensupervision als auch die Einzelsupervisions-Stunden nur dann für den Gewerbeschein angerechnet werden können, wenn sie bei eingetragenen Lebens- und Sozialberater\*innen mit aufrechtem Gewerbeschein absolviert werden, die selbst mindestens 100 Stunden an Supervisionsfortbildung nachweisen können.
 
-Sowohl alle Supervisor\*innen, die sich auf der entsprechenden WKO-Liste haben eintragen lassen, als auch die folgenden Supervisor\*innen erfüllen diese Voraussetzungen gesichert:
+Sowohl alle Supervisor\*innen, die sich auf der entsprechenden WKO-Liste haben eintragen lassen, als auch die folgenden Supervisor\*innen erfüllen diese Voraussetzungen gesichert.
+
+**(Für das Absolvieren der Supervision bei klinischen Psycholog\*innen und Psychotherapeut*innen gelten eigenständige WKO-Richtlinien)**
 
 http://localhost:1313/about/ifge_supervisoren.html
 
