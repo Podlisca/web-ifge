@@ -22,5 +22,5 @@ Einen Überblick über Kursteilnehmer\*innen am IFGE in ganz unterschiedlichen S
 
 [Merkblatt i.A.u.S zum herunterladen](/downloads/Merkblatt-LSB-in-Ausbildung-unter-Supervision.pdf)
 
-{{< in-ausbildung-liste >}}
+{{< personen-liste "inausbildung" "in-ausbildung.html" >}}
 
