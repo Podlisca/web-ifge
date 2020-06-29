@@ -42,13 +42,13 @@
                         {{ . }}<br>
                     {{ end }}
                     {{ with .Tel }}
-                        <a href="tel:{{ . }}">{{ . }}</a><br>
+                        Tel.: <a href="tel:{{ . }}">{{ . }}</a><br>
                     {{ end }}
                     {{ with .Mail }}
-                        <a href="mailto:{{ . }}">{{ . }}</a><br>
+                        E-Mail: <a href="mailto:{{ . }}">{{ . }}</a><br>
                     {{ end }}
                     {{ with .Web }}
-                        <a href="//{{ . }}" target="_blank">{{ . }}</a><br>
+                        Web: <a href="//{{ . }}" target="_blank">{{ . }}</a><br>
                     {{ end }}
                 </div>
             {{ end }}

@@ -12,7 +12,7 @@ weight: 3
 
 {{< slogan >}}
 
- {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
+{{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
 ## Wir vermitteln Wissen mit Spaß, Leidenschaft und persönlichem Engagement!
 

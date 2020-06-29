@@ -35,14 +35,23 @@
             {{ end }}
         </div>
         <div class="box" style="align-items: flex-start;">
-            {{ if .Kontakt }}
+            {{ with .Kontakt }}
                 <div class="small">
                     <h3>Kontakt</h3>
-                    {{ range .Kontakt }}
-                        {{ . }}<br/>
-                    {{ end }}    
+                    {{ range .Anschrift }}
+                        {{ . }}<br>
+                    {{ end }}
+                    {{ with .Tel }}
+                        Tel.: <a href="tel:{{ . }}">{{ . }}</a><br>
+                    {{ end }}
+                    {{ with .Mail }}
+                        E-Mail: <a href="mailto:{{ . }}">{{ . }}</a><br>
+                    {{ end }}
+                    {{ with .Web }}
+                        Web: <a href="//{{ . }}" target="_blank">{{ . }}</a><br>
+                    {{ end }}
                 </div>
-            {{ end }}            
+            {{ end }}
         </div>
     </div>
 {{ end }}
