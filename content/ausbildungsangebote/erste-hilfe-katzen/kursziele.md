@@ -2,12 +2,13 @@
 title: "Kursziele"
 menu: 
     main:
-        parent: hunde
-        identifier: hunde_ziele
+        parent: katzen
+        identifier: katzen_ziele
 draft: true
 weight: 1
 ---
-## Erste Hilfe für Hunde
+
+## Erste Hilfe für Katzen
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
@@ -15,13 +16,12 @@ weight: 1
 {{% floatbox %}}
 
 
-{{< image src="/img/erste-hilfe_hunde_1.jpg" float="left">}}
+{{< image src="/img/erste-hilfe_katzen_2.jpg" float="left">}}
 
 ## DER KURS GLIEDERT SICH IN EINEN THEORETISCHEN UND EINEN PRAKTISCHEN TEIL.
 
 Ziel des Kurses ist es, dass die Kursteilnehmer in Notfallsituationen Ruhe bewahren und abschätzen lernen, wie rasch eine tierärztliche Behandlung notwendig ist.
 
-Aufbau: im Wechsel: 2 Stunden Theorie / 2 Std. Üben: zur praktischen Anwendung des Gelernten hinsichtlich Gefahrenquellen, Wiederbelebungs-Maßnahmen, Wundversorgung u.ä. stehen - neben einem Modell - mit einem geduldigen und ausbildungs-erprobten Auftreten, auch die beiden „Instituts-Hunde“ Pluto und Sally zur Verfügung. 
 
 {{% /floatbox %}}
 

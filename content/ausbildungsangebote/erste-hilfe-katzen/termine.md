@@ -2,13 +2,13 @@
 title: "Termine"
 menu: 
     main:
-        parent: hunde
-        identifier: hunde_termine
+        parent: katzen
+        identifier: katzen_termine
 draft: true
 weight: 3
 ---
 
-## Erste Hilfe für Hunde
+## Erste Hilfe für Katzen
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

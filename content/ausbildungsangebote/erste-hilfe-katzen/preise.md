@@ -2,13 +2,14 @@
 title: "Preise"
 menu: 
     main:
-        parent: hunde
-        identifier: hunde_preise
+        parent: katzen
+        identifier: katzen_preise
 draft: true
 weight: 2
 ---
 
-## Erste Hilfe für Hunde
+## Erste Hilfe für Katzen
+
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

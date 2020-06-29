@@ -15,9 +15,11 @@ weight: 10
 
 {{% floatbox %}}
 
-{{< image src="/img/politik_1.jpg" float="left">}} 
+
 
 ## Soforthilfe - bei Akutsituationen richtig reagieren
+
+{{< image src="/img/erste-hilfe_hunde_2.jpg" float="left">}} 
 
 Durch richtige Sofortmaßnahmen können Sie ihrem Tier helfen, Schmerzen lindern und vielleicht sogar das Leben retten. Unser Seminar „Erste Hilfe für Hunde“ soll Sicherheit geben, wie man in Gefahrensituationen sachkundig reagiert. Viele Notfälle sind vermeidbar, sollte es doch dazu kommen ist es wichtig Ruhe zu bewahren und durch eine gute Vorbereitung rasch, RICHTIG helfen - wie beim Menschen sind auch für unsere Vierbeiner oft gerade die ersten Minuten bei der Ersten Hilfe entscheidend.
 
