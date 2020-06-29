@@ -1,0 +1,38 @@
+
+
+{{ $data := index $.Site.Data (.Get 0 ) }}
+{{ $toggle := false }}
+{{ $template := ( .Get 1 )}}
+
+{{ range sort $.Site.Data.bundeslaender "Reihenfolge" "asc"}}  
+
+   {{ $bundesland := .}}
+   {{ $printHeader := true }}
+   {{ $.Scratch.Set "printHeader" true }}
+   
+   {{ range sort $data "Reihenfolge" "asc" }} 
+   <!-- where funktioniert nicht, deshalb auf if zurückgreifen -->
+      {{ if in .Bundesland $bundesland.Name }}
+         {{ if ($.Scratch.Get "printHeader") }}
+            <hr/>
+            <h2>{{ $bundesland.Name }}</h2>
+            <hr/>
+            {{ $.Scratch.Set "printHeader" false }}
+         {{ end }}
+
+         {{ if $toggle }}    
+            {{ partial $template (dict "context" . "style" "" ) }}
+            {{ $toggle = false }}
+         {{ else }}
+            {{ partial $template (dict "context" . "style" "blue" ) }}
+            {{ $toggle = true }}
+         {{ end}}
+
+      {{ end }}
+
+   {{ end}}   
+
+{{ end }}
+
+
+

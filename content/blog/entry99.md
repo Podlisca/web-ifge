@@ -7,14 +7,12 @@ img: "blog_psychologische_beratung.jpg"
 ---
 
 Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca
-Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen!
 
- 
+Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen!
 
 Hinter jedem steckt etwas anderes.
 
 Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier.
-
 
 Beratungs-, Therapie- und Arztangebote gibt es viele. Vor allem bei Worten, die mit PSYCH beginnen, ist die Verwirrung daher oftmals groß. Was ist jetzt was? Und wo bin ich am besten aufgehoben? Und was entspricht eher weniger dem, was ich mir an Hilfestellung erwarte? Die Fragen rund um den Bereich der psychosozialen Angebote sind breit gefächert, denn die Begriffe klingen durchaus ähnlich. Wir haben daher hier für Sie einen übersichtlichen und umfassenden Überblick zusammengestellt, mit dem Sie in Zukunft diese Fragen für sich ganz einfach beantworten können.
 

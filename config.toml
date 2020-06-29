@@ -4,6 +4,8 @@ title = "IFGE"
 author = "Leichtware GmbH"
 uglyurls = true
 
+summaryLength = 30
+
 [markup.goldmark.renderer]
 unsafe = true
 

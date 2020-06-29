@@ -21,5 +21,4 @@ Als Institutsleiterin freue ich mich persönlich über jeden einzelnen Absolvent
 IFGE ist bekannt dafür, alle Schüler\*innen und auch Absolvent\*innen gleichermaßen effizient und wertschätzend dabei zu unterstützen, als selbstständige Berater\*innen erfolgreich Fuß zu fassen. Einen Überblick über Absolvent\*innen in ganz unterschiedlichen Stadien ihrer unternehmerischen Selbstständigkeit finden Sie hier:
 
 
-
-{{< absolvent-liste >}}
+{{< personen-liste "absolventen" "absolvent.html" >}}

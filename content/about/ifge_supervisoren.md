@@ -22,4 +22,4 @@ http://localhost:1313/about/ifge_supervisoren.html
 
 {{% /floatbox %}}
 
-{{< ifge-supervisoren-liste >}}
+{{< personen-liste "ifge_supervisoren" "ifge-supervisor.html" >}}
