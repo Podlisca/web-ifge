@@ -29,17 +29,10 @@ jobs:
       env:
         TZ: Europe/Vienna 
 
-    - name: Conimage AWS Credentials
-      uses: aws-actions/configure-aws-credentials@v1
+    - name: Deploy to FTP
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: eu-central-1
-
-    - name: Deploy
-      run: aws s3 sync ./public/ s3://ifge --delete
-    
-    - name: Invalidate cloudfront cache
-      run: aws cloudfront create-invalidation --distribution-id=$CLOUDFRONT_DISTRIBUTION_ID --paths '/*'
-      env:
-        CLOUDFRONT_DISTRIBUTION_ID: E2GBO2MFXB3TV4
+        ftp-server: ftp://ftp.issp.at
+        ftp-username: spodlisca_ftp2
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        local-dir:  ./public/
