@@ -78,7 +78,7 @@ Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professio
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/gesunde_perversion_3.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/silvia_wien1.jpg" title="Bildbeschreibung" float="left" >}}
 
 In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. 
 
@@ -92,7 +92,7 @@ Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkenne
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/gesunde_perversion_2.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/sex_upgrade_wien.jpg" title="Bildbeschreibung" float="right" >}}
 
 Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. 
 
