@@ -36,4 +36,4 @@ jobs:
         user: spodlisca_ftp2
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "public"
-        remoteDir: "/"
+        remoteDir: "/citest"
