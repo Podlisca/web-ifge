@@ -29,10 +29,11 @@ jobs:
       env:
         TZ: Europe/Vienna 
 
-    - name: Deploy to FTP
-      uses: SamKirkland/FTP-Deploy-Action@3.1.1
+    - name: Deploy to FTP 
+      uses: sebastianpopp/ftp-action@releases/v2
       with:
-        ftp-server: ftp://ftp.issp.at
-        ftp-username: spodlisca_ftp2
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
-        local-dir:  ./public/
+        host: ftp://ftp.issp.at
+        user: spodlisca_ftp2
+        password: ${{ secrets.FTP_PASSWORD }}
+        localDir: "public"
+        remoteDir: "/"
