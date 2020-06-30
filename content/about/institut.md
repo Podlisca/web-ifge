@@ -81,7 +81,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/das_institut1.jpg" >}}
+{{< image src="/img/unterstuetzung_wien.jpg" >}}
 {{< image src="/img/institut_5.jpg" >}}
 {{% /small  %}}
 
