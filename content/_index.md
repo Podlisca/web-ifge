@@ -124,7 +124,7 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 

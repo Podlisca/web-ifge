@@ -14,7 +14,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}} 
+{{< image src="/img/lsb_kursziele.jpg" float="left">}} 
 
 Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
 
@@ -67,7 +67,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin [Silvia Podlisca](/about/ueber_mich.html) mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen **bezüglich des Kundenaufbaus** weiter, vermittelt, worauf man bei der **Selbstständigkeit** achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
 {{% /card-more %}}
 
-{{% card-more title="Entwicklung & Unterstützung" img="entwicklung_unterstuetzung.jpg" %}}
+{{% card-more title="Entwicklung & Unterstützung" img="entwicklung_wien.jpg" %}}
 Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. 
 
 Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. 

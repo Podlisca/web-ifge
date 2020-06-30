@@ -17,7 +17,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_philo.jpg" float="left" title="Bildbeschreibung" format="hoch">}}
+{{< image src="/img/lsb_start.jpg" float="left" title="Bildbeschreibung" format="hoch">}}
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
 

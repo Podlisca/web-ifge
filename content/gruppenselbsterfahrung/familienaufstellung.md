@@ -8,13 +8,13 @@ draft: false
 weight: 3
 ---
 
-# Familienaufstellung nach Bert Hellinger
+# Familienaufstellung mit Silvia Podlisca
 {{< slogan >}}
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% floatbox %}}
 
-## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG NACH BERT HELLINGER
+## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG mit Silvia Podlisca
 
 {{< image src="/img/familienaufstellung_1.jpg" float="left">}}
 

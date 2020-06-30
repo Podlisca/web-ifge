@@ -13,7 +13,7 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="icon/zeig_dich.png" >}}
+{{< line icon="icon/spass_internet.png" >}}
 
 {{% floatbox %}}
 
@@ -39,7 +39,7 @@ Denn am IFGE vertreten wir die Auffassung: Wissen macht stark, unabhängig und d
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/spass_internet.png" >}}
 
 ## VERTRAUEN AUFBAUEN UND DIE JUGENDJAHRE GENIESSE
 
