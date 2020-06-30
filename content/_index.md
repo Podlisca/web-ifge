@@ -31,7 +31,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 
 {{% floatbox %}}
 
-{{< image src="/img/home_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="Bildbeschreibung" >}} 
 
 In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/philosophie-und-kursangebot.html) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
@@ -95,7 +95,7 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/qualitaetsausbildungen.jpg" >}}
+{{< image src="/img/vertrauenslehrer_bgld.jpg" >}}
 
 #### Qualitätsausbildungen
 
