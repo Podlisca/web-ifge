@@ -3,7 +3,7 @@ title: "Lebenslanges Lernen – Heute ist früh genug"
 draft: false
 tags: []
 weight: 97
-img: "blog_unterricht1.jpg"
+img: "foto2_burnout_tiere.jpg"
 ---
 
 Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca
