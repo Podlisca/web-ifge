@@ -26,7 +26,7 @@ Der Bereich der [Sexualberatung](https://www.ifge.at) ist damit eine wesentliche
 
 Da es für Klient\*innen großes Vertrauen in die Beratenden benötigt, um sich in einem derart gelagerten Beratungsprozess überhaupt zu öffnen, sind geschulte und empathiefähige Berater\*innen immer wieder gefragt. Weil das Feld der Sexualberatung aufgrund der hochintimen Anliegen der Klient\*innen ein besonders sensibles ist, ist es wichtig, möglichst umfassend im Bereich der [Sexual- und Paarberatung](https://www.ifge.at) ausgebildet zu sein, um die eigenen Klient\*innen optimal unterstützen zu können. Viele Ausbildungen im Bereich der [Lebens- und Sozialberatung - psychologischen Beratung](https://www.ifge.at) streifen dieses Themengebiet nur kurz, wodurch sich manche Lebens- und Sozialberater\*innen - psychologische Berater\*innen mit sexuellen Klient\*innen-Anliegen unwohl oder gar überfordert fühlen.
 
-{{< image src="/img/sexualberatung_paarberatung_2.jpg" title="Bildbeschreibung" float="right">}}
+{{< image src="/img/sex_upgrade_wien.jpg" title="Bildbeschreibung" float="right">}}
 
 Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberatung – psychologischen Beratung ein besonderes Hauptaugenmerk auf die Besonderheiten und Interventionsmöglichkeiten in der Paar- und Sexualberatung gelegt wird, können im Rahmen der Gesamtausbildung bestimmte vertiefende Themen dennoch nur im Überblick für die reguläre Arbeit in der psychologischen Beratung behandelt werden. Wer sich später auf das Thema „Sexualberatung“ spezialisieren und das in der Grundausbildung erlernte Wissen vertiefen sowie erweitern möchte, der hat dazu in unserem Upgrade die Möglichkeit. Die Fortbildung eignet sich darüber hinaus selbstverständlich auch für alle diplomierten oder sich in Ausbildung befindlichen psychologischen Berater\*innen anderer Ausbildungsinstitute, die ihre Interventionsmöglichkeiten vertiefen möchten.
 
@@ -78,7 +78,7 @@ Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professio
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/gesunde_perversion_3.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/silvia_wien1.jpg" title="Bildbeschreibung" float="left" >}}
 
 In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. 
 
@@ -92,7 +92,11 @@ Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkenne
 
 {{% box blue=1 %}}
 {{% small %}}
+<<<<<<< HEAD
 {{< image src="/img/burgenland_unterricht.jpg" title="Bildbeschreibung" float="right" >}}
+=======
+{{< image src="/img/sex_upgrade_wien.jpg" title="Bildbeschreibung" float="right" >}}
+>>>>>>> 54dac9c5ca44bced6707fb06c325029cfd4540ac
 
 Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. 
 
