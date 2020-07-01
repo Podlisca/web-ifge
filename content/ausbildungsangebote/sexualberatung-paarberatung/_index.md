@@ -14,7 +14,7 @@ weight: 5
 {{< line icon="icon/paar_sexualberatung.png" >}}
 {{% floatbox %}}
 
-{{< image src="/img/sexualberatung_paarberatung_1.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/gewaltspirale_noe.jpg" title="Bildbeschreibung" float="left" >}}
 
 **Methodenschwerpunkt:** gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, systemische Gesprächsführung
 
@@ -49,7 +49,7 @@ Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberat
 
 {{% floatbox %}}
 
-{{< image src="/img/sexualberatung_paarberatung_3.jpg" title="Bildbeschreibung" float="left">}}
+{{< image src="/img/unterricht_sexualberatung_wien.jpg" title="Bildbeschreibung" float="left">}}
 
 Durch unsere hochmodernen Unterrichtsmethoden, die Expertise unserer Referent\*innen und den idealen Mix aus der Vermittlung von aktuellstem Fachwissen und praxisnahen Übungssequenzen erweitern Sie Ihr fachspezifisches Wissen spielerisch und können sich mit Ihrem fundierten Zusatzangebot von Ihren Kolleg*innen  abgrenzen. 
 
@@ -92,7 +92,7 @@ Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkenne
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/gesunde_perversion_2.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/burgenland_unterricht.jpg" title="Bildbeschreibung" float="right" >}}
 
 Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. 
 
