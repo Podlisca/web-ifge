@@ -3,9 +3,9 @@ title: "Lebenslanges Lernen – Heute ist früh genug"
 draft: false
 tags: []
 weight: 97
-img: "zeig_dich_ziel_wien.jpg"
+img: "lernen_lebenslang_bgld.jpg"
 ---
-
+g
 Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca
 „Lebenslanges Lernen“ – dieser Begriff fasst seit einigen Jahrzehnten verschiedenste Konzepte der Erwachsenenbildung zusammen. Auf die unterschiedlichen theoretischen Ausführungen dieser beiden Worte ist an anderer Stelle bereits zur Genüge eingegangen worden. Ich möchte mich hier stattdessen im Besonderen mit der praktischen Seite des lebenslangen Lernens auseinandersetzen. Was in der Theorie den meisten klar ist, nämlich dass wir Menschen ein Leben lang lernen, sieht in der gedanklichen Praxis oftmals anders aus. Ab einem gewissen Alter scheint nämlich ein Glaubenssatz an Bedeutung zu gewinnen: „Na jetzt brauch' ich auch nicht mehr damit anfangen.“ Und genau darauf möchte ich heute eingehen. 
 
