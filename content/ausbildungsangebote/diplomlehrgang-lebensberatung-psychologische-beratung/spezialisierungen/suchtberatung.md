@@ -12,7 +12,7 @@ draft: false
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sucht_beratung_wien.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Abhängigkeit ist zu Beginn sehr häufig der missglückte Selbstversuch, eine bestimmte belastende Erfahrung oder eine schwierige Lebenssituation zu bewältigen. Mit der Substanz soll das „Abschalten“ oder „Entspannen“ gelingen, was immer nur sehr kurzfristig der Fall ist. Gleichzeitig besteht durch einen solchen Bewältigungsversuch die Gefahr, dass eine Toleranz gegenüber der Substanz entsteht, wodurch ein Teufelskreis beginnen kann, der letztlich in die Sucht führt.
 
@@ -27,7 +27,7 @@ Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 * **Kaufsucht** – Wenn Shopping zum unstillbaren Wunsch wird, sich glücklich zu kaufen.
 * **Medikamentensucht** – Wenn Substanzen still und heimlich wirken.
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/sucht2_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
 Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Schicksalsschlägen, körperlichen Erkrankungen, Existenzverlust und Einsamkeit. Nicht selten führt Sucht über kurz oder lang auch zum Tod. Abhängigkeit und Suchttendenzen gehen dabei nicht nur für die Betroffenen zu Lasten ihrer eigenen Lebensqualität, sie setzen auch [Angehörige](https://www.ifge.at) unter enormen Druck und erzeugen bei ihnen quälende Gefühle von Macht- und Hilflosigkeit, sowie Wut und Scham. Dadurch entstehend sogenannte gesundheitsgefährdende [Co-Abhängigkeiten](https://www.ifge.at).
 [Psychologische Beratung](https://www.ifge.at) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 

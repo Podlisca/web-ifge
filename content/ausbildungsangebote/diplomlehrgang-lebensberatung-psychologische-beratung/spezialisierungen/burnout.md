@@ -11,7 +11,7 @@ draft: false
 ***
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/Krise.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ausgebrannt sein, die eigene Motivation nicht mehr in sich finden können, an einem Punkt angelangt sein, wo alles anstrengend und sinnlos erscheint – und das nicht nur in Form einer Phase, sondern als langfristiger Dauerzustand. So in etwa könnten Burn-out-Klient\*innen einen Teil ihrer Symptome beschreiben.
 
