@@ -19,13 +19,13 @@ Das Wort „Burn-out“ ist dabei seit Jahren in aller Munde und aus dem geschä
 
 Lassen Sie es nicht so weit kommen. Je früher Sie die Hilfe der psychologischen Beratung in Anspruch nehmen, umso leichter finden Sie wieder in Ihre gewohnte Kraft zurück. In der Beratung werden Sie Stück für Stück entdecken, wie Sie das Gefühl der Ohnmacht hinter sich lassen können, um Ihren Alltag wieder selbstbestimmt und aktiv zu gestalten. 
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/burnout_beratung.jpg" float="right" title="Bildbeschreibung" >}}
 
 Um gesund zu bleiben, ist es empfehlenswert, die Gefühle des Ausgebranntseins nicht einfach zu ignorieren, sondern eine bewusste Entscheidung für einen wieder kraftvoll gelebten Alltag zu treffen. Mit der aktiven Entscheidung, Beratung und Begleitung zeitgerecht in Anspruch zu nehmen, gelingt Ihnen bereits ein wesentlicher Schritt hin zu einem wieder erfüllenden und motivierten Leben. Zögern Sie also bitte nicht, eine Entscheidung zu treffen, die Ihnen dabei helfen kann, wieder zuversichtlich und von Energie erfüllt durchs Leben zu gehen. Sollte sich in der Beratung dabei herausstellen, dass Sie ein frühes Stadium des Erschöpfungszustandes bereits überschritten haben, wird die psychologische Begleitung – in Ihrem Interesse – von mir ausschließlich in Zusammenarbeit mit einem Arzt angeboten. 
 
 Burn-out ist also keineswegs als wohlverdiente Pause, die man sich hart erarbeitet hat, zu verstehen, sondern als ernstzunehmendes Symptom mit vielen Warnsignalen VOR einer endgültigen Erkrankung. Denn aus dem ohnmächtigen Gefühl des Ausgebranntseins kann rasch eine ärztlich und psychotherapeutisch behandlungsbedürftige Depression entstehen. Da jedoch unserer Gesellschaft vielfach nicht bewusst ist, wie leichtfertig das Wort „Burn-out“ ausgesprochen wird, erscheint uns dieser Begriff heute als Modeddiagnose, die belächelt werden darf.
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/burnout2_bgld.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Dazu gehört, dass dieser Zustand mittlerweile gerne als Synonym für stressige Phasen im Büro oder im Privatleben verwendet wird. „Wenn das so weitergeht, muss ich kündigen, sonst krieg ich gleich ein Burn-out“ oder „Ich bin schon am Rande des Burn-outs mit den Kindern“ hört man immer wieder. Aus diesen leichtfertigen Aussagen, die Stressphasen mit Burn-out gleichsetzen, ergibt sich, dass Betroffene gelegentlich wenig ernst genommen werden. Menschen, die sich einem tatsächlichen Burn-out nähern, empfinden dadurch oft eine große Hemmschwelle, sich Hilfe zu holen. Die Sorge, dass die eigenen, nagenden Gefühle lapidar mit „Also dann streng dich halt mehr an“ oder „Das darfst du nicht so ernst nehmen“ abgetan werden, hindert Betroffene immer wieder daran, präventive Beratung in Anspruch zu nehmen. Dabei sind gerade diese verinnerlichten Sätze wie „Ich muss stark und perfekt sein“ oder „Da muss ich jetzt durchbeißen“ erste recht deutliche Warnsignale, die unbedingt ernst genommen werden sollten.
 
