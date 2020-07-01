@@ -8,7 +8,7 @@ draft: false
 
 # Suchtberatung
 {{< slogan >}}
-***
+{{< line icon="icon/sucht.png" >}}
 
 {{% floatbox %}}
 
@@ -38,7 +38,7 @@ Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden
 
 {{% /floatbox %}}
 
-***
+{{< line icon="icon/sucht.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}

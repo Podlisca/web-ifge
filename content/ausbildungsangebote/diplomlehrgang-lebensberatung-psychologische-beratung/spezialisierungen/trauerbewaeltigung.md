@@ -8,7 +8,7 @@ draft: false
 
 # Trauerbewältigung
 {{< slogan >}}
-***
+{{< line icon="icon/trauer.png" >}}
 
 {{% floatbox %}}
 {{< image src="/img/trauer_beratung_bgld.jpg" float="left" title="Bildbeschreibung" >}} 
@@ -32,7 +32,7 @@ Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Mensche
 {{% /floatbox %}}
 
 
-***
+{{< line icon="icon/trauer.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}

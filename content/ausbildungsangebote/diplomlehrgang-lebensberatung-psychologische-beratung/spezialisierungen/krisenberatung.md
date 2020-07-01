@@ -7,7 +7,7 @@ draft: false
 ---
 # Krisenberatung
 {{< slogan >}}
-***
+{{< line icon="icon/krise.png" >}}
 
 {{% floatbox %}}
 Und mit einem Mal ist alles anders. Nichts ist mehr so, wie es vorher war. Plötzlich ist das gesamte Leben auf den Kopf gesellt. Und von jetzt auf gleich ist nicht mehr klar, wie es weitergehen kann.
@@ -32,7 +32,7 @@ Eine Atmosphäre der Sicherheit und des Trostes entsteht also schon alleine durc
 Ich begleite meine Klient\*innen schon langjährig u.a. im Falle von Krisen und in Situationen, aus denen kein Ausweg möglich scheint. Sie bekommen bei mir Zeit und Raum, um in Ihrem Tempo über die Dinge zu sprechen, die Ihnen am Herzen liegen.
 {{% /floatbox %}}
 
-***
+{{< line icon="icon/krise.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}

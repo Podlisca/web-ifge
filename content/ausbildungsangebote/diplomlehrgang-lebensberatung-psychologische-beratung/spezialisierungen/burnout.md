@@ -8,7 +8,7 @@ draft: false
 
 # Burn-out Beratung
 {{< slogan >}}
-***
+{{< line icon="icon/burn_out.png" >}}
 
 {{% floatbox %}}
 {{< image src="/img/Krise.jpg" float="left" title="Bildbeschreibung" >}} 
@@ -39,7 +39,7 @@ Gerade in der Burn-out-Prävention ist die tiergestützte Begleitung – insbeso
 
 {{% /floatbox %}}
 
-***
+{{< line icon="icon/burn_out.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
