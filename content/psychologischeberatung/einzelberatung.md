@@ -17,7 +17,7 @@ weight: 2
 
 {{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden. 
+Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden.
 
 Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und genügend Zeit und Raum haben, in einem geschützten Rahmen zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. In meinen Beratungsräumen können Sie alle Ängste und Gefühle wie Ärger, Kränkungen, Enttäuschungen ... – aber auch alle euphorischen Gefühle – zuzulassen.
 
