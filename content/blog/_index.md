@@ -2,7 +2,7 @@
 title: "BLOG"
 menu: main
 draft: false
-weight: 7
+weight: 8
 ---
 
 # BLOG

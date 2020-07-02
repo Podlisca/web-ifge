@@ -2,8 +2,9 @@
 title: "Systemdimensionsbrett"
 menu:
     main:
-        parent: berufsbild
-draft: false
+        parent: psychologischeberatung
+        identifier: systemdimensionsbrett
+draft: true
 ---
 
 # SystemDimensionsBrett®

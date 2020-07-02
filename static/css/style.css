@@ -257,6 +257,11 @@ img {
     padding-bottom: 1em;
 }
 
+.box.blue img.small {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
 .box.menu img {
     padding-top: 0;
     padding-bottom: 0;
