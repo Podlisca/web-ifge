@@ -27,9 +27,10 @@ weight: 3
 
 
 {{% box top-align=1 %}}
-{{% small  %}}
+{{% small %}}
 #### Wien
-{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+
+{{< slider >}}
 
 * 30.09.2020 
 * 28.10.2020 
