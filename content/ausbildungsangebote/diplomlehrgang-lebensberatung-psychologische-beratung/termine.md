@@ -30,7 +30,7 @@ weight: 3
 {{% small %}}
 #### Wien
 
-{{< slider >}}
+{{< slider content="/img/ifge_wien.jpg,/img/ifge_stpoelten.jpg,/img/ifge_pinkafeld.jpg" >}}
 
 * 30.09.2020 
 * 28.10.2020 
