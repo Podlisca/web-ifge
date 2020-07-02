@@ -113,7 +113,7 @@ Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung
 
 {{% small  %}}
 
-{{< image src="/img/bildungsphilosophie.jpg" >}}
+{{< image src="/img/bildungsphilo_noe.jpg" >}}
 
 #### Bildungsphilosophie 
 Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb.html), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](/ausbildungsangebote/philosophie-und-kursangebot.html). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  

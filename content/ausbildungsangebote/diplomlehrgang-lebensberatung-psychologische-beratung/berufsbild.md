@@ -67,7 +67,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 ***
 
 {{% box more=1 top-align=1 %}}
-{{% card-more img="berufsbild_krise.jpg" title="KRISE/SUCHT/BURN-OUT"  %}}
+{{% card-more img="krise_noe.jpg" title="KRISE/SUCHT/BURN-OUT"  %}}
 Mein persönlicher Zugang zu der Arbeit mit Klient\*innen, die sich in Krisen befinden, ist, sie professionell und emphatisch dabei zu unterstützen, in sich selbst die Kraft zu entdecken, die sie benötigen, um von der Ohnmacht in die Macht zu kommen und um die veränderte Situation zu akzeptieren. Dadurch können Sie Ihr Leben trotz – oder gerade aufgrund dieser Veränderung – neu und gesund gestalten. Sie entdecken wieder den Mut in sich, der einen kraftvollen und lebendigen Alltag gelingen lässt.
 {{% /card-more  %}}
 

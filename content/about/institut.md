@@ -70,7 +70,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+{{< image src="/img/raum_noe_weis.jpg" title="IFGE St. Pölten" >}}
 
 {{% /small  %}}
 {{% /box %}}
