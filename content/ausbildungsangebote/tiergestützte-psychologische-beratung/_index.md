@@ -62,7 +62,7 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 {{< line icon="icon/tiere.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more link="" img="tiergestuetzt_4.jpg" title="">}}
+{{< card-more link="" img="tiergestützt_silvia_noe.jpg" title="">}}
 
 #### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?
 
@@ -75,7 +75,7 @@ Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesün
 Wir beziehen in unseren Lehrgang bzw. in die Ausbildung sorgfältig ausgewählte und ausgebildete Vierbeiner ein.
 {{% /card-more %}}
 
-{{< card-more link="" img="tiergestuetzt_6.jpg" title="">}}
+{{< card-more link="" img="tiergestützt_fortbildung_noe.jpg" title="">}}
 
 #### WAS BIETET UNSER FORTBILDUNGSLEHRGANG?
 

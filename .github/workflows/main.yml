@@ -25,21 +25,15 @@ jobs:
         # extended: true
     
     - name: Build
-      run: hugo -D --minify
+      run: hugo
       env:
         TZ: Europe/Vienna 
 
-    - name: Conimage AWS Credentials
-      uses: aws-actions/configure-aws-credentials@v1
+    - name: Deploy to FTP 
+      uses: sebastianpopp/ftp-action@releases/v2
       with:
-        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws-region: eu-central-1
-
-    - name: Deploy
-      run: aws s3 sync ./public/ s3://ifge --delete
-    
-    - name: Invalidate cloudfront cache
-      run: aws cloudfront create-invalidation --distribution-id=$CLOUDFRONT_DISTRIBUTION_ID --paths '/*'
-      env:
-        CLOUDFRONT_DISTRIBUTION_ID: E2GBO2MFXB3TV4
+        host: ftp://ftp.issp.at
+        user: spodlisca_ftp2
+        password: ${{ secrets.FTP_PASSWORD }}
+        localDir: "public"
+        remoteDir: "/"

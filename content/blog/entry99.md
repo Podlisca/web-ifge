@@ -3,7 +3,7 @@ title: "Psychologische Beratung: Was genau ist denn das?"
 draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 99
-img: "blog_psychologische_beratung.jpg"
+img: "silvia_wien1.jpg"
 ---
 
 Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca

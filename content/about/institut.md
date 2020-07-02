@@ -16,7 +16,7 @@ weight: 2
 {{< line icon="icon/silvia.png" >}}
 
 {{% floatbox %}} 
-{{< image src="/img/institut_wien1.jpg" float="left" >}}
+{{< image src="/img/institut_wien.jpg" float="left" >}}
 
 Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. 
 
@@ -81,7 +81,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/das_institut1.jpg" >}}
+{{< image src="/img/unterstuetzung_wien.jpg" >}}
 {{< image src="/img/institut_5.jpg" >}}
 {{% /small  %}}
 

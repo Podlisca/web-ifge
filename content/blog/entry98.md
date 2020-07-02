@@ -3,7 +3,7 @@ title: "Psychologische Beratung: Ausbilden und arbeiten auf Augenhöhe"
 draft: false
 tags: []
 weight: 98
-img: "blog_psychologische_beratung_2.jpg"
+img: "blog_augenhöhe2_bgld.jpg"
 ---
 
 

@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_upgradeaufstellung.jpg" float="left">}}
+{{< image src="/img/upgrade_aufstellung_ziel_noe.jpg" float="left">}}
 
 Das Ziel dieser Zusatzausbildung ist es, Sie optimal auf die systemische Arbeit vorzubereiten. 
 
@@ -42,22 +42,38 @@ Sie erhalten ein Tool, welches Ihnen ermöglicht, eine besondere Tiefe im Klient
 {{% floatbox %}}
 
 ## Alle Infos über den Lehrgang {#infos}
-{{< image src="/img/kursziel_2.jpg" float="right" >}}
+{{< image src="/img/erkläerung_systembrett.jpg" float="right" >}}
 
-Ungelöstes im Herkunftssystem reicht oftmals sehr stark in unser Gegenwartssystem hinein – wir alle sind in ein Familiensystem eingebunden, das intensiv auf unser Leben einwirkt. So kann es sein, dass jemand heimlich mit einer Krankheit oder Schwierigkeit im Einklang und im Glück ist, weil das Teil seines Systems ist. Familienaufstellungen bringen sogenannte Verstrickungen ans Licht, die im Verborgenen bzw. unbewusst wirken. Werden diese nicht erkannt, helfen Therapien oder Beratungsgespräche oftmals nur kurzfristig und die hinderliche Dynamik schleicht sich nach und nach wieder ein. Die Ursache von Krankheiten, die Hintergründe warum jemand ein schweres Unrecht begeht, der Vorwurf an Vater und Mutter – die systemische Sichtweise liefert dazu ebenso überraschende wie spannende Inputs und verändert oft den eigenen Blick auf die Welt.
-{{% /floatbox %}}
+Ungelöstes im Herkunftssystem reicht oftmals sehr stark in unser Gegenwartssystem hinein – wir alle sind in ein Familiensystem eingebunden, das intensiv auf unser Leben einwirkt. So kann es sein, dass jemand heimlich mit einer Krankheit oder Schwierigkeit im Einklang und im Glück ist, weil das Teil seines Systems ist. [Familienaufstellungen](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung.html) bringen sogenannte Verstrickungen ans Licht, die im Verborgenen bzw. unbewusst wirken. Werden diese nicht erkannt, helfen Therapien oder Beratungsgespräche oftmals nur kurzfristig und die hinderliche Dynamik schleicht sich nach und nach wieder ein. Die Ursache von Krankheiten, die Hintergründe warum jemand ein schweres Unrecht begeht, der Vorwurf an Vater und Mutter – die systemische Sichtweise liefert dazu ebenso überraschende wie spannende Inputs und verändert oft den eigenen Blick auf die Welt.
+
+
+{{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
-Familienstellen hat nicht nur den Einzelnen, sondern das gesamte Familiensystem im Blick und ermöglicht dadurch ganz neue Einblicke sowie Lösungen und kann bei Themen helfen, bei denen man schon lange nach einer positiven Veränderung sucht.
+## Aufstellungen in der Gruppe oder im Einzel
+{{% /small  %}}
+{{% /box %}}
 
-Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können Lösungen beginnen.
+{{% box blue=1 %}}
+{{% small  %}}
 
-Unsere hochmodernen Ausbildungsmethoden ermöglichen Ihren dabei rasches und nachhaltiges Lernen in einer herzlichen, wertschätzenden und durchaus auch heiteren Atmosphäre.
+{{< image src="/img/system_zettel1_bgld.jpg" float="left" >}}
 
+Familienstellen hat nicht nur den [Einzelnen](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html), sondern das gesamte Familiensystem im Blick und ermöglicht dadurch ganz neue Einblicke sowie Lösungen und kann bei Themen helfen, bei denen man schon lange nach einer positiven Veränderung sucht.
+
+{{< green >}}Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können Lösungen beginnen.{{< /green >}}
+
+Unsere abwechsungreichen Ausbildungsmethoden ermöglichen Ihnen dabei, rasches und nachhaltiges Lernen, in einer herzlichen, wertschätzenden und durchaus auch heiteren Atmosphäre.
+{{% /small  %}}
+{{% /box %}}
+
+{{% box blue=1 %}}
+{{% small  %}}
 Der Unterricht besteht zu einem hohen Anteil aus vielen praktischen Übungseinheiten. Die Theorie wird mittels modernster Präsentationstools – wie unserem Smartboard – sehr interaktiv und lebhaft vermittelt. Alle in den Seminaren erarbeiteten Inhalte stehen Ihnen dank dieser einzigartigen Unterrichtsmethode im Anschluss an jedes Modul als PDF zur Verfügung.
 {{% /small  %}}
 {{% /box %}}
+{{% /floatbox %}}
 
 {{< line icon="icon/aufstellung.png" >}}
 

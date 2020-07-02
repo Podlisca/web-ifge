@@ -15,7 +15,7 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/upgrade_supervision_1.jpg" float="left " >}}
+{{< image src="/img/upgrade_supi_wien.jpg" float="left " >}}
 
 Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](https://www.ifge.at) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
 

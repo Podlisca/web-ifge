@@ -18,7 +18,7 @@ weight: 3
 
 {{% floatbox %}}
 
-{{< image src="/img/das_institut.jpg" float="left" >}}
+{{< image src="/img/teamfoto.jpg" float="left" >}}
 
 Das IFGE-Team wächst stetig - aufgrund der Teamgröße konnten nicht alle Referent*innen am gleichen Fototermin vor Ort sein.
 

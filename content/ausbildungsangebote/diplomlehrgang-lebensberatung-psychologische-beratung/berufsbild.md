@@ -30,7 +30,7 @@ Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im All
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - psychologischen Beratung  zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
+Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychologischen Beratung](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)  zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -83,7 +83,7 @@ Zahlreiche Institutionen, Therapeut\*innen, Berater\*innen und Vereine kümmern 
 Dass das Thema „Sexuelle Gewalt“ – ebenso wie häusliche Gewalt – dabei kein Randthema ist, zeigen die Zahlen. 
 {{% /card-more  %}}
 
-{{% card-more img="berufsbild_angehoerige.jpg" title="BERATUNG ANGEHÖRIGE" %}}
+{{% card-more img="beratung_augenhöhe_wien.jpg" title="BERATUNG ANGEHÖRIGE" %}}
 Wenn eine Gewalttat passiert – ganz gleich ob es sich dabei um sexualisierte oder andere Formen von Gewalt handelt – gilt die gesamte Konzentration sowohl den Täter*innen als auch den Opfern. 
 
 Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Was in der Akutsituation verständlich ist, bringt die Angehörigen im Alltag aber völlig an den Rand. Gefühle der Vernachlässigung stellen sich ein. Die Ambivalenz zwischen Verständnis, Wut, Scham, Mitgefühl sowie der Emotion, selbst unterzugehen und langsam unsichtbar zu werden, belastet enorm.
