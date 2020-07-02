@@ -1,14 +1,14 @@
 ---
-title: "Berufsbild Lebensberatung - psychologische Beratung"
+title: "Berufsbild "
 menu:
     main:
         parent: psychologischeberatung
         identifier: beratung_berufsbild
 draft: false
-weight: 2
+weight: 6
 ---
 
-# Berufsbild Lebensberatung - psychologische Beratung
+# Berufsbild 
 
 {{< slogan >}}
 

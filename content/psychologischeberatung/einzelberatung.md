@@ -1,5 +1,5 @@
 ---
-title: "Lebensberatung - psychologische Beratung"
+title: "Einzelberatung"
 menu:
     main:
         parent: psychologischeberatung

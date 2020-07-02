@@ -4,12 +4,11 @@ menu:
     main:
         parent: psychologischeberatung
         identifier: beratung_tiergestuetzt
-draft: true
-weight: 2
+draft: false
+weight: 4
 ---
 
-# Lebensberatung und Sozialberatung
-# Wien - Burgenland - Niederösterreich
+# Tiergestützte psychologische Beratung in Wien
 
 {{< slogan >}}
 
@@ -17,10 +16,7 @@ weight: 2
 
 {{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden. 
-
-Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und genügend Zeit und Raum haben, in einem geschützten Rahmen zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. In meinen Beratungsräumen können Sie alle Ängste und Gefühle wie Ärger, Kränkungen, Enttäuschungen ... – aber auch alle euphorischen Gefühle – zuzulassen.
-
+Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann. Weiters gibt es an unserem Institut in Wien Institutskatzen, die - neben den Hunden - ebenfalls in der tiergestützten Beratung eingesetzt werden.
 
 {{% /floatbox %}}
 
@@ -37,7 +33,7 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 {{% small  %}}
 {{< image src="/img/icon/einzel_sv.png" small=1 >}}
 
-#### [Einzelberatung](//gruppenselbsterfahrung/familienaufstellung.html)
+#### [Einzelberatung](/gruppenselbsterfahrung/familienaufstellung.html)
 {{% /small  %}}
 
 {{% small  %}}
@@ -60,7 +56,6 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 #### [Paarberatung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
 
 {{% /small  %}}
-{{% /box %}}
 
 {{% small  %}}
 {{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
@@ -74,32 +69,84 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 {{% floatbox %}}
 
-Am [IFGE](https://www.ifge.at) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
-
+## Was bringt mir die tiergestützte psychologische Beratung mit Hunden und Katzen?
 
 {{< image src="/img/gruppenselbsterf_philo.jpg" float="right" title="Bildbeschreibung" >}} 
 
-Professionelle Beratung bedeutet, dass Ihnen weder Lösungen aufgezwungen, noch Sie in bestimmte Richtungen dirigiert werden. In der psychologischen Beratung geht es auch nicht darum, möglicherweise bereits gescheiterte Lösungsversuche zu wiederholen. Viel eher beschäftigen Sie sich in einem vertrauensvollen Rahmen mit neuen Lösungswegen, die oft so überraschend klar, einfach, leicht und umsetzbar sind, dass Sie diese in vielen Fällen innerlich schmunzeln lassen und immer groß machen. 
-
-Auch wenn Sie Ihre persönliche Lösung aktuell noch nicht finden können und vielleicht schon einige Um- oder Irrwege hinter sich oder fast schon das Vertrauen in sich verloren haben, sind solche Lösungen möglich! Und Sie wissen – tief in sich – am allerbesten, was für Sie persönlich in Ihrem Leben wichtig ist. 
+Die Hunde und Katzen sollen, mit einem menschlichen Partner an ihrer Seite, Freude, Spaß und Abwechslung in das Leben von Menschen bringen. Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Gemeinsam mit den entzückenden Institutskatzen bzw. „Co-Beraterinnen“ Roxxi, Rikki und Rosa, die sich in den Räumlichkeiten in Wien aufhalten, und den sorgfältig ausgebildeten Beratungshunden Pluto und Sally profitieren Sie von den besonderen Effekten, welche Tiere auf den Beratungsprozess haben. Unsere Institutstiere in Wien vermögen es auf ganz spezielle Weise, Ihnen als Klient*in ein Gefühl der Vertrautheit zu vermitteln und gleichzeitig spielerisch oder tröstend Ihren Beratungsprozess zu unterstützen. Gerade bei festgefahren scheinenden Mustern schaffen unsere Tiere es, Sie schnell an neue Lösungswege heranzuführen.
 
 {{% box blue=1 %}}
 {{% small %}}
-Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://www.ifge.at) in der Beratung lesen.
-
-Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt.
-
-Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und andere harmonische Lösungswege finden. Die bewusste Auseinandersetzung mit der eigenen Geschichte hat nicht nur einen merkbar positiven Einfluss auf Ihr Leben, sondern auch auf Ihr ganzes persönliches Umfeld.
+Ziel meiner Arbeit mit den Institutstieren ist es dabei nicht, unsere Hunde und Katzen an den Beratungsprozess anzupassen, sondern Ihren persönlichen Beratungsprozess dank der Interaktion mit den ausgebildeten Tieren so individuell und lösungsorientiert wie möglich zu gestalten. Das bedeutet, dass ich in der tiergestützten psychologischen Beratung bewusst so wenig Technik wie möglich einsetze und auf die Instruktion der Tiere über weite Strecken verzichte. Technik und Instruktionen sind auch gar nicht nötig, denn die tierischen Co-Berater agieren situativ beeindruckend einfühlsam und ermöglichen meinen Klient*innen durch ihr spontanes Eingreifen in die Beratungseinheit, schnell und spielerisch einen tiefen Zugang zu sich selbst zu finden.
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
+
+Besonders hervorzuheben ist, dass die Vierbeiner meine Klient*innen oft sehr schonend an Themen heranführen, für die in der klassischen Beratung oft wesentlich mehr Zeit notwendig ist.
+
 {{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. 
+Neben ihrer Unterstützung im Entwicklungsprozess der Klient\*innen wirkt die Anwesenheit von Tieren nachweislich positiv auf das Wohlbefinden von uns Menschen. Hunde werden mittlerweile nicht nur als Begleiter von Kriseninterventionsteams eingesetzt, sondern helfen als Assistenzhunde Patient*innen sogar dabei, posttraumatische Belastungsstörungen zu überwinden. 
 
-Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir am IFGE auch, dass aufgrund langjähriger Erfahrung und zahlreicher Zusatzausbildungen ein Mix aus unterschiedlichsten psychologischen Methoden ermöglicht wird, der somit die absolut individuelle Begleitung Ihres Prozesses sichert.
+Einige Studien belegen sogar, dass sich Hunde positiv auf die Genesung nach einer Krankheit auswirken.
+
+Die tiergestützte psychologische Beratung ist daher besonders für jene Klient*nnen empfehlenswert, die ihr persönliches Optimum aus jeder Beratungseinheit erzielen möchten und sehr rasch und spielerisch Lösungen für ihre Anliegen suchen.
+
+Die Einsatzmöglichkeiten von Hunden sowie Katzen in der psychologischen Beratung in Wien sind fast unerschöpflich. Hunde werden gerne in Outdoor-Aktivitäten miteinbezogen und können dadurch bei Aufführungen/ Besuchen/Aktivitäten in Institutionen wie Krankenhäusern, Kinderspitälern, Behindertenwohnheimen oder Altersheimen sowie auch in der klassischen Lebensberatung eingesetzt werden. Katzen bevorzugen gemäß ihrer Natur ihr gewohntes Umfeld bzw. Zuhause.
+
+{{% box blue=1 %}}
+{{% small %}}
+In der psychologischen Beratung können tiergestützte Aktivitäten in vielerlei Hinsicht miteinbezogen werden. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie helfen Ihnen, damit Sie auch schwierige oder heikle Themen ansprechen können.
+
+Hunde und Katzen unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind.  Sie zeigen uns durch ihre unbekümmerte  Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
+{{% /small  %}}
+{{% /box %}}
+
+Unser Team der tiergestützten Beratung hat durch Institutskatzen in Wien Verstärkung bekommen - anbei stellen sich Ihnen unsere Institutstiere vor:
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+## Hier finden Sie ausführliche Informationen über:
+{{% /small  %}}
+{{% /box %}}
+
+{{% box blue=1 top-align=1 %}}
+{{% small  %}}
+{{< figure src="/img/img1.jpg" >}}
+
+#### Pluto
+{{% /small  %}}
+
+{{% small  %}}
+{{< figure src="/img/img1.jpg" >}}
+
+#### Sally
+
+{{% /small  %}}
+{{% /box %}}
+
+
+
+## ANWENDUNGSGEBIETE
+
+* Angstzustände (nicht nur Hunde- und Katzenangst)
+* Trauerarbeit
+* Einsamkeit
+* Ein Team werden: Vertrauens- und Bindungsübungen
+* Lernen, eigene und fremde Grenzen zu erkennen, wahrzunehmen und zu respektieren
+* Selbstwertthematik
+* Überforderung, Burn out oder Bore out
+* Suchtverhalten
+* Aggression
+* Entlastungs- und Ausgleichsmöglichkeiten
+
+Dies sind nur einige von vielen Beispielen, prinzipiell können Pluto & Sally sowie auch unsere Institutskatzen in Wien in jeden Beratungsprozess eingesetzt werden.
+
+Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, Tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) Energetische Praxis – Silvia Podlisca e.U nicht für Verletzungen jeglicher Art - weder bei Mensch noch bei Tier.
 
 {{% /floatbox %}}
 
@@ -131,41 +178,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung)
-* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
+* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
 {{% /small  %}}
 {{% /box %}}

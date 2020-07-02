@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_paarberatung
 draft: false
-weight: 4
+weight: 5
 ---
 
 # Paarberatung am IFGE
