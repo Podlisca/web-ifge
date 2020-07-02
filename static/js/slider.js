@@ -1,19 +1,27 @@
-
+// alle slider mit 1 initialisieren
 var slideIndex = 1;
-showSlides(slideIndex);
 
-function plusSlides(n) {
-    showSlides(slideIndex += n);
+var init = (function init() {
+    var sliders = document.getElementsByClassName("slider");
+    for (i = 0; i < sliders.length; i++) {
+        showSlides(slideIndex, sliders[i].children[0].children[0]);
+    }
+})
+
+init();
+
+function plusSlides(n, obj) {
+    showSlides(slideIndex += n, obj);
 }
 
-function currentSlide(n) {
-showSlides(slideIndex = n);
+function currentSlide(n, obj) {
+    showSlides(slideIndex = n, obj);
 }
 
-function showSlides(n) {
+function showSlides(n, obj) {
 var i;
-var slides = document.getElementsByClassName("blogSlides");
-var dots = document.getElementsByClassName("blogSlider__dots--dot");
+var slides = obj.parentNode.parentNode.getElementsByClassName("blogSlides");
+var dots = obj.parentNode.parentNode.parentNode.getElementsByClassName("blogSlider__dots--dot");
 if (n > slides.length) {
     slideIndex = 1
 }

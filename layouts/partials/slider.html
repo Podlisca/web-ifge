@@ -1,15 +1,15 @@
 <!-- https://github.com/rchisholm/vanilla-slider -->
 
 <link rel="stylesheet" href="/css/slider.css">
+<div class="slider">
 <div class="blog-slider__container">
 {{ range split (.Get "content") "," }}
 <div class="blogSlides fade"><img src="{{ . }}"></div>
 {{ end }}
-<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
-<a class="next" onclick='plusSlides(1)'>&#10095;</a>
+<a class="prev" onclick='plusSlides(-1, this);'>&#10094;</a>
+<a class="next" onclick='plusSlides(1, this);'>&#10095;</a>
 </div>
 <div class="blogSlider__dots" style="text-align:center">
-{{ range seq (len (split (.Get "content") ",")) }}<span class="blogSlider__dots--dot" onclick="currentSlide({{ . }})"></span>{{ end }}
+{{ range seq (len (split (.Get "content") ",")) }}<span class="blogSlider__dots--dot" onclick="currentSlide({{ . }}, this);"></span>{{ end }}
 </div>
-<script src="/js/slider.js"></script>
-  
+</div>
