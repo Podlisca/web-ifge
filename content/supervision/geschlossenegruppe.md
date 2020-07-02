@@ -70,7 +70,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 {{< center >}}
 06.01.2021<br/>
 03.02.2021<br/>
-03.03.2020<br/>
+03.03.2021<br/>
 07.04.2021<br/>
 05.05.2021<br/>
 02.06.2021<br/>
@@ -87,7 +87,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 #### Wien - Gruppe 2
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 06.01.2021
+#### Start: 20.01.2021
 Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
 **Termine 2021:**
@@ -95,7 +95,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{< center >}}
 20.01.2021<br/>
 17.02.2021<br/>
-17.03.2020<br/>
+17.03.2021<br/>
 21.04.2021<br/>
 19.05.2021<br/>
 16.06.2021<br/>
@@ -112,7 +112,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Burgenland
 {{< image src="/img/ifge_pinkafeld.jpg">}}
 
-#### Start: 06.01.2021
+#### Start: 13.01.2021
 Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
 **Termine 2021:**
@@ -120,7 +120,7 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{< center >}}
 13.01.2021<br/>
 10.02.2021<br/>
-10.03.2020<br/>
+10.03.2021<br/>
 14.04.2021<br/>
 12.05.2021<br/>
 09.06.2021<br/>
@@ -137,7 +137,7 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{< image src="/img/ifge_stpoelten.jpg">}}
 
 
-#### Start: 06.01.2021
+#### Start: 27.01.2021
 Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
 **Termine 2021:**
@@ -145,7 +145,7 @@ Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{< center >}}
 27.01.2021<br/>
 24.02.2021<br/>
-24.03.2020<br/>
+24.03.2021<br/>
 28.04.2021<br/>
 26.05.2021<br/>
 23.06.2021<br/>
