@@ -1,12 +1,13 @@
 ---
 title: "Angehörige von Kranken"
-draft: true
+draft: false
 ---
 
 # Angehörige von kranken Menschen
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
+
 {{% box blue=1 %}}
 {{% small  %}}
 ## Hier finden Sie ausführliche Informationen über:
@@ -15,51 +16,41 @@ draft: true
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/icon/beratung_schwarz.png" small=1 >}}
+{{< image src="/img/icon/einzel_sv.png" small=1 >}}
 
-#### [Das Berufsbild](/gruppenselbsterfahrung/familienaufstellung.html)
+#### [Einzelberatung](/psychologischeberatung/einzelberatung.html)
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/home_schwarz.png" small=1 >}}
+{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
 
-#### [Home](/gruppenselbsterfahrung/tieraufstellung.html)
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/ausbildungsangebote.png" small=1 >}}
-
-#### [Ausbildung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/online_ausbildungen.png" small=1 >}}
-
-#### [Online-ausbildung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html)
+#### [Systemische Einzelberatung](/psychologischeberatung/einzel_system.html)
 
 {{% /small  %}}
 
 {{% small  %}}
 {{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
 
-#### [Supervision](/gruppenselbsterfahrung/termine.html)
+#### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/gruppenselbsterfahrung_schwarz.png" small=1 >}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
 
-#### [Gruppen-selbsterfahrung](/gruppenselbsterfahrung/tieraufstellung.html)
+#### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
 {{% /small  %}}
 
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+
+#### [Berufsbild](/psychologischeberatung/berufsbild.html)
+
+{{% /small  %}}
 {{% /box %}}
 
-
-
-
-
-
+***
 
 
 {{% floatbox %}}
@@ -122,6 +113,7 @@ Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arb
 Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
+
 {{% /floatbox %}}
 
 
@@ -133,41 +125,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung)
-* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
 {{% /small  %}}
 {{% /box %}}

@@ -37,34 +37,34 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 {{% small  %}}
 {{< image src="/img/icon/einzel_sv.png" small=1 >}}
 
-#### [Einzelberatung](/gruppenselbsterfahrung/familienaufstellung.html)
+#### [Einzelberatung](/psychologischeberatung/einzelberatung.html)
 {{% /small  %}}
 
 {{% small  %}}
 {{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
 
-#### [Systemische Einzelberatung](/gruppenselbsterfahrung/tieraufstellung.html)
+#### [Systemische Einzelberatung](/psychologischeberatung/einzel_system.html)
 
 {{% /small  %}}
 
 {{% small  %}}
 {{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
 
-#### [Tiergestützte Beratung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
+#### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
 {{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
 
-#### [Paarberatung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
+#### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
 {{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
 
-#### [Berufsbild](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
+#### [Berufsbild](/psychologischeberatung/berufsbild.html)
 
 {{% /small  %}}
 {{% /box %}}
