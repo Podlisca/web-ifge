@@ -1,8 +1,5 @@
 ---
 title: "Sexualberatung für Paare"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

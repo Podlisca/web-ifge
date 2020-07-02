@@ -1,8 +1,5 @@
 ---
 title: "Männliche Opfer"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 # Männer als Opfer

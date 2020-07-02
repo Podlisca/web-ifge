@@ -1,8 +1,5 @@
 ---
 title: "Krisenberatung"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 # Krisenberatung

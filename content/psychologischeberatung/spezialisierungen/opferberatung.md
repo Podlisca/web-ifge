@@ -1,8 +1,5 @@
 ---
 title: "Opferberatung"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 # Opferberatung

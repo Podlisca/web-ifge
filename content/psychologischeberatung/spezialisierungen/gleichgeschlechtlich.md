@@ -1,8 +1,5 @@
 ---
 title: "Gleichgeschlechtliche Liebe"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

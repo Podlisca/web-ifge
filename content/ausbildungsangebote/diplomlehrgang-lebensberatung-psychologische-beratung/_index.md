@@ -16,8 +16,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 {{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% floatbox %}}
-
-{{< image src="/img/lsb_start.jpg" float="left" title="Bildbeschreibung" format="hoch">}}
+{{< image src="/img/lsb_start.jpg" float="left" title="Bildbeschreibung" format="quer">}}
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
 
@@ -30,6 +29,8 @@ Am [IFGE](/about/institut.html) wird die Grundausbildung mit folgenden Schwerpun
 **Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung**
 
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
+
+{{% silvia %}}
 
 {{% /floatbox %}}
 

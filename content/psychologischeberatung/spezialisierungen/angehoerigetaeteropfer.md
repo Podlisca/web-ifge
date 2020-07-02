@@ -1,8 +1,5 @@
 ---
 title: "Angehörige von Opfern oder Tätern"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

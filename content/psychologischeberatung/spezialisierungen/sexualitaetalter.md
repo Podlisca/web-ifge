@@ -1,8 +1,5 @@
 ---
 title: "Sexualität und Alter"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

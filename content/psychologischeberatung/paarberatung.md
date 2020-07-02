@@ -2,8 +2,10 @@
 title: "Paarberatung"
 menu:
     main:
-        parent: berufsbild
+        parent: psychologischeberatung
+        identifier: beratung_paarberatung
 draft: false
+weight: 4
 ---
 
 # Paarberatung am IFGE

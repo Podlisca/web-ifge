@@ -1,8 +1,5 @@
 ---
 title: "Täterberatung"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

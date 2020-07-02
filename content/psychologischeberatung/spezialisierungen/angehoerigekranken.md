@@ -1,9 +1,6 @@
 ---
 title: "Angehörige von Kranken"
-menu:
-    main:
-        parent: berufsbild
-draft: false
+draft: true
 ---
 
 # Angehörige von kranken Menschen
@@ -20,7 +17,7 @@ draft: false
 {{% small  %}}
 {{< image src="/img/icon/beratung_schwarz.png" small=1 >}}
 
-#### [Das Berufsbild](//gruppenselbsterfahrung/familienaufstellung.html)
+#### [Das Berufsbild](/gruppenselbsterfahrung/familienaufstellung.html)
 {{% /small  %}}
 
 {{% small  %}}
@@ -136,41 +133,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](spezialisierungen/krisenberatung)
-* [Suchtberatung](spezialisierungen/suchtberatung)
-* [Burn-out Beratung](spezialisierungen/burnout)
-* [Trauerbewältigung](spezialisierungen/trauerbewaeltigung)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualberatung)
-* [Sexualität und Alter](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualitaetalter)
-* [Sexualberatung für Paare](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualitaetpaare)
-* [Gleichgeschlechtliche Liebe](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/gleichgeschlechtlich)
-* [Gesunder Perversion](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/gesundeperversion)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/taeterberatung)
-* [Stalking](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/stalking)
-* [Opferberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/opferberatung)
-* [Männliche Opfer](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/maennlicheopfer)
-* [Häusliche Gewalt](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/haeuslichegewalt)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung)
+* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/angehoerigetaeteropfer)
-* [Angehörige von Kranken](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/angehoerigekranken.html)
-* [Angehörige von Süchtigen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/angehoerigesucht)
-* [Suizid in der Familie](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/suizid)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid)
 {{% /small  %}}
 {{% /box %}}

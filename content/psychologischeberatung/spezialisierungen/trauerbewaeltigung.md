@@ -1,8 +1,5 @@
 ---
 title: "Trauerbewältigung"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

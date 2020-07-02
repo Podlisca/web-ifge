@@ -1,8 +1,5 @@
 ---
 title: "Häusliche Gewalt"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

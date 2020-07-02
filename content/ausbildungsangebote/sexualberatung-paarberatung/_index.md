@@ -92,11 +92,7 @@ Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkenne
 
 {{% box blue=1 %}}
 {{% small %}}
-<<<<<<< HEAD
-{{< image src="/img/burgenland_unterricht.jpg" title="Bildbeschreibung" float="right" >}}
-=======
 {{< image src="/img/sex_upgrade_wien.jpg" title="Bildbeschreibung" float="right" >}}
->>>>>>> 54dac9c5ca44bced6707fb06c325029cfd4540ac
 
 Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. 
 

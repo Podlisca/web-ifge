@@ -2,8 +2,10 @@
 title: "Systemische Einzelberatung"
 menu:
     main:
-        parent: berufsbild
+        parent: psychologischeberatung
+        identifier: beratung_einzel_system
 draft: false
+weight: 3
 ---
 
 # Einzelsitzung – Systemische Beratung
@@ -57,9 +59,7 @@ Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb bes
 {{% /large %}}
 {{% /box %}}
 
-
 ***
-
 
 {{% box %}}
 {{% small  %}}
@@ -73,7 +73,7 @@ Das SystemDimensionsBrett® ist eine Weiterentwicklung klassischer Aufstellungsb
 {{% /large %}}
 {{% /box %}}
 
-Weitere Infos zum SystemDimensionsBrett® finden Sie [hier]({{< relref "/systemdimensionsbrett" >}})!
+Weitere Infos zum SystemDimensionsBrett® finden Sie [hier]!
 
 ### Arbeit mit Klient\*innen
 {{% box %}}

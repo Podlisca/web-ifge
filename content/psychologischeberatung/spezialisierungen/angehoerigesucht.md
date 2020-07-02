@@ -1,8 +1,5 @@
 ---
 title: "Angehörige von Süchtigen"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 

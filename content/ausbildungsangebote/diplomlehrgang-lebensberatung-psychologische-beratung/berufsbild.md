@@ -30,7 +30,7 @@ Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im All
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychologischen Beratung](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)  zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
+Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychologischen Beratung] zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -41,22 +41,22 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzelberatung" >}})
+#### [PSYCHOLOGISCHE BERATUNG - EINZEL]
 {{< figure src="/img/berufsbild_einzelberatung.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - PAAR]({{< relref "berufsbilder/paarberatung" >}})
+#### [PSYCHOLOGISCHE BERATUNG - PAAR]
 {{< figure src="/img/berufsbild_paarberatung.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [SYSTEMISCHE BERATUNG - EINZEL]({{< relref "berufsbilder/einzel_system" >}})
+#### [SYSTEMISCHE BERATUNG - EINZEL]
 {{< figure src="/img/berufsbild_system_einzel.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [FAMILIENAUFSTELLUNG IN DER GRUPPE]({{< relref "/gruppenselbsterfahrung/familienaufstellung.html" >}})
+#### [FAMILIENAUFSTELLUNG IN DER GRUPPE]
 {{< figure src="/img/berufsbild_familienaufstellung_gruppe.jpg" >}}
 {{% /small  %}}
 
@@ -95,38 +95,38 @@ Hinzu kommt die moralische Instanz, die meint: „Mir ist ja eh nix passiert.“
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 
-* [Krisenberatung]({{< relref "spezialisierungen/krisenberatung" >}})
-* [Suchtberatung]({{< relref "spezialisierungen/suchtberatung" >}})
-* [Burn-out Beratung]({{< relref "spezialisierungen/burnout" >}})
-* [Trauerbewältigung]({{< relref "spezialisierungen/trauerbewaeltigung" >}})
+* [Krisenberatung]
+* [Suchtberatung]
+* [Burn-out Beratung]
+* [Trauerbewältigung]
 {{% /small  %}}
 
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 
-* [Sexualberatung]({{< relref "spezialisierungen/sexualberatung" >}})
-* [Sexualität und Alter]({{< relref "spezialisierungen/sexualitaetalter" >}})
-* [Sexualberatung für Paare]({{< relref "spezialisierungen/sexualitaetpaare" >}})
-* [Gleichgeschlechtliche Liebe]({{< relref "spezialisierungen/gleichgeschlechtlich" >}})
-* [Gesunder Perversion]({{< relref "spezialisierungen/gesundeperversion" >}})
+* [Sexualberatung]
+* [Sexualität und Alter]
+* [Sexualberatung für Paare]
+* [Gleichgeschlechtliche Liebe]
+* [Gesunder Perversion]
 {{% /small  %}}
 
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über: 
 
-* [Täterberatung]({{< relref "spezialisierungen/taeterberatung" >}})
-* [Stalking]({{< relref "spezialisierungen/stalking" >}})
-* [Opferberatung]({{< relref "spezialisierungen/opferberatung" >}})
-* [Männliche Opfer]({{< relref "spezialisierungen/maennlicheopfer" >}})
-* [Häusliche Gewalt]({{< relref "spezialisierungen/haeuslichegewalt" >}})
+* [Täterberatung](
+* [Stalking]
+* [Opferberatung]
+* [Männliche Opfer]
+* [Häusliche Gewalt]
 {{% /small  %}}
 
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 
-* [Angehörige von Opfern oder TäterIn]({{< relref "spezialisierungen/angehoerigetaeteropfer" >}})
-* [Angehörige von Kranken]({{< relref "spezialisierungen/angehoerigekranken" >}})
-* [Angehörige von Süchtigen]({{< relref "spezialisierungen/angehoerigesucht" >}})
-* [Suizid in der Familie]({{< relref "spezialisierungen/suizid" >}})
+* [Angehörige von Opfern oder TäterIn]
+* [Angehörige von Kranken]
+* [Angehörige von Süchtigen]
+* [Suizid in der Familie]
 {{% /small  %}}
 {{% /box %}}

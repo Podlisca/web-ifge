@@ -43,3 +43,9 @@ SiteDescription = "Als einziges Institut gibt es am IFGE den WKO zertifizierten 
         identifier = "gruppenselbsterfahrung"
         url = "#"
         weight = 5
+
+    [[menu.main]]
+        name = "Psychologische Beratung"
+        identifier = "psychologischeberatung"
+        url = "#"
+        weight = 6
