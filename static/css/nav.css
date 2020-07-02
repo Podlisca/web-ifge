@@ -30,6 +30,10 @@
   color: var(--color-red);
 }
 
+.desktop .has-dropdown:hover svg, .topnav .active svg {
+  fill: var(--color-red);
+}
+
 /* Add an active class to highlight the current page */
 
 .dropdown-content a.active {  
@@ -179,7 +183,7 @@
   .dropdown:hover .dropdown-content {
     display: none;
   }
-  .topnav.topnav.responsive .dropdown-content.show {
+  .topnav.topnav.responsive .show .dropdown-content {
     display: block;
   }
   .topnav.responsive .submenu-toggler a {
@@ -194,9 +198,19 @@
   }
 }
 
-.desktop div.has-dropdown:after {
-  content: "\25BC";
-  font-size: 0.5em;
+.dropdown.show .has-dropdown svg {
+  transform: rotate(0);  
+}
+
+div.has-dropdown svg {
+  fill: white;
+  width: 10px; 
+  height: auto;
+  transition: ease 200ms;
+}
+
+.mobile div.has-dropdown svg {
+  transform: rotate(-90deg);  
 }
 
 .mobile .has-dropdown {

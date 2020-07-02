@@ -1,13 +1,55 @@
 ---
 title: "Burn-out Beratung"
-menu:
-    main:
-        parent: berufsbild
 draft: false
 ---
 
 # Burn-out Beratung
 {{< slogan >}}
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+## Hier finden Sie ausführliche Informationen über:
+{{% /small  %}}
+{{% /box %}}
+
+{{% box blue=1 top-align=1 %}}
+{{% small  %}}
+{{< image src="/img/icon/einzel_sv.png" small=1 >}}
+
+#### [Einzelberatung](/psychologischeberatung/einzelberatung.html)
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
+
+#### [Systemische Einzelberatung](/psychologischeberatung/einzel_system.html)
+
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+
+#### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
+
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+
+#### [Paarberatung](/psychologischeberatung/paarberatung.html)
+
+{{% /small  %}}
+
+{{% small  %}}
+{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+
+#### [Berufsbild](/psychologischeberatung/berufsbild.html)
+
+{{% /small  %}}
+{{% /box %}}
+
 {{< line icon="icon/burn_out.png" >}}
 
 {{% floatbox %}}
@@ -29,6 +71,8 @@ Burn-out ist also keineswegs als wohlverdiente Pause, die man sich hart erarbeit
 
 Dazu gehört, dass dieser Zustand mittlerweile gerne als Synonym für stressige Phasen im Büro oder im Privatleben verwendet wird. „Wenn das so weitergeht, muss ich kündigen, sonst krieg ich gleich ein Burn-out“ oder „Ich bin schon am Rande des Burn-outs mit den Kindern“ hört man immer wieder. Aus diesen leichtfertigen Aussagen, die Stressphasen mit Burn-out gleichsetzen, ergibt sich, dass Betroffene gelegentlich wenig ernst genommen werden. Menschen, die sich einem tatsächlichen Burn-out nähern, empfinden dadurch oft eine große Hemmschwelle, sich Hilfe zu holen. Die Sorge, dass die eigenen, nagenden Gefühle lapidar mit „Also dann streng dich halt mehr an“ oder „Das darfst du nicht so ernst nehmen“ abgetan werden, hindert Betroffene immer wieder daran, präventive Beratung in Anspruch zu nehmen. Dabei sind gerade diese verinnerlichten Sätze wie „Ich muss stark und perfekt sein“ oder „Da muss ich jetzt durchbeißen“ erste recht deutliche Warnsignale, die unbedingt ernst genommen werden sollten.
 
+{{< line icon="icon/burn_out.png" >}}
+
 Bei mir am [IFGE](https://www.ifge.at) biete ich Ihnen die Möglichkeit, sich mit Ihren Risikofaktoren auseinanderzusetzen und ganz individuelle Strategien für ihre psychische Widerstandsfähigkeit (Resilienz) zu entwickelt. Durch wertschätzende Kommunikation, vielfältige Methoden und meine jahrelange Erfahrung im wirtschaftlichen Beratungsbereich gelingt es Ihnen, ganz neue Handlungsoptionen für Sie persönlich zu entdecken, um gesund zu bleiben.
 
 Die Burn-out-Beratung ist ebenso für Führungskräfte und Teamleiter hilfreich, die auf eine ausgewogene Balance ihres Teams und auf die Gesundheit ihrer Mitarbeiter bewusst achten wollen.
@@ -39,13 +83,72 @@ Gerade in der Burn-out-Prävention ist die tiergestützte Begleitung – insbeso
 
 {{% /floatbox %}}
 
-{{< line icon="icon/burn_out.png" >}}
+
+
+
+{{% floatbox %}}
+{{< line icon="/icon/beratung.png" >}}
+{{% box blue=1 %}}
+{{% small %}}
+## Einzelselbsterfahrung mit Silvia Podlisca
+{{% /small %}}
+{{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
+{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich.
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
+ 
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+{{% /small %}}
+{{% /box %}}
+{{% /floatbox %}}
 
+
+{{< line icon="/icon/beratung.png" >}}
+# Spezialisierungen
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Krise/Sucht/Burn-Out
+{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
+{{% /small  %}}
+
+{{% small  %}}
+#### Sexualberatung
+{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
+{{% /small  %}}
+
+{{% small  %}}
+#### Täter/Opfer/Gewalt
+{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
+{{% /small  %}}
+
+{{% small  %}}
+#### Beratung Angehörige
+{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
 {{% /small  %}}
 {{% /box %}}
-

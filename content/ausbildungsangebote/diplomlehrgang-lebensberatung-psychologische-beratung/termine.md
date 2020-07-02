@@ -27,9 +27,10 @@ weight: 3
 
 
 {{% box top-align=1 %}}
-{{% small  %}}
+{{% small %}}
 #### Wien
-{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+
+{{< slider content="/img/ifge_wien.jpg" >}}
 
 * 30.09.2020 
 * 28.10.2020 
@@ -44,7 +45,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% small  %}}
 #### Burgenland
-{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
+{{< slider content="/img/ifge_pinkafeld.jpg" >}}
 
 * 09.10.2020
 * 13.11.2020
@@ -58,7 +59,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% small  %}}
 #### Niederösterreich
-{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+{{< slider content="/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg" >}}
 
 * 15.07.2020
 * 06.08.2020
