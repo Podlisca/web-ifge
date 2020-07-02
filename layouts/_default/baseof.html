@@ -61,19 +61,8 @@
       }
     }
 
-    function toggleSubmenu(obj) {
-      if (obj.textContent === "+") {
-        obj.parentNode.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.add("show");
-        obj.textContent = "-";
-      }
-      else {
-        obj.parentNode.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.remove("show");
-        obj.textContent = "+";
-      }
-    }
-
     function toggleSubmenuMobile(obj) {
-      obj.parentNode.parentNode.parentNode.getElementsByClassName("dropdown-content")[0].classList.toggle("show");
+      obj.parentNode.parentNode.parentNode.classList.toggle("show");
     }
 
     function toggleMore(obj) {      

@@ -8,16 +8,20 @@
       <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
         <div class="mobile">
           <div class="has-dropdown">
-            <a href="javascript:void(0);" onclick="toggleSubmenuMobile(this);">{{ .Name }} <span>&#9654;</span></a>
+            <a href="javascript:void(0);" onclick="toggleSubmenuMobile(this);">{{ .Name }} 
+              <svg xmlns="http://www.w3.org/2000/svg" width="270" height="240" viewBox="0 0 270 240">
+                <path d="M5,5H265L135,230"/>
+                </svg>
+              </a>
           </div>          
         </div>
         <div class="desktop">
           <div class="has-dropdown">
-            {{ .Name }}
-          </div>
-          <div class="submenu-toggler">
-            <a href="javascript:void(0);" onclick="toggleSubmenu(this);">+</a>    
-          </div>
+            {{ .Name }} 
+            <svg xmlns="http://www.w3.org/2000/svg" width="270" height="240" viewBox="0 0 270 240">
+              <path d="M5,5H265L135,230"/>
+              </svg>
+          </div>          
         </div>
 
         <div class="dropdown-content">
