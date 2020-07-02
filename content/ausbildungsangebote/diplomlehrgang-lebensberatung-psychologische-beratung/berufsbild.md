@@ -83,7 +83,7 @@ Zahlreiche Institutionen, Therapeut\*innen, Berater\*innen und Vereine kümmern 
 Dass das Thema „Sexuelle Gewalt“ – ebenso wie häusliche Gewalt – dabei kein Randthema ist, zeigen die Zahlen. 
 {{% /card-more  %}}
 
-{{% card-more img="berufsbild_angehoerige.jpg" title="BERATUNG ANGEHÖRIGE" %}}
+{{% card-more img="beratung_augenhöhe_wien.jpg" title="BERATUNG ANGEHÖRIGE" %}}
 Wenn eine Gewalttat passiert – ganz gleich ob es sich dabei um sexualisierte oder andere Formen von Gewalt handelt – gilt die gesamte Konzentration sowohl den Täter*innen als auch den Opfern. 
 
 Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Was in der Akutsituation verständlich ist, bringt die Angehörigen im Alltag aber völlig an den Rand. Gefühle der Vernachlässigung stellen sich ein. Die Ambivalenz zwischen Verständnis, Wut, Scham, Mitgefühl sowie der Emotion, selbst unterzugehen und langsam unsichtbar zu werden, belastet enorm.

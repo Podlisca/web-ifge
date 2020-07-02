@@ -12,15 +12,16 @@
 </style>
 <script>
     /*  https://www.dair-media.net/blog/google-analytics-mit-optin-implementieren/  */
-    function loadGAonConsent(){
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-XXXXX-X', 'auto');
-      ga('set', 'anonymizeIp', true);
-      ga('send', 'pageview');
-      var gascript = document.createElement("script");
-      gascript.async = true;
-      gascript.src = "https://www.google-analytics.com/analytics.js";
-      document.getElementsByTagName("head")[0].appendChild(gascript, document.getElementsByTagName("head")[0]);               
+    function loadGAonConsent() {        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-52015689-3', { 'anonymize_ip': true });
+
+        var gascript = document.createElement("script");
+        gascript.async = true;
+        gascript.src = "https://www.googletagmanager.com/gtag/js?id=UA-52015689-3";
+        document.getElementsByTagName("head")[0].appendChild(gascript, document.getElementsByTagName("head")[0]);               
     }
      
     if (document.cookie.split(';').filter(function(item) {
