@@ -93,20 +93,20 @@ Systemische Beratung bedeutet in meinem Verständnis nicht – wie so oft anders
 
 Die [Philosophie](https://www.ifge.at), die bei mir am Institut für ganzheitliches Erleben gelebt wird, ist viel eher die Lösung der kleinen, sicheren Schritte. Diese scheinen auf den ersten Blick möglicherweise nicht als so gewichtig wie die Lösungen, die in Gruppenaufstellungen sichtbar gemacht und bearbeitet werden, helfen aber ebenso durch das kontinuierliche innere Erleben, sichtbar Gewordenes nachhaltig in persönliche Lösungskonzepte zu integrieren. Systemische Einzelstunden festigen dazu oft den in der Gruppe erzielten Aufstellungserfolg.
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/Familienaufstellung.png" >}}
 
 In Einzelsitzungen ist es überdies auch möglich, sich besonders viel Zeit für die Auswirkungen und persönlichen Folgen der in Gruppenaufstellungen sichtbar gewordenen Verstrickungen zu nehmen und Ihre [neue Realität](https://www.ifge.at) zu erschaffen. Ein bekannter Lösungssatz in der [klassischen Familienaufstellung](https://www.ifge.at) ist die Bitte der KlientInnen, dass jenes Familienmitglied, dem wir mit dem Lösen unseres Problems unähnlich werden, freundlich auf uns schauen möge, wenn es für uns anders und gut weitergehen darf. Diese eingeholte Erlaubnis – dieser freundliche Blick – am Ende einer Aufstellung nach Hellinger stellt den Beginn der [Glaubenssatzaufstellung](https://www.ifge.at) dar. Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie?
 
 Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, keine einfache Umkehr darstellt, sondern viel eher eine [wirksame neue Realität](https://www.ifge.at) entsteht. 
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/system_zettel1_bgld.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](https://www.ifge.at) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient\*innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können.
 
 
 {{< line icon="icon/Familienaufstellung.png" >}}
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/systemdimensionsbrett_2.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch das von Mag. Rathkolb und mir entwickelte SystemDimensionsBrett® ist es mir möglich, noch besser auf die Systemik einzugehen und diese auch "anschaubar" zu machen.
 
@@ -116,7 +116,7 @@ Weitere Infos zum SystemDimensionsBrett® finden Sie [hier]!
 
 ### Arbeit mit Klient\*innen
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/mit hand_1.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Aufstellungen können mit Hilfe von Repräsentanten – Personen, die bei der Aufstellung für jemand anderen dessen Platz im System einnehmen – durchgeführt werden oder mit Hilfe eines Brettes und imagen. Die Aufstellung mit einem Brett ist vergleichsweise leicht durchführbar, denn oft sind Problemstellungen so komplex, dass man viele Repräsentanten bräuchte. Zusätzlich wird  die Schwellenangst verringert.
 
@@ -174,7 +174,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -184,7 +184,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -195,7 +195,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
@@ -206,7 +206,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
