@@ -38,7 +38,7 @@ Denn in der Realität sind es Menschen aus allen Bildungsschichten, oftmals soga
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/Love_Scamming.png" >}}
 
 {{% floatbox %}}
 

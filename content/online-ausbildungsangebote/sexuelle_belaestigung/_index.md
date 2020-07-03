@@ -37,7 +37,7 @@ Und haben Sie nicht auch schon einmal von jemandem die Aussage gehört, dass ein
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/stalking.png" >}}
 
 {{% floatbox %}}
 

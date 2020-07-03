@@ -33,7 +33,7 @@ Der Workshop zeigt, dass jeder und jede Opfer von Romance Scam werden kann und v
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/Love_Scamming.png" >}}
 
 Je mehr Geld die vermeintlich große Liebe fordert, desto größer wird oft das Misstrauen bei den Betroffenen. Dieses wird allerdings oft bewusst verdrängt, denn zu groß wäre die Enttäuschung und vor allem auch die Scham, einem Betrüger bzw. einer Betrügerin aufgesessen zu sein – und die Angst davor, die vielleicht intimsten Gedanken mit Kriminellen geteilt zu haben.
 

@@ -8,7 +8,7 @@ weight: 1
 ---
 
 # Philosophie: Online Schulungen & Trainings 
-# Vo der Praxis für die Praxis
+# Von der Praxis für die Praxis
 
 {{< line icon="icon/zitat.png" >}}
 

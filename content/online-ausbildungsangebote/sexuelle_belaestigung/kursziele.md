@@ -41,7 +41,7 @@ Gleichzeitig lernen Sie in unserem Onlinekurs alles, was es benötigt, um Vertra
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/stalking.png" >}}
 
 ## STALKING – DIE UNTERSCHÄTZE GEFAHR
 

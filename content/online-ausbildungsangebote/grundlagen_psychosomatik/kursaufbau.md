@@ -22,7 +22,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
+{{< line icon="icon/psychosomatik.png" >}}
 
 
 ## AUFBAU DES LEHRGANGS
