@@ -47,7 +47,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg" >}}
 
-* 09.10.2020
+* 06.10.2020
 * 13.11.2020
 <br/> <br/>
 
