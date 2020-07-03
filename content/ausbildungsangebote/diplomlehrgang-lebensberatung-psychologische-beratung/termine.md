@@ -30,7 +30,7 @@ weight: 3
 {{% small %}}
 #### Wien
 
-{{< slider content="/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg" >}}
+{{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 * 30.09.2020 
 * 28.10.2020 
@@ -46,7 +46,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 #### Burgenland
 
-{{< slider content="/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg" >}}
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
 * 06.10.2020
 * 13.11.2020
@@ -61,7 +61,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 #### Niederösterreich
 
-{{< slider content="/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg" >}}
+{{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 * 15.07.2020
 * 06.08.2020

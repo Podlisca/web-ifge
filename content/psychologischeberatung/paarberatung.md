@@ -103,15 +103,15 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/img1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
+{{< image src="/img/systembrettaufstellung.jpg" title=".. und bekommt die gleiche Redezeit." >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/img1.jpg" title="Wenn es einmal emotionaler wird.." >}}
+{{< image src="/img/aufstellung_noe1.jpg" title="Wenn es einmal emotionaler wird.." >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/img1.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
+{{< image src="/img/systembrett_noe.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
 
 {{% /small  %}}
 {{% /box %}}
@@ -128,7 +128,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzel_noe5.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
