@@ -13,11 +13,13 @@ weight: 5
 
 {{< slogan >}}
 
+{{< line icon="icon/paar_tuerkis.png" >}}
+
 {{% floatbox %}}
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/paarberatung_wien.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
+Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. <br/> <br/>Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
 
 {{% /floatbox %}}
 
@@ -45,14 +47,14 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/paar_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -66,7 +68,7 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/paar_tuerkis.png" >}}
 
 {{% floatbox %}}
 
@@ -78,7 +80,7 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 
 Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologischen Berater Martin Bransky in Anspruch genommen werden. Die Möglichkeit, Ihren Beratungsprozess von einem männlichen Berater und einer weiblichen BeraterIn gleichzeitig begleiten zu lassen, bietet für Sie zusätzliche Vorteile, die besonders in festgefahren scheinenden Problembereichen für eine rasche Entspannung Ihrer Situation sorgen. Durch die volle Aufmerksamkeit zweier gegengeschlechtlicher BeraterInnen ist sowohl die männliche als auch die weibliche Sicht in Ihrem Beratungsprozess vertreten, wodurch bestehende und destruktive Verhaltensmuster besonders rasch sichtbar und damit bearbeitbar gemacht werden können. Sie erhalten Feedback von zwei professionellen BeraterInnen und erleben dadurch, dass sich jeder Teil des Paares in seiner bzw. ihrer Rolle wahrgenommen fühlt. Denn häufig fällt es Menschen leichter, sich in der Anwesenheit eines bzw. einer gleichgeschlechtlichen BeraterIn zu öffnen, wodurch Ihr Beratungsprozess von Ihnen beiden besonders konstruktiv genutzt werden kann.
 
-***
+{{< line icon="icon/paar_tuerkis.png" >}}
 
 ### SYSTEMISCHE BETRACHTUNGSWEISE
 
@@ -97,7 +99,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/img1.jpg" title="Jeder wird gehört..." >}}
+{{< image src="/img/blog_aufstellung_noe.jpg" title="Jeder wird gehört..." >}}
 
 {{% /small  %}}
 {{% small  %}}
@@ -142,7 +144,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -152,7 +154,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -163,7 +165,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
@@ -174,7 +176,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
