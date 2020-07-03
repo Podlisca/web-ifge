@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -98,14 +98,13 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% /box %}}
 {{% /floatbox %}}
 
-
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
 
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -115,7 +114,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -126,7 +125,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -137,7 +136,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
@@ -145,3 +144,5 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 * [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
 {{% /small  %}}
 {{% /box %}}
+
+
