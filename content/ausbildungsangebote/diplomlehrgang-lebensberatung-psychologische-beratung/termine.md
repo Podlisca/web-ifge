@@ -30,7 +30,7 @@ weight: 3
 {{% small %}}
 #### Wien
 
-{{< slider content="/img/ifge_wien.jpg" >}}
+{{< slider content="/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg,/img/ifge_wien.jpg" >}}
 
 * 30.09.2020 
 * 28.10.2020 
@@ -45,7 +45,8 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% small  %}}
 #### Burgenland
-{{< slider content="/img/ifge_pinkafeld.jpg" >}}
+
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg,/img/ifge_pinkafeld.jpg" >}}
 
 * 09.10.2020
 * 13.11.2020
@@ -59,7 +60,8 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% small  %}}
 #### Niederösterreich
-{{< slider content="/img/raum_noe_weis.jpg" >}}
+
+{{< slider content="/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg,/img/ifge_stpoelten.jpg" >}}
 
 * 15.07.2020
 * 06.08.2020
