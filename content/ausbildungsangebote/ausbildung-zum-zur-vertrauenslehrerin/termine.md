@@ -59,23 +59,39 @@ Anmeldung
 
 #### Start: 30. Oktober 2021
 
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 17:00 Uhr<br/>
-Prüfungstag: von 09.00 bis 16:00 Uhr<br/>
+**Samstag** von 09:00 bis 18:00 Uhr<br/>
+**Sonntag** von 09:00 bis 17:00 Uhr<br/>
+**Prüfungstag:** von 09.00 bis 16:00 Uhr<br/>
 
-Modul 1: 30.10. und 31.10.2021<br/>
-Modul 2: 11.12. und 12.12.2021<br/>
-Modul 3: 12.12. und 13.12.2020<br/>
-Modul 4: 23.01. und 24.01.2021<br/>
-Modul 5: 20.02. und 21.02.2021<br/>
-Modul 6: 20.03. und 21.03.2021<br/>
+**Modul 1:** 30.10. und 31.10.2021<br/>
+**Modul 2:** 11.12. und 12.12.2021<br/>
+**Modul 3**: 12.12. und 13.12.2020<br/>
+**Modul 4:** 23.01. und 24.01.2021<br/>
+**Modul 5:** 20.02. und 21.02.2021<br/>
+**Modul 6:** 20.03. und 21.03.2021<br/>
 
-Prüfung: 10.04.2021
+**Prüfung: 10.04.2021**
 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
+
 
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/bus.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+
+Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+
+**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+
+Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
 
 
 

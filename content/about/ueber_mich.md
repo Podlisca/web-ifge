@@ -110,3 +110,21 @@ ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/raueme.png" >}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+
+{{% /small  %}}
+{{% small  %}}
+#### Niederösterreich
+{{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}

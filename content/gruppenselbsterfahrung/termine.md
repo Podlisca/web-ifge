@@ -34,7 +34,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
-{{< image src="/img/ifge_wien.jpg">}}
+{{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 **14.09.2020** von 14:00 - 20:00 Uhr   
 **15.09.2020** von 14:00 - 20:00 Uhr   
@@ -72,7 +72,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 {{% small  %}}
 #### Burgenland
-{{< image src="/img/ifge_pinkafeld.jpg">}}
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+
 
 **03.09.2020** von 14:00 -20:00 Uhr  
 **08.10.2020** von 14:00 -20:00 Uhr  
@@ -95,15 +96,12 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **18.01.2022** von 14:00 -20:00 Uhr  
 **27.01.2022** von 14:00 -20:00 Uhr  
 
-Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](http://stadthotel-pinkafeld.at/) ist in 5 Gehminuten erreichbar.
-
 [Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< image src="/img/raum_noe_weis.jpg">}}
+{{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 **Dreitagesaufstellung: 04.06. - 06.06.2020**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
@@ -126,9 +124,22 @@ Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
 [Anmeldung](/anmeldung.php)
-
 {{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/bus.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+
+Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+
+**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
 
 
+Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
 
 

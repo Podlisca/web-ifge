@@ -121,7 +121,7 @@ Kursplan folgt
 
 [VORMERKEN](/anmeldung.php)
 
-***
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -181,7 +181,24 @@ Kursplan folgt
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/bus.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+
+Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+
+**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+
+Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+
 
 
 

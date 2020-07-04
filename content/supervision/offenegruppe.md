@@ -65,7 +65,7 @@ Leitung: Silvia Podlisca<br/>
 
 {{% small  %}}
 #### Online Gruppensupervision
-{{< image src="/img/ifge_pinkafeld.jpg">}}
+{{< image src="/img/onlineunterricht.jpg">}}
 
 **Die nächsten Termine befinden sich in Planung**
 
