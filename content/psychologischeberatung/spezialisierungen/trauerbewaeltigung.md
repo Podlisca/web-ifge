@@ -53,7 +53,7 @@ draft: false
 {{< line icon="icon/trauer.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/trauer_beratung_bgld.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/wien_silvia.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Der Tod eines geliebten oder nahe stehenden Menschen gehört zu den traurigsten Erfahrungen, die wir in unserem Leben machen müssen. Die Vorstellung, dass das Leben danach jemals wieder „normal weitergehen kann“, scheint zu Beginn oft absolut unmöglich – ja geradezu vermessen. Wenn uns die Nachricht eines Todes ereilt oder wir einen geliebten Menschen sterben sehen, können wir anfangs meist kaum realisieren – geschweige denn akzeptieren –, dass der oder die Verstorbene in diesem Leben nie wieder bei uns sein wird. Dies ist erstmal eine völlig normale Reaktion unserer Psyche. Mit ihr will sich der Mensch vor dem großen Schmerz schützen, den ein solcher Verlust für uns bedeutet. Es gilt, diese Phase des Leugnens genauso zu durchleben, wie die Zeiten, in denen die Emotionen wie Trauer, Wut, und Ohnmacht immer wieder aufbrechen. Egal welches Modell der Trauerbewältigung herangezogen wird, sie alle haben eines gemeinsam:
 

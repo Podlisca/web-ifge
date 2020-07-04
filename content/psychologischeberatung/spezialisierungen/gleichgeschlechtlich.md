@@ -50,7 +50,7 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/paar_sexualberatung.png" >}}
 
 
 {{% floatbox %}}
@@ -74,6 +74,8 @@ Und neben den vielen Alltagsdiskriminierungen bewegen sich homosexuelle Menschen
 {{< image src="/img/gleichgeschlechtlich_2.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Besonders in Bereichen, in denen vermeintlich mit Sexualität und sexueller Orientierung sehr frei umgegangen wird, fällt es vielen Menschen schwer, sich überhaupt zu öffnen und drängende Fragen sowie Anliegen zu besprechen. Die grundsätzlich begrüßenswerte Strömung der Neosexualität bringt ebenso mit sich, dass wir Menschen an uns den Anspruch stellen, bereits alles wissen zu müssen, was es im Bereich von Liebe und Sex zu wissen gibt. Und selbst in dem Fall, dass der Kopf tatsächlich sehr viel weiß und das meiste davon rational verarbeiten kann, so bleiben dennoch häufig Gefühle und Empfindungen, die sich noch nicht einordnen lassen und die immer wieder Fragen aufwerfen. Doch Sie sind mit Ihren Fragen und Anliegen nicht alleine und auch nicht mit Ihren inneren Widersprüchlichkeiten, die Sie – wie viele andere Menschen – vielleicht empfinden.
+<br/>
+<br/>
 
 ### COMING-OUT
 
@@ -100,7 +102,7 @@ Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all d
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  

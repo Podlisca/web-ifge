@@ -63,7 +63,7 @@ Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine
 
 * Beratung/Therapie bei sexuellen Paarproblemen (Dipl.Psych.in Garbriele Frohme,2019)
 * Gruppen in Therapie und Beratung (Dr. Gunther Schmidt; 2018)
-* seit 2018 bis dato: regelmäßiges, individuelles Einzellerntraining in Hypnosystemik bei (Dr. Vera Popper) 
+* seit 2018 bis dato: regelmäßiges, individuelles Einzellerntraining in Hypnosystemik (Dr. Vera Popper) 
 * Eintragung in die WKO Expertenliste für Aufstellungsarbeit (2018)
 * Lehrgangsverantwortliche  für Aufstellungsarbeit (Lehrgangsnummer: RA-LSB FL-AU 002.0/2018)
 * Soziale und innere Konflikte als Chance – Hypnosystemische Utilisation (Dr. Gunther Schmidt; 2017) 

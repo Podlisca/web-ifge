@@ -50,7 +50,7 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/sex_frust.png" >}}
 
 
 {{% floatbox %}}
@@ -58,10 +58,9 @@ draft: false
 
 Es könnte alles so schön sein! Denn Sie lieben sich, sind füreinander da, bewältigen die Themen des Alltags hervorragend und erleben sich als Paar sowie auch in Ihrer möglichen Elternrolle als eingespieltes Team. Doch das Sexleben ist in Ihrer Beziehung etwas ruhiger geworden. Obwohl viele Menschen Ihre Partner\*innen durchaus noch attraktiv finden, herrscht nach einiger Zeit bei vielen Paaren – manchmal auch schon seit den Anfängen der Beziehung – die sprichwörtliche Flaute im Bett. Irgendwie ist im Zusammenspiel zwischen Mann und Frau (oder Mann und Mann sowie Frau und Frau) das Gefühl für sexuelle Anziehung in Ihrer Partnerschaft verloren gegangen. 
 
-{{< image src="/img/sexualitaet_paar.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_paarberatung_3.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Wenn die Lust aufeinander immer öfter ausbleibt und sie letztlich vielleicht gar kein oder ein nur mehr mit Unbehagen behaftetes Thema ist, finden sich viele Paare damit schlicht ab. 
-
 Wenn Sie stattdessen jedoch aktiv etwas dafür tun möchten, dass Leidenschaft, Intimität, Nähe, Erotik und Sexualität in Ihrer Partnerschaft wieder an Bedeutung gewinnen, können Sie durch professionelle Sexualberatung für Paare wieder das Feuer für einander in sich entzünden. 
 
 Und dies kann durchaus auch Paaren gelingen, die neben ihrer gemeinsamen Liebesbeziehung den täglichen Anforderungen des Elternseins gewachsen sein möchten. Denn prickelnde Erotik, Spannung und Leidenschaft können auch in ganz kurzen Sequenzen des Alltags wieder neu entdeckt und gehegt sowie gepflegt werden.
@@ -78,7 +77,7 @@ dann ist die Sexualberatung für Paare genau das Richtige für Sie.
 
 ### WAS KÖNNEN SIE SICH UNTER SEXUALBERATUNG FÜR PAARE AM IFGE VORSTELLEN?
 
-{{< image src="/img/sexualitaet_paar_1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/paarberatung_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
 Im ersten Schritt der Beratung achte ich als Sexualberater\*in darauf, dass Sie gegenseitig Ihre unterschiedlichen Vorstellungen erkennen und dem Lustempfinden des jeweils anderen, welches von Ihrem persönlichen durchaus abweichen kann, das gleiche Recht und die ebenbürtige Gewichtung einräumen können. 
 
@@ -88,7 +87,7 @@ Häufig entsteht so ein generalisiertes und hemmendes „Nein“ ohne jede böse
 
 In der Beratung bekommen Sie daher beide wieder ein Gefühl dafür, wo in Ihrer Sexualität persönliche Grenzen angebracht sind und wo Sie auf falsche Rücksichtnahme zugunsten einer gemeinsam erfüllend gelebten Sexualität in Zukunft verzichten können.    
 
-{{< image src="/img/sexualitaet_paar_2.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
+{{< image src="/img/sex_paar_noe.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
 
 In dem Beratungsprozess, für den Sie sich als Paar ganz bewusst entscheiden, geht es nicht darum, nette Rollenspiele – die zumeist, wenn überhaupt, nur von kurzem Erfolg gekrönt sind – zu entwickeln, sondern es geht darum, tiefgreifende, dauerhafte und beständige lustvolle Veränderungen in Ihr Sexleben zu integrieren. 
 
@@ -113,7 +112,7 @@ Die Geschmeidigkeit der Institutskatzen und ihrer Bewegungen, ihr genüssliches 
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  

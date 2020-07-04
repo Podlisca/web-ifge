@@ -50,12 +50,12 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 
 {{% floatbox %}}
 
-{{< image src="/img/sexualberatung_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/wien_silvia.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit.
 
@@ -63,7 +63,7 @@ Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf
 
 Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
 
-{{< image src="/img/sexualberatung_2.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" float="right" title="Bildbeschreibung" >}}
 
 Mein besonderes Augenmerk in der Sexualberatung richte ich dabei seit Jahren ebenso auf Teilbereiche der Sexualität, die von Betroffenen oftmals als besonders belastend erlebt werden, die jedoch trotzdem häufig an den Rand des gesellschaftlichen Bewusstseins gedrängt werden. 
 
@@ -71,7 +71,7 @@ Dazu gehören etwa die zahlreichen Diskrepanzen, die gleichgeschlechtlich Lebend
 
 Gerade wenn es um spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geht, fragen sich viele Menschen, ob Ihr Denken und Handeln „noch normal“ ist. Am IFGE vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für belebende sexuelle Höhenflüge sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
 
-{{< image src="/img/sexualberatung_3.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/bgld_perversion.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein weiterer wichtiger Teil der Sexualberatung findet leider auch bei professionellen Berater*innen wenig bewusste Beachtung: Der Umgang mit belastenden Phantasien und Wünschen. Die Angst, die eigenen Phantasien nicht unter Kontrolle zu haben und vielleicht sogar zum Täter / Stalker zu werden, kann das eigene sexuelle Erleben empfindlich belasten. 
 
@@ -79,7 +79,7 @@ Das Ausleben einer befriedigenden Sexualität ist des Weiteren für Opfer von se
 
 {{% /floatbox %}}
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 ### Sexualberatung ist unter anderem hilfreich bei:
 * Lustlosigkeit, Gehemmtheit
@@ -99,14 +99,14 @@ Das Ausleben einer befriedigenden Sexualität ist des Weiteren für Opfer von se
 * Verhütung
 * Sexualität und Alter
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 ### Speziell für Jugendliche
 ## ...WEIL ES MANCHMAL VERWIRREND IST, ERWACHSEN ZU WERDEN
 
 <iframe width="446" height="251" src="https://www.youtube.com/embed/tcWXcaB1o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 ### DER VERHÜTUNGSKOFFER
 
@@ -132,7 +132,7 @@ Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl
 
 
 {{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="/icon/sexualberatung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
 ## Einzelselbsterfahrung mit Silvia Podlisca

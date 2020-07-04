@@ -50,25 +50,23 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/oper_taeter.png" >}}
 
 
 {{% floatbox %}}
 ### Wo keine Täter*innen da keine Opfer!
 #### ARBEIT MIT (POTENZIELLEN) TÄTER*INNEN
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-n der psychologischen Beratung konzentriere ich mich dabei neben der Beratung von Opfern ganz bewusst auf die Arbeit mit Täter\*innen, die einen Rückfall vermeiden wollen sowie auf Männer und Frauen, die befürchten, zu Täter*innen zu werden. Als absolutes Tabu gelten nach wie vor Frauen, die zu Täterinnen werden – übrigens verhält es sich bei männlichen Opfern ebenso – und das obwohl nach einem Bericht der Deutschen Gesellschaft für Prävention und Intervention bei Kindesmisshandlung und -vernachlässigung davon ausgegangen wird, dass zehn Prozent aller sexuellen Gewalttaten von Frauen verübt werden.
+In der psychologischen Beratung konzentriere ich mich dabei neben der Beratung von Opfern ganz bewusst auf die Arbeit mit Täter\*innen, die einen Rückfall vermeiden wollen sowie auf Männer und Frauen, die befürchten, zu Täter*innen zu werden. Als absolutes Tabu gelten nach wie vor Frauen, die zu Täterinnen werden – übrigens verhält es sich bei männlichen Opfern ebenso – und das obwohl nach einem Bericht der Deutschen Gesellschaft für Prävention und Intervention bei Kindesmisshandlung und -vernachlässigung davon ausgegangen wird, dass zehn Prozent aller sexuellen Gewalttaten von Frauen verübt werden. Dies passt so gar nicht in das Rollenbild unserer Gesellschaft. 
 
-Dies passt so gar nicht in das Rollenbild unserer Gesellschaft. 
-
-Da aber ein Problem nicht gelöst wird, indem man es ignoriert, führe ich hier – wie Ihnen vielleicht schon aufgefallen ist – ganz bewusst die Begriffe „Täter und Täterinnen“ an. 
+Da aber ein Problem nicht gelöst wird, indem man es ignoriert, führe ich hier, ganz bewusst die Begriffe „Täter und Täterinnen“ an. 
 
 **Die präventive Täter\*innenarbeit ist für mich dabei eine der wichtigsten Teilgebiete meiner Profession, denn wo es keine Täter\*innen (mehr) gibt, kann es auch keine Opfer (mehr) geben.**
 
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/burnout2_bgld.jpg" float="right" title="Bildbeschreibung" >}}
 
 Potenzielle Täter und Täterinnen, die sich noch keine Straftat zu schulden kommen haben lassen, finden in Österreich wenige Angebote, die speziell für sie entwickelt wurden. Die Hemmschwelle, sich Hilfe zu suchen, ist somit besonders groß, vor allem auch, weil die Angst vorherrscht, für die eigenen Phantasien, Wünsche oder vielleicht in der Vergangenheit begangenen Taten vorverurteilt zu werden. 
 
@@ -98,7 +96,7 @@ zögern Sie nicht, sich einen Beratungstermin am IFGE bei mir auszumachen. Was i
 
 
 {{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="icon/oper_taeter.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
 ## Einzelselbsterfahrung mit Silvia Podlisca

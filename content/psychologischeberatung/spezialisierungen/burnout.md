@@ -53,7 +53,7 @@ draft: false
 {{< line icon="icon/burn_out.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/Krise.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/burn_out_wien.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ausgebrannt sein, die eigene Motivation nicht mehr in sich finden können, an einem Punkt angelangt sein, wo alles anstrengend und sinnlos erscheint – und das nicht nur in Form einer Phase, sondern als langfristiger Dauerzustand. So in etwa könnten Burn-out-Klient\*innen einen Teil ihrer Symptome beschreiben.
 
@@ -77,7 +77,7 @@ Bei mir am [IFGE](https://www.ifge.at) biete ich Ihnen die Möglichkeit, sich mi
 
 Die Burn-out-Beratung ist ebenso für Führungskräfte und Teamleiter hilfreich, die auf eine ausgewogene Balance ihres Teams und auf die Gesundheit ihrer Mitarbeiter bewusst achten wollen.
 
-{{< image src="/img/pluto_beratung_noe.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/tiere_noe_5.jpg" float="right" title="Bildbeschreibung" >}}
 
 Gerade in der Burn-out-Prävention ist die tiergestützte Begleitung – insbesondere Beratung & Bewegung mit Hunden – Ihres Beratungsprozesses besonders ans Herz zu legen. Der Kontakt mit Tieren senkt Ihre Stresswerte und hat damit einen nachweislich positiven Effekt auf Ihre körperliche und psychische Gesundheit. Die Bewegung an der frischen Luft aktiviert zudem Ihren Bewegungsapparat. Gerade bei Erschöpfungszuständen ist es wichtig, gewohnte (Denk-)Wege zu verlassen und neuen Strategien zu finden. Abgesehen davon, bringen Tiere eine gewisse Leichtigkeit und Gelassenheit in Ihre Beratungseinheit, verstehen es aber auch blendend, zu trösten, wenn bei Ihnen jene Emotionen aufkommen, die letztlich zur Lösung Ihres Problems beitragen werden.
 
