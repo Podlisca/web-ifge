@@ -103,7 +103,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](http://
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< image src="/img/ifge_stpoelten.jpg">}}
+{{< image src="/img/raum_noe_weis.jpg">}}
 
 **Dreitagesaufstellung: 04.06. - 06.06.2020**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
