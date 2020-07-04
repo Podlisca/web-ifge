@@ -29,7 +29,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/aufstellung.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}

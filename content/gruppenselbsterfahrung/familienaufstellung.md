@@ -86,17 +86,17 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 {{< line icon="icon/termine.png" >}}
 
 # Termine
-***
+
 {{% box blue=1 %}}
 {{% small  %}}
 
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samstag und Sonntag) oder eintägig an einem Montag, Dienstag oder Freitag in Wien statt. Seit September 2019 am Donnerstag in Pinkafeld. Ebenso gibt es eine zweiwöchentliche, systematisch geführte, Gruppenselbsterfahrung.
+Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. Ebenso gibt es eine zweiwöchentliche, systematisch geführte, Gruppenselbsterfahrung.
 
-Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](https://www.ifge.at)! 
+Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](https://www.ifge.at/gruppenselbsterfahrung/termine.html)! 
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/aufstellung.png" >}}
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
@@ -104,4 +104,4 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 
 **Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
 
-***
+
