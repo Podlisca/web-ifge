@@ -104,6 +104,9 @@ Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und ande
 Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. 
 
 Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir am IFGE auch, dass aufgrund langjähriger Erfahrung und zahlreicher Zusatzausbildungen ein Mix aus unterschiedlichsten psychologischen Methoden ermöglicht wird, der somit die absolut individuelle Begleitung Ihres Prozesses sichert.
+<br/>
+<br/>
+{{< silvia >}}
 
 {{% /floatbox %}}
 
@@ -117,7 +120,7 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  

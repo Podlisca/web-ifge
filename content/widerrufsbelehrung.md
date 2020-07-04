@@ -4,10 +4,13 @@ menu: footer
 draft: false
 weight: 3
 ---
+# Wien - Burgenland - Niederösterreich
 
+{{< slogan >}}
+{{< line icon="icon/impressum.png" >}}
 
 # Widerrufsbelehrung und -formular
-
+***
 Widerrufsbelehrung:
 
 Für Anmeldung per E-Mail informiere ich Sie wie folgt:

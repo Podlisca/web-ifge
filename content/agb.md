@@ -4,10 +4,13 @@ menu: footer
 draft: false
 weight: 2
 ---
+# Wien - Burgenland - Niederösterreich
 
+{{< slogan >}}
+{{< line icon="icon/impressum.png" >}}
 
 # Allgemeine Geschäftsbedingungen
-
+***
 Frau Silvia Podlisca - IFGE
 Mariahilferstraße 76/4Top 39, 0676 10 89 36, silvia.podlisca@ifge.at
 
