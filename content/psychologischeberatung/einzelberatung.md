@@ -78,7 +78,7 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 {{% floatbox %}}
 
-Am [IFGE](https://www.ifge.at) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
+Am [IFGE](https://ifge.at/about/institut.html) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
 
 
 {{< image src="/img/einzel_bgld_5.jpg" float="right" title="Bildbeschreibung" >}} 
@@ -89,7 +89,7 @@ Auch wenn Sie Ihre persönliche Lösung aktuell noch nicht finden können und vi
 
 {{% box blue=1 %}}
 {{% small %}}
-Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://www.ifge.at) in der Beratung lesen.
+Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://ifge.at/about/institut.html) in der Beratung lesen.
 
 Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt.
 
@@ -124,7 +124,7 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://www.ifge.at/kontakt.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}

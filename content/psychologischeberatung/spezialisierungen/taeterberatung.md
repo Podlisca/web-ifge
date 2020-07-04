@@ -99,17 +99,17 @@ zögern Sie nicht, sich einen Beratungstermin am IFGE bei mir auszumachen. Was i
 {{< line icon="icon/oper_taeter.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
