@@ -45,7 +45,7 @@ Denn am IFGE vertreten wir die Auffassung: Wissen macht stark, unabhängig und d
 
 In diesem Workshop geht es also nicht darum, was du NICHT tun sollst, sondern viel mehr zeigen wir dir, WIE du die Dinge tun kannst, um Spaß zu haben und gleichzeitig auf der sicheren Seite zu sein. Außerdem erhältst du neue Erkenntnisse, warum sich Eltern oft so viele Sorgen machen und vermeintlich unfair agieren und du lernst, was du dazu beitragen kannst, um eine vertrauensvolle Beziehung zu deinen Eltern aufzubauen.
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/dating.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 ## TOTALEN WEITBLICK – WAS LIEGT DAHINTER? 

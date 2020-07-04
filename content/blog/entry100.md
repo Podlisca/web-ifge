@@ -1,5 +1,5 @@
 ---
-title: "Lehrer*innen an ihren Grenzen: Welche Spuren Corona in den Kinderseelen hinterlassen hat"
+title: "Lehrer*innen an ihren Grenzen: Welche Spuren Corona bei Kindern hinterlassen hat"
 draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 100

@@ -13,7 +13,7 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="icon/Love_Scamming.png" >}}
+{{< line icon="icon/dating.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

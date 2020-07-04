@@ -4,27 +4,10 @@ draft: false
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr oder Samstags von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie Supervision und Aufstellungsarbeit, sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
 ---
 
-# Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
+# Herzlich Willkommen am IFGE
+# Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
-
-{{< line icon="icon/silvia.png" >}}
-
-{{% center style="max-width: 700px"%}}
-
-**Liebe Besucherin, lieber Besucher**
-
-**unsere Website wurde völlig neu gestaltet weshalb es vorkommen kann, dass noch nicht jeder Link funktioniert oder noch kleine „Hoppalas“ passieren.**
-
-**Wir bitten um Verständnis 😊 herzlichst Silvia Podlisca**
-
-**P.s. Wir freuen uns über Feedback**
-
-{{< silvia >}}<br>
-**- Institutsleiterin -**
-
-{{% /center %}}
-
 
 
 {{< line icon="icon/zitat.png" >}}
@@ -130,7 +113,7 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzel_wien.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
