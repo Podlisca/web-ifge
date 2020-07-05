@@ -101,14 +101,6 @@ Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehun
 {{% /floatbox %}}
 
 
-
-{{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
-
-
-
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
 
