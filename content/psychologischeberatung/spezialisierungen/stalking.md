@@ -90,7 +90,7 @@ Gerade diese (potenziellen) Täter\*innen sind sich ihres unpassenden Verhaltens
 
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/mono.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein ebenso häufiges Thema im Bereich Stalking in meiner Praxis ist das Stalken von Ex-Partner\*innen, das oft auch von Frauen ausgeht. Meist ist diesen Frauen zu Beginn gar nicht bewusst, wie übergriffig und entwürdigend ihr Verhalten empfunden wird, etwa wenn sie die neue Partnerin des Ex-Freundes oder Ex-Mannes durch Nachrichten, Verleumdungen oder wiederholt unerwünschte Begegnungen nicht in Ruhe lassen. Da diese Form des Stalkings oft in dem Wunsch begründet liegt, den Ex-Freund bzw. Ex-Mann wieder zurück zu erobern, meinen sich jene Frauen häufig im Recht und sehen sich bisweilen sogar selbst als die Opfer ihrer Situation.
 

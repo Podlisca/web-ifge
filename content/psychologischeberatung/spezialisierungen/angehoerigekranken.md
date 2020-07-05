@@ -50,11 +50,11 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/angehoerige.png" >}}
 
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sucht2_wien.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Wenn ein Familienmitglied erkrankt, gehört dies zu den belastendsten Herausforderungen, die uns Menschen begegnen. 
 
@@ -62,7 +62,7 @@ Eine Diagnose steht entweder plötzlich im Raum und verändert alles, was das Fa
 
 Oftmals stehen schwere Entscheidungen über die nächsten Schritte an. Häufig werden in Familien alle Kräfte mobilisiert, um Wege zu finden, die Kranken zu unterstützen und um mit der neuen Lebenssituation umzugehen. 
 
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="icon/angehoerige.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
@@ -72,16 +72,16 @@ Das Leben ändert sich durch Krankheiten schleichend – oder von heute auf morg
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="icon/angehoerige.png" >}}
 
 In all dem Trubel rund um die richtige Pflege oder Behandlung der Angehörigen und dem durch die neue Situation bisweilen entstehenden Chaos gehen häufig gerade die unter, die sich am verantwortlichsten für die Kranken und die Aufrechterhaltung eines halbwegs geregelten Familienlebens fühlen.
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/mono.jpg" float="right" title="Bildbeschreibung" >}}
 
 In einer Gesellschaft, in der unsere Großeltern- oder Elterngeneration noch in Großfamilien aufgewachsen ist, in welchen sich um Kranke zu Hause gekümmert werden konnte, wird häufig gerade den mittlerweile berufstätigen Frauen dazu noch schlechtes Gewissen eingeimpft, wenn sich diese die Pflege der eigenen Eltern oder Schwiegereltern aus persönlichen oder existenziellen Gründen nicht zumuten können.
 Gleichzeitig gilt es, den richtigen Zeitpunkt für schwierige Entscheidungen zu finden: Wird mehr Hilfe benötigt? Brauchen Vater, Mutter oder Schwiegereltern bereits einen Sachwalter oder kann und will man diese Zusatzaufgabe selbst mit übernehmen? Der Grad zwischen Bevormundung und benötigter Hilfestellung scheint sehr schmal – und ist für alle Beteiligten meist sehr unangenehm. Zu diesen Befürchtungen und Sorgen rund um das Befinden der Kranken kommt demnach häufig auch noch ein unüberschaubarer Berg an Schuldgefühlen.
 
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="icon/angehoerige.png" >}}
 
 {{% box blue=1 %}}
 {{% small %}}
@@ -89,9 +89,9 @@ All diese Emotionen meinen Angehörige oft, unterdrücken zu müssen, um die Kra
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="icon/angehoerige.png" >}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Am IFGE biete ich Ihnen die Möglichkeit, Ihre Gefühle zuzulassen, um damit in Ihrem Alltag umgehen zu können. Vielleicht gibt es Wichtiges, das Sie noch besprechen oder erleben möchten. Die große Angst, die Sie um Ihre Angehörigen haben, müssen Sie vor mir nicht – wie vielleicht zu Hause vor den Kindern – verbergen. Sie darf sein und findet in verständnisvoller Atmosphäre Platz. Die Überforderung, die Sie möglicherweise verspüren, findet hier bei mir Raum und darf ausgesprochen werden – frei von Bewertungen meinerseits. Welche Gefühle Sie auch immer bewegen und belasten, hier müssen Sie sich nicht verstellen. Warten Sie nicht, bis Sie Ihre Grenzen erreicht haben, sondern sorgen Sie gut für sich – gerade dann, wenn Sie das Bedürfnis haben, auch für andere zu sorgen. Denn nur wenn es IHNEN gut geht, können Sie kraftvoll für die erkrankte Person da sein!
 {{% /floatbox %}}

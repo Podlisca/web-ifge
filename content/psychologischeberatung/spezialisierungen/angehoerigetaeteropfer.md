@@ -3,7 +3,8 @@ title: "Angehörige von Opfern oder Tätern"
 draft: false
 ---
 
-# Beratung für Angehörige
+# Beratung für Angehörige von 
+# Opfern oder Tätern
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -50,11 +51,11 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/angehoerige.png" >}}
 
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/system_einzel_2.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Wenn Menschen ein schweres Schicksal ereilt – ganz gleich welcher Art – gilt die ganze Aufmerksamkeit den Betroffenen. Was das jeweilige Schicksal mit den Angehörigen macht und welche Folgen sowie Veränderungen es für diese bedeutet, wird dabei gerne übersehen.Besonders emphatische und hilfsbereite Angehörige glauben häufig, dass sie kein Recht auf ihre Emotionen hätten, wo doch eigentlich ein anderer oder eine andere betroffen ist. Dabei ist vieles, was Menschen ereilt, für die Angehörigen mindestens genauso belastend wie für die Betroffenen selbst. Da sich Angehörige diese Gefühle oft jahrelang nicht erlauben, sie sich häufig über lange Zeit „hinten anstellen“ und vielleicht sogar bei der Pflege helfen müssen, tragen Angehörige vielfach ein schweres Los.
 
