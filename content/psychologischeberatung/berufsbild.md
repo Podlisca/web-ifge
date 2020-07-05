@@ -102,7 +102,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
+* [Stalking](https://ifge.at/psychologischeberatung/spezialisierungen/stalking.html)
 * [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
 * [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
 * [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
@@ -118,3 +118,4 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 * [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
 {{% /small  %}}
 {{% /box %}}
+

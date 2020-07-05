@@ -115,7 +115,7 @@ Hier finden Sie vertiefende Informationen über:
 Hier finden Sie vertiefende Informationen über: 
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
+* [Stalking](https://ifge.at/psychologischeberatung/spezialisierungen/stalking.html)
 * [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
 * [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
 * [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
@@ -130,5 +130,6 @@ Hier finden Sie vertiefende Informationen über:
 * [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
 {{% /small  %}}
 {{% /box %}}
+
 
 

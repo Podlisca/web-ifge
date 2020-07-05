@@ -91,7 +91,7 @@ Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die
 {{< image src="/img/home_berufsbild.jpg" >}}
 
 #### Berufsbild Lebensberatung
-Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbild.html) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbild.html).
+Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](https://ifge.at/psychologischeberatung/berufsbild.html) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](https://ifge.at/psychologischeberatung/berufsbild.html).
 {{% /small  %}}
 
 {{% small  %}}
@@ -104,9 +104,11 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 {{% /box %}}
 
 {{% floatbox %}}
+
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
+
 ## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
