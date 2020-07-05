@@ -79,7 +79,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 * [Sexual- & Paarberatung](/ausbildungsangebote/sexualberatung-paarberatung.html)
 * [VertrauenslehrerIn](/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin.html)
 * [Historische & politische Aspekte in der Beratung](/ausbildungsangebote/historische-politische-aspekte-in-der-beratung.html)
-* Klangschalenmassage
+* [Klangschalenmassage](https://ifge.at/ausbildungsangebote/klangschalenmassage.html)
 
 {{% /small  %}}
 {{% small  %}}
