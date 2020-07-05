@@ -50,11 +50,11 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/gewalt.png" >}}
 
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Neben sexueller Gewalt ist vor allem der Bereich der „häuslichen Gewalt“ ein Schwerpunkt meiner Beratungspraxis.
 
@@ -76,7 +76,7 @@ Opfer von häuslicher Gewalt stehen verschiedensten miteinander verwobenen Probl
 * Die Liebe zu Täter*innen sorgt dafür, dass Opfer sich nicht einmal mit engsten Vertrauten austauschen wollen, um die Täter*innen zu schützen.
 * Die Erfahrung mit oft wenig hilfreichen Aussagen wie „Dann geh’ doch!“, „Das lässt du dir gefallen?“, „Wer es einmal tut, wird es wieder tun.“ kann Opfer häuslicher Gewalt dazu bringen, über ihr Erlebtes gar nicht mehr sprechen zu wollen.
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/noe_einzel7.jpg" float="right" title="Bildbeschreibung" >}}
 
 In der psychologischen Beratung nehme ich mir für Ihr Anliegen und Ihre Sorgen so viel Zeit wie nötig. Gerade in diesem Fall möchte ich die absolute Vertraulichkeit, welcher unsere Gespräche unterliegen, noch einmal besonders betonen. Hier bei mir am IFGE können Sie sich sicher sein, dass von mir keinerlei Schritte bzw. Maßnahmen getätigt, gefordert oder auch nur erwartet werden, wenn Sie für diese (noch) nicht bereit sind oder wenn diese Schritte für Ihre persönliche Lösung keinerlei Relevanz haben. Wichtig ist in erster Linie, dass Sie hier einen Platz finden, an dem Sie zur Ruhe kommen können und an dem Sie – mit all dem, was Sie bewegt – gehört werden. In meinen Beratungsräumen finden Sie die Sicherheit vor, die Sie benötigen, um sich selbst wieder zu finden und um kraftvolle Entscheidungen treffen sowie Schritte setzen zu können, wann auch immer die Zeit für Sie reif ist. 
 
@@ -93,7 +93,7 @@ In der psychologischen Beratung nehme ich mir für Ihr Anliegen und Ihre Sorgen 
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzel_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/mono.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
