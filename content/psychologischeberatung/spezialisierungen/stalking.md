@@ -85,7 +85,7 @@ Gerade diese (potenziellen) Täter\*innen sind sich ihres unpassenden Verhaltens
 
 {{% /floatbox %}}
 
-{{< line icon="/icon/stalking.png" >}}
+{{< line icon="/icon/gewalt.png" >}}
 # Frauen die stalken...
 
 
