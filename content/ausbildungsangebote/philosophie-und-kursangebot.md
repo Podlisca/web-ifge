@@ -19,7 +19,7 @@ weight: 1
 {{% box top-align=1 %}}
 {{% small  %}}
 {{< image src="/img/silvia_noe_blaue_bank.jpg">}}
-{{< image src="/img/ausbildungsphilosophie2.jpg" >}}
+{{< image src="/img/philo_noe_ausbildung.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 
