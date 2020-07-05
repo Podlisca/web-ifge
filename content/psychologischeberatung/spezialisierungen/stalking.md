@@ -56,7 +56,7 @@ draft: false
 {{% floatbox %}}
 ### Was ist Stalking?
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/stalking.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Stalking ist ein Wort, das uns leicht über die Lippen kommt. Gerade unter Jugendlichen hört man oft „Den hab ich auf Facebook gestalkt“, wenn sie eigentlich meinen, sich ein öffentliches Profil lediglich schon ein paar Mal angesehen zu haben. „Der stalkt mich“, wird zum genervt ausgesprochenen Synonym, wenn ein lausiger Date-Partner nachfragt, ob es vielleicht noch ein weiteres Treffen gibt.
 
