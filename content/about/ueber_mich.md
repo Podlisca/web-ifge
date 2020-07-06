@@ -17,7 +17,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/das_institut.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/silvia_noe3.jpg" float="left" title="Bildbeschreibung" >}}
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
@@ -34,7 +34,7 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](/supervision/einzelsupervision.html) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
 {{% /large %}}
 {{% small %}}
-  {{< image src="/img/silvia_podlisca_2.jpg" title="Bildbeschreibung" >}}
+  {{< image src="/img/ziel_selbsthilfe.jpg" title="Bildbeschreibung" >}}
 {{% /small %}}
 {{% /box %}}
 
@@ -116,15 +116,16 @@ Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.beru
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+
 
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}

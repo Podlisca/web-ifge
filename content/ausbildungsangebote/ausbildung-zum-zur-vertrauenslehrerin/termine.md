@@ -39,14 +39,15 @@ Vereinbaren Sie jetzt ein persönliches Informationsgespräch. Dieses bietet aus
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
-{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+
 
 #### Termine folgen
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
 #### Termine folgen
 
@@ -54,7 +55,9 @@ Anmeldung
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+
+
 
 
 #### Start: 30. Oktober 2021
