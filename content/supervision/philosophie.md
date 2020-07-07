@@ -33,39 +33,10 @@ Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektie
 {{% /small  %}}
 {{% /box %}}
 
-{{% box blue=1 top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/icon/einzel_sv.png" small=1 >}}
-
-#### [Einzelsupervision](/supervision/einzelsupervision.html)
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
-
-#### [Geschlossene SV Gruppe](/supervision/geschlossenegruppe.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
-
-#### [Offene SV Tage](/supervision/offenegruppe.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_woche.png" small=1 >}}
-
-#### [Intensivwoche](/supervision/supervisionswoche.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_teambuilding.png" small=1 >}}
-
-#### [Teamsupervision](/supervision/teamsupervision.html)
-
-{{% /small  %}}
-
-{{% /box %}}
+{{< iconmenu >}}
+{{< card icon="icon/einzel_sv.png" title="Einzelsupervision" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Geschlossene SV Gruppe" link="geschlossenegruppe" >}}
+{{< card icon="icon/sv_gruppe_offen.png" title="Offene SV Tage" link="offenegruppe" >}}
+{{< card icon="icon/sv_woche.png" title="Intensivwoche" link="supervisionswoche" >}}
+{{< card icon="icon/sv_teambuilding.png" title="Teamsupervision" >}}
+{{< /iconmenu >}}

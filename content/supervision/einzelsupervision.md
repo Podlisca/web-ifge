@@ -18,7 +18,7 @@ weight: 2
 
 {{% floatbox %}}
 
-{{< image src="/img/upgrade_supervision_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelsupervision_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Alle Berater\*innen stehen im Zuge der Karriere immer wieder vor fachlichen oder persönlichen Herausforderungen, die den Beratungsprozess verlangsamen, die ihn ins Stocken bringen oder im ungünstigsten Fall den Beratungsabbruch durch Klient\*innen zur Folge haben können. Gerade in den ersten Jahren der beratenden Tätigkeit ist eine fachliche Begleitung für den persönlichen Erfolg ratsam. 
 

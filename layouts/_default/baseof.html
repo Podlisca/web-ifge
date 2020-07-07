@@ -52,6 +52,7 @@
       {{ block "main" . }}
       {{ end }}
     </div>
+    {{ partial "floating-button.html" "bottom" }}
   </main>
 
   <!-- {{ partial "sidebar.html" . }} -->
@@ -60,7 +61,7 @@
     {{ partial "site-footer.html" . }}
   </footer>
 
-  {{ partial "floating-button.html" . }}
+  {{ partial "floating-button.html" "aside" }}
   {{ partial "scroll-top.html" .}}
   
   <script>

@@ -32,41 +32,13 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 {{% /small  %}}
 {{% /box %}}
 
-{{% box blue=1 top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/icon/einzel_sv.png" small=1 >}}
-
-#### [Einzelberatung](/psychologischeberatung/einzelberatung.html)
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
-
-#### [Systemische Einzelberatung](/psychologischeberatung/einzel_system.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
-
-#### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/paar_schwarz.png" small=1 >}}
-
-#### [Paarberatung](/psychologischeberatung/paarberatung.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
-
-#### [Berufsbild](/psychologischeberatung/berufsbild.html)
-
-{{% /small  %}}
-{{% /box %}}
+{{< iconmenu >}}
+{{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="einzel_system" >}}
+{{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
+{{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
+{{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
+{{< /iconmenu >}}
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 

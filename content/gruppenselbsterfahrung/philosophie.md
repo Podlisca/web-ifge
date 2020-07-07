@@ -28,52 +28,21 @@ In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken,
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
+
+
 {{% box blue=1 %}}
 {{% small  %}}
 ## Hier finden Sie ausführliche Informationen über:
 {{% /small  %}}
 {{% /box %}}
 
-{{% box blue=1 top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/icon/einzel_sv.png" small=1 >}}
-
-#### [Familien-aufstellung](//gruppenselbsterfahrung/familienaufstellung.html)
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_gruppe_geschlossen.png" small=1 >}}
-
-#### [Systemische Tieraufstellung](/gruppenselbsterfahrung/tieraufstellung.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
-
-#### [Glaubenssatz-Aufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_woche.png" small=1 >}}
-
-#### [Gruppen-selbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html)
-
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/icon/sv_teambuilding.png" small=1 >}}
-
-#### [Termine](/gruppenselbsterfahrung/termine.html)
-
-{{% /small  %}}
-
-{{% /box %}}
-
-
-
-
+{{< iconmenu >}}
+{{< card icon="icon/einzel_sv.png" title="Familienaufstellung" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Tieraufstellung" link="tieraufstellung" >}}
+{{< card icon="icon/sv_gruppe_offen.png" title="Glaubenssatz-Aufstellung" link="glaubenssatzaufstellung" >}}
+{{< card icon="icon/sv_woche.png" title="Gruppen-Selbsterfahrung" link="gruppenselbsterfahrung" >}}
+{{< card icon="icon/sv_teambuilding.png" title="Termine" link="termine" >}}
+{{< /iconmenu >}}
 
 {{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
 {{% floatbox %}}
