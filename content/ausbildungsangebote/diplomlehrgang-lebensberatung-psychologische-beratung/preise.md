@@ -91,7 +91,10 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
 *Der Frühbucherbonus ist derzeit für folgende Lehrgänge gültig:
 
+* LSB 13 (Montag, 14 - 20 Uhr) in Wien bis 30.11.2020
+* LSB 14 (Dienstag, 14 - 20 Uhr) in Pinkafeld bis 30.11.2020
 * LSB 16 (Samstag, 10 - 16 Uhr) in Wien bis 30.09.2021
+
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}

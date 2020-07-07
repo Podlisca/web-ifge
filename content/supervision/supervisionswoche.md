@@ -23,6 +23,10 @@ Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt.
 
 Die Schulungs- und Supervisionswoche kann nur von (ehemaligen) Schüler*innen von mir besucht werden.
+<br/>
+<br/>
+<br/>
+{{< silvia >}}
 
 {{% /floatbox %}}
 {{< line icon="/icon/info_tuerkis.png" >}}

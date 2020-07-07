@@ -21,7 +21,7 @@ weight: 3
 
 {{% floatbox %}}
 
-{{< image src="/img/geschlossene_sv_gruppe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/supervisionsgruppe_bgld.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
 
@@ -38,7 +38,7 @@ Gleichzeitig können alle Teilnehmer\*innen ihren eigenen Entwicklungsprozess so
 Zusätzlich zu Einzelsupervisionen, in denen auch Ihre {{< green >}}persönlichen {{< /green >}} Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychologischen Berater\*innen in Ausbildung sehr zu empfehlen. Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg\*innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
 {{% /large %}}
 {{% small %}}
-{{< image src="/img/silvia_podlisca_2.jpg" title="Bildbeschreibung" >}}
+{{< image src="/img/geschlossene_sv_gruppe.jpg" title="Bildbeschreibung" >}}
 {{% /small %}}
 {{% /box %}}
 
