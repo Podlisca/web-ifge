@@ -18,8 +18,8 @@ weight: 1
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/ausbildungsphilosophie1.jpg">}}
-{{< image src="/img/ausbildungsphilosophie2.jpg" >}}
+{{< image src="/img/silvia_noe_blaue_bank.jpg">}}
+{{< image src="/img/philo_noe_ausbildung.jpg" >}}
 {{% /small  %}}
 {{% large %}}
 
@@ -79,7 +79,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 * [Sexual- & Paarberatung](/ausbildungsangebote/sexualberatung-paarberatung.html)
 * [VertrauenslehrerIn](/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin.html)
 * [Historische & politische Aspekte in der Beratung](/ausbildungsangebote/historische-politische-aspekte-in-der-beratung.html)
-* Klangschalenmassage
+* [Klangschalenmassage](https://ifge.at/ausbildungsangebote/klangschalenmassage.html)
 
 {{% /small  %}}
 {{% small  %}}
@@ -108,3 +108,45 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% /small  %}}
 {{% /box %}}
 
+{{< line icon="icon/raueme.png" >}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+
+
+#### Wien
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+
+{{% /small  %}}
+{{% small  %}}
+#### Niederösterreich
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/bus.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+
+Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+
+**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+
+
+Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.

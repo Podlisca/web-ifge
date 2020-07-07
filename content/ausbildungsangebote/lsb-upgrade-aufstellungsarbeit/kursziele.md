@@ -42,7 +42,7 @@ Sie erhalten ein Tool, welches Ihnen ermöglicht, eine besondere Tiefe im Klient
 {{% floatbox %}}
 
 ## Alle Infos über den Lehrgang {#infos}
-{{< image src="/img/erkläerung_systembrett.jpg" float="right" >}}
+{{< image src="/img/systembrett_noe.jpg" float="right" >}}
 
 Ungelöstes im Herkunftssystem reicht oftmals sehr stark in unser Gegenwartssystem hinein – wir alle sind in ein Familiensystem eingebunden, das intensiv auf unser Leben einwirkt. So kann es sein, dass jemand heimlich mit einer Krankheit oder Schwierigkeit im Einklang und im Glück ist, weil das Teil seines Systems ist. [Familienaufstellungen](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung.html) bringen sogenannte Verstrickungen ans Licht, die im Verborgenen bzw. unbewusst wirken. Werden diese nicht erkannt, helfen Therapien oder Beratungsgespräche oftmals nur kurzfristig und die hinderliche Dynamik schleicht sich nach und nach wieder ein. Die Ursache von Krankheiten, die Hintergründe warum jemand ein schweres Unrecht begeht, der Vorwurf an Vater und Mutter – die systemische Sichtweise liefert dazu ebenso überraschende wie spannende Inputs und verändert oft den eigenen Blick auf die Welt.
 

@@ -17,9 +17,9 @@ weight: 1
 
 ## AUF VIELFACHEN WUNSCH IST DIE KURZAUSBILDUNG WIEDER IM PROGRAMM
 
-{{< image src="/img/politik.jpg" float="left">}}
+{{< image src="/img/klangschalen.jpg" float="left">}}
 
-Mit dieser Ausbildung erhalten Sie umfangreiches Wissen und tiefere Einsichten in mögliche Ursachen von Krankheit, Leid, Glück und Unglück. Sie können körperorientiert arbeiten und gewinnen wichtiges Know-how hinsichtlich des menschlichen Körpers inklusive seiner Organe sowie seiner Energiefunktionskreise. Medizinische Grundlagen werden verständlich anhand eines Torsos sowie an einem menschlichen Skelett erklärt. Weiters bekommen Sie Input, worauf es bei der Behandlung – beispielsweise das Setting betreffend – zu achten gilt.
+Mit dieser Ausbildung erhalten Sie umfangreiches Wissen und tiefere Einsichten in mögliche Ursachen von Krankheit, Leid, Glück und Unglück. Sie können körperorientiert arbeiten und gewinnen wichtiges Know-how hinsichtlich des menschlichen Körpers inklusive seiner Organe sowie seiner Energiekreise. Medizinische Grundlagen werden verständlich anhand eines Torsos sowie an einem menschlichen Skelett erklärt. Weiters bekommen Sie Input, worauf es bei der Behandlung – beispielsweise das Setting betreffend – zu achten gilt.
 
 Bauen Sie Ihre Intuition durch freies, kreatives Arbeiten aus und lernen Sie dieses wunderbare „Werkzeug“ kennen, das Ihnen persönliche sowie berufliche Weiterentwicklung bietet und gleichzeitig Ihre Arbeit mit KlientInnen auf wertvolle Weise unterstützt.
 

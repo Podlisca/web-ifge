@@ -4,27 +4,10 @@ draft: false
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr oder Samstags von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie Supervision und Aufstellungsarbeit, sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
 ---
 
-# Herzlich Willkommen am IFGE Wien - Burgenland - Niederösterreich
+# Herzlich Willkommen am IFGE
+# Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
-
-{{< line icon="icon/silvia.png" >}}
-
-{{% center style="max-width: 700px"%}}
-
-**Liebe Besucherin, lieber Besucher**
-
-**unsere Website wurde völlig neu gestaltet weshalb es vorkommen kann, dass noch nicht jeder Link funktioniert oder noch kleine „Hoppalas“ passieren.**
-
-**Wir bitten um Verständnis 😊 herzlichst Silvia Podlisca**
-
-**P.s. Wir freuen uns über Feedback**
-
-{{< silvia >}}<br>
-**- Institutsleiterin -**
-
-{{% /center %}}
-
 
 
 {{< line icon="icon/zitat.png" >}}
@@ -108,12 +91,12 @@ Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die
 {{< image src="/img/home_berufsbild.jpg" >}}
 
 #### Berufsbild Lebensberatung
-Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbild.html) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbild.html).
+Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](https://ifge.at/psychologischeberatung/berufsbild.html) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](https://ifge.at/psychologischeberatung/berufsbild.html).
 {{% /small  %}}
 
 {{% small  %}}
 
-{{< image src="/img/bildungsphilosophie.jpg" >}}
+{{< image src="/img/bildungsphilo_noe.jpg" >}}
 
 #### Bildungsphilosophie 
 Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb.html), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](/ausbildungsangebote/philosophie-und-kursangebot.html). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
@@ -121,20 +104,22 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 {{% /box %}}
 
 {{% floatbox %}}
+
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
+
 ## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzel_wien.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}

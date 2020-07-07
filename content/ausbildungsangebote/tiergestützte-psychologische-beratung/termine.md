@@ -36,19 +36,25 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien 
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
+#### Termine folgen
 
-#### Wien & Burgenland
+{{% /small  %}}
 
-#### Start: 16. Jänner 2021
+{{% small  %}}
 
-Aus organisatorischen Gründen findet die Ausbildung am Samstag immer am IFGE Burgenland statt und am Sonntag am IFGE Wien.<br/>
+#### Burgenland 
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-### WIEN & BURGENLAND (PINKAFELD)
+#### Start 16. Jänner 2021
 
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 18:00 Uhr<br/>
-Prüfungstag von 09:00 bis 16:00 Uhr<br/> 
+**Samstag** von 09:00 bis 18:00 Uhr<br/>
+**Sonntag** von 09:00 bis 18:00 Uhr<br/>
+**Prüfungstag** von 09:00 bis 16:00 Uhr<br/> 
 
 **Modul 1:** 23.01. und 24.01.2021<br/>
 **Modul 2:** 20.02. und 21.02.2021<br/>
@@ -58,16 +64,35 @@ Prüfungstag von 09:00 bis 16:00 Uhr<br/>
 **Modul 6:** 05.06. und 06.06.2021<br/>
 
 **Prüfung:** 26.06.2021<br/>
+<br/>
+[Anmeldung](/anmeldung.php)
 
-Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+{{% /small  %}}
+{{% small  %}}
+#### Niederösterreich
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [ANMELDEN](https://www.ifge.at)
+#### Termine folgen
+
+
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/bus.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+
+Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+
+**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
-
-Anmeldung
-
 
 
 

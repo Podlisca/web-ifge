@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -50,25 +50,23 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/oper_taeter.png" >}}
 
 
 {{% floatbox %}}
 ### Wo keine Täter*innen da keine Opfer!
 #### ARBEIT MIT (POTENZIELLEN) TÄTER*INNEN
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-n der psychologischen Beratung konzentriere ich mich dabei neben der Beratung von Opfern ganz bewusst auf die Arbeit mit Täter\*innen, die einen Rückfall vermeiden wollen sowie auf Männer und Frauen, die befürchten, zu Täter*innen zu werden. Als absolutes Tabu gelten nach wie vor Frauen, die zu Täterinnen werden – übrigens verhält es sich bei männlichen Opfern ebenso – und das obwohl nach einem Bericht der Deutschen Gesellschaft für Prävention und Intervention bei Kindesmisshandlung und -vernachlässigung davon ausgegangen wird, dass zehn Prozent aller sexuellen Gewalttaten von Frauen verübt werden.
+In der psychologischen Beratung konzentriere ich mich dabei neben der Beratung von Opfern ganz bewusst auf die Arbeit mit Täter\*innen, die einen Rückfall vermeiden wollen sowie auf Männer und Frauen, die befürchten, zu Täter*innen zu werden. Als absolutes Tabu gelten nach wie vor Frauen, die zu Täterinnen werden – übrigens verhält es sich bei männlichen Opfern ebenso – und das obwohl nach einem Bericht der Deutschen Gesellschaft für Prävention und Intervention bei Kindesmisshandlung und -vernachlässigung davon ausgegangen wird, dass zehn Prozent aller sexuellen Gewalttaten von Frauen verübt werden. Dies passt so gar nicht in das Rollenbild unserer Gesellschaft. 
 
-Dies passt so gar nicht in das Rollenbild unserer Gesellschaft. 
-
-Da aber ein Problem nicht gelöst wird, indem man es ignoriert, führe ich hier – wie Ihnen vielleicht schon aufgefallen ist – ganz bewusst die Begriffe „Täter und Täterinnen“ an. 
+Da aber ein Problem nicht gelöst wird, indem man es ignoriert, führe ich hier, ganz bewusst die Begriffe „Täter und Täterinnen“ an. 
 
 **Die präventive Täter\*innenarbeit ist für mich dabei eine der wichtigsten Teilgebiete meiner Profession, denn wo es keine Täter\*innen (mehr) gibt, kann es auch keine Opfer (mehr) geben.**
 
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/burnout2_bgld.jpg" float="right" title="Bildbeschreibung" >}}
 
 Potenzielle Täter und Täterinnen, die sich noch keine Straftat zu schulden kommen haben lassen, finden in Österreich wenige Angebote, die speziell für sie entwickelt wurden. Die Hemmschwelle, sich Hilfe zu suchen, ist somit besonders groß, vor allem auch, weil die Angst vorherrscht, für die eigenen Phantasien, Wünsche oder vielleicht in der Vergangenheit begangenen Taten vorverurteilt zu werden. 
 
@@ -98,20 +96,20 @@ zögern Sie nicht, sich einen Beratungstermin am IFGE bei mir auszumachen. Was i
 
 
 {{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="icon/oper_taeter.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -123,7 +121,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -133,7 +131,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -144,7 +142,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -155,7 +153,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

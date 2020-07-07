@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/paar_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -53,7 +53,7 @@ draft: false
 {{< line icon="icon/trauer.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/trauer_beratung_bgld.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/wien_silvia.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Der Tod eines geliebten oder nahe stehenden Menschen gehört zu den traurigsten Erfahrungen, die wir in unserem Leben machen müssen. Die Vorstellung, dass das Leben danach jemals wieder „normal weitergehen kann“, scheint zu Beginn oft absolut unmöglich – ja geradezu vermessen. Wenn uns die Nachricht eines Todes ereilt oder wir einen geliebten Menschen sterben sehen, können wir anfangs meist kaum realisieren – geschweige denn akzeptieren –, dass der oder die Verstorbene in diesem Leben nie wieder bei uns sein wird. Dies ist erstmal eine völlig normale Reaktion unserer Psyche. Mit ihr will sich der Mensch vor dem großen Schmerz schützen, den ein solcher Verlust für uns bedeutet. Es gilt, diese Phase des Leugnens genauso zu durchleben, wie die Zeiten, in denen die Emotionen wie Trauer, Wut, und Ohnmacht immer wieder aufbrechen. Egal welches Modell der Trauerbewältigung herangezogen wird, sie alle haben eines gemeinsam:
 
@@ -78,17 +78,17 @@ Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Mensche
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -100,7 +100,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -110,7 +110,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -121,7 +121,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -132,7 +132,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

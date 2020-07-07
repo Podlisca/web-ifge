@@ -3,7 +3,7 @@ title: "Suizid in der Familie"
 draft: false
 ---
 
-# Suchtberatung
+# Beratung bei
 
 # Suizid im persönlichen Umfeld
 {{< slogan >}}
@@ -31,14 +31,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -52,12 +52,12 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/suizid.png" >}}
 
 
 {{% floatbox %}}
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Selbstmord – ein Wort, das viele von uns erschaudern lässt. Es ist ein sehr diffuses und angstbehaftetes Thema, vor allem dann, wenn man mit depressiven Angehörigen zusammenlebt. Doch auch vielen Eltern bereitet der Gedanke an Suizid besonderes Unbehagen, gerade wenn – so wie in den vergangenen Monaten – Serien unter Teenagern gehyped werden, die sich um Selbsttötung drehen. Gelegentlich hört man dann noch von den pubertierenden Kindern frustrierte Aussagen wie: „So will ich gar nicht mehr leben!“ Und Eltern fragen sich, wie ernst solche Aussprüche zu nehmen sind.<br/>
 
@@ -70,13 +70,13 @@ So drastisch das Wort Selbstmord klingt, so drastisch sind auch die Auswirkungen
 
 Wenn ein Selbstmord begangen oder ein Suizidversuch unternommen wurde, ist der Schock des Umfeldes deutlich spürbar – Rufe nach dem Warum werden laut. Verzweiflung mischt sich mit ungläubiger Starre und dem Gefühl der absoluten Ohnmacht. Warum? Warum?
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/krise_noe.jpg" float="right" title="Bildbeschreibung" >}}
 
 Gerade bei Suiziden ist die Gefühlspalette der nahestehenden Personen häufig unüberschaubar groß. Denn zum Schock, der Verzweiflung und der Hilflosigkeit gesellen sich immer wieder nagende Schuldgefühle: „Was habe ich übersehen?“, „Habe ich einen Hilferuf missachtet?“, „Hat es Anzeichen gegeben, die ich nicht sehen konnte?“, „Habe ich nicht genug geholfen?“, „Habe ich es zu wenig ernst genommen?“ oder „War ich zu wenig da?“ sind nur einige der zahlreichen Schuldfragen, die unfreiwillig immer und immer wieder im Kopf kreisen – und dort zu einer unerträglichen Belastung werden. Hinzu kommt, dass es große Angst macht, diese Fragen laut auszusprechen. Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg\*innen abgegeben wurde und auch wenn Angehörige, Freund\*innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
 
 ### BILDER UND GEDANKEN, DIE NICHT MEHR LOSLASSEN
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Je unmittelbarer Sie von dem Suizid betroffen sind, etwa wenn Sie den geliebten Menschen aufgefunden haben, umso drastischer und intensiver sind die Gedankenschleifen und Bilder, die  immer wieder in Ihrem Kopf auftauchen. Die Vorstellung, nie wieder auch nur eine Sekunde ohne diese Bilder vor Ihren inneren Augen leben zu können, ängstigt und belastet massiv. Das Wissen darüber, die Nachricht des schrecklichen Ereignisses den Verwandten, Bekannten oder gar den eigenen Kindern überbringen zu müssen, löst pure Verzweiflung, Ohnmacht, Hilflosigkeit und auch Wut aus. In einer Zeit, in der es Selbstmörder*innen erst seit Kurzem von der Kirche gewährt wird, ein offizielles Begräbnis zu erhalten, nagt darüber hinaus vielfach noch die schambehaftete Vorstellung über das, was wohl „die anderen“ sagen, an den Angehörigen.
 
@@ -84,7 +84,7 @@ Je unmittelbarer Sie von dem Suizid betroffen sind, etwa wenn Sie den geliebten 
 
 Und zu all diesen verzweifelten Gefühlen gesellt sich immer wieder auch enormer Ärger und große Wut, welche die Hinterbliebenen verspüren. Gelegentlich steht die Wut auf denjenigen oder diejenige, der bzw. die sich das Leben genommen hat, sogar im Vordergrund der Emotionen. „Wie konnte er oder sie mir das nur antun?“ Gerade dieses vorherrschende Gefühl der Wut versuchen viele nahe stehende Personen zu unterdrücken. Denn es kann erschreckend sein, auf den geliebten Menschen, der nun nicht mehr hier ist, auch noch wütend zu sein. 
 
-{{< image src="/img/img1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/tiere_noe_5.jpg" float="right" title="Bildbeschreibung" >}}
 
 In manchen Fällen wissen die Hinterbliebenen kaum mehr, wohin mit ihrer verzweifelten Wut und lenken diese auf die zur Hilfe gerufenen ÄrztInnen, behandelnden Psychotherapeut*innen und Berater*innen oder auch auf Personen aus dem näheren Umfeld. Diese Gefühle sind nach einem Suizid oder Selbstmordversuch absolut menschlich und nachvollziehbar. In der psychologischen Beratung haben auch Emotionen wie Ärger und Wut Platz und Raum, so dass Sie sich mit all dem, was Sie empfinden, willkommen fühlen. Denn erst, wenn alle unsere Empfindungen gewürdigt werden, gelingt es, sie in Zukunft passend einzuordnen, um ruhiger und klarer zu werden. Und selbst wenn es jetzt für Sie noch absolut unvorstellbar erscheint: Erst wenn Sie die Entscheidung der oder des anderen, zu gehen, akzeptieren können, finden Sie wieder Kraft und Raum für Ihr Leben. Auch wenn der Verlust und der Schmerz bleiben werden, werden Sie lernen, damit einen gesunden Umgang zu finden. **Denn Ihr Leben geht weiter.**
 
@@ -93,15 +93,18 @@ Die verschiedenen Trauerphasen, wie die Zeit des Schocks, der Wut, der Ohnmacht 
 
 ### ZEIT UM ZU VERARBEITEN
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Daher empfehle ich Ihnen von ganzem Herzen, sich im Zuge der psychologischen Beratung Zeit für sich und für Ihre Trauer zu nehmen. Hier bei mir am IFGE dürfen alle Ihre Gefühle zum Ausdruck kommen, ganz gleich ob es um quälende Schuldfragen, verzweifelte Wut oder letztlich um das Gefühl geht, diesen Verlust nie verschmerzen zu können. Jeder Mensch erlebt seine Trauer individuell und entwickelt ganz persönliche Herangehensweisen, wie er seinen Verlust bewältigen kann.
 
 Dabei unterstütze ich Sie in offener, vertrauensvoller und herzlicher Atmosphäre, so dass es auch Ihnen gelingt, wieder in einen für Sie lebbaren Alltag zurück zu finden.
+<br/>
+<br/>
+<br/>
+{{< line icon="icon/suizid.png" >}}
 
-***
 # Suizidversuche
-***
+
 
 Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind Sie bei mir ebenso herzlich Willkommen. Ein missglückter Selbstmordversuch – besonders wenn er von dem eigenen Kind begangen wurde – lässt Angehörige in einem ähnlichen Gefühlschaos zurück. In Ihrem Kopf kreisen vielleicht quälende Fragen und Klischees wie „Wer es ankündigt, macht es doch nicht“ oder „Wer es einmal macht, macht’s immer wieder“, für die in der psychologischen Beratung ausreichend Platz ist. Darüber hinaus empfinden Sie möglicherweise massiven Druck, der durch den Selbstmordversuch ausgelöst wurde, der Ihnen vielleicht wie eine emotionale Erpressung vorkommt. Ich bin da für Sie, unterstütze Sie in all Ihren Fragen und begleite Sie ein Stück weit während dieser schwierigen Zeit, so dass auch Sie wieder zuversichtlich in die Zukunft blicken können.
 
@@ -113,17 +116,17 @@ Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind S
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -135,7 +138,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -145,7 +148,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -156,7 +159,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -167,7 +170,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

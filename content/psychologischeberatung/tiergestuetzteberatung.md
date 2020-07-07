@@ -12,11 +12,16 @@ weight: 4
 
 {{< slogan >}}
 
+{{< line icon="icon/tiere.png" >}}
+
 {{% floatbox %}}
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann. Weiters gibt es an unserem Institut in Wien Institutskatzen, die - neben den Hunden - ebenfalls in der tiergestützten Beratung eingesetzt werden.
+Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann.<br/> <br/> Weiters gibt es an unserem Institut in Wien Institutskatzen, die - neben den Hunden - ebenfalls in der tiergestützten Beratung eingesetzt werden.
+<br/>
+<br/>
+{{< silvia >}}
 
 {{% /floatbox %}}
 
@@ -44,14 +49,14 @@ Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewe
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/paar_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -65,13 +70,13 @@ Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewe
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/tiere.png" >}}
 
 {{% floatbox %}}
 
 ## Was bringt mir die tiergestützte psychologische Beratung mit Hunden und Katzen?
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/sally_bgld.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Die Hunde und Katzen sollen, mit einem menschlichen Partner an ihrer Seite, Freude, Spaß und Abwechslung in das Leben von Menschen bringen. Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Gemeinsam mit den entzückenden Institutskatzen bzw. „Co-Beraterinnen“ Roxxi, Rikki und Rosa, die sich in den Räumlichkeiten in Wien aufhalten, und den sorgfältig ausgebildeten Beratungshunden Pluto und Sally profitieren Sie von den besonderen Effekten, welche Tiere auf den Beratungsprozess haben. Unsere Institutstiere in Wien vermögen es auf ganz spezielle Weise, Ihnen als Klient*in ein Gefühl der Vertrautheit zu vermitteln und gleichzeitig spielerisch oder tröstend Ihren Beratungsprozess zu unterstützen. Gerade bei festgefahren scheinenden Mustern schaffen unsere Tiere es, Sie schnell an neue Lösungswege heranzuführen.
 
@@ -81,12 +86,12 @@ Ziel meiner Arbeit mit den Institutstieren ist es dabei nicht, unsere Hunde und 
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/tiere.png" >}}
 
 
 Besonders hervorzuheben ist, dass die Vierbeiner meine Klient*innen oft sehr schonend an Themen heranführen, für die in der klassischen Beratung oft wesentlich mehr Zeit notwendig ist.
 
-{{< image src="/img/gruppenselbsterf_philo.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sally_bgld1.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Neben ihrer Unterstützung im Entwicklungsprozess der Klient\*innen wirkt die Anwesenheit von Tieren nachweislich positiv auf das Wohlbefinden von uns Menschen. Hunde werden mittlerweile nicht nur als Begleiter von Kriseninterventionsteams eingesetzt, sondern helfen als Assistenzhunde Patient*innen sogar dabei, posttraumatische Belastungsstörungen zu überwinden. 
 
@@ -106,7 +111,7 @@ Hunde und Katzen unterstützen jeden Prozess in dem sie manchmal tröstend eingr
 
 Unser Team der tiergestützten Beratung hat durch Institutskatzen in Wien Verstärkung bekommen - anbei stellen sich Ihnen unsere Institutstiere vor:
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/tiere.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -116,13 +121,13 @@ Unser Team der tiergestützten Beratung hat durch Institutskatzen in Wien Verst�
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-{{< figure src="/img/img1.jpg" >}}
+{{< figure src="/img/pluto.jpg" >}}
 
 #### Pluto
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/img1.jpg" >}}
+{{< figure src="/img/sally.jpg" >}}
 
 #### Sally
 
@@ -151,20 +156,21 @@ Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Ti
 {{% /floatbox %}}
 
 {{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="/icon/tiere.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/tiere_noe_5.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -176,7 +182,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -186,7 +192,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -197,7 +203,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
@@ -208,7 +214,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

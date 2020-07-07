@@ -60,6 +60,7 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 **Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.ifge.at) anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
+
 ### ANWENDUNGSGEBIETE
 
 * Reflexions- und Entscheidungshilfe bei aktuellen Anlässen

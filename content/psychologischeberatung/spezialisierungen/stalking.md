@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -50,13 +50,13 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="/icon/stalking.png" >}}
 
 
 {{% floatbox %}}
 ### Was ist Stalking?
 
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/stalking.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Stalking ist ein Wort, das uns leicht über die Lippen kommt. Gerade unter Jugendlichen hört man oft „Den hab ich auf Facebook gestalkt“, wenn sie eigentlich meinen, sich ein öffentliches Profil lediglich schon ein paar Mal angesehen zu haben. „Der stalkt mich“, wird zum genervt ausgesprochenen Synonym, wenn ein lausiger Date-Partner nachfragt, ob es vielleicht noch ein weiteres Treffen gibt.
 
@@ -85,12 +85,12 @@ Gerade diese (potenziellen) Täter\*innen sind sich ihres unpassenden Verhaltens
 
 {{% /floatbox %}}
 
-***
+{{< line icon="/icon/gewalt.png" >}}
 # Frauen die stalken...
-***
+
 
 {{% floatbox %}}
-{{< image src="/img/img1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/mono.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein ebenso häufiges Thema im Bereich Stalking in meiner Praxis ist das Stalken von Ex-Partner\*innen, das oft auch von Frauen ausgeht. Meist ist diesen Frauen zu Beginn gar nicht bewusst, wie übergriffig und entwürdigend ihr Verhalten empfunden wird, etwa wenn sie die neue Partnerin des Ex-Freundes oder Ex-Mannes durch Nachrichten, Verleumdungen oder wiederholt unerwünschte Begegnungen nicht in Ruhe lassen. Da diese Form des Stalkings oft in dem Wunsch begründet liegt, den Ex-Freund bzw. Ex-Mann wieder zurück zu erobern, meinen sich jene Frauen häufig im Recht und sehen sich bisweilen sogar selbst als die Opfer ihrer Situation.
 
@@ -101,34 +101,13 @@ Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehun
 {{% /floatbox %}}
 
 
-
-{{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
-{{% /small %}}
-{{% /box %}}
-
-{{% box blue=1 %}}
-{{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
-
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
- 
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
-{{% /small %}}
-{{% /box %}}
-{{% /floatbox %}}
-
-
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
 
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -138,7 +117,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -149,7 +128,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -160,7 +139,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

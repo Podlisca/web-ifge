@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/paar_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -53,7 +53,7 @@ draft: false
 {{< line icon="icon/burn_out.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/Krise.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/burn_out_wien.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ausgebrannt sein, die eigene Motivation nicht mehr in sich finden können, an einem Punkt angelangt sein, wo alles anstrengend und sinnlos erscheint – und das nicht nur in Form einer Phase, sondern als langfristiger Dauerzustand. So in etwa könnten Burn-out-Klient\*innen einen Teil ihrer Symptome beschreiben.
 
@@ -77,7 +77,7 @@ Bei mir am [IFGE](https://www.ifge.at) biete ich Ihnen die Möglichkeit, sich mi
 
 Die Burn-out-Beratung ist ebenso für Führungskräfte und Teamleiter hilfreich, die auf eine ausgewogene Balance ihres Teams und auf die Gesundheit ihrer Mitarbeiter bewusst achten wollen.
 
-{{< image src="/img/pluto_beratung_noe.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/tiere_noe_5.jpg" float="right" title="Bildbeschreibung" >}}
 
 Gerade in der Burn-out-Prävention ist die tiergestützte Begleitung – insbesondere Beratung & Bewegung mit Hunden – Ihres Beratungsprozesses besonders ans Herz zu legen. Der Kontakt mit Tieren senkt Ihre Stresswerte und hat damit einen nachweislich positiven Effekt auf Ihre körperliche und psychische Gesundheit. Die Bewegung an der frischen Luft aktiviert zudem Ihren Bewegungsapparat. Gerade bei Erschöpfungszuständen ist es wichtig, gewohnte (Denk-)Wege zu verlassen und neuen Strategien zu finden. Abgesehen davon, bringen Tiere eine gewisse Leichtigkeit und Gelassenheit in Ihre Beratungseinheit, verstehen es aber auch blendend, zu trösten, wenn bei Ihnen jene Emotionen aufkommen, die letztlich zur Lösung Ihres Problems beitragen werden.
 
@@ -90,21 +90,20 @@ Gerade in der Burn-out-Prävention ist die tiergestützte Begleitung – insbeso
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
-
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
@@ -112,7 +111,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -122,7 +121,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -133,7 +132,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -144,7 +143,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

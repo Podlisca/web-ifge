@@ -4,10 +4,13 @@ menu: footer
 draft: false
 weight: 4
 ---
+# Wien - Burgenland - Niederösterreich
 
+{{< slogan >}}
+{{< line icon="icon/impressum.png" >}}
 
 # Datenschutzerklärung
-
+***
 Ich stimme zu, dass meine personenbezogenen Daten, nämlich Name, Adresse, E-Mail, Telefon, Geburtsdatum, zum Zwecke der Durchführung der Beratung, Onlienberatung, Onlinetrainings, Onlineausbildung, Onlinesupervision Ausbildung Koordinieren von Terminen, Durchführung des Rechnungswesens und der Buchhaltung, Supervision, Nachweis der Berufsausübung gegenüber der Gewerbebehörde ,etc verarbeitet werden. 
 
 Mir ist bekannt, dass meine Daten für einen Zeitraum von mind. 7 Jahren nach Beendigung der Beratung/Ausbildung/Supervision vom Verantwortlichen gespeichert werden. Sollten im Zuge der Zusammenarbeit sensible Daten dokumentiert werden, geschieht dies ausschließlich analog und pseudonymisiert. Diese werden gemäß Art 21 DSGVO aufbewahrt. Onlienangebote werden über die Plattform Webex-Meeting abgehalten.

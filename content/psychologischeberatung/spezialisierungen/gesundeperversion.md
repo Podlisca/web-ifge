@@ -30,14 +30,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -51,7 +51,8 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
+
 
 
 {{% floatbox %}}
@@ -59,13 +60,19 @@ draft: false
 
 {{< image src="/img/bgld_perversion1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Perversionen haben heute zumeist ihren anrüchigen Schrecken verloren und dank der neosexuellen Bewegung, die immer weiter voranschreitet, gibt es im sexuellen Beratungskontext nur mehr sehr wenige echte Tabus. Viel eher werden Perversionen als das Salz in der Suppe betrachtet: Die Würze macht die ansonsten schnell langweilige Suppe besonders aufregend. Aber wichtig zu bedenken ist: Eine versalzene Suppe schmeckt niemandem und zu viel Salz ist auf Dauer nicht gesund. Gesunde Perversion beschreibt den Zustand einer vielfältigen, lustvollen Sexualität, in der Menschen über ihren sexuellen Tellerrand hinausblicken. Rollenspiele, bestimmte Fetische, besondere sexuelle Vorlieben oder Phantasien, Swingerclub-Besuche und Fesselspielchen sind weiter verbreitet, als häufig angenommen wird.
+Perversionen haben heute zumeist ihren anrüchigen Schrecken verloren und dank der neosexuellen Bewegung, die immer weiter voranschreitet, gibt es im sexuellen Beratungskontext nur mehr sehr wenige echte Tabus. Viel eher werden Perversionen als das Salz in der Suppe betrachtet:
+
+Die Würze macht die ansonsten schnell langweilige Suppe besonders aufregend. Aber wichtig zu bedenken ist: Eine versalzene Suppe schmeckt niemandem und zu viel Salz ist auf Dauer nicht gesund. Gesunde Perversion beschreibt den Zustand einer vielfältigen, lustvollen Sexualität, in der Menschen über ihren sexuellen Tellerrand hinausblicken. Rollenspiele, bestimmte Fetische, besondere sexuelle Vorlieben oder Phantasien, Swingerclub-Besuche und Fesselspielchen sind weiter verbreitet, als häufig angenommen wird.
 
 So mancher sexuellen Spielart haftet ein wenig Verruchtes, ja sogar etwas fast Verbotenes an, wodurch diejenigen, die sich ihre Leidenschaften erlauben, ihr Sexleben als besonders belebend, vielfältig und befriedigend empfinden. Der absolute sexuelle Kick wird in der Psychologie auch als die sogenannte „Mega-Lust“ beschrieben. Diese belebende Mega-Lust kann durch ein ausgewogenes Maß an „gesunder Perversion“ z. B. in langjährigen Partnerschaften nachhaltige Anziehung ermöglichen und Paare somit vor sexuellem Frust im Bett bewahren.
 
 {{< image src="/img/einzel_perversion_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
-Dieser befreite, lustvolle Umgang mit den eigenen sexuellen Bedürfnissen und die daraus entstehende Mega-Lust scheint für viele Menschen auch heute noch fast unerreichbar. Dadurch entsteht häufig Neid auf jene Menschen, die sich ihrer Sexualität völlig befreit – ja sogar enthemmt – hingeben. Diese unterschwellige Missgunst nährt auch heute noch so manche Glaubenssätze. Diese Glaubenssätze sind tief und fest in uns verankert: „Das ist doch krank“, „Gute Frauen machen so etwas nicht“, „Ein richtiger Mann kann sich nicht fesseln lassen“, „Das ist ungesund“. Mir ist wichtig zu betonen, dass vieles „normaler“ ist, als so manche meiner Klient\*innen denken. Sie sind also keineswegs verrückt, wenn Sie besondere Vorlieben, Fetische oder Beziehungsmodelle ausleben möchten.
+Dieser befreite, lustvolle Umgang mit den eigenen sexuellen Bedürfnissen und die daraus entstehende Mega-Lust scheint für viele Menschen auch heute noch fast unerreichbar. Dadurch entsteht häufig Neid auf jene Menschen, die sich ihrer Sexualität völlig befreit – ja sogar enthemmt – hingeben. Diese unterschwellige Missgunst nährt auch heute noch so manche Glaubenssätze. Diese Glaubenssätze sind tief und fest in uns verankert: 
+
+„Das ist doch krank“, „Gute Frauen machen so etwas nicht“, „Ein richtiger Mann kann sich nicht fesseln lassen“, „Das ist ungesund“. Mir ist wichtig zu betonen, dass vieles „normaler“ ist, als so manche meiner Klient\*innen denken. Sie sind also keineswegs verrückt, wenn Sie besondere Vorlieben, Fetische oder Beziehungsmodelle ausleben möchten.
+<br/>
+<br/>
 
 {{< image src="/img/perversion_bgld1.jpg" float="left" title="Bildbeschreibung" >}} 
 
@@ -95,17 +102,17 @@ Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst,
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -117,7 +124,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -127,7 +134,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -138,7 +145,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -149,7 +156,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

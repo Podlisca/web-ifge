@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/vertrauenslehrer_ziel.jpg" float="left">}} 
+{{< image src="/img/ziel_vertrauenslehrer.jpg" float="left">}} 
 
 In unserer 100 Stunden umfassenden Ausbildung lernen Sie, Konflikte gar nicht erst entstehen zu lassen. Dies ist insofern von zentraler Bedeutung, als dass gerade unterschwellige, schwelende Konfliktherde heimlich zerstörerisch wirken können. 
 

@@ -22,7 +22,7 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/termin_kursplan.png" >}}
 
 # Termine
 
@@ -31,9 +31,9 @@ In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang a
 Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
 
 
-***
+{{< line icon="icon/termin_kursplan.png" >}}
 ## Informationsveranstaltung
-***
+
 
 Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
 
@@ -41,15 +41,16 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 
-***
+{{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
-***
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
-#### Mariahilfer Straße
-{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
+
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+
 
 #### Termine folgen
 
@@ -57,8 +58,9 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 {{% small  %}}
 #### Burgenland
-#### Pinkafeld
-{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
+
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+
 
 #### Start: 22. Jänner 2020
 
@@ -88,8 +90,8 @@ Anmeldung
 {{% small  %}}
 
 #### Niederösterreich
-#### St. Pölten
-{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
+
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 #### Termine folgen
 
@@ -97,6 +99,20 @@ Anmeldung
 
 {{% /box %}}
 
+{{< line icon="icon/bus.png" >}}
 
+{{% box blue=1 %}}
+{{% small  %}}
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+
+Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+
+**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+
+
+Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
 
 

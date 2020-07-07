@@ -17,7 +17,7 @@ weight: 6
 
 {{% floatbox %}}
 
-{{< image src="/img/systembrett_2.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/brett_2.jpg" title="Bildbeschreibung" float="left" >}}
 
 Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](https://www.ifge.at)).
 

@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -50,12 +50,12 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 
 {{% floatbox %}}
 
-{{< image src="/img/sexualberatung_1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/wien_silvia.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit.
 
@@ -63,7 +63,7 @@ Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf
 
 Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
 
-{{< image src="/img/sexualberatung_2.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" float="right" title="Bildbeschreibung" >}}
 
 Mein besonderes Augenmerk in der Sexualberatung richte ich dabei seit Jahren ebenso auf Teilbereiche der Sexualität, die von Betroffenen oftmals als besonders belastend erlebt werden, die jedoch trotzdem häufig an den Rand des gesellschaftlichen Bewusstseins gedrängt werden. 
 
@@ -71,7 +71,7 @@ Dazu gehören etwa die zahlreichen Diskrepanzen, die gleichgeschlechtlich Lebend
 
 Gerade wenn es um spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geht, fragen sich viele Menschen, ob Ihr Denken und Handeln „noch normal“ ist. Am IFGE vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für belebende sexuelle Höhenflüge sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
 
-{{< image src="/img/sexualberatung_3.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/bgld_perversion.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Ein weiterer wichtiger Teil der Sexualberatung findet leider auch bei professionellen Berater*innen wenig bewusste Beachtung: Der Umgang mit belastenden Phantasien und Wünschen. Die Angst, die eigenen Phantasien nicht unter Kontrolle zu haben und vielleicht sogar zum Täter / Stalker zu werden, kann das eigene sexuelle Erleben empfindlich belasten. 
 
@@ -79,7 +79,7 @@ Das Ausleben einer befriedigenden Sexualität ist des Weiteren für Opfer von se
 
 {{% /floatbox %}}
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 ### Sexualberatung ist unter anderem hilfreich bei:
 * Lustlosigkeit, Gehemmtheit
@@ -99,14 +99,14 @@ Das Ausleben einer befriedigenden Sexualität ist des Weiteren für Opfer von se
 * Verhütung
 * Sexualität und Alter
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 ### Speziell für Jugendliche
 ## ...WEIL ES MANCHMAL VERWIRREND IST, ERWACHSEN ZU WERDEN
 
 <iframe width="446" height="251" src="https://www.youtube.com/embed/tcWXcaB1o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***
+{{< line icon="icon/sexualberatung.png" >}}
 
 ### DER VERHÜTUNGSKOFFER
 
@@ -132,20 +132,20 @@ Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl
 
 
 {{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
+{{< line icon="/icon/sexualberatung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -157,7 +157,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -167,7 +167,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -178,7 +178,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -189,7 +189,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

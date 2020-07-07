@@ -29,14 +29,14 @@ draft: false
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/tiere_schwarz.png" small=1 >}}
 
 #### [Tiergestützte Beratung](/psychologischeberatung/tiergestuetzteberatung.html)
 
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/icon/sv_gruppe_offen.png" small=1 >}}
+{{< image src="/img/icon/sex_schwarz.png" small=1 >}}
 
 #### [Paarberatung](/psychologischeberatung/paarberatung.html)
 
@@ -50,7 +50,7 @@ draft: false
 {{% /small  %}}
 {{% /box %}}
 
-***
+{{< line icon="icon/sex_frust.png" >}}
 
 
 {{% floatbox %}}
@@ -58,10 +58,9 @@ draft: false
 
 Es könnte alles so schön sein! Denn Sie lieben sich, sind füreinander da, bewältigen die Themen des Alltags hervorragend und erleben sich als Paar sowie auch in Ihrer möglichen Elternrolle als eingespieltes Team. Doch das Sexleben ist in Ihrer Beziehung etwas ruhiger geworden. Obwohl viele Menschen Ihre Partner\*innen durchaus noch attraktiv finden, herrscht nach einiger Zeit bei vielen Paaren – manchmal auch schon seit den Anfängen der Beziehung – die sprichwörtliche Flaute im Bett. Irgendwie ist im Zusammenspiel zwischen Mann und Frau (oder Mann und Mann sowie Frau und Frau) das Gefühl für sexuelle Anziehung in Ihrer Partnerschaft verloren gegangen. 
 
-{{< image src="/img/sexualitaet_paar.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_paarberatung_3.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Wenn die Lust aufeinander immer öfter ausbleibt und sie letztlich vielleicht gar kein oder ein nur mehr mit Unbehagen behaftetes Thema ist, finden sich viele Paare damit schlicht ab. 
-
 Wenn Sie stattdessen jedoch aktiv etwas dafür tun möchten, dass Leidenschaft, Intimität, Nähe, Erotik und Sexualität in Ihrer Partnerschaft wieder an Bedeutung gewinnen, können Sie durch professionelle Sexualberatung für Paare wieder das Feuer für einander in sich entzünden. 
 
 Und dies kann durchaus auch Paaren gelingen, die neben ihrer gemeinsamen Liebesbeziehung den täglichen Anforderungen des Elternseins gewachsen sein möchten. Denn prickelnde Erotik, Spannung und Leidenschaft können auch in ganz kurzen Sequenzen des Alltags wieder neu entdeckt und gehegt sowie gepflegt werden.
@@ -78,7 +77,7 @@ dann ist die Sexualberatung für Paare genau das Richtige für Sie.
 
 ### WAS KÖNNEN SIE SICH UNTER SEXUALBERATUNG FÜR PAARE AM IFGE VORSTELLEN?
 
-{{< image src="/img/sexualitaet_paar_1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/paarberatung_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
 Im ersten Schritt der Beratung achte ich als Sexualberater\*in darauf, dass Sie gegenseitig Ihre unterschiedlichen Vorstellungen erkennen und dem Lustempfinden des jeweils anderen, welches von Ihrem persönlichen durchaus abweichen kann, das gleiche Recht und die ebenbürtige Gewichtung einräumen können. 
 
@@ -88,7 +87,7 @@ Häufig entsteht so ein generalisiertes und hemmendes „Nein“ ohne jede böse
 
 In der Beratung bekommen Sie daher beide wieder ein Gefühl dafür, wo in Ihrer Sexualität persönliche Grenzen angebracht sind und wo Sie auf falsche Rücksichtnahme zugunsten einer gemeinsam erfüllend gelebten Sexualität in Zukunft verzichten können.    
 
-{{< image src="/img/sexualitaet_paar_2.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
+{{< image src="/img/sex_paar_noe.jpg" float="left" title="Bildbeschreibung" format="hoch">}} 
 
 In dem Beratungsprozess, für den Sie sich als Paar ganz bewusst entscheiden, geht es nicht darum, nette Rollenspiele – die zumeist, wenn überhaupt, nur von kurzem Erfolg gekrönt sind – zu entwickeln, sondern es geht darum, tiefgreifende, dauerhafte und beständige lustvolle Veränderungen in Ihr Sexleben zu integrieren. 
 
@@ -107,17 +106,17 @@ Die Geschmeidigkeit der Institutskatzen und ihrer Bewegungen, ihr genüssliches 
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## Einzelselbsterfahrung mit Silvia Podlisca
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -129,7 +128,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/berufsbild_krise.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
 * [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
@@ -139,7 +138,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/berufsbild_sexualberatung.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
 * [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
@@ -150,7 +149,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/berufsbild_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
 * [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
@@ -161,7 +160,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/berufsbild_angehoerige.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
 * [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)

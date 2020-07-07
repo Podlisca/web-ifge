@@ -13,7 +13,7 @@ weight: 1
 
 {{< slogan >}}
 
-{{< line icon="/icon/fachwissen_tuerkis.png" >}}
+{{< line icon="/icon/gefahr_internet.png" >}}
 
 {{% floatbox %}}
 

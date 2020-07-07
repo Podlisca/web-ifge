@@ -80,7 +80,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 01.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
 {{% small  %}}
@@ -105,7 +105,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 15.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
 {{% small  %}}
@@ -130,11 +130,11 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 08.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
-{{< image src="/img/ifge_stpoelten.jpg">}}
+{{< image src="/img/raum_noe_weis.jpg">}}
 
 
 #### Start: 27.01.2021
@@ -155,7 +155,7 @@ Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 22.12.2021<br/>
 {{< /center >}}
 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% /box %}}
 

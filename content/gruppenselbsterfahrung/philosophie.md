@@ -88,7 +88,7 @@ In der Psychologie kennen wir verschiedene Bewusstseinsebenen. Neben dem, was wi
 {{% box blue=1 %}}
 {{% small %}}
 
-{{< image src="/img/silvia_3.jpg" float="right">}}
+{{< image src="/img/silvia_wien_1.jpg" float="right">}}
 
 Dabei können wir auf der Ebene des Gefühls und der Intuition viel eher langfristige Lösungen für uns finden, als wenn wir es auf der reinen Verstandesebene versuchen. Zudem ist es auch schade, wenn wir nur maximal ein Drittel unserer Kapazität nützen. Denn so manche Unzufriedenheit im menschlichen Erleben hängt häufig damit zusammen, dass wir die anderen Bewusstseinsebenen vernachlässigen. 
 
@@ -102,9 +102,9 @@ Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualit
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/supervisionswoche.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
+Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychologische Beratung](https://ifge.at/psychologischeberatung/tiergestuetzteberatung.html) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
 
 Schon die bloße Anwesenheit der Tiere erzeugt bei meinen KlientInnen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. 
 {{% /small %}}
@@ -126,11 +126,11 @@ Durch die bewusste Gesprächsführung werden belastenden Situationen aufgearbeit
 {{% /small %}}
 {{% /box %}}
 
-***
 
-{{< image src="/img/kursziel_vertrauenslehrer.jpg" float="right" title="Bildbeschreibung" >}} 
 
-Durch meine umfassenden Ausbildungen in der Energetik sowie in der klassischen Lebensberatung ist es mir möglich, ganz individuell auf jede Klient*in einzugehen. Sowohl als Seminarleiterin als auch als psychologische Beraterin und Supervisorin fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden. Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Die Lösungen, welche gefunden/erfunden werden, zeichnen sich durch Klarheit, Einfachheit und Leichtigkeit aus und lassen sich mit Freude in Ihren Alltag integrieren.
+{{< image src="/img/silvia_noe_blaue_bank.jpg" float="right" title="Bildbeschreibung" >}} 
+
+Durch meine umfassenden Ausbildungen in der Energetik sowie in der [klassischen Lebensberatung](https://ifge.at/psychologischeberatung/einzelberatung.html) sowie zahlreiche vertiefende Ausbildungen, ist es mir möglich, ganz individuell auf jede Klient*in einzugehen. Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](https://ifge.at/supervision/philosophie.html) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden. Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Die Lösungen, welche gefunden/erfunden werden, zeichnen sich durch Klarheit, Einfachheit und Leichtigkeit aus und lassen sich mit Freude in Ihren Alltag integrieren.
 
 **Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!**
 
@@ -143,3 +143,5 @@ Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist o
 
 ***
 {{% /floatbox %}}
+
+
