@@ -54,12 +54,12 @@ Leitung: Silvia Podlisca<br/>
 
 **12.09.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
-Leitung: Silvia Podlisca<br/> 
+Leitung: Mag. Carina Szauer<br/> 
 [Anmeldung](https://www.ifge.at)
 
 **24.10.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
-Leitung: Silvia Podlisca<br/> 
+Leitung: Mag. Carina Szauer<br/> 
 [Anmeldung](https://www.ifge.at)
 {{% /small  %}}
 
