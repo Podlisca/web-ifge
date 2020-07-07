@@ -36,7 +36,6 @@
   
   {{ partial "cookieconsent" . }}
 
-  <script src="/js/navbar.js"></script>
   <header>
     <div class="cont">
       <a href="/index.html">
@@ -69,7 +68,7 @@
     function toggleResponsive() {
       var x = document.getElementById("myTopnav");
       if (x.className === "topnav") {
-        x.className += " responsive";        
+        x.className += " show";        
       } else {
         x.className = "topnav";        
       }
