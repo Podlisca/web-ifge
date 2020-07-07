@@ -103,7 +103,7 @@ body {
 }
 
 main {
-    margin-bottom: 5em;
+    margin-bottom: 4em;
 }
 
 img.logo {
@@ -577,4 +577,40 @@ textarea {
 
 _::-webkit-full-page-media, _:future, :root .box .card {
     min-height: fit-content;
+}
+
+/* Floating buttons */
+
+.floating-button-container.aside {
+    display: flex;
+    flex-direction: column;
+    position: fixed; 
+    top: 40%;
+    right: 30px;
+}
+
+.floating-button-container.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    display: none;
+    margin-top: 2em;
+}
+
+@media (max-width: 1200px) {
+    .floating-button-container.aside {
+        display: none;
+    }
+    .floating-button-container.bottom {
+        display: flex;
+    }
+}
+
+.floating-button-container img {
+    width: 60px;
+}
+
+.floating-button-container a {
+    color: white;
+    text-decoration: none;
 }
