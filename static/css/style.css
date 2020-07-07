@@ -392,15 +392,12 @@ main ul li:nth-child(even) {
     justify-content: space-between;
 }
 
-.card > * {
-    /* padding: 0.5em; */
-}
-
 .card .icon img {
     height: 70px;
 }
 
 .card .title {
+    text-align: center;
     text-transform: uppercase;
     color: var(--color-green);
 }
