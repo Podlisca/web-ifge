@@ -16,7 +16,7 @@ Julia startete gleich mit zwei großen Vorsätzen ins neue Jahr: „Mindestens v
 
  
 
-Unzufriedener als zuvor
+### Unzufriedener als zuvor
 
 Gegen 17:23 am Neujahrstag stand Johanna vor dem Zigarettenautomaten bei ihr ums Eck und kaufte sich unter Tränen ein Päckchen ihrer Lieblingssorte. Sie fand doch noch ein Feuerzeug in einer ihrer Handtaschen und rauchte sich zwei Zigaretten hintereinander an. So viel Selbstverachtung hatte sie noch nie verspürt. 
 
@@ -26,19 +26,19 @@ Julia hatte schon den Neujahrsmorgen mit einer großen Joggingrunde begonnen. Am
 
  
 
-Kein guter Deal
+### Kein guter Deal
 
 Johanna, Peter und Julia haben eines gemeinsam: Sie alle haben sich viel zu optimistisch, ja fast schon unrealistisch, mit der Definition ihrer Ziele auseinandergesetzt. Kaum eine Woche nach Silvester sind alle Drei an ihren Vorhaben gescheitert und plagen sich neben dem Gefühl des Scheiterns nun auch noch mit inneren Vorwürfen. Doch woran liegt es, dass wir gerade in der Zeit des Jahreswechsels so unrealistisch an unsere Ziele herangehen? Möglicherweise ist es die gewisse Magie, die sich in der Zeit zwischen den Jahren ausbreitet. Ein Neuanfang hat immer etwas Positives und eben Magisches, das sich von Tatendrang getragen anfühlt. Wir kommen ins Schwärmen. Der Zauber des Jahreswechsels lässt uns verklärt auf das Vergangene blicken, trübt aber auch den Blick in die Zukunft. So scheint es uns im Glanz des Feuerwerks ganz realistisch, dass wir mit ein bisschen Selbstbeherrschung das Ziel, ein Jahr lang keine Schokolade mehr zu essen, locker erreichen können. Mit einem Stück Torte in der Hand lässt sich das auch ganz leicht vorstellen, zumal wir in der glücklichen Feierlaune der Silvesternacht nicht daran denken, dass es uns ja auch wieder einmal schlechter gehen könnte. Und dass wir uns nach einem hektischen Tag im Büro und dem zu Hause stattgefundenen Streit mit dem Partner oder der Partnerin vielleicht doch ganz gern mit einem Schokopudding werden belohnen wollen. Zusammengefasst: Die Drei in unserem Beispiel haben sich nicht nur völlig unrealistische Ziele gesteckt, sondern auch nicht daran gedacht, wie sie diese denn in anspruchsvollen Zeiten überhaupt einhalten können. Außerdem sind wir in unserem Wesen – salopp formuliert - Gewohnheitstiere. Eingeübte Muster zu durchbrechen bedarf nicht nur der ausgiebigen Betrachtung der Muster an sich, sondern es benötigt viele kleine Schritte. Gewohnheiten durchbricht man selten mit einem einzigen großen Sprung. Ihre Vorhaben waren so schon von vornherein zum Scheitern verurteilt und kratzen nun so noch dazu an ihrem Selbstwert. Die kleine Euphorie der guten Vorsätze hat sich in belastende Selbstzweifel verwandelt. Kein wirklich guter Deal. 
 
  
 
-Die Illusion der Kontrolle
+### Die Illusion der Kontrolle
 
 Der Mensch neigt jedoch dazu, schlechte Erfahrungen beiseite zu schieben. Und so kann es gut sein, dass sich Johanna, Peter und Julia im nächsten Jahr in der Silvesternacht wieder ganz euphorisch ihren unrealistischen Zielen widmen. Die schlechte Erfahrung mit den Vorsätzen aus dem letzten Jahr haben sie da meistens nämlich ganz einfach schon wieder vergessen. Trotzdem werden eifrig neue Pläne fürs kommende Jahr gemacht, denn die Struktur von klaren Vorsätzen vermittelt uns ein Gefühl der Selbstbeherrschung - und somit der Kontrolle. Wer das Gefühl hat, die Kontrolle zu besitzen, kann oft mit Stresssituationen besser umgehen. Es ist also kein Wunder, dass wir uns dieses Gefühl mit den guten Vorsätzen immer wieder ins Boot holen wollen.
 
  
 
-Kleine Schritte statt großer Sprünge
+### Kleine Schritte statt großer Sprünge
 
 Wer nicht auf die guten Vorsätze verzichten will und gleichzeitig innere Enttäuschung vermeiden möchte, sollte an die Neujahrsziele etwas weniger euphorisch herangehen. In vielen Bereichen schätzen wir uns in guter Stimmung nämlich besser ein als wir sind. Dann bürden wir uns zu viel auf. Wichtig für erfolgreiche Vorsätze ist also ein gewisser Realitätsbezug. Helfen kann z.B., sich schon Tage vor Silvester mit einer Liste an den Schreibtisch zu setzen und aufzuschreiben, was man im kommenden Jahr erreichen möchte. So können Sie sich Ihren Alltag besser vorstellen als in der ausgelassenen Stimmung einer Silvesterparty. Wichtig dabei ist, dass Sie sich kleine Ziele setzen oder ihre Vorsätze in Teilziele unterteilen. Anstatt „Mindestens vier Mal pro Woche Sport“ für einen ausgesprochenen Sportmuffel könnte auf dem Zettel stehen „Ich möchte gerne zwei Mal pro Woche Sport machen, schaffe ich drei Mal ist es toll, wenn ich vier Mal hinkriege, ist das grenzgenial“. In der ersten Variante sind Sie von sich selbst enttäuscht, wenn Sie nur drei Mal Laufen gehen. In der zweiten Variante haben Sie allen Grund, auf sich stolz zu sein, wenn Sie drei Mal die Laufschuhe rausgeholt haben. Ähnlich verhält es sich mit gesunder Ernährung. Teilziele und realistische Vorsätze helfen beim Durchhalten. Vergessen Sie nicht: Ein Jahr ist sehr lang - und vieles, das Sie heute noch nicht wissen, könnte schon in drei Monaten Ihren Alltag völlig durcheinander bringen. Anstatt „Ausschließlich gesund ernähren“, könnte Ihr Vorsatz also lauten „Bewusster auf gesunde Ernährung achten, Schokoladekonsum einschränken und sich dabei Ausnahmetage genehmigen.“ In der zweiten Variante ist die Chance jedenfalls größer, dass Sie auch im August noch stolz auf sich selbst sein können.
 

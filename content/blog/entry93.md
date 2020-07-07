@@ -15,13 +15,13 @@ Doch zurück zum hungrigen Bären. Stellen Sie sich vor, Sie leben in der Steinz
 
  
 
-Alle Zeichen stehen auf Höchstleistung
+### Alle Zeichen stehen auf Höchstleistung
 
 Ausgeklügelte Hormon-Reaktionen im Körper programmieren uns bei Gefahr auf Höchstleistungen. Das Gehirn schaltet auf Gefahrenmodus und somit wird Ihr bewusstes Denken beim Anblick des hungrigen Bären teilweise blockiert. Durch die Ausschüttung von Adrenalin, Cortisol und anderen Substanzen steigt sowohl Ihr Blutdruck als auch Ihr Puls und mehr Blut wird in die Muskeln gepumpt. (Sie müssen jetzt ja gleich genug Kraft für einen enormen Sprint aufbringen). Ihre Pupillen erweitern sich genauso wie Ihre Bronchien (Klar, Sie müssen sich sofort auf ein breites Sichtfeld einstellen und brauchen genug Luft für Ihre Flucht). Ihr Körper erhöht außerdem sofort die Blutgerinnungsfähigkeit (Falls der Bär Sie mit seinen kräftigen Pranken erwischen sollte, wäre es günstig, wenn Sie nicht gleich an Ort und Stelle verbluten). Aktuell unwesentliche Körperfunktionen – wie etwa die Darmbewegungen – werden zurückgefahren (Sie können sich ja vorstellen, dass es auf der Flucht vom Bären ungünstig wäre, noch kurz im Gebüsch ein Geschäft verrichten zu müssen). Die Stressreaktion Ihres Körpers sorgt also dafür, dass Sie überleben, indem Sie reflexartig bereit sind, aufzuspringen und davonzulaufen. Diese enormen freigesetzten Energien verbrauchen Sie bei Ihrer Flucht. Sobald Sie in Sicherheit sind, können Sie sich jedoch wieder entspannt unter einem Baum ins Gras fallen lassen und Ihre verdiente Ruhe genießen. Dabei findet Ihr Körper – der seine zusätzliche Energie nun durch den Sprint abgebaut hat – in den Normalzustand zurück. Der Höhlen-Bär bleibt hungrig. 
 
  
 
-Stressauslöser haben ihr Gesicht gewandelt
+### Stressauslöser haben ihr Gesicht gewandelt
 
 Freilich, die wenigsten von uns müssen in unserer modernen Welt vor Bären fliehen. Doch Stressauslöser sind weiterhin vorhanden, auch wenn sie ihr Gesicht gewandelt haben: Heute löst der cholerische Chef, der uns beim Meeting anschreit, bei einigen von uns eine prompte Stressreaktion aus. Vielleicht ist auch die Schwiegermutter, die Weihnachten dieses Jahr bei Ihnen feien will, für Sie ein Stressfaktor. Eventuell löst Ihr eigener Anspruch an die zeitgerechte Erledigung aller Weihnachtseinkäufe Stress bei Ihnen aus. Möglicherweise sind es auch Ihre Kinder, die sich losreißen und kreischend am überfüllten Adventmarkt davonlaufen. All diese Situationen können unser Notprogramm freischalten und haben eines gemeinsam: Sie können Sie nicht wie unser Steinzeitmensch mit Davonlaufen bewältigen. Ihr Körper spult zwar auch heute noch sein Überlebensprogramm ab, doch die freigesetzten Energien können nicht immer adäquat in jeder Situation abgebaut werden. Der Moment, in dem Sie sich metaphorisch gesprochen entspannt ins Gras fallen lassen und in Ihren körperlichen Normalzustand zurückkehren, bleibt aus. Gerade jetzt so kurz vor Weihnachten, wo eine Stresssituation die andere jagt. Da unsere freigesetzte Energie jedoch körperlich nicht benötigt wird, entgleisen wir stattdessen z. B.  verbal viel schneller als gewohnt (Sie erinnern sich: Das logische Denken wird teilweise blockiert).
 
@@ -29,7 +29,7 @@ Wenn die Erholungsphasen jedoch ausbleiben und Stress somit chronisch wird, scha
 
  
 
-Zeit für Besinnlichkeit?
+### Zeit für Besinnlichkeit?
 
 Die Weihnachtsmärkte wollen besichtigt werden, im Stau geht nichts weiter, Kollegin Julia möchte unbedingt auch noch einen Punsch mit Ihnen trinken, das Festtagsmenü soll vorbereitet, Geschenke gekauft und verpackt werden, in der Arbeit müssen Sie das doppelte Pensum bewältigen, um sich für die Feiertage frei nehmen zu können, abends rütteln Ihre Kinder am Nervengerüst und der Partner sucht auch noch Streit. Wann war denn eigentlich Ihre letzte wirkliche Erholungsphase?
 
@@ -41,7 +41,9 @@ Nutzen Sie doch dieses Jahr die Adventzeit ganz bewusst, um sich über Ihre Erho
 
  
 
-Quellen: forumgesundheit.at, vbg.de, netdoktor.at, wandasenn.ch
+**Quellen:**
+
+forumgesundheit.at, vbg.de, netdoktor.at, wandasenn.ch
 
  
 

@@ -6,20 +6,14 @@ weight: 91
 img: "blog_aufstellung_noe.jpg"
 ---
 
-Seinen Platz in der Familie finden - über die Wirkung des Familienstellens
-Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Silvia Podlisca
 Oft kommt man in einer klassischen Therapie oder Beratung auch nach mehreren Sitzungen einfach nicht „weiter“ - obwohl man ein Problem schon von allen Seiten beleuchtet hat, holt es einen immer wieder ein. Der Hintergrund hierfür ist meist, dass das Ursprungsereignis für dieses belastende Thema noch nicht anerkannt worden ist – oft weil es schon seit Generationen in der Familie wirkt.
 
- 
-
-Was unterscheidet Familienaufstellungen von anderen Methoden?
+### Was unterscheidet Familienaufstellungen von anderen Methoden?
 
 In der systemischen Sichtweise geht man davon aus, dass der Ursprung fast jedes Problems in der Familie liegt. Familienaufstellungen machen mehr Lösungen möglich, da sie nicht nur bei dem Klienten/der Klientin selber ansetzen, sondern an dem gesamten Familiensystem, zu dem insbesondere die Eltern, Großeltern, Urgroßeltern, Kinder, Geschwister der Eltern, ehemalige und jetzige Partner/innen aber auch Schicksalsgemeinschaften gehören. Schicksalsgemeinschaften bilden sich nicht nur innerhalb eines Familiensystems, sondern erfassen auch weitere Systeme wie zwischen Tätern und Opfern im Rahmen von Kriegen, Holocaust oder ähnlich existentiell aneinander gebundenen Mitgliedern. So gehört, wenn es einen Mörder oder z.B. Unfalllenker in unserem System gibt, automatisch auch das zugehörige Opfer zu unserem System, auch wenn es kein direktes Mitglied unserer Familie ist.
  
 
-Was ist eine Familienaufstellung und wie läuft diese ab?
-
- 
+### Was ist eine Familienaufstellung und wie läuft diese ab?
 
 Bei Familienaufstellungen kann ein beliebiges Thema aufgestellt werden, das belastend wirkt – egal ob es aus dem privaten oder beruflichen Bereich kommt. Häufig kommen Klient/innen mit folgenden Anliegen: körperliche Erkrankungen, Paar- und Beziehungsschwierigkeiten, Wiederholung eines immer gleichen Musters, das Gefühl, nicht das eigene Leben zu leben oder Schwierigkeiten im Berufsleben.
 
@@ -33,11 +27,7 @@ Der Aufstellungsleiter erkennt durch genaue Beobachtung aller Stellvertreter/inn
 
 Ziel der Aufstellungsarbeit ist es, die verborgen wirkenden Kräfte ans Licht zu bringen und anzuerkennen, was in diesem System wirkt. Am Ende der Aufstellung entsteht ein Lösungsbild, das allen Systemmitgliedern den ihnen gebührenden Platz gibt. Dieses Lösungsbild entfaltet seine tiefe Wirkung oft noch Monate nach einer Aufstellung und wirkt heilsam und gibt Kraft für den weiteren Lebensweg.
 
- 
-
-Was kann eine Familienaufstellung bewirken?
-
- 
+### Was kann eine Familienaufstellung bewirken?
 
 Durch Familienaufstellungen erfährt man oft ein hohes Gefühl der Verbundenheit – man bekommt eine Ahnung davon, wie sehr man mit seiner Familie auf einer anderen, unbewussten Ebene verbunden ist, auch mit Personen, die einem im realen Leben vielleicht gar nicht nahe stehen oder die man lebend nicht mehr kennengelernt hat. Auf dieser unbewussten Ebene wirken oft ganz andere Mechanismen als auf der bewussten Ebene, die „Seele“ möchte aus Verbundenheit mit der Familie oft etwas ganz anderes als man es im realen Leben anstrebt.
 
@@ -46,6 +36,7 @@ Wenn man sich intensiver mit Familienaufstellungen befasst, kann man nicht nur u
 
 Familienaufstellungen wirklich mit Fakten und nackten Informationen zu erklären wird dem Erlebten nie ganz gerecht werden. Man muss wohl selber einmal erlebt haben, wie stark die Emotionen bei einer Aufstellung wirken und wie viele Gefühle sie in einem auslösen können, wenn Verborgenes, das schon lange unbewusst bzw. in der Familienseele wirkt, plötzlich aufgedeckt wird. Je mehr Blockaden, alte Behinderungen und vielleicht Traumata, die man aus der Vergangenheit seines Familiensystems mitgenommen hat, losgelassen werden können, desto mehr Raum wird dafür geschaffen, sich selber zu leben.
 
-Quelle:
+**Quelle:**
+
 http://secret-wiki.de/wiki/Morphogenetische_Felder
 
