@@ -1,6 +1,9 @@
 ---
 title: "Männliche Opfer"
 draft: false
+description: "Auch wenn viele Bewegungen heute die Aufhebung klassischer Geschlechterrollen fordern und versuchen, die absolute Gleichstellung zu leben, verflüchtigen sich klassische – über Jahrhunderte gelebte – Rollenbilder nicht einfach von einem Jahrzehnt aufs andere. Ein Großteil der Männer identifiziert sich auch in Zeiten des geteilten Haushalts und der gemeinsamen Kindererziehung sowie in gleichberechtigten Beziehungsmodellen mit vermeintlich männlichen Werten wie „Stärke und Souveränität“. Glaubenssätze wie „Ein Indianer kennt keinen Schmerz“ und „Buben weinen nicht“ sind im Unterbewusstsein vieler Männer weiterhin ganz tief verankert und genau das führt dazu, dass sich männliche Opfer sehr spät bis gar keine Hilfe holen."
+og_title: "Männer als Opfer"
+og_image: "/img/burn_out_wien.jpg"
 ---
 # Männer als Opfer
 {{< slogan >}}

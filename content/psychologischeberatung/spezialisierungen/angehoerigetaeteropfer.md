@@ -1,6 +1,8 @@
 ---
 title: "Angehörige von Opfern oder Tätern"
 draft: false
+description: "Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Angehörige leiden in manchen Phasen sogar intensiver als der oder die Betroffenen."
+og_image: "/img/system_einzel_2.jpg"
 ---
 
 # Beratung für Angehörige von 

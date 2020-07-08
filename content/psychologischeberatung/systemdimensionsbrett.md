@@ -5,6 +5,8 @@ menu:
         parent: psychologischeberatung
         identifier: systemdimensionsbrett
 draft: true
+description: "Mit dem SystemDimensionsBrett® arbeitet man mehrdimensional. Es werden mehrere Einsichten oder Zeitebenen gleichzeitig dargestellt. Das öffnet den Blick, verdeutlicht Zusammenhänge und Wechselwirkungen und schafft Klarheit."
+og_image: "/img/systemdimensionsbrett_1.jpg"
 ---
 
 # SystemDimensionsBrett®

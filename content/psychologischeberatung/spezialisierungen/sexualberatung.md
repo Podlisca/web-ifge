@@ -1,6 +1,9 @@
 ---
 title: "Sexualberatung"
 draft: false
+description: "Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit."
+og_title: "Ausbildungsphilosophie am IFGE"
+og_image: "/img/wien_silvia.jpg"
 ---
 
 # Sexualberatung

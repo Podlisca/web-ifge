@@ -1,6 +1,8 @@
 ---
 title: "Sexualberatung für Paare"
 draft: false
+description: "In dem Beratungsprozess, für den Sie sich als Paar ganz bewusst entscheiden, geht es nicht darum, nette Rollenspiele – die zumeist, wenn überhaupt, nur von kurzem Erfolg gekrönt sind – zu entwickeln, sondern es geht darum, tiefgreifende, dauerhafte und beständige lustvolle Veränderungen in Ihr Sexleben zu integrieren."
+og_image: "/img/sex_frust.jpg"
 ---
 
 # Sexualberatung für Paare

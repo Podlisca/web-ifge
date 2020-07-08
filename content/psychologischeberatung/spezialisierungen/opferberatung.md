@@ -1,6 +1,8 @@
 ---
 title: "Opferberatung"
 draft: false
+description: "Gewalt zu erleben, ist für viele Menschen eine traumatische Erfahrung. Die Starre ist neben Kampf, Flucht und Unterwerfung eines der wesentlichen Reaktionsmuster des Körpers und der Psyche auf extreme Stresssituationen – und das schon seit Urzeiten. Jede dieser Reaktionen gehört zu menschlichen Bewältigungsstrategien, die als völlig gleichwertig zu betrachten sind."
+og_image: "/img/sexualberatung_noe.jpg"
 ---
 # Opferberatung
 {{< slogan >}}

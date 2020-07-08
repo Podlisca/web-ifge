@@ -6,6 +6,8 @@ menu:
         identifier: sexundstalking
 draft: false
 weight: 5
+description: "Welche Dynamiken sich bei Sexueller Belästigung zeigen, wer davon häufig betroffen ist, wie die unterschiedlichen Formen des Umgangs damit aussehen und vor allem, welche personellen, rechtlichen sowie emotionalen Konsequenzen dies für Ihre Auftraggeber*innen bedeuten kann, ist ausführlicher Inhalt dieser digitalen Fortbildung. Welche Dynamiken sich bei Sexueller Belästigung zeigen, wer davon häufig betroffen ist, wie die unterschiedlichen Formen des Umgangs damit aussehen und vor allem, welche personellen, rechtlichen sowie emotionalen Konsequenzen dies für Ihre Auftraggeber*innen bedeuten kann, ist ausführlicher Inhalt dieser digitalen Fortbildung."
+og_image: "/img/umgang_sex_belaestigung.jpg"
 ---
 
 # ONLINE Ausbildung: 

@@ -1,12 +1,14 @@
 ---
 title: "Burn-out Beratung"
 draft: false
+description: "Um gesund zu bleiben, ist es empfehlenswert, die Gefühle des Ausgebranntseins nicht einfach zu ignorieren, sondern eine bewusste Entscheidung für einen wieder kraftvoll gelebten Alltag zu treffen. Mit der aktiven Entscheidung, Beratung und Begleitung zeitgerecht in Anspruch zu nehmen, gelingt Ihnen bereits ein wesentlicher Schritt hin zu einem wieder erfüllenden und motivierten Leben."
+og_image: "/img/lsb_info_noe.jpg"
 ---
 
 # Burn-out Beratung
 {{< slogan >}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/burn_out.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}

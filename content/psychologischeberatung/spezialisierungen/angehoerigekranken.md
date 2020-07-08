@@ -1,6 +1,9 @@
 ---
 title: "Angehörige von Kranken"
 draft: false
+description: "Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. In all dem Trubel rund um die richtige Pflege oder Behandlung der Angehörigen und dem durch die neue Situation bisweilen entstehenden Chaos gehen häufig gerade die unter, die sich am verantwortlichsten für die Kranken und die Aufrechterhaltung eines halbwegs geregelten Familienlebens fühlen."
+og_title: "Angehörige von kranken Menschen"
+og_image: "/img/sucht2_wien.jpg"
 ---
 
 # Angehörige von kranken Menschen

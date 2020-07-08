@@ -1,6 +1,9 @@
 ---
 title: "Suizid in der Familie"
 draft: false
+description: "Selbstmord – ein Wort, das viele von uns erschaudern lässt. Es ist ein sehr diffuses und angstbehaftetes Thema, vor allem dann, wenn man mit depressiven Angehörigen zusammenlebt. Doch auch vielen Eltern bereitet der Gedanke an Suizid besonderes Unbehagen, gerade wenn – so wie in den vergangenen Monaten – Serien unter Teenagern gehyped werden, die sich um Selbstmord drehen. Gelegentlich hört man dann noch von den pubertierenden Kindern frustrierte Aussagen wie: „So will ich gar nicht mehr leben!“ Und Eltern fragen sich, wie ernst solche Aussprüche zu nehmen sind. Und was, wenn er oder sie sich wirklich umbringt? Und was, wenn es wirklich passiert?"
+og_title: "Suizid im persönlichen Umfeld"
+og_image: "/img/suizid.jpg"
 ---
 
 # Beratung bei

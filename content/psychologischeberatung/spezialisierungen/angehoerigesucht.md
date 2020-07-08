@@ -1,6 +1,9 @@
 ---
 title: "Angehörige von Süchtigen"
 draft: false
+description: "Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Angehörige von Suchtkranken leiden in manchen Phasen sogar intensiver an der Abhängigkeit des oder der anderen als die Abhängigen selbst an ihrer Sucht leiden."
+og_title: "Supervision am IFGE"
+og_image: "/img/trauer_beratung_wien.jpg"
 ---
 
 # Angehörige von Süchtigen

@@ -1,6 +1,8 @@
 ---
 title: "Gesunde Perversion"
 draft: false
+description: Gesunde Perversion beschreibt den Zustand einer vielfältigen, lustvollen Sexualität, in der Menschen über ihren sexuellen Tellerrand hinausblicken. Gesunde Perversion endet da, wo die Ausschließlichkeit beginnt."
+og_image: "/img/bgld_perversion1.jpg"
 ---
 
 

@@ -6,6 +6,8 @@ menu:
         identifier: philosophie
 draft: false
 weight: 2
+description: "In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?"
+og_image: "/img/gruppenselbsterf_philo.jpg"
 ---
 
 # Philosophie

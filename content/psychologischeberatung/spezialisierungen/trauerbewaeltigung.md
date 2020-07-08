@@ -1,6 +1,8 @@
 ---
 title: "Trauerbewältigung"
 draft: false
+description: "Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Menschen von zentraler Bedeutung, um den Tod einer geliebten Person, eine Abtreibung oder eine Fehlgeburt dauerhaft zu verschmerzen."
+og_image: "/img/trauer_beratung_wien.jpg"
 ---
 
 # Trauerbewältigung

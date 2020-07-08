@@ -6,6 +6,9 @@ menu:
         identifier: familienaufstellung
 draft: false
 weight: 3
+description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
+og_title: "Familienaufstellung nach Bert Hellinger"
+og_image: "/img/aufstllung_noe3.jpg"
 ---
 
 # Familienaufstellung mit Silvia Podlisca

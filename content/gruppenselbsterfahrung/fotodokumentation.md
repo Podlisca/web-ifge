@@ -6,6 +6,7 @@ menu:
         identifier: fotodokumentation
 draft: true
 weight: 3
+description: "Die Bilder auf dieser Seite wurden gestellt, um Ihnen einen Einblick in meine Arbeit zu ermöglichen bzw. damit Sie sich einen Eindruck verschaffen können."
 ---
 
 # Familienaufstellung nach Bert Hellinger

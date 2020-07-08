@@ -6,6 +6,9 @@ menu:
         identifier: "offenegruppe"
 draft: false
 weight: 4
+description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
+og_title: "Offene Gruppensupervision"
+og_image: "/img/offene_sv_gruppe.jpg"
 ---
 
 

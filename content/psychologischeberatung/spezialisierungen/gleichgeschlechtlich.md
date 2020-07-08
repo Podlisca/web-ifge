@@ -1,6 +1,8 @@
 ---
 title: "Gleichgeschlechtliche Liebe"
 draft: false
+description: "Bedarf es in der heutigen Zeit überhaupt noch einer gesonderten Erwähnung eines Angebots für Schwule oder Lesben? „Das ist doch heute eh ganz normal!“ hört man leise entrüstete Stimmen murmeln. Ist es wirklich wesentlich, eigens auf gleichgeschlechtliche Liebe einzugehen, besonders jetzt, wo doch endlich sogar die Ehe für gleichgeschlechtliche Paare ermöglicht wird? Die Antwort ist ganz einfach: Ja. Gerade in unserer Zeit, in der vermeintliche und oberflächliche Offenheit propagiert wird, erscheint es mir besonders wichtig, sich mit dem zu beschäftigen, was unter der Oberfläche passiert. Und dort erleben Schwule, Lesben und Bi-Sexuelle auch in unserer vordergründig so weltoffenen Zeit immer noch offensichtliche – aber vor allem versteckte – Diskriminierungen. Viele gleichgeschlechtlich lebende und liebende erleben dabei ein Paradoxon unseres Zeitalters: Einerseits wird Offenheit in jeder Richtung als cool und hip wahrgenommen, etwa wenn bei Paraden wild tanzend und ausgelassen Regenbogenfahnen geschwenkt werden, andererseits gibt es da noch den Alltag, in dem Tante Hertha immer noch bei jedem Weihnachtsessen nachfragt, ob nicht vielleicht doch noch irgendwann auf Vater, Mutter, Kind zu hoffen ist, und in dem der rückständige Arbeitskollege die lesbische Kollegin fragt: Na, was wäre, wenn du’s mal mit einem richtigen Mann probierst?"
+og_image: "/img/gleichgeschlechtlich_1.jpg"
 ---
 
 # Gleichgeschlechtliche Liebe

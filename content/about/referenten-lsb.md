@@ -6,6 +6,8 @@ menu:
         identifier: referenten
 draft: false
 weight: 4
+description: "Das IFGE greift auf ein breites ReferentInnen-Pool zurück, damit ist Abwechslung in den Seminaren garantiert."
+og_image: "/img/referenten.jpg"
 ---
 
 # Referenten

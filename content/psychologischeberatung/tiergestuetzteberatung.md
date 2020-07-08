@@ -6,6 +6,8 @@ menu:
         identifier: beratung_tiergestuetzt
 draft: false
 weight: 4
+description: "Hunde unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie sind uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese respektieren zu lernen."
+og_image: "/img/sally_bgld.jpg"
 ---
 
 # Tiergestützte psychologische Beratung in Wien

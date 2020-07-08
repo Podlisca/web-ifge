@@ -6,6 +6,9 @@ menu:
         identifier: ueber_mich
 draft: false
 weight: 1
+description: "Durch meine umfassenden Ausbildungen in der Energetik und Lebensberatung ist es mir möglich, individuell auf jeden Klienten und jede Klientin einzugehen."
+og_title: "Silvia Podlisca - Institutsleiterin"
+og_image: "/img/silvia_noe3.jpg"
 ---
 
 # Silvia Podlisca - Institutsleiterin

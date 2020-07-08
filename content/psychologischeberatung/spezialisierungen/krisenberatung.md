@@ -1,6 +1,8 @@
 ---
 title: "Krisenberatung"
 draft: false
+description: "Sehen Sie Ihre Krisensituation nicht als persönliches Versagen, sondern als Chance für eine Neugestaltung! Nehmen Sie eine Krisenberatung in Wien in Anspruch, DENN Lebenskrisen sind auch immer eine Lebenschance!"
+og_image: "/img/sexualberatung_noe.jpg"
 ---
 # Krisenberatung
 {{< slogan >}}

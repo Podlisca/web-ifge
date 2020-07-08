@@ -6,6 +6,9 @@ menu:
         identifier: upgrade_sexualberatung
 draft: false
 weight: 5
+description: "Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
+og_title: "Ausbildung: Sexualberatung / Paarberatung"
+og_image: "/img/gewaltspirale_noe.jpg"
 ---
 
 # Ausbildung: Sexualberatung / Paarberatung

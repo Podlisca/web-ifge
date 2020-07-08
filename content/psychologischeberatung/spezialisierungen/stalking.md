@@ -1,6 +1,8 @@
 ---
 title: "Stalking"
 draft: false
+description: "Stalkingverhalten unterscheidet sich im Gegensatz zu „normalen“ zwischenmenschlichen Interaktionen dadurch, dass es Angst oder Besorgnis beim Opfer auslöst. Stalking-Betroffene fürchten teilweise, körperliche Schäden durch StalkerInnen zu erleiden."
+og_image: "/img/stalking.jpg"
 ---
 
 # Stalking

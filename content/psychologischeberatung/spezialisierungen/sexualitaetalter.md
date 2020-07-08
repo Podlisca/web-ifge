@@ -1,6 +1,8 @@
 ---
 title: "Sexualität und Alter"
 draft: false
+description: "Je älter wir werden, umso eher plagen uns körperliche Wehwehchen oder chronische Krankheiten, die manchen Menschen oft jede Lust auf Sexualität nehmen. Häufig ist es im Alter jedoch auch so, dass aus Rücksicht auf Partner oder Partnerinnen, die vermeintlich keine Sexualität mehr leben wollen, körperliche Nähe ganz vermieden wird – dabei handelt es sich in manchen Fällen jedoch um Missverständnisse."
+og_image: "/img/sex_frust.jpg"
 ---
 
 # Sexualität und Alter

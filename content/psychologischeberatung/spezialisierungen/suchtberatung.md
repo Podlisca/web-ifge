@@ -1,6 +1,8 @@
 ---
 title: "Suchtberatung"
 draft: false
+description: "Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche"
+og_image: "/img/sucht_beratung_wien.jpg"
 ---
 
 # Suchtberatung

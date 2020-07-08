@@ -1,6 +1,9 @@
 ---
 title: "Täterberatung"
 draft: false
+description: "Wo kein Täter da kein Opfer! Eine Phantasie alleine, macht aus einem Menschen noch keinen Täter und keine Täterin. Ihre Neigung/Phantasie haben Sie sich nicht ausgesucht, aber es liegt ganz allein an Ihnen, ob Sie aus Phantasien sexuelle Gewalttaten entstehen lassen, die durch absolut nichts zu rechtfertigen sind."
+og_title: "Supervision am IFGE"
+og_image: "/img/einzelberatung_weis_noe.jpg"
 ---
 
 # Täterberatung

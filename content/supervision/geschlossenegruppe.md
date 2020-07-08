@@ -6,6 +6,8 @@ menu:
         identifier: "geschlossenegruppe"
 draft: false
 weight: 3
+description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
+og_image: "/img/supervisionsgruppe_bgld.jpg"
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "Häusliche Gewalt"
 draft: false
+description: "Wenn aus Ehemännern und Ehefrauen TäterInnen werden, so entsteht eine spezielle Opfer-TäterInnen-Dynamik, die besonders häufig dazu führt, dass sich weder TäterIn noch Opfer zeitgerecht Hilfe holen. Psychologische Beratung hilft."
+og_image: "/img/noe_einzel.jpg"
 ---
 
 # Häusliche Gewalt
