@@ -30,10 +30,12 @@ jobs:
         TZ: Europe/Vienna 
 
     - name: Deploy to FTP 
-      uses: sebastianpopp/ftp-action@releases/v2
-      with:
-        host: ftp://ftp.issp.at
-        user: spodlisca_ftp2
-        password: ${{ secrets.FTP_PASSWORD }}
-        localDir: "public"
-        remoteDir: "/"
+      run: |
+        sudo apt-get install lftp
+        lftp $HOST -u $USER,$PASSWORD -e "set ssl:verify-certificate false; mirror -v --reverse --only-newer --ignore-time --continue $LOCAL_DIR $REMOTE_DIR; quit"
+      env:
+        HOST: ftp://ftp.issp.at
+        USER: spodlisca_ftp2
+        PASSWORD: ${{ secrets.FTP_PASSWORD }}
+        LOCAL_DIR: "public"
+        REMOTE_DIR: "/ftp-test"
