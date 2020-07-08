@@ -139,7 +139,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/spezialisierungen/stalking.html)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
 * [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
 * [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
 * [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
