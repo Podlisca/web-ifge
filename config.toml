@@ -1,9 +1,10 @@
 baseURL = "/"
-languageCode = "de"
 title = "IFGE"
 author = "Leichtware GmbH"
 uglyurls = true
 
+languageCode = "de"
+defaultContentLanguage = "de"
 summaryLength = 30
 
 [markup.goldmark.renderer]
