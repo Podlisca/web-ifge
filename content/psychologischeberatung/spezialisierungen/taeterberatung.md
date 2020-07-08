@@ -71,7 +71,7 @@ zögern Sie nicht, sich einen Beratungstermin am IFGE bei mir auszumachen. Was i
 {{< line icon="icon/oper_taeter.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 

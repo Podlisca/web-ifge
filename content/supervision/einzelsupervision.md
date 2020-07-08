@@ -48,7 +48,7 @@ In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo 
 
 {{% floatbox %}}
 
-Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gruppensupervisionen](https://www.ifge.at)  zu empfehlen, da in dieser durch spezielle Gruppendynamiken sichtbar wird, was in Einzelsitzungen manchmal im Verborgenen bleiben kann.
+Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gruppensupervisionen](/supervision/philosophie.html)  zu empfehlen, da in dieser durch spezielle Gruppendynamiken sichtbar wird, was in Einzelsitzungen manchmal im Verborgenen bleiben kann.
 
 
 {{% /floatbox %}}
@@ -57,7 +57,7 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 
 **Bitte kontaktieren Sie mich für einen Termin unter +43 676 610 89 36**
 
-**Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.ifge.at) anerkannt.
+**Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.wko.at/) anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

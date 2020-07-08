@@ -54,9 +54,9 @@ Menschen im fortgeschrittenen Alter kommen häufig mit folgenden Anliegen zu mir
 * Einschränkung des sexuellen Lustempfindens durch (chronische) Krankheiten
 * Unterschiedliche sexuelle Wünsche in der Partnerschaft
 
-Nutzen Sie die [Sexualberatung](https://www.ifge.at), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychologische Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
+Nutzen Sie die [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychologische Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
 
-Lesen Sie mehr über meine [Philosophie am IFGE](https://www.ifge.at)
+Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut.html)
 
 {{% /floatbox %}}
 
@@ -65,7 +65,7 @@ Lesen Sie mehr über meine [Philosophie am IFGE](https://www.ifge.at)
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
@@ -75,7 +75,7 @@ Lesen Sie mehr über meine [Philosophie am IFGE](https://www.ifge.at)
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}

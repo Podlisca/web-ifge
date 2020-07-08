@@ -98,16 +98,16 @@ Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch a
 {{% /small  %}}
 {{% /box %}}
 
-Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl. Lebens- und Sozialberater*in. Sollten Sie sich für diese Ausbildung interessieren, folgen Sie dem angeführten Link.
+Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl. Lebens- und Sozialberater\*in. Sollten Sie sich für diese Ausbildung interessieren, folgen Sie dem angeführten Link.
 
-[www.ifge.at/ausbildungsangebote/dipl-lebens-und-sozialberaterin/](https://www.ifge.at)
+[Ausbildung Dipl. Lebens- und Sozialberater\*in](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html)
 
 
 {{% floatbox %}}
 {{< line icon="/icon/sexualberatung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 

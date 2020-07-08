@@ -87,7 +87,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 
 #### ONLINE AUSBILDUNGEN & TRAININGS
 * [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
-* [Umgang mit sexueller Belästigung & Stalking](https://www.ifge.at)
+* [Umgang mit sexueller Belästigung & Stalking](/online-ausbildungsangebote/sexuelle_belaestigung.html)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
 * [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming.html)

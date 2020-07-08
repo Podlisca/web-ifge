@@ -29,13 +29,13 @@ Und mit einem Mal ist alles anders. Nichts ist mehr so, wie es vorher war. Plöt
 
 {{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}}
 
-Eine Krise kommt entweder plötzlich und völlig unerwartet auf uns zu – etwa durch Schicksalsschläge, wie den [Tod einer nahestehenden Person](https://www.ifge.at), den Verlust des eigenen zu Hauses, die unerwartet ausgesprochene Kündigung oder tiefgreifende Erlebnisse wie Unfälle oder Übergriffe – oder aber sie schleicht sich langsam durch [Dauerbelastungen](https://www.ifge.at) in unseren Alltag ein, ohne dass wir sie kommen sehen bzw. wahrhaben wollten. 
+Eine Krise kommt entweder plötzlich und völlig unerwartet auf uns zu – etwa durch Schicksalsschläge, wie den [Tod einer nahestehenden Person](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html), den Verlust des eigenen zu Hauses, die unerwartet ausgesprochene Kündigung oder tiefgreifende Erlebnisse wie Unfälle oder Übergriffe – oder aber sie schleicht sich langsam durch Dauerbelastungen in unseren Alltag ein, ohne dass wir sie kommen sehen bzw. wahrhaben wollten. 
 
-Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](https://www.ifge.at) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
+Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologischeberatung/spezialisierungen/suchtberatung.html) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
 
-Gerade in diesen selbst ausgelösten Krisen empfinden Klient\*innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](https://www.ifge.at) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die KlientInnen nun hilfreich sein kann. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
+Gerade in diesen selbst ausgelösten Krisen empfinden Klient\*innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](/psychologischeberatung/einzelberatung.html) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die KlientInnen nun hilfreich sein kann. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
 
-Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, das Gefühl der Überforderung zu erleben. Häufig geht diese Überforderung mit Emotionen wie Angst, Verzweiflung und Not einher. Eine Krise kann also dazu führen, dass wir uns ängstlich, panisch und völlig ohnmächtig fühlen. In vielen Fällen sorgen diese Gefühle dafür, dass Menschen erstarren und sich der Situation absolut ausgeliefert fühlen. [Psychologische Beratung](https://www.ifge.at) hilft dabei, in diesen ausweglos scheinenden Situationen wieder handlungsfähig zu werden und persönliche Krisen meistern zu können.
+Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, das Gefühl der Überforderung zu erleben. Häufig geht diese Überforderung mit Emotionen wie Angst, Verzweiflung und Not einher. Eine Krise kann also dazu führen, dass wir uns ängstlich, panisch und völlig ohnmächtig fühlen. In vielen Fällen sorgen diese Gefühle dafür, dass Menschen erstarren und sich der Situation absolut ausgeliefert fühlen. [Psychologische Beratung](/psychologischeberatung/einzelberatung.html) hilft dabei, in diesen ausweglos scheinenden Situationen wieder handlungsfähig zu werden und persönliche Krisen meistern zu können.
 
 {{< image src="/img/beratung_krise_bgld.jpg" float="right" title="Bildbeschreibung" >}}
 
@@ -61,7 +61,7 @@ Ich begleite meine Klient\*innen schon langjährig u.a. im Falle von Krisen und 
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 

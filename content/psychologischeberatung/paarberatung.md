@@ -59,13 +59,13 @@ Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologi
 Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den fehlenden Teil zu finden und dadurch ganz zu werden. Selbstverständlich kann auch das Singledasein für Klient\*innen als erfüllend empfunden und in vollen Zügen genossen werden. In der Systemik geht es jedoch darum, zu versuchen, die Bindung und (sexuelle) Anziehung zwischen Mann und Frau – oder zwischen gleichgeschlechtlichen Paaren – zu erklären. Wir finden alle die Partner\*innen, welche uns nicht nur als Person vervollständigen, sondern auch unser gesamtes Familiensystem komplettieren. Es ziehen sich sozusagen Menschen mit ähnlichen Familiengeschichten an. 
 
 
-Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](https://www.ifge.at) bewusst [Täter\*innen](https://www.ifge.at) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
+Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](/psychologischeberatung/spezialisierungen/opferberatung.html) bewusst [Täter\*innen](/psychologischeberatung/spezialisierungen/taeterberatung.html) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
 
 Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, wenn wir das Beziehungsmodell unserer Eltern als unpassend empfinden, fühlen wir uns Jahre später in ähnlichen Beziehungsmustern „gefangen“.
 
 Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Beziehung so gestalten, wie es für Sie beide am besten dienlich ist – frei von übernommen Altlasten und (oft heimlich) schlechtem Gewissen gegenüber Ihren Eltern. 
 
-Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge.at).
+Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbsterfahrung/familienaufstellung.html).
 
 {{% /floatbox %}}
 
@@ -94,7 +94,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 
@@ -104,7 +104,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](https://www.ifge
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologischeberatung/einzel_system.html).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}

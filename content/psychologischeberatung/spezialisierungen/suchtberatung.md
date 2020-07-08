@@ -33,7 +33,7 @@ Abhängigkeit ist zu Beginn sehr häufig der missglückte Selbstversuch, eine be
 
 Außerdem hat „jede Sucht einmal als Suche begonnen“, wie Andreas Tenzer sagte. 
 
-In meiner langjährigen Erfahrung in der Suchtberatung konnte ich dieses Prinzip vielfach selbst bei meinen Klient*innen beobachten. Denn Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychologische Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](https://www.ifge.at) auch durch [Familienaufstellungen](https://www.ifge.at) oder [systemische Methoden in Einzelberatungen](https://www.ifge.at) sichtbar gemacht werden.
+In meiner langjährigen Erfahrung in der Suchtberatung konnte ich dieses Prinzip vielfach selbst bei meinen Klient*innen beobachten. Denn Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychologische Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](/psychologischeberatung/einzelberatung.html) auch durch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) oder [systemische Methoden in Einzelberatungen](/psychologischeberatung/einzel_system.html) sichtbar gemacht werden.
 
 Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
@@ -44,8 +44,8 @@ Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
 {{< image src="/img/sucht2_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
-Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Schicksalsschlägen, körperlichen Erkrankungen, Existenzverlust und Einsamkeit. Nicht selten führt Sucht über kurz oder lang auch zum Tod. Abhängigkeit und Suchttendenzen gehen dabei nicht nur für die Betroffenen zu Lasten ihrer eigenen Lebensqualität, sie setzen auch [Angehörige](https://www.ifge.at) unter enormen Druck und erzeugen bei ihnen quälende Gefühle von Macht- und Hilflosigkeit, sowie Wut und Scham. Dadurch entstehend sogenannte gesundheitsgefährdende [Co-Abhängigkeiten](https://www.ifge.at).
-[Psychologische Beratung](https://www.ifge.at) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 
+Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Schicksalsschlägen, körperlichen Erkrankungen, Existenzverlust und Einsamkeit. Nicht selten führt Sucht über kurz oder lang auch zum Tod. Abhängigkeit und Suchttendenzen gehen dabei nicht nur für die Betroffenen zu Lasten ihrer eigenen Lebensqualität, sie setzen auch [Angehörige](/psychologischeberatung/spezialisierungen/angehoerigesucht.html) unter enormen Druck und erzeugen bei ihnen quälende Gefühle von Macht- und Hilflosigkeit, sowie Wut und Scham. Dadurch entstehend sogenannte gesundheitsgefährdende [Co-Abhängigkeiten](/psychologischeberatung/spezialisierungen/angehoerigesucht.html).
+[Psychologische Beratung](/psychologischeberatung/einzelberatung.html) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 
 
 Finden Sie wieder zurück in einen Alltag, der frei ist von der ständigen, unstillbaren Gier und den Sie wieder klar wahrnehmen sowie genießen können.
 
@@ -59,7 +59,7 @@ Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 

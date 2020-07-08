@@ -69,7 +69,7 @@ Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all d
 {{% box blue=1 %}}
 {{% small %}}
 
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
 {{% /small %}}
 {{% /box %}}
 

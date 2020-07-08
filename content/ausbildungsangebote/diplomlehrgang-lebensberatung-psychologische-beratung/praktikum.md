@@ -33,7 +33,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 
 * mindestens 100 protokollierte Beratungseinheiten (darunter mindestens fünf Erstgesprächsprotokolle und Prozessprotokolle über zwei abgeschlossene Beratungen) und
 * mindestens 100 nachgewiesene Supervisionseinheiten (10 Einzel- und 90 Gruppensupervision), davon mindestens 10 Einzelsupervisionseinheiten
-* **Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten!** Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren\*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor\*innen](https://www.ifge.at) die die Voraussetzungen erfüllen.
+* **Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten!** Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren\*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor\*innen](/about/ifge_supervisoren.html) die die Voraussetzungen erfüllen.
 
  
 
@@ -45,7 +45,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 * Aufwand für die Vor- und Nacharbeit der genannten Tätigkeiten im Ausmaß von höchstens 150 Stunden
 
 
-Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von **mindestens 30 Stunden nachzuweisen**. [Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen](https://www.ifge.at).
+Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von **mindestens 30 Stunden nachzuweisen**. [Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen](/about/ifge_selbsterfahrung.html).
 
 Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](https://www.lebensberater.at/)
 
