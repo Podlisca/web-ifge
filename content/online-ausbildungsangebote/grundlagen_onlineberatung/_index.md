@@ -16,7 +16,7 @@ rich_kurs: true
 
 {{< slogan >}}
 
-{{< line icon="/icon/fachwissen_tuerkis.png" >}}
+{{< line icon="/icon/zitat.png" >}}
 
 {{% floatbox %}}
 
@@ -24,7 +24,11 @@ rich_kurs: true
 
 Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: 
 
-**Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen.**
+**"Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen".**
+<br/>
+<br/>
+<br/>
+{{< silvia >}}
 
 {{% /floatbox %}}
 

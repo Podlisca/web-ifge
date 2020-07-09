@@ -3,7 +3,7 @@ title: "Von Konflikten zu Chancen"
 draft: false
 tags: []
 weight: 83
-img: "konflikt.jpg"
+img: "beratung_angehoerige_noe.jpg"
 ---
 
 Konflikte begleiten uns das ganze Leben – manchmal träumt man davon, wie schön es wäre, wenn es gar keinen Streit gäbe und all unsere privaten wie beruflichen Ziele von purer Harmonie geprägt wären.

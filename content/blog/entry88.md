@@ -3,7 +3,7 @@ title: "Tiere als wertvolle Bereicherung in der Beratung"
 draft: false
 tags: []
 weight: 88
-img: "tiere_beratung.jpg"
+img: "beratung_tiere_noe.jpg"
 ---
 
 Die positive Wirkung des Kontaktes mit Tieren auf uns Menschen wurde schon mehrfach nachgewiesen. So belegen Studien deutliche Verbesserungen des Gesundheitszustandes durch den Umgang und die Interaktion mit  Vierbeinern – insbesondere indem sich der Blutdruck und die Pulsfrequenz der Menschen durch ihre beruhigende Wirkung senkt.
