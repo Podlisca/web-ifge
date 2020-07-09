@@ -3,12 +3,12 @@
     {
       "@context": "https://schema.org",
       "@type": "Course",
-      "name": "{{ .Title }}",
-      "description": "{{ .Description }}",
+      "name": {{ .Title }},
+      "description": {{ .Description }},
       "provider": {
         "@type": "Organization",
-        "name": "{{ .Site.Params.rich_provider }}",
-        "sameAs": "{{ .Site.BaseURL }}"
+        "name": {{ .Site.Params.rich_provider }},
+        "sameAs": {{ .Site.BaseURL }}
       }
     }
 </script>
