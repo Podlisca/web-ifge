@@ -9,6 +9,7 @@ weight: 8
 description: "In unserer Ausbildung zum/zur Vertrauenslehrerin erlernen Sie einen umfassenden Methodenkatalog der Gesprächsführung. Unser Schwerpunkt liegt dabei auf gewaltfreier und wertschätzender Kommunikation."
 og_title: "Ausbildung zum/zur VertrauenslehrerIn"
 og_image: "/img/vertrauenslehrer.jpg"
+rich_kurs: true
 ---
 
 # Ausbildung zum/zur VertrauenslehrerIn
