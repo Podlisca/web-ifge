@@ -8,6 +8,7 @@ draft: false
 weight: 7
 description: "Im Workshop „Fit and safe – ganz sicher Spaß haben“ geht es dabei aber keinesfalls darum, dir den Spaß am Fortgehen und Partys, am Chatten, an deinen TikTok- und YouTube-Videos oder am Fotoversand via WhatsApp zu verderben. Im Gegenteil: Ziel ist es, dass du nach diesem Online-Kurs auf der sicheren Seite Spaß haben kannst."
 og_image: "/img/fit_safe_maedchen.jpg"
+rich_kurs: true
 ---
 
 # ONLINE Ausbildung: 

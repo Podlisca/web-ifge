@@ -9,6 +9,7 @@ weight: 4
 description: "Lebens- und SozialberaterInnen, Interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, Trainer, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung die gerne Tiere in die psychologische Beratung integrieren möchten. Einstieg bereits in der Grundausbildung (ab 2. Semester) möglich."
 og_title: "Ausbildung: Tiergestützte psychologische Beratung"
 og_image: "/img/tiergestuetzt.jpg"
+rich_kurs: true
 ---
 
 # Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung

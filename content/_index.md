@@ -11,7 +11,6 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{< slogan >}}
 
-
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
