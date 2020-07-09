@@ -110,8 +110,21 @@ img.logo {
     max-width: 160px;
 }
 
+img.blog {
+    float: left;
+    width: 350px;
+    max-width: 100%;
+    margin-right: 1em;
+}
+
 .box.top-align {
     align-items: flex-start;
+}
+
+@media (min-width: 701px) {
+    img.blog {
+        max-width: 350px;        
+    }
 }
 
 @media (max-width: 700px) {
