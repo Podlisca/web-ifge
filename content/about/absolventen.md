@@ -6,6 +6,7 @@ menu:
         identifier: absolventen
 draft: false
 weight: 5
+aliases: "/absolvent-innen-des-ifge/index.html"
 ---
 
 # Absolvent\*innen des IFGE
