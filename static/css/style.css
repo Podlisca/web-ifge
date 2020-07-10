@@ -1,6 +1,12 @@
-@import "theme.css";
-
-:root {
+:root {    
+    --color-green: #16978c;
+    --color-red: #a34d5d;
+    --color-gray: #969696;
+    --color-lightgray: #eee;
+    --color-creme: #f8eada;
+    --color-blue: #e6f4f4;
+    --padding-main: 1em;
+    --color-text: #444;
     --large: 1024px;
     --medium: 900px;
     --small: 700px;

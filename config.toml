@@ -3,6 +3,8 @@ title = "IFGE"
 author = "Leichtware GmbH"
 uglyurls = true
 
+assetDir = "static"
+
 languageCode = "de"
 defaultContentLanguage = "de"
 summaryLength = 30
