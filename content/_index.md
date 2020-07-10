@@ -125,7 +125,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% /box %}}
 {{% /floatbox %}}
 
-{{< line icon="icon/3_Standorte.png" >}}
+{{< line icon="icon/3_standorte.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
