@@ -15,7 +15,7 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebensberatung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
 
 In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/philosophie-und-kursangebot.html) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie.html) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
@@ -31,7 +31,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 {{% box blue=1 more=1 %}}
 
 
-{{< card-more link="/ausbildungsangebote/philosophie-und-kursangebot.html" icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
+{{< card-more link="/ausbildungsangebote/philosophie-und-kursangebot.html" icon="icon/ausbildungsangebote.png" title="Höchste Qualität und wertschätzendes Arbeiten steht am IFGE bei allen Angeboten an erster Stelle">}}
 
 Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
 
@@ -41,7 +41,7 @@ Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an 
 {{% /card-more %}}
 
 
-{{< card-more link="/online-ausbildungsangebote/onlinephilosophie.html" icon="icon/online_ausbildungen.png" title="Online-Ausbildungen">}}
+{{< card-more link="/online-ausbildungsangebote/onlinephilosophie.html" icon="icon/online_ausbildungen.png" title="Qualität ist unser Motto.">}}
 
 Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. 
 
@@ -79,7 +79,7 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/vertrauenslehrer_bgld.jpg" >}}
+{{< image src="/img/vertrauenslehrer_bgld.jpg" title="An drei Standorten, in Wien auf der Mariahilferstraße, im Burgenland in Pinkafeld sowie in Niederösterreich in Sankt Pölten, finden zahlreiche Angebote wie die Ausbildung zum/zur Dipl. Lebensbeater/*in – psychologischen Berater/*in, Upgrades in Aufstellungsarbeit und Supervision, Fortbildung in tiergestützter Arbeit, Coaching, Fortbildungen in der Sexualberatung und Paarberatung statt.">}}
 
 #### Qualitätsausbildungen
 
@@ -89,7 +89,7 @@ Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/home_berufsbild.jpg" >}}
+{{< image src="/img/home_berufsbild.jpg" title="Wer Zuhören will, muss schweigen können. Aktives und empathisches Zuhören, Sicherheit und Ruhe ist die Grundlage jeder psychologischen Beratung. Am IFGE finden Sie einen Ort wo es um Sie und Ihre Anliegen und Gefühlen geht – frei von Bewertungen, Absichten und Besserwisserei. Getragen von dieser Atmosphäre und einer ressourcenorientierter Gesprächsführung, finden Sie Lösungen, die immer in Ihnen schlummern, jedoch nicht wahrgenommen werden können.">}}
 
 #### Berufsbild Lebensberatung
 Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](https://ifge.at/psychologischeberatung/berufsbild.html) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](https://ifge.at/psychologischeberatung/berufsbild.html).
@@ -97,7 +97,7 @@ Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung
 
 {{% small  %}}
 
-{{< image src="/img/bildungsphilo_noe.jpg" >}}
+{{< image src="/img/bildungsphilo_noe.jpg" title="Am IFGE wird Ihnen, ab dem ersten Seminartag, die Rolle der psychologischen Beraterin des psychologischen Beraters nähergebracht. Schritt für Schritt wachsen Sie – durch theoretische Inputs und viel Üben in die neue Rolle hinein. Das gibt Ihnen die Sicherheit, damit Sie später mit Fachwissen und vielen praktischen Tools ausgestattet, in die Praxis starten können." >}}
 
 #### Bildungsphilosophie 
 Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb.html), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](/ausbildungsangebote/philosophie-und-kursangebot.html). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
@@ -116,7 +116,7 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="psychologische Beratung und Familienaufstellung mit Silvia Podlisca in Wien, Niederösterreich oder Burgenland." >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
  
