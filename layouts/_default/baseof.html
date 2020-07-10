@@ -25,22 +25,23 @@
   <meta property="og:image:width" content="1540"/>
   <meta property="og:image:height" content="1024"/>
 
-  {{ partial "rich-content" . }}
+  {{- partial "rich-content" . -}}
 
   <link rel="shortcut icon" href="/img/favicon.png">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/nav.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">  
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+  {{- $style := resources.Get "/css/style.css" -}}
+  {{- $slider := resources.Get "/css/slider.css" -}}
+  {{- $nav := resources.Get "/css/nav.css" -}}
+  {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
+  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink }}" integrity="{{ $global.Data.Integrity }}"/>
 </head>
 
-<body>
-  
+<body>  
   {{ partial "cookieconsent" . }}
-
   {{ block "includes" . }}{{ end }}
-
-  <header>
+  <header>    
     <div class="cont">
       <a href="/index.html">
         <img src="/img/logo.jpg" alt="IFGE Logo" class="logo"/>
@@ -51,7 +52,7 @@
     </div>
   </header>
 
-  <main>
+  <main>    
     <div class="cont">
       {{ block "main" . }}
       {{ end }}
