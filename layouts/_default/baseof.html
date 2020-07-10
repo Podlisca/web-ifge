@@ -35,7 +35,7 @@
   {{- $slider := resources.Get "/css/slider.css" -}}
   {{- $nav := resources.Get "/css/nav.css" -}}
   {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
-  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink }}" integrity="{{ $global.Data.Integrity }}"/>
+  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink }}"/>
 </head>
 
 <body>  
