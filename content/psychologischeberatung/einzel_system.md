@@ -16,7 +16,7 @@ og_image: "/img/systembrett_einzel_noe.jpg"
 
 {{< slogan >}}
 
-{{< line icon="icon/Familienaufstellung.png" >}}
+{{< line icon="icon/familienaufstellung.png" >}}
 
 {{% floatbox %}}
 
@@ -49,7 +49,7 @@ Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Famili
 {{< /iconmenu >}}
 
 
-{{< line icon="icon/Familienaufstellung.png" >}}
+{{< line icon="icon/familienaufstellung.png" >}}
 
 {{% floatbox %}}
 
@@ -69,7 +69,7 @@ Systemische Beratung bedeutet in meinem Verständnis nicht – wie so oft anders
 
 Die [Philosophie](/about/institut.html), die bei mir am Institut für ganzheitliches Erleben gelebt wird, ist viel eher die Lösung der kleinen, sicheren Schritte. Diese scheinen auf den ersten Blick möglicherweise nicht als so gewichtig wie die Lösungen, die in Gruppenaufstellungen sichtbar gemacht und bearbeitet werden, helfen aber ebenso durch das kontinuierliche innere Erleben, sichtbar Gewordenes nachhaltig in persönliche Lösungskonzepte zu integrieren. Systemische Einzelstunden festigen dazu oft den in der Gruppe erzielten Aufstellungserfolg.
 
-{{< line icon="icon/Familienaufstellung.png" >}}
+{{< line icon="icon/familienaufstellung.png" >}}
 
 In Einzelsitzungen ist es überdies auch möglich, sich besonders viel Zeit für die Auswirkungen und persönlichen Folgen der in Gruppenaufstellungen sichtbar gewordenen Verstrickungen zu nehmen und Ihre neue Realität zu erschaffen. Ein bekannter Lösungssatz in der [klassischen Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) ist die Bitte der KlientInnen, dass jenes Familienmitglied, dem wir mit dem Lösen unseres Problems unähnlich werden, freundlich auf uns schauen möge, wenn es für uns anders und gut weitergehen darf. Diese eingeholte Erlaubnis – dieser freundliche Blick – am Ende einer Aufstellung nach Hellinger stellt den Beginn der [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung.html) dar. Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie?
 
@@ -80,7 +80,7 @@ Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, 
 Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](/psychologischeberatung/systemdimensionsbrett.html) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient\*innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können.
 
 
-{{< line icon="icon/Familienaufstellung.png" >}}
+{{< line icon="icon/familienaufstellung.png" >}}
 
 {{< image src="/img/systemdimensionsbrett_2.jpg" float="left" title="Bildbeschreibung" >}} 
 

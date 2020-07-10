@@ -76,15 +76,15 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/blog_aufstellung_noe.jpg" title="Jeder wird gehört..." >}}
+{{< image src="/img/aufstellung_noe_1.jpg" title="Jeder wird gehört..." >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/systembrettaufstellung.jpg" title=".. und bekommt die gleiche Redezeit." >}}
+{{< image src="/img/aufstellung_noe1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/aufstellung_noe1.jpg" title="Wenn es einmal emotionaler wird.." >}}
+{{< image src="/img/brett_2.jpg" title="Wenn es einmal emotionaler wird.." >}}
 
 {{% /small  %}}
 {{% small  %}}

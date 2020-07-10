@@ -31,7 +31,7 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 {{% box blue=1 more=1 %}}
 
 
-{{< card-more link="/ausbildungsangebote/philosophie-und-kursangebot.html" icon="icon/ausbildungsangebote.png" title="Höchste Qualität und wertschätzendes Arbeiten steht am IFGE bei allen Angeboten an erster Stelle">}}
+{{< card-more link="/ausbildungsangebote/philosophie-und-kursangebot.html" icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
 
 Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
 
@@ -41,7 +41,7 @@ Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an 
 {{% /card-more %}}
 
 
-{{< card-more link="/online-ausbildungsangebote/onlinephilosophie.html" icon="icon/online_ausbildungen.png" title="Qualität ist unser Motto.">}}
+{{< card-more link="/online-ausbildungsangebote/onlinephilosophie.html" icon="icon/online_ausbildungen.png" title="Online-Ausbildungen">}}
 
 Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. 
 
