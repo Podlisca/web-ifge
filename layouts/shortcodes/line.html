@@ -1,6 +1,11 @@
+{{ $alt := strings.TrimPrefix "/img/" (.Get "icon")}}
+{{ $alt = index (split $alt ".") 0 }}    
+{{ $alt = replace $alt "/" " " }}
+{{ $alt = replace $alt "_" " " }}
+
 <div class="line">
     <hr/>
     <div>
-{{ if .Get "icon" }} <img src="/img/{{ .Get "icon" }}" alt="{{ .Get "icon" }}"/> {{ else }} {{ .Get 0 }} {{ end }}        
+{{ if .Get "icon" }} <img src="/img/{{ .Get "icon" }}" alt="{{ $alt }}"/> {{ else }} {{ .Get 0 }} {{ end }}        
     </div>
 </div>

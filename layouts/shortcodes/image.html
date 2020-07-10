@@ -1,4 +1,14 @@
+{{ $alt := ""}}
+{{ if .Get "title" }}
+    {{ $alt = .Get "title" }}
+{{ else }}
+    {{ $alt = strings.TrimPrefix "/img/" (.Get "src")}}
+    {{ $alt = index (split $alt ".") 0 }}    
+    {{ $alt = replace $alt "/" " " }}
+    {{ $alt = replace $alt "_" " " }}
+{{ end }}
 
 <div>
-    <img src="{{ .Get "src" }}" class="{{ .Get "float" }} {{ if .Get "format"}} {{ .Get "format" }} {{ else }}quer{{ end }} {{ if .Get "small" }} small{{ end }} " alt="{{ .Get "title" }}"/>
+    <img src="{{ .Get "src" }}" class="{{ .Get "float" }} {{ if .Get "format"}} {{ .Get "format" }} {{ else }}quer{{ end }} {{ if .Get "small" }} small{{ end }} " 
+    alt="{{ $alt }}"/>
 </div>

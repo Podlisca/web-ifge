@@ -13,3 +13,14 @@
     }
 </script>
 {{ end }}
+
+{{ if .Params.rich_logo }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": {{ .Site.BaseURL }},
+    "logo": {{ "/img/logo.jpg" | absURL }}
+  }
+  </script>
+{{ end }}
