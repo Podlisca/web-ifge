@@ -8,7 +8,8 @@ weight: 1
 description: "Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebe ttet und genützt werden. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln."
 og_title: "Philosophie: Online Schulungen und Trainings"
 og_image: "/img/philosophie_online.jpg"
-
+aliases: 
+    - "/online-ausbildungsangebote/index.html"
 ---
 
 # Philosophie: Online Schulungen & Trainings 
