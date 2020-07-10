@@ -63,7 +63,7 @@ Die Entscheidung, für die Lebens- und Sozialberatung – psychologische Beratun
 Jedoch ist gerade als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung für mich ein absolutes und freudiges MUSS. Es folgten zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologischeberatung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologischeberatung/spezialisierungen/krisenberatung.html) und sind nach wie vor eine Selbstverständlichkeit für mich. 
 <br/>
 <br/>
-Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt und dass jeder Mensch völlig individuell und seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung begleite ich mit viel Freude und Engagement bei meinen Kliet\*innen und freue mich über jeden Erfolg meiner Klienten\*innen. 
+Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt und dass jeder Mensch völlig individuell, seine eigene höchstpersönliche Lösung, findet. Diesen Prozess der Selbstfindung begleite ich mit viel Freude und Engagement bei meinen Kliet\*innen und freue mich über jeden Erfolg meiner Klienten\*innen. 
 
 {{% /small  %}}
 {{% /box %}}
