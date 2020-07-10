@@ -20,7 +20,7 @@ og_image: "/img/sally_bgld.jpg"
 
 {{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann.<br/> <br/> Weiters gibt es an unserem Institut in Wien Institutskatzen, die - neben den Hunden - ebenfalls in der tiergestützten Beratung eingesetzt werden.
+Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann.<br/> <br/> Tiergestützte Beratung beginnt dort, wo Gespräche und die Arbeit mit einem entsprechend ausgebildetem Tier einander ergänzen – es geht um den Beziehungsaufbau und die Prozessgestaltung im Beziehungsdreieck zwischen Klient\*in, Tier und Berater\*in. Neben der Gesprächsführung zwischen Berater\*in und Klient\*in werden Methoden eingesetzt, bei denen die Klienten/Klientinnen mit Tieren interagieren oder über Tiere kommunizieren.
 <br/>
 <br/>
 {{< silvia >}}
@@ -52,11 +52,14 @@ Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewe
 
 {{< image src="/img/sally_bgld.jpg" float="right" title="Bildbeschreibung" >}} 
 
-Die Hunde und Katzen sollen, mit einem menschlichen Partner an ihrer Seite, Freude, Spaß und Abwechslung in das Leben von Menschen bringen. Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Gemeinsam mit den entzückenden Institutskatzen bzw. „Co-Beraterinnen“ Roxxi, Rikki und Rosa, die sich in den Räumlichkeiten in Wien aufhalten, und den sorgfältig ausgebildeten Beratungshunden Pluto und Sally profitieren Sie von den besonderen Effekten, welche Tiere auf den Beratungsprozess haben. Unsere Institutstiere in Wien vermögen es auf ganz spezielle Weise, Ihnen als Klient*in ein Gefühl der Vertrautheit zu vermitteln und gleichzeitig spielerisch oder tröstend Ihren Beratungsprozess zu unterstützen. Gerade bei festgefahren scheinenden Mustern schaffen unsere Tiere es, Sie schnell an neue Lösungswege heranzuführen.
+Die Hunde sollen, mit einem menschlichen Partner an ihrer Seite, Freude, Spaß und Abwechslung in das Leben von Menschen bringen. Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Durch die sorgfältig ausgebildeten Beratungshunden Pluto und Sally profitieren Sie von den besonderen Effekten, welche Tiere auf den Beratungsprozess haben. 
 
+Unsere Institutstiere in Wien vermögen es auf ganz spezielle Weise, Ihnen als Klient\*in ein Gefühl der Vertrautheit zu vermitteln und gleichzeitig spielerisch oder tröstend Ihren Beratungsprozess zu unterstützen. Gerade bei festgefahren scheinenden Mustern schaffen unsere Tiere es, Sie schnell an neue Lösungswege heranzuführen.
+<br/>
+<br/>
 {{% box blue=1 %}}
 {{% small %}}
-Ziel meiner Arbeit mit den Institutstieren ist es dabei nicht, unsere Hunde und Katzen an den Beratungsprozess anzupassen, sondern Ihren persönlichen Beratungsprozess dank der Interaktion mit den ausgebildeten Tieren so individuell und lösungsorientiert wie möglich zu gestalten. Das bedeutet, dass ich in der tiergestützten psychologischen Beratung bewusst so wenig Technik wie möglich einsetze und auf die Instruktion der Tiere über weite Strecken verzichte. Technik und Instruktionen sind auch gar nicht nötig, denn die tierischen Co-Berater agieren situativ beeindruckend einfühlsam und ermöglichen meinen Klient*innen durch ihr spontanes Eingreifen in die Beratungseinheit, schnell und spielerisch einen tiefen Zugang zu sich selbst zu finden.
+Ziel meiner Arbeit mit den Hunden ist es dabei nicht, die Hunde an den Beratungsprozess anzupassen, sondern Ihren persönlichen Beratungsprozess dank der Interaktion mit den ausgebildeten Tieren so individuell und lösungsorientiert wie möglich zu gestalten. Das bedeutet, dass ich in der tiergestützten psychologischen Beratung bewusst so wenig Technik wie möglich einsetze und auf die Instruktion der Tiere über weite Strecken verzichte. Technik und Instruktionen sind auch gar nicht nötig, denn die tierischen Co-Berater agieren situativ beeindruckend einfühlsam und ermöglichen meinen Klient\*innen durch ihr spontanes Eingreifen in die Beratungseinheit, schnell und spielerisch einen tiefen Zugang zu sich selbst zu finden.
 {{% /small  %}}
 {{% /box %}}
 
@@ -73,17 +76,16 @@ Einige Studien belegen sogar, dass sich Hunde positiv auf die Genesung nach eine
 
 Die tiergestützte psychologische Beratung ist daher besonders für jene Klient*nnen empfehlenswert, die ihr persönliches Optimum aus jeder Beratungseinheit erzielen möchten und sehr rasch und spielerisch Lösungen für ihre Anliegen suchen.
 
-Die Einsatzmöglichkeiten von Hunden sowie Katzen in der psychologischen Beratung in Wien sind fast unerschöpflich. Hunde werden gerne in Outdoor-Aktivitäten miteinbezogen und können dadurch bei Aufführungen/ Besuchen/Aktivitäten in Institutionen wie Krankenhäusern, Kinderspitälern, Behindertenwohnheimen oder Altersheimen sowie auch in der klassischen Lebensberatung eingesetzt werden. Katzen bevorzugen gemäß ihrer Natur ihr gewohntes Umfeld bzw. Zuhause.
+Die Einsatzmöglichkeiten von Hunden in der psychologischen Beratung sind fast unerschöpflich. Hunde werden gerne in Outdoor-Aktivitäten miteinbezogen und können dadurch bei Aufführungen/ Besuchen/Aktivitäten in Institutionen wie Krankenhäusern, Kinderspitälern, Behindertenwohnheimen oder Altersheimen sowie auch in der klassischen Lebensberatung eingesetzt werden. 
 
 {{% box blue=1 %}}
 {{% small %}}
 In der psychologischen Beratung können tiergestützte Aktivitäten in vielerlei Hinsicht miteinbezogen werden. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie helfen Ihnen, damit Sie auch schwierige oder heikle Themen ansprechen können.
 
-Hunde und Katzen unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind.  Sie zeigen uns durch ihre unbekümmerte  Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
+Die Hunde unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind.  Sie zeigen uns durch ihre unbekümmerte  Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
 {{% /small  %}}
 {{% /box %}}
 
-Unser Team der tiergestützten Beratung hat durch Institutskatzen in Wien Verstärkung bekommen - anbei stellen sich Ihnen unsere Institutstiere vor:
 
 {{< line icon="icon/tiere.png" >}}
 
@@ -123,7 +125,7 @@ Unser Team der tiergestützten Beratung hat durch Institutskatzen in Wien Verst�
 * Aggression
 * Entlastungs- und Ausgleichsmöglichkeiten
 
-Dies sind nur einige von vielen Beispielen, prinzipiell können Pluto & Sally sowie auch unsere Institutskatzen in Wien in jeden Beratungsprozess eingesetzt werden.
+Dies sind nur einige von vielen Beispielen, prinzipiell können Pluto & Sally in jeden Beratungsprozess eingesetzt werden.
 
 Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, Tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) Energetische Praxis – Silvia Podlisca e.U nicht für Verletzungen jeglicher Art - weder bei Mensch noch bei Tier.
 
