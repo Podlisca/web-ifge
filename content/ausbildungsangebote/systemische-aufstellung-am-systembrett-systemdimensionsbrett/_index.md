@@ -26,7 +26,7 @@ Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Ma
 
 Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in [Gruppenseminaren](https://www.ifge.at) gesammelt haben.
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](https://www.ifge.at)  erworben und gefestigt werden.
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](https://www.ifge.at)  erworben und gefestigt werden.
 
 
 

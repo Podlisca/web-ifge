@@ -81,7 +81,7 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 
 ### DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
+[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation/)
 
 ***
 

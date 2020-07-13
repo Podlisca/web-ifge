@@ -20,7 +20,7 @@ In unserer Ausbildung wird jede Intervention fachlich erklärt, sodass Sie diese
 
 {{< image src="/img/teambuilding_ziel_1.jpg" title="Bildbeschreibung" float="right" >}}
 
-So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht. Am [IFGE](/about/institut.html) wir dabei mit hochmodernen Unterrichtsmethoden gearbeitet, zu denen auch eine Vielzahl an neuartigen Team-Building-Tools gehören. 
+So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht. Am [IFGE](/about/institut/) wir dabei mit hochmodernen Unterrichtsmethoden gearbeitet, zu denen auch eine Vielzahl an neuartigen Team-Building-Tools gehören. 
 
 
 So können Sie die verkehrte Welt mit der Umkehrbrille selbst erleben, bevor Sie diese Intervention in Teams anleiten. Mit einer breiten Auswahl an spannenden Techniken und zur Verfügung stehenden, hochwertigen Utensilien lernen Sie Teams von der Pike auf zu begleiten – und zwar aus einem neuartigen Blickwinkel, der selbst für alte Coaching-Hasen wichtige neue Inputs und Möglichkeiten liefert.
@@ -71,7 +71,7 @@ So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der
 
 Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
 
-Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](/about/ueber_mich.html) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit.html) und [Sexualberaterin](/ausbildungsangebote/sexualberatung-paarberatung.html) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](/ausbildungsangebote/lsb-upgrade-supervisionslehrgang.html) immer wieder mit namhaften Firmen zusammen. 
+Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](/about/ueber_mich/) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/) und [Sexualberaterin](/ausbildungsangebote/sexualberatung-paarberatung/) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](/ausbildungsangebote/lsb-upgrade-supervisionslehrgang/) immer wieder mit namhaften Firmen zusammen. 
 
 Im Zuge des [Coaching-Unternehmens FCBP](www.fcbp.at) schult sie Führungskräfte, ist im Konflikt-Management tätig und leitet [Tagestrainings](https://www.fcbp.at/tagestrainings/) für AbteilungsleiterInnen gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/), der als fachliche Assistenz auch Ihre Ausbildung für psychologisches Teambuilding begleiten wird.
 {{% /small %}}

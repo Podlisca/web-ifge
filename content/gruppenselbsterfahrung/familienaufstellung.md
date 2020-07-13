@@ -95,7 +95,7 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 
 Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. Ebenso gibt es eine zweiwöchentliche, systematisch geführte, Gruppenselbsterfahrung.
 
-Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine.html)! 
+Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
 {{% /small  %}}
 {{% /box %}}
 

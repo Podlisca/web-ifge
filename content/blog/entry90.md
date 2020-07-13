@@ -63,7 +63,7 @@ http://karrierenews.diepresse.com/home/karrieretrends/756938/Pensionsschock_Und-
 
 http://www.zeit.de/zeit-wissen/2011/04/Alter-Ewige-Jugend/komplettansicht
 
-https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualberatung.html
+https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualberatung/
 
 http://gesund.co.at/sexualitaet-im-alter-gesundheit-genuss-lust-liebe-11604/
 

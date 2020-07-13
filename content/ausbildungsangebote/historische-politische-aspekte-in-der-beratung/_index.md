@@ -26,7 +26,7 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{% silvia %}}
 
-Über historische und gesellschaftliche Entwicklungen Bescheid zu wissen, ist ein wesentlicher Aspekt in der psychologischen Beratung. Vor allem dann, wenn sich Berater*innen schwerpunktmäßig für [systemische Beratung](/psychologischeberatung/einzel_system.html) entschieden haben.
+Über historische und gesellschaftliche Entwicklungen Bescheid zu wissen, ist ein wesentlicher Aspekt in der psychologischen Beratung. Vor allem dann, wenn sich Berater*innen schwerpunktmäßig für [systemische Beratung](/psychologischeberatung/einzel_system/) entschieden haben.
 
 {{% /floatbox %}}
 

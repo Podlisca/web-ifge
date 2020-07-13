@@ -53,7 +53,7 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 {{% floatbox %}}
 
-Am [IFGE](https://ifge.at/about/institut.html) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
+Am [IFGE](https://ifge.at/about/institut/) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
 
 
 {{< image src="/img/einzel_bgld_5.jpg" float="right" title="Bildbeschreibung" >}} 
@@ -64,7 +64,7 @@ Auch wenn Sie Ihre persönliche Lösung aktuell noch nicht finden können und vi
 
 {{% box blue=1 %}}
 {{% small %}}
-Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://ifge.at/about/institut.html) in der Beratung lesen.
+Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://ifge.at/about/institut/) in der Beratung lesen.
 
 Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt.
 
@@ -97,9 +97,9 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 {{% small %}}
 {{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/kontakt.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/kontakt/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -113,41 +113,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}

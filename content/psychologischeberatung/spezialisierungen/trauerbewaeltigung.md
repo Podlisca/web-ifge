@@ -39,11 +39,11 @@ Hinzu kommt, dass wir in der heutigen Zeit das Gefühl haben, uns kaum mehr Zeit
 
 {{< image src="/img/bgld_trauer_beratung.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Scham ist – in Verbindung mit Wut und Ohnmacht – immer wieder auch ein zentrales Verlustthema, wenn eine Abtreibung vorgenommen wurde oder wenn eine Frau eine Fehlgeburt erlitten hat. Häufig fühlen sich Frauen, die abgetrieben haben, nicht im Recht, um ihr Baby trauern zu dürfen, wodurch sie sich nie richtig verabschieden und damit den Verlust kaum verschmerzen können. Keine Frau macht sich eine solche Entscheidung leicht. Was immer Sie zu Ihrer Entscheidung bewogen hat, auch Sie haben ein Recht auf Ihre Trauer! Ebenso glauben manche Frauen, die eine Fehlgeburt oder einen frühen Abgang erleben mussten, dass ihr Verlust nicht „schwer genug“ wiegt, um professionelle Hilfe in Anspruch nehmen zu „dürfen“. Aber bitte bedenken Sie, dass es nicht darum geht, wie groß irgendjemand Ihren Verlust empfindet, sondern einzig und alleine darum, wie sehr Ihr Verlust Sie persönlich belastet. Der bewusste Abschied von einem ungeborenen Kind ist für das Verschmerzen Ihrer Erfahrung von zentraler Bedeutung. Wenn sich Klientinnen diesen Abschied versagen, kommt es immer wieder vor, dass sich Frauen als unbewusste Bewältigungsstrategie überstürzt in medizinische Behandlung begeben, um so schnell wie möglich ein neues Kind zu zeugen. Ganz gleich, ob dieses Vorhaben letztlich von Erfolg gekrönt ist oder ein Kind weiterhin auf sich warten lässt: Das Phänomen der weiter oben beschriebenen verzögerten Trauer ist gerade bei solchen – oftmals übereilten – Bewältigungsstrategien immer wieder zu beobachten und zeigt sich etwa in [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) oft eine oder zwei Generationen später, indem z. B. Nachgeborene da trauern, wo Sie es sich nicht erlaubt haben. Wichtig ist dabei, dass Sie in Ihrem Trauerprozess einen Raum finden, an dem Sie all Ihre Gefühle zulassen dürfen, um sie schließlich verschmerzen zu können. Diesen Raum biete ich Ihnen am IFGE sehr gerne.
+Scham ist – in Verbindung mit Wut und Ohnmacht – immer wieder auch ein zentrales Verlustthema, wenn eine Abtreibung vorgenommen wurde oder wenn eine Frau eine Fehlgeburt erlitten hat. Häufig fühlen sich Frauen, die abgetrieben haben, nicht im Recht, um ihr Baby trauern zu dürfen, wodurch sie sich nie richtig verabschieden und damit den Verlust kaum verschmerzen können. Keine Frau macht sich eine solche Entscheidung leicht. Was immer Sie zu Ihrer Entscheidung bewogen hat, auch Sie haben ein Recht auf Ihre Trauer! Ebenso glauben manche Frauen, die eine Fehlgeburt oder einen frühen Abgang erleben mussten, dass ihr Verlust nicht „schwer genug“ wiegt, um professionelle Hilfe in Anspruch nehmen zu „dürfen“. Aber bitte bedenken Sie, dass es nicht darum geht, wie groß irgendjemand Ihren Verlust empfindet, sondern einzig und alleine darum, wie sehr Ihr Verlust Sie persönlich belastet. Der bewusste Abschied von einem ungeborenen Kind ist für das Verschmerzen Ihrer Erfahrung von zentraler Bedeutung. Wenn sich Klientinnen diesen Abschied versagen, kommt es immer wieder vor, dass sich Frauen als unbewusste Bewältigungsstrategie überstürzt in medizinische Behandlung begeben, um so schnell wie möglich ein neues Kind zu zeugen. Ganz gleich, ob dieses Vorhaben letztlich von Erfolg gekrönt ist oder ein Kind weiterhin auf sich warten lässt: Das Phänomen der weiter oben beschriebenen verzögerten Trauer ist gerade bei solchen – oftmals übereilten – Bewältigungsstrategien immer wieder zu beobachten und zeigt sich etwa in [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) oft eine oder zwei Generationen später, indem z. B. Nachgeborene da trauern, wo Sie es sich nicht erlaubt haben. Wichtig ist dabei, dass Sie in Ihrem Trauerprozess einen Raum finden, an dem Sie all Ihre Gefühle zulassen dürfen, um sie schließlich verschmerzen zu können. Diesen Raum biete ich Ihnen am IFGE sehr gerne.
 
 {{< image src="/img/trauer_silvia_bgld.jpg" float="right" title="Bildbeschreibung" >}}
 
-Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Menschen von zentraler Bedeutung, um den Tod einer geliebten Person, eine Abtreibung oder eine Fehlgeburt dauerhaft zu verschmerzen. Besonders die [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) ist hier zusätzlich zu Ihrer [Einzelberatung](/psychologischeberatung/einzelberatung.html) eine sehr nachhaltige psychologische Arbeit, in der Sie sich ganz bewusst verabschieden und Ungesagtes vielleicht noch einmal bewusst in den Mund nehmen können, um Ihren Verlust letztlich dauerhaft zu verschmerzen. Dadurch kann es gelingen, dass sich der große Verlust – mit all den für Sie dazugehörigen Gefühlen –, welchen Sie empfinden, letztlich mehr und mehr in jene Erinnerungen verwandelt, die Sie voll Wärme und Wohlgefühl an Ihren geliebten Menschen zurückdenken lassen. Denn auch wenn der Mensch gegangen ist, in Ihrem Herzen lebt er weiter.
+Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Menschen von zentraler Bedeutung, um den Tod einer geliebten Person, eine Abtreibung oder eine Fehlgeburt dauerhaft zu verschmerzen. Besonders die [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) ist hier zusätzlich zu Ihrer [Einzelberatung](/psychologischeberatung/einzelberatung/) eine sehr nachhaltige psychologische Arbeit, in der Sie sich ganz bewusst verabschieden und Ungesagtes vielleicht noch einmal bewusst in den Mund nehmen können, um Ihren Verlust letztlich dauerhaft zu verschmerzen. Dadurch kann es gelingen, dass sich der große Verlust – mit all den für Sie dazugehörigen Gefühlen –, welchen Sie empfinden, letztlich mehr und mehr in jene Erinnerungen verwandelt, die Sie voll Wärme und Wohlgefühl an Ihren geliebten Menschen zurückdenken lassen. Denn auch wenn der Mensch gegangen ist, in Ihrem Herzen lebt er weiter.
 
 {{% /floatbox %}}
 
@@ -52,7 +52,7 @@ Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Mensche
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 
@@ -60,9 +60,9 @@ Ein bewusster Abschied von einem geliebten Menschen ist für die meisten Mensche
 {{% small %}}
 {{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -76,41 +76,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}

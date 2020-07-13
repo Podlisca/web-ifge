@@ -83,41 +83,41 @@ Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehun
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}

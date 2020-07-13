@@ -35,7 +35,7 @@ Abhängigkeit ist zu Beginn sehr häufig der missglückte Selbstversuch, eine be
 
 Außerdem hat „jede Sucht einmal als Suche begonnen“, wie Andreas Tenzer sagte. 
 
-In meiner langjährigen Erfahrung in der Suchtberatung konnte ich dieses Prinzip vielfach selbst bei meinen Klient*innen beobachten. Denn Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychologische Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](/psychologischeberatung/einzelberatung.html) auch durch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) oder [systemische Methoden in Einzelberatungen](/psychologischeberatung/einzel_system.html) sichtbar gemacht werden.
+In meiner langjährigen Erfahrung in der Suchtberatung konnte ich dieses Prinzip vielfach selbst bei meinen Klient*innen beobachten. Denn Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychologische Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](/psychologischeberatung/einzelberatung/) auch durch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) oder [systemische Methoden in Einzelberatungen](/psychologischeberatung/einzel_system/) sichtbar gemacht werden.
 
 Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
@@ -46,8 +46,8 @@ Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
 {{< image src="/img/sucht2_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
-Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Schicksalsschlägen, körperlichen Erkrankungen, Existenzverlust und Einsamkeit. Nicht selten führt Sucht über kurz oder lang auch zum Tod. Abhängigkeit und Suchttendenzen gehen dabei nicht nur für die Betroffenen zu Lasten ihrer eigenen Lebensqualität, sie setzen auch [Angehörige](/psychologischeberatung/spezialisierungen/angehoerigesucht.html) unter enormen Druck und erzeugen bei ihnen quälende Gefühle von Macht- und Hilflosigkeit, sowie Wut und Scham. Dadurch entstehend sogenannte gesundheitsgefährdende [Co-Abhängigkeiten](/psychologischeberatung/spezialisierungen/angehoerigesucht.html).
-[Psychologische Beratung](/psychologischeberatung/einzelberatung.html) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 
+Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Schicksalsschlägen, körperlichen Erkrankungen, Existenzverlust und Einsamkeit. Nicht selten führt Sucht über kurz oder lang auch zum Tod. Abhängigkeit und Suchttendenzen gehen dabei nicht nur für die Betroffenen zu Lasten ihrer eigenen Lebensqualität, sie setzen auch [Angehörige](/psychologischeberatung/spezialisierungen/angehoerigesucht/) unter enormen Druck und erzeugen bei ihnen quälende Gefühle von Macht- und Hilflosigkeit, sowie Wut und Scham. Dadurch entstehend sogenannte gesundheitsgefährdende [Co-Abhängigkeiten](/psychologischeberatung/spezialisierungen/angehoerigesucht/).
+[Psychologische Beratung](/psychologischeberatung/einzelberatung/) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 
 
 Finden Sie wieder zurück in einen Alltag, der frei ist von der ständigen, unstillbaren Gier und den Sie wieder klar wahrnehmen sowie genießen können.
 
@@ -61,7 +61,7 @@ Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 
@@ -69,9 +69,9 @@ Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden
 {{% small %}}
 {{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -85,41 +85,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
+* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
+* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
+* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologischeberatung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
+* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
