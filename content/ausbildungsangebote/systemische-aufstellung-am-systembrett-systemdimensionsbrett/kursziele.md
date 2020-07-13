@@ -19,7 +19,7 @@ weight: 1
 
 {{< image src="/img/kursziel_systembrett.jpg" float="left">}}
 
-Für die [systemische Einzelberatung](/psychologischeberatung/einzel_system/) erlernen bzw. verankern Sie gleich zwei Systembrett-Techniken: Sie beginnen mit der systemischen Arbeit auf dem klassischen Brett und steigern Ihre Fähigkeiten im Zuge der Module Schritt für Schritt, bis Sie ebenso die Methode der Aufstellung auf dem patentierten [SystemDimensionsBrett®](/psychologischeberatung/systemdimensionsbrett/) beherrschen werden.
+Für die [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/) erlernen bzw. verankern Sie gleich zwei Systembrett-Techniken: Sie beginnen mit der systemischen Arbeit auf dem klassischen Brett und steigern Ihre Fähigkeiten im Zuge der Module Schritt für Schritt, bis Sie ebenso die Methode der Aufstellung auf dem patentierten [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) beherrschen werden.
 
 Dieses eigens von Institutsleiterin Silvia Podlisca entwickelte, spezielle Systembrett, mit dem auf drei verschiedenen Ebenen gearbeitet werden kann, erfordert wesentliche Kenntnisse in der mehrdimensionalen Aufstellungsarbeit.
 

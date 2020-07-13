@@ -41,17 +41,17 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - EINZEL](/psychologischeberatung/einzelberatung/)
+#### [PSYCHOLOGISCHE BERATUNG - EINZEL](/psychologische-beratung/einzelberatung/)
 {{< image src="/img/berufsbild_einzelberatung.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - PAAR](/psychologischeberatung/paarberatung/)
+#### [PSYCHOLOGISCHE BERATUNG - PAAR](/psychologische-beratung/paarberatung/)
 {{< image src="/img/berufsbild_paarberatung.jpg" >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [SYSTEMISCHE BERATUNG - EINZEL](/psychologischeberatung/einzel_system/)
+#### [SYSTEMISCHE BERATUNG - EINZEL](/psychologische-beratung/systemische-einzelberatung/)
 {{< image src="/img/berufsbild_system_einzel.jpg" >}}
 {{% /small  %}}
 
@@ -95,39 +95,39 @@ Hinzu kommt die moralische Instanz, die meint: „Mir ist ja eh nix passiert.“
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
+* [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
+* [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über: 
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
-* [Stalking](https://ifge.at/psychologischeberatung/spezialisierungen/stalking/)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
+* [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
+* [Stalking](https://ifge.at/psychologische-beratung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologische-beratung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologische-beratung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologische-beratung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 Hier finden Sie vertiefende Informationen über:
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
+* [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologische-beratung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
 

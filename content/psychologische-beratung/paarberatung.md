@@ -39,7 +39,7 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 
 {{< iconmenu >}}
 {{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="einzel_system" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
@@ -64,7 +64,7 @@ Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologi
 Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den fehlenden Teil zu finden und dadurch ganz zu werden. Selbstverständlich kann auch das Singledasein für Klient\*innen als erfüllend empfunden und in vollen Zügen genossen werden. In der Systemik geht es jedoch darum, zu versuchen, die Bindung und (sexuelle) Anziehung zwischen Mann und Frau – oder zwischen gleichgeschlechtlichen Paaren – zu erklären. Wir finden alle die Partner\*innen, welche uns nicht nur als Person vervollständigen, sondern auch unser gesamtes Familiensystem komplettieren. Es ziehen sich sozusagen Menschen mit ähnlichen Familiengeschichten an. 
 
 
-Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](/psychologischeberatung/spezialisierungen/opferberatung/) bewusst [Täter\*innen](/psychologischeberatung/spezialisierungen/taeterberatung/) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
+Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](/psychologische-beratung/spezialisierungen/opferberatung/) bewusst [Täter\*innen](/psychologische-beratung/spezialisierungen/taeterberatung/) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
 
 Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, wenn wir das Beziehungsmodell unserer Eltern als unpassend empfinden, fühlen wir uns Jahre später in ähnlichen Beziehungsmustern „gefangen“.
 
@@ -109,7 +109,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologischeberatung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologischeberatung/einzel_system/).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -122,41 +122,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
+* [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
+* [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking/)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
+* [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologische-beratung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologische-beratung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologische-beratung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
+* [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologische-beratung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}

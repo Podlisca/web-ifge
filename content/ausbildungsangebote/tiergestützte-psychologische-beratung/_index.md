@@ -54,7 +54,7 @@ Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für [
 
 Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](/about/institut/) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
 
-Am IFGE trainieren Sie tiergestützte Interventionen mit den jahrelang ausgebildeten [Hunden Pluto & Sally](/psychologischeberatung/tiergestuetzteberatung/). So können Sie das Erlernte praxisnah mit ihren eigenen Tieren in der freien Praxis umsetzen.
+Am IFGE trainieren Sie tiergestützte Interventionen mit den jahrelang ausgebildeten [Hunden Pluto & Sally](/psychologische-beratung/tiergestuetzteberatung/). So können Sie das Erlernte praxisnah mit ihren eigenen Tieren in der freien Praxis umsetzen.
 
 {{% /small %}}
 {{% /box %}}

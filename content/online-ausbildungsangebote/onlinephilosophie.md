@@ -70,7 +70,7 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
 * [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
-* [Umgang mit sexueller Belästigung & Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
+* [Umgang mit sexueller Belästigung & Stalking](/psychologische-beratung/spezialisierungen/stalking.html)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
 * [Psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming.html)

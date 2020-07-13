@@ -17,7 +17,7 @@ og_image: "/img/sexualberatung_noe.jpg"
 
 {{< iconmenu >}}
 {{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" link="../einzelberatung" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="../einzel_system" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="../systemische-einzelberatung" >}}
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="../tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" link="../paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" link="../berufsbild" >}}
@@ -31,13 +31,13 @@ Und mit einem Mal ist alles anders. Nichts ist mehr so, wie es vorher war. Plöt
 
 {{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}}
 
-Eine Krise kommt entweder plötzlich und völlig unerwartet auf uns zu – etwa durch Schicksalsschläge, wie den [Tod einer nahestehenden Person](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/), den Verlust des eigenen zu Hauses, die unerwartet ausgesprochene Kündigung oder tiefgreifende Erlebnisse wie Unfälle oder Übergriffe – oder aber sie schleicht sich langsam durch Dauerbelastungen in unseren Alltag ein, ohne dass wir sie kommen sehen bzw. wahrhaben wollten. 
+Eine Krise kommt entweder plötzlich und völlig unerwartet auf uns zu – etwa durch Schicksalsschläge, wie den [Tod einer nahestehenden Person](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/), den Verlust des eigenen zu Hauses, die unerwartet ausgesprochene Kündigung oder tiefgreifende Erlebnisse wie Unfälle oder Übergriffe – oder aber sie schleicht sich langsam durch Dauerbelastungen in unseren Alltag ein, ohne dass wir sie kommen sehen bzw. wahrhaben wollten. 
 
-Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologischeberatung/spezialisierungen/suchtberatung/) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
+Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologische-beratung/spezialisierungen/suchtberatung/) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
 
-Gerade in diesen selbst ausgelösten Krisen empfinden Klient\*innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](/psychologischeberatung/einzelberatung/) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die KlientInnen nun hilfreich sein kann. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
+Gerade in diesen selbst ausgelösten Krisen empfinden Klient\*innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](/psychologische-beratung/einzelberatung/) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die KlientInnen nun hilfreich sein kann. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
 
-Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, das Gefühl der Überforderung zu erleben. Häufig geht diese Überforderung mit Emotionen wie Angst, Verzweiflung und Not einher. Eine Krise kann also dazu führen, dass wir uns ängstlich, panisch und völlig ohnmächtig fühlen. In vielen Fällen sorgen diese Gefühle dafür, dass Menschen erstarren und sich der Situation absolut ausgeliefert fühlen. [Psychologische Beratung](/psychologischeberatung/einzelberatung/) hilft dabei, in diesen ausweglos scheinenden Situationen wieder handlungsfähig zu werden und persönliche Krisen meistern zu können.
+Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, das Gefühl der Überforderung zu erleben. Häufig geht diese Überforderung mit Emotionen wie Angst, Verzweiflung und Not einher. Eine Krise kann also dazu führen, dass wir uns ängstlich, panisch und völlig ohnmächtig fühlen. In vielen Fällen sorgen diese Gefühle dafür, dass Menschen erstarren und sich der Situation absolut ausgeliefert fühlen. [Psychologische Beratung](/psychologische-beratung/einzelberatung/) hilft dabei, in diesen ausweglos scheinenden Situationen wieder handlungsfähig zu werden und persönliche Krisen meistern zu können.
 
 {{< image src="/img/beratung_krise_bgld.jpg" float="right" title="Bildbeschreibung" >}}
 
@@ -73,7 +73,7 @@ Ich begleite meine Klient\*innen schon langjährig u.a. im Falle von Krisen und 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologischeberatung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologischeberatung/einzel_system/).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -87,41 +87,41 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung/)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung/)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout/)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung/)
+* [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung/)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter/)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare/)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion/)
+* [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung/)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking/)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung/)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer/)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt/)
+* [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologische-beratung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologische-beratung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologische-beratung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer/)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken/)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht/)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid/)
+* [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologische-beratung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}

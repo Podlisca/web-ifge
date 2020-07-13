@@ -60,7 +60,7 @@ Ungelöstes im Herkunftssystem reicht oftmals sehr stark in unser Gegenwartssyst
 
 {{< image src="/img/system_zettel1_bgld.jpg" float="left" >}}
 
-Familienstellen hat nicht nur den [Einzelnen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system/), sondern das gesamte Familiensystem im Blick und ermöglicht dadurch ganz neue Einblicke sowie Lösungen und kann bei Themen helfen, bei denen man schon lange nach einer positiven Veränderung sucht.
+Familienstellen hat nicht nur den [Einzelnen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/), sondern das gesamte Familiensystem im Blick und ermöglicht dadurch ganz neue Einblicke sowie Lösungen und kann bei Themen helfen, bei denen man schon lange nach einer positiven Veränderung sucht.
 
 {{< green >}}Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können Lösungen beginnen.{{< /green >}}
 
@@ -83,6 +83,6 @@ Dank unserer jahrelangen Erfahrung in der [systemischen Aufstellungsarbeit](/gru
 
 {{% box blue=1 %}}
 {{% small  %}}
-In unserer sehr praxisnahen Ausbildung zur Aufstellungsleitung erhalten Sie neue Einsichten und Einblicke, lernen Verstrickungen zu erkennen und wie Sie Aufstellungen professionell sowie für Ihre Kund\*innen dienlich leiten. Gleichzeitig bietet Ihnen unsere Fortbildung auch für Ihre [Einzelgespräche](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system/) unschätzbaren Mehrwert, da Sie am IFGE ebenso lernen werden, wie Sie dank der Arbeit im inneren Bild, mit Zetteln und vor allem auf dem [SystemDimensionsBrett®]((/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemdimensionsbrett/)) die Dynamiken und Interventionsmöglichkeiten einer klassischen Familienaufstellung auch in der Einzelarbeit einsetzen können. Dadurch verfügen Sie in Zukunft über ein breites systemisches Methodenspektrum, mit dem Sie Ihre Klient\*innen optimal begleiten und unterstützen können.
+In unserer sehr praxisnahen Ausbildung zur Aufstellungsleitung erhalten Sie neue Einsichten und Einblicke, lernen Verstrickungen zu erkennen und wie Sie Aufstellungen professionell sowie für Ihre Kund\*innen dienlich leiten. Gleichzeitig bietet Ihnen unsere Fortbildung auch für Ihre [Einzelgespräche](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/) unschätzbaren Mehrwert, da Sie am IFGE ebenso lernen werden, wie Sie dank der Arbeit im inneren Bild, mit Zetteln und vor allem auf dem [SystemDimensionsBrett®]((/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemdimensionsbrett/)) die Dynamiken und Interventionsmöglichkeiten einer klassischen Familienaufstellung auch in der Einzelarbeit einsetzen können. Dadurch verfügen Sie in Zukunft über ein breites systemisches Methodenspektrum, mit dem Sie Ihre Klient\*innen optimal begleiten und unterstützen können.
 {{% /small  %}}
 {{% /box %}}

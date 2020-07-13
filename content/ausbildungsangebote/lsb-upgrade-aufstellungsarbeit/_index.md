@@ -24,7 +24,7 @@ rich_kurs: true
 
 {{< image src="/img/aufstellung_noe1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system/) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung/))
+Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung/))
 
 Dadurch sind Sie für Ihre Kund\*innen einfach zu finden und zeigen Ihren Klient\*innen gleichermaßen, dass Sie vertrauenswürdige und fachlich kompetente Expertise in der Aufstellungsarbeit vorweisen können. In dieser Ausbildung geht es vor allem darum, einen Einblick in die systemische Denk- und Sichtweise zu erhalten.
 

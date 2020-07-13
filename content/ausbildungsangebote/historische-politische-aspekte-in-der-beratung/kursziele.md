@@ -17,7 +17,7 @@ weight: 1
 
 {{< image src="/img/politik.jpg" float="left">}}
 
-Das Seminar "Auf den Spuren der Vergangenheit – die Gegenwart verstehen" vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der [psychologischen Beratung](/psychologischeberatung/einzelberatung/). Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen. 
+Das Seminar "Auf den Spuren der Vergangenheit – die Gegenwart verstehen" vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der [psychologischen Beratung](/psychologische-beratung/einzelberatung/). Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen. 
 
 Erst durch das Verstehen der Hintergründe und ihrer Zusammenhänge wird das Nachvollziehen bestimmter Handlungen möglich. Beobachtungen haben immer wieder gezeigt, wie fehlendes Wissen über historische, politische und gesellschaftliche Zusammenhänge [erfolgreiche Aufstellungen](/gruppenselbsterfahrung/familienaufstellung/) verhindert.
 
