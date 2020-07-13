@@ -9,7 +9,7 @@ description: "Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Phil
 og_title: "Philosophie: Online Schulungen und Trainings"
 og_image: "/img/philosophie_online.jpg"
 aliases: 
-    - "/online-ausbildungsangebote/index/"
+    - "/online-ausbildungsangebote/index.html"
 ---
 
 # Philosophie: Online Schulungen & Trainings 
@@ -69,15 +69,15 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 {{< small >}}
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
-* [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung/)
-* [Umgang mit sexueller Belästigung & Stalking](/psychologischeberatung/spezialisierungen/stalking/)
-* [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik/)
-* [Psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching/)
-* [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming/)
-* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz/)
-* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/fitandsafe/)
-* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau/)
-* [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau/)
+* [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung.html)
+* [Umgang mit sexueller Belästigung & Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
+* [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik.html)
+* [Psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching.html)
+* [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming.html)
+* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz.html)
+* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/fitandsafe.html)
+* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau.html)
+* [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau.html)
 {{< /small >}}
 {{< /box >}}
 

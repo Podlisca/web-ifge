@@ -10,7 +10,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
 og_image:  "/img/silvia_noe.jpg"
 aliases: 
-    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/index/"
+    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html"
 rich_kurs: true
 ---
 

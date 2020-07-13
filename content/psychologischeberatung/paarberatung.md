@@ -10,7 +10,7 @@ description: "Als professionelle Paarberaterin unterstütze ich Sie dabei, als P
 og_title: "Paarberatung am IFGE"
 og_image: "/img/paarberatung_wien.jpg"
 aliases:
-    - "/psychologische-beratung/paarberatung/index/"
+    - "/psychologische-beratung/paarberatung.html"
 ---
 
 # Paarberatung am IFGE
