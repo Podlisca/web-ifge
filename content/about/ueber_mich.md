@@ -47,67 +47,57 @@ Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansat
 
 {{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Bildbeschreibung" >}}
 
-Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie/) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
+Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie.html) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen. Dabei gilt zu beachten, dass meine Arbeit keine psychotherapeutische ist und keine medizinische Behandlung ersetzt.
 
+{{< line icon="icon/lebenslauf.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
-Dabei gilt zu beachten, dass meine Arbeit keine psychotherapeutische ist und keine medizinische Behandlung ersetzt.
 
-Ein besonders großes Anliegen ist mir meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig besuchte ich einen ein­jährigen Kurs an der Volkshochschule für Pädagogik und Psychologie.
+Ein besonders großes Anliegen war und ist mir immer meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung, widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig legte ich an der Volkshochschule Wien die Berufsreifeprüfung ab.
 
-Es folgten Seminare in Energiearbeit, viele davon bei Martin Wagner. Durch meine persönlichen Erfahrungen legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) nach Bert Hellinger. Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die Ausbildungen zur Dipl. Lebens- und Sozialberaterin, Sexualberaterin sowie Supervisorin.
+Es folgten Seminare im komplementär-medizinischen, psychosomatischen Bereich. Durch meine persönlichen Erfahrungen, legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) nach Bert Hellinger, am ehemaligen Bert Hellinger Institut. 
+Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die [Ausbildungen zur Dipl. Lebens- und Sozialberaterin](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html), [Sexualberaterin](https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualberatung.html) sowie [Supervisorin](https://www.ifge.at/supervision/philosophie.html). 
+
+Die Entscheidung für die Lebens- und Sozialberatung – psychologische Beratung, und gegen die Psychotherapie, war eine reiflich sehr bewusste Entscheidung, da mir der Zugang der Gesundheitserhaltung – frei von jeder Diagnose – sehr entgegenkommt. Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist ok", am deutlichsten. Mir ist natürlich bewusst, dass die Lebensberatung – psychologische Beratung ihre Grenzen hat, weshalb ich, bei Bedarf, mit anderen Experten zusammenarbeite. 
+
+Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologischeberatung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologischeberatung/spezialisierungen/krisenberatung.html). Nach wie vor ist die ständige Weiterbildung eine Selbstverständlichkeit für mich. 
+<br/>
+<br/>
+Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt, und dass jeder Mensch völlig individuell, seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung bei meinen Klient\*innen begleite ich mit viel Freude und Engagement und ich freue mich über jeden Erfolg meiner Klienten\*innen. 
+
 {{% /small  %}}
 {{% /box %}}
 
 {{% /floatbox %}}
 
- {{< line icon="icon/lebenslauf.png" >}}
- #### MEINE AUSBILDUNGEN / FORTBILDUNGEN
-
-* Beratung/Therapie bei sexuellen Paarproblemen (Dipl.Psych.in Garbriele Frohme,2019)
-* Gruppen in Therapie und Beratung (Dr. Gunther Schmidt; 2018)
-* seit 2018 bis dato: regelmäßiges, individuelles Einzellerntraining in Hypnosystemik (Dr. Vera Popper) 
-* Eintragung in die WKO Expertenliste für Aufstellungsarbeit (2018)
-* Lehrgangsverantwortliche  für Aufstellungsarbeit (Lehrgangsnummer: RA-LSB FL-AU 002.0/2018)
-* Soziale und innere Konflikte als Chance – Hypnosystemische Utilisation (Dr. Gunther Schmidt; 2017) 
-* Lehrgangsverantwortliche  für Supervision (Lehrgangsnummer: RA-Lsb FL-SU 032.0/2016 )
-* Erste Hilfe am Hund (2015) / erste Hilfe bei der Katze (2017)
-* Krankheiten (Schwerpunkt Zoonosen) & rechtliche Grundlagen des Tierschutzgesetzes und Tierhalteverordnungen (2014)
-* Lehrgangsverantwortliche f. Diplomlehrgang Lebensberatung (Lehrgangsnummer: ZA-LSB 233.1/2012)
-* Ausbildung zur Supervisorin (pro mente, 2010)
-* Touch for Health Instructor (2009)
-* Upgrading: Sexualberaterin (pro mente, 2009)
-* KlangschalenPractitioner-IFGE® (2009)
-* Lebens- und Sozialberatung - psychologische Beratung (pro mente, 2007)
-* Systemische Familienaufstellungen (ehemaliges Bert Hellinger Institut, 2004)
-* Kinesiologie: Three in One (2002)
-* Lehrseminare für Klangschalenmassage (seit 2001)
-* Kinesiologie: Touch for Health (2001)
-* Bachblüten und Australische Buschblüten (seit 2001)
-* Arbeit mit Klangschalen (seit 1999)
-* Diverse Ausbildungen in Energiearbeit (seit 1998)
-* Geprüfte Lehrlingsausbildnerin (1994)
-* Geprüfte Zoofachhändlerin (1994)
 
   {{< line icon="icon/zertifikat.png" >}}
-
+ #### Eigetragene Expertin
+***
+<br/>
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/impulspro.jpg" >}}
+ #### psychologische Beraterin
+{{< image src="/img/impulspro.jpg">}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](https://www.ifge.at/psychologischeberatung/einzelberatung.html). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und [Befugnis als Lebensberater*in - psychologische Berater\*in]().
 {{% /small  %}}
 {{% small  %}}
+ #### Aufstellungsleiterin
+<br/>
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Aufstellungsleiter\*in](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung.html).
 {{% /small  %}}
 {{% small  %}}
+#### Supervisorin
+<br/>
 {{< image src="/img/supervision.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Supervisor\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Supervisor\*in](https://www.ifge.at/supervision/philosophie.html).
 {{% /small  %}}
 {{% small  %}}
+#### Tiergestützte Beratung
 {{< image src="/img/berufsverband.jpg" >}}
 
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
