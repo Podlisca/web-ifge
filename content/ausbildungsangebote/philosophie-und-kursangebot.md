@@ -11,6 +11,7 @@ description: "Es ist mir ein persönliches Anliegen, dass meine Schülerinnen un
 og_title: "Ausbildungsphilosophie am IFGE"
 aliases:
     - "/ausbildungsangebote/philosophie-und-kursangebot.html"
+    - "/ausbildungsangebote/index.html"
 ---
 
 # Ausbildungsphilosophie am IFGE 
