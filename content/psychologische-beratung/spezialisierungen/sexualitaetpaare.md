@@ -80,7 +80,7 @@ Die Geschmeidigkeit der Institutskatzen und ihrer Bewegungen, ihr genüssliches 
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung/)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 

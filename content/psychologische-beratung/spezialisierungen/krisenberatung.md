@@ -63,7 +63,7 @@ Ich begleite meine Klient\*innen schon langjährig u.a. im Falle von Krisen und 
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung/)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 

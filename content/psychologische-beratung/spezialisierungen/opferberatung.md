@@ -65,7 +65,7 @@ Und egal, als wie schlimm oder nicht schlimm Sie Ihre Erfahrung für sich bewert
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung/)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 

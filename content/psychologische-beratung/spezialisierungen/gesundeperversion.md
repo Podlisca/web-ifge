@@ -76,7 +76,7 @@ Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst,
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung/)
+## [Einzelselbsterfahrung mit Silvia Podlisca](https://www.ifge.at/psychologische-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 
