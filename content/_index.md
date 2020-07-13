@@ -17,7 +17,7 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebensberatung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
 
-In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/philosophie-und-kursangebot/) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
+In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
 Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für [mich](/about/ueber_mich/) – und [mein Team](/about/team/) – immer an erster Stelle. An allen drei Standorten in **Wien**, im **Burgenland** und in **Niederösterreich**! 
 
@@ -31,13 +31,13 @@ Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangssta
 {{% box blue=1 more=1 %}}
 
 
-{{< card-more link="/ausbildungsangebote/philosophie-und-kursangebot/" icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
+{{< card-more link="/ausbildungsangebote/" icon="icon/ausbildungsangebote.png" title="Ausbildungsangebote">}}
 
 Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
 
 Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung. 
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/ausbildungsangebote/philosophie-und-kursangebot/)
+[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/ausbildungsangebote/)
 {{% /card-more %}}
 
 
@@ -84,7 +84,7 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 #### Qualitätsausbildungen
 
 **Wien – Burgenland – Niederösterreich:** 
-Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen **WKO zertifizierten [Diplomlehrgänge zur Lebens- und Sozialberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/)**, die einmal wöchentlich berufsbegleitend stattfinden. Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie [Supervision](ausbildungsangebote/lsb-upgrade-supervisionslehrgang/) und [Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/)) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert\*innen- und [Referent\*innen-Team](/about/referenten-lsb/) verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. [Weitere Infos](/ausbildungsangebote/philosophie-und-kursangebot/)
+Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen **WKO zertifizierten [Diplomlehrgänge zur Lebens- und Sozialberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/)**, die einmal wöchentlich berufsbegleitend stattfinden. Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie [Supervision](ausbildungsangebote/lsb-upgrade-supervisionslehrgang/) und [Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/)) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert\*innen- und [Referent\*innen-Team](/about/referenten-lsb/) verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. [Weitere Infos](/ausbildungsangebote/)
 
 {{% /small  %}}
 
@@ -100,7 +100,7 @@ Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung
 {{< image src="/img/bildungsphilo_noe.jpg" title="Am IFGE wird Ihnen, ab dem ersten Seminartag, die Rolle der psychologischen Beraterin des psychologischen Beraters nähergebracht. Schritt für Schritt wachsen Sie – durch theoretische Inputs und viel Üben in die neue Rolle hinein. Das gibt Ihnen die Sicherheit, damit Sie später mit Fachwissen und vielen praktischen Tools ausgestattet, in die Praxis starten können." >}}
 
 #### Bildungsphilosophie 
-Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb/), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](/ausbildungsangebote/philosophie-und-kursangebot/). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
+Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb/), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](/ausbildungsangebote/). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
 {{% /small  %}}
 {{% /box %}}
 
