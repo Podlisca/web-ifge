@@ -14,7 +14,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_info_noe3.jpg" float="left">}} 
+{{< image src="/img/lsb_info_noe3.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
 
 Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
 
@@ -42,7 +42,7 @@ Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung 
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_info_noe.jpg" float="right">}}
+{{< image src="/img/lsb_info_noe.jpg" title="Die Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in umfasst zwei wesentliche Säulen. Einerseits der Diplomlehrgang mit den gesetzlich vorgeschriebenen Lehrinhalten und das Praktikum für die selbstständige Arbeit in der freien Praxis. Silvia Podlisca nimmt sich viel Zeit, um alle Fragen diesbezüglich zu beantworten. Ebenso gibt Frau Silvia Podlisca einen guten Einblick in das Berufsbild der Lebensberatung- psychologischen Beratung."float="right">}}
 
 Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb.html) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html), [Krisenintervention](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/krisenberatung.html) und [Sexualberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualberatung.html), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
 
