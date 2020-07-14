@@ -1,7 +1,6 @@
 baseURL = "/"
 title = "IFGE"
 author = "Leichtware GmbH"
-uglyurls = true
 
 assetDir = "static"
 

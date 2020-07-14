@@ -9,6 +9,8 @@ weight: 1
 description: "Durch meine umfassenden Ausbildungen in der Lebensberatung - psychologischen Beratung in unterschiedlichen Fachrichtungen sowie Schulungen in komplementär-medizinischen, psychosomatischen Bereich, ist es mir möglich - individuell und ganzheitlich - auf jeden Klienten und jede Klientin einzugehen."
 og_title: "Silvia Podlisca - Institutsleiterin"
 og_image: "/img/silvia_noe3.jpg"
+aliases:
+  - "/über-mich/index.html"
 ---
 
 # Silvia Podlisca - Institutsleiterin
@@ -34,7 +36,7 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 
 {{% box blue=1 %}}
 {{% large %}}
-Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](/supervision/einzelsupervision.html) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
+Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/psychologische-beratung/einzelberatung/), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](/supervision/einzelsupervision/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
 {{% /large %}}
 {{% small %}}
   {{< image src="/img/ziel_selbsthilfe.jpg" title="Bildbeschreibung" >}}
@@ -56,11 +58,11 @@ Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/phil
 Ein besonders großes Anliegen war und ist mir immer meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung, widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig legte ich an der Volkshochschule Wien die Berufsreifeprüfung ab.
 
 Es folgten Seminare im komplementär-medizinischen, psychosomatischen Bereich. Durch meine persönlichen Erfahrungen, legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) nach Bert Hellinger, am ehemaligen Bert Hellinger Institut. 
-Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die [Ausbildungen zur Dipl. Lebens- und Sozialberaterin](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html), [Sexualberaterin](https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualberatung.html) sowie [Supervisorin](https://www.ifge.at/supervision/philosophie.html). 
+Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die [Ausbildungen zur Dipl. Lebens- und Sozialberaterin](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html), [Sexualberaterin](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung.html) sowie [Supervisorin](https://www.ifge.at/supervision/philosophie.html). 
 
 Die Entscheidung für die Lebens- und Sozialberatung – psychologische Beratung, und gegen die Psychotherapie, war eine reiflich sehr bewusste Entscheidung, da mir der Zugang der Gesundheitserhaltung – frei von jeder Diagnose – sehr entgegenkommt. Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist ok", am deutlichsten. Mir ist natürlich bewusst, dass die Lebensberatung – psychologische Beratung ihre Grenzen hat, weshalb ich, bei Bedarf, mit anderen Experten zusammenarbeite. 
 
-Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologischeberatung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologischeberatung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologischeberatung/spezialisierungen/krisenberatung.html). Nach wie vor ist die ständige Weiterbildung eine Selbstverständlichkeit für mich. 
+Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologische-beratung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung.html). Nach wie vor ist die ständige Weiterbildung eine Selbstverständlichkeit für mich. 
 <br/>
 <br/>
 Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt, und dass jeder Mensch völlig individuell, seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung bei meinen Klient\*innen begleite ich mit viel Freude und Engagement und ich freue mich über jeden Erfolg meiner Klienten\*innen. 
@@ -80,7 +82,7 @@ Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es n
  #### psychologische Beraterin
 {{< image src="/img/impulspro.jpg">}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](https://www.ifge.at/psychologischeberatung/einzelberatung.html). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und [Befugnis als Lebensberater*in - psychologische Berater\*in]().
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologischen Berater\*in](https://www.ifge.at/psychologische-beratung/einzelberatung.html). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und [Befugnis als Lebensberater*in - psychologische Berater\*in]().
 {{% /small  %}}
 {{% small  %}}
  #### Aufstellungsleiterin

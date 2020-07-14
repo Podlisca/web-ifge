@@ -18,7 +18,7 @@ og_image: "/img/sex_frust.jpg"
 
 {{< iconmenu >}}
 {{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" link="../einzelberatung" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="../einzel_system" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="../systemische-einzelberatung" >}}
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="../tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" link="../paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" link="../berufsbild" >}}
@@ -56,9 +56,9 @@ Menschen im fortgeschrittenen Alter kommen häufig mit folgenden Anliegen zu mir
 * Einschränkung des sexuellen Lustempfindens durch (chronische) Krankheiten
 * Unterschiedliche sexuelle Wünsche in der Partnerschaft
 
-Nutzen Sie die [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychologische Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
+Nutzen Sie die [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychologische Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
 
-Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut.html)
+Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut/)
 
 {{% /floatbox %}}
 
@@ -67,7 +67,7 @@ Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut.html)
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzelberatung.html)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 
@@ -75,9 +75,9 @@ Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut.html)
 {{% small %}}
 {{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung.html) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine.html) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung.html) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich.html).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologischeberatung/einzelberatung.html) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologischeberatung/einzel_system.html).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -90,42 +90,42 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 #### Krise/Sucht/Burn-Out
 {{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologischeberatung/spezialisierungen/krisenberatung.html)
-* [Suchtberatung](/psychologischeberatung/spezialisierungen/suchtberatung.html)
-* [Burn-out Beratung](/psychologischeberatung/spezialisierungen/burnout.html)
-* [Trauerbewältigung](/psychologischeberatung/spezialisierungen/trauerbewaeltigung.html)
+* [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
 {{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologischeberatung/spezialisierungen/sexualberatung.html)
-* [Sexualität und Alter](/psychologischeberatung/spezialisierungen/sexualitaetalter.html)
-* [Sexualberatung für Paare](/psychologischeberatung/spezialisierungen/sexualitaetpaare.html)
-* [Gleichgeschlechtliche Liebe](/psychologischeberatung/spezialisierungen/gleichgeschlechtlich.html)
-* [Gesunder Perversion](/psychologischeberatung/spezialisierungen/gesundeperversion.html)
+* [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
 {{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologischeberatung/spezialisierungen/taeterberatung.html)
-* [Stalking](/psychologischeberatung/spezialisierungen/stalking.html)
-* [Opferberatung](/psychologischeberatung/spezialisierungen/opferberatung.html)
-* [Männliche Opfer](/psychologischeberatung/spezialisierungen/maennlicheopfer.html)
-* [Häusliche Gewalt](/psychologischeberatung/spezialisierungen/haeuslichegewalt.html)
+* [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologische-beratung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologische-beratung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologische-beratung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
 {{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologischeberatung/spezialisierungen/angehoerigetaeteropfer.html)
-* [Angehörige von Kranken](/psychologischeberatung/spezialisierungen/angehoerigekranken.html)
-* [Angehörige von Süchtigen](/psychologischeberatung/spezialisierungen/angehoerigesucht.html)
-* [Suizid in der Familie](/psychologischeberatung/spezialisierungen/suizid.html)
+* [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologische-beratung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
 

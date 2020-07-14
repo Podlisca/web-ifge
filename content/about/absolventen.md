@@ -6,7 +6,8 @@ menu:
         identifier: absolventen
 draft: false
 weight: 5
-aliases: "/absolvent-innen-des-ifge/index.html"
+aliases: 
+    - "/absolvent-innen-des-ifge/index.html"
 ---
 
 # Absolvent\*innen des IFGE
@@ -15,7 +16,7 @@ aliases: "/absolvent-innen-des-ifge/index.html"
 
 {{< line icon="icon/absolvent.png" >}}
 
-Seit dem Beginn des ersten Lehrganges im Jahr 2012 hat mittlerweile eine Vielzahl an Schüler\*innen die Ausbildung zum/zur [Dipl. Lebens- und Sozialberater\*in – psychologischen Berater\*in](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) mit Erfolg abgeschlossen.
+Seit dem Beginn des ersten Lehrganges im Jahr 2012 hat mittlerweile eine Vielzahl an Schüler\*innen die Ausbildung zum/zur [Dipl. Lebens- und Sozialberater\*in – psychologischen Berater\*in](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) mit Erfolg abgeschlossen.
 
 Als Institutsleiterin freue ich mich persönlich über jeden einzelnen Absolventen und jede einzelne Absolventin, der bzw. die ihre eigene Praxis erfolgreich eröffnet.Dass am IFGE besonders viele Diplomierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen den Schritt in die Selbstständigkeit wagen, liegt der Erfahrung nach nicht nur an dem fachlich hohen Niveau und der besonderen Praxisorientierung am IFGE, sondern vor allem an der tatkräftigen Unterstützung, die wir jedem einzelnen Schüler und jeder einzelnen Schülerin auf dem Weg zur eigenen Praxis zuteilwerden lassen.
 

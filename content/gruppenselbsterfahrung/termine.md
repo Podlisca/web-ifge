@@ -24,7 +24,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samsta
 
 **Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise.html)
+Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise/)
 
 {{% /small  %}}
 {{% /box %}}

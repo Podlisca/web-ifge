@@ -21,7 +21,7 @@ rich_kurs: true
 
 {{< image src="/img/upgrade_supi_wien.jpg" float="left " >}}
 
-Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
+Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
 
 Dies erfordert neben einer aufrechten Gewerbeberechtigung den Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung). 
 
@@ -51,7 +51,7 @@ WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
 
 ## WAS BEDEUTET SUPERVISION?
 
-Im Rahmen der Supervision geht es nicht um die [Selbsterfahrung](/gruppenselbsterfahrung/philosophie.html) der Supervisanden, sondern um deren Unterstützung als angehende Lebens- und Sozialberater*innen. [Supervision](/supervision/philosophie.html) wird sowohl von Einzelpersonen als auch Teams und Gruppen genützt, um Methoden sowie Handlungsmöglichkeiten im beruflichen Kontext zu reflektieren, um im Anschluss Klient\*innen professioneller beraten zu können.
+Im Rahmen der Supervision geht es nicht um die [Selbsterfahrung](/gruppenselbsterfahrung/philosophie/) der Supervisanden, sondern um deren Unterstützung als angehende Lebens- und Sozialberater*innen. [Supervision](/supervision/philosophie/) wird sowohl von Einzelpersonen als auch Teams und Gruppen genützt, um Methoden sowie Handlungsmöglichkeiten im beruflichen Kontext zu reflektieren, um im Anschluss Klient\*innen professioneller beraten zu können.
 
 Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderungen, um einen konstruktiven Umgang mit Problemen zu ermöglichen sowie positive Veränderungsprozesse einzuleiten. Durch gezielte Fragen des/r Supervisor*in und die externe Sichtweise werden neue Denkansätze und alternative Lösungen möglich.
 
@@ -59,19 +59,19 @@ Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderu
 
 {{% box top-align=1 %}}
 {{% small %}}
-#### [Einzelsupervision](/supervision/einzelsupervision.html)
+#### [Einzelsupervision](/supervision/einzelsupervision/)
 {{< image src="/img/einzelsupervision.jpg" >}}
 
 {{% /small  %}}
 
 {{% small  %}}
-#### [Teamsupervision](/supervision/teamsupervision.html)
+#### [Teamsupervision](/supervision/teamsupervision/)
 {{< image src="/img/teamsupervision.jpg" >}}
 
 {{% /small  %}}
 
 {{% small  %}}
-#### [Gruppensupervision](/supervision/geschlossenegruppe.html)
+#### [Gruppensupervision](/supervision/geschlossenegruppe/)
 {{< image src="/img/gruppensupervision.jpg" >}}
 
 {{% /small  %}}

@@ -10,7 +10,7 @@ description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrg
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
 og_image:  "/img/silvia_noe.jpg"
 aliases: 
-    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/index.html"
+    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html"
 rich_kurs: true
 ---
 
@@ -29,7 +29,7 @@ Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit 
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen - psychologische Berater\*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Am [IFGE](/about/institut.html) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
+Am [IFGE](/about/institut/) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
 
 **Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung**
 

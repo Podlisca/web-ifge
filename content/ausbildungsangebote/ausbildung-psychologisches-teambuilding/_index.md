@@ -23,7 +23,7 @@ rich_kurs: true
 
 **Methodenschwerpunkt:** viele Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
 
-Sie möchten als [Lebens- und Sozialberater\*innen – psychologische Berater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder Trainer\*in erweitern? Die facettenreiche Arbeit mit [Gruppen](https://www.ifge.at) bereitet Ihnen Freude, doch bei so mancher Team-Dynamik geraten auch Sie noch an Ihre Grenzen?
+Sie möchten als [Lebens- und Sozialberater\*innen – psychologische Berater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder Trainer\*in erweitern? Die facettenreiche Arbeit mit [Gruppen](https://www.ifge.at) bereitet Ihnen Freude, doch bei so mancher Team-Dynamik geraten auch Sie noch an Ihre Grenzen?
 
 Dann ist unsere vielseitige, nachhaltige und vor allem praxisorientierte Fortbildung für psychologisches Teambuilding möglicherweise genau das Richtige für Sie. Denn in dieser Zusatzausbildung geht es um sehr viel mehr als um das reine Kennenlernen diverser „Teamspielchen“.
 
