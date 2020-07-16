@@ -8,7 +8,7 @@ draft: false
 weight: 1
 description: "Durch meine umfassenden Ausbildungen in der Lebensberatung - psychologischen Beratung in unterschiedlichen Fachrichtungen sowie Schulungen in komplementär-medizinischen, psychosomatischen Bereich, ist es mir möglich - individuell und ganzheitlich - auf jeden Klienten und jede Klientin einzugehen."
 og_title: "Silvia Podlisca - Institutsleiterin"
-og_image: "/img/silvia_noe3.jpg"
+og_image: "/img/ueber_mich_hoch.jpg"
 aliases:
   - "/über-mich/index.html"
 ---
@@ -22,13 +22,11 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_noe3.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/ueber_mich_hoch.jpg" float="left" title="Bildbeschreibung" format="hoch" >}}
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
 Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden.
-
-<br/>
 
 Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit betrachtet habe. Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“.
 
