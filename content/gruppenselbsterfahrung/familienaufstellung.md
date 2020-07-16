@@ -100,7 +100,7 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-[Fotodokumentation](https://www.ifge.at)
+[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
 **Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
 

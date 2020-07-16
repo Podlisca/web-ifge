@@ -45,7 +45,7 @@ Dazu gehört, dass dieser Zustand mittlerweile gerne als Synonym für stressige 
 
 {{< line icon="icon/burn_out.png" >}}
 
-Bei mir am [IFGE](https://www.ifge.at) biete ich Ihnen die Möglichkeit, sich mit Ihren Risikofaktoren auseinanderzusetzen und ganz individuelle Strategien für ihre psychische Widerstandsfähigkeit (Resilienz) zu entwickelt. Durch wertschätzende Kommunikation, vielfältige Methoden und meine jahrelange Erfahrung im wirtschaftlichen Beratungsbereich gelingt es Ihnen, ganz neue Handlungsoptionen für Sie persönlich zu entdecken, um gesund zu bleiben.
+Bei mir am [IFGE](/about/institut.html) biete ich Ihnen die Möglichkeit, sich mit Ihren Risikofaktoren auseinanderzusetzen und ganz individuelle Strategien für ihre psychische Widerstandsfähigkeit (Resilienz) zu entwickelt. Durch wertschätzende Kommunikation, vielfältige Methoden und meine jahrelange Erfahrung im wirtschaftlichen Beratungsbereich gelingt es Ihnen, ganz neue Handlungsoptionen für Sie persönlich zu entdecken, um gesund zu bleiben.
 
 Die Burn-out-Beratung ist ebenso für Führungskräfte und Teamleiter hilfreich, die auf eine ausgewogene Balance ihres Teams und auf die Gesundheit ihrer Mitarbeiter bewusst achten wollen.
 

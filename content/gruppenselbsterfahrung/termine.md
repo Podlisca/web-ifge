@@ -20,7 +20,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samsta
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-[Fotodokumentation](https://www.ifge.at)
+[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
 **Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
 

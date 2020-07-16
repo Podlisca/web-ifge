@@ -40,12 +40,12 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 **15.11.2020**<br/>
 Sonntag 09:00 bis 18:00 Uhr<br/> 
 Leitung: Silvia Podlisca<br/> 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 
 **20.12.2020**<br/>
 Sonntag 09:00 bis 18:00 Uhr<br/>
 Leitung: Silvia Podlisca<br/>  
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
 {{% small  %}}
@@ -55,12 +55,12 @@ Leitung: Silvia Podlisca<br/>
 **12.09.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
 Leitung: Mag. Carina Szauer<br/> 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 
 **24.10.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
 Leitung: Mag. Carina Szauer<br/> 
-[Anmeldung](https://www.ifge.at)
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
 {{% small  %}}
