@@ -1,7 +1,7 @@
 ---
 title: "Länger leben - aber bitte glücklich!"
 draft: false
-tags: []
+tags: ["Langes", "Leben", "glücklich", "Lebenserwartung"]
 weight: 72
 img: "leben.jpg"
 ---
@@ -27,4 +27,3 @@ Laut Prof. Dr. Robert Waldinger von der Uni Saarbrücken nahm man lange an, dass
 
 Nicht alles, was ein langes Leben beschert, kann kontrolliert werden. Aber Studien, wie die oben beschriebenen, zeigen, dass ein gesunder Lebensstil, Liebe, gute zwischenmenschliche Beziehungen und lebenslanges Lernen dazu beitragen können, ein hohes Alter zu erreichen – **Und jetzt nichts wie raus und das Leben genießen!**
 
-Tags: Langes, Leben, glücklich, Lebenserwartung
