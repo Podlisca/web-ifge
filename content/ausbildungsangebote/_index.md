@@ -24,7 +24,7 @@ aliases:
 {{% box top-align=1 %}}
 {{% small  %}}
 {{< image src="/img/silvia_noe_blaue_bank.jpg">}}
-{{< image src="/img/philo_noe_ausbildung.jpg" >}}
+{{< image src="/img/philo_noe_ausbildung.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
 {{% /small  %}}
 {{% large %}}
 

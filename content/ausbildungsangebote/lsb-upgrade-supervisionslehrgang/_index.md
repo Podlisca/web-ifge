@@ -19,7 +19,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/upgrade_supi_wien.jpg" float="left " >}}
+{{< image src="/img/upgrade_supi_wien.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
 
 Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
 
@@ -60,19 +60,19 @@ Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderu
 {{% box top-align=1 %}}
 {{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision/)
-{{< image src="/img/einzelsupervision.jpg" >}}
+{{< image src="/img/einzelsupervision.jpg" title="Die Lehrinhalte umfassen: Supervision im Einzelsetting für Lebensberater\*innen - psychologische Berater\*innen. " >}}
 
 {{% /small  %}}
 
 {{% small  %}}
 #### [Teamsupervision](/supervision/teamsupervision/)
-{{< image src="/img/teamsupervision.jpg" >}}
+{{< image src="/img/teamsupervision.jpg" title=" Die Lehrinhalte umfassen: Supervision im Team für Lebensberater\*innen - psychologische Berater\*innen, Institutionen und Teams ">}}
 
 {{% /small  %}}
 
 {{% small  %}}
 #### [Gruppensupervision](/supervision/geschlossenegruppe/)
-{{< image src="/img/gruppensupervision.jpg" >}}
+{{< image src="/img/gruppensupervision.jpg" title=" Die Lehrinhalte umfassen: Supervision in der Gruppe für Lebensberater\*innen - psychologische Berater\*innen.">}}
 
 {{% /small  %}}
 
