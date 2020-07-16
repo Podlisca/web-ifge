@@ -32,9 +32,7 @@ og_image: "/img/noe_einzel.jpg"
 
 Neben sexueller Gewalt ist vor allem der Bereich der „häuslichen Gewalt“ ein Schwerpunkt meiner Beratungspraxis.
 
- 
-
-Wenn aus Ehemännern und Ehefrauen Täter*innen werden, so entsteht eine spezielle Opfer-Täter*innen-Dynamik, die besonders häufig dazu führt, dass sich weder Täter*in noch Opfer zeitgerecht Hilfe holen. 
+Wenn aus Ehemännern und Ehefrauen Täter\*innen werden, so entsteht eine spezielle Opfer-Täter*innen-Dynamik, die besonders häufig dazu führt, dass sich weder Täter\*in noch Opfer zeitgerecht Hilfe holen. 
 
  
 
@@ -42,12 +40,12 @@ Gewalt durch einen Fremden ist eine Erfahrung des Überlebens, durch deren Versc
 
 Opfer von häuslicher Gewalt stehen verschiedensten miteinander verwobenen Problemen gegenüber:
 
-* Oft ist die Liebe zu Täter*innen nach wie vor vorhanden und hindert die Opfer daran, einen Weg zu sehen, aus diesem Gewaltmuster auszusteigen.
+* Oft ist die Liebe zu Täter\*innen nach wie vor vorhanden und hindert die Opfer daran, einen Weg zu sehen, aus diesem Gewaltmuster auszusteigen.
 * Opfer wissen in den meisten Fällen, dass „es wieder passieren“ wird und erleben die völlige Ohnmacht in ihren Beziehungen als Dauerbelastung.
 * Die Angst, dass die eigenen Partner*innen oder der eigene Vater/die eigene Mutter ins Gefängnis muss, verhindert oft, dass Opfer sich Hilfe suchen und sich jemandem anvertrauen.
 * Die empfundene Scham und die Schuldgefühle, an dem Geschehenen in irgendeiner Weise mitverantwortlich sein zu können – und sei es dadurch, nicht gehen zu können –, versperrt den Blick auf Lösungswege.
 * Die Sorge, die Familie zu spalten, führt zur stummen Duldung der Gewalt.
-* Die Liebe zu Täter*innen sorgt dafür, dass Opfer sich nicht einmal mit engsten Vertrauten austauschen wollen, um die Täter*innen zu schützen.
+* Die Liebe zu Täter\*innen sorgt dafür, dass Opfer sich nicht einmal mit engsten Vertrauten austauschen wollen, um die Täter\*innen zu schützen.
 * Die Erfahrung mit oft wenig hilfreichen Aussagen wie „Dann geh’ doch!“, „Das lässt du dir gefallen?“, „Wer es einmal tut, wird es wieder tun.“ kann Opfer häuslicher Gewalt dazu bringen, über ihr Erlebtes gar nicht mehr sprechen zu wollen.
 
 {{< image src="/img/noe_einzel7.jpg" float="right" title="Bildbeschreibung" >}}

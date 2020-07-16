@@ -35,6 +35,7 @@ Es könnte alles so schön sein! Denn Sie lieben sich, sind füreinander da, bew
 {{< image src="/img/sexualberatung_paarberatung_3.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Wenn die Lust aufeinander immer öfter ausbleibt und sie letztlich vielleicht gar kein oder ein nur mehr mit Unbehagen behaftetes Thema ist, finden sich viele Paare damit schlicht ab. 
+
 Wenn Sie stattdessen jedoch aktiv etwas dafür tun möchten, dass Leidenschaft, Intimität, Nähe, Erotik und Sexualität in Ihrer Partnerschaft wieder an Bedeutung gewinnen, können Sie durch professionelle Sexualberatung für Paare wieder das Feuer für einander in sich entzünden. 
 
 Und dies kann durchaus auch Paaren gelingen, die neben ihrer gemeinsamen Liebesbeziehung den täglichen Anforderungen des Elternseins gewachsen sein möchten. Denn prickelnde Erotik, Spannung und Leidenschaft können auch in ganz kurzen Sequenzen des Alltags wieder neu entdeckt und gehegt sowie gepflegt werden.
@@ -55,7 +56,9 @@ dann ist die Sexualberatung für Paare genau das Richtige für Sie.
 
 Im ersten Schritt der Beratung achte ich als Sexualberater\*in darauf, dass Sie gegenseitig Ihre unterschiedlichen Vorstellungen erkennen und dem Lustempfinden des jeweils anderen, welches von Ihrem persönlichen durchaus abweichen kann, das gleiche Recht und die ebenbürtige Gewichtung einräumen können. 
 
-Ein weiterer Teil des Beratungsprozesses beschäftigt sich häufig mit der sogenannten „falschen Rücksichtnahme“. Darunter versteht man den in vielen Partnerschaften bekannten Teufelskreis, der sich aus missverständlichen Annahmen ergeben hat. Dies geschieht oftmals dann, wenn durch ein situativ ausgesprochenes „Nein“ zum Sex – oder auch nur zu sexuellen Handlungen – ein generalisiertes „Nein“ entstanden ist, sprich ein „Nein“ zur Gewohnheit geworden ist. 
+Ein weiterer Teil des Beratungsprozesses beschäftigt sich häufig mit der sogenannten „falschen Rücksichtnahme“. 
+
+Darunter versteht man den in vielen Partnerschaften bekannten Teufelskreis, der sich aus missverständlichen Annahmen ergeben hat. Dies geschieht oftmals dann, wenn durch ein situativ ausgesprochenes „Nein“ zum Sex – oder auch nur zu sexuellen Handlungen – ein generalisiertes „Nein“ entstanden ist, sprich ein „Nein“ zur Gewohnheit geworden ist. 
 
 Häufig entsteht so ein generalisiertes und hemmendes „Nein“ ohne jede böse Absicht durch die zahlreichen kleinen oder auch großen Herausforderungen, die ein Paar im Alltag gemeinsam zu bewältigen hat. Eine solche Situation kann in vielen Partnerschaften durchaus recht rasch ohne Hintergedanken entstehen. Es ist allerdings wichtig, dass Sie dieses Muster erkennen, um einem Machtkampf, der sich dadurch nach und nach einschleichen kann, aktiv entgegen zu wirken.
 

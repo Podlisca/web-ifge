@@ -39,13 +39,9 @@ Oftmals stehen schwere Entscheidungen über die nächsten Schritte an. Häufig w
 
 {{< line icon="icon/angehoerige.png" >}}
 
-{{% box blue=1 %}}
-{{% small %}}
 Nicht nur wenn es um potenziell lebensbedrohliche Krankheiten geht, empfinden Angehörige oft die innere Verpflichtung, besonders stark zu sein, um den Erkrankten Sicherheit, Lebenswillen und unerschütterlichen Optimismus zu vermitteln.
 
 Das Leben ändert sich durch Krankheiten schleichend – oder von heute auf morgen. Krankenhausbesuche müssen in den ohnehin schon vollen Terminkalender integriert werden, besorgte Anrufer werden geduldig beruhigt, für gut gemeinte Ratschläge wird sich zum tausendsten Mal bedankt. Das durch die Krankheit vielleicht nun fehlende Einkommen muss kompensiert, der Haushalt plötzlich allein geführt und Pflegepläne müssen erstellt werden.
-{{% /small %}}
-{{% /box %}}
 
 {{< line icon="icon/angehoerige.png" >}}
 
@@ -58,11 +54,7 @@ Gleichzeitig gilt es, den richtigen Zeitpunkt für schwierige Entscheidungen zu 
 
 {{< line icon="icon/angehoerige.png" >}}
 
-{{% box blue=1 %}}
-{{% small %}}
 All diese Emotionen meinen Angehörige oft, unterdrücken zu müssen, um die Kranken nicht noch weiter zu belasten. Der eigene Schmerz, den die Krankheit des Familienmitglieds in den Angehörigen auslöst, die Traurigkeit darüber, die Kraft der eigenen Eltern langsam schwinden zu sehen, der nahende Verlust, die Wut, der Zorn, die Ohnmacht – dafür bleibt meist keine Zeit. Diese belastende und auf Dauer zermürbende Gefühlswelt wird zugunsten der Kranken oft lange ignoriert, bis den Angehörigen dafür letztlich die Kraft fehlt und der eigene Zusammenbruch sowie ein beginnendes Burn-out im Raum steht. Doch es ist nicht nötig, dass Sie sich an den Rand dieses Abgrundes bewegen.
-{{% /small %}}
-{{% /box %}}
 
 {{< line icon="icon/angehoerige.png" >}}
 

@@ -32,11 +32,13 @@ og_image: "/img/stalking.jpg"
 
 {{< image src="/img/stalking.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Stalking ist ein Wort, das uns leicht über die Lippen kommt. Gerade unter Jugendlichen hört man oft „Den hab ich auf Facebook gestalkt“, wenn sie eigentlich meinen, sich ein öffentliches Profil lediglich schon ein paar Mal angesehen zu haben. „Der stalkt mich“, wird zum genervt ausgesprochenen Synonym, wenn ein lausiger Date-Partner nachfragt, ob es vielleicht noch ein weiteres Treffen gibt.
+Stalking ist ein Wort, das uns leicht über die Lippen kommt. Gerade unter Jugendlichen hört man oft „Den hab ich auf Facebook gestalkt“, wenn sie eigentlich meinen, sich ein öffentliches Profil lediglich schon ein paar Mal angesehen zu haben. 
 
-Und so entsteht – wie in vielen Bereichen unserer Gesellschaft – die Verharmlosung eines Begriffs, der in Wahrheit ein strafrechtlich relevantes Verhalten beschreibt.
+„Der stalkt mich“, wird zum genervt ausgesprochenen Synonym, wenn ein lausiger Date-Partner nachfragt, ob es vielleicht noch ein weiteres Treffen gibt. Und so entsteht – wie in vielen Bereichen unserer Gesellschaft – die Verharmlosung eines Begriffs, der in Wahrheit ein strafrechtlich relevantes Verhalten beschreibt.
 
-Der Begriff „Stalking“ beschreibt eine Konstellation von Handlungsweisen, die durch das wiederholte unerwünschte Eindringen in das Leben einer anderen Person in Form von direktem Kontakt bzw. Kommunikationsverhalten charakterisiert ist. Stalkingverhalten unterscheidet sich nämlich im Gegensatz zu „normalen“ zwischenmenschlichen Interaktionen dadurch, dass es Angst oder Besorgnis beim Opfer auslöst. Stalking-Betroffene fürchten teilweise, körperliche Schäden durch StalkerInnen zu erleiden. Die Angst vor Gewalt ist zentral für das Phänomen Stalking. Allerdings kann nicht jedes Verhalten, das unerwünscht und wiederholt in das Leben eines anderen eindringt, als Stalking bezeichnet werden.    
+Der Begriff „Stalking“ beschreibt eine Konstellation von Handlungsweisen, die durch das wiederholte unerwünschte Eindringen in das Leben einer anderen Person in Form von direktem Kontakt bzw. Kommunikationsverhalten charakterisiert ist. 
+
+Stalkingverhalten unterscheidet sich nämlich im Gegensatz zu „normalen“ zwischenmenschlichen Interaktionen dadurch, dass es Angst oder Besorgnis beim Opfer auslöst. Stalking-Betroffene fürchten teilweise, körperliche Schäden durch StalkerInnen zu erleiden. Die Angst vor Gewalt ist zentral für das Phänomen Stalking. Allerdings kann nicht jedes Verhalten, das unerwünscht und wiederholt in das Leben eines anderen eindringt, als Stalking bezeichnet werden.    
 
 Ist man früher davon ausgegangen, dass Stalking nur berühmte Personen betreffen kann, hat dieses Phänomen – nicht zuletzt durch Social Media – deutlich und erschreckend an Bedeutung gewonnen, und zwar in jeder gesellschaftlichen Schicht.
 
@@ -51,7 +53,7 @@ Prinzipiell teilt man die Täter\*innen in vier verschiedene Gruppen:
 * Typ 3: Wahnhaft fixiertes Stalking  (ca. 15 Prozent der Täter\*innen)
 * Typ 4: Sadistisches Stalking  (ca. zwölf Prozent der Täter\*innen)
 
-Durch die jahrelange Unterrichtstätigkeit im Bereich „Sexuelle Belästigung und Stalking“ sowie meiner beratenden Arbeit mit Täter*innen und Opfern weiß ich, dass sich die ersten beiden Stalking-Typen häufig bereits zu einem gewissen Grad bewusst sind, dass ihr Verhalten unpassend ist und somit durch professionelle, psychologische Beratung in vielen Fällen dabei unterstützt werden können, Stalking in Zukunft ganz zu vermeiden. Wahnhaft fixierte und sadistische Täter*ínnen hingegen gehören ohne Wenn und Aber in ärztliche sowie psychotherapeutische Behandlung    
+Durch die jahrelange Unterrichtstätigkeit im Bereich „Sexuelle Belästigung und Stalking“ sowie meiner beratenden Arbeit mit Täter\*innen und Opfern weiß ich, dass sich die ersten beiden Stalking-Typen häufig bereits zu einem gewissen Grad bewusst sind, dass ihr Verhalten unpassend ist und somit durch professionelle, psychologische Beratung in vielen Fällen dabei unterstützt werden können, Stalking in Zukunft ganz zu vermeiden. Wahnhaft fixierte und sadistische Täter*ínnen hingegen gehören ohne Wenn und Aber in ärztliche sowie psychotherapeutische Behandlung    
 
 Da es sich bei den Täter\*innen-Typen, welche ärztlicher und psychotherapeutischer Behandlung bedürfen, um – wie weiter oben ersichtlich – nur knapp 30 Prozent der Stalkingfälle handelt, zeigt sich deutlich, dass ein Großteil der Stalker\*innen durch psychologische Beratung eine Chance darauf haben, ihr Verhalten in Zukunft wieder passend gestalten zu können. Gerade in der Prävention setzt meine Arbeit bewusst an und richtet sich vor allem an Ex-Beziehungs-Stalker\*innen und jene Stalker\*innen, die oft aufgrund von Verliebtheit ihr Gegenüber belästigen.
 

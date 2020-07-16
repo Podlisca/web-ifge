@@ -34,7 +34,9 @@ og_image: "/img/suizid.jpg"
 
 {{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Selbstmord – ein Wort, das viele von uns erschaudern lässt. Es ist ein sehr diffuses und angstbehaftetes Thema, vor allem dann, wenn man mit depressiven Angehörigen zusammenlebt. Doch auch vielen Eltern bereitet der Gedanke an Suizid besonderes Unbehagen, gerade wenn – so wie in den vergangenen Monaten – Serien unter Teenagern gehyped werden, die sich um Selbsttötung drehen. Gelegentlich hört man dann noch von den pubertierenden Kindern frustrierte Aussagen wie: „So will ich gar nicht mehr leben!“ Und Eltern fragen sich, wie ernst solche Aussprüche zu nehmen sind.<br/>
+Selbstmord – ein Wort, das viele von uns erschaudern lässt. Es ist ein sehr diffuses und angstbehaftetes Thema, vor allem dann, wenn man mit depressiven Angehörigen zusammenlebt. 
+
+Doch auch vielen Eltern bereitet der Gedanke an Suizid besonderes Unbehagen, gerade wenn – so wie in den vergangenen Monaten – Serien unter Teenagern gehyped werden, die sich um Selbsttötung drehen. Gelegentlich hört man dann noch von den pubertierenden Kindern frustrierte Aussagen wie: „So will ich gar nicht mehr leben!“ Und Eltern fragen sich, wie ernst solche Aussprüche zu nehmen sind.<br/>
 
 *Und was, wenn er oder sie sich wirklich umbringt?* <br/>
 *Und was, wenn es wirklich passiert?*
@@ -47,13 +49,23 @@ Wenn ein Selbstmord begangen oder ein Suizidversuch unternommen wurde, ist der S
 
 {{< image src="/img/krise_noe.jpg" float="right" title="Bildbeschreibung" >}}
 
-Gerade bei Suiziden ist die Gefühlspalette der nahestehenden Personen häufig unüberschaubar groß. Denn zum Schock, der Verzweiflung und der Hilflosigkeit gesellen sich immer wieder nagende Schuldgefühle: „Was habe ich übersehen?“, „Habe ich einen Hilferuf missachtet?“, „Hat es Anzeichen gegeben, die ich nicht sehen konnte?“, „Habe ich nicht genug geholfen?“, „Habe ich es zu wenig ernst genommen?“ oder „War ich zu wenig da?“ sind nur einige der zahlreichen Schuldfragen, die unfreiwillig immer und immer wieder im Kopf kreisen – und dort zu einer unerträglichen Belastung werden. Hinzu kommt, dass es große Angst macht, diese Fragen laut auszusprechen. Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg\*innen abgegeben wurde und auch wenn Angehörige, Freund\*innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
+Gerade bei Suiziden ist die Gefühlspalette der nahestehenden Personen häufig unüberschaubar groß. Denn zum Schock, der Verzweiflung und der Hilflosigkeit gesellen sich immer wieder nagende Schuldgefühle: 
+
+„Was habe ich übersehen?“, „Habe ich einen Hilferuf missachtet?“, „Hat es Anzeichen gegeben, die ich nicht sehen konnte?“, „Habe ich nicht genug geholfen?“, „Habe ich es zu wenig ernst genommen?“ oder „War ich zu wenig da?“ 
+
+sind nur einige der zahlreichen Schuldfragen, die unfreiwillig immer und immer wieder im Kopf kreisen – und dort zu einer unerträglichen Belastung werden. 
+
+Hinzu kommt, dass es große Angst macht, diese Fragen laut auszusprechen. 
+
+Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg\*innen abgegeben wurde und auch wenn Angehörige, Freund\*innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
 
 ### BILDER UND GEDANKEN, DIE NICHT MEHR LOSLASSEN
 
 {{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Je unmittelbarer Sie von dem Suizid betroffen sind, etwa wenn Sie den geliebten Menschen aufgefunden haben, umso drastischer und intensiver sind die Gedankenschleifen und Bilder, die  immer wieder in Ihrem Kopf auftauchen. Die Vorstellung, nie wieder auch nur eine Sekunde ohne diese Bilder vor Ihren inneren Augen leben zu können, ängstigt und belastet massiv. Das Wissen darüber, die Nachricht des schrecklichen Ereignisses den Verwandten, Bekannten oder gar den eigenen Kindern überbringen zu müssen, löst pure Verzweiflung, Ohnmacht, Hilflosigkeit und auch Wut aus. In einer Zeit, in der es Selbstmörder*innen erst seit Kurzem von der Kirche gewährt wird, ein offizielles Begräbnis zu erhalten, nagt darüber hinaus vielfach noch die schambehaftete Vorstellung über das, was wohl „die anderen“ sagen, an den Angehörigen.
+Je unmittelbarer Sie von dem Suizid betroffen sind, etwa wenn Sie den geliebten Menschen aufgefunden haben, umso drastischer und intensiver sind die Gedankenschleifen und Bilder, die  immer wieder in Ihrem Kopf auftauchen. Die Vorstellung, nie wieder auch nur eine Sekunde ohne diese Bilder vor Ihren inneren Augen leben zu können, ängstigt und belastet massiv. 
+
+Das Wissen darüber, die Nachricht des schrecklichen Ereignisses den Verwandten, Bekannten oder gar den eigenen Kindern überbringen zu müssen, löst pure Verzweiflung, Ohnmacht, Hilflosigkeit und auch Wut aus. In einer Zeit, in der es Selbstmörder*innen erst seit Kurzem von der Kirche gewährt wird, ein offizielles Begräbnis zu erhalten, nagt darüber hinaus vielfach noch die schambehaftete Vorstellung über das, was wohl „die anderen“ sagen, an den Angehörigen.
 
 ### BELASTENDE WUT
 
@@ -61,14 +73,23 @@ Und zu all diesen verzweifelten Gefühlen gesellt sich immer wieder auch enormer
 
 {{< image src="/img/tiere_noe_5.jpg" float="right" title="Bildbeschreibung" >}}
 
-In manchen Fällen wissen die Hinterbliebenen kaum mehr, wohin mit ihrer verzweifelten Wut und lenken diese auf die zur Hilfe gerufenen ÄrztInnen, behandelnden Psychotherapeut*innen und Berater*innen oder auch auf Personen aus dem näheren Umfeld. Diese Gefühle sind nach einem Suizid oder Selbstmordversuch absolut menschlich und nachvollziehbar. In der psychologischen Beratung haben auch Emotionen wie Ärger und Wut Platz und Raum, so dass Sie sich mit all dem, was Sie empfinden, willkommen fühlen. Denn erst, wenn alle unsere Empfindungen gewürdigt werden, gelingt es, sie in Zukunft passend einzuordnen, um ruhiger und klarer zu werden. Und selbst wenn es jetzt für Sie noch absolut unvorstellbar erscheint: Erst wenn Sie die Entscheidung der oder des anderen, zu gehen, akzeptieren können, finden Sie wieder Kraft und Raum für Ihr Leben. Auch wenn der Verlust und der Schmerz bleiben werden, werden Sie lernen, damit einen gesunden Umgang zu finden. **Denn Ihr Leben geht weiter.**
+In manchen Fällen wissen die Hinterbliebenen kaum mehr, wohin mit ihrer verzweifelten Wut und lenken diese auf die zur Hilfe gerufenen ÄrztInnen, behandelnden Psychotherapeut\*innen und Berater*innen oder auch auf Personen aus dem näheren Umfeld. 
+
+Diese Gefühle sind nach einem Suizid oder Selbstmordversuch absolut menschlich und nachvollziehbar. In der psychologischen Beratung haben auch Emotionen wie Ärger und Wut Platz und Raum, so dass Sie sich mit all dem, was Sie empfinden, willkommen fühlen. 
+
+Denn erst, wenn alle unsere Empfindungen gewürdigt werden, gelingt es, sie in Zukunft passend einzuordnen, um ruhiger und klarer zu werden. 
+
+Und selbst wenn es jetzt für Sie noch absolut unvorstellbar erscheint: Erst wenn Sie die Entscheidung der oder des anderen, zu gehen, akzeptieren können, finden Sie wieder Kraft und Raum für Ihr Leben. Auch wenn der Verlust und der Schmerz bleiben werden, werden Sie lernen, damit einen gesunden Umgang zu finden. **Denn Ihr Leben geht weiter.**
 
 ### ZEIT FÜR TRAUER
-Die verschiedenen Trauerphasen, wie die Zeit des Schocks, der Wut, der Ohnmacht und des Verleugnens, die von der Phase der aufbrechenden Verlustemotionen abgelöst wird, bis sie schließlich in den Verarbeitungsprozess übergeht, sind gerade bei Hinterbliebenen von Selbstmörder*innen besonders intensiv und folgen keinem klassischen Muster. Es ist möglich, sich emotional zwischen den Phasen zu bewegen oder auch eine Phase vor der anderen zu erleben. Manchmal durchlebt man einzelne Trauerphasen, die man bereits abgeschlossen glaubt, immer wieder aufs Neue. Und manchmal werden Phasen übersprungen. Gerade bei Selbstmorden im Umfeld ist für einen wesentlichen Teil der Trauerbewältigung oft wenig Platz: Nämlich für die Trauer an sich. So vieles ist zu regeln, Abschiedsbriefe werden gesucht, Fragen werden innerlich und an andere gestellt, gelegentlich wird der Leichnam der SelbstmörderInnen auch noch zur Obduktion gegeben und die Polizei stellt Fragen. Für das Gefühl des Verlustes – die eigentliche Trauer – bleibt gerade nahen Angehörigen oft keine Zeit.
+Die verschiedenen Trauerphasen, wie die Zeit des Schocks, der Wut, der Ohnmacht und des Verleugnens, die von der Phase der aufbrechenden Verlustemotionen abgelöst wird, bis sie schließlich in den Verarbeitungsprozess übergeht, sind gerade bei Hinterbliebenen von Selbstmörder*innen besonders intensiv und folgen keinem klassischen Muster. Es ist möglich, sich emotional zwischen den Phasen zu bewegen oder auch eine Phase vor der anderen zu erleben. 
 
-### ZEIT UM ZU VERARBEITEN
+Manchmal durchlebt man einzelne Trauerphasen, die man bereits abgeschlossen glaubt, immer wieder aufs Neue. Und manchmal werden Phasen übersprungen. Gerade bei Selbstmorden im Umfeld ist für einen wesentlichen Teil der Trauerbewältigung oft wenig Platz: Nämlich für die Trauer an sich. So vieles ist zu regeln, Abschiedsbriefe werden gesucht, Fragen werden innerlich und an andere gestellt, gelegentlich wird der Leichnam der SelbstmörderInnen auch noch zur Obduktion gegeben und die Polizei stellt Fragen. Für das Gefühl des Verlustes – die eigentliche Trauer – bleibt gerade nahen Angehörigen oft keine Zeit.
+
 
 {{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Bildbeschreibung" >}} 
+
+### ZEIT UM ZU VERARBEITEN
 
 Daher empfehle ich Ihnen von ganzem Herzen, sich im Zuge der psychologischen Beratung Zeit für sich und für Ihre Trauer zu nehmen. Hier bei mir am IFGE dürfen alle Ihre Gefühle zum Ausdruck kommen, ganz gleich ob es um quälende Schuldfragen, verzweifelte Wut oder letztlich um das Gefühl geht, diesen Verlust nie verschmerzen zu können. Jeder Mensch erlebt seine Trauer individuell und entwickelt ganz persönliche Herangehensweisen, wie er seinen Verlust bewältigen kann.
 

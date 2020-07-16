@@ -50,7 +50,11 @@ Dieser befreite, lustvolle Umgang mit den eigenen sexuellen Bedürfnissen und di
 
 {{< image src="/img/perversion_bgld1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Durch das freie Ausleben „gesunder Perversion“ können Menschen ein besonders befreites Gefühl und eine völlig neue, befriedigende Art ihrer Sexualität kennen lernen. Häufig sind es überholte Moralvorstellungen, die Menschen daran hindern, ihren Bedürfnissen lustvoll und befreit nachzugehen. Dass enthemmte Sexualität heute überhaupt möglich ist, verdanken wir der sexuellen Revolution der 60er-Jahre. Durch die Pille rückte zum ersten Mal in der Geschichte plötzlich auch die Lust der Frau in den Vordergrund und es galt, verstaubte Moralvorstellungen neu zu bewerten. Sexualität konnte auf einmal entängstigt erlebt werden, ungewollte Schwangerschaften standen nicht mehr im Vordergrund und Frauen sowie Männer erlebten Sexualität in diesen Tagen früher und entspannter als die Generationen davor. Der sexuelle Wandel hinsichtlich herrschender Moralvorstellungen – die sogenannte Neosexuelle Revolution, durch die befreite Sexualität erst einem größeren Kreis an Menschen möglich wurde – dauert seither an.
+Durch das freie Ausleben „gesunder Perversion“ können Menschen ein besonders befreites Gefühl und eine völlig neue, befriedigende Art ihrer Sexualität kennen lernen. Häufig sind es überholte Moralvorstellungen, die Menschen daran hindern, ihren Bedürfnissen lustvoll und befreit nachzugehen. Dass enthemmte Sexualität heute überhaupt möglich ist, verdanken wir der sexuellen Revolution der 60er-Jahre. 
+
+Durch die Pille rückte zum ersten Mal in der Geschichte plötzlich auch die Lust der Frau in den Vordergrund und es galt, verstaubte Moralvorstellungen neu zu bewerten. Sexualität konnte auf einmal entängstigt erlebt werden, ungewollte Schwangerschaften standen nicht mehr im Vordergrund und Frauen sowie Männer erlebten Sexualität in diesen Tagen früher und entspannter als die Generationen davor. 
+
+Der sexuelle Wandel hinsichtlich herrschender Moralvorstellungen – die sogenannte Neosexuelle Revolution, durch die befreite Sexualität erst einem größeren Kreis an Menschen möglich wurde – dauert seither an.
 
 Ich begrüße diesen Paradigmenwechsel, der auch in der Sexualberatung stattfindet. Denn es geht keineswegs darum, psychologisch aufzudröseln, wodurch Ihre persönlichen Neigungen, Vorlieben oder auch Fetische entstanden sind, oder darum, diese zu verändern, so lange Sie sich wohl damit fühlen. Durch die neosexuelle Strömung verzichten endlich immer mehr Therapeut*innen und Berater*innen darauf, sexuelle Bedürfnisse zu hinterfragen, sondern nehmen diese als sexuelle Kompetenz ihrer Kliet\*innen wahr.
 
@@ -60,13 +64,21 @@ Durch meine langjährige Erfahrung in der Sexualberatung ist mir bewusst, dass s
 
 {{< image src="/img/bgld_perversion.jpg" float="right" title="Bildbeschreibung" >}}
 
-Doch der Leidensdruck rund um sexuelle Perversionen kann auch in einer gegensätzlichen Richtung geartet sein. Nämlich dann, wenn aus einer spielerischen Variante der Sexualität ein unstillbares Verlagen wird, welches für das Stillen so mancher Bedürfnisse immer extremere Mittel erfordert. Oftmals beginnt dann schleichend ein gefährliches Spiel unter dem Namen „höher, schneller, weiter“, um ein konstantes Lustlevel erreichen zu können. Die Phantasien werden z. B. extremer und allumfassender. Sie drängen sich in jede noch so alltägliche Situation, fordern ihren Platz bei den unpassendsten Gelegenheiten und nehmen Betroffene immer weiter ein, wodurch das sexuelle Erleben zur aufreibenden Belastung wird. Wenn ein Mensch immer extremere Varianten des gleichen Spiels benötigt, kann sein Bedürfnis irgendwann nicht mehr befriedigt werden – ohne sich selbst oder andere zu belasten oder gar zu gefährden. Bevor ein derart frustrierender und risikobehafteter Zustand entsteht – spätestens aber, wenn dieser bereits entstanden ist –, lege ich Ihnen professionelle Unterstützung durch die psychologische Beratung besonders ans Herz!
+Doch der Leidensdruck rund um sexuelle Perversionen kann auch in einer gegensätzlichen Richtung geartet sein. Nämlich dann, wenn aus einer spielerischen Variante der Sexualität ein unstillbares Verlagen wird, welches für das Stillen so mancher Bedürfnisse immer extremere Mittel erfordert. 
+
+Oftmals beginnt dann schleichend ein gefährliches Spiel unter dem Namen „höher, schneller, weiter“, um ein konstantes Lustlevel erreichen zu können. Die Phantasien werden z. B. extremer und allumfassender. 
+
+Sie drängen sich in jede noch so alltägliche Situation, fordern ihren Platz bei den unpassendsten Gelegenheiten und nehmen Betroffene immer weiter ein, wodurch das sexuelle Erleben zur aufreibenden Belastung wird. 
+
+Wenn ein Mensch immer extremere Varianten des gleichen Spiels benötigt, kann sein Bedürfnis irgendwann nicht mehr befriedigt werden – ohne sich selbst oder andere zu belasten oder gar zu gefährden. Bevor ein derart frustrierender und risikobehafteter Zustand entsteht – spätestens aber, wenn dieser bereits entstanden ist –, lege ich Ihnen professionelle Unterstützung durch die psychologische Beratung besonders ans Herz!
 
 Zusammenfassend möchte ich festhalten, dass gesunde Perversion da endet, wo die Ausschließlichkeit beginnt. Ein Fetisch kann die eigene Sexualität sowohl bereichern als auch belasten, wenn NUR mehr durch diesen Fetisch Lust erlebt werden kann. Die Grenzen zwischen belebender, vielfältiger, leidenschaftlicher Mega-Lust und belastender Perversion sind fließend. Wenn Sie unsicher sind, wo Sie sich gerade bewegen, kann die psychologische Beratung wieder Klarheit und Gelassenheit entstehen lassen. Gleichzeitig ermöglichen Sie es sich durch die psychologische Unterstützung, (wieder) einen gesunden Zugang zur sexuellen Vielfältigkeit empfinden und leben können.    
 
 {{< image src="/img/paar_sexualberatung_wien.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Wo immer Sie sich in Ihren Gedanken gerade zwischen belastender, gelebter Sexualität und unerfüllter, sorgenbesetzter Phantasie befinden: In der Sexualberatung entdecken Sie Ihre Sexualität für sich selbst völlig neu und können erleben, wie Sie Zugang zu Ihren inneren – oft tief – verborgenen Wünschen finden.
+Wo immer Sie sich in Ihren Gedanken gerade zwischen belastender, gelebter Sexualität und unerfüllter, sorgenbesetzter Phantasie befinden: 
+
+In der Sexualberatung entdecken Sie Ihre Sexualität für sich selbst völlig neu und können erleben, wie Sie Zugang zu Ihren inneren – oft tief – verborgenen Wünschen finden.
 
 Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst, Ihren Phantasien und Ihrer Sexualität finden, der Ihnen ein ausgewogenes, risikoarmes und befriedigendes Erleben Ihrer eigenen Lust ermöglicht.
 {{% /floatbox %}}

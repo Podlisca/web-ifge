@@ -31,7 +31,11 @@ og_image: "/img/system_einzel_2.jpg"
 {{% floatbox %}}
 {{< image src="/img/system_einzel_2.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Wenn Menschen ein schweres Schicksal ereilt – ganz gleich welcher Art – gilt die ganze Aufmerksamkeit den Betroffenen. Was das jeweilige Schicksal mit den Angehörigen macht und welche Folgen sowie Veränderungen es für diese bedeutet, wird dabei gerne übersehen.Besonders emphatische und hilfsbereite Angehörige glauben häufig, dass sie kein Recht auf ihre Emotionen hätten, wo doch eigentlich ein anderer oder eine andere betroffen ist. Dabei ist vieles, was Menschen ereilt, für die Angehörigen mindestens genauso belastend wie für die Betroffenen selbst. Da sich Angehörige diese Gefühle oft jahrelang nicht erlauben, sie sich häufig über lange Zeit „hinten anstellen“ und vielleicht sogar bei der Pflege helfen müssen, tragen Angehörige vielfach ein schweres Los.
+Wenn Menschen ein schweres Schicksal ereilt – ganz gleich welcher Art – gilt die ganze Aufmerksamkeit den Betroffenen. 
+
+Was das jeweilige Schicksal mit den Angehörigen macht und welche Folgen sowie Veränderungen es für diese bedeutet, wird dabei gerne übersehen.Besonders emphatische und hilfsbereite Angehörige glauben häufig, dass sie kein Recht auf ihre Emotionen hätten, wo doch eigentlich ein anderer oder eine andere betroffen ist. 
+
+Dabei ist vieles, was Menschen ereilt, für die Angehörigen mindestens genauso belastend wie für die Betroffenen selbst. Da sich Angehörige diese Gefühle oft jahrelang nicht erlauben, sie sich häufig über lange Zeit „hinten anstellen“ und vielleicht sogar bei der Pflege helfen müssen, tragen Angehörige vielfach ein schweres Los.
 
 Dazu kommen unterschiedliche Formen von schlechtem Gewissen, etwa weil man meint, nicht genug zu leisten, nicht genügend aufgepasst und selbst etwas falsch gemacht zu haben, oder schlicht, weil man selbst gesund ist. Trifft uns ein Schicksal plötzlich und unerwartet – wie eine völlig unvorhergesehene Diagnose oder eine Gewalttat – erholen sich Angehörige von diesem Schock und der inneren Starre oft ebenso wenig wie die Betroffenen selbst. Häufig wird von ihnen jedoch sogar noch mehr Leistung erwartet als jemals zuvor.
 
