@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 93
 img: "blog_weihnachten.jpg"
+description: "Zugegeben: Diese Frage lässt sich so allgemein formuliert nicht exakt beantworten. Was wir aber sicher wissen ist, dass Stress dem Körper erheblich schadet. Gerade die Adventszeit ist heute oft von Hektik, Stress und Rastlosigkeit geprägt. Wir nutzen daher die Vorweihnachtszeit, um uns zu fragen: Was ist eigentlich Stress? Was hat ein Höhlen-Bär damit zu tun? Und was können Sie dagegen unternehmen?"
 ---
 
 Zugegeben: Diese Frage lässt sich so allgemein formuliert nicht exakt beantworten. Was wir aber sicher wissen ist, dass Stress dem Körper erheblich schadet. Gerade die Adventszeit ist heute oft von Hektik, Stress und Rastlosigkeit geprägt. Wir nutzen daher die Vorweihnachtszeit, um uns zu fragen: Was ist eigentlich Stress? Was hat ein Höhlen-Bär damit zu tun? Und was können Sie dagegen unternehmen?

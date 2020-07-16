@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 91
 img: "blog_aufstellung_noe.jpg"
+description: "Oft kommt man in einer klassischen Therapie oder Beratung auch nach mehreren Sitzungen einfach nicht „weiter“ - obwohl man ein Problem schon von allen Seiten beleuchtet hat, holt es einen immer wieder ein. Der Hintergrund hierfür ist meist, dass das Ursprungsereignis für dieses belastende Thema noch nicht anerkannt worden ist – oft weil es schon seit Generationen in der Familie wirkt."
 ---
 
 Oft kommt man in einer klassischen Therapie oder Beratung auch nach mehreren Sitzungen einfach nicht „weiter“ - obwohl man ein Problem schon von allen Seiten beleuchtet hat, holt es einen immer wieder ein. Der Hintergrund hierfür ist meist, dass das Ursprungsereignis für dieses belastende Thema noch nicht anerkannt worden ist – oft weil es schon seit Generationen in der Familie wirkt.

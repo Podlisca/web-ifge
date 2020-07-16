@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 85
 img: "musik.jpg"
+description: "Wer kennt nicht die Situation, dass man sich auf etwas konzentrieren möchte oder sogar muss, aber aufgrund zahlreicher Ablenkungen, vor allem von störenden Nebengeräuschen, scheint dies unmöglich. Immer mehr Menschen greifen deshalb auch im Arbeitsalltag auf Musik zurück. Aber kann Musik in solchen Situationen überhaupt helfen?"
 ---
 
 Wer kennt nicht die Situation, dass man sich auf etwas konzentrieren möchte oder sogar muss, aber aufgrund zahlreicher Ablenkungen, vor allem von störenden Nebengeräuschen, scheint dies unmöglich.

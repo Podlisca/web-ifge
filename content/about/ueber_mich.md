@@ -8,7 +8,7 @@ draft: false
 weight: 1
 description: "Durch meine umfassenden Ausbildungen in der Lebensberatung - psychologischen Beratung in unterschiedlichen Fachrichtungen sowie Schulungen in komplementär-medizinischen, psychosomatischen Bereich, ist es mir möglich - individuell und ganzheitlich - auf jeden Klienten und jede Klientin einzugehen."
 og_title: "Silvia Podlisca - Institutsleiterin"
-og_image: "/img/ueber_mich_hoch.jpg"
+og_image: "/img/silvia_noe3.jpg"
 aliases:
   - "/über-mich/index.html"
 ---
@@ -22,7 +22,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/ueber_mich_hoch.jpg" float="left" title="Bildbeschreibung" format="hoch" >}}
+{{< image src="/img/silvia_noe3.jpg" float="left" title="Bildbeschreibung" >}}
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
@@ -53,12 +53,17 @@ Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/phil
 {{% box blue=1 %}}
 {{% small  %}}
 
+{{< image src="/img/ueber_mich_hoch.jpg" float="right" title="Bildbeschreibung" format="hoch" >}}
+
 Ein besonders großes Anliegen war und ist mir immer meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung, widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig legte ich an der Volkshochschule Wien die Berufsreifeprüfung ab.
 
 Es folgten Seminare im komplementär-medizinischen, psychosomatischen Bereich. Durch meine persönlichen Erfahrungen, legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) nach Bert Hellinger, am ehemaligen Bert Hellinger Institut. 
+
 Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die [Ausbildungen zur Dipl. Lebens- und Sozialberaterin](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html), [Sexualberaterin](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung.html) sowie [Supervisorin](https://www.ifge.at/supervision/philosophie.html). 
 
-Die Entscheidung für die Lebens- und Sozialberatung – psychologische Beratung, und gegen die Psychotherapie, war eine reiflich sehr bewusste Entscheidung, da mir der Zugang der Gesundheitserhaltung – frei von jeder Diagnose – sehr entgegenkommt. Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist ok", am deutlichsten. Mir ist natürlich bewusst, dass die Lebensberatung – psychologische Beratung ihre Grenzen hat, weshalb ich, bei Bedarf, mit anderen Experten zusammenarbeite. 
+Die Entscheidung für die Lebens- und Sozialberatung – psychologische Beratung, und gegen die Psychotherapie, war eine reiflich sehr bewusste Entscheidung, da mir der Zugang der Gesundheitserhaltung – frei von jeder Diagnose – sehr entgegenkommt. 
+
+Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist ok", am deutlichsten. Mir ist natürlich bewusst, dass die Lebensberatung – psychologische Beratung ihre Grenzen hat, weshalb ich, bei Bedarf, mit anderen Experten zusammenarbeite. 
 
 Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologische-beratung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung.html). Nach wie vor ist die ständige Weiterbildung eine Selbstverständlichkeit für mich. 
 <br/>

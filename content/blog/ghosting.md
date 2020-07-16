@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 89
 img: "ghosting.jpg"
+description: "Mit Ghosting ist das freiwillige und unvorhersehbare Verschwinden einer Person gemeint."
 ---
 
 „Ghosting“ hat seinen Wortstamm in der englischen Sprache und bezieht sich auf den „Geist“ („ghost“). Gemeint ist damit das freiwillige und unvorhersehbare Verschwinden einer Person aus dem gemeinsamen Leben.

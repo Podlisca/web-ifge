@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 90
 img: "happy_aging.jpg"
+description: "Das biologische Alter ist nicht das ‚gefühlte‘ Alter. :) Das ‚gefühlte‘ Alter richtet sich sehr nach der inneren Haltung und unseren Lebensstil."
 ---
 
 Die gute Nachricht vorweg: 

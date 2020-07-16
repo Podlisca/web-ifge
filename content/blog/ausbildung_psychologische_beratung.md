@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 98
 img: "blog_augenhöhe2_bgld.jpg"
+description: Gerade im psychosozialen Bereich liest und hört man viel über „Wertschätzung“, „Achtsamkeit“, „Intuition“ und „Augenhöhe“. Doch was bedeutet das konkret für die Ausbildung künftiger Lebens- und SozialberaterInnen sowie für deren Arbeit mit KlientInnen? Und warum ist der Stellenwert des Fachwissens dabei so essenziell? Silvia Podlisca, Leiterin des Instituts für ganzheitliches Erleben, kennt die Antworten."
 ---
 
 Gerade im psychosozialen Bereich liest und hört man viel über 

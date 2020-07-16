@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 86
 img: "bett.jpg"
+description: "In den letzten Jahren konnten wir in unserer Beratungspraxis feststellen, dass sich zunehmend mehr Frauen sowie auch Männer über ein abnehmendes Interesse an Sexualität beklagen. Die Ursachen dafür sind äußerst vielfältig - sie reichen von Medikamenteneinnahme, körperlichen Krankheiten, Erektionsschwierigkeiten, der Geburt eines Kindes, mangelnder Kommunikation bis hin zu Stress u.v.m. Unser Blog möchte Ihnen Anregungen liefern, wie Sie Ihr Sexleben aufpeppen können. Schließlich ist Sex so etwas wie das Salz in der Suppe unseres Lebens und diese kann man durchaus würziger gestalten ;-)"
 ---
 
 In den letzten Jahren konnten wir in unserer Beratungspraxis feststellen, dass sich eine zunehmend höhere Anzahl an Frauen sowie auch Männern über ein abnehmendes Interesse an Sexualität beklagen. 

@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 82
 img: "verlust.jpg"
+description: "Jeder Mensch ist früher oder später mit einem schwerwiegenden Verlust konfrontiert - das beginnt im Kleinkindalter, wenn der Teddy oder die berühmte Schmusedecke verloren gehen, und erstreckt sich über Trennung und Scheidung bis hin zum Tod geliebter Menschen. Damit richtig umzugehen, ist ein schwieriger Teil unseres Lebens, jedoch unerlässlich für unsere seelische Gesundheit. Besonders an Weihnachten ist die Einsamkeit und Trauer oft noch schwerer zu ertragen als im restlichen Jahr."
 ---
 
 Jeder Mensch ist früher oder später mit einem schwerwiegenden Verlust konfrontiert - das beginnt im Kleinkindalter, wenn der Teddy oder die berühmte Schmusedecke verloren gehen, und erstreckt sich über Trennung und Scheidung bis hin zum Tod geliebter Menschen.

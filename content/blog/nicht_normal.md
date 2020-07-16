@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 81
 img: "normal.jpg"
+description: "Ein Satz, den fast jeder schon einmal zu hören bekommen hat, weil er sich anders verhält als der, der den Satz ausgesprochen hat. Muss man sich deshalb als „anormal“ fühlen, als Außenseiter, als Teil einer Randgruppe? Vor allem: Wer legt fest, was normal ist und sind wir (noch immer) genötigt, darauf zu hören?"
 ---
 
 Ein Satz, den fast jeder schon einmal zu hören bekommen hat, weil er sich anders verhält als der, der den Satz ausgesprochen hat. Muss man sich deshalb als „anormal“ fühlen, als Außenseiter, als Teil einer Randgruppe? Vor allem: Wer legt fest, was normal ist und sind wir (noch immer) genötigt, darauf zu hören?
