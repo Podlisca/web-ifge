@@ -6,6 +6,9 @@ menu:
         identifier: upgrade_systembrett
 draft: false
 weight: 6
+description: "Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in höchstem Maße übungsorientiert und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der Diplomausbildung am IFGE kann eben jenes notwendige Vorwissen vor allem im Expert*innen-Upgrade zur Aufstellungsarbeit erworben und gefestigt werden."
+og_title: "Fortbildungslehrgang: Systemische Aufstellung am Systembrett &amp; SystemDimensionsBrett®"
+og_image: "/img/brett_2.jpg"
 ---
 
 # Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
@@ -23,8 +26,7 @@ Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Ma
 
 Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater\*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in Gruppenseminaren gesammelt haben.
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit.html)  erworben und gefestigt werden.
-
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich dabei in **höchstem Maße übungsorientiert** und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der [Diplomausbildung am IFGE](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) kann eben jenes notwendige Vorwissen vor allem im Expert\*innen-Upgrade zur [Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/)  erworben und gefestigt werden.
 
 
 Diese Systembrett-Fortbildung eignet sich ebenso dazu, zusätzlich zum klassischen [Aufstellungsupgrade](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit.html) auch noch Fach-Expertise in einem weiteren systemischen Bereich – speziell für [Beratungen im Einzelsetting(/psychologischeberatung/einzel_system.html)] – zu sammeln.

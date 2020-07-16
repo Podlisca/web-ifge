@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /test/
+
+Sitemap: https://ifge.at/sitemap.xml

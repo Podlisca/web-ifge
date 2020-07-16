@@ -54,8 +54,8 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
-* [Susanna Kundics](/about/referenten-lsb.html#SusannaKundics)
-* [Stefanie Jäger](https://www.ifge.at)
-* [Bettina Schermann](https://www.ifge.at)
+* [Susanna Kundics](/about/referenten-lsb/#susanna-kundics)
+* [Stefanie Jäger](/about/referenten-lsb/#stefanie-jäger)
+* [Bettina Schermann](/about/referenten-lsb/#mag-bettina-schermann)
 
 

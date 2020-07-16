@@ -21,22 +21,27 @@
   <meta property="og:type" content="website"/>
   <meta property="og:locale" content="de_DE"/>
   <meta property="og:url" content="{{ .Permalink }}"/>
-  <meta property="og:image" content="{{ .Params.og_image | default .Site.Params.og_image }}">
+  <meta property="og:image" content="{{ (.Params.og_image | default .Site.Params.og_image) | absURL }}">
   <meta property="og:image:width" content="1540"/>
   <meta property="og:image:height" content="1024"/>
 
+  {{- partial "rich-content" . -}}
+
   <link rel="shortcut icon" href="/img/favicon.png">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/nav.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">  
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+  {{- $style := resources.Get "/css/style.css" -}}
+  {{- $slider := resources.Get "/css/slider.css" -}}
+  {{- $nav := resources.Get "/css/nav.css" -}}
+  {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
+  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}"/>
 </head>
 
-<body>
-  
+<body>  
   {{ partial "cookieconsent" . }}
-
-  <header>
+  {{ block "includes" . }}{{ end }}
+  <header>    
     <div class="cont">
       <a href="/index.html">
         <img src="/img/logo.jpg" alt="IFGE Logo" class="logo"/>
@@ -47,15 +52,13 @@
     </div>
   </header>
 
-  <main>
+  <main>    
     <div class="cont">
       {{ block "main" . }}
       {{ end }}
     </div>
     {{ partial "floating-button.html" "bottom" }}
   </main>
-
-  <!-- {{ partial "sidebar.html" . }} -->
 
   <footer>
     {{ partial "site-footer.html" . }}

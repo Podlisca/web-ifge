@@ -3,7 +3,7 @@ title: "Stellungnahme – 5 Antworten zum Konflikt zwischen ÖVS und WKO"
 draft: false
 tags: []
 weight: 96
-img: "blog_stellungname2_bgld.jpg"
+img: "blog_stellung.jpg"
 ---
 
 Der seit Jahren andauernde Konflikt zwischen der Österreichische Vereinigung für Supervision und Coaching (ÖVS) und der Österreichischen Wirtschaftskammer (WKO) spitzt sich zu. 5 Antworten zum brisanten Thema aus Sicht der Leiterin eines psychosozialen Ausbildungsinstituts.

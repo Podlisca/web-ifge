@@ -6,6 +6,8 @@ menu:
         identifier: glaubenssatzaufstellung
 draft: false
 weight: 4
+description: "Glaubenssatzaufstellung - neue wirksame Realitäten erschaffen! In einer Glaubenssatzaufstellung wird immer darauf geachtet, dass Ihr neuer Weg und Ihre Weiterentwicklung ein Gewinn für alle Familienmitglieder ist."
+og_image: "/img/glaubenssatz1.jpg"
 ---
 
 

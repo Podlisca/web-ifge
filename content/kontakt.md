@@ -3,6 +3,7 @@ title: "Kontakt"
 menu: main
 draft: false
 weight: 9
+rich_logo: true
 ---
 
 # {{< param title >}}

@@ -21,11 +21,11 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.69.2'
+        hugo-version: '0.73.0'
         # extended: true
     
     - name: Build
-      run: hugo
+      run: hugo --baseUrl="https://www.ifge.at"
       env:
         TZ: Europe/Vienna 
 

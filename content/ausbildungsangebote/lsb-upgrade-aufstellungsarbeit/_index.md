@@ -6,6 +6,10 @@ menu:
         identifier: upgrade_aufstellungsarbeit
 draft: false
 weight: 3
+description: "In unserer sehr praxisnahen Ausbildung zum/zur Aufstellungsleiter/in erhalten Sie neue Einsichten und Einblicke, lernen Verstrickungen zu erkennen und wie Sie Aufstellungen professionell und Ihren KundInnen dienlich leiten. Gleichzeitig bietet Ihnen unsere Fortbildung auch für Ihre Einzelgespräche unschätzbaren Mehrwert, da Sie am IFGE ebenso lernen werden, wie Sie dank der Arbeit im inneren Bild, mit Zetteln und vor allem auf dem SystemDimensionsBrett® die Dynamiken und Interventionsmöglichkeiten einer klassischen Familienaufstellung auch in der Einzelarbeit einsetzen können. Dadurch verfügen Sie in Zukunft über ein breites systemisches Methodenspektrum, mit dem Sie Ihre KlientInnen optimal begleiten und unterstützen können."
+og_title: "Fortbildungslehrgang: Aufstellungsarbeit"
+og_image: "/img/aufstellung_noe1.jpg"
+rich_kurs: true
 ---
 
 # Lsb Upgrade: Aufstellungsarbeit
@@ -20,7 +24,7 @@ weight: 3
 
 {{< image src="/img/aufstellung_noe1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/einzel_system.html) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung.html))
+Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung/))
 
 Dadurch sind Sie für Ihre Kund\*innen einfach zu finden und zeigen Ihren Klient\*innen gleichermaßen, dass Sie vertrauenswürdige und fachlich kompetente Expertise in der Aufstellungsarbeit vorweisen können. In dieser Ausbildung geht es vor allem darum, einen Einblick in die systemische Denk- und Sichtweise zu erhalten.
 
@@ -44,7 +48,7 @@ WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018
 
 ***
 
-Kaum eine andere Methode bietet dermaßen kraftvolle und vor allem tiefgehende Interventionsmöglichkeiten wie die [systemische Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) nach Bert Hellinger. Gerade deshalb ist es unerlässlich, dass die Aufstellungsarbeit von fachlich optimal geschulten und in der Praxis erfahrenen psychologischen Berater\*innen ausgeführt wird. Nur in diesem professionellen und achtsamen Rahmen kann sichergestellt werden, dass Klient\*innen auf Dauer von dieser intensiven Methode profitieren. Nach positivem Abschluss unseres Fortbildungslehrgangs für Dipl. Lebens- und Sozialberater\*innen – psychologische Berater\*innen – am IFGE können Sie sich, bei entsprechender Supervision, in die [WKO-Liste der Expert\*innen für Aufstellungsarbeit](https://firmen.wko.at/suche_lebensberater-aufstellung/) eintragen lassen.
+Kaum eine andere Methode bietet dermaßen kraftvolle und vor allem tiefgehende Interventionsmöglichkeiten wie die [systemische Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) nach Bert Hellinger. Gerade deshalb ist es unerlässlich, dass die Aufstellungsarbeit von fachlich optimal geschulten und in der Praxis erfahrenen psychologischen Berater\*innen ausgeführt wird. Nur in diesem professionellen und achtsamen Rahmen kann sichergestellt werden, dass Klient\*innen auf Dauer von dieser intensiven Methode profitieren. Nach positivem Abschluss unseres Fortbildungslehrgangs für Dipl. Lebens- und Sozialberater\*innen – psychologische Berater\*innen – am IFGE können Sie sich, bei entsprechender Supervision, in die [WKO-Liste der Expert\*innen für Aufstellungsarbeit](https://firmen.wko.at/suche_lebensberater-aufstellung/) eintragen lassen.
 
 
 

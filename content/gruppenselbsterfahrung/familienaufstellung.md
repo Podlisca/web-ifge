@@ -6,6 +6,9 @@ menu:
         identifier: familienaufstellung
 draft: false
 weight: 3
+description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
+og_title: "Familienaufstellung nach Bert Hellinger"
+og_image: "/img/aufstllung_noe3.jpg"
 ---
 
 # Familienaufstellung mit Silvia Podlisca
@@ -92,7 +95,7 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 
 Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. Ebenso gibt es eine zweiwöchentliche, systematisch geführte, Gruppenselbsterfahrung.
 
-Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine.html)! 
+Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
 {{% /small  %}}
 {{% /box %}}
 

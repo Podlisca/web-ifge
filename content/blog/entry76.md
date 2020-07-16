@@ -25,7 +25,7 @@ Gelingt dies, würde das nicht nur die österreichische Kriminalitätsstatistik 
 
 1 http://www.bmi.gv.at/cms/BK/publikationen/krim_statistik/2014/Sicherheit_2014.pdf
 
-2 http://www.streetlife.net/html/wissen_macht_mut.html
+2 http://www.streetlife.net/html/wissen_macht_mut/
 
 3 http://www.3sat.de/mediathek/?mode=play&obj=53516
 
@@ -33,7 +33,7 @@ Gelingt dies, würde das nicht nur die österreichische Kriminalitätsstatistik 
 
 **Weiterführende Links zum Thema Täterprävention:**
 
-http://www.onmeda.de/sexualitaet/stalking.html
+http://www.onmeda.de/sexualitaet/stalking/
 
 http://www.limita-zh.ch/pdf/Leitartikel_JB_99.pdf
 

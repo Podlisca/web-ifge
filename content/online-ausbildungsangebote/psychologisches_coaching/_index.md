@@ -6,6 +6,9 @@ menu:
         identifier: onlinecoaching
 draft: false
 weight: 4
+description: "Egal ob Sie MitarbeiterIn in einem Unternehmen sind oder Führungskraft – die Inhalte der Coaching-Ausbildung, können Ihnen persönlich und in Ihrer Tätigkeit einen Vorteil bringen und zielen darauf ab, dass Sie zukünftig auch Coachees in Prozessen begleiten können!"
+og_image: "/img/silvia_start.jpg"
+rich_kurs: true
 ---
 
 # ONLINE Ausbildung: 

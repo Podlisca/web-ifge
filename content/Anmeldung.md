@@ -4,6 +4,7 @@ menu: "main"
 draft: false
 weight: 7
 url: "/anmeldung.php"
+description: "Hier können Sie sich für die gewünschte Veranstaltung anmelden!"
 ---
 
 {{< php >}}
@@ -103,7 +104,7 @@ Bitte geben Sie bekannt, für welchen Kurs/Lehrgang oder Seminar Sie sich anmeld
 
 Bei Familienaufstellungen bitte bekannt geben ob Sie als Teilnehmer\*in mit eigenem Anliegen oder als Beobachter*in dabei sein wollen. Danke!
 
-Mit Ihrer Anmeldung stimmen Sie den [AGB](/agb.html) zu. Die [Widerrufsbelehrung](/widerrufsbelehrung.html) und [Datenschutzerklärungen](/datenschutz.html) wurden gelesen und akzeptiert.
+Mit Ihrer Anmeldung stimmen Sie den [AGB](/agb/) zu. Die [Widerrufsbelehrung](/widerrufsbelehrung/) und [Datenschutzerklärungen](/datenschutz/) wurden gelesen und akzeptiert.
 
 {{< line >}}
 

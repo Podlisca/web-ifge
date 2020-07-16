@@ -20,7 +20,7 @@ Sowohl alle Supervisor\*innen, die sich auf der entsprechenden WKO-Liste haben e
 
 **(Für das Absolvieren der Supervision bei klinischen Psycholog\*innen und Psychotherapeut*innen gelten eigenständige WKO-Richtlinien)**
 
-http://localhost:1313/about/ifge_supervisoren.html
+http://localhost:1313/about/ifge_supervisoren/
 
 {{% /floatbox %}}
 

@@ -6,6 +6,8 @@ menu:
         identifier: partner
 draft: true
 weight: 7
+description: "Unsere Partner sind wichtige Eckpfeiler unseres Erfolges und machen es möglich, dass wir uns auf unsere Kernkompetenzen konzentrieren können."
+og_image: "/img/img2.jpg"
 ---
 
 # Partner

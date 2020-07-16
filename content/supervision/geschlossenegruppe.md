@@ -6,6 +6,8 @@ menu:
         identifier: "geschlossenegruppe"
 draft: false
 weight: 3
+description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
+og_image: "/img/supervisionsgruppe_bgld.jpg"
 ---
 
 
@@ -168,7 +170,9 @@ Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu.
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen" >}}
-1 mal im Jahr darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen. Für Teilnehmer\*innen die 90 Stunden Gruppensupervision in der Diplomausbildung Lebensberatung - psychologische Beratung im Preis inbegriffen haben: 1x kann ein kostenfreier Ersatztermin von 4 Stunden Gruppensupervision in Anspruch genommen werden. Weitere Fehleinheiten müssen kostenpflichtig nachgeholt werden."
+1 mal im Jahr darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen.
+
+ Für Teilnehmer\*innen die 90 Stunden Gruppensupervision in der Diplomausbildung Lebensberatung - psychologische Beratung im Preis inbegriffen haben: 1x kann ein kostenfreier Ersatztermin von 4 Stunden Gruppensupervision in Anspruch genommen werden. Weitere Fehleinheiten müssen kostenpflichtig nachgeholt werden."
 {{< /card-more >}}
 
 {{< card-more icon="icon/gruppengroesse.png" title="Gruppengröße" >}}

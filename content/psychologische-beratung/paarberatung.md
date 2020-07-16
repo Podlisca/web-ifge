@@ -1,0 +1,162 @@
+---
+title: "Paarberatung"
+menu:
+    main:
+        parent: psychologischeberatung
+        identifier: beratung_paarberatung
+draft: false
+weight: 5
+description: "Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ."
+og_title: "Paarberatung am IFGE"
+og_image: "/img/paarberatung_wien.jpg"
+aliases:
+    - "/psychologische-beratung/paarberatung.html"
+---
+
+# Paarberatung am IFGE
+# Wien - Burgenland - Niederösterreich
+
+{{< slogan >}}
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+{{% floatbox %}}
+
+{{< image src="/img/paarberatung_wien.jpg" float="left" title="Bildbeschreibung" >}} 
+
+Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. <br/> <br/>Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
+
+{{% /floatbox %}}
+
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+## Hier finden Sie ausführliche Informationen über:
+{{% /small  %}}
+{{% /box %}}
+
+{{< iconmenu >}}
+{{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
+{{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
+{{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
+{{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
+{{< /iconmenu >}}
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+{{% floatbox %}}
+
+
+Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
+
+
+### PAARBERATUNG  MIT SILVIA PODLISCA UND MARTIN BRANSKY
+
+Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologischen Berater Martin Bransky in Anspruch genommen werden. Die Möglichkeit, Ihren Beratungsprozess von einem männlichen Berater und einer weiblichen BeraterIn gleichzeitig begleiten zu lassen, bietet für Sie zusätzliche Vorteile, die besonders in festgefahren scheinenden Problembereichen für eine rasche Entspannung Ihrer Situation sorgen. Durch die volle Aufmerksamkeit zweier gegengeschlechtlicher BeraterInnen ist sowohl die männliche als auch die weibliche Sicht in Ihrem Beratungsprozess vertreten, wodurch bestehende und destruktive Verhaltensmuster besonders rasch sichtbar und damit bearbeitbar gemacht werden können. Sie erhalten Feedback von zwei professionellen BeraterInnen und erleben dadurch, dass sich jeder Teil des Paares in seiner bzw. ihrer Rolle wahrgenommen fühlt. Denn häufig fällt es Menschen leichter, sich in der Anwesenheit eines bzw. einer gleichgeschlechtlichen BeraterIn zu öffnen, wodurch Ihr Beratungsprozess von Ihnen beiden besonders konstruktiv genutzt werden kann.
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+### SYSTEMISCHE BETRACHTUNGSWEISE
+
+Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den fehlenden Teil zu finden und dadurch ganz zu werden. Selbstverständlich kann auch das Singledasein für Klient\*innen als erfüllend empfunden und in vollen Zügen genossen werden. In der Systemik geht es jedoch darum, zu versuchen, die Bindung und (sexuelle) Anziehung zwischen Mann und Frau – oder zwischen gleichgeschlechtlichen Paaren – zu erklären. Wir finden alle die Partner\*innen, welche uns nicht nur als Person vervollständigen, sondern auch unser gesamtes Familiensystem komplettieren. Es ziehen sich sozusagen Menschen mit ähnlichen Familiengeschichten an. 
+
+
+Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](/psychologische-beratung/spezialisierungen/opferberatung/) bewusst [Täter\*innen](/psychologische-beratung/spezialisierungen/taeterberatung/) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
+
+Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, wenn wir das Beziehungsmodell unserer Eltern als unpassend empfinden, fühlen wir uns Jahre später in ähnlichen Beziehungsmustern „gefangen“.
+
+Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Beziehung so gestalten, wie es für Sie beide am besten dienlich ist – frei von übernommen Altlasten und (oft heimlich) schlechtem Gewissen gegenüber Ihren Eltern. 
+
+Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbsterfahrung/familienaufstellung/).
+
+{{% /floatbox %}}
+
+{{% box %}}
+{{% small  %}}
+{{< image src="/img/aufstellung_noe_1.jpg" title="Jeder wird gehört..." >}}
+
+{{% /small  %}}
+{{% small  %}}
+{{< image src="/img/aufstellung_noe1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
+
+{{% /small  %}}
+{{% small  %}}
+{{< image src="/img/brett_2.jpg" title="Wenn es einmal emotionaler wird.." >}}
+
+{{% /small  %}}
+{{% small  %}}
+{{< image src="/img/systembrett_noe.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
+
+{{% /small  %}}
+{{% /box %}}
+
+
+
+{{% floatbox %}}
+{{< line icon="/icon/beratung.png" >}}
+{{% box blue=1 %}}
+{{% small %}}
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
+{{% /small %}}
+{{% /box %}}
+
+{{% box blue=1 %}}
+{{% small %}}
+{{< image src="/img/einzel_noe5.jpg" float="left" title="Bildbeschreibung" >}} 
+
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
+ 
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/).
+{{% /small %}}
+{{% /box %}}
+{{% /floatbox %}}
+
+{{< line icon="/icon/beratung.png" >}}
+# Spezialisierungen
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Krise/Sucht/Burn-Out
+{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
+
+* [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
+{{% /small  %}}
+
+{{% small  %}}
+#### Sexualberatung
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
+
+* [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+{{% /small  %}}
+
+{{% small  %}}
+#### Täter/Opfer/Gewalt
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
+
+* [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
+* [Opferberatung](/psychologische-beratung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychologische-beratung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychologische-beratung/spezialisierungen/haeuslichegewalt/)
+{{% /small  %}}
+
+{{% small  %}}
+#### Beratung Angehörige
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
+
+* [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychologische-beratung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
+{{% /small  %}}
+{{% /box %}}

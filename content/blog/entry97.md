@@ -3,7 +3,7 @@ title: "Lebenslanges Lernen – Heute ist früh genug"
 draft: false
 tags: []
 weight: 97
-img: "lernen_lebenslang_bgld.jpg"
+img: "lsb_info_noe1.jpg"
 ---
 
 „Lebenslanges Lernen“ – dieser Begriff fasst seit einigen Jahrzehnten verschiedenste Konzepte der Erwachsenenbildung zusammen. Auf die unterschiedlichen theoretischen Ausführungen dieser beiden Worte ist an anderer Stelle bereits zur Genüge eingegangen worden. 

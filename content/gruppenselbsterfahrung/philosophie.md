@@ -6,6 +6,8 @@ menu:
         identifier: philosophie
 draft: false
 weight: 2
+description: "In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?"
+og_image: "/img/gruppenselbsterf_philo.jpg"
 ---
 
 # Philosophie
@@ -73,7 +75,7 @@ Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualit
 {{% small %}}
 {{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychologische Beratung](https://ifge.at/psychologischeberatung/tiergestuetzteberatung.html) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
+Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychologische Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
 
 Schon die bloße Anwesenheit der Tiere erzeugt bei meinen KlientInnen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. 
 {{% /small %}}
@@ -99,7 +101,7 @@ Durch die bewusste Gesprächsführung werden belastenden Situationen aufgearbeit
 
 {{< image src="/img/silvia_noe_blaue_bank.jpg" float="right" title="Bildbeschreibung" >}} 
 
-Durch meine umfassenden Ausbildungen in der Energetik sowie in der [klassischen Lebensberatung](https://ifge.at/psychologischeberatung/einzelberatung.html) sowie zahlreiche vertiefende Ausbildungen, ist es mir möglich, ganz individuell auf jede Klient*in einzugehen. Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](https://ifge.at/supervision/philosophie.html) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden. Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Die Lösungen, welche gefunden/erfunden werden, zeichnen sich durch Klarheit, Einfachheit und Leichtigkeit aus und lassen sich mit Freude in Ihren Alltag integrieren.
+Durch meine umfassenden Ausbildungen in der Energetik sowie in der [klassischen Lebensberatung](https://ifge.at/psychologische-beratung/einzelberatung/) sowie zahlreiche vertiefende Ausbildungen, ist es mir möglich, ganz individuell auf jede Klient*in einzugehen. Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](https://ifge.at/supervision/philosophie/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden. Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Die Lösungen, welche gefunden/erfunden werden, zeichnen sich durch Klarheit, Einfachheit und Leichtigkeit aus und lassen sich mit Freude in Ihren Alltag integrieren.
 
 **Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!**
 

@@ -6,6 +6,9 @@ menu:
         identifier: philosophie_supervision
 draft: false
 weight: 1
+description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
+og_title: "Supervision am IFGE"
+og_image: "/img/philo_supervision_1.jpg"
 ---
 
 # Philosophie: Supervision

@@ -6,6 +6,9 @@ menu:
         identifier: selbsterfahrungsgruppe
 draft: false
 weight: 5
+description: "Das Ziel ist, Ihre persönlichen Handlungsmöglichkeiten und Ihr Potenzial im Alltag deutlich zu erweitern, um zu mehr Lebensfreude und Leichtigkeit zu gelangen."
+og_title: "Selbsterfahrungsgruppen"
+og_image: "/img/aufstellung_noe1.jpg"
 ---
 
 

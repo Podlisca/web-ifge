@@ -1,0 +1,26 @@
+{{ if .Params.rich_kurs }}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": {{ .Title }},
+      "description": {{ .Description }},
+      "provider": {
+        "@type": "Organization",
+        "name": {{ .Site.Params.rich_provider }},
+        "sameAs": {{ .Site.BaseURL }}
+      }
+    }
+</script>
+{{ end }}
+
+{{ if .Params.rich_logo }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": {{ .Site.BaseURL }},
+    "logo": {{ "/img/logo.jpg" | absURL }}
+  }
+  </script>
+{{ end }}
