@@ -47,7 +47,7 @@ an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schü
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more link="/about/institut/" icon="icon/3_standorte_schwarz.png" title="Lernen an 3 Standorten" >}}
+{{< card-more link="/about/institut/" icon="icon/3_standorte_schwarz.png"  title="Berufsbegleitendes Lernen an 3 Standorten in Wien, Nö & Bgld" >}}
 Für Schüler\*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschätzenden und offenen Umgebung - an 3 Standorten (Wien, Burgenland und Niederösterreich) - lernen können, in der auf die Stärken jedes Einzelnen Rücksicht genommen und jede/r individuell gefördert wird. Die gesammelte Kompetenz eines breiten Referentenpools vermittelt Wissen am IFGE spannend, tiefgreifend und praxisorientiert, sodass sich Fachwissen, Auftreten und praktische Erfahrung letztlich intensiv festigen. Damit ermögliche ich es, dass IFGE-Absolvent\*innen nicht nur fachlich auf höchstem Niveau ausgebildet sind, sondern von meinem erfahrenen, kompetenten Expertenteam auch jene Handwerkzeuge mitbekommen, die für den erfolgreichen Start in der Lebens- und Sozialberatung – psychologische Beratung – oder Supervision notwendig sind. Kurs- und Ortshopping: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
 {{< /card-more >}}
 
