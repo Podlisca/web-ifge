@@ -20,17 +20,16 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-## SYSTEMISCHE AUFSTELLUNG MIT SCHWERPUNKT AUF DER METHODE BERT HELLINGERS
+## SYSTEMISCHE AUFSTELLUNG MIT SCHWERPUNKT AUF DER METHODE BERT HELLINGERS - geleitet von Silvia Podlisca
 
-{{< image src="/img/aufstellung_noe1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/aufstellung_noe1.jpg" float="left" title="Silvia Podlisca leitet seit über 20 Jahren, mit viel Einfühlungsvermögen und Erfahrung, Familienaufstellungen und hat die Aufstellungsarbeit sehr verfeinert und weiterentwickelt. Dieses Wissen und Ihre Erfahrung gibt Frau Silvia Podlisca mit viel Humor und Herzlichkeit, sowohl in der Grundausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*, wie auch in allen aufbauenden Kursen zur Aufstellungsleiter\*in weiter." >}} 
 
-Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung/))
+Schwerpunkt: Familienaufstellung nach Bert Hellinger ([Einzelarbeit](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/) & [Aufstellungen](/gruppenselbsterfahrung/familienaufstellung/)) **WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018**
+
+Kaum eine andere Methode bietet dermaßen kraftvolle und vor allem tiefgehende Interventionsmöglichkeiten wie die [systemische Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) nach Bert Hellinger. Gerade deshalb ist es unerlässlich, dass die Aufstellungsarbeit von fachlich optimal geschulten und in der Praxis erfahrenen psychologischen Berater\*innen ausgeführt wird. Nur in diesem professionellen und achtsamen Rahmen kann sichergestellt werden, dass Klient\*innen auf Dauer von dieser intensiven Methode profitieren. Nach positivem Abschluss unseres Fortbildungslehrgangs für Dipl. Lebens- und Sozialberater\*innen – psychologische Berater\*innen – am IFGE können Sie sich, bei entsprechender Supervision, in die [WKO-Liste der Expert\*innen für Aufstellungsarbeit](https://firmen.wko.at/suche_lebensberater-aufstellung/) eintragen lassen.
 
 Dadurch sind Sie für Ihre Kund\*innen einfach zu finden und zeigen Ihren Klient\*innen gleichermaßen, dass Sie vertrauenswürdige und fachlich kompetente Expertise in der Aufstellungsarbeit vorweisen können. In dieser Ausbildung geht es vor allem darum, einen Einblick in die systemische Denk- und Sichtweise zu erhalten.
 
-WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018
-
-{{% silvia %}}
 
 {{% /floatbox %}}
 
@@ -48,7 +47,7 @@ WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018
 
 ***
 
-Kaum eine andere Methode bietet dermaßen kraftvolle und vor allem tiefgehende Interventionsmöglichkeiten wie die [systemische Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) nach Bert Hellinger. Gerade deshalb ist es unerlässlich, dass die Aufstellungsarbeit von fachlich optimal geschulten und in der Praxis erfahrenen psychologischen Berater\*innen ausgeführt wird. Nur in diesem professionellen und achtsamen Rahmen kann sichergestellt werden, dass Klient\*innen auf Dauer von dieser intensiven Methode profitieren. Nach positivem Abschluss unseres Fortbildungslehrgangs für Dipl. Lebens- und Sozialberater\*innen – psychologische Berater\*innen – am IFGE können Sie sich, bei entsprechender Supervision, in die [WKO-Liste der Expert\*innen für Aufstellungsarbeit](https://firmen.wko.at/suche_lebensberater-aufstellung/) eintragen lassen.
+
 
 
 

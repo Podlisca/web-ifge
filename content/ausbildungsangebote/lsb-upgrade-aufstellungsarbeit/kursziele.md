@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/upgrade_aufstellung_ziel_noe.jpg" float="left">}}
+{{< image src="/img/upgrade_aufstellung_ziel_noe.jpg" title="Schritt für Schritt bringt Silvia Podlisca Ihnen in die Methode der Aufstellungsarbeit ein. Sie achtet insbesondere darauf, dass alle Teilnehmer\*innen den eigenen, individuellen Stil finden. Theoretisches und praktisches Wissen werden im Wechsel abgehalten sodass die größtmögliche Sicherheit im eigenen Tun erfahren. "  float="left">}}
 
 Das Ziel dieser Zusatzausbildung ist es, Sie optimal auf die systemische Arbeit vorzubereiten. 
 
