@@ -53,12 +53,11 @@ Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/phil
 {{% box blue=1 %}}
 {{% small  %}}
 
-{{< image src="/img/ueber_mich_hoch.jpg" float="right" title="Bildbeschreibung" format="hoch" >}}
+{{< image src="/img/ueber_mich_noe.jpg" float="right" title="Dir Arbeit mit Menschen, egal ob in der psychologischen Beratung, Coaching oder in der Lehrtätigkeit, erfüllt mich mit großer Freude. Ich freue mich sehr über die Erfolge meiner Klienten\*innen wie auch meiner angehenden Kolleg\*innen." format="hoch" >}}
 
 Ein besonders großes Anliegen war und ist mir immer meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung, widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig legte ich an der Volkshochschule Wien die Berufsreifeprüfung ab.
 
-Es folgten Seminare im komplementär-medizinischen, psychosomatischen Bereich. Durch meine persönlichen Erfahrungen, legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html) nach Bert Hellinger, am ehemaligen Bert Hellinger Institut. 
-
+Es folgten Seminare im komplementär-medizinischen, psychosomatischen Bereich. Durch meine persönlichen Erfahrungen, legte ich den Schwerpunkt meiner weiteren beruflichen Entwicklung auf Kinesiologie und Klangschalenmassage. Am meisten geprägt hat mich allerdings die Arbeit mit der phänomenologischen [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung.html), am ehemaligen Bert Hellinger Institut. Die kollektive Betrachtungsweise zeigt die unglaublich tiefe Verbundenheit zwischen Familienmitgliedern und ermöglicht Lösungen in der gesamten Tiefe der (kollektiven) Seele.
 Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heutige Arbeit zum größten Teil. Danach folgten die [Ausbildungen zur Dipl. Lebens- und Sozialberaterin](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html), [Sexualberaterin](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung.html) sowie [Supervisorin](https://www.ifge.at/supervision/philosophie.html). 
 
 Die Entscheidung für die Lebens- und Sozialberatung – psychologische Beratung, und gegen die Psychotherapie, war eine reiflich sehr bewusste Entscheidung, da mir der Zugang der Gesundheitserhaltung – frei von jeder Diagnose – sehr entgegenkommt. 
