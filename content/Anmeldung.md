@@ -5,6 +5,8 @@ draft: false
 weight: 7
 url: "/anmeldung.php"
 description: "Hier können Sie sich für die gewünschte Veranstaltung anmelden!"
+aliases:
+    - "/anmeldung/index.html"
 ---
 
 {{< php >}}

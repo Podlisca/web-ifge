@@ -11,6 +11,7 @@ og_title: "Über das IFGE"
 og_image: "/img/institut_wien.jpg"
 aliases:
     - "/übers-ifge/index.html"
+    - "/about/institut.html"
 rich_logo: true
 ---
 
