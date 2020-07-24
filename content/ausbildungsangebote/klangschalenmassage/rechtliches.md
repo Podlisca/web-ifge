@@ -42,7 +42,7 @@ BIC: BKAUATWW zu überweisen.
 
 Bitte geben Sie als Verwendungszweck KS + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Seminar- bzw. Ausbildungsbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50 % zu bezahlen; danach die volle Ausbildungsgebühr  und ein Vertragsrücktritt ist ausgeschlossen.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Seminar- bzw. Ausbildungsbeginn. Bei Absage bis zu 12 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50 % zu bezahlen; danach die volle Ausbildungsgebühr  und ein Vertragsrücktritt ist ausgeschlossen.
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
