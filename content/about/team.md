@@ -6,6 +6,8 @@ menu:
         identifier: team
 draft: false
 weight: 3
+aliases:
+    - "/about/team.html"
 ---
 
 # Institutsteam 
