@@ -85,7 +85,9 @@ aliases:
                 //echo "Empfänger: ".$empfaenger."Betreff: ".$betreff."Message: ".getMessageIntern()." Header:".getHeader($from, ""); 
                 //echo "Extern:";
                 //echo "Empfänger: ".$_POST[$feld_email]."Betreff: ".$betreff."Message: ".getMessageExtern()." Header:".getHeader($from, ""); 
-                header("Location: ".$url_ok); //Mail wurde gesendet
+                //header("Location: ".$url_ok); //Mail wurde gesendet
+                echo("<script>location.href = '".$url_ok."';</script>");
+                echo("Vielen Dank, Ihre Anmeldung war erfolgreich. In Kürze erhalten Sie Ihre Bestätigung.)
                 exit();
             } else{
                 echo "Bei der Anmeldung ist ein Fehler passiert. Bitte versuchen Sie es erneut und prüfen Sie Ihre Eingaben.";
