@@ -72,11 +72,11 @@ aliases:
             $mail_intern = true;
             $mail_extern = true;
 
-            #$mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, ""));
+            $mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, ""));
             
             // Auto-Response an Kunden
             if (isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {                                
-                #$mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, ""));
+                $mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, ""));
             }
             
             if($mail_intern && $mail_extern){
