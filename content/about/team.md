@@ -26,11 +26,11 @@ Das IFGE-Team wächst stetig - aufgrund der Teamgröße konnten nicht alle Refer
 
 Alle Ausbildungen beinhalten Schulungen in:
 {{% box %}}
-{{% small  %}}
+
 * systemischer und personenzentrierter Gesprächsführung sowie gewaltfreier Kommunikation,
 * Kompetenz - sowohl im komplementär-medizinischen, psychosomatischen wie im energetischen Bereich
 * unternehmerisches Know-how - speziell, um in der Gesundheitsbranche erfolgreich zu sein!
-{{% /small  %}}
+
 {{% /box %}}
 
 Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchsten Ausbildungsstandard zu garantieren!

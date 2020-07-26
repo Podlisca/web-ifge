@@ -9,8 +9,6 @@
 
 {{ if eq .Parent.Name "iconmenu"}}
 {{ $link = relref . (print $link ".md" ) }}
-{{ else }}
-{{ $link = "#"}}
 {{ end }}
 
 

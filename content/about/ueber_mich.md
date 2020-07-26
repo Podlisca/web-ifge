@@ -32,12 +32,12 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 
 {{% /floatbox %}}
 
-{{% box blue=1 %}}
+{{% box blue=1 margin=1 %}}
 {{% large %}}
 Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/psychologische-beratung/einzelberatung/), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](/supervision/einzelsupervision/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
 {{% /large %}}
 {{% small %}}
-  {{< image src="/img/ziel_selbsthilfe.jpg" title="Bildbeschreibung" >}}
+  {{< image src="/img/ziel_selbsthilfe.jpg" title="Foto Selbsthilfe" >}}
 {{% /small %}}
 {{% /box %}}
 

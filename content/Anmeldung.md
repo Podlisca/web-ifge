@@ -57,8 +57,7 @@ aliases:
             //$empfaenger = "admin@leichtware.at, antje.stimpfl@leichtware.at";
             $betreff = "Anmeldung ";
             
-            $url_ok = "http://www.domain.de/ok.php"; //Zielseite, wenn E-Mail erfolgreich versendet wurde
-            $url_fehler = "http://www.domain.de/fehler.php"; //Zielseite, wenn E-Mail nicht gesendet werden konnte                       
+            $url_ok = "https://ifge.at/anmeldung/bestaetigung/"; //Zielseite, wenn E-Mail erfolgreich versendet wurde              
               
             
             //E-Mail Adresse des Besuchers als Absender
@@ -73,24 +72,23 @@ aliases:
             $mail_intern = true;
             $mail_extern = true;
 
-            $mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, ""));
+            #$mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, ""));
             
             // Auto-Response an Kunden
             if (isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {                                
-                $mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, ""));
+                #$mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, ""));
             }
             
             if($mail_intern && $mail_extern){
-                echo "Vielen Dank für Ihre Anmeldung.";
+                //echo "Vielen Dank für Ihre Anmeldung.";
                 //echo "Intern:";
                 //echo "Empfänger: ".$empfaenger."Betreff: ".$betreff."Message: ".getMessageIntern()." Header:".getHeader($from, ""); 
                 //echo "Extern:";
                 //echo "Empfänger: ".$_POST[$feld_email]."Betreff: ".$betreff."Message: ".getMessageExtern()." Header:".getHeader($from, ""); 
-                #header("Location: ".$url_ok); //Mail wurde gesendet
+                header("Location: ".$url_ok); //Mail wurde gesendet
                 exit();
             } else{
-                echo "Bei der Anmeldung ist ein Fehler passiert.";
-                #header("Location: ".$url_fehler); //Fehler beim Senden
+                echo "Bei der Anmeldung ist ein Fehler passiert. Bitte versuchen Sie es erneut und prüfen Sie Ihre Eingaben.";
                 exit();
             }
         }

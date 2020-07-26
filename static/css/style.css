@@ -269,6 +269,10 @@ img {
     align-items: center;
 }
 
+.box.margin {
+    margin: 0 var(--padding-main);
+}
+
 .box.menu .card {
     padding: 0.2em;
 }
@@ -556,9 +560,13 @@ main ul li:nth-child(even) {
     }
 }
 
-.floatbox img.left {
+.floatbox img.left, .float-image-cont {
     float: left;
     padding-right: var(--padding-main);
+}
+
+.floatbox ul {
+    padding-left: 2em;
 }
 
 .floatbox img.right {

@@ -21,28 +21,30 @@ aliases:
 
 {{< line icon="icon/zitat.png" >}}
 
-{{% box top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/silvia_noe_blaue_bank.jpg">}}
+{{% floatbox %}}
+{{% float-images %}}
+{{< image src="/img/silvia_noe_blaue_bank.jpg" >}}
+{{< linebreak >}}
 {{< image src="/img/philo_noe_ausbildung.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
-{{% /small  %}}
-{{% large %}}
+{{< linebreak >}}
+{{% /float-images %}}
 
 In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
-
+{{% box %}}
 * Herzlichkeit,
 * Schulung in systemischer- und personenzentrierter Gesprächsführung sowie gewaltfreier, Kommunikation,
 * Achtsamkeit, Wertschätzung und arbeiten auf Augenhöhe,
 * Kompetenz - sowohl im komplementär-medizinischen, psychosomatischen wie im beraterischen Bereich,
-* flexible, individuelle und persönliche Betreuung in Kleingruppen
- 
+* flexible, individuelle und persönliche Betreuung in Kleingruppen 
+{{% /box %}}
 
-an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schüler\*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen. Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent\*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Schüler\*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt.
+an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schüler\*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen.
+
+Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent\*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Schüler\*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt.
 
 {{< silvia >}}
 
-{{% /large %}}
-{{% /box %}}
+{{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
