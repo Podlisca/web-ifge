@@ -39,7 +39,17 @@ weight: 3
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-#### Termine folgen
+#### 02. Jänner 2021
+
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
+
+
+**Modul 1:** 02.01. und 03.01.2021<br/>
+**Modul 2:** 06.03. und 07.03.2021<br/>
+**Modul 3:** 27.03. und 28.03.2021<br/>
+
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}

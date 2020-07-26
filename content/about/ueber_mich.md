@@ -76,7 +76,7 @@ Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es n
 
 
   {{< line icon="icon/zertifikat.png" >}}
- #### Eigetragene Expertin
+ #### Eingetragene Expertin
 ***
 <br/>
 {{% box top-align=1 %}}
