@@ -32,7 +32,7 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: 04. Oktober 2020
+#### Start: 03. Oktober 2020
 
 Die Ausbildung umfasst 6 Ausbildungststunden.<br/>
 
