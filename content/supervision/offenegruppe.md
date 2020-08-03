@@ -60,7 +60,7 @@ Samstag 09:00 bis 18:00 Uhr<br/>
 Leitung: Mag. Carina Szauer<br/> 
 [Anmeldung](/anmeldung.php)
 
-**24.10.2020**<br/>
+**31.10.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
 Leitung: Mag. Carina Szauer<br/> 
 [Anmeldung](/anmeldung.php)
