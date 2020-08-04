@@ -52,13 +52,22 @@ Leitung: Silvia Podlisca<br/>
 
 ### Ausgebucht
 
+***
+### 23.08. - 27.08.2021<br/>
+
+Mo. - Do. 09:00 bis 18:00 Uhr<br/>
+Fr. 09:00 bis 14:00 Uhr<br/>
+Leitung: Silvia Podlisca<br/> 
+
+### [Anmeldung](/anmeldung.php)
+
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-### 27.07. - 31.07.2020<br/>
+### 26.07. - 30.07.2021<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
