@@ -93,7 +93,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 Mittwochs von 09:00 bis 15:00 Uhr
 
-[ANMELDUNG](/anmeldung.php)
+[Warteliste](/anmeldung.php)
 
 [Termine LSB 12 herunterladen](/downloads/LSB_12_termine.pdf)
 
