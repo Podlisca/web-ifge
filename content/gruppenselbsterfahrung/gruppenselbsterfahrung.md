@@ -22,7 +22,7 @@ og_image: "/img/aufstellung_noe1.jpg"
 **Intensivwoche 2020: in Wien: 06. - 10.07.2020**
 {{% /small  %}}
 {{% small  %}}
-**geschlossene Gruppe in Wien: ab 04.09.2020**
+**geschlossene Gruppe in Wien: in Planung**
 {{% /small  %}}
 {{% /box %}}
 
@@ -49,11 +49,11 @@ Ein Einstieg in die Gruppenselbsterfahrung während dieser Zeit ist nicht mögli
 
 
 {{% /card-more %}}
-{{< card-more icon="icon/termin_kursplan.png" title="Geschlossene Selbsterfahrungsgruppe in Wien: Start 04. Sept. 2020">}}
+{{< card-more icon="icon/termin_kursplan.png" title="Geschlossene Selbsterfahrungsgruppe in Wien: in Planung">}}
 
-Die Gruppe findet ab September 2020 jeden zweiten Freitag von 10.00 bis 13.00 Uhr statt - beginnend mit 04.09.2020. Der letzte Termin ist der 11.12.2020
 
-Termine: 04.09.2020  / 18.09.2020 / 02.10.2020 / 16.10.2020 / 30.10.2020 / 13.11.20 / 27.11.2020/ 11.12.2020
+
+Termine: in Planung
  
 Ein Einstieg in die Selbsterfahrungsgruppe während der Zeit ist nicht möglich. 
 
@@ -139,7 +139,7 @@ Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtssta
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/3_Standorte.png" >}}
+{{< line icon="icon/3_standorte.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
