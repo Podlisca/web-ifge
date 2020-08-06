@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/ziel_vertrauenslehrer.jpg" float="left">}} 
+{{< image src="/img/ziel_vertrauenslehrer.jpg" title="Je früher man bei Konflikten eingreift oder auch Verdachtsmomente anspricht, umso leichter gelingen Lösungen. Am IFGE lernen Sie WIE sie Konflikte und heikle Situationen ansprechen können und alle Beteiligten das Gesicht wahren können." float="left">}} 
 
 In unserer 100 Stunden umfassenden Ausbildung lernen Sie, Konflikte gar nicht erst entstehen zu lassen. Dies ist insofern von zentraler Bedeutung, als dass gerade unterschwellige, schwelende Konfliktherde heimlich zerstörerisch wirken können. 
 
@@ -60,7 +60,7 @@ Der Mangel an zusätzlicher Ausbildung und an verinnerlichten Methoden ist vor a
 {{% small %}}
 Da es für den Posten der Vertrauenslehrer\*innen kaum Ausbildungsmöglichkeiten gibt, stehen viele Lehrer\*innen in dieser Funktion ratlos und überfordert vor den oben genannten Fragen und sind verunsichert: Was darf ich? Was ist der fachlich korrekte nächste Schritt? Was sollte ich keinesfalls tun? Häufig melden sich jene Lehrer\*innen freiwillig oder werden zur Vertrauensperson ernannt, die von vornherein ein besonders gutes Verhältnis zu den Schüler\*innen haben. Gerade durch das daher gelegentlich bereits bestehende Vertrauens- und Naheverhältnis gilt es auch, die Frage nach einer gesunden Distanz zu den Anliegen der Schüler\*innen fachlich und emotional zu beantworten.
 
-{{< image src="/img/vertrauenslehrer_ziel.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/vertrauenslehrer_ziel.jpg" title="Konflikte im Schulalltag sind unvermeidbar. Doch gewusst Wie lassen sich Konflikte leichter und schneller lösen. Die Kinder lernen, dass unterschiedliche Meinungen und Herangehensweise auch eine Bereicherung sein können. Toleranz und Wertschätzung werden so ganz von selbst mehr und mehr werden im täglichen Umgang" float="left" >}}
 
 In unserer Ausbildung zum/zur Vertrauenslehrer\*in erlernen Sie einen umfassenden Methodenkatalog der Gesprächsführung. Unser Schwerpunkt liegt dabei auf gewaltfreier und wertschätzender Kommunikation. Neben vertiefenden Gesprächstechniken vermitteln wir Ihnen am IFGE mittels systemischer Elemente die Fähigkeiten, die es braucht, um trotz gesundem Abstand zu Ihren Schüler\*innen ein vertrauensvolles und emphatisches Verhältnis zu Ihren Schützlingen aufzubauen. 
 

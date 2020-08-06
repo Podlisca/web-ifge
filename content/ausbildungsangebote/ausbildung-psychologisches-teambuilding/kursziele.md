@@ -18,7 +18,7 @@ weight: 1
 
 In unserer Ausbildung wird jede Intervention fachlich erklärt, sodass Sie diese in Zukunft ideal anleiten können. Gleichzeitig gehen wir einen intensiven Schritt weiter, denn jedes Tool wird psychologisch beleuchtet. Wir gehen dabei gründlich vor: Vom Beginn der Intervention über die Begleitung einzelner Team-Spiele bis hin zu der Arbeit mit den aus den Spielen gewonnenen Erkenntnissen. 
 
-{{< image src="/img/teambuilding_ziel_1.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/teambuilding_ziel_1.jpg" title="Sie lernen als Coach die beobachteten Dynamiken konstruktiv dem Team zur Verfügung zu stellen. Das Ziel ist, neben dem Spaß, dass das Team lernt mit unterschiedlichen Konflikten und Herausforderungen wertschätzend umzugehen und die Unterschiedlichkeiten als Ressourcen erkennt." float="right" >}}
 
 So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht. Am [IFGE](/about/institut/) wir dabei mit hochmodernen Unterrichtsmethoden gearbeitet, zu denen auch eine Vielzahl an neuartigen Team-Building-Tools gehören. 
 
@@ -50,7 +50,7 @@ So können Sie die verkehrte Welt mit der Umkehrbrille selbst erleben, bevor Sie
 
 In der Fortbildung fließen die langjährige, wirtschaftliche Erfahrung in großen Organisationen mit der umfassenden psychologischen Komponente der Teamarbeit zusammen. Die Zusatzausbildung „Psychologisches Teambuilding“ hebt sich durch den intensiv psychologischen Schwerpunkt von reinen Tool-Vermittlungs-Seminaren deutlich ab. An zwei Wochenenden wird ein besonderes Hauptaugenmerk auf die wesentlichen Faktoren von Gruppendynamiken in unterschiedlichsten Kontexten gelegt. 
 
-{{< image src="/img/teambuilding_ziel_2.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/teambuilding_ziel_2.jpg" title="Sich als Coach authentisch und professionell zu präsentieren ist ein wichtiger Faktor des Erfolgens. Das allerwesentlichste dabei ist: bleiben Sie sich treu!" float="left" >}}
 
 Dies ermöglicht Ihnen, Strukturen rasch zu erkennen und somit letztlich auch, daraus mit einem Team konstruktive, neue Muster zu gestalten, wodurch Sie sich von klassischen Unternehmens-Coaches zu unterscheiden lernen. Denn Sie erhalten nicht nur Anleitungen für neuartige und moderne Tools in der Teamarbeit, sondern eignen sich durch die Fortbildung wichtiges psychologisches Zusatz-Know-how an.
 
@@ -63,7 +63,7 @@ Mit diesem Fachwissen auf dem Gebiet der Psychologie werden aus reinen Teamspiel
 {{% small %}}
 #### LANGJÄHRIGE ERFAHRUNG IM PSYCHOLOGISCHEN WIRTSCHAFTSBEREICH
 
-{{< image src="/img/teambuilding_ziel_3.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/teambuilding_ziel_3.jpg" title="Teambuildingmaßnahmen sollen Spaß machen aber auch eine nachhaltige Wirkung in die gewünschte Richtung zeigen. Die psychologische Aufarbeitung garantiert Ihren Erfolg da die Teilnehmer\*innen das WOFÜR erkennen. " float="right" >}}
 
 Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet das IFGE in seiner Zweigstelle in Pinkafeld dabei nicht nur fachlich fundierte Inhalte, sondern auch die idealen Räumlichkeiten: 
 
