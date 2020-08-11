@@ -17,7 +17,7 @@ og_image: "/img/gewaltspirale_noe.jpg"
 {{< line icon="icon/paar_sexualberatung.png" >}}
 {{% floatbox %}}
 
-{{< image src="/img/gewaltspirale_noe.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/gewaltspirale_noe.jpg" title="Sexualität, Intimität und Nähe sind Themen, die uns alle betreffen und oftmals sehr betroffen machen. Gefühle wie Frustration, Ohnmacht, Wut aber auch Freude werden besonders intensiv erlebt. Gerade deshalb ist es wichtig, dass Lebens- und Sozialberater\*innen – psychologische Berater\*innen besonders geschult werden. Am IFGE erhalten Sie nicht nur fachliche Kompetenzen, sondern Sie lernen auch, mit schwierigen Themen in der psychologischen Beratung umzugehen." float="left" >}}
 
 **Methodenschwerpunkt:** gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, systemische Gesprächsführung
 
@@ -29,7 +29,7 @@ Der Bereich der [Sexualberatung](/psychologische-beratung/spezialisierungen/sexu
 
 Da es für Klient\*innen großes Vertrauen in die Beratenden benötigt, um sich in einem derart gelagerten Beratungsprozess überhaupt zu öffnen, sind geschulte und empathiefähige Berater\*innen immer wieder gefragt. Weil das Feld der Sexualberatung aufgrund der hochintimen Anliegen der Klient\*innen ein besonders sensibles ist, ist es wichtig, möglichst umfassend im Bereich der [Sexual- und Paarberatung](/psychologische-beratung/spezialisierungen/sexualitaetpaare/) ausgebildet zu sein, um die eigenen Klient\*innen optimal unterstützen zu können. Viele Ausbildungen im Bereich der [Lebens- und Sozialberatung - psychologischen Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) streifen dieses Themengebiet nur kurz, wodurch sich manche Lebens- und Sozialberater\*innen - psychologische Berater\*innen mit sexuellen Klient\*innen-Anliegen unwohl oder gar überfordert fühlen.
 
-{{< image src="/img/sex_upgrade_wien.jpg" title="Bildbeschreibung" float="right">}}
+{{< image src="/img/sex_upgrade_wien.jpg" title="Psychologische Beratung oder Sexualberatung? Paarberatung oder Paar-Sexualberatung? Mach dies überhaupt einen Unterschied in der Lebensberatung – psychologischen Beratung? JA – macht es! Lernen Sie die Unterschiede in der Herangehensweise am IFGE kennen und erweitern Sie Ihr Angebot als Lebensberater\*in – psychologische Berater\*in." float="right">}}
 
 Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberatung – psychologischen Beratung ein besonderes Hauptaugenmerk auf die Besonderheiten und Interventionsmöglichkeiten in der Paar- und Sexualberatung gelegt wird, können im Rahmen der Gesamtausbildung bestimmte vertiefende Themen dennoch nur im Überblick für die reguläre Arbeit in der psychologischen Beratung behandelt werden. Wer sich später auf das Thema „Sexualberatung“ spezialisieren und das in der Grundausbildung erlernte Wissen vertiefen sowie erweitern möchte, der hat dazu in unserem Upgrade die Möglichkeit. Die Fortbildung eignet sich darüber hinaus selbstverständlich auch für alle diplomierten oder sich in Ausbildung befindlichen psychologischen Berater\*innen anderer Ausbildungsinstitute, die ihre Interventionsmöglichkeiten vertiefen möchten.
 
@@ -52,7 +52,7 @@ Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberat
 
 {{% floatbox %}}
 
-{{< image src="/img/unterricht_sexualberatung_wien.jpg" title="Bildbeschreibung" float="left">}}
+{{< image src="/img/unterricht_sexualberatung_wien.jpg" title="Gerade bei Themen wie abweichende Sexualität, Opferarbeit, Täterarbeit und belastende Phantasien, sind Fachexpertise, ein gesunder Abstand zu unseren Klienten\*innen sowie die eigene Psychohygiene besonders wichtig. Am IFGE wird sehr praxisorientiert darauf eingegangen." float="left">}}
 
 Durch unsere hochmodernen Unterrichtsmethoden, die Expertise unserer Referent\*innen und den idealen Mix aus der Vermittlung von aktuellstem Fachwissen und praxisnahen Übungssequenzen erweitern Sie Ihr fachspezifisches Wissen spielerisch und können sich mit Ihrem fundierten Zusatzangebot von Ihren Kolleg*innen  abgrenzen. 
 
@@ -60,7 +60,7 @@ Die wesentlichen Inhalte der Zusatzausbildung konzentrieren sich dabei auf [sexu
 {{% /floatbox %}}
 
 {{% floatbox %}}
-{{< image src="/img/sexualberatung_paarberatung_4.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/sexualberatung_paarberatung_4.jpg" title="Vieles wird in Kleingruppe erarbeitet und anschließend über die eigens für das IFGE entwickelte Software den Teilnehmern zur Verfügung gestellt. So erhalten Sie als Teilnehmer\*in jederzeit Feedback von allen Trainer\*innen am IFGE und können auch jederzeit eigenes Feedback – anonym oder offen – hinterlassen. " float="right" >}}
 
 Da am IFGE die systemische Sichtweise auf Probleme aller Art ein zentraler Teil all unserer Ausbildungen ist, wird die Systemik als Methode auch in dem Upgrade „Paar- und Sexualberatung“ in Zukunft eine wesentliche Rolle spielen, um die Spezialisierungen am Institut fachgerecht sowie zieldienlich zu verbinden. Die Ausbildungsinhalte eigenen sich daher in besonderem Maße auch für bereits am IFGE lernende Schüler\*innen, die schon ein gewisses Maß an systemischem Grundwissen mit einbringen.
 
@@ -81,7 +81,7 @@ Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professio
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/silvia_wien1.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/silvia_wien1.jpg" title="Oftmals wagen Klient\*innen den Weg bei den sogenannten „heiklen Themen“ nicht in die psychologische Beratung. Angst vor Wertungen und Vorverurteilungen aber auch Angst die Themen endlich anzugehen sind oftmals hinderlich. Deshalb findet Silvia Podlisca – Institutsleiterin des IFGE, es besonders wichtig, in diesen Themen gut ausgebildet zu sein und auch durch einen bewussten Auftritt auf der Website sich als Expert\*in für dieses Gebiet zu zeigen.  " float="left" >}}
 
 In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. 
 
@@ -95,7 +95,7 @@ Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkenne
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/sex_upgrade_wien.jpg" title="Bildbeschreibung" float="right" >}}
+{{< image src="/img/sex_upgrade_wien.jpg" title="Unterschiedliche Phantasien, unterschiedliches Lustempfinden, Wochenendbeziehungen, Patchworkfamilien – alles Themen die das Beziehungsleben belasten können. Sexualberatung – egal im Einzel oder als Paar – ist oftmals der erste Schritt in eine erfüllende Sexualität." float="right" >}}
 
 Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung intensiv beleuchtet: **Der Umgang mit sexuellen Phantasien**. 
 

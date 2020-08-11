@@ -17,7 +17,7 @@ weight: 1
 
 #### SYSTEMBRETT & SYSTEMDIMENSIONSBRETT®  – VERSCHIEDENE MÖGLICHKEITEN IDEAL AUSSCHÖPFEN
 
-{{< image src="/img/kursziel_systembrett.jpg" float="left">}}
+{{< image src="/img/kursziel_systembrett.jpg" title="Silvia Podlisca leitet seit über 20 Jahren Aufstellungen sowohl im Plenum mit Repräsentanten\*innen wie auch im Einzelsetting am Systembrett.  Seit 2012 leitet sie den WKO – zertifizierten Diplomlehrgang für Lebens- und Sozialberatung – psychologische Beratung mit systemischem Schwerpunkt. "float="left">}}
 
 Für die [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/) erlernen bzw. verankern Sie gleich zwei Systembrett-Techniken: Sie beginnen mit der systemischen Arbeit auf dem klassischen Brett und steigern Ihre Fähigkeiten im Zuge der Module Schritt für Schritt, bis Sie ebenso die Methode der Aufstellung auf dem patentierten [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) beherrschen werden.
 

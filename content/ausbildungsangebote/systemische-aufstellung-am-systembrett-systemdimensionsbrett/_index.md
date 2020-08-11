@@ -20,7 +20,7 @@ og_image: "/img/brett_2.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/brett_2.jpg" title="Bildbeschreibung" float="left" >}}
+{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT & SYSTEMDIMENSIONSBRETT®“ liegt der Focus der Ausbildung auf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung mitzubringen. " float="left" >}}
 
 Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](/psychologischeberatung/einzel_system.html)).
 

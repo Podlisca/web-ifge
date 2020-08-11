@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/tiergestuetzt_2.jpg" float="left">}} 
+{{< image src="/img/tiergestuetzt_2.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 
 
 Bei dieser Fortbildung werden die Berater\*innen ausgebildet, Hunde und Katzen in die psychologische Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
 

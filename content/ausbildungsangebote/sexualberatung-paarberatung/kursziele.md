@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_sexualberatung_paarberatung.jpg" float="left">}} 
+{{< image src="/img/kursziel_sexualberatung_paarberatung.jpg" title="Silvia Podlisca arbeitet seit vielen Jahren als psychologische Beraterin – Lebens und Sozialberaterin in freier Praxis und hat unzählige Paare wie auch Einzelpersonen begleitet. Seit Anbeginn an, war Sexualberatung ein Fokus in Ihrer Arbeit. Silvia Podlisca greift bei all Ihren Ausbildungen auf ihre gesamte Erfahrung zurück. Im Upgrade „Sexualberatung und Paarberatung“ verbinden Silvia Podlisca die systemisch-kollektive Herangehensweise mit der klassischen Sexualberatung. Gerade bei Themen wie Opferarbeit, Täterarbeit, abweichende Phantasien usw. zeigt sich, dass die Traumatisierung oftmals über Generationen geht. Sie lernen die persönliche Belastung ihrer Klienten\*innen im Kontext des Familiensystem zu erfassen und so ermöglichen Sie Ihren Klienten\*innen völlig neue Einsichten und neue Möglichkeiten für eine befreite und selbstbestimmte Sexualität" float="left">}} 
 
 Durch die Zusatzausbildung „Sexualberatung – Paarberatung“ erhalten Sie nicht nur eigene Sicherheit in diesem Themenkomplex, sondern vor allem spezifisches Know-how in der Beratung von Einzelpersonen und Paaren, deren Anliegen sich um den breit gefächerten Bereich der Sexualität drehen. 
 
