@@ -18,7 +18,7 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/politik_1.jpg" float="left">}} 
+{{< image src="/img/politik_1.jpg" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett darauf, dass kollektive Traumata berücksichtigt werden und Lösungen im Einklang mit der Familiengeschichte sind." float="left">}} 
 
 ## Auf den Spuren der Vergangenheit – die Gegenwart verstehen
 

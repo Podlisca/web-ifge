@@ -15,7 +15,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/politik.jpg" float="left">}}
+{{< image src="/img/politik.jpg" title="Sozialpolitische Aspekte sind bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett sind ein wesentlicher Teil, um kollektive Traumata aufzulösen. Deshalb gibt es am IFGE ein Seminar welche die wichtigsten Aspekte beleuchtet." float="left">}}
 
 Das Seminar "Auf den Spuren der Vergangenheit – die Gegenwart verstehen" vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der [psychologischen Beratung](/psychologische-beratung/einzelberatung/). Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen. 
 
