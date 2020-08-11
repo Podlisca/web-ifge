@@ -20,7 +20,7 @@ og_image: "/img/einzelsupervision_noe.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/einzelsupervision_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelsupervision_noe.jpg" float="left" title="Supervision ist für Lebens- und Sozialberater\*innen ein wesentlicher Teil, um beruflich erfolgreich zu sein aber auch eine wesentliche Säule der eigenen Psychohygiene. Mit Wertschätzung und durch Arbeiten auf Augenhöhe werden die beruflichen Situationen reflektiert und beleuchtet. So erhalten Sie wieder den nötigen Abstand, sodass Ihnen die nächsten Schritte mit Ihren Klienten\*innen wieder mit Leichtigkeit gelingen. " >}} 
 
 Alle Berater\*innen stehen im Zuge der Karriere immer wieder vor fachlichen oder persönlichen Herausforderungen, die den Beratungsprozess verlangsamen, die ihn ins Stocken bringen oder im ungünstigsten Fall den Beratungsabbruch durch Klient\*innen zur Folge haben können. Gerade in den ersten Jahren der beratenden Tätigkeit ist eine fachliche Begleitung für den persönlichen Erfolg ratsam. 
 

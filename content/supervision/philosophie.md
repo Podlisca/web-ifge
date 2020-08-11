@@ -18,7 +18,7 @@ og_image: "/img/philo_supervision_1.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/philo_supervision_1.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/philo_supervision_1.jpg" float="left" title="Als eingetragene Supervisorin mit über 20 Jahren Berufserfahrung, unterstützt Silvia Podlisca mit viel Freude und Engagement, angehende wie auch erfahren Kollegen im psychosozialen Bereich." >}}
 
 Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
 
