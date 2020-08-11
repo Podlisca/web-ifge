@@ -23,9 +23,6 @@ weight: 1
 
 ***
 
-AUFBAU DES LEHRGANGS SUPERVISION
-100 Ausbildungsstunden mit **mind. 8 max. 12 Teilnehmer\*innen**
-
 ## Seminarhinhalte
 
 * Humanistische Zugänge in der psychosozialen Beratung
