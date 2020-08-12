@@ -269,7 +269,7 @@ img {
     align-items: center;
 }
 
-.box img {
+.box>div>div>img {
     margin: 0 auto;
 }
 
