@@ -103,7 +103,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-**Dreitagesaufstellung: 04.06. - 06.06.2020**<br/>
+**Dreitagesaufstellung: 04.12. - 06.12.2020**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
