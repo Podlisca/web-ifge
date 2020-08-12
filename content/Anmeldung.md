@@ -13,14 +13,19 @@ aliases:
  
     <?php
 
-        function getHeader($from, $cc) {
+        function getHeader($from, $cc, $reply) {
             $res="From: $from";
 
             if (!empty($cc)) {
-                $res .= "\n";
+                $res .= "\r\n";
                 $res .= "Cc: $cc";
             }
             
+            if (!empty($reply)) {
+                $res .= "\r\n";
+                $res .= "Reply-To: $reply";
+            }
+
             //Email als UTF-8 senden
             $res .= "\nContent-type: text/plain; charset=utf-8";
             return $res;
@@ -55,15 +60,15 @@ aliases:
             
             $empfaenger = "silvia.podlisca@ifge.at, wien@ifge.at, buchhaltung@ifge.at";
             //$empfaenger = "admin@leichtware.at, antje.stimpfl@leichtware.at";
-            $betreff = "Anmeldung ";
+            $betreff = "Anmeldung IFGE ";
             
             $url_ok = "https://ifge.at/anmeldung/bestaetigung/"; //Zielseite, wenn E-Mail erfolgreich versendet wurde              
               
             
-            //E-Mail Adresse des Besuchers als Absender
-            //if ($sendermail_antwort and isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {
-            //    $from = $_POST[$feld_email];
-            //}
+            //E-Mail Adresse des Besuchers als Reply-Adresse
+            if (isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {
+                $reply = $_POST[$feld_email];
+            }
 
             // Betreff
             $veranstaltung .= $_POST[$feld_veranstaltung];
@@ -72,19 +77,19 @@ aliases:
             $mail_intern = true;
             $mail_extern = true;
 
-            $mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, ""));
+            $mail_intern = mail($empfaenger, $betreff, getMessageIntern(), getHeader($from, "", $reply));
             
             // Auto-Response an Kunden
             if (isset($_POST[$feld_email]) and filter_var($_POST[$feld_email], FILTER_VALIDATE_EMAIL)) {                                
-                $mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, ""));
+                $mail_extern = mail($_POST[$feld_email], $betreff, getMessageExtern(), getHeader($from, "", "silvia.podlisca@ifge.at"));
             }
             
             if($mail_intern && $mail_extern){
                 //echo "Vielen Dank für Ihre Anmeldung.";
                 //echo "Intern:";
-                //echo "Empfänger: ".$empfaenger."Betreff: ".$betreff."Message: ".getMessageIntern()." Header:".getHeader($from, ""); 
+                //echo "Empfänger: ".$empfaenger."Betreff: ".$betreff."Message: ".getMessageIntern()." Header:".getHeader($from, "", ""); 
                 //echo "Extern:";
-                //echo "Empfänger: ".$_POST[$feld_email]."Betreff: ".$betreff."Message: ".getMessageExtern()." Header:".getHeader($from, ""); 
+                //echo "Empfänger: ".$_POST[$feld_email]."Betreff: ".$betreff."Message: ".getMessageExtern()." Header:".getHeader($from, "", ""); 
                 //header("Location: ".$url_ok); //Mail wurde gesendet
                 echo("<script>location.href = '".$url_ok."';</script>");
                 echo("Vielen Dank, Ihre Anmeldung war erfolgreich. In Kürze erhalten Sie Ihre Bestätigung.");

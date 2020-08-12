@@ -20,7 +20,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/teamfoto.jpg" float="left" >}}
+{{< image src="/img/teamfoto.jpg"title="Das gesamte IFGE Team steht für Freude am Tun. Jeder Referent, jede Referentin bemüht sich, Sie in ihrer Ausbildung zu unterstützen. Wofür auch immer Sie sich am IFGE entscheiden – wir freuen uns auf Sie und geben unser Bestes." float="left" >}}
 
 Das IFGE-Team wächst stetig - aufgrund der Teamgröße konnten nicht alle Referent*innen am gleichen Fototermin vor Ort sein.
 
@@ -50,7 +50,7 @@ Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  ein
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/karlovits.jpg">}}
+{{< image src="/img/karlovits.jpg" title="Dominique Karlovits betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
 {{% /small  %}}
 {{% small %}}
 

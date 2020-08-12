@@ -22,7 +22,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_noe3.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/silvia_noe3.jpg" float="left" title="Ich arbeite seit 2000 im psychosozialen Bereich und ich bin heute noch genau so begeistert und voller Leidenschaft bei meiner Berufung. Hierbei ist mir der Mix zwischen Lehrtätigkeit und die Arbeite in der psychologischen Beratung sehr wichtig. Denn nur wer die Praxis gut kennt, kann diese erfolgreich weitervermitteln. Meine gesammelten Erfahrungen ließen selbstverständlich in allen Lehrgängen (Lebens- und Sozialberatung, Aufstellungsarbeit., Sexualberatung, Paarberatung, Coaching, Supervision) ein.">}}
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
@@ -37,7 +37,7 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/psychologische-beratung/einzelberatung/), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](/supervision/einzelsupervision/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
 {{% /large %}}
 {{% small %}}
-  {{< image src="/img/ziel_selbsthilfe.jpg" title="Foto Selbsthilfe" >}}
+  {{< image src="/img/ziel_selbsthilfe.jpg" title="Wer als Lebens- und Sozialberater\*in , Coach, Supervisor\*in , Aufstellungsleiter\*in  erfolgreich sein will, muss gut zuhören können. Aktives Zuhören auf allen Ebenen, Empathie, und Freude am Arbeiten mit Menschen sind wichtige Grundsteine in der Lebensberatung – psychologischen Beratung sowie in allen psychosozialen Berufen. " >}}
 {{% /small %}}
 {{% /box %}}
 
@@ -45,7 +45,7 @@ Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hil
 
 Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansatz verfolge ich seit jeher auch im [Business-Coaching](https://www.fcbp.at/), welches seit Jahren mein Angebot ergänzt. Gerade in bestehenden Firmenstrukturen ist es wesentlich, Muster rasch zu erkennen und diese anzusprechen, um im Anschluss mit den Verantwortlichen neue Strategien zu entwickeln. Da mir die Erhaltung bzw. Wiederherstellung eines erfolgreichen und gesunden Betriebsklimas in Unternehmen, die meine Hilfe in Anspruch nehmen, seit jeher ein persönliches Anliegen ist, biete ich regelmäßig Aus- und Fortbildungsseminare für Führungspersönlichkeiten im gehobenen Management an. Der Wunsch, gewinnbringende Unternehmensstrategien mit betriebspsychologischem Fachwissen zu verbinden, gab schließlich den Anstoß dazu, im Jahr 2017 gemeinsam mit Martin Bransky [„Bransky und Podlisca Firmencoaching FCBP“](https://www.fcbp.at/)) ins Leben zu rufen, wodurch ich heute mit viel Freude Führungskräfte in allen Bereichen – von der Unternehmensgründung bis zur Mitarbeiter*innenführung – effektiv und wertschätzend unterstütze.
 
-{{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Tiere in der Lebensberatung – psychologischen Beratung und Krisenberatung haben sich als unglaubliche Bereicherung herausgestellt. Jeder psychologische Prozess wird liebevoll und treu von den Tieren begleitet. Dadurch fällt es Klienten\*innen deutlich leichter, sich zu öffnen – ins besonders bei sehr sensiblen Themen wie zum Beispiel in der Sexualberatung, Opferarbeit oder auch Täterarbeit." >}}
 
 Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie.html) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen. Dabei gilt zu beachten, dass meine Arbeit keine psychotherapeutische ist und keine medizinische Behandlung ersetzt.
 
@@ -53,7 +53,7 @@ Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/phil
 {{% box blue=1 %}}
 {{% small  %}}
 
-{{< image src="/img/ueber_mich_noe.jpg" float="right" title="Dir Arbeit mit Menschen, egal ob in der psychologischen Beratung, Coaching oder in der Lehrtätigkeit, erfüllt mich mit großer Freude. Ich freue mich sehr über die Erfolge meiner Klienten\*innen wie auch meiner angehenden Kolleg\*innen." format="hoch" >}}
+{{< image src="/img/ueber_mich_noe.jpg" float="right" title="Dir Arbeit mit Menschen, egal ob in der Lebensberatung - psychologischen Beratung, Supervision, Coaching oder in der Lehrtätigkeit, erfüllt mich mit großer Freude. Ich freue mich sehr über die Erfolge meiner Klienten\*innen wie auch meiner angehenden Kolleg\*innen." format="hoch" >}}
 
 Ein besonders großes Anliegen war und ist mir immer meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung, widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig legte ich an der Volkshochschule Wien die Berufsreifeprüfung ab.
 
