@@ -17,6 +17,11 @@
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'UA-52015689-3', { 'anonymize_ip': true });
+        gtag('config', 'AW-1053249710');
+        
+        {{ with .Params.conversiontracker }}        
+        gtag('event', 'conversion', {'send_to': 'AW-1053249710/73K7CPPLxdoBEK6hnfYD'});
+        {{ end }}
 
         var gascript = document.createElement("script");
         gascript.async = true;
