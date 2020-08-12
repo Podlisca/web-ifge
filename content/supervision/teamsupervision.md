@@ -20,7 +20,7 @@ og_image: "/img/teambuilding.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/teambuilding.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/teambuilding.jpg" float="left" title="Teambuilding und Supervision die Spaß macht und zudem noch lehrreich ist. Am IFGE erhalten Sie durch die psychologische Betrachtungsweise der Teamübungen wertvolle Einblicke in verborgenen Ressourcen, neue Blickwinkel eröffnen sich und wie von selbst lösen sich – durch die spielerische Interaktion – starre Muster. " >}} 
 
 Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
 
