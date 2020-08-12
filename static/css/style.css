@@ -269,6 +269,10 @@ img {
     align-items: center;
 }
 
+.box img {
+    margin: 0 auto;
+}
+
 .box.margin {
     margin: 0 var(--padding-main);
 }
