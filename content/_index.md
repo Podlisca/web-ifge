@@ -15,7 +15,7 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebensberatung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
+{{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
 
 In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
