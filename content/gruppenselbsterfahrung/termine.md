@@ -37,6 +37,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 **12.10.2020** von 14:00 - 20:00 Uhr   
+**13.10.2020** von 14:00 - 20:00 Uhr   
 **28.10.2020** von 09:00 - 15:00 Uhr   
 **13.10.2020** von 14:00 - 20:00 Uhr   
 **30.10.2020** von 14:00 - 20:00 Uhr   
@@ -46,23 +47,26 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **21.12.2020** von 14:00 - 20:00 Uhr   
 **22.12.2020** von 14:00 - 20:00 Uhr   
 **23.12.2020** von 09:00 - 15:00 Uhr   
+**09.01.2021** von 10:00 - 16:00 Uhr   
 **15.01.2021** von 14:00 - 20:00 Uhr   
 **25.01.2021** von 14:00 - 20:00 Uhr   
 **26.01.2021** von 14:00 - 20:00 Uhr   
-**29.01.2021** von 10:00 - 16:00 Uhr   
 **03.02.2021** von 09:00 - 15:00 Uhr   
 **19.02.2021** von 14:00 - 20:00 Uhr  
 **03.03.2021** von 09:00 - 15:00 Uhr    
 **19.03.2021** von 14:00 - 20:00 Uhr   
 **31.03.2021** von 09:00 - 15:00 Uhr  
+**03.04.2021** von 10:00 - 16:00 Uhr  
 **07.04.2021** von 09:00 - 15:00 Uhr   
 **28.05.2021** von 14:00 - 20:00 Uhr   
 **16.06.2021** von 14:00 - 20:00 Uhr  
 **25.06.2021** von 14:00 - 20:00 Uhr   
 **30.06.2021** von 09:00 - 15:00 Uhr  
 **29.09.2021** von 09:00 - 15:00 Uhr   
+**09.10.2021** von 10:00 - 16:00 Uhr   
 **17.11.2021** von 09:00 - 15:00 Uhr   
-**15.12.2021** von 09:00 - 15:00 Uhr
+**15.12.2021** von 09:00 - 15:00 Uhr   
+**18.12.2021** von 10:00 - 16:00 Uhr   
 
 
 [Anmeldung](/anmeldung.php)
