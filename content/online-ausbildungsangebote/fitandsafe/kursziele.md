@@ -17,7 +17,7 @@ weight: 1
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_fit_safe_maedchen.jpg" float="left">}} 
+{{< image src="/img/kursziel_fit_safe_maedchen.jpg" title="Spaß und Sicherheit im Internet und auf Partys – ein unglaublich wichtiges Thema. Stalking, sexuelle Übergriffe, Körperverletzung; Mobbing, Goosting – diese Dinge gibt es und leider viel zu oft. Wir können nicht garantieren, dass so etwas nie geschehen wird, wir können Dich jedoch vorbereiten wie die Herangehensweise der Täter und Täterinnen ist." float="left">}} 
 
 
 In unserem Workshop ist Platz für alle Themen, die dich bewegen und die dir auf der Zunge brennen: Vom Versenden von (sexy) Fotos über K.-Tropfen und Trends sowie Mutproben bis hin zum Fortgehen und zu Drogen. Gleichzeitig kannst dich darauf verlassen, dass alle deine Fragen vertraulich behandelt werden. Nichts von dem, was du wissen willst, dringt nach draußen und wir versprechen dir: Die Antworten werden ehrlich sein.

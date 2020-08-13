@@ -17,7 +17,7 @@ weight: 1
 ## VERMITTLUNG VON JAHRZEHNTELANGER ERFAHRUNG IN DER KÖRPERARBEIT
 
 {{% floatbox %}}
-{{< image src="/img/grundlagen_psychosomatik_ziel.jpg" float="left">}}
+{{< image src="/img/grundlagen_psychosomatik_ziel.jpg" title="Lernen Sie Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin körperliche Symptome als Unterstützung statt als Belastung zu erkennen. Aufbauend auf die 5 Elemente der traditionellen chinesischen Medizin erlernen sie die wichtigsten Grundlagen der Organ- und Körpersprache." float="left">}}
 
 Die fachlichen Inhalte verbinden teils uraltes, traditionelles Heilwissen aus allen Teilen der Welt mit evidenzbasierten Informationen aus der modernen Anatomie und Medizin. In dieser digitalen Ausbildung profitieren Sie von meine jahrzehntelanger, praktischer Erfahrung in der körperorientierten Behandlung. Die Vermittlung von medizinischem Fachwissen hat dabei am IFGE langjährige Tradition. So wurde bereits im Jahr 2006 damit begonnen, körperorientierte Methoden – wie beispielsweise die professionelle Anwendung der Klangschalenmassage oder die Arbeit „Touch of health“ – am Institut für ganzheitliches Erleben zu unterrichten.
 
