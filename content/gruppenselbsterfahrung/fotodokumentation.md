@@ -25,55 +25,55 @@ Es werden laufend neue Fotos, Videos und Erklärungen hinzugefügt. Bitte die Fo
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_1.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_1.jpg" title="Familienaufstellungen in der Gruppe"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_2.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_2.jpg" title="Zuerst wird das Anliegen geklärt"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_3.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_3.jpg" title="Aufstellen der Stellvertreter"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_4.jpg" float="right" >}}
-{{% /small  %}}
-{{% /box %}}
-
-{{% box %}}
-{{% small  %}}
-{{< figure src="/img/aufstellungsablauf_5.jpg" float="right" >}}
-{{% /small  %}}
-
-{{% small  %}}
-{{< figure src="/img/aufstellungsablauf_6.jpg" float="right" >}}
-{{% /small  %}}
-
-{{% small  %}}
-{{< figure src="/img/aufstellungsablauf_7.jpg" float="right" >}}
-{{% /small  %}}
-
-{{% small  %}}
-{{< figure src="/img/aufstellungsablauf_8.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_4.jpg" title="in Beziehung zueinander bringen - erste Verstrickungen werden sichtbar"float="right" >}}
 {{% /small  %}}
 {{% /box %}}
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_9.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_5.jpg" title="weitere Dynamiken und Verstrickungen"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_10.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_6.jpg" title="das was fehlt bzw. verschwiegen wurde, wird in das System aufgenommen"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_11.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_7.jpg" title="ein früh verstorbenes Kind bekommt einen Platz in der Familie"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/aufstellungsablauf_12.jpg" float="right" >}}
+{{< figure src="/img/aufstellungsablauf_8.jpg" title="der Vater des Kindes wird ebenfalls dazu genommen"float="right" >}}
+{{% /small  %}}
+{{% /box %}}
+
+{{% box %}}
+{{% small  %}}
+{{< figure src="/img/aufstellungsablauf_9.jpg" title="die erstarrte Energie zwischen den Frauen beginnt aufzutauen"float="right" >}}
+{{% /small  %}}
+
+{{% small  %}}
+{{< figure src="/img/aufstellungsablauf_10.jpg" title="und zu fließen"float="right" >}}
+{{% /small  %}}
+
+{{% small  %}}
+{{< figure src="/img/aufstellungsablauf_11.jpg" title="durch die Erkenntnis worauf Ihre Mutter - und viele Mütter - davor innerlich fixiert waren, gelingt die Hinbewegung"float="right" >}}
+{{% /small  %}}
+
+{{% small  %}}
+{{< figure src="/img/aufstellungsablauf_12.jpg" title="nur am richtigen Platz im Leben kann man kraftvoll durchs Leben gehen"float="right" >}}
 {{% /small  %}}
 {{% /box %}}
 
