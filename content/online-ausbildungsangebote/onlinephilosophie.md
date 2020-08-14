@@ -19,7 +19,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/philosophie_online.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/wandel_der_zeit_online.jpg" float="left" title="Onlineausbildungen, Onlineberatungen, Onlinesupervision ist heutzutage wichtiger denn je. Nicht zuletzt durch Covid 19 – wo viele gezwungen wurden, in den Onlinemodus zu wechseln ist der Bomm nicht endet wollend. Am IFGE wird Digitalisierung seit je her groß geschrieben weshalb es nach und nach auch immer mehr Onlineschulungen gab. Höchste Qualität, höchste Flexibilität und höchster Datenschutz sind dabei eine Selbstverständlichkeit bei meinen Schulungen am IFGE – Online wie auch beim Präsenzunterricht. Herzlichst, Silvia Podlisca" >}} 
 
 ## Aus- und Fortbildungen online: Ihr digitales Lernerlebnis
 
@@ -34,7 +34,7 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 {{% floatbox %}}
 ## Ansprechende Lernatmosphäre & fachliche Qualität – auch online!
 
-{{< image src="/img/philosophie_online1.jpg" float="right" >}}
+{{< image src="/img/philosophie_online1.jpg" title="Herzlichkeit, Ausbildung auf Augenhöhe und top Qualität stehen auch bei allen Onlineausbildungen, Onlineberatungen, Onlinesupervisionen an oberster Stelle. Gerade im Onlinemodus ist er emotionale Beziehungsaufbau enorm wichtig, um einen spannenden Unterricht zu gestalten. In Ihrer freien Praxis ist der emotionale Beziehungsaufbau Gradmesser Ihres Erfolges. Das Ziel ist, dass Sie Ihre positive Lernerfahrung in Ihre Arbeit als diplomierter Lebensberater\*in -psychologischen Berater\*in, Aufstellungsleiter\*in oder Supervisor\*in, Coach übertragen, und so noch ein Stück mehr erfolgreich sind."float="right" >}}
 
 Die Inhalte unserer digitalen Ausbildungen sind in gewohnt hoher fachlicher Qualität bewusst auf das Online-Setting zugeschnitten, wodurch auch in allen online stattfindenden Aus- und Fortbildungen ein Höchstmaß an behaglicher, konzentrationsfördernder und ansprechender Lernatmosphäre geschaffen wird. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln. Wir freuen uns daher besonders über das konstante Feedback der Schüler\*innen, dass der gewohnt persönliche Rahmen genauso wie die lockere Unterrichtsstimmung und die herzliche Professionalität uneingeschränkt auch in unseren Onlineausbildungen gegeben ist. Das individuelle Eingehen auf alle Teilnehmer*innen wird am IFGE auch in den digitalen Ausbildungen groß geschrieben. 
 
@@ -44,7 +44,7 @@ Die Inhalte unserer digitalen Ausbildungen sind in gewohnt hoher fachlicher Qual
 
 ## Kommen Sie ans IFGE – ohne anreisen zu müssen
 
-{{< image src="/img/philosophie_online2.jpg" float="left" >}} 
+{{< image src="/img/philosophie_online2.jpg" title="Genießen Sie die Vorteile des IFGEs auch bei allen Onlineausbildungen – ganz ohne Fahrtzeit, bequem wo auch immer Sie gerade sind. Das IFGE ist ein dreifach zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung, Aufstellungsarbeit und Supervision. Darüber hinaus bietet das IFGE seit vielen Jahren viele vertiefende Zusatzausbildungen an drei Standorten (Wien, Niederösterreich, Burgenland) an."float="left" >}} 
 
 Unser virtueller Unterrichtsraum, der die physischen Standorte in Wien, Burgenland und Niederösterreich ergänzt, wurde dank des digitalen Weitblicks schon im Jahr 2014 konzipiert. Wir konnten die digitalen Angebote umsichtig sowie bedächtig umsetzen und sind seither mit dem E-Learning am IFGE auf alle Eventualitäten vorbereitet. 
 
@@ -56,7 +56,7 @@ Das vorausblickende Eingehen auf die sich wandelnden Bedürfnisse im psychosozia
 
 ## Digitaler Lerngenuss auf höchstem Niveau
 
-{{< image src="/img/philosophie_online3.jpg" float="right" >}} 
+{{< image src="/img/philosophie_online3.jpg" title="Die Onlinekurse, Onlineausbildungen am IFGE sind bewusst kürzer gehalten und sollen einen knackigen Mehrwert zu Ihren bestehenden Ausbildungen bieten. Didaktisch bewusst auf den Onlinemodus zugeschnitten, liefern Sie spannende Einblicke in unterschiedlichste Themengebiete."float="right" >}} 
 
 Anstatt sich von äußeren Umständen dazu drängen zu lassen, (zu) rasch installierte und damit fehleranfällige digitale Wege zu beschreiten, hat das IFGE langfristig auf sorgfältige Entwicklung idealer und vor allem sicherer digitaler Beratungs- und Lernbedingungen gesetzt.
 
