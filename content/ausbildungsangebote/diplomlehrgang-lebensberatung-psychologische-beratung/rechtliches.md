@@ -75,6 +75,6 @@ Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet o
 
 Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt.
 
-Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie hier.
+Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/praktikum/).
 {{% /small  %}}
 {{% /box %}}
