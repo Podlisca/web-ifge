@@ -1,5 +1,5 @@
 ﻿---
-title: "Fotodokumentation"
+title: "Fotodokumentation" 
 menu: 
     main:
         parent: gruppenselbsterfahrung
@@ -11,9 +11,10 @@ description: "Die Bilder auf dieser Seite wurden gestellt, um Ihnen einen Einbli
 
 # Familienaufstellung nach Bert Hellinger
 {{< slogan >}}
-***
+{{< line icon="icon/aufstellung.png" >}}
 
-## Familienaufstellung
+## Familienaufstellung - Seite in Arbeit
+
 
 Die folgenden Bilder wurden gestellt, um Ihnen einen Einblick in meine Arbeit zu ermöglichen bzw. damit Sie sich einen Eindruck verschaffen können.
 
@@ -83,33 +84,33 @@ Es werden laufend neue Fotos, Videos und Erklärungen hinzugefügt. Bitte die Fo
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/hinbewegung_1.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_1.jpg" title="der ernste und vorwurfsvolle Blick einer Tochter. So berechtigt diese Blicke oftmals auch sind, sie binden und in einer destruktiven Art und Weise an unser Herkunftssystem."float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/hinbewegung_2.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_2.jpg" title="Bei einer Familienaufstellung kann erkannt werden, was Mutter so blind gemacht hat, dass diese nicht ganz da sein konnte. Es wird erkannt, dass Mutter ihr Bestes gegeben hat, auch wenn dies nicht immer das ist, was man sich als Kind erwünscht"float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/hinbewegung_3.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_3.jpg" title="Erst wenn Kinder dies erkennen wird es leichter. Doch Mutter voll und ganz zuzustimmen, genauso wie Mutter war und ist, ist der schwierigste Schritt..."float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/hinbewegung_4.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_4.jpg" title="Versöhnung kann nicht die Vergangenheit verändern, sie bereichert aber unsere Zukunft ungemein. Familienaufstellungen sollen auch nichts beschönigen oder eine Scheinharmonie herstellen vielmehr geht es um Anerkennung was in gesamten Familiensystem wirkt."float="right" >}}
 {{% /small  %}}
 {{% /box %}}
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/hinbewegung_5.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_5.jpg" title="und das ist der Gewinn - ein Lächeln von Mutter."float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/hinbewegung_6.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_6.jpg" title="und freundlich gehalten zu werden."float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/hinbewegung_7.jpg" float="right" >}}
+{{< figure src="/img/hinbewegung_7.jpg" title="Schutz, Geborgenheit und Liebe durch Zustimmung und Anerkennung.Diese innerliche Zustimmung ist niemals mit Zustimmung zu schweren Misshandlungen oder Vernachlässigung zu sehen. Oftmals bieten Familienaufstellung eine besondere Form der Begegnung, sodass der innerliche Groll kleiner werden kann. Familienaufstellung bedeutet nicht, dass Sie zum Beispiel um jeden Preis Kontakt mit Ihrer Mutter im Alltagsleben aufnehmen müssen."float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
@@ -124,19 +125,19 @@ Es werden laufend neue Fotos, Videos und Erklärungen hinzugefügt. Bitte die Fo
 
 {{% box %}}
 {{% small  %}}
-{{< figure src="/img/kraft_1.jpg" float="right" >}}
+{{< figure src="/img/kraft_1.jpg"title="hat man Mutter innerlich gefunden - stellt sich auch Versöhnung mit der Herkunft ein." float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/kraft_2.jpg" float="right" >}}
+{{< figure src="/img/kraft_2.jpg" title="Kraftquelle Frauen & Männer - Jede Herkunft, egal wie schwer es war und ist, ist KOSTBAR!." float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/kraft_3.jpg" float="right" >}}
+{{< figure src="/img/kraft_3.jpg" title="diese Quelle steht uns nur zur Verfügung, wenn wir in Frieden sind mit der Vergangenheit." float="right" >}}
 {{% /small  %}}
 
 {{% small  %}}
-{{< figure src="/img/kraft_4.jpg" float="right" >}}
+{{< figure src="/img/kraft_4.jpg"title="und wenn wir es nehmen - genauso (und nicht anders) WIE wir es bekommen haben." float="right" >}}
 {{% /small  %}}
 {{% /box %}}
 
