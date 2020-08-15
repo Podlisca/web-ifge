@@ -73,7 +73,7 @@ Bei Zahlungsverzug von mehr als 10 Tagen bei Semesterzahlung oder Ratenzahlung w
 
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. In diesem Fall wird eine Gutschrift, welche für alle Angebote im Institut für ganzheitliches Erleben genützt werden kann, ausgestellt. Die Gutschrift ist nicht in bar ablösbar, jedoch übertragbar. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
 
-Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt.
+Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt. Ab Verträge Mai 2020 sind die, für das Praktikum vorgeschriebenen 90 Stunden Gruppensupervision, bereits im Vertrag inkludiert.
 
 Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/praktikum/).
 {{% /small  %}}

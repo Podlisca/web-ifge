@@ -20,7 +20,7 @@ og_image: "/img/einzel_noe.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/einzel_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzel_noe.jpg" float="left" title="Wenn Lustlosigkeit, Sinnlosigkeit, Wut, Kummer, Trauer, Sorgen und Ängste Sie ständig begleiten oder Sie nur mehr funktionieren, kann Lebensberatung – psychologische Beratung Sie unterstützen und zu neuer Lebensfreude und Sinnfindung führen. Zum Unterschied zur Psychotherapie verzichtet die Lebensberatung – psychologische Beratung auf Diagnosen da der Mensch und menschliche Zustände nicht als Störung betrachtet werden, sondern als wertvolle Hinweise, die bereits den ersten Schritt in Richtung Lösung verbergen. Dies setzt voraus, dass Sie den Alltag noch meistern können oder bei Bedarf zusätzlich ihren Arzt des Vertrauens einbeziehen. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin ist seit 2o Jahren im psychosozialen Bereich tätig und bieten in Wien, Niederösterreich und Burgenland psychologische Beratungen, Sexualberatung sowie Familienaufstellungen an." >}} 
 
 Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden.
 
@@ -56,7 +56,7 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 Am [IFGE](https://ifge.at/about/institut/) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
 
 
-{{< image src="/img/einzel_bgld_5.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzel_bgld_5.jpg" float="right" title="Wer die verborgenen Schätze des Unbewussten erkunden möchte und den Sinn für die jeweilige Situation ganzheitlich erfassen und verstehen lernen möchte, ist in der psychologischen Einzelberatung bei Silvia Podlisca in sehr erfahrenen Händen. Durch bewusstes Zuhören und Fragestellungen erfahren Sie neue Blickwinkel und Lösungsmöglichkeiten. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an." >}} 
 
 Professionelle Beratung bedeutet, dass Ihnen weder Lösungen aufgezwungen, noch Sie in bestimmte Richtungen dirigiert werden. In der psychologischen Beratung geht es auch nicht darum, möglicherweise bereits gescheiterte Lösungsversuche zu wiederholen. Viel eher beschäftigen Sie sich in einem vertrauensvollen Rahmen mit neuen Lösungswegen, die oft so überraschend klar, einfach, leicht und umsetzbar sind, dass Sie diese in vielen Fällen innerlich schmunzeln lassen und immer groß machen. 
 
@@ -74,7 +74,7 @@ Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und ande
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen. " >}} 
 
 Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. 
 
@@ -95,7 +95,7 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/noe_einzel.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an." >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
@@ -111,7 +111,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
@@ -121,7 +121,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
@@ -132,7 +132,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
 * [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
@@ -143,7 +143,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
 * [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
