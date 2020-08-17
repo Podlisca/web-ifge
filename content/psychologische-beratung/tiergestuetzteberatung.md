@@ -18,7 +18,7 @@ og_image: "/img/sally_bgld.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Tiere in der psychologischen Beratung bereichern den Prozess auf besondere Art und Weise. Durch ihre wertfreie und freundliche Haltung und ihr uneingeschränktes DA SEIN erreichen sie jeden Winkel unsers Herzens. Selbst Menschen mit Bindungsangst können sehr schnell in Beziehung zu den Tieren gehen. Dies überträgt sich günstig auf den Beratungsprozess und letzten Endes in ihr Leben. Dies Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie ist Gründerin des Berufsverbands für tiergestützte psychologische Beratung. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an." >}} 
 
 Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann.<br/> <br/> Tiergestützte Beratung beginnt dort, wo Gespräche und die Arbeit mit einem entsprechend ausgebildetem Tier einander ergänzen – es geht um den Beziehungsaufbau und die Prozessgestaltung im Beziehungsdreieck zwischen Klient\*in, Tier und Berater\*in. Neben der Gesprächsführung zwischen Berater\*in und Klient\*in werden Methoden eingesetzt, bei denen die Klienten/Klientinnen mit Tieren interagieren oder über Tiere kommunizieren.
 <br/>
@@ -50,7 +50,7 @@ Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewe
 
 ## Was bringt mir die tiergestützte psychologische Beratung mit Hunden und Katzen?
 
-{{< image src="/img/sally_bgld.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/sally_bgld.jpg" float="right" title="Tiere erspüren Emotionen auf besondere Art und Weise und geben Trost und Halt. Alleine die Anwesenheit eines Tieres reicht für Tierliebhaber aus, dass sich das Nervensystem beruhigt und sich dadurch alle Themen leichter lösen lassen. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie ist Gründerin des Berufsverbands für tiergestützte psychologische Beratung. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an." >}} 
 
 Die Hunde sollen, mit einem menschlichen Partner an ihrer Seite, Freude, Spaß und Abwechslung in das Leben von Menschen bringen. Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Durch die sorgfältig ausgebildeten Beratungshunden Pluto und Sally profitieren Sie von den besonderen Effekten, welche Tiere auf den Beratungsprozess haben. 
 
@@ -68,7 +68,7 @@ Ziel meiner Arbeit mit den Hunden ist es dabei nicht, die Hunde an den Beratungs
 
 Besonders hervorzuheben ist, dass die Vierbeiner meine Klient*innen oft sehr schonend an Themen heranführen, für die in der klassischen Beratung oft wesentlich mehr Zeit notwendig ist.
 
-{{< image src="/img/sally_bgld1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sally_bgld1.jpg" float="left" title="Hunde können nicht nur in der Praxis eingesetzt werden. Gerne verlegen wir die Beratungseinheit in die freie Natur. Am IFGE können Sie, nach Absprache auch gerne ihren eigenen Hund mitnehmen. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie ist Gründerin des Berufsverbands für tiergestützte psychologische Beratung. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an." >}} 
 
 Neben ihrer Unterstützung im Entwicklungsprozess der Klient\*innen wirkt die Anwesenheit von Tieren nachweislich positiv auf das Wohlbefinden von uns Menschen. Hunde werden mittlerweile nicht nur als Begleiter von Kriseninterventionsteams eingesetzt, sondern helfen als Assistenzhunde Patient*innen sogar dabei, posttraumatische Belastungsstörungen zu überwinden. 
 
@@ -142,7 +142,7 @@ Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Ti
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/tiere_noe_5.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/tiere_noe_5.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen." >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
