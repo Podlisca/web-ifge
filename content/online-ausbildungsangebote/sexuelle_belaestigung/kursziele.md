@@ -19,7 +19,7 @@ weight: 1
 ## SEXUELLE BELÄSTIGUNG AM ARBEITSPLATZ & COACHING VON VERTRAUENSPERSONEN
 {{% floatbox %}}
 
-{{< image src="/img/online_sex_belaestigung1.jpg" float="left">}}
+{{< image src="/img/ziel_sex_belaestigung.jpg" title="Das Ziel der Onlineausbildung sexuelle Belästigung und Stalking ist, dass Sie sowohl als Firmeninhaber\*innen, Vorgesetzte, Vorgesetzter, Coach sowie an Lebensberater\*innen -psychologischen Berater\*innen, Aufstellungsleiter\*innen oder Supervisor\*innen nicht nur das fachliche Know How für den professionellen Umgang zu diesem Thema erhalten sondern auch  viele Gesprächstechniken und Tools kennen lernen werden, die eine wertschätzende Haltung möglich macht und Sie zudem eine gesunde Distanz wahren können." float="left">}}
 
 Ob offen angeprangert oder destruktiv im Geheimen wirkend: Sexuelle Belästigung ist leider nach wie vor in vielen Bereichen der Berufswelt ein relevantes Thema. Als Coach oder Supervior*in braucht es daher umfangreiches Fachwissen über die Besonderheiten dieser Form der sexualisierten Gewalt.
 

@@ -19,9 +19,9 @@ og_image: "/img/glaubenssatz1.jpg"
 
 ## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG NACH BERT HELLINGER
 
-{{< image src="/img/glaubenssatz1.jpg" float="left">}}
+{{< image src="/img/glaubenssatz1.jpg" title="Hinderliche Gedanken, die sich zu Glaubenssätzen manifestiert haben, sind oft schwer wieder zu löschen. Egal wie sehr man sich auch bemüht, sie holen uns in Stresssituationen immer wieder ein. Glaubenssatzaufstellungen haben sowohl das persönliche Erleben wie auch das kollektive Bindungssystem im Blick. Dadurch werden die Glaubenssätze im Einklang mit ihrer Herkunft aufgelöst."float="left">}}
 
-Während es in der klassischen Familienaufstellung nach Bert Hellinger vor allem darum geht, die eigenen destruktiven Muster zu erkennen und Verständnis für die persönliche Familiengeschichte – also das eigene Herkunftssystem – zu entwickeln, damit es schließlich für Sie gut weitergehen kann, arbeite ich in der Glaubenssatz-Aufstellung vorrangig gegenwartsbezogen. 
+Während es in der klassischen Familienaufstellung vor allem darum geht, die eigenen destruktiven Muster zu erkennen und Verständnis für die persönliche Familiengeschichte – also das eigene Herkunftssystem – zu entwickeln, damit es schließlich für Sie gut weitergehen kann, arbeite ich in der Glaubenssatz-Aufstellung vorrangig gegenwartsbezogen. 
 
 Das bedeutet, dass eine Familienaufstellung als Vorbereitung in den meisten Fällen sehr zu empfehlen ist, bevor Sie einen Schritt weiter gehen und sich damit beschäftigen können, welche Ziele für Ihre Weiterentwicklung und Ihre Bedürfnisse dienlich sind. 
 
@@ -43,7 +43,7 @@ Ein bekannter Lösungssatz in der klassischen Familienaufstellung ist die Bitte 
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-{{< image src="/img/glaubenssatz2.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/glaubenssatz2.jpg" float="right" title="Alte Muster lösen und neue Realitäten erzeugen. Glaubenssatzaufstellung helfen bei der Ressourcenfindung und bei der Stabilisierung neuer gewünschter Muster." >}}
 
 Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie? Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, keine einfache Umkehr darstellt, sondern viel eher eine wirksame neue Realität entsteht!
 
@@ -55,7 +55,7 @@ Die systemischen Glaubenssatz-Aufstellungen am IFGE werden dabei von unseren Ins
 {{% small  %}}
 ## WIE GELINGEN NEUE REALITÄTEN – IM EINKLANG MIT DER HERKUNFT?
 
-{{< image src="/img/glaubenssatz3.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/glaubenssatz3.jpg" float="left" title="Glaubenssätze sind zumeist klug und gut gemeinte Strategien unsers Unbewussten. Was auch immer die heimliche Botschaft, der im Alltag zumeist schon hinderlichen Glaubenssätze ist, erst die bewusste Reflektion bring die gewünscht Veränderung. " >}} 
 
 Ein praktisches Beispiel für den Unterschied zwischen einfacher Umkehr und kraftvoller neuer Realität zeigt das Anliegen von Klientinnen, die das Gefühl haben, immer wieder zu scheitern. 
 
@@ -71,7 +71,7 @@ Diese könnte dann – bezugnehmend auf das, was für meine Klientinnen im Leben
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-{{< image src="/img/glaubenssatz4.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/glaubenssatz4.jpg" float="right" title="Den Sinn der hinderlichen Glaubenssätze zu finden hilft, um sie gut zu ziehen lassen zu können. Glaubenssätze bilden sich zumeist aus Situationen heraus, die als sehr bedrohlich erlebt wurden und unsere Handlungsstrategie darauf. So speichert unser Gehirn ab: dass hat uns geholfen. Oftmals ist es jedoch so, dass das was als Kind dienlich war, im erwachsenen Alter hinderlich wird." >}} 
 
 Gleichzeitig ist es essenziell, im Blick zu behalten, wo Ihre bisherige Realität für Sie in der Vergangenheit dienlich war, um anzuerkennen, was für Sie und Ihr System bis heute wichtig gewesen ist. So entsteht auch bei den Familienmitgliedern ein Blick für den Gewinn, den es ihrem System bringt, wenn die Klientin genug Geld hat. 
 

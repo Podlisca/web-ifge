@@ -22,7 +22,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/paarberatung_wien.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/paarberatung_wien.jpg" float="left" title="Zumeist ist das was uns zu Beginn an der anderen Welt so fasziniert hat, die größte Herausforderung in der Beziehung. Wenn die Beziehung gelingen soll, muss jeder dem anderen ein Stück entgegengehen und somit Gewohntes hinter sich lassen. Dies ist häufig mit schlechtem Gewissen der eigenen Familie gegenüber verbunden. Wie aus zwei unterschiedlichen Herkunftsystemen ein neues, eigenes System – frei von Gewissensbindungen an die eigene Familie – wird, kann in einer Paarberatung herausgefunden werden. Ebenso können aber auch Sexualthemen wie zum Beispiel unterschiedliche Bedürfnisse oder unterschiedliches Lustempfinden thematisiert werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Paarberatung und Paar - Sexualberatung an." >}} 
 
 Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. <br/> <br/>Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
 
@@ -76,19 +76,19 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/aufstellung_noe_1.jpg" title="Jeder wird gehört..." >}}
+{{< image src="/img/aufstellung_noe_1.jpg" title="Bei Familienaufstellungen wird jeder wird gesehen und hat jeder das gleiche Recht auf Zugehörigkeit" >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/aufstellung_noe1.jpg" title=".. und bekommt die gleiche Redezeit." >}}
+{{< image src="/img/aufstellung_noe1.jpg" title="Erst wenn jedes Familienmitglied dazugehören darf, hat jeder die größte Kraft und Würde." >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/brett_2.jpg" title="Wenn es einmal emotionaler wird.." >}}
+{{< image src="/img/brett_2.jpg" title="Aufstellungen am Systembrett oder Familienbrett bringen tiefgreifende Erfahrungen und ermöglicht Schweres gut in das Leben zu integrieren" >}}
 
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/systembrett_noe.jpg" title=".. achtet der Berater auf einen respektvollen Umgang" >}}
+{{< image src="/img/systembrett_noe.jpg" title="Übernommene Gefühle, wie zum Beispiel Trauer, kann zum Ursprung zurückfließen und muss nicht mehr getragen werden. Dadurch gewinnen alle an Kraft und Würde." >}}
 
 {{% /small  %}}
 {{% /box %}}
@@ -105,7 +105,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzel_noe5.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzel_noe5.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an." >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
@@ -120,7 +120,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
@@ -130,7 +130,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
@@ -141,7 +141,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
 * [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
@@ -152,7 +152,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
 * [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)

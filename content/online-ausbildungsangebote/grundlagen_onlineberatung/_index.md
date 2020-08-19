@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/grundlagen_onlineberatung.jpg" float="left " >}} 
+{{< image src="/img/grundlagen_onlineberatung.jpg" title="Als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin erfolgreich zu sein sind viele Fertigkeiten gefragt. Gerade in Zeiten von Corona ist die Onlineberatung eine wertvolle Bereicherung in der täglichen Praxis. Der emotionale Beziehungsaufbau ist hier genauso wichtig wie im persönlichen Gespräch. Wie dieser auch in der Onlineberatung/im Onlinecoaching gelingen kann und wie Sie bekannte Tools, wie zum Beispiel die Aufstellungsarbeit am Systembrett, auch online gestalten können, lernen Sie hier in dieser Ausbildung." float="left " >}} 
 
 Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: 
 

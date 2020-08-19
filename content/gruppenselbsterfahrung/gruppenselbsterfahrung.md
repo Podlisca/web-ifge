@@ -29,7 +29,7 @@ og_image: "/img/aufstellung_noe1.jpg"
 ***
 
 {{% floatbox %}}
-{{< image src="/img/aufstellung_noe1.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/aufstellung_noe1.jpg" float="left" title="Die Kraft und die Ressourcen der Gruppe zieldienlich für die eigenen Lösungen nützen. Durch die vielen unterschiedlichen Betrachtungsmöglichkeiten erweitern Sie Ihren Focus und gewinnen so neue Einsichten. Silvia Podlisca leitet die Gruppen mit viel Erfahrung und Einfühlungsvermögen. " >}}
 
 Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet.
 
