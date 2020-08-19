@@ -15,7 +15,7 @@
         </div>
         <div class="floatbox">
             <p>
-            <img src="{{ .Bild }}" class="float {{ .Float }}" alt="Foto {{ .Name }}"/>
+            <img src="{{ .Bild }}" class="float {{ .Float }}" alt="{{ if .Bildbeschreibung }}{{ .Bildbeschreibung }}{{else}}Foto {{ .Name }}{{end}}"/>
             {{ range $index, $element := .Text }}
                 {{ if ne $index 0}}
                     <p>
