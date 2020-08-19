@@ -22,5 +22,27 @@
     "url": {{ .Site.BaseURL }},
     "logo": {{ "/img/logo.jpg" | absURL }}
   }
-  </script>
+</script>
 {{ end }}
+
+{{ with .Params.rich_faq }}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $index, $val := . }} 
+      {{ if $index }}, {{ end }}
+      {
+        "@type": "Question",
+        "name": {{ $val.frage }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ $val.antwort }}
+        }      
+      }
+      {{ end }}
+    ] 
+  }
+</script>
+{{ end }}}}

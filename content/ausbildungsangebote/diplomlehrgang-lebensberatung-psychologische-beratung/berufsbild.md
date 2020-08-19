@@ -6,6 +6,11 @@ menu:
         identifier: berufsbild
 draft: false
 weight: 6
+rich_faq:
+    -   frage: "Wer ist psychologischer Berater oder psychologische Beraterin?"
+        antwort: "Psychologische BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychologische Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
+    -   frage: "Wie sieht das Arbeitsfeld aus?"
+        antwort: "Psychologische BeraterInnen arbeiten in unterschiedlichen psychosozialen Einrichtungen oder selbstständig in einer eigenen Praxis. Das Arbeitsfeld der psychologischen BeraterInnen ist ein sehr breites und reicht von der Einzelberatung bei belastenden Situationen oder bei Entscheidungsschwierigkeiten über Paar- und Sexualberatung bis hin zu Krisenintervention, Trauerbegleitung oder Coaching."
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
