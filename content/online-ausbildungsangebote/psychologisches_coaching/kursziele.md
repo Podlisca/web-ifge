@@ -19,7 +19,7 @@ weight: 1
 ### WARUM PROFESSIONELLES AUFTRETEN VON ANFANG AN ZENTRAL IST
 {{% floatbox %}}
 
-{{< image src="/img/kursziel_1.jpg" float="left">}}
+{{< image src="/img/onlinecoaching_ziel_noe.jpg" title="In dieser Online Coachingausbildung am IFGE erhalten Sie viele praktische Tools, welche immer psychologisch erklärt werden. Kombiniert mit hypnosystemischer Gesprächsführung, welche hilft den unwillkürlichen Prozess in eine gewünschte Richtung zu aktivieren bietet dies den Anfang eines dauerhaften Ausstieges aus ungewünschten Mustern. Der gesamte Coachingausbildung ist ressourcenorientiert aufgebaut."float="left">}}
 
 In diesen Seminaren erhalten Sie die Möglichkeit in die Welt des Coachings einzutauchen, Coachingprozesse kennenzulernen und sich selbst als Coach zu erleben. Praxisorientiert werden Sie sich auch mit Standortbestimmungs & Diagnosetools auseinandersetzen. Den Kern dieser Seminarreihe bilden unterschiedliche bewährte und moderne Coaching-Methoden, sowie Gesprächsführung im Coaching und Kontakt mit dem Coachee.
 

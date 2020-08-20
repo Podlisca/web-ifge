@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/fit_safe_maedchen.jpg" float="left " >}}
+{{< image src="/img/fit_safe_maedchen.jpg" title="Spaß und Sicherheit im Internet und auf Partys – geht das? Ja absolut. Spaß und Freude am Leben zu haben ist unglaublich wichtig in jeder Lebensphase. Da aber gerade junge Menschen eine große Zielgruppe für Betrüger sind und die Maschen immer gefinkelter werden, ist es besonders wichtig, einige Strategien zu kennen damit aus Spaß nicht Ernst wird"float="left " >}}
 
 Ganz sicher Spaß haben? Ganz SICHER Spaß haben! Das ist das Ziel des spannenden, interaktiven und kurzweiligen Online-Workshops „Fit and safe“, der ganz speziell auf Mädchen und junge Frauen zugeschnitten ist. Denn obwohl auf dem Weg ins Erwachsenenleben so manche brenzlige Situation auf dich warten kann, so sollten deine Teeny-Jahre doch eine besondere Zeit der Ausgelassenheit, Unbeschwertheit und Fröhlichkeit sein dürfen.
 

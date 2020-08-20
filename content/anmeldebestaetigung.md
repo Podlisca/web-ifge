@@ -15,7 +15,7 @@ conversiontracker: true
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_noe3.jpg" float="left" title="Bildbeschreibung" >}}
+{{< image src="/img/silvia_noe3.jpg" float="left" title="Ich bedanke mich für Ihre Anmeldung und freue mich Sie am IFGE begrüßen zu dürfen." >}}
 
 Vielen Dank für Ihre Anmeldung!
 

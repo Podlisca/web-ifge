@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/kinder_schuetzen.jpg" float="left " >}}
+{{< image src="/img/kinder_schuetzen.jpg" title="Aufwachsen ohne Google, YouTube, Facebook und Co. Ist heutzutage fast unmöglich und auch kaum zeitgemäß. Wie aber die Kinder und Jugendlichen sicher groß werden lassen, worauf sollen Eltern achten beim Konsum. Wir am IFGE vermitteln Ihnen den sicheren Umgang der wichtigsten Seiten aber auch wie Täter und Täterinnen im Netz agieren. So können Sie ihr Kind gut vorbereiten, sich sicher im Netz zu bewegen."float="left " >}}
 
 Vermutlich hat sich noch jede Generation darüber aufgeregt, dass die nachfolgende um vieles schlimmer, frecher und rücksichtsloser sei als die eigene. Diese Wahrnehmung hat sich wohl schon seit Jahrhunderten nicht mehr verändert. Doch es gibt eine erst kürzlich entstandene Herausforderung, welche die heutige Elternschaft mit sich bringt, die neben dieser Konstante tatsächlich eine absolute Neuerung in Erziehungsfragen darstellt: Wussten unsere Eltern und Großeltern in den meisten Fällen noch, was sie sich darunter vorzustellen hatten, wenn ihre Söhne und Töchter die Nacht in der Disco verbrachten, so führt der blitzschnelle Trendwandel der aktuellen Zeit dazu, dass heutigen Eltern vielfach eben jene Vorstellung von dem Treiben ihrer Kinder fehlt.
 

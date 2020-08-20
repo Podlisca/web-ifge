@@ -19,7 +19,7 @@ weight: 1
 ## DEN SCHRITT IN DIE SELBSTSTÄNDIGKEIT PROFESSIONELL UNTERSTÜTZT WAGEN
 {{% floatbox %}}
 
-{{< image src="/img/ifge_stpoelten.jpg" float="left">}} 
+{{< image src="/img/ifge_stpoelten.jpg" title="Die freie Praxis als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin auch wirtschaftlich erfolgreich zu leiten muss kein Traum sein, sondern ist sogar leicht möglich. Gewusst wie und wo Sie in den ersten Geschäftsjahren investieren sollen, welche Kosten in der Realität anfallen wie wichtig auch Freizeit ist – genau dies erfahren Sie in dieser Onlineausbildung am IFGE."float="left">}} 
 
 
 Die eigene Berufung zum Beruf machen, damit den Schritt in die Selbstständigkeit wagen und eine eigene psychologische Praxis eröffnen: Diesen Traum haben viele, die die Ausbildung zur psychologischen Beratung absolvieren oder absolviert haben. Doch wenige trauen sich tatsächlich, ihren Traum zu realisieren. Wieso ist nun gerade am IFGE die Rate derer so hoch, die sich während oder nach der Ausbildung letztlich tatsächlich in die Selbstständigkeit und damit in die freie Praxis wagen?

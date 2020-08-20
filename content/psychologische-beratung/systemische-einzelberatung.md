@@ -20,7 +20,7 @@ og_image: "/img/systembrett_einzel_noe.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/systembrett_einzel_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/systembrett_einzel_noe.jpg" float="left" title="Systemische Einzelberatung bedeutet, dass Sie im Focus der psychologischen Beratung stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im Zusammenhang mit der Umgebung (Familie, Beruf, Freunde) wirkt, und welche Wechselwirkung im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum." >}} 
 
 
 Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der hypnosystemischen Beratung achte ich zum Beispiel darauf, dass Sie Ihre Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert – aber auch wohldosiert – für Ihre Lösungen einsetzen können, um neue wirksame Realitäten zu erschaffen.
@@ -54,7 +54,7 @@ Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Famili
 {{% floatbox %}}
 
 
-{{< image src="/img/systembrett_einzel_noe1.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/systembrett_einzel_noe1.jpg" float="right" title="Durch sichtbar machen der Wechselwirkung auf dem Systembrett, werden neue Erkenntnisse und Einsichten möglich. Das Ziel ist, dass Sie im Familiensystem genau den Platz finden, wo Sie sich wohl und kraftvoll fühlen. Frei von Altlasten mit Blick in die Zukunft." >}} 
 
 Denn häufig begleitet meine Klient\*innen jahrelang z.B. der Glaubenssatz, dass die Umsetzung ihrer Vorhaben oder der Schritt zur Weiterentwicklung einer hundertprozentigen Zustimmung ihrer selbst und auch der Zustimmung anderer bedürfen.  Fähigkeiten „wohldosiert“ einzusetzen, bedeutet hier also auch, zu erkennen, dass nicht zwangsläufig 100 Prozent von Ihnen gefordert sind, wenn Sie etwas verändern möchten. Denken Sie nur einmal an eine demokratische Abstimmung! Hier reicht schon eine einfach Mehrheit – also über 50 Prozent Zustimmung –, um in die Handlung zu gehen. Wo haben Sie sich vielleicht bisher etwas verwehrt oder haben sich nicht erlaubt, aktiv zu werden, weil Sie empfunden haben, für einen neuen Schritt „nur“ zu 80 Prozent gerüstet zu sein? Die sogenannte „innere Opposition“ ist sogar dringend notwendig, um sowohl flexibel als auch dynamisch zu bleiben und „Betriebsblindheiten“ zu vermeiden. 
 
@@ -62,7 +62,7 @@ Denn häufig begleitet meine Klient\*innen jahrelang z.B. der Glaubenssatz, dass
 Doch egal von welcher systemischen Schule geschaut wird, systemische Beratung bedeutet immer, dass das Anliegen bzw. das Problem, welches Sie gerade belastet und beschäftigt, IMMER im gesamten Kontext Ihrer Familie – also Ihres Systems – gesehen wird. Welchen Sinn haben die belastenden und oft zermürbenden Symptome oder Situationen in Ihrem Leben? Worauf möchten sie Sie vielleicht hinweisen? Ihre Anliegen bzw. Ihre Problemstellungen werden in der Systemik immer als wertvolle Hinweise und niemals als ausschließlich destruktive Belastung angesehen. Der verbissene Kampf gegen das Symptom oder gegen bestimmte Gedanken ist immer ein verlorener Kampf. Darüber hinaus nährt dieser innere Konflikt Ihr Problem, anstatt für Lösungen dienlich zu sein. In einer systemischen Beratung – egal ob in Einzelstunden oder bei [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster. Wo sind Sie vielleicht „heimlich im Einklang mit dem Unglück“? (Näheres zur heimlichen Wirkung eines Systems lesen Sie [hier](/gruppenselbsterfahrung/familienaufstellung/)). Wir alle befinden uns gelegentlich in Situationen, in denen wir uns mit unseren belastenden Gefühlen versuchen abzufinden, sie ignorieren und letztlich vielleicht sogar resignieren. Anders ausgedrückt: „Leiden ist leichter als lösen“, wie es Bert Hellinger schon so treffend formuliert hat. Wo Klient*innen im unbewussten Einklang mit ihrem bewussten Leiden sind, setzt die systemische Beratung an. Solange im Zuge professioneller, psychologischer Begleitung nicht alles in den Blick genommen wird, helfen Disziplin und der brennende Wunsch nach Veränderung alleine in den seltensten Fällen. Gemeinsam nehmen wir in der systemischen Beratung alles in den Blick, was Ihre Herkunft ausmacht und Ihre aus der Familie entstandenen [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) betrifft. Durch diesen systemischen Ansatz, der freundlich auch den Familienmitgliedern Platz einräumt, für die Sie vielleicht schon lange keinen Blick mehr haben, können Lösungen entstehen. Und zwar solche Lösungen, die mit gutem Gewissen gegenüber allen Ihren Familienmitgliedern dauerhaft gelingen – frei von Schuldgefühlen gegenüber jenen, die in Ihrer Familie ein schweres Schicksal hatten oder haben, die krank oder geschieden und womöglich in ihrem Unglück verhaftet sind.
 
 
-{{< image src="/img/system_einzel_2.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/system_einzel_2.jpg" float="left" title="Eine weitere Methode, um Klarheit zu bekommen, ist die Arbeit mit Stühlen. Oftmals entsteht dabei eine Kombination von systemischer Arbeit und Monodrama. Durch das Setzen auf den Stühlen gelingt das Einfühlen in die verschiedenen Rollen besonders leicht und ungeahnte, tiefgreifende Prozesse, Lösungen und Ressourcen kommen ans Licht. " >}} 
 
 
 Systemische Beratung bedeutet in meinem Verständnis nicht – wie so oft anders in Aussicht gestellt – dass mit einer großen Familienaufstellung in der Gruppe jedes einzelne belastende Thema von Klient\*innen aufgearbeitet und für immer dauerhaft gelöst werden kann. 
@@ -75,14 +75,14 @@ In Einzelsitzungen ist es überdies auch möglich, sich besonders viel Zeit für
 
 Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, keine einfache Umkehr darstellt, sondern viel eher eine [wirksame neue Realität](/gruppenselbsterfahrung/glaubenssatzaufstellung/) entsteht. 
 
-{{< image src="/img/system_zettel1_bgld.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/system_zettel1_bgld.jpg" float="right" title="Ebenso möglich ist die Arbeit mit Zetteln. Auch bei dieser systemischen Variante ist es besonders gut möglich sich in die diversen Rollen einzuspüren. So erhalten Sie eine ganzheitliche Wahrnehmung. Bei allen Methoden wo der Körper mit spürbaren Phänomenen einbezogen wird, wird das sogenannte Körpergedächtnis mit einbezogen. Dies ermöglicht auf den prozeduralen Erinnerungsspeicher zuzugreifen und alte Erinnerungen von der damaligen Last zu befreien und neue – gewünschte Erfahrungen zu sammeln." >}} 
 
 Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient\*innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können.
 
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
-{{< image src="/img/systemdimensionsbrett_2.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/systemdimensionsbrett_2.jpg" float="left" title="Bei einer Aufstellung am dreidimensionalem Systembrett ist es besonders leicht möglich, Verstrickungen über mehrere Generationen zu erkennen. Silvia Podlisca ist Entwicklerin dieses Systembrettes und setzt das Systembrett sowohl in psychologischen Einzelsitzungen in Wien, St. Pölten und Pinkafeld, wie auch beim Diplomlehrgang – Lebensberatung – psychologische Beratung sowie beim Upgrade für Aufstellungsarbeit im Unterricht ein. " >}} 
 
 Durch das von Mag. Rathkolb und mir entwickelte SystemDimensionsBrett® ist es mir möglich, noch besser auf die Systemik einzugehen und diese auch "anschaubar" zu machen.
 
@@ -92,7 +92,7 @@ Weitere Infos zum SystemDimensionsBrett® finden Sie [hier]!
 
 ### Arbeit mit Klient\*innen
 
-{{< image src="/img/mit hand_1.jpg" float="right" title="Bildbeschreibung" >}} 
+{{< image src="/img/mit hand_1.jpg" float="right" title="In der psychologischen Praxis bietet die Arbeit mit dem Systemdimensionsbrett, für sehr erfahrene Aufstellungsleiter, besonders schnell ein klares Bild der systemisch – kollektiven Verstrickung. Durch die Arbeit mit dem Systembrett finden Sie Schritt für Schritt raus aus den übernommenen Verstrickungen und Gefühlen und können so kraftvoll Ihr eigenes Leben leben. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an" >}} 
 
 Aufstellungen können mit Hilfe von Repräsentanten – Personen, die bei der Aufstellung für jemand anderen dessen Platz im System einnehmen – durchgeführt werden oder mit Hilfe eines Brettes und imagen. Die Aufstellung mit einem Brett ist vergleichsweise leicht durchführbar, denn oft sind Problemstellungen so komplex, dass man viele Repräsentanten bräuchte. Zusätzlich wird  die Schwellenangst verringert.
 
@@ -134,7 +134,7 @@ Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen." >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
@@ -150,7 +150,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
@@ -160,7 +160,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/einzelberatung_weis_noe.jpg" title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Sexualberatung" >}}
 
 * [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
@@ -171,7 +171,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
 * [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
@@ -182,7 +182,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/beratung_angehoerige_noe.jpg" title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Angehörige" >}}
 
 * [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
 * [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
