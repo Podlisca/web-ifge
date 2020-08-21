@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/zeig_dich.jpg" float="left " >}}
+{{< image src="/img/zeig_dich.jpg" title="Um als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin braucht es neben einer kompetenten Ausbildung auch das richtige Marketing. Gerade im psychosozialen Bereich ist es oftmals schwierig, weil sich die Anliegen unserer Klienten\*innen nicht in die typischen Marketingladen legen lassen. Wie zeige ich mich also als Lebensberater\*in -psychologischen Berater\*in passend um auch genügend Klienten\*innen zu haben. In dieser Ausbildung erfahren Sie wie es geht." float="left " >}}
 
 Die beste Ausbildung  nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient\*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient\*innen? 
 

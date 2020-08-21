@@ -19,7 +19,7 @@ og_image: "/img/aufstllung_noe3.jpg"
 
 ## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG mit Silvia Podlisca
 
-{{< image src="/img/aufstllung_noe3.jpg" float="left">}}
+{{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
 
 Systemische Beratung kann sowohl in Einzelsitzungen, als auch in Form von Gruppenseminaren die Lösung für die Probleme in den verschiedensten Lebenssituationen darstellen.
 
@@ -47,7 +47,7 @@ Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum ver
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/aufstellung_noe1.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/aufstellung_noe1.jpg" float="right" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
 
 Nur wenn jeder das gleiche Recht hat, dazuzugehören -- frei von Wertung und der Überheblichkeit, sich besser oder größer als eine ausgeschlossene oder ungeliebte Person zu fühlen –, empfindet sich die Sippe vollständig und in der sogenannten Familienseele kehrt Einklang und Frieden ein. 
 
@@ -63,7 +63,7 @@ Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sic
 {{% small  %}}
 Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
-{{< image src="/img/brett_noch.jpg" float="left" title="Bildbeschreibung" format="hoch" >}} 
+{{< image src="/img/brett_noch.jpg" float="left" title="Familienaufstellungen am Systembrett stellen eine wirkungsvolle Methode dar, um Einblicke in Verstrickungen zu erhalten, welch schon über Generationen wirken. Erkennen lassen sich solche Verstrickungen in dem sich zum Beispiel eine Häufung:  von Scheidungen, Krankheit, Unfällen, Kindersterblichkeit oder ähnlich Schwerem, in der Gegenwart zeigt. Familienaufstellungen zeigen neue Möglichkeiten der Integration der Schwere und bietet neue Perspektiven für die persönliche Zukunft." format="hoch" >}} 
 <br/>
 Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig.
 
@@ -78,7 +78,7 @@ Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Al
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/aufs_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/aufs_noe.jpg" float="left" title="Familienaufstellungen mit Silvia Podlisca – Im vertraulichen Rahmen unter der Leitung von Silvia Podlisca können belastende Situationen beleuchtet werden. Familienaufstellungen eignen sich besonders gut bei folgenden Themen: körperlichen oder psychosomatischen Erkrankungen, Paar- und Beziehungsschwierigkeiten, zur Trauerbewältigung, kollektive Traumata, Wiederholung eines immer gleichen Musters, dem Gefühl nicht das eigene Leben zu leben, generationsübergreifende Traumata, für Eltern, deren Kinder besondere Auffälligkeiten zeigen, schweren Ereignissen in der Gegenwarts- oder Herkunftsfamilie, Versöhnungsarbeit mit der Herkunft-/Gegenwartsfamilie, bei Schwierigkeiten im Berufsleben, zur Neuorientierung, Selbsterfahrung, für ein besseres Verständnis der (Familien-) Geschichte" >}} 
 
 Erweitert wurde diese Arbeit durch die sogenannten "Bewegungen der Seele" und den "Bewegungen des Geistes". Dabei wird in einer wortlosen Sequenz ohne Eingriffe des Beraters/der Beraterin die tiefe Verbundenheit zwischen den Personen erkennbar. Erst wenn ge­se­hen, ge­hört und an­er­kannt wird, was in der Größe der Fa­mi­li­en­see­le wirkt, kön­nen Lö­sun­gen be­gin­nen.
 
@@ -108,7 +108,7 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 **Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
 
 
-{{< line icon="icon/3_Standorte.png" >}}
+{{< line icon="icon/3_standorte.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}

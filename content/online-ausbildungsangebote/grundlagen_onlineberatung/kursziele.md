@@ -16,7 +16,7 @@ weight: 1
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/grundlagen_onlineberatung_ziel.jpg" float="left">}}
+{{< image src="/img/grundlagen_onlineberatung_ziel.jpg" title="Onlineberatung, Onlinecoaching und auch Onlinesupervision bietet viele Vorteile und sichert auch den Kundenkontakt in Zeiten wie Corona oder auch anderen (Krankheits)gründen. Was Sie bei Onlineberatungen, Onlinecoachings und Onlinesupervisionen beachten sollten, wird Ihnen hier sehr praxisorientiert vermittelt." float="left">}}
 
 Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professionelle psychologische Onlineberatung & digitales Coaching“ ausführlich vermittelt wird. Im Zuge der Fortbildung wird für Sie auch rasch spürbar, dass es einen großes Unterschied zwischen digitaler und emotionaler Distanz gibt. So lernen Sie gemeinsam mit Ihren Fortbildungskolleg*innen, wie selbst der vertiefende Beziehungsaufbau über das Medium „Videotelefonie“ erfolgreich glückt.
 

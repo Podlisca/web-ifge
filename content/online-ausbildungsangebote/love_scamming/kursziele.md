@@ -17,7 +17,7 @@ weight: 1
 
 ## DIGITALE HEIRATSSCHWINDLER: WAS TUN, WENN DIE WELT ZUSAMMENGEBROCHEN IST?
 {{% floatbox %}}
-{{< image src="/img/love_scamming_ziel.jpg" float="left">}} 
+{{< image src="/img/love_scamming_ziel.jpg" title=" Neben dem Erkennen WIE die Täter und Täterinnen bei Love Scamming – oder auch Romance Scamming vorgehen und wie Sie sich schützen können erfahren Sie auch Hilfe falls Sie Opfer von Love Scamming / Romance Scamming geworden sind. Erfahrene und einfühlsame Lebensberater\*in -psychologischen Berater\*in mit Zusatzausbildung in Supervision, Sexualberatung und systemischer Beratung leiten diesen Onlineworkshop. Alles Besprochene wird natürlich streng vertraulich behandelt."float="left">}} 
 
 Der Workshop zeigt, dass jeder und jede Opfer von Romance Scam werden kann und vermittelt einen breiten Einblick in die Methoden, die unterschiedliche Täter\*innengruppen auf verschiebenden Plattformen anwenden. Dieses Wissen hilft sowohl Betroffenen als auch psychologischen Berater\*innen bei der Einordnung der Dynamik. Für die Opfer kann dieser Workshop ein erster Schritt sein, das Erlebte zu verschmerzen, während Berater\*innen Interventionsmöglichkeiten vermittelt bekommen, die bei Anliegen rund um das Thema Love Scamming relevant werden können. Neben den vielfältigen psychologischen und emotionalen Aspekten dieser Form des Internetbetruges werden auch die rechtlichen Möglichkeiten für Oper hinlänglich erläutert.
 {{% /floatbox %}}
