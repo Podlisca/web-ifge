@@ -92,7 +92,6 @@ Manchmal durchlebt man einzelne Trauerphasen, die man bereits abgeschlossen glau
 ### ZEIT UM ZU VERARBEITEN
 
 Daher empfehle ich Ihnen von ganzem Herzen, sich im Zuge der psychologischen Beratung Zeit für sich und für Ihre Trauer zu nehmen. Hier bei mir am IFGE dürfen alle Ihre Gefühle zum Ausdruck kommen, ganz gleich ob es um quälende Schuldfragen, verzweifelte Wut oder letztlich um das Gefühl geht, diesen Verlust nie verschmerzen zu können. Jeder Mensch erlebt seine Trauer individuell und entwickelt ganz persönliche Herangehensweisen, wie er seinen Verlust bewältigen kann.
-
 Dabei unterstütze ich Sie in offener, vertrauensvoller und herzlicher Atmosphäre, so dass es auch Ihnen gelingt, wieder in einen für Sie lebbaren Alltag zurück zu finden.
 <br/>
 <br/>
