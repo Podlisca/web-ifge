@@ -9,9 +9,9 @@ rich_faq:
     -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychologische Beraterin?"
         antwort: "Im Rahmen von Lehrgängen für Lebens- und Sozialberatung muss die gelehrte Methodik der Lebens- und Sozialberatung nachfolgenden Grundsätzen entsprechen:
 
-        Methoden der Lebens- und Sozialberatung sind jene, deren Grundlage der philosophische Dialog und/oder die psychologische Beratung ist und sich einer oder mehreren der nachfolgend angeführten Orientierungen zuordnen lassen:
+        Methoden der Lebens- und Sozialberatung sind jene, deren Grundlage der philosophische Dialog und oder die psychologische Beratung ist und sich einer oder mehreren der nachfolgend angeführten Orientierungen zuordnen lassen:
 
-       - tiefenpsychologisch-psychodynamische Orientierung
+       tiefenpsychologisch-psychodynamische Orientierung
        - humanistisch-existentielle Orientierung
        - systemisch-soziodynamische Orientierung
        - verhaltensmodifizierende Orientierung"
