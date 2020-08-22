@@ -29,7 +29,7 @@ og_image: "/img/sucht2_wien.jpg"
 
 
 {{% floatbox %}}
-{{< image src="/img/sucht2_wien.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sucht2_wien.jpg" float="left" title="Wenn ein geliebter Mensch erkrankt, ist dies für die Angehörigen eine große Belastung. Erschwerend kommt hinzu, dass sich die Angehörigen zurücknehmen, um die kranke Person nicht zu belasten oder aber auch aus Angst vor Unverständnis. In der psychologischen Beratung mit Silvia Podlisca geht es ausschließlich um Sie und um ihre Sorgen. Denn, wenn Sorgen lange ignoriert werden, können auch Sie erkranken. Lassen Sie es gar nicht so weit kommen." >}} 
 
 Wenn ein Familienmitglied erkrankt, gehört dies zu den belastendsten Herausforderungen, die uns Menschen begegnen. 
 
@@ -47,7 +47,7 @@ Das Leben ändert sich durch Krankheiten schleichend – oder von heute auf morg
 
 In all dem Trubel rund um die richtige Pflege oder Behandlung der Angehörigen und dem durch die neue Situation bisweilen entstehenden Chaos gehen häufig gerade die unter, die sich am verantwortlichsten für die Kranken und die Aufrechterhaltung eines halbwegs geregelten Familienlebens fühlen.
 
-{{< image src="/img/mono.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/mono.jpg" float="right" title="Oftmals ist das was belastet unvorstellbar auszusprechen und schon gar nicht mit der erkrankten Person. Jedoch, alles was unausgesprochen ist, wirkt auf Sie und auch auf die Beziehung. In einer Einzelberatung gibt es unterschiedliche Möglichkeiten, Dinge an- und auszusprechen. Es darf gesehen und gehört werden. Am Bild geschieht dies mit der Methode des Monodramas.  Dadurch erfahren Sie Entlastung auf mehreren Ebenen: endlich ist es ausgesprochen und Sie werden gehört und verstanden. Denn das was Sie belastet ist zutiefst menschlich. " >}}
 
 In einer Gesellschaft, in der unsere Großeltern- oder Elterngeneration noch in Großfamilien aufgewachsen ist, in welchen sich um Kranke zu Hause gekümmert werden konnte, wird häufig gerade den mittlerweile berufstätigen Frauen dazu noch schlechtes Gewissen eingeimpft, wenn sich diese die Pflege der eigenen Eltern oder Schwiegereltern aus persönlichen oder existenziellen Gründen nicht zumuten können.
 Gleichzeitig gilt es, den richtigen Zeitpunkt für schwierige Entscheidungen zu finden: Wird mehr Hilfe benötigt? Brauchen Vater, Mutter oder Schwiegereltern bereits einen Sachwalter oder kann und will man diese Zusatzaufgabe selbst mit übernehmen? Der Grad zwischen Bevormundung und benötigter Hilfestellung scheint sehr schmal – und ist für alle Beteiligten meist sehr unangenehm. Zu diesen Befürchtungen und Sorgen rund um das Befinden der Kranken kommt demnach häufig auch noch ein unüberschaubarer Berg an Schuldgefühlen.
@@ -58,7 +58,7 @@ All diese Emotionen meinen Angehörige oft, unterdrücken zu müssen, um die Kra
 
 {{< line icon="icon/angehoerige.png" >}}
 
-{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Ich, Silvia Podlisca, arbeite seit 20 Jahren im psychosozialen Bereich und jeder einzelne Fall berührt mich und bietet mir eine wertvolle Lernerfahrung. Gemeinsam verschüttete Ressourcen wieder zu aktivieren, Selbstfürsorge für sich übernehmen und Stück für Stück an der Situation wachsen. Durch ihre eigene Stärkung können Sie auch wieder kraftvoll für Ihre Familie da sein." >}} 
 
 Am IFGE biete ich Ihnen die Möglichkeit, Ihre Gefühle zuzulassen, um damit in Ihrem Alltag umgehen zu können. Vielleicht gibt es Wichtiges, das Sie noch besprechen oder erleben möchten. Die große Angst, die Sie um Ihre Angehörigen haben, müssen Sie vor mir nicht – wie vielleicht zu Hause vor den Kindern – verbergen. Sie darf sein und findet in verständnisvoller Atmosphäre Platz. Die Überforderung, die Sie möglicherweise verspüren, findet hier bei mir Raum und darf ausgesprochen werden – frei von Bewertungen meinerseits. Welche Gefühle Sie auch immer bewegen und belasten, hier müssen Sie sich nicht verstellen. Warten Sie nicht, bis Sie Ihre Grenzen erreicht haben, sondern sorgen Sie gut für sich – gerade dann, wenn Sie das Bedürfnis haben, auch für andere zu sorgen. Denn nur wenn es IHNEN gut geht, können Sie kraftvoll für die erkrankte Person da sein!
 {{% /floatbox %}}
@@ -73,7 +73,7 @@ Am IFGE biete ich Ihnen die Möglichkeit, Ihre Gefühle zuzulassen, um damit in 
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  

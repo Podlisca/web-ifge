@@ -3,7 +3,7 @@ title: "Jeder kann helfen - jede Hilfe zählt!"
 draft: false
 tags: ["Flüchtlingshilfe", "Helfen", "Menschlichkeit"]
 weight: 74
-img: "hilfe.jpg"
+img: "silvia_noe_blaue_bank.jpg"
 description: "Mehr als 51 Millionen Menschen sind derzeit weltweit auf der Flucht - so viele, wie seit dem Ende des Zweiten Weltkriegs nicht mehr. Gerade bei uns in Österreich ist, nicht zuletzt auf Grund der dramatischen Ereignisse der letzen Woche, das Thema einmal mehr in den medialen Mittelpunkt gerückt. Immer mehr ÖsterreicherInnen zeigen sich nun auch mit den schutzsuchenden Männern, Frauen und Kindern solidarisch und möchten helfen. Allerdings ist gut gemeint nicht automatisch gut gemacht. Und die beste Hilfe ist immer die, die auch tasächlich dort ankommt, wo sie gebraucht wird. Aber wie hilft man am besten?"
 ---
 
