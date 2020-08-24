@@ -58,7 +58,7 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 
 ## Leitung
 
-* Carina Fritz
+* [Carina Fritz](/about/referenten-lsb/#carina-fritz)
 
 
 

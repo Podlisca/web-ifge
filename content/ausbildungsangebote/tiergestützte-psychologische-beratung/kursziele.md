@@ -20,6 +20,10 @@ weight: 1
 Bei dieser Fortbildung werden die Berater\*innen ausgebildet, Hunde und Katzen in die psychologische Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
 
 Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden Tieren in Ihre Arbeit einfließen lassen können. Im Zuge der Fortbildung erfahren Sie, wie Sie beispielsweise Ihre eigenen Vierbeiner in der freien Praxis für Interventionen situativ bestmöglich einsetzen.
+
+{{< silvia >}}
+
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

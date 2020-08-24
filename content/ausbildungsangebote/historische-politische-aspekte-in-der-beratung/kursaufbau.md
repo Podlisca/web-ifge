@@ -48,7 +48,9 @@ Diese Fortbildung endet ohne Prüfung.
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
-* Alexandra Rahbar
+* [Dr. Dieter Schmutzer](/about/referenten-lsb/#dr-dieter-schmutzer)
+* [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
+
 
 
 

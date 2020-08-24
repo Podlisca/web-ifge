@@ -54,7 +54,7 @@ Diese Fortbildung endet ohne Prüfung.
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
-* Silvia Podlisca
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
 

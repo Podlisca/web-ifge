@@ -56,7 +56,9 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*in
 
 ## Leitung
 
-* Silvia Podlisca
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
+* [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
+* [Martin Bransky](/about/referenten-lsb/#martin-bransky)
 
 
 
