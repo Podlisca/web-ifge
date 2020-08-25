@@ -57,7 +57,7 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 
 ## Leitung
 
-* Antje Stimpfl
+* [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 
 

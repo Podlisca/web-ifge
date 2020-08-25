@@ -57,4 +57,4 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 
 ## Leitung
 
-* Silvia Podlisca
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)

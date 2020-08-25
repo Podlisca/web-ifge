@@ -48,7 +48,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*in
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-* Silvia Podlisca
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
 
