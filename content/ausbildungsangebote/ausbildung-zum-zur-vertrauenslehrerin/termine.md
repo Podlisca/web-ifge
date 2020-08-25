@@ -60,14 +60,14 @@ Anmeldung
 
 
 
-#### Start: 30. Oktober 2021
+#### Start: 30. Oktober 2020
 
 **Samstag** von 09:00 bis 18:00 Uhr<br/>
 **Sonntag** von 09:00 bis 17:00 Uhr<br/>
 **Prüfungstag:** von 09.00 bis 16:00 Uhr<br/>
 
-**Modul 1:** 30.10. und 31.10.2021<br/>
-**Modul 2:** 11.12. und 12.12.2021<br/>
+**Modul 1:** 30.10. und 31.10.2020<br/>
+**Modul 2:** 11.12. und 12.12.2020<br/>
 **Modul 3**: 12.12. und 13.12.2020<br/>
 **Modul 4:** 23.01. und 24.01.2021<br/>
 **Modul 5:** 20.02. und 21.02.2021<br/>
