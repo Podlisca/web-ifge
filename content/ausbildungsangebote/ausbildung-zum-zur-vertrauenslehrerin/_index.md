@@ -24,7 +24,7 @@ rich_kurs: true
 
 **Schwerpunkt:** Beziehungsaufbau, gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Konfliktmanagement
 
-**Nächster Start: 30.10.2020 am IFGE Niederösterreich (St.Pölten)**
+**Nächster Start: 10.10.2020 am IFGE Niederösterreich (St.Pölten)**
 
 Vertrauenslehrer\*innen sind in vielen Schulen – von der Volksschule bis zur Oberstufe – ein wesentlicher Faktor für ein funktionierendes Schulklima. Doch aufgrund von Ressourcenmangel fehlt es vielen Schulen an der Möglichkeit, ihren Vertrauenslehrer\*innen eine umfassende Ausbildung im Bereich der psychosozialen Arbeit zuteil werden zu lassen.
 
