@@ -50,7 +50,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Burgenland 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-#### Start 16. Jänner 2021
+#### Start 23. Jänner 2021
 
 **Samstag** von 09:00 bis 18:00 Uhr<br/>
 **Sonntag** von 09:00 bis 18:00 Uhr<br/>
