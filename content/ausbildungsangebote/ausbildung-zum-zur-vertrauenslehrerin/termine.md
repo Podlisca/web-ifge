@@ -60,7 +60,7 @@ Anmeldung
 
 
 
-#### Start: 30. Oktober 2021
+#### Start: 10. Oktober 2021
 
 **Samstag** von 09:00 bis 18:00 Uhr<br/>
 **Sonntag** von 09:00 bis 17:00 Uhr<br/>
