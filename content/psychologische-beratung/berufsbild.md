@@ -68,7 +68,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
