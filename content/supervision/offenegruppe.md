@@ -55,11 +55,6 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 #### Burgenland
 {{< image src="/img/ifge_pinkafeld.jpg">}}
 
-**12.09.2020**<br/>
-Samstag 09:00 bis 18:00 Uhr<br/> 
-Leitung: [Mag. Carina Szauer](/about/referenten-lsb/#mag-carina-szauer)<br/> 
-[Anmeldung](/anmeldung.php)
-
 **31.10.2020**<br/>
 Samstag 09:00 bis 18:00 Uhr<br/> 
 Leitung: [Mag. Carina Szauer](/about/referenten-lsb/#mag-carina-szauer)<br/> 

@@ -50,20 +50,20 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Burgenland 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-#### Start 23. Jänner 2021
+#### Termin in Planung: Start 2022
 
 **Samstag** von 09:00 bis 18:00 Uhr<br/>
 **Sonntag** von 09:00 bis 18:00 Uhr<br/>
 **Prüfungstag** von 09:00 bis 16:00 Uhr<br/> 
 
-**Modul 1:** 23.01. und 24.01.2021<br/>
-**Modul 2:** 20.02. und 21.02.2021<br/>
-**Modul 3:** 13.03. und 14.03.2021<br/>
-**Modul 4:** 17.04. und 18.04.2021<br/>
-**Modul 5:** 08.05. und 09.05.2021<br/>
-**Modul 6:** 05.06. und 06.06.2021<br/>
+**Modul 1:** <br/>
+**Modul 2:** <br/>
+**Modul 3:** <br/>
+**Modul 4:** <br/>
+**Modul 5:** <br/>
+**Modul 6:** <br/>
 
-**Prüfung:** 26.06.2021<br/>
+**Prüfung:** <br/>
 <br/>
 [Anmeldung](/anmeldung.php)
 
