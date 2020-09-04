@@ -100,7 +100,7 @@ Mittwochs von 09:00 bis 15:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 13
-#### Start: 13. Februar 2021
+#### Start: 08. Februar 2021
 
 Montags von 14:00 bis 20:00 Uhr
 
