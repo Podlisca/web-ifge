@@ -31,5 +31,4 @@ weight: 2
 
 Die Ausbildung ist nur komplett buchbar.
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse und Kuchen & Süßes angeboten.
-
+In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.

@@ -31,4 +31,4 @@ Modulzahlung: € 450,- Anzahlzung + 6x €  300,- pro Modul (Gesamtsumme: € 2
 
 Die Ausbildung ist nur komplett buchbar.
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis hochwertige Snacks, Obst & Gemüse angeboten.
+In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.

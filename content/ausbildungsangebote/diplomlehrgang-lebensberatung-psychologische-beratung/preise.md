@@ -50,46 +50,22 @@ Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
 {{< line icon="icon/aktion.png" >}}
+## AKTIONEN FÜR alle Standorte
 
 {{% box blue=1 %}}
 {{% small  %}}
-## Eröffnungsangebote
-{{% /small  %}}
-{{% /box  %}}
+
+## An den Infoabenden erhältlich:
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-***
-#### ERÖFFNUNGSANGEBOT FÜR alle Standorte
-****
-
-**(nur an den Infoabenden erhältlich):**
 
 * Sofort 1x Zahlung: € 9.300,- 
 * Bildungsscheck von 100,-
 
 **GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware)**
 
-{{% /small  %}}
 
-{{% small  %}}
-***
-#### ERÖFFNUNGSANGEBOT FÜR ST. PÖLTEN
-***
-
-**(nur an den Infoabenden erhältlich):**
-
-* Sofort 1x Zahlung: € 9.300,- 
-* Bildungsscheck von 100,-
-
-**GESAMTKOSTEN € 9.200,- (mit IFGE Schulungssoftware)**
-
-* IFGE Schulungssoftware kostenlos (Warenwert € 180,-) egal für welche Zahlungsvariante Sie sich entscheiden.
-
-{{% /small  %}}
-{{% /box %}}
-
-{{< line icon="icon/aktion.png" >}}
 ## Frühbucherbonus
 
 *Der Frühbucherbonus ist derzeit für folgende Lehrgänge gültig:
@@ -98,16 +74,16 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 * LSB 14 (Dienstag, 14 - 20 Uhr) in Pinkafeld bis 30.11.2020
 * LSB 16 (Samstag, 10 - 16 Uhr) in Wien bis 30.09.2021
 
+{{% /small  %}}
+{{% /box %}}
 
+{{% /small  %}}
+{{% /box %}}
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
 ## Unterrichtsmaterialien
 
 Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
 Insbesondere das neue {{< green >}}SMART-Board{{< /green >}} hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
-{{% /small  %}}
-{{% /box %}}

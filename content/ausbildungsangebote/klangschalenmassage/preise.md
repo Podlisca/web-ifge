@@ -28,4 +28,4 @@ weight: 2
 
 * Einmalzahlung: € 980,-
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten. Weiters werden an den Seminartagen in den Pausen gratis  Obst sowie Kuchen & Süßes angeboten.
+In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
