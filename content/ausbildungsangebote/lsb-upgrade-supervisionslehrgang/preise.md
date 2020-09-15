@@ -27,7 +27,7 @@ weight: 2
 ## Kosten
 
 
-* iEinmalzahlung: € 1.980,-
+* Einmalzahlung: € 1.980,-
 * Modulzahlung: € 450,- Anzahlzung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
 
 **Die Ausbildung ist nur komplett buchbar.**
