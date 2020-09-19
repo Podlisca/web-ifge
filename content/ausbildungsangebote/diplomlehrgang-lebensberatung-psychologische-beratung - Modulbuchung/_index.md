@@ -33,7 +33,7 @@ rich_faq:
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung")
 
-Sollte Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wirtschaftskammer](https://www.lebensberater.at/) angerechnet worden sein, so ist es möglich, folgende Module am IFGE einzeln zu buchen:
+Sollte Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wirtschaftskammer](https://www.lebensberater.at/) angerechnet worden sein, so ist es möglich folgende Module am IFGE einzeln zu buchen:
 {{% box top-align=1 %}}
 {{% small %}}
 
