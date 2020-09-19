@@ -84,6 +84,6 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
 ## Unterrichtsmaterialien
 
-Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
+Bei jedem Seminar sind kostenlose digitale Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
 Insbesondere das neue {{< green >}}SMART-Board{{< /green >}} hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.

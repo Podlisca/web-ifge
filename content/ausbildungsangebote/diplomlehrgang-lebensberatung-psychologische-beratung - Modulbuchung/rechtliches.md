@@ -7,7 +7,7 @@ draft: true
 weight: 4
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -27,22 +27,16 @@ weight: 4
 {{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
-* Mindestalter 24 Jahre
-* Persönliches Aufnahmegespräch oder Infoabend
-* Seelische und geistige Stabilität
+Als WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung sind die Module für die Einreichung, zum Erhalt des Gewerbescheins für Lebens- und Sozialberatung – psychologische Beratung, zugelassen. Die Anrechnung diverser Vorausbildungen obliegt einzig und allein der [Wirtschaftskammer](https://www.lebensberater.at/). Bitte lassen Sie vorab überprüfen welche Module für Sie, für den Erhalt der Gewerbeberechtigung, noch notwendig sind. 
 
 
 {{< line icon="icon/test_2.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
-## Prüfung
+## Teilnahmebestätigung
 
-* pro Semester gibt es eine mündliche Zwischenprüfung
-* Diplomarbeit
-* Mündliche Abschlussprüfung & Fachgespräch
-* Keine Prüfungsgebühr, kein Auswahlseminar
+Jedes Modul schließt mit einer Teilnahmebestätigung des IFGE ab.
 
-Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 80%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Diplomarbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
 {{% /small  %}}
 {{% /box %}}
 
@@ -50,31 +44,27 @@ Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 80%ige Anwese
 ## Zahlungsbedingungen
 
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 500,- Anzahlung auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben
 Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW zu überweisen.
 
-Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
+Bitte geben Sie als Modulbuchung LSB + Modulname (z.B: Einführung) + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 12 Wochen vor dem geplanten Modul entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Moudulgebühr zu bezahlen; danach die volle Modulgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofist wird eine Bearbeitungsgebühr von € 100,- einbehalten. Bei Fernbleiben oder Abbruch werden keine Kosten rückerstattet.
 
 {{< line icon="icon/vertrag.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 ## Allgemeine Geschäftsbedingungen
 
+Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
 
-Die Ausbildung ist nur komplett zu buchen und innerhalb von 5 Jahren (10 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von 5 Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Lehrgangsgebühr zu rechnen. Ein kompletter Umstieg in eine andere Gruppe ist nur möglich, wenn nach Ausbildungsstart der gewünschten Gruppe, noch Plätze frei sind.
+Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Das IFGE weißt ausdrücklich darauf hin, dass es sich hier um einzelne, zugelassene Module für die Ausbildung zur Dipl. Lebens- uns Sozialberaterin – psychologischen Beraterin / zum Lebens- und Sozialberater – psychologischen Berater handelt, und keine Vollausbildung ist. 
 
-Bei Zahlungsverzug von mehr als 10 Tagen bei Semesterzahlung oder Ratenzahlung wird automatisch der gesamte offene Restbetrag fällig. Der Lehrgang kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
+Weiterer Hinweis: Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum DiplomlehrgangLehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt. 
 
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. In diesem Fall wird eine Gutschrift, welche für alle Angebote im Institut für ganzheitliches Erleben genützt werden kann, ausgestellt. Die Gutschrift ist nicht in bar ablösbar, jedoch übertragbar. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
-
-Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt. Ab Verträge Mai 2020 sind die, für das Praktikum vorgeschriebenen 90 Stunden Gruppensupervision, bereits im Vertrag inkludiert.
-
-Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/praktikum/).
 {{% /small  %}}
 {{% /box %}}

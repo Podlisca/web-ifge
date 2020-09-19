@@ -13,7 +13,7 @@ rich_faq:
         antwort: "Psychologische BeraterInnen arbeiten in unterschiedlichen psychosozialen Einrichtungen oder selbstständig in einer eigenen Praxis. Das Arbeitsfeld der psychologischen BeraterInnen ist ein sehr breites und reicht von der Einzelberatung bei belastenden Situationen oder bei Entscheidungsschwierigkeiten über Paar- und Sexualberatung bis hin zu Krisenintervention, Trauerbegleitung oder Coaching."
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

@@ -1,5 +1,5 @@
 ﻿---
-title: "Kursaufbau"
+title: "Module"
 menu: 
     main:
         parent: lsbmodul
@@ -72,7 +72,7 @@ rich_faq:
     
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -89,21 +89,43 @@ rich_faq:
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
-## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychologische Beratung
+## Modulaufbau und Lehrinhalte
+***
+{{% box top-align=1 %}}
+{{% small %}}
+#### Einführung (20 Stunden)
+historische Entwicklung der Lebens- und Sozialberatung - gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung - Sozialphilosophie und Soziologie, erste Interventionsmöglichkeiten
+{{% /small  %}}
+{{% small  %}}
 
-* 20 Stunden Einführung in die Lebensberatung und Sozialberatung psychologische Beratung
-* 120 Stunden Gruppenselbsterfahrung
-* 68 Stunden angrenzender Fachbereich (Medizin, Pädagogik, Mediation)
-* 240 Stunden Methodik der Lebens- und Sozialberatung (Systemische Beratung, Familienaufstellung, Sexualberatung, Work-Life-Balance)
-* 80 Stunden Krisenintervention
-* 24 Stunden Recht
-* 16 Stunden Betriebswirtschaft
-* 16 Stunden Berufsethik und Berufsidentität
+{{% box top-align=1 %}}
+{{% small %}}
+#### Berufsethik (16 Stunden)
+ethische Grundfragen - Standes- und Ausübungsregeln - Berufsbild und Tätigkeitsbereiche - Berufsidentität und Berufsorganisation
+{{% /small  %}}
+{{% small  %}}
 
-584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
+#### Recht (24 Stunden )
+Familienrecht - Berufsrecht - Allgemeine Rechtsfragen
+{{% /small  %}}
+{{% small  %}}
 
-[Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)
+{{% box top-align=1 %}}
+{{% small %}}
 
-**Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
+{{% box top-align=1 %}}
+{{% small %}}
+#### Krisenintervention (80 Stunden)
+historische Entwicklung der Lebens- und Sozialberatung - gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung - Sozialphilosophie und Soziologie, erste Interventionsmöglichkeiten
+{{% /small  %}}
+{{% small  %}}
+
+{{% box top-align=1 %}}
+{{% small %}}
+#### Betriebswirtschaftliche Grundlagen (16 Stunden)
+
+Buchführungspflichten, Betriebsführung - Steuerrechtliche Grundlagen - Kalkulation und Verrechnung - Marketing für Lebens- und SozialberaterInnen
+{{% /small  %}}
+{{% small  %}}
 
 

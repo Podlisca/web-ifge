@@ -6,7 +6,9 @@ menu:
         identifier: lsbmodul
 draft: true
 weight: 1
-description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychologische Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
+description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychologische Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung." 
+
+
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
 og_image:  "/img/silvia_noe.jpg"
 aliases: 
@@ -20,8 +22,8 @@ rich_faq:
         antwort: "Auch wenn psychologische BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben."
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
-{{< slogan >}}
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
+ {{< slogan >}}
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
@@ -29,17 +31,28 @@ rich_faq:
 
 {{< image src="/img/silvia_noe.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
-Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
+Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung")
 
-Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
+Sollte Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der WKO angerechnet worden sein, so ist es möglich, folgende Module am IFGE einzeln zu buchen:
+{{% box top-align=1 %}}
+{{% small %}}
 
-Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen - psychologische Berater\*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
+* Einführung in die Lebens- und Sozialberatung (20 Stunden)
 
-Am [IFGE](/about/institut/) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
+* Krisenintervention (80 Stunden)
 
-**Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung**
+*  Recht (24 Stunden )
 
+* Betriebswirtschaftliche Grundlagen (16 Stunden)
+
+* Berufsethik und Berufsidentität (16 Stunden)
+<br/>
+<br/>
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
+
+{{% /small  %}}
+
+{{% /box %}}
 
 {{% /floatbox %}}
 

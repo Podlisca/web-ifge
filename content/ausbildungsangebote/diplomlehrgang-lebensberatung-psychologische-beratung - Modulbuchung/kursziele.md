@@ -7,7 +7,7 @@ draft: true
 weight: 1
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
@@ -18,7 +18,9 @@ weight: 1
 
 Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE in einer wertschätzenden, herzlichen Atmosphäre fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
 
-Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. [Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
+Die Modulbuchung am [IFGE](/about/institut/) soll Ihnen die Möglichkeit bieten, Ihre Ausbildung abzuschließen, damit Sie erfolgreich in Ihre Berufung starten können.[Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
+
+<br/>
 
 {{% silvia %}}
 
@@ -38,9 +40,7 @@ Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung 
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
-## Alle Informationen über den Lehrgang am IFGE
-
-Test
+## Alle Informationen über den Komplettlehrgang am IFGE
 
 
 {{% floatbox %}}
@@ -61,7 +61,7 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 
 {{% box blue=1 %}}
 
-## Warum den Lehrgang am IFGE besuchen?
+## Warum den Module am IFGE besuchen?
 {{% /box %}}
 {{% box more=1 blue=1 top-align=1 %}}
 {{% card-more title="Berufsbegleitendes Lernen" img="gruppe_noe.jpg" %}}
