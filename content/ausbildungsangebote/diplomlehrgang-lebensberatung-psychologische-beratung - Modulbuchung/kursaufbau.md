@@ -3,7 +3,7 @@ title: "Module"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 1
 rich_faq:
     -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychologische Beraterin?"
@@ -93,38 +93,46 @@ rich_faq:
 ***
 {{% box top-align=1 %}}
 {{% small %}}
+
 #### Einführung (20 Stunden)
-historische Entwicklung der Lebens- und Sozialberatung - gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung - Sozialphilosophie und Soziologie, erste Interventionsmöglichkeiten
+* historische Entwicklung der Lebens- und Sozialberatung 
+* gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung 
+* Sozialphilosophie und Soziologie 
+* erste Interventionsmöglichkeiten 
 {{% /small  %}}
 {{% small  %}}
 
-{{% box top-align=1 %}}
-{{% small %}}
 #### Berufsethik (16 Stunden)
-ethische Grundfragen - Standes- und Ausübungsregeln - Berufsbild und Tätigkeitsbereiche - Berufsidentität und Berufsorganisation
+* ethische Grundfragen in der Lebens- und Sozialberatung - psychologische Beratung
+* Standes- und Ausübungsregeln 
+* Berufsbild und Tätigkeitsbereiche 
+* Berufsidentität und Berufsorganisation
 {{% /small  %}}
 {{% small  %}}
 
 #### Recht (24 Stunden )
-Familienrecht - Berufsrecht - Allgemeine Rechtsfragen
+* Familienrecht 
+* Berufsrecht 
+* Allgemeine Rechtsfragen
 {{% /small  %}}
 {{% small  %}}
 
-{{% box top-align=1 %}}
-{{% small %}}
-
-{{% box top-align=1 %}}
-{{% small %}}
-#### Krisenintervention (80 Stunden)
-historische Entwicklung der Lebens- und Sozialberatung - gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung - Sozialphilosophie und Soziologie, erste Interventionsmöglichkeiten
+#### Krisenintervention 1 - 4 (80 Stunden)
+* historische Entwicklung der Lebens- und Sozialberatung
+* gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung
+* Sozialphilosophie und Soziologie, erste Interventionsmöglichkeiten
 {{% /small  %}}
 {{% small  %}}
 
-{{% box top-align=1 %}}
-{{% small %}}
+
 #### Betriebswirtschaftliche Grundlagen (16 Stunden)
 
-Buchführungspflichten, Betriebsführung - Steuerrechtliche Grundlagen - Kalkulation und Verrechnung - Marketing für Lebens- und SozialberaterInnen
+* Buchführungspflichten
+* Betriebsführung 
+* Steuerrechtliche Grundlagen
+* Kalkulation und Verrechnung 
+* Marketing für Lebens- und SozialberaterInnen
+
 {{% /small  %}}
 {{% small  %}}
 

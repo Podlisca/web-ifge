@@ -3,7 +3,7 @@ title: "Rechtliches"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 4
 ---
 

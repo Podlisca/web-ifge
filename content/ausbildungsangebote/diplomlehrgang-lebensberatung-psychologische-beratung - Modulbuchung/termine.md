@@ -3,7 +3,7 @@ title: "Termine"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 3
 ---
 
@@ -33,28 +33,7 @@ weight: 3
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-**Einführung**: in Planung
-
-von: 
-
-**Krisenintervention**: in Planung
-
-von:
-
-**Rechtliche Grundlagen**: in Planung
-
-von:
-
-**Berufsethik**: in Planung
-
-von: 
-
-**Betriebswirtschaft**: in Planung
-
-von:
-
-
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
+vorläufig keine Termine in Planung
 
 {{% /small  %}}
 
@@ -63,25 +42,44 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**Einführung**: in Planung 
+***Einführung***: 
 
-von: 
+**Termin:** in Planung
 
-**Krisenintervention**: in Planung
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 16:00 Uhr<br/>
 
-von:
 
-**Rechtliche Grundlagen**: in Planung
+***Krisenintervention***: 
 
-von:
+**Termin:** in Planung
 
-**Berufsethik**: in Planung
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-von: 
+***Rechtliche Grundlagen 1***: 
 
-**Betriebswirtschaft**: in Planung
+**Termin:** in Planung
 
-von:
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 17:00 Uhr<br/>
+
+***Berufsethik***: 
+
+**Termin:** in Planung
+
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
+
+***Betriebswirtschaft***: 
+
+**Termin:** in Planung
+
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
 
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
@@ -94,25 +92,45 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-**Einführung**: in Planung
+***Einführung***: 
 
-von: 
+**Termin:** in Planung
 
-**Krisenintervention**: in Planung
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 16:00 Uhr<br/>
 
-von:
 
-**Rechtliche Grundlagen**: in Planung
+***Krisenintervention***: 
 
-von:
+**Termin:** in Planung
 
-**Berufsethik**: in Planung
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-von: 
+***Rechtliche Grundlagen 1***: 
 
-**Betriebswirtschaft**: in Planung
+**Termin:** in Planung
 
-von:
+Freitag von 14:00 bis 20:00 Uhr<br/>
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 17:00 Uhr<br/>
+
+***Berufsethik***: 
+
+**Termin:** in Planung
+
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
+
+***Betriebswirtschaft***: 
+
+**Termin:** in Planung
+
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
+
 
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)

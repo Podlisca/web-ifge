@@ -3,7 +3,7 @@ title: "Preise"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 2
 ---
 
@@ -31,35 +31,35 @@ weight: 2
 **Einführung** 
 <br/>(20 Std.)
 <br/>
-<br/>€ TEST
+<br/>€ 350,-
 {{% /small  %}}
 {{% small  %}}
 
  **Krisenintervention** 
 <br/> (20 Std./ pro Modul)
 <br/>
-<br/>€ TEST
+<br/>€ 350,-
 {{% /small  %}}
 {{% small  %}}
 
 **Rechtliche Grundlagen** 
 <br/>(24 Std.)
 <br/>
-<br/>€ TEST
+<br/>€ 420,-
 {{% /small  %}}
 {{% small  %}}
 
 **Berufsethik** 
 <br/>(16 Std.)
 <br/>
-<br/>€ TEST
+<br/>€ 280,-
 {{% /small  %}}
 {{% small  %}}
 
 **Betriebswirtschaft** 
 <br/>(16 Std.)
 <br/>
-<br/>€ TEST
+<br/>€ 280,-
 {{% /small  %}}
 {{% /box %}}
 

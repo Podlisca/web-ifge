@@ -3,7 +3,7 @@ title: "Praktikum"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 5
 ---
 

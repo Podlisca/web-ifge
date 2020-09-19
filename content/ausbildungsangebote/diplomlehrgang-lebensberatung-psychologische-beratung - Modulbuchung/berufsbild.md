@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: berufsbild
-draft: true
+draft: false
 weight: 6
 rich_faq:
     -   frage: "Wer ist psychologischer Berater oder psychologische Beraterin?"

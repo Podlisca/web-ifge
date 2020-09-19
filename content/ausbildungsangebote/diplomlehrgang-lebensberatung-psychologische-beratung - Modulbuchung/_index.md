@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: lsbmodul
-draft: true
+draft: false
 weight: 1
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychologische Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung." 
 
@@ -33,7 +33,7 @@ rich_faq:
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung")
 
-Sollte Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der WKO angerechnet worden sein, so ist es möglich, folgende Module am IFGE einzeln zu buchen:
+Sollte Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wirtschaftskammer](https://www.lebensberater.at/) angerechnet worden sein, so ist es möglich, folgende Module am IFGE einzeln zu buchen:
 {{% box top-align=1 %}}
 {{% small %}}
 
