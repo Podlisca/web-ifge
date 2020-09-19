@@ -75,7 +75,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **28.05.2021** von 14:00 -20:00 Uhr  
 **15.06.2021** von 14:00 -20:00 Uhr  
 **17.06.2021** von 14:00 -20:00 Uhr  
-**09.09.2021** von 14:00 -20:00 Uhr  
 **14.09.2021** von 14:00 -20:00 Uhr  
 **05.10.2021** von 14:00 -20:00 Uhr  
 **07.10.2021** von 14:00 -20:00 Uhr  

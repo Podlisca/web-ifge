@@ -174,9 +174,9 @@ Montags von 14:00 bis 20:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 17
-#### Start: 10. September 2021
+#### Start: 09. September 2021
 
-Freitags von 14:00 bis 20:00 Uhr
+Donnerstags von 14:00 bis 20:00 Uhr
 
 genauer Kursplan folgt 
 
