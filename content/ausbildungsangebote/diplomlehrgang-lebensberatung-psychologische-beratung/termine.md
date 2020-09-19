@@ -64,8 +64,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-* 19.08.2020
-<br/> <br/><br/>
+* 23.10.2020
+* 17.12.2020
+<br/> <br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -113,13 +114,13 @@ Montags von 14:00 bis 20:00 Uhr
 ***
 
 ## LSB 16
-#### Start: 12. Februar 2022
+#### Start: 03. September 2021
 
-Samstags von 10:00 bis 16:00 Uhr
+Freitags von 14:00 bis 20:00 Uhr
 
-Kursplan folgt 
+genauer Kursplan folgt 
 
-[VORMERKEN](/anmeldung.php)
+[ANMELDUNG](/anmeldung.php)
 
 
 {{% /small  %}}
@@ -141,12 +142,14 @@ Dienstags von 14:00 bis 20:00 Uhr
 ***
 {{% box blue=1 %}}
 {{% small  %}}
-## LSB 17
-#### Start: September 2021
+## LSB 18
+#### Start: 10. Februar 2022
 
-Kursplan folgt 
+Donnerstags von 14:00 bis 20:00 Uhr
 
-[VORMERKEN](/anmeldung.php)
+genauer Kursplan folgt 
+
+[ANMELDUNG](/anmeldung.php)
 {{% /small  %}}
 
 {{% /box %}}
@@ -162,8 +165,6 @@ Kursplan folgt
 
 Montags von 14:00 bis 20:00 Uhr
 
-Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am Wochenende statt. 
-
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 15 herunterladen](/downloads/LSB_15_termine.pdf)
@@ -172,19 +173,26 @@ Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am W
 
 {{% box blue=1 %}}
 {{% small  %}}
-## LSB 18
-#### Start: September 2021
+## LSB 17
+#### Start: 10. September 2021
 
-Kursplan folgt 
+Freitags von 14:00 bis 20:00 Uhr
 
-[VORMERKEN](/anmeldung.php)
+genauer Kursplan folgt 
+
+[ANMELDUNG](/anmeldung.php)
+
+
+
 {{% /small  %}}
 {{% /box %}}
 
+***
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/bus.png" >}}
+
 
 {{% box blue=1 %}}
 {{% small  %}}
