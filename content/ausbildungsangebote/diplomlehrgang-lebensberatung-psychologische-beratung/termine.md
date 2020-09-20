@@ -88,18 +88,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 #### Wien
 ***
-## LSB 12
-#### Start: 09. September 2020
-
-Mittwochs von 09:00 bis 15:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 12 herunterladen](/downloads/LSB_12_termine.pdf)
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 13
 #### Start: 08. Februar 2021
 
@@ -108,11 +96,9 @@ Montags von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 13 herunterladen](/downloads/LSB_13_termine.pdf)
-{{% /small  %}}
-{{% /box %}}
-
 ***
-
+{{% box blue=1 %}}
+{{% small  %}}
 ## LSB 16
 #### Start: 03. September 2021
 
@@ -122,9 +108,13 @@ genauer Kursplan folgt
 
 [ANMELDUNG](/anmeldung.php)
 
+{{% /small  %}}
+{{% /box %}}
+
+
+
 
 {{% /small  %}}
-
 {{% small  %}}
 #### Burgenland
 
@@ -154,7 +144,7 @@ genauer Kursplan folgt
 
 {{% /box %}}
 
-***
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -187,7 +177,7 @@ genauer Kursplan folgt
 {{% /small  %}}
 {{% /box %}}
 
-***
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -204,8 +194,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+
 
 
 

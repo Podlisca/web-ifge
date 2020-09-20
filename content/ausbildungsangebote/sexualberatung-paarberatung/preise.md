@@ -28,4 +28,4 @@ weight: 2
 * Einmalzahlung: € 1.980,-
 * Modulzahlung: € 450,- Anzahlzung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.

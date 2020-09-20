@@ -27,18 +27,19 @@ weight: 2
 ## Kosten - Modulbuchung
 
 {{% box top-align=1 %}}
-{{% small  %}}
+{{% small %}}
 **Einführung** 
 <br/>(20 Std.)
 <br/>
 <br/>€ 350,-
+***
 {{% /small  %}}
 {{% small  %}}
-
  **Krisenintervention** 
 <br/> (20 Std./ pro Modul)
 <br/>
 <br/>€ 350,-
+***
 {{% /small  %}}
 {{% small  %}}
 
@@ -46,6 +47,7 @@ weight: 2
 <br/>(24 Std.)
 <br/>
 <br/>€ 420,-
+***
 {{% /small  %}}
 {{% small  %}}
 
@@ -53,6 +55,7 @@ weight: 2
 <br/>(16 Std.)
 <br/>
 <br/>€ 280,-
+***
 {{% /small  %}}
 {{% small  %}}
 
@@ -60,17 +63,18 @@ weight: 2
 <br/>(16 Std.)
 <br/>
 <br/>€ 280,-
+
+***
 {{% /small  %}}
 {{% /box %}}
 
 
-***
 
 Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit a. UStG 1994 steuerfrei.
 
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-
+***
 ## Unterrichtsmaterialien
 
 Bei jedem Seminar sind kostenlose digitale Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
