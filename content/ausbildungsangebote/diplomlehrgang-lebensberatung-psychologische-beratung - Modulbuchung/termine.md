@@ -42,7 +42,7 @@ vorläufig keine Termine in Planung
 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-***Einführung***: 
+### Einführung: 
 
 **Termin:** in Planung
 
@@ -50,8 +50,10 @@ Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 16:00 Uhr<br/>
 
+Leitung: 
+***
 
-***Krisenintervention***: 
+### Krisenintervention: 
 
 **Termin:** in Planung
 
@@ -59,7 +61,9 @@ Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-***Rechtliche Grundlagen 1***: 
+Leitung: 
+***
+###  Rechtliche Grundlagen 1: 
 
 **Termin:** in Planung
 
@@ -67,21 +71,29 @@ Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-***Berufsethik***: 
+Leitung: 
+***
+### Berufsethik: 
 
 **Termin:** in Planung
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-***Betriebswirtschaft***: 
+Leitung: 
+
+***
+
+### Betriebswirtschaft: 
 
 **Termin:** in Planung
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
+Leitung: 
 
+***
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 
@@ -92,16 +104,17 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-***Einführung***: 
+### Einführung: 
 
-**Termin:** in Planung
+**Termin: 07. - 09.05.2021**
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 16:00 Uhr<br/>
 
-
-***Krisenintervention***: 
+Leitung: [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
+***
+### Krisenintervention: 
 
 **Termin:** in Planung
 
@@ -109,7 +122,9 @@ Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-***Rechtliche Grundlagen 1***: 
+Leitung: 
+***
+### Rechtliche Grundlagen 1: 
 
 **Termin:** in Planung
 
@@ -117,21 +132,27 @@ Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-***Berufsethik***: 
+Leitung: 
+***
+### Berufsethik: 
+
+**Termin: 19. - 20.06.2021**
+
+Samstag von 09:00 bis 18:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
+
+Leitung: [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
+***
+### Betriebswirtschaft: 
 
 **Termin:** in Planung
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-***Betriebswirtschaft***: 
+Leitung: 
 
-**Termin:** in Planung
-
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 18:00 Uhr<br/>
-
-
+***
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
