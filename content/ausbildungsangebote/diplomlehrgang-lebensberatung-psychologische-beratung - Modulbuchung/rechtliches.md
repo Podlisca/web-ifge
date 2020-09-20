@@ -27,7 +27,7 @@ weight: 4
 {{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
-Als WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung sind die Module für die Einreichung, zum Erhalt des Gewerbescheins für Lebens- und Sozialberatung – psychologische Beratung, zugelassen. Die Anrechnung diverser Vorausbildungen obliegt einzig und allein der [Wirtschaftskammer](https://www.lebensberater.at/). Bitte lassen Sie vorab überprüfen welche Module für Sie, für den Erhalt der Gewerbeberechtigung, noch notwendig sind. 
+Als WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung,  sind die Module für die Einreichung zum Erhalt des Gewerbescheins für Lebens- und Sozialberatung – psychologische Beratung zugelassen. Die Anrechnung diverser Vorausbildungen obliegt einzig und allein der [Wirtschaftskammer](https://www.lebensberater.at/). Bitte lassen Sie vorab überprüfen, welche Module für Sie - für den Erhalt der Gewerbeberechtigung - noch notwendig sind. 
 
 
 {{< line icon="icon/test_2.png" >}}
