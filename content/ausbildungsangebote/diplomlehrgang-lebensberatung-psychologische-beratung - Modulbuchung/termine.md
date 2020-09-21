@@ -145,7 +145,7 @@ Leitung: [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
 ***
 ### Betriebswirtschaft: 
 
-**Termin:** in Planung
+**Termin: 01. u. 02.05.2021** 
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
