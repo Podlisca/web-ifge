@@ -150,7 +150,7 @@ Leitung: [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-Leitung: 
+Leitung: [Mag. Margareta Miel](/about/referenten-lsb/#mag-margareta-miel)
 
 ***
 
