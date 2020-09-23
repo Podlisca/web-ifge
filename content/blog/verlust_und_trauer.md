@@ -26,6 +26,9 @@ Zurück zur Schmusedecke. Kinder können sich der Verarbeitung von Trauer nicht 
 
 Zeit ist wohl der wichtigste Faktor, wenn Verluste betrauert werden wollen; gerade in einer schnelllebigen Umwelt sollte man nicht überhastet ins "normale" Leben zurückkehren, ohne mit sich selbst und dem Vorgefallenen im Reinen zu sein. Vor allem gehört Verlust als Teil des Lebens akzeptiert - das viel zitierte "Loslassen" wäre nur dann möglich, wenn man vergisst. Und das will man einem geliebten Menschen und sich selbst mit Sicherheit nicht antun: Man verlöre so einen bedeutenden Teil seines eigenen Lebens.
 
+{{< silvia >}}
+<br/>
+
 **Quellen:**
 
 http://www.t-online.de/eltern/erziehung/id_48506954/die-schmusetuchlobby-welche-rolle-spielen-uebergangsobjekte-.html

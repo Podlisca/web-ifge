@@ -37,7 +37,8 @@ Nehmen Sie Ihre Sexualität ernst, aber vergessen Sie nicht die spielerische Not
 ### Bleiben Sie sich treu
 Am schönsten ist es wohl für beide, wenn nicht die Performance und Fragen wie „Bin ich schön und begehrenswert genug“ im Vordergrund stehen, sondern das sich Fallen lassen sowie ein Gefühl der Leidenschaft und Sinnlichkeit. Bei allen Tipps und Anregungen – bleiben Sie sich stets selber treu. Nur wer sich achtet und in seinem Körper wohlfühlt sowie ganz bei der Sache ist, wird wohl erfüllenden Sex erleben. Was Sie wirklich in Stimmung bringt können nur Sie selber herausfinden, ein Standard-Kochrezept mit den stets gleichen Zutaten, das für alle passt, gibt es wohl nicht. Das macht Sex aber auch irgendwie mysthisch, nie ganz durchschaubar und dadurch stets spannend und interessant.
 
- 
+ {{< silvia >}}
+<br/>
 
 **Quellen:**
 

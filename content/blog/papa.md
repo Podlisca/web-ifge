@@ -24,6 +24,8 @@ Wie sich Väter verhalten sollten, die bis dato wenig Zeit und Aufmerksamkeit in
 
 Und natürlich gibt es auch genügend positive Beispiele, wo die beschriebenen Vorgangsweisen bereits Alltagsroutinen geworden sind, nämlich bei all jenen Vätern, die sich ihrer Verantwortung als Erziehungsberechtiger bewusst sind und für die eine gleichberechtige Mann-Frau-Beziehung selbstverständlich ist!
 
+{{< silvia >}}
+<br/>
 
 **Quellen & weiterführende Links:**
 

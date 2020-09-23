@@ -43,3 +43,5 @@ Podlisca (lacht): Nun ja, wenn es um Prüfungen geht, bin ich konsequent – abe
 Alle Infos zur Diplomausbildung am IFGE finden Sie hier: [Diplomlehrgang Lebensberatung - psychologische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/)
 Alle Ausbildungsangebote des IFGE finden Sie hier: [Ausbildungen im Überblick](/ausbildungsangebote/)
 
+{{< silvia >}}
+<br/>

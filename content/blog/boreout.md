@@ -19,6 +19,9 @@ Daher  entwickeln Boreout-Betroffene, trotz aller Unzufriedenheit, Strategien, d
 
 Fazit: Es wäre für beide Seiten von Vorteil, einem drohenden Boreout aktiv entgegenzuwirken. Managementseitig ist der sinnvolle Einsatz von Arbeitskräften in Tätigkeiten, die auch deren Qualifikation entsprechen, der wichtigste Schritt. Zu meinen, man könne Arbeitnehmer wie Schachfiguren hin- und herschieben, ist eine kurzsichtige Denkweise. Fingerspitzengefühl und Beschäftigung mit den persönlichen Interessen und Sorgen der Arbeitnehmer sind also gefragt. Letztere wiederum sollten sowohl den Mut haben, darauf hinzuweisen, dass ihre aktuelle Tätigkeit nicht befriedigend ist, als auch die Bereitschaft und die Selbstverantwortung aufbringen, neue und anspruchsvolle Tätigkeiten zu übernehmen.
 
+{{< silvia >}}
+<br/>
+
 **Weiterführende Links:**
 
 www.boreout.com

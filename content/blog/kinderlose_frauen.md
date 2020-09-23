@@ -47,6 +47,8 @@ Sarah Diehl wollte für ihr Buch ‚Die Uhr, die nicht tickt‘ ursprünglich au
 
 Kinder laufen nicht mehr einfach mit, sondern werden zum Lebensinhalt. Das Bundesinstitut für Bevölkerungsforschung hat im letzten Jahr eine Untersuchung zu den Gründen, warum Menschen in Deutschland immer weniger Kinder bekommen, veröffentlicht. Einen der Hauptgründe sieht es in dem überhöhten Mutterideal der Deutschen. ‚Die niedrigeren Geburtenraten gibt es übrigens in allen Ländern mit einer faschistischen Vergangenheit. Forscher vermuten einen Zusammenhang mit dem Mutterbild im Faschismus. Die Frauen wurden aus dem öffentlichen Leben herausgedrängt, die Mutterrolle wurde überhöht. Das wirkt bis heute.`, so Anja Uhling, Journalistin und Buchautorin.
 
+{{< silvia >}}
+<br/>
  
 **Quellen:**
 

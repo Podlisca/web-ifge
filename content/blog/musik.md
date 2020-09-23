@@ -27,3 +27,5 @@ Trotz allem: So verschieden und unterschiedlich die Fähigkeiten auch sind, stö
 
 Kein Wunder also, dass es manchmal so richtig Spaß macht, in den wunderschönen Klangfarben der Musik zu baden und sich vom lärmenden, diffusen Außen wegtragen zu lassen. Und die paar Glücksgefühle, die nebenbei produziert werden, sind ein netter Bonus. In diesem Sinn also: Hören Sie Musik – aber stören Sie damit niemand anderen ;-)
 
+{{< silvia >}}
+<br/>

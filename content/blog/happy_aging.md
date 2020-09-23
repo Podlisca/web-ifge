@@ -56,7 +56,8 @@ Sex im Alter kann jedoch auch ein Genuss sein, jeder Mensch empfindet Liebe und 
 
 Sex im höheren Alter unterscheidet sich nicht zum Nachteil von dem jüngerer Menschen: Man braucht sich keine Gedanken mehr um die Verhütung machen, die Orgasmusfähigkeit ist mitunter sogar besser, weil psychische Belastungen wie Job, Haushalt, Kindererziehung etc. wegfallen. Die emotionalen und körperlichen Bedürfnisse verlagern sich: Körperliche Spitzenleistungen werden sekundär - Nähe wird wertvoller. Diese muss sich nicht durch einen Orgasmus ausdrücken. Hautkontakt, Zärtlichkeit, das partnerschaftliche Füreinander, im Sinne von Geborgenheit, bekommen eine größere Bedeutung. Das Wohlbefinden rückt immer mehr in den Vordergrund.
 
- 
+ {{< silvia >}}
+<br/>
 
 **Quellen:**
 

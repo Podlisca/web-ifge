@@ -34,9 +34,10 @@ Nein. Ein Alltagsgespräch unterscheidet sich grundlegend von einer qualitativen
 ### „Die LSB fürchten sich um ihre KundInnen, darum wettern so viele gegen Wolfgang Knopf.“
 
 Nein. Gut ausgebildete, wertschätzende und konsequente psychologische BeraterInnen sind sich ihrer Fähigkeiten bewusst und fürchten sich nicht um ihren Kundenstock. Was ich persönlich allerdings wenig schätze, ist der Umgang von Herrn Knopf mit einer geltenden Rechtssituation, gegen die er sich wider besseres Wissen stellt. Mit dieser Herangehensweise und vor allem mit seiner Art, abschätzig zu kommunizieren, schadet er nicht nur seinen eigenen Mitgliedern sondern dem gesamten Berufsstand. Da meiner Meinung nach wertschätzende und gewaltfreie Kommunikation die Grundpfeiler jeder Beratungs- und Supervisionseinheit sein sollten, wird sich Herr Knopf sehr wohl die Frage gefallen lassen müssen, inwiefern sich seine hochemotionale und kampfbereite Rhetorik gepaart mit seinem konsequenten Bestehen auf einer falschen Rechtsmeinung auf das Ansehen und die Qualität seines Verbandes auswirken wird.
- 
+<br/> 
 
-Ihre Silvia Podlisca,
+{{< silvia >}}
+<br/>
 
 Leiterin des Instituts für ganzheitliches Erleben IFGE in Wien
 

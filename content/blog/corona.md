@@ -30,6 +30,9 @@ Wie also damit umgehen? Machen Sie sich bewusst, dass Sie „nur“ der Lehrer o
 
 Falls Sie das Gefühl haben, dass Ihnen zusätzlich zu Ihren pädagogischen Fähigkeiten in diesen besonderen Zeiten Wissen rund um psychologische Dynamiken Ihren Job als Pädagog\*in erleichtern könnte, ist vielleicht unsere Fortbildung für Vertrauenslehrer*innen für Sie von Interesse. Mehr dazu hier.
 
+{{< silvia >}}
+<br/>
+
 **Quellen:**
 
 (1) https://www.welt.de/wissenschaft/article207419149/Corona-Wie-sich-im-Lockdown-das-Verhalten-von-Kindern-veraendert.html

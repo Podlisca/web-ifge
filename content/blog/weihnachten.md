@@ -38,7 +38,8 @@ Die gute Nachricht an dieser Stelle ist: Gegen Stress können Sie selbst etwas t
 
 Nutzen Sie doch dieses Jahr die Adventzeit ganz bewusst, um sich über Ihre Erholungsphasen im Klaren zu werden. Wissen Sie, viele Bären, die wir vor unserer Höhle heute vermuten, sind in Wirklichkeit nicht so bedrohlich, wie es uns oft erscheint. Lassen Sie doch diesen Advent immer wieder einmal alle Fünfe gerade sein. Es macht doch gar nichts, wenn das Geschenk nicht zu hundert Prozent korrekt verpackt ist, wenn Sie sich dafür bei einer heißen Tasse Tee mit Ihrer Familie entspannen und so den wahren Zauber von Weihnachten wieder ein bisschen spüren und verbreiten können.
 
- 
+{{< silvia >}}
+<br/> 
 
  
 

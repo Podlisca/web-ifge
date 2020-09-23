@@ -38,6 +38,9 @@ Erst nach Ende des zweiten Weltkriegs und mit der Errichtung der Zweiten Republi
 ### Fazit: Nicht wählen ist keine Alternative
 Als Fazit bleibt, dass es keine Selbstverständlichkeit darstellt, aktiv an der politischen Gestaltung seiner Gesellschaft teilhaben zu dürfen, und dass das Recht zu wählen zumindest auch einer moralischen Verpflichtung zur Wahl gleichkommt. Gerade in Zeiten des gesellschaftlichen Umbruchs und vieler aktueller Krisenherde auf der Welt, sollten wir uns dieses Privileg immer wieder vor Augen halten und bei den bevorstehenden Wahlen auch aktiv nutzen. Denn wir müssen uns durchaus darüber im Klaren sein, dass Nichtwähler aktiv dazu beitragen, wieder in vordemokratische Verhältnisse zurückzufallen – und das auch noch freiwillig! Wer nicht wählt ist verantwortlich dafür, dass nur ein geringerer Prozentsatz der Wahlberechtigten über die Zukunft des Landes entscheidet. Und Nichtwähler verspielen gleichzeitig jedes Recht auf Protest: Wer nicht deklariert was er gern möchte, muss nehmen was er kriegt!
 
+{{< silvia >}}
+<br/>
+
 **Quellen:**
 
 www.wikipedia.com 

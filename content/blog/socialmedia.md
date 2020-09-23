@@ -26,6 +26,10 @@ Im Internet finden sich aber nicht nur Gefahren, es kann auch viele nützliche I
 
 **Außerdem findet am IFGE am 12.November 2015 der Workshop „Fit and save for Social Media & Party – speziell für Mädchen. Damit aus Spaß nicht Ernst wird“ in Kooperation mit einer jungen Polizistin statt. Infos dazu gibt's [hier](/online-ausbildungsangebote/fitandsafe/)!**
 
+
+{{< silvia >}}
+<br/>
+
 **Und hier die Links:**
 
 www.saferinternet.at

@@ -24,3 +24,5 @@ Und auch in der Wirtschaft wird der respektvolle Umgang untereinander leider all
 
 **Unterm Strich bleibt also die Erkenntnis, dass Respekt und ein respektvolles Miteinander langfristig immer die lohnendere Alternative zur (verbalen) Diskriminierung sind. Und natürlich, dass es sich ab und an lohnt, sich an die Weisheiten seiner Eltern zu erinnern!**
 
+{{< silvia >}}
+<br/>

@@ -22,6 +22,9 @@ Besonders bemerkenswert beim Stalking ist, dass sowohl Opfer- als auch Tätergru
 
 Gelingt dies, würde das nicht nur die österreichische Kriminalitätsstatistik weiter verbessern, sondern vor allem viel Leid für die potentiellen Opfer ersparen, aber auch zahlreichen Menschen den vorgezeichneten Weg von einem gesellschaftlich wenig anerkannten Leiden hin zur Kriminalität ersparen. Und diese beiden letzten Punkte wären ein echter Gewinn für die gesamte Gesellschaft! Nicht zuletzt deshalb bietet das IFGE Hilfe bei der Täterprävention an. Und wir wollen auch Mut machen, dass sowohl betroffene Männer als auch Frauen ihre Scham überwinden, und diese Hilfe in Anspruch nehmen.
 
+{{< silvia >}}
+<br/>
+
 **Quellen:**
 
 1 http://www.bmi.gv.at/cms/BK/publikationen/krim_statistik/2014/Sicherheit_2014.pdf

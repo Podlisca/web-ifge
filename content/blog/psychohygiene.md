@@ -39,6 +39,9 @@ Im Folgenden finden Sie noch weitere Tipps, die Sie im Rahmen der Psychohygiene 
 
 Bei der Psychohygiene macht das stetige Dahinter bleiben bzw. die regelmäßige Wiederholung gesundheitsfördernder Maßnahmen den Erfolg aus. Dann bietet Sie Ihnen allerdings die Aussicht auf ein Leben mit einem höheren Grad an Zufriedenheit, Gelassenheit und seelischem Wohlbefinden. Beruhigung, Ausgeglichenheit und Entspannung vertreiben dann gerne alles, von dem Sie beschließen, ihm keinen Raum mehr in Ihrem Leben zu geben.
 
+{{< silvia >}}
+<br/>
+
 
 **Quellen:**
 

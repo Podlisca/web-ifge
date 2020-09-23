@@ -47,6 +47,9 @@ Greg Behrendt, Autor von Sachbüchern zum Liebesverhalten der US-Bevölkerung, m
 
 Psychologisch betrachtet, ist „ghosting“ ein ungesundes Verhalten für alle Betroffenen. Durch eine klare Aussprache fällt der Abschluss leichter und die getrennten Partner können weiterziehen. Bei „ghosting“ kommt es zu einer Phase des Hinterfragens und Zweifelns – „Hat er/sie gerade zu viel zu tun?“, „Ist sein/ihr Mobiltelefon kaputt?“, „Vielleicht hat er meine Nachricht noch nicht gelesen?“. Diese Gedanken können zermürben, psychologische Hilfe, um Klarheit zu schaffen kann in diesem Prozess unterstützen.
 
+{{< silvia >}}
+<br/>
+
 **Quellen:**
 
 http://derstandard.at/2000031847380/Ghosting-Wenn-der-andere-ploetzlich-nicht-mehr-zurueckschreibt

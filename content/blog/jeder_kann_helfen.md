@@ -35,3 +35,5 @@ Und für alle, die weder Wohnraum noch Sachspenden leisten können bleibt die ei
 Als Fazit bleibt, dass wer helfen will, auch helfen kann. Jeder einzelne Euro, jede Spende, jede Geste zählt und zeigt Menschen, die tausende von Kilometern unter größten Gefahren zurückgelegt und nicht selten alles verloren haben, was sie vorher besaßen, dass wir als solidarische Gemeinschaft zu ihnen stehen und sie mit dem erlittenen Schicksal nicht alleine lassen.
 Und auch jedem noch so kleinen Unternehmen muss es möglich sein, sich zumindest öffentlich zu positionieren oder monetär Hilfe zu leisten. Nicht zuletzt sollten Firmen auch daran denken, dass Spenden steuerlich absetzbar sind – womit auch die allerletzte Ausrede nichts tun zu können nicht mehr greift!
 
+{{< silvia >}}
+<br/>

@@ -34,6 +34,9 @@ Prinzipiell können Tiere bei jedem Beratungsgespräch als wertvolle Stütze die
 
 Die Vierbeiner stellen eine hilfreiche Stütze im Beratungsprozess dar und können viele positive Gefühle in uns Menschen wecken – wie Fröhlichkeit, Sorglosigkeit und bedingungslose Liebe. Sie entpuppen sich oft als eine wundervolle Bereicherung im Leben oder wie Rupert Sheldrake sagt: „Die meisten von uns benötigen Tiere offenbar als Teil ihres Lebens - unsere menschliche Natur ist untrennbar mit der Natur des Tieres verbunden. Sind wir von ihr isoliert, fehlt uns etwas. Wir verlieren ein Teil unseres Erbes.“
 
+{{< silvia >}}
+<br/>
+
 **Quelle:**
 
 http://www.paracelsus-magazin.de/alle-ausgaben/82-heft-022015/1325-tiergestuetzte-interventionen-in-therapie-und-beratung.html

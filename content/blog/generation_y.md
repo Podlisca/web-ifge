@@ -30,3 +30,5 @@ Ein solcher Erziehungsstil sei typisch für die Generation Y, sagt Erziehungswis
 
 Vielleicht wäre es für die selbst (über)behütet aufgewachsene Generation Y endlich an der Zeit, sich neu zu orientieren und wieder vermehrt auf „altmodische“ Erziehungsansätze zu setzen: Nämlich den Kindern eigene Entscheidungen zuzutrauen, ihnen klare Grenzen zu setzen und sie dort zu unterstützen wo sie es brauchen – und nicht dort, wo ihre Eltern es gerne hätten. Denn damit wäre auch gewährleistet, dass Eltern wieder erziehen, wie es für Erziehungsberechtigte eigentlich der Fall sein sollte, und nicht als Vollzeit-Animateure für ihre Kinder arbeiten. Und somit würde sich der Großteil der Generation Y wohl über kurz oder lang von den Selbstzweifeln die sie plagen auch befreien können, wäre doch der Druck alles richtig machen zu wollen plötzlich ein viel geringerer. Oder anders ausgedrückt: Macht aus dem Y doch einfach hin und wieder mal ein X ;-)
 
+{{< silvia >}}
+<br/>

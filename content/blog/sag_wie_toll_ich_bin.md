@@ -11,9 +11,7 @@ Es gibt eine Vielzahl verschiedenster Süchte – die Sucht nach Anerkennung ken
 
 Wer möchte nicht bewundert, geliebt und von allen anerkannt werden?
 
-Der Kontakt und die Beziehung zu anderen Personen stellt ein grundlegendes Bedürfnis aller Menschen dar. 
-
-Nur in der Interaktion mit anderen entdecken und festigen wir unsere individuelle Persönlichkeit und Eigenschaften. Nichts wirkt so aktivierend auf unser Motivationssystem, wie von unseren Mitmenschen soziale Anerkennung zu erhalten und von anderen gesehen zu werden.
+Der Kontakt und die Beziehung zu anderen Personen stellt ein grundlegendes Bedürfnis aller Menschen dar. Nur in der Interaktion mit anderen entdecken und festigen wir unsere individuelle Persönlichkeit und Eigenschaften. Nichts wirkt so aktivierend auf unser Motivationssystem, wie von unseren Mitmenschen soziale Anerkennung zu erhalten und von anderen gesehen zu werden.
 
 Menschen, die in ständiger Isolation leben, verlieren ihre Lebensfreude, ihren Appetit und werden krank sowie oft auch aggressiv. Ein ehemaliger CIA-Psychiater entdeckte bei einer Studie, bei der die Lebensläufe von 400 islamistischen Terroristen analysiert wurden, einen Zusammenhang zwischen Aggression und Anerkennung. Vor dem Anschluss an die Terrorgruppe waren diese Personen sozial isoliert. Für die Terrorgruppe, die sie aufnahm und ihnen eine Gemeinschaft bot, waren sie im Anschluss bereit, ihr Leben zu geben.
 
@@ -23,6 +21,8 @@ Meist ist man dabei allerdings im Außen fixiert und versucht dort Bestätigung 
 
 Leider vergisst man dabei oft auf den wichtigsten Aspekt – sich selbst. Um sich selber anerkennen zu können, muss man sich allerdings einmal wahrnehmen und sich selbst mit echtem Interesse begegnen. Die Anerkennung der anderen kann nur folgen, wenn man begonnen hat, sich selber zu vertrauen, anzuerkennen und wertzuschätzen – und zwar als genau die Person, die man ist: mit sämtlichen Schwächen sowie - angeblich - unperfekten Wesenszügen und Äußerlichkeiten. Dann wird man plötzlich zum anziehenden, mitreißenden Wesen mit magnetischen Fähigkeiten. Wohl nichts zieht andere Menschen so sehr an, wie jemand, der völlig authentisch ist und ganz zu sich selbst steht – nicht weil er besonders schön ist oder besonders viel erreicht hat, sondern, weil er immer ganz bei sich ist und zu sich und allem was ihn in seiner Einzigartigkeit ausmacht steht. Dann folgt die Anerkennung von allen anderen ganz alleine – auch wenn sie dann nicht mehr so wichtig ist.
 
+{{< silvia >}}
+<br/>
  
 **Quellen:**
 

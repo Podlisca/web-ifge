@@ -42,3 +42,5 @@ Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut lie
 
 5.	Bei den Schwächen der Online-Videoberatung ist vor allem deutlich auf das Thema der Verschwiegenheit hinzuweisen. Während Berater\*innen in der eigenen Praxis dafür sorgen können und müssen, dass Fenster geschlossen sind und ein der Schweigepflicht entsprechender Rahmen gegeben ist, kann man dieser Verantwortung als Berater\*in online nur auf einer Seite nachkommen. Inwiefern das Gespräch wirklich ungestört und vertraulich bleibt, wenn beispielsweise die Kinder der Klient\*innen im Nebenraum spielen oder wenn Partner\*innen mit Babyphones der digitalen Beratungseinheit lauschen, kann seitens der Berater\*innen nicht nachvollzogen werden. Ein Teil der eigentlichen Schweigepflichtsverantwortung liegt digital damit zumindest in einer Art Graubereich.
 
+{{< silvia >}}
+<br/>

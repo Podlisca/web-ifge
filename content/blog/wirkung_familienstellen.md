@@ -37,6 +37,9 @@ Wenn man sich intensiver mit Familienaufstellungen befasst, kann man nicht nur u
 
 Familienaufstellungen wirklich mit Fakten und nackten Informationen zu erklären wird dem Erlebten nie ganz gerecht werden. Man muss wohl selber einmal erlebt haben, wie stark die Emotionen bei einer Aufstellung wirken und wie viele Gefühle sie in einem auslösen können, wenn Verborgenes, das schon lange unbewusst bzw. in der Familienseele wirkt, plötzlich aufgedeckt wird. Je mehr Blockaden, alte Behinderungen und vielleicht Traumata, die man aus der Vergangenheit seines Familiensystems mitgenommen hat, losgelassen werden können, desto mehr Raum wird dafür geschaffen, sich selber zu leben.
 
+{{< silvia >}}
+<br/>
+
 **Quelle:**
 
 http://secret-wiki.de/wiki/Morphogenetische_Felder
