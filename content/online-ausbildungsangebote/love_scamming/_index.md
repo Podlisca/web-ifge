@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 6
 description: "Love Scamming – oder auch Romance Scamming genannt – ist eine der Formen des Internetbetruges, die Betroffene am nachhaltigsten erschüttern. Als eine Art digitale Form der Heiratsschwindler treiben Love Scammer ihr Unwesen nicht nur auf Singleplattformen, sondern auch in Sozialen Medien wie Facebook und Co."
-og_image: "/img/love_scamming.jpg"
+og_image: "/img/love_scamming_blog.jpg"
 rich_kurs: true
 ---
 
@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/love_scamming.jpg" title=" Love Scamming – oder auch Romance Scamming ist ein relativ neuer Begriff, jedoch einer der ältesten Straftaten. Die Einsamkeit und die Sehnsucht nach Liebe ausnützend, erschaffen Täter und Täterinnen eine Illusion einer heilen Beziehung, die nur eines im Schilde hat: an all ihr Geld zu gelangen – ohne Rücksicht auf Verlust und Gefühle. Erfahrene Lebensberater\*in -psychologischen Berater\*in mit Zusatzausbildung in Supervision, Sexualberatung und systemischer Beratung leiten diesen Onlineworkshop wo Sie erkennen lernen WIE die Täter und Täterinnen vorgehen und wie Sie sich schützen können."float="left " >}}
+{{< image src="/img/love_scamming_blog.jpg" title=" Love Scamming – oder auch Romance Scamming ist ein relativ neuer Begriff, jedoch einer der ältesten Straftaten. Die Einsamkeit und die Sehnsucht nach Liebe ausnützend, erschaffen Täter und Täterinnen eine Illusion einer heilen Beziehung, die nur eines im Schilde hat: an all ihr Geld zu gelangen – ohne Rücksicht auf Verlust und Gefühle. Erfahrene Lebensberater\*in -psychologischen Berater\*in mit Zusatzausbildung in Supervision, Sexualberatung und systemischer Beratung leiten diesen Onlineworkshop wo Sie erkennen lernen WIE die Täter und Täterinnen vorgehen und wie Sie sich schützen können."float="left " >}}
 
 Die Zahl der Internetbetrüger\*innen ist genauso groß wie die Möglichkeiten des Onlinebetrugs vielfältig sind. Dabei haben die meisten von uns genaue Vorstellung, wer die Opfer von Internetbetrüger\*innen sind: Ältere Leute, die nicht lernen wollen, dass man Mail-Anhänge und Links von Unbekannten nicht anklicken darf, oder besonders naive Menschen, die Bankcodes in Onlinefelder eingeben. Und dann haben wir noch das Bild der liebeshungrigen und vor allem völlig verzweifelten Männer und Frauen, die auf die Heiratsschwindler der heutigen Zeit hereinfallen: die sogenannten Love Scammer.
 Leider ist das eines jener Klischeebilder, die verhindern, dass sich die Opfer der digitalen Liebesbetrüger zeitgerecht rechtliche und vor allem psychologische Hilfe suchen. 

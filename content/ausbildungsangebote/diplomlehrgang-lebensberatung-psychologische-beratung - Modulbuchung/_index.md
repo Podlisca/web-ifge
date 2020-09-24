@@ -10,7 +10,7 @@ description: "Lebens- und Sozialberatung - psychologische Beratung - Modulbuchun
 
 
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
-og_image:  "/img/silvia_noe.jpg"
+og_image:  "/img/modulbuchung.jpg"
 aliases: 
     - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html"
 rich_kurs: true

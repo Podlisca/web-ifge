@@ -5,6 +5,7 @@ menu:
         parent: lsb
 draft: false
 weight: 1
+og_image:  "/img/lsb_info_noe3.jpg"
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung

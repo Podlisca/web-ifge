@@ -5,6 +5,8 @@ menu:
         parent: lsbmodul
 draft: false
 weight: 1
+og_image:  "/img/modulbuchung1.jpg"
+
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
