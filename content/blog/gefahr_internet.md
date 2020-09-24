@@ -5,6 +5,7 @@ tags: ["Heiratsschwindler", "Love Scamming","Einamkeit", "Partnersuche",  "Angst
 weight: 103
 img: "love_scamming_blog.jpg"
 description: "Ängste, Einsamkeit und seelische Nöte werden gerade im Internet schamlos ausgenützt. Bewusst wird eine Beziehung aufgebaut die letztendlich nur dazu dient, möglichst viel Geld aus den Opfern zu erbeuten. Heiratsschwindel ganz modern"
+og_image: "/img/love_scamming_blog.jpg"
 ---
 
 Heiratsschwindler\*innen sind kein Produkt längst vergangener Zeiten. Sie haben nur den Ort der Anbahnung gewechselt. Auch heute plündern sie Bankkonten und zerstören Herzen – und zwar im Word Wide Web. Darin hat sich mit dem [Love Scamming](https://www.ifge.at/online-ausbildungsangebote/love_scamming/) ein neuer verbrecherischer Geschäftszweig entwickelt. 
