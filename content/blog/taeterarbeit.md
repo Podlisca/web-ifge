@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 79
 img: "taeter.jpg"
+og_image: "/img/taeter.jpg"
 description: "527.692. Diese Zahl nennt die in Österreich im Jahr 2014 zur Anzeige gebrachten kriminellen Handlungen. Und obwohl die Zahl noch immer hoch ist, ist positiv zu vermerken, dass dies im Vergleich zu 2013 einen Rückgang von 3,4 % bedeutet. Bei Delikten gegen die sexuelle Integrität und Selbstbestimmung ist die Zahl der Anzeigen von 2.662 im Jahr 2013 auf 2.418 im Jahr 2014 gesunken. Dabei nicht berücksichtig ist allerdings eine in diesen Fällen oft sehr hohe Dunkelziffer, die gar nicht erst zur Anzeige kommt. Andererseits erfreulich ist die Aufklärungsrate, nämlich 82,2 %, was zugleich die höchste Klärungsrate des letzten Jahrzehnts ist! Die Polizei sieht ihre Präventionsmaßnahmen greifen und Polizei-General Franz Lang gibt dabei zu Protokoll, „dass neben der Repression vermehrt auch innovative und kreative Konzepte in der Prävention eingeschlagen werden. Dabei steht das Bemühen um mehr Kommunikation mit den Bürgerinnen und Bürgern im Mittelpunkt.“1"
 ---
 

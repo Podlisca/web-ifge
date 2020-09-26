@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 83
 img: "beratung_angehoerige_noe.jpg"
+og_image: "/img/beratung_angehoerige_noe.jpg"
 description: "Konflikte begleiten uns das ganze Leben – manchmal träumt man davon, wie schön es wäre, wenn es gar keinen Streit gäbe und all unsere privaten wie beruflichen Ziele von purer Harmonie geprägt wären."
 ---
 

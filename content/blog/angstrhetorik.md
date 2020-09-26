@@ -4,6 +4,7 @@ draft: false
 tags: ["Rhetorik", "Angstrhetorik", "Angst"]
 weight: 101
 img: "blog_angst_covid.jpg"
+og_image: "/img/blog_angst_covid.jpg"
 ---
 
 Vom Krisenmanagement in die Krise? So oder so ähnlich könnten manche die vergangenen Monate empfunden haben. Was zu Beginn ein wesentlicher Beitrag zu unser aller Gesundheit war, hat im Laufe der Wochen tiefe Gräben hinterlassen. 

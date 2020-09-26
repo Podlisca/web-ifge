@@ -6,6 +6,7 @@ menu:
         identifier: sexundstalking_ziele
 draft: false
 weight: 1
+og_image: "/img/ziel_sex_belaestigung.jpg"
 ---
 
 # ONLINE Ausbildung: 

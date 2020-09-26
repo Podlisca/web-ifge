@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 79
 img: "boreout.jpg"
+og_image: "/img/boreout.jpg"
 description: "2007 prägten die Schweizer Unternehmensberater Philippe Rothlin und Peter Werder mit ihrem Buch „Diagnose Boreout“ einen Begriff, der – ähnlich dem wesentlich bekannteren Burnout – ein Bündel von Symptomen beschreibt, welches Arbeitnehmer in der modernen Arbeitswelt zunehmend gesundheitlich zusetzt. Während die Auswirkungen – Depression, innere Leere, Rücken-, Nacken-und Magenschmerzen, Infektionsanfälligkeit etc. – jenen des Burnouts durchaus entsprechen, sind die Gründe dafür gänzlich andere."
 ---
 

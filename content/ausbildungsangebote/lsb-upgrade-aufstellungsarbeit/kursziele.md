@@ -6,6 +6,7 @@ menu:
         identifier: upgrade_aufstellungsarbeit_ziele
 draft: false
 weight: 1
+og_image: "/img/upgrade_aufstellung_ziel_noe.jpg"
 ---
 
 # Lsb Upgrade: Aufstellungsarbeit

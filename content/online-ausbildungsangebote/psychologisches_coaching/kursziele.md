@@ -6,6 +6,7 @@ menu:
         identifier: onlinecoaching_ziele
 draft: false
 weight: 1
+og_image: "/img/onlinecoaching_ziel_noe.jpg"
 ---
 
 # ONLINE Ausbildung: 

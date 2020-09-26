@@ -6,6 +6,7 @@ menu:
         identifier: kinder_gefahrenschutz_ziele
 draft: false
 weight: 1
+og_image: "/img/kinder_schuetzen_ziel.jpg"
 ---
 
 # ONLINE Ausbildung: 

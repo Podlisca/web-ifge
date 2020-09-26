@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 71
 img: "roxxi.jpg"
+og_image: "/img/roxxi.jpg"
 description: "Katzenliebhaber haben es ohnehin schon immer gewusst – aber nun belegt endlich auch eine Studie, dass Katzen nicht nur die heimlichen Herrscher des Internets sind, sondern, dass die Videos der kleinen, süßen Kätzchen sogar glücklich machen. Einzige Voraussetzung: Man muss sie auch ansehen!"
 ---
 

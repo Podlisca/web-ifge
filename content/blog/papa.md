@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 80
 img: "papa.jpg"
+og_image: "/img/papa.jpg"
 description: "Was im vergangenen Jahrhundert die traurige Folge des verheerenden Zweiten Weltkriegs war, ist aktuell die Konsequenz aus hohen Scheidungsraten und beruflicher Notwendigkeit: Väter fehlen bei der Kindererziehung. Entgegen früherer Annahmen, hat diese Absenz tiefgehende Auswirkungen auf die Entwicklung des Nachwuchses."
 ---
 

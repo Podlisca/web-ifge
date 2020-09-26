@@ -4,6 +4,7 @@ draft: false
 tags: ["Onlineberatung", "Vorteile der Onlineberatung", "Nachteile der Onlineberatung"]
 weight: 102
 img: "onlineberatung.jpg"
+og_image: "/img/onlineberatung.jpg"
 ---
 
 Ein Resümee zu den Stärken und den Schwächen der digitalen Beratungstools. Aus ganz praktischer Sicht und persönlicher Erfahrung – frei von schwammigen Digitalfakten. 

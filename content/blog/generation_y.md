@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 75
 img: "generationy.jpg"
+og_image: "/img/generationy.jpg"
 description: "Jetzt ist sie also erwachsen, die Generation Y, kurz GenY – wobei das Y wie das englische „why“ (warum) ausgesprochen wird. Und dieses fragende, dieses „Warum?“ zieht sich wie ein roter Faden durch das Leben derer, die als Kinder der sogenannten Babyboomer in den Jahren ab Ende der 70er bis Mitte der 90er des vergangenen Jahrhunderts das Licht der Welt erblickten. Sie waren die ersten, die in den Genuss der antiautoritären Erziehung kamen, die ihre Kindheit mit wenig technischem Schnickschnack verbrachten und bei denen schon in der Kindheit und im Schulalter auf eine sogenannte Life-Work-Balance geachtet wurde. Und nun steht diese Generation plötzlich da und ist irgendwo zwischen Anfang 20 und Ende 30 und hat nichts als Probleme. Und ist großteils unzufrieden. Mit der Ausbildung, der Karriere, den eigenen Kindern. Aber warum eigentlich? Warum ist eine Generation, die mehr Chancen, eine bessere Bildung und eine liberalere Erziehung als jede Generation vor ihr genossen hat, kollektiv so überfordert mit dem, was noch ihre Eltern als „das echte Leben da draußen“ bezeichnet haben?"
 ---
 

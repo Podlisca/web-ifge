@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 88
 img: "beratung_tiere_noe.jpg"
+og_image: "/img/beratung_tiere_noe.jpg"
 description: "Die positive Wirkung des Kontaktes mit Tieren auf uns Menschen wurde schon mehrfach nachgewiesen. So belegen Studien deutliche Verbesserungen des Gesundheitszustandes durch den Umgang und die Interaktion mit Vierbeinern – insbesondere indem sich der Blutdruck und die Pulsfrequenz der Menschen durch ihre beruhigende Wirkung senkt. Tiere unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie zeigen uns durch ihre unbekümmerte Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind."
 ---
 

@@ -4,6 +4,7 @@ draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 99
 img: "silvia_wien1.jpg"
+og_image: "/img/silvia_wien1.jpg"
 description: "Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen! Hinter jedem steckt etwas anderes. Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier."
 ---
 

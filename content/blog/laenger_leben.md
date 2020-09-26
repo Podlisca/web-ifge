@@ -4,6 +4,7 @@ draft: false
 tags: ["Langes", "Leben", "glücklich", "Lebenserwartung"]
 weight: 72
 img: "leben.jpg"
+og_image: "/img/leben.jpg"
 description: "Seit Mitte des 19. Jahrhunderts steigt die Lebenserwartung ständig. Kein Wunder – die hygienischen Bedingungen haben sich in diesem Zeitraum signifikant gebessert und die medizinische Versorgung ist in beinahe noch größerem Ausmaße gestiegen."
 ---
 

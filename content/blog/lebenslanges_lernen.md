@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 97
 img: "lsb_info_noe1.jpg"
+og_image: "/img/lsb_info_noe1.jpg"
 description: „Lebenslanges Lernen“ – dieser Begriff fasst seit einigen Jahrzehnten verschiedenste Konzepte der Erwachsenenbildung zusammen. Auf die unterschiedlichen theoretischen Ausführungen dieser beiden Worte ist an anderer Stelle bereits zur Genüge eingegangen worden. Ich möchte mich hier stattdessen im Besonderen mit der praktischen Seite des lebenslangen Lernens auseinandersetzen."
 ---
 

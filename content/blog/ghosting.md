@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 89
 img: "ghosting.jpg"
+og_image: "/img/ghosting.jpg"
 description: "Mit Ghosting ist das freiwillige und unvorhersehbare Verschwinden einer Person gemeint."
 ---
 

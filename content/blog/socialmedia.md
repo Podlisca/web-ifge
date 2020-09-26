@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 78
 img: "socialmedia.jpg"
+og_image: "/img/socialmedia.jpg"
 description: "Immer wieder hört man von Belästigungen, Stalking, sexuellen Übergriffen und sogar Vergewaltigungen. Vor allem junge Mädchen sind Opfer – und nicht selten beginnt alles schon viel früher in einer virtuellen Welt."
 ---
 

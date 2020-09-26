@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 84
 img: "star.jpg"
+og_image: "/img/star.jpg"
 description: "Es gibt eine Vielzahl verschiedenster Süchte – die Sucht nach Anerkennung kennen fast alle Menschen, zumindest zu einem kleinen Teil. Wer möchte nicht bewundert, geliebt und von allen anerkannt werden?"
 ---
 

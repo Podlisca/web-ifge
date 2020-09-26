@@ -6,6 +6,7 @@ menu:
         identifier: zeig_dich_ziele
 draft: false
 weight: 1
+og_image: "/img/zeig_dich_ziel.jpg"
 ---
 
 # ONLINE Ausbildung: 

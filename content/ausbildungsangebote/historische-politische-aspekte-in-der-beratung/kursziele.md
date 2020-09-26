@@ -6,6 +6,7 @@ menu:
         identifier: politik_ziele
 draft: false
 weight: 1
+og_image: "/img/politik.jpg"
 ---
 
 ## Auf den Spuren der Vergangenheit – die Gegenwart verstehen

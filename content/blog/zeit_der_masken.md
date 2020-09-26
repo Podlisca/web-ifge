@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 95
 img: "blog_fasching.jpg"
+og_image: "/img/blog_fasching.jpg"
 description: "Am 28. Februar ist Faschingsdienstag – er stellt gleichzeitig den Höhepunkt und auch das nahende Ende der Narrenzeit dar. Doch nur weil wir uns in der anschließenden Fastenzeit nicht mehr als Hexe, Cowboy oder Indianer verkleiden, heißt das noch lange nicht, dass wir während des restlichen Jahres all unsere Masken ablegen. Doch wie kommt es eigentlich dazu, dass wir so oft denken, anders sein zu müssen, als wir sind?"
 ---
 

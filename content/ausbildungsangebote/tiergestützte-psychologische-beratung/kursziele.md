@@ -6,6 +6,7 @@ menu:
         identifier: upgrade_tiergestuetzt_ziele
 draft: false
 weight: 1
+og_image: "/img/tiergestuetzt_2.jpg"
 ---
 
 # Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung

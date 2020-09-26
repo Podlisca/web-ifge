@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 79
 img: "handschlag.jpg"
+og_image: "/img/handschlag.jpg"
 description: "Seinem Gegenüber mit Respekt zu begegnen gehört an sich zur guten Kinderstube. Aber so selbstverständlich wie es auf den ersten Blick scheint, ist dies keinesfalls. Im tagtäglichen Umgang mit anderen Menschen, Kollegen oder Freunden lässt so mancher seine gute Erziehung vergessen und vergreift sich im Ton oder sogar in seinen Taten. Und von einem respektvollen Umgang untereinander in Medien und Politik ist zeitweise gar nichts zu merken. Aber wie wirkt sich respektvoller Umgang eigentlich auf uns aus, und was erwarten und verstehen wir darunter?"
 ---
 

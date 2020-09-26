@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 94
 img: "blog_neujahrsvorsaetze.png"
+og_image: "/img/blog_neujahrsvorsaetze.jpg"
 description: "Es ist doch jedes Jahr das Gleiche. Voll motiviert heißt es dann gegen Ende Dezember: „Im neuen Jahr wird alles anders“, „2017 wird das Jahr der Veränderung“ und „Diesmal halte ich meine Vorsätze wirklich ein!“ Die große Ernüchterung folgt dann meist schon im Jänner. Denn die meisten unserer Neujahrsvorsätze sind zum Scheitern verurteilt. Wieso das so ist und was Sie dafür tun können, dass es nicht so bleibt."
 ---
 

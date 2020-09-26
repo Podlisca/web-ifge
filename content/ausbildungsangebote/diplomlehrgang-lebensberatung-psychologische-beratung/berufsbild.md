@@ -6,6 +6,7 @@ menu:
         identifier: berufsbild
 draft: false
 weight: 6
+og_image: "/img/lsb_info_noe.jpg"
 rich_faq:
     -   frage: "Wer ist psychologischer Berater oder psychologische Beraterin?"
         antwort: "Psychologische BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychologische Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."

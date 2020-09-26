@@ -6,6 +6,7 @@ menu:
         identifier: upgrade_supervision_ziele
 draft: false
 weight: 1
+og_image: "/img/sv_supervision.jpg"
 ---
 
 # Lsb Upgrade: Zertifizierter Lehrgang Supervision
