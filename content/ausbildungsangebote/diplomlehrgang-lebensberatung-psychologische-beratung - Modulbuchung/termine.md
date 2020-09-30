@@ -53,7 +53,7 @@ Sonntag von 09:00 bis 16:00 Uhr<br/>
 Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
 
-### Krisenintervention: 
+### Krisenintervention 1: 
 
 **Termin:** in Planung
 
@@ -63,7 +63,7 @@ Sonntag von 09:00 bis 18:00 Uhr<br/>
 
 Leitung: 
 ***
-###  Rechtliche Grundlagen 1: 
+###  Rechtliche Grundlagen: 
 
 **Termin: 22. - 24.10.2021**
 
@@ -114,7 +114,7 @@ Sonntag von 09:00 bis 16:00 Uhr<br/>
 
 Leitung: [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
 ***
-### Krisenintervention: 
+### Krisenintervention 1: 
 
 **Termin:** in Planung
 
@@ -124,7 +124,7 @@ Sonntag von 09:00 bis 18:00 Uhr<br/>
 
 Leitung: 
 ***
-### Rechtliche Grundlagen 1: 
+### Rechtliche Grundlagen: 
 
 **Termin:** 18. - 20.06.2021
 
