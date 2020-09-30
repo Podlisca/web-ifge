@@ -86,7 +86,7 @@ Leitung:
 
 ### Betriebswirtschaft: 
 
-**Termin: 26. - 28.11.2021**
+**Termin: 27. u. 28.11.2021**
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
