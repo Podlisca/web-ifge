@@ -69,7 +69,7 @@ Leitung:
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 17:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
 
 Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
@@ -130,7 +130,7 @@ Leitung:
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 17:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
 
 Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
