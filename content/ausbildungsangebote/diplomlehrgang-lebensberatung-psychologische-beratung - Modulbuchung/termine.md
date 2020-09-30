@@ -44,13 +44,13 @@ vorläufig keine Termine in Planung
 
 ### Einführung: 
 
-**Termin:** in Planung
+**Termin: 17. - 19.09.2021**
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 16:00 Uhr<br/>
 
-Leitung: 
+Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
 
 ### Krisenintervention: 
@@ -65,13 +65,13 @@ Leitung:
 ***
 ###  Rechtliche Grundlagen 1: 
 
-**Termin:** in Planung
+**Termin: 22. - 24.10.2021**
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-Leitung: 
+Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
 ### Berufsethik: 
 
@@ -86,12 +86,12 @@ Leitung:
 
 ### Betriebswirtschaft: 
 
-**Termin:** in Planung
+**Termin: 26. - 28.11.2021**
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-Leitung: 
+Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 ***
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
@@ -126,13 +126,13 @@ Leitung:
 ***
 ### Rechtliche Grundlagen 1: 
 
-**Termin:** in Planung
+**Termin:** 18. - 20.06.2021
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-Leitung: 
+Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
 ### Berufsethik: 
 
