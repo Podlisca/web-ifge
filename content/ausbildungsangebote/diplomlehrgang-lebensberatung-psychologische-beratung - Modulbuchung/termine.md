@@ -126,7 +126,7 @@ Leitung:
 ***
 ### Rechtliche Grundlagen: 
 
-**Termin:** 18. - 20.06.2021
+**Termin:** 11. - 13.06.2021
 
 Freitag von 14:00 bis 20:00 Uhr<br/>
 Samstag von 09:00 bis 18:00 Uhr<br/>
