@@ -88,17 +88,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 #### Wien
 ***
-## LSB 13
-#### Start: 08. Februar 2021
-
-Montags von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 13 herunterladen](/downloads/LSB_13_termine.pdf)
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 16
 #### Start: 03. September 2021
 
@@ -108,6 +97,17 @@ genauer Kursplan folgt
 
 [ANMELDUNG](/anmeldung.php)
 
+***
+{{% box blue=1 %}}
+{{% small  %}}
+## LSB 19
+#### Start: 12. Februar 2022
+
+Samstags von 10:00 bis 16:00 Uhr
+
+genauer Kursplan folgt 
+
+[ANMELDUNG](/anmeldung.php)
 {{% /small  %}}
 {{% /box %}}
 
@@ -150,23 +150,23 @@ genauer Kursplan folgt
 {{% small  %}}
 #### Niederösterreich
 ***
-## LSB 15
-#### Start: 31. August 2020
+## LSB 17
+#### Start: 09. September 2021
 
-Montags von 14:00 bis 20:00 Uhr
+Donnerstags von 14:00 bis 20:00 Uhr
+
+genauer Kursplan folgt 
 
 [ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 15 herunterladen](/downloads/LSB_15_termine.pdf)
 
 ***
 
 {{% box blue=1 %}}
 {{% small  %}}
-## LSB 17
-#### Start: 09. September 2021
+## LSB 20
+#### Start: in Planung
 
-Donnerstags von 14:00 bis 20:00 Uhr
+in Planung
 
 genauer Kursplan folgt 
 
