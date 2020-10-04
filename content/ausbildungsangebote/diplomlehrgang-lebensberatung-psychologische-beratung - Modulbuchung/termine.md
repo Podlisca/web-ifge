@@ -75,12 +75,12 @@ Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
 ### Berufsethik: 
 
-**Termin:** in Planung
+**Termin: 25. u. 26.09.2021**
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-Leitung: 
+Leitung: [Susanna Kundics](/about/referenten-lsb/#susanna-kundics)
 
 ***
 
@@ -136,7 +136,7 @@ Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 ***
 ### Berufsethik: 
 
-**Termin: 19. - 20.06.2021**
+**Termin: 19. u. 20.06.2021**
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
