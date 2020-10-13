@@ -6,6 +6,7 @@ menu:
         identifier: upgrade_aufstellungsarbeit_ziele
 draft: false
 weight: 1
+og_image: "/img/upgrade_aufstellung_ziel_noe.jpg"
 ---
 
 # Lsb Upgrade: Aufstellungsarbeit
@@ -79,7 +80,7 @@ Der Unterricht besteht zu einem hohen Anteil aus vielen praktischen Übungseinhe
 
 ## Warum den Lehrgang am IFGE besuchen
 
-Dank unserer jahrelangen Erfahrung in der [systemischen Aufstellungsarbeit](/gruppenselbsterfahrung/familienaufstellung/) sowie im Unterrichten dieser Methode, sammeln Sie am IFGE rasch praktische Erfahrung und erhalten einen umfassenden Überblick über besonders wirksame Interventionsmöglichkeiten. So liegt der Schwerpunkt der Fortbildung auf der klassischen Familienaufstellung von Bert Hellinger, deren Dynamiken, Regeln und Lösungssätze Sie im Zuge der Ausbildung verinnerlichen werden. Gleichsam werden auch weitere relevante Strömungen der Systemik in die Fortbildung eingebaut, damit Sie durch einen umfassenden Methoden-Mix Ihre Klient\innen optimal beraten können. Sie erlernen beispielsweise ebenso [hypnosystemische Methoden](https://www.ifge.at, wie die [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung/).
+Dank unserer jahrelangen Erfahrung in der [systemischen Aufstellungsarbeit](/gruppenselbsterfahrung/familienaufstellung/) sowie im Unterrichten dieser Methode, sammeln Sie am IFGE rasch praktische Erfahrung und erhalten einen umfassenden Überblick über besonders wirksame Interventionsmöglichkeiten. So liegt der Schwerpunkt der Fortbildung auf der klassischen Familienaufstellung von Bert Hellinger, deren Dynamiken, Regeln und Lösungssätze Sie im Zuge der Ausbildung verinnerlichen werden. Gleichsam werden auch weitere relevante Strömungen der Systemik in die Fortbildung eingebaut, damit Sie durch einen umfassenden Methoden-Mix Ihre Klient\innen optimal beraten können. Sie erlernen beispielsweise ebenso hypnosystemische Methoden, wie die [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung/).
 
 {{% box blue=1 %}}
 {{% small  %}}

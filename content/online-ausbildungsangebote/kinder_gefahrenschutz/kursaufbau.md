@@ -36,7 +36,7 @@ weight: 1
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
 Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}
 {{% /box %}}
@@ -45,7 +45,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*in
 
 ## Leitung
 
-* Mag. Carina Szauer
+* [Mag. Carina Szauer](/about/referenten-lsb/#mag-carina-szauer)
 
 
 

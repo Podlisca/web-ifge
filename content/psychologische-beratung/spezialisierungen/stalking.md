@@ -66,16 +66,30 @@ Gerade diese (potenziellen) Täter\*innen sind sich ihres unpassenden Verhaltens
 
 
 {{% floatbox %}}
-{{< image src="/img/mono.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/mono.jpg" float="right" title="Bildbeschreibung" >}} 
 
 Ein ebenso häufiges Thema im Bereich Stalking in meiner Praxis ist das Stalken von Ex-Partner\*innen, das oft auch von Frauen ausgeht. Meist ist diesen Frauen zu Beginn gar nicht bewusst, wie übergriffig und entwürdigend ihr Verhalten empfunden wird, etwa wenn sie die neue Partnerin des Ex-Freundes oder Ex-Mannes durch Nachrichten, Verleumdungen oder wiederholt unerwünschte Begegnungen nicht in Ruhe lassen. Da diese Form des Stalkings oft in dem Wunsch begründet liegt, den Ex-Freund bzw. Ex-Mann wieder zurück zu erobern, meinen sich jene Frauen häufig im Recht und sehen sich bisweilen sogar selbst als die Opfer ihrer Situation.
 
 Vielfach ist diesem weiblichen Stalking-Typ zu Beginn noch gar nicht bewusst, dass sie an dieser Stelle die Täterinnen sind. 
 
 Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehung vorbei ist, was nicht nur eine mögliche Straftat verhindert, sondern Ihnen auch dabei hilft, in Zukunft wieder offen für neue und erfüllende Partnerschaften zu sein.
+{{< line icon="/icon/beratung.png" >}}
+{{% box blue=1 %}}
+{{% small %}}
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
+{{% /small %}}
+{{% /box %}}
 
+{{% box blue=1 %}}
+{{% small %}}
+{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
+
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
+ 
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
+{{% /small %}}
+{{% /box %}}
 {{% /floatbox %}}
-
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
@@ -99,7 +113,7 @@ Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehun
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}

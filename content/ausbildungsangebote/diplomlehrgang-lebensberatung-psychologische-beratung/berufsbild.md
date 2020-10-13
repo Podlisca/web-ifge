@@ -6,6 +6,7 @@ menu:
         identifier: berufsbild
 draft: false
 weight: 6
+og_image: "/img/lsb_info_noe.jpg"
 rich_faq:
     -   frage: "Wer ist psychologischer Berater oder psychologische Beraterin?"
         antwort: "Psychologische BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychologische Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
@@ -89,7 +90,7 @@ Zahlreiche Institutionen, Therapeut\*innen, Berater\*innen und Vereine kümmern 
 Dass das Thema „Sexuelle Gewalt“ – ebenso wie häusliche Gewalt – dabei kein Randthema ist, zeigen die Zahlen. 
 {{% /card-more  %}}
 
-{{% card-more img="beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="BERATUNG ANGEHÖRIGE" %}}
+{{% card-more img="beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="BERATUNG ANGEHÖRIGE" %}}
 Wenn eine Gewalttat passiert – ganz gleich ob es sich dabei um sexualisierte oder andere Formen von Gewalt handelt – gilt die gesamte Konzentration sowohl den Täter*innen als auch den Opfern. 
 
 Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Was in der Akutsituation verständlich ist, bringt die Angehörigen im Alltag aber völlig an den Rand. Gefühle der Vernachlässigung stellen sich ein. Die Ambivalenz zwischen Verständnis, Wut, Scham, Mitgefühl sowie der Emotion, selbst unterzugehen und langsam unsichtbar zu werden, belastet enorm.
@@ -114,7 +115,7 @@ Hier finden Sie vertiefende Informationen über:
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}

@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 79
 img: "boreout.jpg"
+og_image: "/img/boreout.jpg"
 description: "2007 prägten die Schweizer Unternehmensberater Philippe Rothlin und Peter Werder mit ihrem Buch „Diagnose Boreout“ einen Begriff, der – ähnlich dem wesentlich bekannteren Burnout – ein Bündel von Symptomen beschreibt, welches Arbeitnehmer in der modernen Arbeitswelt zunehmend gesundheitlich zusetzt. Während die Auswirkungen – Depression, innere Leere, Rücken-, Nacken-und Magenschmerzen, Infektionsanfälligkeit etc. – jenen des Burnouts durchaus entsprechen, sind die Gründe dafür gänzlich andere."
 ---
 
@@ -18,6 +19,9 @@ Die Gründe für ein Boreout – betroffen sind primär Menschen im Dienstleistu
 Daher  entwickeln Boreout-Betroffene, trotz aller Unzufriedenheit, Strategien, damit Unterforderung, Desinteresse und Langeweile nicht äußerlich auffallen. So werden selbst einfachste Arbeiten übermäßig in die Länge gezogen, unnötige Überstunden gemacht und ein möglichst geschäftiges Verhalten an den Tag gelegt, um nicht noch mehr „sinnlose“ Arbeit aufgebürdet zu bekommen. Die Konsequenzen: Mehrkosten für das Unternehmen und frustrierte Mitarbeiter, die in die innere Kündigung flüchten.
 
 Fazit: Es wäre für beide Seiten von Vorteil, einem drohenden Boreout aktiv entgegenzuwirken. Managementseitig ist der sinnvolle Einsatz von Arbeitskräften in Tätigkeiten, die auch deren Qualifikation entsprechen, der wichtigste Schritt. Zu meinen, man könne Arbeitnehmer wie Schachfiguren hin- und herschieben, ist eine kurzsichtige Denkweise. Fingerspitzengefühl und Beschäftigung mit den persönlichen Interessen und Sorgen der Arbeitnehmer sind also gefragt. Letztere wiederum sollten sowohl den Mut haben, darauf hinzuweisen, dass ihre aktuelle Tätigkeit nicht befriedigend ist, als auch die Bereitschaft und die Selbstverantwortung aufbringen, neue und anspruchsvolle Tätigkeiten zu übernehmen.
+
+{{< silvia >}}
+<br/>
 
 **Weiterführende Links:**
 

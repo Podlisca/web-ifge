@@ -48,7 +48,8 @@ Neben der ärztlichen Betreuung kann der ganzheitliche Ansatz im psychologischen
 
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Erleben ausgestellt.
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}
 {{% /box %}}
@@ -57,6 +58,6 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 
 ## Leitung
 
-* Silvia Podlisca
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 

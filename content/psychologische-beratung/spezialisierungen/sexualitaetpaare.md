@@ -89,7 +89,7 @@ Die Geschmeidigkeit der Institutskatzen und ihrer Bewegungen, ihr genüssliches 
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sexualberatung_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
@@ -121,7 +121,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}

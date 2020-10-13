@@ -3,7 +3,7 @@ title: "Jeder kann helfen - jede Hilfe zählt!"
 draft: false
 tags: ["Flüchtlingshilfe", "Helfen", "Menschlichkeit"]
 weight: 74
-img: "hilfe.jpg"
+img: "silvia_noe_blaue_bank.jpg"
 description: "Mehr als 51 Millionen Menschen sind derzeit weltweit auf der Flucht - so viele, wie seit dem Ende des Zweiten Weltkriegs nicht mehr. Gerade bei uns in Österreich ist, nicht zuletzt auf Grund der dramatischen Ereignisse der letzen Woche, das Thema einmal mehr in den medialen Mittelpunkt gerückt. Immer mehr ÖsterreicherInnen zeigen sich nun auch mit den schutzsuchenden Männern, Frauen und Kindern solidarisch und möchten helfen. Allerdings ist gut gemeint nicht automatisch gut gemacht. Und die beste Hilfe ist immer die, die auch tasächlich dort ankommt, wo sie gebraucht wird. Aber wie hilft man am besten?"
 ---
 
@@ -35,3 +35,5 @@ Und für alle, die weder Wohnraum noch Sachspenden leisten können bleibt die ei
 Als Fazit bleibt, dass wer helfen will, auch helfen kann. Jeder einzelne Euro, jede Spende, jede Geste zählt und zeigt Menschen, die tausende von Kilometern unter größten Gefahren zurückgelegt und nicht selten alles verloren haben, was sie vorher besaßen, dass wir als solidarische Gemeinschaft zu ihnen stehen und sie mit dem erlittenen Schicksal nicht alleine lassen.
 Und auch jedem noch so kleinen Unternehmen muss es möglich sein, sich zumindest öffentlich zu positionieren oder monetär Hilfe zu leisten. Nicht zuletzt sollten Firmen auch daran denken, dass Spenden steuerlich absetzbar sind – womit auch die allerletzte Ausrede nichts tun zu können nicht mehr greift!
 
+{{< silvia >}}
+<br/>

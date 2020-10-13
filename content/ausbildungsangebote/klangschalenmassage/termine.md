@@ -44,6 +44,7 @@ weight: 3
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
+**nur noch ein Platz frei**
 
 **Modul 1:** 02.01. und 03.01.2021<br/>
 **Modul 2:** 06.03. und 07.03.2021<br/>

@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 79
 img: "taeter.jpg"
+og_image: "/img/taeter.jpg"
 description: "527.692. Diese Zahl nennt die in Österreich im Jahr 2014 zur Anzeige gebrachten kriminellen Handlungen. Und obwohl die Zahl noch immer hoch ist, ist positiv zu vermerken, dass dies im Vergleich zu 2013 einen Rückgang von 3,4 % bedeutet. Bei Delikten gegen die sexuelle Integrität und Selbstbestimmung ist die Zahl der Anzeigen von 2.662 im Jahr 2013 auf 2.418 im Jahr 2014 gesunken. Dabei nicht berücksichtig ist allerdings eine in diesen Fällen oft sehr hohe Dunkelziffer, die gar nicht erst zur Anzeige kommt. Andererseits erfreulich ist die Aufklärungsrate, nämlich 82,2 %, was zugleich die höchste Klärungsrate des letzten Jahrzehnts ist! Die Polizei sieht ihre Präventionsmaßnahmen greifen und Polizei-General Franz Lang gibt dabei zu Protokoll, „dass neben der Repression vermehrt auch innovative und kreative Konzepte in der Prävention eingeschlagen werden. Dabei steht das Bemühen um mehr Kommunikation mit den Bürgerinnen und Bürgern im Mittelpunkt.“1"
 ---
 
@@ -21,6 +22,9 @@ Sind bei sexuellen und pädophilen Übergriffen die Täter fast ausschließlich 
 Besonders bemerkenswert beim Stalking ist, dass sowohl Opfer- als auch Tätergruppen über alle Gesellschafts- und Altersschichten zu finden und auch nicht von vorneherein als „Risikogruppen“ einzustufen sind. Es kann sprichwörtlich jeden treffen. Aber auch hier gilt wie bei allen anderen Handlungen: Je früher ein Risiko erkannt wird, desto eher besteht die Möglichkeit, die unter Umständen folgende kriminelle Handlung bereits im Vorfeld zu verhindern.
 
 Gelingt dies, würde das nicht nur die österreichische Kriminalitätsstatistik weiter verbessern, sondern vor allem viel Leid für die potentiellen Opfer ersparen, aber auch zahlreichen Menschen den vorgezeichneten Weg von einem gesellschaftlich wenig anerkannten Leiden hin zur Kriminalität ersparen. Und diese beiden letzten Punkte wären ein echter Gewinn für die gesamte Gesellschaft! Nicht zuletzt deshalb bietet das IFGE Hilfe bei der Täterprävention an. Und wir wollen auch Mut machen, dass sowohl betroffene Männer als auch Frauen ihre Scham überwinden, und diese Hilfe in Anspruch nehmen.
+
+{{< silvia >}}
+<br/>
 
 **Quellen:**
 

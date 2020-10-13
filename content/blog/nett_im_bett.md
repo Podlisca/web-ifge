@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 86
 img: "bett.jpg"
+og_image: "/img/bett.jpg"
 description: "In den letzten Jahren konnten wir in unserer Beratungspraxis feststellen, dass sich zunehmend mehr Frauen sowie auch Männer über ein abnehmendes Interesse an Sexualität beklagen. Die Ursachen dafür sind äußerst vielfältig - sie reichen von Medikamenteneinnahme, körperlichen Krankheiten, Erektionsschwierigkeiten, der Geburt eines Kindes, mangelnder Kommunikation bis hin zu Stress u.v.m. Unser Blog möchte Ihnen Anregungen liefern, wie Sie Ihr Sexleben aufpeppen können. Schließlich ist Sex so etwas wie das Salz in der Suppe unseres Lebens und diese kann man durchaus würziger gestalten ;-)"
 ---
 
@@ -37,7 +38,8 @@ Nehmen Sie Ihre Sexualität ernst, aber vergessen Sie nicht die spielerische Not
 ### Bleiben Sie sich treu
 Am schönsten ist es wohl für beide, wenn nicht die Performance und Fragen wie „Bin ich schön und begehrenswert genug“ im Vordergrund stehen, sondern das sich Fallen lassen sowie ein Gefühl der Leidenschaft und Sinnlichkeit. Bei allen Tipps und Anregungen – bleiben Sie sich stets selber treu. Nur wer sich achtet und in seinem Körper wohlfühlt sowie ganz bei der Sache ist, wird wohl erfüllenden Sex erleben. Was Sie wirklich in Stimmung bringt können nur Sie selber herausfinden, ein Standard-Kochrezept mit den stets gleichen Zutaten, das für alle passt, gibt es wohl nicht. Das macht Sex aber auch irgendwie mysthisch, nie ganz durchschaubar und dadurch stets spannend und interessant.
 
- 
+ {{< silvia >}}
+<br/>
 
 **Quellen:**
 

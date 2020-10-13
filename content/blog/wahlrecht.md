@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 73
 img: "waehlen.jpg"
+og_image: "/img/waehlen.jpg"
 description: "Heuer fanden und finden in Österreich zahlreiche Wahlen statt. Im Burgenland und der Steiermark wurden bereits am 31. Mai neue Landtage gewählt, in Oberösterreich finden am 27. September Landtags- und Gemeinderatswahlen statt, und schließlich wird am 11. Oktober in der Bundeshauptstadt der Stadtrat, der zugleich Landtag ist, neu gewählt. Bis zur Wahl in Wien wollen wir in losen Abständen über das Recht zu wählen in den verschiedensten Facetten in unserem Blog berichten. Beginnen wollen wir heute mit einer kurzen Geschichte des Wahlrechts in Österreich."
 ---
 
@@ -37,6 +38,9 @@ Erst nach Ende des zweiten Weltkriegs und mit der Errichtung der Zweiten Republi
  
 ### Fazit: Nicht wählen ist keine Alternative
 Als Fazit bleibt, dass es keine Selbstverständlichkeit darstellt, aktiv an der politischen Gestaltung seiner Gesellschaft teilhaben zu dürfen, und dass das Recht zu wählen zumindest auch einer moralischen Verpflichtung zur Wahl gleichkommt. Gerade in Zeiten des gesellschaftlichen Umbruchs und vieler aktueller Krisenherde auf der Welt, sollten wir uns dieses Privileg immer wieder vor Augen halten und bei den bevorstehenden Wahlen auch aktiv nutzen. Denn wir müssen uns durchaus darüber im Klaren sein, dass Nichtwähler aktiv dazu beitragen, wieder in vordemokratische Verhältnisse zurückzufallen – und das auch noch freiwillig! Wer nicht wählt ist verantwortlich dafür, dass nur ein geringerer Prozentsatz der Wahlberechtigten über die Zukunft des Landes entscheidet. Und Nichtwähler verspielen gleichzeitig jedes Recht auf Protest: Wer nicht deklariert was er gern möchte, muss nehmen was er kriegt!
+
+{{< silvia >}}
+<br/>
 
 **Quellen:**
 

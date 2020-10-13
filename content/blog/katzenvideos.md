@@ -3,7 +3,8 @@ title: "Katzen(videos) machen glücklich!"
 draft: false
 tags: []
 weight: 71
-img: "katzen.jpg"
+img: "roxxi.jpg"
+og_image: "/img/roxxi.jpg"
 description: "Katzenliebhaber haben es ohnehin schon immer gewusst – aber nun belegt endlich auch eine Studie, dass Katzen nicht nur die heimlichen Herrscher des Internets sind, sondern, dass die Videos der kleinen, süßen Kätzchen sogar glücklich machen. Einzige Voraussetzung: Man muss sie auch ansehen!"
 ---
 
@@ -26,3 +27,5 @@ Aber was reden wir hier überhaupt: Testen Sie doch einfach selbst ;-)
 
 <iframe width="666" height="375" src="https://www.youtube.com/embed/pkfD3RZcH2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{{< silvia >}}
+<br/>

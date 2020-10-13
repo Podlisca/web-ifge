@@ -6,6 +6,7 @@ menu:
         identifier: upgrade_sexualberatung_ziele
 draft: false
 weight: 1
+og_image: "/img/kursziel_sexualberatung_paarberatung.jpg"
 ---
 
 # Ausbildung: Sexualberatung / Paarberatung

@@ -93,7 +93,7 @@ Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}

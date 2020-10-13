@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 81
 img: "normal.jpg"
+og_image: "/img/normal.jpg"
 description: "Ein Satz, den fast jeder schon einmal zu hören bekommen hat, weil er sich anders verhält als der, der den Satz ausgesprochen hat. Muss man sich deshalb als „anormal“ fühlen, als Außenseiter, als Teil einer Randgruppe? Vor allem: Wer legt fest, was normal ist und sind wir (noch immer) genötigt, darauf zu hören?"
 ---
 
@@ -21,7 +22,8 @@ Dennoch sind Randgruppen, sei es eine mehr oder weniger fragwürdige wie die Pun
 
 Letztlich sollte uns bewusst sein, dass Veränderung oder – positiv ausgedrückt – Entwicklung die einzige echte Norm im Leben ist. Sie macht, dass Normales irgendwann überholt, und schließlich nicht mehr normal ist. Toleranz gegenüber neuen Entwicklungen, anders Denkenden und anders Lebenden – immer unter der Prämisse, dass dieses „Anders sein“ niemandem schadet – führt zu mehr Vielfalt, ohne dass die Harmonie darunter leidet – und das sollte auf jeden Fall die Norm werden.
 
- 
+ {{< silvia >}}
+<br/>
 
 **Quellen:**
 

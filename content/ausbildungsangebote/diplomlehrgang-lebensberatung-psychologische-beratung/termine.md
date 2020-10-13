@@ -33,7 +33,7 @@ weight: 3
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 30.09.2020 
+* 30.09.2020 - **ausgebucht**
 * 28.10.2020 
 * 09.12.2020
 
@@ -64,8 +64,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-* 19.08.2020
-<br/> <br/><br/>
+* 23.10.2020
+* 17.12.2020
+<br/> <br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -87,43 +88,33 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 #### Wien
 ***
-## LSB 12
-#### Start: 09. September 2020
+## LSB 16
+#### Start: 03. September 2021
 
-Mittwochs von 09:00 bis 15:00 Uhr
+Freitags von 14:00 bis 20:00 Uhr
+
+genauer Kursplan folgt 
 
 [ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 12 herunterladen](/downloads/LSB_12_termine.pdf)
 
 ***
 {{% box blue=1 %}}
 {{% small  %}}
-## LSB 13
-#### Start: 13. Februar 2021
-
-Montags von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 13 herunterladen](/downloads/LSB_13_termine.pdf)
-{{% /small  %}}
-{{% /box %}}
-
-***
-
-## LSB 16
+## LSB 19
 #### Start: 12. Februar 2022
 
 Samstags von 10:00 bis 16:00 Uhr
 
-Kursplan folgt 
+genauer Kursplan folgt 
 
-[VORMERKEN](/anmeldung.php)
+[ANMELDUNG](/anmeldung.php)
+{{% /small  %}}
+{{% /box %}}
+
+
 
 
 {{% /small  %}}
-
 {{% small  %}}
 #### Burgenland
 
@@ -141,50 +132,57 @@ Dienstags von 14:00 bis 20:00 Uhr
 ***
 {{% box blue=1 %}}
 {{% small  %}}
-## LSB 17
-#### Start: September 2021
+## LSB 18
+#### Start: 10. Februar 2022
 
-Kursplan folgt 
+Donnerstags von 14:00 bis 20:00 Uhr
 
-[VORMERKEN](/anmeldung.php)
+genauer Kursplan folgt 
+
+[ANMELDUNG](/anmeldung.php)
 {{% /small  %}}
 
 {{% /box %}}
 
-***
+
 {{% /small  %}}
 
 {{% small  %}}
 #### Niederösterreich
 ***
-## LSB 15
-#### Start: 31. August 2020
+## LSB 17
+#### Start: 09. September 2021
 
-Montags von 14:00 bis 20:00 Uhr
+Donnerstags von 14:00 bis 20:00 Uhr
 
-Pro Semester findet das Modul Gruppenselbsterfahrung als Blockveranstaltung am Wochenende statt. 
+genauer Kursplan folgt 
 
 [ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 15 herunterladen](/downloads/LSB_15_termine.pdf)
 
 ***
 
 {{% box blue=1 %}}
 {{% small  %}}
-## LSB 18
-#### Start: September 2021
+## LSB 20
+#### Start: in Planung
 
-Kursplan folgt 
+in Planung
 
-[VORMERKEN](/anmeldung.php)
+genauer Kursplan folgt 
+
+[ANMELDUNG](/anmeldung.php)
+
+
+
 {{% /small  %}}
 {{% /box %}}
+
 
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/bus.png" >}}
+
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -196,8 +194,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+
 
 
 

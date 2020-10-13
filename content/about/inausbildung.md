@@ -6,6 +6,7 @@ menu:
         identifier: inausbildung
 draft: false
 weight: 6
+og_image: "/img/silvia_noe3.jpg"
 ---
 
 # In Ausbildung unter Supervision am IFGE

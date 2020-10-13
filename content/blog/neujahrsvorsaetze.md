@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 94
 img: "blog_neujahrsvorsaetze.png"
+og_image: "/img/blog_neujahrsvorsaetze.jpg"
 description: "Es ist doch jedes Jahr das Gleiche. Voll motiviert heißt es dann gegen Ende Dezember: „Im neuen Jahr wird alles anders“, „2017 wird das Jahr der Veränderung“ und „Diesmal halte ich meine Vorsätze wirklich ein!“ Die große Ernüchterung folgt dann meist schon im Jänner. Denn die meisten unserer Neujahrsvorsätze sind zum Scheitern verurteilt. Wieso das so ist und was Sie dafür tun können, dass es nicht so bleibt."
 ---
 
@@ -45,3 +46,5 @@ Wer nicht auf die guten Vorsätze verzichten will und gleichzeitig innere Enttä
 
 Bevor Sie jetzt also über ihre nicht eingehaltenen Vorsätze verzweifeln, gönnen Sie sich doch ein wenig Selbstironie und schmunzeln über Ihren Übereifer zu Silvester. Das nächste Jahr bietet eine neue Chance, sich realistische Ziele zu stecken. Denn: Mit kleinen Schritten kommen Sie zwar vielleicht langsamer, dafür aber sicher an Ihr Ziel. Wer zu große Schritte macht, der läuft Gefahr zu stolpern.
 
+{{< silvia >}}
+<br/>

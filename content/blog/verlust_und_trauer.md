@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 82
 img: "verlust.jpg"
+og_image: "/img/verlust.jpg"
 description: "Jeder Mensch ist früher oder später mit einem schwerwiegenden Verlust konfrontiert - das beginnt im Kleinkindalter, wenn der Teddy oder die berühmte Schmusedecke verloren gehen, und erstreckt sich über Trennung und Scheidung bis hin zum Tod geliebter Menschen. Damit richtig umzugehen, ist ein schwieriger Teil unseres Lebens, jedoch unerlässlich für unsere seelische Gesundheit. Besonders an Weihnachten ist die Einsamkeit und Trauer oft noch schwerer zu ertragen als im restlichen Jahr."
 ---
 
@@ -25,6 +26,9 @@ Neuere wissenschaftliche Untersuchungen begreifen die Trauer als Phänomen, das 
 Zurück zur Schmusedecke. Kinder können sich der Verarbeitung von Trauer nicht in dieser Form stellen. Für sie ist die verlorene Schmusedecke schlichtweg eine Katastrophe mit traumatischen Auswirkungen, nicht zuletzt wegen ihrer Bedeutung als Bezugsobjekt und als Zeichen der Sicherheit. Dies müssen Eltern in zweierlei Hinsicht bedenken: Um das Trauma des Verlusts zu verhindern, sollte die Schmusedecke (der Teddybär o. ä.) immer in doppelter, sprich identischer Ausführung vorhanden sein. Und schon gar nicht sollte ein Kind zwanghaft "entwöhnt" werden, selbst wenn Eltern es an der Zeit fänden. Erst mit der Entwicklung einer eigenständigen Persönlichkeit verlieren Schmusedecke, Teddy & Co. auch ihre enorme Wichtigkeit.
 
 Zeit ist wohl der wichtigste Faktor, wenn Verluste betrauert werden wollen; gerade in einer schnelllebigen Umwelt sollte man nicht überhastet ins "normale" Leben zurückkehren, ohne mit sich selbst und dem Vorgefallenen im Reinen zu sein. Vor allem gehört Verlust als Teil des Lebens akzeptiert - das viel zitierte "Loslassen" wäre nur dann möglich, wenn man vergisst. Und das will man einem geliebten Menschen und sich selbst mit Sicherheit nicht antun: Man verlöre so einen bedeutenden Teil seines eigenen Lebens.
+
+{{< silvia >}}
+<br/>
 
 **Quellen:**
 

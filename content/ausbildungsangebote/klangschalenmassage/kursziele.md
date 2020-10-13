@@ -6,6 +6,7 @@ menu:
         identifier: klangschale_ziele
 draft: false
 weight: 1
+og_image: "/img/klangschalen.jpg"
 ---
 
 ## Ausbildung: Klangschalenmassage am IFGE 

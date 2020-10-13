@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 88
 img: "beratung_tiere_noe.jpg"
+og_image: "/img/beratung_tiere_noe.jpg"
 description: "Die positive Wirkung des Kontaktes mit Tieren auf uns Menschen wurde schon mehrfach nachgewiesen. So belegen Studien deutliche Verbesserungen des Gesundheitszustandes durch den Umgang und die Interaktion mit Vierbeinern – insbesondere indem sich der Blutdruck und die Pulsfrequenz der Menschen durch ihre beruhigende Wirkung senkt. Tiere unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie zeigen uns durch ihre unbekümmerte Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind."
 ---
 
@@ -33,6 +34,9 @@ Wenn die tiergestützte psychologische Beratung Outdoor stattfindet, gelingt es 
 Prinzipiell können Tiere bei jedem Beratungsgespräch als wertvolle Stütze dienen. Ihr Einsatz bzw. ihre Begleitung eignet sich z.B. insbesondere bei mangelndem Selbstbewusstsein oder Lebensmut, Aggressionen, Anpassungsstörungen, Trauerbewältigung oder der Behandlung von Ängsten. Gerne werden Tiere durch ihre „Eisbrecher-Funktion“ auch in der Arbeit mit Kindern eingesetzt.
 
 Die Vierbeiner stellen eine hilfreiche Stütze im Beratungsprozess dar und können viele positive Gefühle in uns Menschen wecken – wie Fröhlichkeit, Sorglosigkeit und bedingungslose Liebe. Sie entpuppen sich oft als eine wundervolle Bereicherung im Leben oder wie Rupert Sheldrake sagt: „Die meisten von uns benötigen Tiere offenbar als Teil ihres Lebens - unsere menschliche Natur ist untrennbar mit der Natur des Tieres verbunden. Sind wir von ihr isoliert, fehlt uns etwas. Wir verlieren ein Teil unseres Erbes.“
+
+{{< silvia >}}
+<br/>
 
 **Quelle:**
 

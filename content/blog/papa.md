@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 80
 img: "papa.jpg"
+og_image: "/img/papa.jpg"
 description: "Was im vergangenen Jahrhundert die traurige Folge des verheerenden Zweiten Weltkriegs war, ist aktuell die Konsequenz aus hohen Scheidungsraten und beruflicher Notwendigkeit: Väter fehlen bei der Kindererziehung. Entgegen früherer Annahmen, hat diese Absenz tiefgehende Auswirkungen auf die Entwicklung des Nachwuchses."
 ---
 
@@ -24,6 +25,8 @@ Wie sich Väter verhalten sollten, die bis dato wenig Zeit und Aufmerksamkeit in
 
 Und natürlich gibt es auch genügend positive Beispiele, wo die beschriebenen Vorgangsweisen bereits Alltagsroutinen geworden sind, nämlich bei all jenen Vätern, die sich ihrer Verantwortung als Erziehungsberechtiger bewusst sind und für die eine gleichberechtige Mann-Frau-Beziehung selbstverständlich ist!
 
+{{< silvia >}}
+<br/>
 
 **Quellen & weiterführende Links:**
 

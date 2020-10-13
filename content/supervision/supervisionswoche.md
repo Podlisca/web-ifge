@@ -44,20 +44,12 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 #### Wien  
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-### 24.08. - 28.08.2020<br/>
 
-Mo. - Do. 09:00 bis 18:00 Uhr<br/>
-Fr. 09:00 bis 14:00 Uhr<br/>
-Leitung: Silvia Podlisca<br/> 
-
-### Ausgebucht
-
-***
 ### 23.08. - 27.08.2021<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
-Leitung: Silvia Podlisca<br/> 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 ### [Anmeldung](/anmeldung.php)
 
@@ -71,7 +63,7 @@ Leitung: Silvia Podlisca<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
-Leitung: Silvia Podlisca<br/> 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 ### [Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% small  %}}
@@ -91,7 +83,7 @@ Leitung: Silvia Podlisca<br/>
 ### Allgemeines
 
 * Mind. 10 Teilnehmer\*innen / Max. 14 Teilnehmer\*innen
-* Kosten: € 590,- ( Anzahlung € 100,- bei Anmeldung, Rest bis einen Monat vor Beginn)
+* Kosten: € 675,- ( Anzahlung € 100,- bei Anmeldung, Rest bis einen Monat vor Beginn)
 * Anmeldeschluss: 2 Wochen vorher
  
 

@@ -29,13 +29,13 @@ og_image: "/img/trauer_beratung_wien.jpg"
 
 
 {{% floatbox %}}
-{{< image src="/img/trauer_beratung_wien.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/trauer_beratung_wien.jpg" float="left" title="Wenn eine nahestehende Person süchtig ist, löst dies oftmals große Verzweiflung, Angst und Schuldgefühle aus. Der Alltag ist geprägt von Ohnmacht, Wut und Traurigkeit und Einsamkeit. Irgendwann kommt der Zeitpunkt der Gewöhnung und man merkt vielleicht, dass man völlig abgestumpft geworden ist. Silvia Podlisca bietet am IFGE einen wertfreien Raum wo sie rasten und über all Ihre Nöte sprechen können. Für mehr Zuversicht und Klarheit. Authentisch, wertfrei und empathisch und mit 20jähriger Erfahrung im psychosozialen Bereich." >}} 
 
 Wenig ist für Angehörige auf Dauer zermürbender als das Zusammenleben mit einem abhängigen Familienmitglied. Es ist dabei völlig gleichwertig, ob es sich um den alkoholkranken Vater, die medikamentenabhängige Mutter, die süchtige Tochter oder den internetabhängigen oder spielsüchtigen Bruder handelt.
 
 Letztlich geht es nicht um die Substanz, von welcher die Angehörigen abhängig sind, denn jede Abhängigkeit bedeutet in letzter Konsequenz den Ruin – sowohl den körperlichen als auch den existenziell-finanziellen. Die ständige Angst um Vater, Mutter, Kinder oder Geschwister, die in eine Abhängigkeit geschlittert sind, ist allgegenwärtig und genauso präsent wie die Sucht an sich. Die Sucht der anderen spielt im Leben von Angehörigen eine mindestens ebenso große Rolle wie für die Betroffenen selbst. 
 
-{{< image src="/img/sucht2_wien.jpg" float="right" title="Bildbeschreibung" >}}
+{{< image src="/img/sucht2_wien.jpg" float="right" title="Wo immer Sie geradestehen, ich habe ein offenes Ohr für ihre Ängste, Sorgen und bin gerne für Sie da. Wertungen, Ratschläge wie, Sie sollten ihren Mann/ihre Frau verlassen, werden Sie bei mir in der psychologischen Beratung nicht hören. Wie immer Ihr individueller Lösungsweg aussieht, psychologische, systemische Beratung und Familienaufstellungen helfen dabei Klarheit für Sie zu finden." >}}
 
 So betet die ängstliche Ehefrau etwa jeden Abend im Bett, dass ihr Mann nur hoffentlich nicht wieder betrunken von der Feier nach Hause fährt – wie schon so oft. Die Angst, es könnte ihrer großen Liebe etwas geschehen, oder ihr Mann könnte für den Tod eines unschuldigen Verkehrsteilnehmers verantwortlich werden, quält Angehörige mitunter nächtelang.
 
@@ -49,7 +49,7 @@ Sie haben vielleicht schon miterlebt, wie bisherige Selbstversuche Ihres Familie
 
 Gleichzeitig setz Ihnen die seit Kurzem – vorwiegend beim Thema Alkohol –  neu gelebte Philosophie zu, die abhängig machende Substanz nicht vollends auf Null zu setzen. Dieser immer wieder zu beobachtende Umgang mit Abhängigen hilft zwar den Süchtigen kurzfristig, da für diese der absolute und dauerhafte Verzicht als unüberwindbare und unvorstellbare Hürde gilt, für Sie jedoch bedeutet diese Herangehensweise – oftmals berechtigte – Sorgen und Ängste. 
 
-{{< image src="/img/noe_einzel7.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/noe_einzel7.jpg" float="left" title="In der psychologischen Beratung merken Sie wieder wie wichtig SIE sind. Auch Sie haben ein Recht auf ein erfülltes Leben voller Zukunftsaussichten und Hoffnung. Sie können wahrscheinlich nicht die an der Sucht erkrankten Person helfen oder sie gar retten, aber Sie können sich helfen UND sogar retten. Ich unterstütze Sie gerne dabei.">}} 
 
 Zu oft haben Sie vielleicht schon beobachtet, wie der abhängige Mensch, dem Sie nahe stehen, bei der ersten Krise wieder einen Rückfall erlebt und der belastende Teufelskreis für Sie von vorne losgeht. 
 
@@ -74,7 +74,7 @@ Hier bei mir am IFGE stehen Sie mit Ihren Gedanken, Wünschen, Sorgen, Ängsten 
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzel_noe4.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/einzel_noe4.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
@@ -105,7 +105,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 * [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunder Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}

@@ -8,6 +8,7 @@ draft: false
 weight: 5
 aliases: 
     - "/absolvent-innen-des-ifge/index.html"
+og_image: "/img/silvia_noe3.jpg"
 ---
 
 # Absolvent\*innen des IFGE

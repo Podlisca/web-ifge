@@ -29,7 +29,7 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: 17. Oktober 2020
+#### Start: Termin in Planung
 
 Die Ausbildung umfasst 6 Ausbildungststunden.<br/>
 
@@ -37,7 +37,7 @@ Seminarzeit 10:00 bis 16:00 Uhr.<br/>
 
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1: 17.10.2020** <br/>
+**Modul 1: in Planung** <br/>
 
 [Anmeldung](/anmeldung.php)
 

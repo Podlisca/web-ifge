@@ -4,6 +4,7 @@ draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 100
 img: "blog_corona.jpg"
+og_image: "/img/blog_corona.jpg"
 description: "Der Lehrer*innen-Beruf steht verhältnismäßig weit oben in der Risikorangliste der Burn-out-Jobs. Ein psychisch ohnehin bereist sehr fordernder Berufsalltags in der Schule hat sich nach Corona noch einmal deutlich verändert. Was das für Pädagog*innen bedeutet und womit sie jetzt vermehrt konfrontiert sein werden."
 ---
 
@@ -29,6 +30,9 @@ Der neuen Herausforderung als Lehrer*in gewachsen sein
 Wie also damit umgehen? Machen Sie sich bewusst, dass Sie „nur“ der Lehrer oder die Lehrerin des Kindes sind. Ziehen Sie sich abseits des pädagogischen Handelns innerlich zurück und achten Sie gut auf Ihre eigenen Grenzen. Überprüfen Sie, wie sehr Sie mit Ihren Gedanken und mit Ihrem innerem Handeln in den inneren Kreis der Familie eingetreten sind und ziehen Sie sich davor zurück. Damit Sie selbst aktiv, empathisch aber vor allem gesund in Ihrer Profession für Ihre Schüler\*innen da sein können.
 
 Falls Sie das Gefühl haben, dass Ihnen zusätzlich zu Ihren pädagogischen Fähigkeiten in diesen besonderen Zeiten Wissen rund um psychologische Dynamiken Ihren Job als Pädagog\*in erleichtern könnte, ist vielleicht unsere Fortbildung für Vertrauenslehrer*innen für Sie von Interesse. Mehr dazu hier.
+
+{{< silvia >}}
+<br/>
 
 **Quellen:**
 

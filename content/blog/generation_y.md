@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 75
 img: "generationy.jpg"
+og_image: "/img/generationy.jpg"
 description: "Jetzt ist sie also erwachsen, die Generation Y, kurz GenY – wobei das Y wie das englische „why“ (warum) ausgesprochen wird. Und dieses fragende, dieses „Warum?“ zieht sich wie ein roter Faden durch das Leben derer, die als Kinder der sogenannten Babyboomer in den Jahren ab Ende der 70er bis Mitte der 90er des vergangenen Jahrhunderts das Licht der Welt erblickten. Sie waren die ersten, die in den Genuss der antiautoritären Erziehung kamen, die ihre Kindheit mit wenig technischem Schnickschnack verbrachten und bei denen schon in der Kindheit und im Schulalter auf eine sogenannte Life-Work-Balance geachtet wurde. Und nun steht diese Generation plötzlich da und ist irgendwo zwischen Anfang 20 und Ende 30 und hat nichts als Probleme. Und ist großteils unzufrieden. Mit der Ausbildung, der Karriere, den eigenen Kindern. Aber warum eigentlich? Warum ist eine Generation, die mehr Chancen, eine bessere Bildung und eine liberalere Erziehung als jede Generation vor ihr genossen hat, kollektiv so überfordert mit dem, was noch ihre Eltern als „das echte Leben da draußen“ bezeichnet haben?"
 ---
 
@@ -30,3 +31,5 @@ Ein solcher Erziehungsstil sei typisch für die Generation Y, sagt Erziehungswis
 
 Vielleicht wäre es für die selbst (über)behütet aufgewachsene Generation Y endlich an der Zeit, sich neu zu orientieren und wieder vermehrt auf „altmodische“ Erziehungsansätze zu setzen: Nämlich den Kindern eigene Entscheidungen zuzutrauen, ihnen klare Grenzen zu setzen und sie dort zu unterstützen wo sie es brauchen – und nicht dort, wo ihre Eltern es gerne hätten. Denn damit wäre auch gewährleistet, dass Eltern wieder erziehen, wie es für Erziehungsberechtigte eigentlich der Fall sein sollte, und nicht als Vollzeit-Animateure für ihre Kinder arbeiten. Und somit würde sich der Großteil der Generation Y wohl über kurz oder lang von den Selbstzweifeln die sie plagen auch befreien können, wäre doch der Druck alles richtig machen zu wollen plötzlich ein viel geringerer. Oder anders ausgedrückt: Macht aus dem Y doch einfach hin und wieder mal ein X ;-)
 
+{{< silvia >}}
+<br/>

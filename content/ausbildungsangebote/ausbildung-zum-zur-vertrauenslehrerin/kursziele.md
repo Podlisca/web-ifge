@@ -6,6 +6,7 @@ menu:
         identifier: vertrauenslehrer_ziele
 draft: false
 weight: 1
+og_image: "/img/vertrauenslehrer.jpg"
 ---
 
 # Ausbildung zum/zur VertrauenslehrerIn

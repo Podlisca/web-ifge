@@ -4,6 +4,7 @@ draft: false
 tags: ["Rhetorik", "Angstrhetorik", "Angst"]
 weight: 101
 img: "blog_angst_covid.jpg"
+og_image: "/img/blog_angst_covid.jpg"
 ---
 
 Vom Krisenmanagement in die Krise? So oder so ähnlich könnten manche die vergangenen Monate empfunden haben. Was zu Beginn ein wesentlicher Beitrag zu unser aller Gesundheit war, hat im Laufe der Wochen tiefe Gräben hinterlassen. 
@@ -45,6 +46,8 @@ Meiner Ansicht nach, ist es jetzt wichtig, dass wir alle unsere Bewusstseinseben
 
 Ich beobachte in meiner Arbeit, dass genau dies für viele Menschen im Moment Schwierigkeiten bedeutet. Die offizielle Angstrhetorik der letzten Monate hat große Gräben in den Seelen hinterlassen und so manch unbewusste, über Generationen weitergegebene, tiefe Glaubenssätze aktualisiert. Der Weg zurück zur inneren Normalität, Ruhe, Stabilität und Sicherheit kann also durchwegs etwas dauern. Die psychologische Beratung hilft dabei, dass genau das nachhaltig und zeitnah geschehen kann. 
 
+{{< silvia >}}
+<br/>
 
 **Quellen:**
 

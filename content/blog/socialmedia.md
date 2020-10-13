@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 78
 img: "socialmedia.jpg"
+og_image: "/img/socialmedia.jpg"
 description: "Immer wieder hört man von Belästigungen, Stalking, sexuellen Übergriffen und sogar Vergewaltigungen. Vor allem junge Mädchen sind Opfer – und nicht selten beginnt alles schon viel früher in einer virtuellen Welt."
 ---
 
@@ -25,6 +26,10 @@ Im Internet finden sich aber nicht nur Gefahren, es kann auch viele nützliche I
 
 
 **Außerdem findet am IFGE am 12.November 2015 der Workshop „Fit and save for Social Media & Party – speziell für Mädchen. Damit aus Spaß nicht Ernst wird“ in Kooperation mit einer jungen Polizistin statt. Infos dazu gibt's [hier](/online-ausbildungsangebote/fitandsafe/)!**
+
+
+{{< silvia >}}
+<br/>
 
 **Und hier die Links:**
 

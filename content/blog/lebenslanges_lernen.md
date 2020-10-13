@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 97
 img: "lsb_info_noe1.jpg"
+og_image: "/img/lsb_info_noe1.jpg"
 description: „Lebenslanges Lernen“ – dieser Begriff fasst seit einigen Jahrzehnten verschiedenste Konzepte der Erwachsenenbildung zusammen. Auf die unterschiedlichen theoretischen Ausführungen dieser beiden Worte ist an anderer Stelle bereits zur Genüge eingegangen worden. Ich möchte mich hier stattdessen im Besonderen mit der praktischen Seite des lebenslangen Lernens auseinandersetzen."
 ---
 
@@ -25,7 +26,8 @@ Meine Antwort ist hier immer: Ja! Denn wer seine Berufung zum Beruf macht, der w
 
 Also ganz gleich, was Sie lernen wollen: Ihr Alter ist kein Hindernis, sondern ermöglicht Ihnen durch Erfahrung vielleicht die spannendste Lernerfahrung Ihres bisherigen Lebens. Probieren Sie es doch einfach aus: Ob es dabei um die richtige Schwimmtechnik geht, weil Sie mit über 40 nun den Entschluss gefasst haben, eine Karriere als Triathletin zu beginnen, ob es sich um das Wiederholen von Vokabeln handelt, weil Sie immer schon Italienisch beherrschen wollten, oder ob Sie mit einer psychologischen Praxis nun doch Ihre persönliche Berufung zum Beruf machen wollen – es ist nie zu spät, damit zu beginnen. Heute ist früh genug!
 
- 
+{{< silvia >}}
+<br/> 
 
 **Quelle:** 
 

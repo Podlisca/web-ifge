@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 83
 img: "beratung_angehoerige_noe.jpg"
+og_image: "/img/beratung_angehoerige_noe.jpg"
 description: "Konflikte begleiten uns das ganze Leben – manchmal träumt man davon, wie schön es wäre, wenn es gar keinen Streit gäbe und all unsere privaten wie beruflichen Ziele von purer Harmonie geprägt wären."
 ---
 
@@ -30,6 +31,9 @@ Im Folgenden ein paar hilfreiche Regeln für den Umgang mit Konflikten:
 * Dem Gesprächspartner aufmerksam zuhören und dadurch Verständnis signalisieren – oft nimmt dies dem Gegenüber den Wind aus den Segeln; lassen Sie Ihren Gesprächspartner ausreden, um seinen Standpunkt besser zu verstehen und vielleicht auch Gemeinsamkeiten zu finden - immer wenn wir reden, sagen wir auch etwas über uns selbst und damit auch mögliche Anknüpfungspunkte für Gemeinsamkeiten aus.
 * Vermeiden von Schuldzuweisungen und persönlichen Anspielungen. Versuchen Sie nicht auf Ihrem eigenen Standpunkt zu beharren und sich nicht an der Frage festzubeissen, wer von Ihnen schuld an dem Konflikt hat - dies bringt die Konfliktpartner meist auch keinen Schritt weiter. In der Regel sind immer beide Parteien daran beteiligt und tragen damit auch beide einen Teil der Schuld. Legen Sie Ihren Fokus besser darauf, gemeinsam herauszufinden, wo die Ursachen für Ihre Auseinandersetzung liegen und wie Sie in Zukunft besser miteinander umgehen können.
 * Signalisieren Sie Ihrem Gegenüber, dass Sie offen dafür sind, sich auf seine Sichtweise einzulassen – natürlich ohne dass Sie diese auch teilen müssen. Nehmen Sie Ihre eigene Meinung und Ihr persönliches Anliegen ernst, aber beschäftigen Sie sich auch mit der Meinung Ihres Gegenübers, um diese besser zu verstehen. Stellen Sie Fragen, wenn Sie den anderen nicht verstehen und versuchen Sie, sich in Ihren Gesprächspartner hineinzudenken. Dann wird es viel leichter, eine gemeinsame Lösung zu finden.
+
+{{< silvia >}}
+<br/>
 
 **Quellen:** 
 

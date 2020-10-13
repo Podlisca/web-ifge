@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 92
 img: "blog_kinderlos.jpg"
+og_image: "/img/blog_kinderlos.jpg"
 description: "Rollenbilder prägen unser Alltagsleben. Der Mann als Bauarbeiter, Mechaniker und Ernährer der Familie. Die Frau als in Teilzeit arbeitende Mutter, Hausfrau und Köchin. Was macht es mit uns, wenn sich jemand diesen Rollen widersetzt, diese freiwillig oder unfreiwillig nicht erfüllen möchte?"
 aliases:
     - /2016/10/06/kinderlose-frauen/index.html
@@ -47,6 +48,8 @@ Sarah Diehl wollte für ihr Buch ‚Die Uhr, die nicht tickt‘ ursprünglich au
 
 Kinder laufen nicht mehr einfach mit, sondern werden zum Lebensinhalt. Das Bundesinstitut für Bevölkerungsforschung hat im letzten Jahr eine Untersuchung zu den Gründen, warum Menschen in Deutschland immer weniger Kinder bekommen, veröffentlicht. Einen der Hauptgründe sieht es in dem überhöhten Mutterideal der Deutschen. ‚Die niedrigeren Geburtenraten gibt es übrigens in allen Ländern mit einer faschistischen Vergangenheit. Forscher vermuten einen Zusammenhang mit dem Mutterbild im Faschismus. Die Frauen wurden aus dem öffentlichen Leben herausgedrängt, die Mutterrolle wurde überhöht. Das wirkt bis heute.`, so Anja Uhling, Journalistin und Buchautorin.
 
+{{< silvia >}}
+<br/>
  
 **Quellen:**
 

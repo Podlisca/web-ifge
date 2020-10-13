@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 98
 img: "blog_augenhöhe2_bgld.jpg"
+og_image: "/img/blog_augenhöhe2_bgld.jpg"
 description: Gerade im psychosozialen Bereich liest und hört man viel über „Wertschätzung“, „Achtsamkeit“, „Intuition“ und „Augenhöhe“. Doch was bedeutet das konkret für die Ausbildung künftiger Lebens- und SozialberaterInnen sowie für deren Arbeit mit KlientInnen? Und warum ist der Stellenwert des Fachwissens dabei so essenziell? Silvia Podlisca, Leiterin des Instituts für ganzheitliches Erleben, kennt die Antworten."
 ---
 
@@ -43,3 +44,5 @@ Podlisca (lacht): Nun ja, wenn es um Prüfungen geht, bin ich konsequent – abe
 Alle Infos zur Diplomausbildung am IFGE finden Sie hier: [Diplomlehrgang Lebensberatung - psychologische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/)
 Alle Ausbildungsangebote des IFGE finden Sie hier: [Ausbildungen im Überblick](/ausbildungsangebote/)
 
+{{< silvia >}}
+<br/>

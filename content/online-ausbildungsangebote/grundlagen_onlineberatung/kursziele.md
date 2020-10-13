@@ -6,6 +6,7 @@ menu:
         identifier: online_grundlagen_ziele
 draft: false
 weight: 1
+og_image: "/img/grundlagen_onlineberatung_ziel.jpg"
 ---
 
 # ONLINE Ausbildung

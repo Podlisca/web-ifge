@@ -59,8 +59,9 @@ Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie d
 
 ## Leitung
 
-* Silvia Podlisca
-* Dr. Dieter Schmutzer
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Dr. Dieter Schmutzer](/about/referenten-lsb/#dr-dieter-schmutzer)
+* [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 
 

@@ -39,7 +39,10 @@ inkl. 120 Std. Gruppenselbsterfahrung und **90 Stunden Gruppensupervision für d
 **Ratenzahlung mit Frühbucherbonus: € 360,- pro Rate (Gesamtsumme: € 11.300,-)\*** 
 
 
-Für die Administration und die online Praktikumsübersicht ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 180,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden ( € 36,- pro Semester).
+Für die Administration und die online Praktikumsübersicht & Praktikumsverwaltung ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 250,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden (€ 50,- pro Semester).
+
+Sollten Sie bereits vor Ausbildungsbeginn mit dem Praktikum am IFGE beginnen, oder die Software über den Ausbildungszeitraum von 5 Semestern nützen wollen, sind pro Semester € 50,- zusätzlich für die Nutzung der Software zu bezahlen.
+
 Wenn Sie die Voraussetzungen für die **Förderkriterien des Wiener ArbeitnehmerInnen Förderungsfonds (waff)** erfüllen, wird die Ausbildung bis zu € 2.000,- gefördert. Weitere Infos hier: https://www.waff.at/foerderungen/
 
 Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit a. UStG 1994 steuerfrei.
@@ -47,64 +50,38 @@ Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
 {{< line icon="icon/aktion.png" >}}
+## AKTIONEN FÜR alle Standorte
 
 {{% box blue=1 %}}
 {{% small  %}}
-## Eröffnungsangebote
-{{% /small  %}}
-{{% /box  %}}
+
+## An den Infoabenden erhältlich:
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-***
-#### ERÖFFNUNGSANGEBOT FÜR alle Standorte
-****
-
-**(nur an den Infoabenden erhältlich):**
 
 * Sofort 1x Zahlung: € 9.300,- 
 * Bildungsscheck von 100,-
 
 **GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware)**
 
-{{% /small  %}}
 
-{{% small  %}}
-***
-#### ERÖFFNUNGSANGEBOT FÜR ST. PÖLTEN
-***
+## Frühbucherbonus
 
-**(nur an den Infoabenden erhältlich):**
+*Der Frühbucherbonus gilt immer bis zu 4 Monate vor Kursstart
 
-* Sofort 1x Zahlung: € 9.300,- 
-* Bildungsscheck von 100,-
 
-**GESAMTKOSTEN € 9.200,- (mit IFGE Schulungssoftware)**
-
-* IFGE Schulungssoftware kostenlos (Warenwert € 180,-) egal für welche Zahlungsvariante Sie sich entscheiden.
 
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/aktion.png" >}}
-## Frühbucherbonus
-
-*Der Frühbucherbonus ist derzeit für folgende Lehrgänge gültig:
-
-* LSB 13 (Montag, 14 - 20 Uhr) in Wien bis 30.11.2020
-* LSB 14 (Dienstag, 14 - 20 Uhr) in Pinkafeld bis 30.11.2020
-* LSB 16 (Samstag, 10 - 16 Uhr) in Wien bis 30.09.2021
-
-
+{{% /small  %}}
+{{% /box %}}
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
 ## Unterrichtsmaterialien
 
-Bei jedem Seminar sind kostenlose Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
+Bei jedem Seminar sind kostenlose digitale Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
 Insbesondere das neue {{< green >}}SMART-Board{{< /green >}} hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
-{{% /small  %}}
-{{% /box %}}

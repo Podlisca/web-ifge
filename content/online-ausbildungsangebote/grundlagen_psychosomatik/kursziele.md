@@ -6,6 +6,7 @@ menu:
         identifier: grundlagen_psychosomatik_ziele
 draft: false
 weight: 1
+og_image: "/img/grundlagen_psychosomatik_ziel.jpg"
 ---
 
 # Ganzheitlich gesund – Grundlagen der Psychosomatik

@@ -4,6 +4,7 @@ draft: false
 tags: ["Lehrer", "Grenze"]
 weight: 99
 img: "silvia_wien1.jpg"
+og_image: "/img/silvia_wien1.jpg"
 description: "Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen! Hinter jedem steckt etwas anderes. Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier."
 ---
 
@@ -73,3 +74,5 @@ Auch wenn psychologische BeraterInnen mit den Methoden der Psychotherapie arbeit
 ## WER IST PSYCHIATER ODER PSYCHIATERIN?
 PsychiaterInnen werden ebenso gerne in einem Atemzug mit PsychologInnen, Klinischen PsychologInnen, PsychotherapeutInnen oder Lebens- und SozialberaterInnen – psychologischen BeraterInnen genannt. Dabei unterscheidet sich ihr Berufsbild ganz grundlegend von den vier erstgenannten. Denn PsychiaterInnen sind in erster Linie ÄrztInnen. Diese haben sich als FachärztInnen auf die Diagnose und Behandlung psychischer Erkrankungen spezialisiert. Die Psychiatrie hat sich dabei aus dem Fachgebiet der Neurologie entwickelt. Als ÄrztInnen absolvieren PsychiaterInnen dennoch oftmals psychologische oder psychotherapeutische Zusatzausbildungen. In der Psychiatrie werden Störungen und seelische Erkrankungen demnach vorwiegend organisch betrachtet, wodurch hier auch das Verschreiben von Medikamenten immer wieder als wesentlicher Teil der Behandlung zum Einsatz kommt.
 
+{{< silvia >}}
+<br/>

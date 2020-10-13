@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 87
 img: "psychohygiene.jpg"
+og_image: "/img/psychohygiene.jpg"
 description: "Der Frühling weckt oft den Wunsch in uns, nach der meist sehr „nahrungsintensiven“ und eher bewegungsfaulen Zeit des Winters, unseren Körper wieder in Schwung zu bringen. Genauso wie der Körper sich darüber freut, zu entlassen, was ihm nicht dient und ihn in seiner Bewegungsfreiheit einschränkt, gilt dies vergleichsweise auch für unsere Psyche bzw. unser Innenleben. Wieso ist es meist nur selbstverständlich für uns, unseren Körper regelmäßig zu reinigen und so gut wie möglich auf ihn zu achten? Unsere Psyche ist wie unser Körper ein Teil von uns und so selbstverständlich es für uns ist, uns für unser körperliches Wohlbefinden um unseren Körper zu kümmern, genauso wichtig ist die tägliche Psychohygiene für unsere seelische Gesundheit."
 ---
 
@@ -38,6 +39,9 @@ Im Folgenden finden Sie noch weitere Tipps, die Sie im Rahmen der Psychohygiene 
 * Trauen Sie sich, sich selber zu leben und Ihre Gefühle auszudrücken und zuzulassen - dies hat eine reinigende Wirkung. Selbstkontrolle und Selbstbeherrschung führen zur Verdrängung und Abspaltung vitaler Anteile unserer Persönlichkeit und damit zu einem reduzierten Beziehungsleben.
 
 Bei der Psychohygiene macht das stetige Dahinter bleiben bzw. die regelmäßige Wiederholung gesundheitsfördernder Maßnahmen den Erfolg aus. Dann bietet Sie Ihnen allerdings die Aussicht auf ein Leben mit einem höheren Grad an Zufriedenheit, Gelassenheit und seelischem Wohlbefinden. Beruhigung, Ausgeglichenheit und Entspannung vertreiben dann gerne alles, von dem Sie beschließen, ihm keinen Raum mehr in Ihrem Leben zu geben.
+
+{{< silvia >}}
+<br/>
 
 
 **Quellen:**

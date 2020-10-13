@@ -4,6 +4,7 @@ draft: false
 tags: []
 weight: 89
 img: "ghosting.jpg"
+og_image: "/img/ghosting.jpg"
 description: "Mit Ghosting ist das freiwillige und unvorhersehbare Verschwinden einer Person gemeint."
 ---
 
@@ -46,6 +47,9 @@ Greg Behrendt, Autor von Sachbüchern zum Liebesverhalten der US-Bevölkerung, m
 ### Ungesundes Verhalten
 
 Psychologisch betrachtet, ist „ghosting“ ein ungesundes Verhalten für alle Betroffenen. Durch eine klare Aussprache fällt der Abschluss leichter und die getrennten Partner können weiterziehen. Bei „ghosting“ kommt es zu einer Phase des Hinterfragens und Zweifelns – „Hat er/sie gerade zu viel zu tun?“, „Ist sein/ihr Mobiltelefon kaputt?“, „Vielleicht hat er meine Nachricht noch nicht gelesen?“. Diese Gedanken können zermürben, psychologische Hilfe, um Klarheit zu schaffen kann in diesem Prozess unterstützen.
+
+{{< silvia >}}
+<br/>
 
 **Quellen:**
 

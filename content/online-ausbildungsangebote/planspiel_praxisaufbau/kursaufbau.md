@@ -48,7 +48,8 @@ Gemeinsam mit Expert\*innen aus Wirtschaft und psychologischer Beratung sowie Co
 {{% small  %}}
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Erleben ausgestellt.
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}
 {{% /box %}}
@@ -57,7 +58,7 @@ Für alle Teilnehmer wird ein ein Zeugnisses des Institut für ganzheitliches Er
 
 ## Leitung
 
-* Antje Stimpfl
+* [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 
 

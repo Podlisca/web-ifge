@@ -56,8 +56,9 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 
 
 {{< line icon="icon/termine.png" >}}
-## Gruppensupervision - Vier neue Gruppen starten Januar 2021
-
+## Gruppensupervision - unter der Leitung von Silvia Podlisca - Institutsleiterin 
+## Vier neue Gruppen starten Januar 2021
+***
 
 {{% box top-align=1 %}}
 {{% small  %}}

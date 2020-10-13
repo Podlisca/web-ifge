@@ -4,6 +4,7 @@ draft: false
 tags: ["Langes", "Leben", "glücklich", "Lebenserwartung"]
 weight: 72
 img: "leben.jpg"
+og_image: "/img/leben.jpg"
 description: "Seit Mitte des 19. Jahrhunderts steigt die Lebenserwartung ständig. Kein Wunder – die hygienischen Bedingungen haben sich in diesem Zeitraum signifikant gebessert und die medizinische Versorgung ist in beinahe noch größerem Ausmaße gestiegen."
 ---
 
@@ -28,3 +29,5 @@ Laut Prof. Dr. Robert Waldinger von der Uni Saarbrücken nahm man lange an, dass
 
 Nicht alles, was ein langes Leben beschert, kann kontrolliert werden. Aber Studien, wie die oben beschriebenen, zeigen, dass ein gesunder Lebensstil, Liebe, gute zwischenmenschliche Beziehungen und lebenslanges Lernen dazu beitragen können, ein hohes Alter zu erreichen – **Und jetzt nichts wie raus und das Leben genießen!**
 
+{{< silvia >}}
+<br/>
