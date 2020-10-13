@@ -65,7 +65,7 @@
   </footer>
 
   {{ partial "floating-button.html" "aside" }}
-  {{ partial "scroll-top.html" .}}
+  {{ with .Site.Params.disableScrollTop }} {{ else }} {{ partial "scroll-top.html" . }} {{ end }}
   
   <script>
 
