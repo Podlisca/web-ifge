@@ -28,17 +28,13 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: Termine in Planung 
-
 Jedes Modul besteht aus 12 Unterrichtsstsunden. 
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
 **Modul 1: 22.11.2020** von 10:00 bis 16:00 Uhr <br/>
 **Modul 2: 13.12-2020** von 10:00 bis 16:00 Uhr <br/>
 
-
 [Anmeldung](/anmeldung.php)
-
 {{% /small %}}
 {{% /box %}}
 
