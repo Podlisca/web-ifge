@@ -34,8 +34,15 @@ weight: 3
 
 
 * 30.09.2020 - **ausgebucht**
-* 28.10.2020 
+* 28.10.2020 - **online***
 * 09.12.2020
+* 16.02.2021
+* 29.03.2021
+* 04.05.2021
+* 14.06.2021
+* 20.09.2021
+* 08.11.2021
+* 07.12.2021
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -49,9 +56,17 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-* 06.10.2020
 * 13.11.2020
-<br/> <br/>
+* 09.04.2021
+* 31.05.2021
+* 10.09.2021
+* 19.11.2021
+<br/> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -64,9 +79,18 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-* 23.10.2020
-* 17.12.2020
-<br/> <br/>
+* 21.01.2021
+* 04.03.2021
+* 16.04.2021
+* 14.05.2021
+* 28.06.2021
+* 26.11.2021
+
+<br/>
+<br/> 
+<br/>
+
+
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -75,6 +99,8 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% /small  %}}
 
 {{% /box %}}
+
+
 
 **Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
 
@@ -164,9 +190,10 @@ genauer Kursplan folgt
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 20
-#### Start: in Planung
+#### Start: 02.September 2022
 
-in Planung
+Freitags von von 14:00 bis 20:00 Uhr
+
 
 genauer Kursplan folgt 
 
