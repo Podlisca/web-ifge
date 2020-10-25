@@ -34,10 +34,10 @@ weight: 3
 Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1:** 23.01.2021 <br/>
-**Modul 2:** 13.03.2021<br/>
-**Modul 3:** 17.04.2021<br/>
-**Modul 4:** 08.05.2021<br/>
+**Modul 1:** <br/>
+**Modul 2:** <br/>
+**Modul 3:** <br/>
+**Modul 4:** <br/>
 
 Zwischen den Modulen erhalten Sie kleine Trainingsaufgaben. 
 
