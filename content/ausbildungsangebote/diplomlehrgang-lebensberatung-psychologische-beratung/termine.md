@@ -119,9 +119,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 Freitags von 14:00 bis 20:00 Uhr
 
-genauer Kursplan folgt 
-
 [ANMELDUNG](/anmeldung.php)
+
+genauer Kursplan folgt 
 
 ***
 {{% box blue=1 %}}
@@ -131,9 +131,9 @@ genauer Kursplan folgt
 
 Samstags von 10:00 bis 16:00 Uhr
 
-genauer Kursplan folgt 
-
 [ANMELDUNG](/anmeldung.php)
+
+genauer Kursplan folgt 
 {{% /small  %}}
 {{% /box %}}
 
@@ -150,6 +150,7 @@ genauer Kursplan folgt
 #### Start: 09. Februar 2021
 
 Dienstags von 14:00 bis 20:00 Uhr
+<br/>
 
 [ANMELDUNG](/anmeldung.php)
 
@@ -163,9 +164,9 @@ Dienstags von 14:00 bis 20:00 Uhr
 
 Donnerstags von 14:00 bis 20:00 Uhr
 
-genauer Kursplan folgt 
-
 [ANMELDUNG](/anmeldung.php)
+
+genauer Kursplan folgt 
 {{% /small  %}}
 
 {{% /box %}}
@@ -176,30 +177,27 @@ genauer Kursplan folgt
 {{% small  %}}
 #### Niederösterreich
 ***
-## LSB 17
-#### Start: 09. September 2021
-
-Donnerstags von 14:00 bis 20:00 Uhr
-
-genauer Kursplan folgt 
-
-[ANMELDUNG](/anmeldung.php)
-
-***
-
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 20
 #### Start: 02.September 2022
 
 Freitags von von 14:00 bis 20:00 Uhr
 
+[ANMELDUNG](/anmeldung.php)
 
 genauer Kursplan folgt 
 
-[ANMELDUNG](/anmeldung.php)
+***
 
+{{% box blue=1 %}}
+{{% small  %}}
+## LSB 22
+#### Start: in Planung
 
+Zeit: in Planung
+
+Anmeldung bald möglich
+
+genauer Kursplan folgt 
 
 {{% /small  %}}
 {{% /box %}}
