@@ -52,7 +52,29 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-#### Termine folgen
+#### Start: 06. September 2021
+
+Montag von 10:00 bis 16:00 Uhr<br/>
+
+* 06.09.2021
+* 13.09.2021
+* 20.09.2021
+* 04.10.2021
+* 11.10.2021
+* 18.10.2021
+* 25.10.2021
+* 08.11.2021
+* 15.11.2021
+* 22.11.2021
+* 29.11.2021
+* 06.12.2021
+* 13.12.2021
+* 20.12.2021
+* 10.01.2022
+* 17.01.2022
+* 24.01.2022
+
+[ANMELDUNG](/anmeldung.php)
 
 {{% /small  %}}
 
@@ -85,7 +107,7 @@ Sonntag von 10:00 bis 16:00 Uhr<br/>
 * 11.11.2020 
 * 29.11.2020
 
-Anmeldung
+
 {{% /small  %}}
 {{% small  %}}
 
