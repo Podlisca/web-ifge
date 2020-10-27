@@ -121,7 +121,7 @@ Freitags von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
 
 ***
 {{% box blue=1 %}}
@@ -184,7 +184,7 @@ Freitags von von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 20 herunterladen](/downloads/LSB_20_termine.pdf)
 
 ***
 
