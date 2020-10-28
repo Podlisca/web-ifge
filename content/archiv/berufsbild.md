@@ -26,6 +26,7 @@ DLebenskrisen stellen sich auf die unterschiedlichsten Arten dar. Sie können si
 
 Meine Schwerpunkte am Institut für ganzheitliches Erleben liegen dabei auf:
 
+
 ### LEBENS- UND VERÄNDERUNGSKRISEN, AKUTKRISEN SOWIE CHRONISCHE KRISEN
 
 Berufsbild LSB, Lebenskrise, Veränderungskrise, Krisenberatung, Lehrgang Lebensberatung, Lebens- und Sozialberatung, Psychologische Beratung, Fortbildung, Supervision, tiergestützte psychologische Beratung, Lsb Upgrade, Aufstellungsarbeit, Aufstellung, Au
