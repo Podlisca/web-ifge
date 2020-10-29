@@ -102,6 +102,12 @@ rich_faq:
 
 584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
+
+<iframe width="354" height="200" src="https://www.youtube.com/embed/Sp_l25CMStc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)
 
 **Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**

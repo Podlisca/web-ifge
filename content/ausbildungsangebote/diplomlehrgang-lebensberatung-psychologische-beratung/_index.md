@@ -41,6 +41,7 @@ Am [IFGE](/about/institut/) wird die Grundausbildung mit folgenden Schwerpunkten
 
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
+
 {{% /floatbox %}}
 
 
@@ -57,8 +58,12 @@ WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 {{% /iconmenu %}}
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
+
+<iframe width="354" height="200" src="https://www.youtube.com/embed/Sp_l25CMStc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
-
-
 
 

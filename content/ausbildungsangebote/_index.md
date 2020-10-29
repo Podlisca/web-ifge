@@ -78,6 +78,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 * [LSB Upgrade: Supervision](/ausbildungsangebote/lsb-upgrade-supervisionslehrgang/)
 * [LSB Upgrade: Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/)
 
+
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/icon/zertifikat.png" small=1 >}}
