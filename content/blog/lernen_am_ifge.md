@@ -5,7 +5,7 @@ tags: ["IFGE Qualität", "Lernen", "Erwachsenenbildung", "Weiterbildung", "Digit
 weight: 104
 img: "lernen_software.jpg"
 description: "Mit der eigens fürs IFGE entwickelte Software, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick."
-og_image: "/img/love_scamming_blog.jpg"
+og_image: "/img/lernen_software.jpg"
 ---
 
 Warum ist gerade das Institut für ganzheitliches Erleben (IFGE) als Ausbildungsträger im psychosozialen Bereich derzeit so besonders beliebt? Antworten gibt’s im Interview mit Institutsleiterin Silvia Podlisca. 
