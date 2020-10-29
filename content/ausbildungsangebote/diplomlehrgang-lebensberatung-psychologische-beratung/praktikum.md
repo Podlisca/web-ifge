@@ -51,7 +51,7 @@ Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesge
 
 Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
 
-<iframe width="354" height="200" src="https://www.youtube.com/embed/Sp_l25CMStc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="200" src="https://www.youtube.com/embed/hwxiCb0R620" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](https://www.lebensberater.at/)
 
