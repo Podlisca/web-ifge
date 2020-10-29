@@ -3,9 +3,9 @@ title: "Lernen am IFGE: „Mehr Praxis geht nicht“"
 draft: false
 tags: ["IFGE Qualität", "Lernen", "Erwachsenenbildung", "Weiterbildung", "Digitalisierung", "berufsbegleitendes Lernen", "psychologische Beratung", "psychosoziale Ausbildung", "Ausbildung Lebens- und Sozialberatung“ Lernen trotz Corona"]
 weight: 104
-img: "lernen_software.jpg"
+img: "system_zettel_bgld.jpg"
 description: "Mit der eigens fürs IFGE entwickelte Software, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick."
-og_image: "/img/lernen_software.jpg"
+og_image: "/img/system_zettel_bgld.jpg"
 ---
 
 Warum ist gerade das Institut für ganzheitliches Erleben (IFGE) als Ausbildungsträger im psychosozialen Bereich derzeit so besonders beliebt? Antworten gibt’s im Interview mit Institutsleiterin Silvia Podlisca. 
