@@ -30,4 +30,4 @@ Einmalzahlung: € 196,-
 
 **Die Ausbildung ist nur komplett buchbar.**
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten sowie das Abschluss-Zertifikat. 
+In den Kosten inbegriffen ist auch der Erhalt digitale Skripten sowie das Abschluss-Zertifikat. 
