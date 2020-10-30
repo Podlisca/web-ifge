@@ -24,6 +24,11 @@ Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, d
 
 Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
 
+Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
+<br/>
+<br/>
+<br/>
+
 {{< silvia >}}
 
 \- Institutsleiterin \-
