@@ -26,7 +26,7 @@ Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genan
 
 Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und genügend Zeit und Raum haben, in einem geschützten Rahmen zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. In meinen Beratungsräumen können Sie alle Ängste und Gefühle wie Ärger, Kränkungen, Enttäuschungen ... – aber auch alle euphorischen Gefühle – zuzulassen.
 <br/>
-Beratungseinheiten können sowohl vor Ort oder **online** gebucht werden.
+Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
 <br/>
 <br/>
 {{< silvia >}}
