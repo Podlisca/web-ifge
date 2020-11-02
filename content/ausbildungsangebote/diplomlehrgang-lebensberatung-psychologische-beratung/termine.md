@@ -43,8 +43,6 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 30.09.2020 - **ausgebucht**
-* 28.10.2020 - **online***
 * 09.12.2020
 * 16.02.2021
 * 29.03.2021
@@ -66,13 +64,11 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-* 13.11.2020 - **online***
+* 13.11.2020 
 * 09.04.2021
 * 31.05.2021
 * 10.09.2021
 * 19.11.2021
-<br/> 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -96,8 +92,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 28.06.2021
 * 26.11.2021
 
-<br/>
-<br/> 
+
 <br/>
 
 
