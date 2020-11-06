@@ -40,10 +40,10 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 #### Wien  
 {{< image src="/img/ifge_wien.jpg">}}
 
-**20.12.2020**<br/>
-Sonntag 09:00 bis 18:00 Uhr<br/>
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/> 
-[Anmeldung](/anmeldung.php)
+**in Planung**<br/>
+<br/>
+Leitung: <br/> 
+Anmeldung
 {{% /small  %}}
 
 {{% small  %}}
@@ -64,6 +64,14 @@ Anmeldung
 Sonntag 09:00 bis 18:00 Uhr<br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/> 
 [Anmeldung](/anmeldung.php)
+
+***
+
+**20.12.2020**<br/>
+Sonntag 09:00 bis 18:00 Uhr<br/>
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/> 
+[Anmeldung](/anmeldung.php)
+
 
 {{% /small  %}}
 {{% /box %}}

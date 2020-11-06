@@ -64,7 +64,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-* 13.11.2020 
 * 09.04.2021
 * 31.05.2021
 * 10.09.2021
@@ -73,7 +72,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <br/>
 <br/>
 <br/>
-
+<br/>
 von 18:30 bis ca. 20:00 Uhr
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
