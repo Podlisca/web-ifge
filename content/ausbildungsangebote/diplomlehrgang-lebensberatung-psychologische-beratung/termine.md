@@ -43,7 +43,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 09.12.2020
+* 09.12.2020 **- ausgebucht**
 * 16.02.2021
 * 29.03.2021
 * 04.05.2021
@@ -69,10 +69,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 10.09.2021
 * 19.11.2021
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+Für den Kurs LSB 14 vereinbaren Sie bitte ein persönliches Infogespräch mit Frau Silvia Podlisca (+43 676 610 89 36).
+
 von 18:30 bis ca. 20:00 Uhr
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
