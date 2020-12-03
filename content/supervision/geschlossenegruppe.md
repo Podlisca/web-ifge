@@ -68,7 +68,7 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 #### Start: 06.01.2021
 Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:**
+**Termine 2021:- ausgebucht** 
 
 {{< center >}}
 06.01.2021<br/>
@@ -118,7 +118,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Start: 13.01.2021
 Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:**
+**Termine 2021:- ausgebucht**
 
 {{< center >}}
 13.01.2021<br/>
