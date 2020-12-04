@@ -44,7 +44,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 
 
 * 09.12.2020 **- Online**
-* 16.02.2021
+* 23.02.2021
 * 29.03.2021
 * 04.05.2021
 * 14.06.2021
