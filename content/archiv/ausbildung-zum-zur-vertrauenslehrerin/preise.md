@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_preise
-draft: false
+draft: true
 weight: 2
 ---
 
