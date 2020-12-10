@@ -60,14 +60,7 @@ Anmeldung
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**15.11.2020**<br/>
-Sonntag 09:00 bis 18:00 Uhr<br/> 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/> 
-[Anmeldung](/anmeldung.php)
-
-***
-
-**20.12.2020 -**<br/>
+**20.12.2020**<br/>
 Sonntag 09:00 bis 18:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/> 
 [Anmeldung](/anmeldung.php)

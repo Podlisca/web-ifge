@@ -43,7 +43,6 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 09.12.2020 **- Online**
 * 23.02.2021
 * 29.03.2021
 * 04.05.2021
@@ -51,6 +50,8 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 * 20.09.2021
 * 08.11.2021
 * 07.12.2021
+<br/>
+<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
