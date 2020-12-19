@@ -80,7 +80,7 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 ### Speziell für Jugendliche
 ## ...WEIL ES MANCHMAL VERWIRREND IST, ERWACHSEN ZU WERDEN
 
-<iframe width="446" height="251" src="https://www.youtube.com/embed/tcWXcaB1o_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube tcWXcaB1o_U >}}
 
 {{< line icon="icon/sexualberatung.png" >}}
 

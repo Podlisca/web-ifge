@@ -66,10 +66,9 @@ Nutzen Sie die Kraft der Natur und der Tiere für Ihre persönliche Entwicklung.
 
 Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!
 
+{{< youtube hvqemZoRyjg >}}
 
-<iframe width="294" height="165" src="https://www.youtube.com/embed/hvqemZoRyjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="294" height="165" src="https://www.youtube.com/embed/Xd8ll-sU5AM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube Xd8ll-sU5AM >}}
 
 ***
 
