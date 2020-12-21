@@ -3,7 +3,7 @@ title: "Module"
 menu: 
     main:
         parent: lsbmodul
-draft: false
+draft: true
 weight: 1
 rich_faq:
     -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychologische Beraterin?"

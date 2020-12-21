@@ -3,7 +3,7 @@ title: "Modulbuchung"
 menu: 
     main:
         parent: lsbmodul
-draft: false
+draft: true
 weight: 1
 og_image:  "/img/modulbuchung1.jpg"
 

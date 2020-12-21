@@ -3,7 +3,7 @@ title: "Preise"
 menu: 
     main:
         parent: lsbmodul
-draft: false
+draft: true
 weight: 2
 ---
 
