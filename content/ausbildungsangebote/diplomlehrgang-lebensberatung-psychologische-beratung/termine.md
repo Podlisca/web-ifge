@@ -181,6 +181,18 @@ genauer Kursplan folgt
 {{% small  %}}
 #### Niederösterreich
 ***
+## LSB 17
+#### Start: 05. September 2021
+
+Sonntags von von 10:00 bis 16:00 Uhr
+
+[ANMELDUNG](/anmeldung.php)
+
+genauer Kursplan folgt 
+***
+
+{{% box blue=1 %}}
+{{% small  %}}
 ## LSB 20
 #### Start: 02.September 2022
 
@@ -189,19 +201,6 @@ Freitags von von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 20 herunterladen](/downloads/LSB_20_termine.pdf)
-
-***
-
-{{% box blue=1 %}}
-{{% small  %}}
-## LSB 22
-#### Start: in Planung
-
-Zeit: in Planung
-
-Anmeldung bald möglich
-
-genauer Kursplan folgt 
 
 {{% /small  %}}
 {{% /box %}}
