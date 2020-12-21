@@ -33,7 +33,7 @@ In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang a
 
 Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
 
-{{< youtube hwxiCb0R620 >}}
+<iframe width="500" height="250" src="https://www.youtube.com/embed/hwxiCb0R620" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{% /floatbox %}}
 
