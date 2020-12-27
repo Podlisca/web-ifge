@@ -24,6 +24,8 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samsta
 
 **Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
 
+Aufgrund der aktuellen Covid Situation werden die nächsten Familienaufstellungen **voraussichtlich im April 2021** stattfinden. 
+
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise/)
 
 {{% /small  %}}
@@ -36,14 +38,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**15.01.2021** von 14:00 - 20:00 Uhr   
-**25.01.2021** von 14:00 - 20:00 Uhr   
-**26.01.2021** von 14:00 - 20:00 Uhr   
-**03.02.2021** von 09:00 - 15:00 Uhr   
-**19.02.2021** von 14:00 - 20:00 Uhr  
-**03.03.2021** von 09:00 - 15:00 Uhr    
-**19.03.2021** von 14:00 - 20:00 Uhr   
-**31.03.2021** von 09:00 - 15:00 Uhr  
 **03.04.2021** von 10:00 - 16:00 Uhr  
 **07.04.2021** von 09:00 - 15:00 Uhr   
 **28.05.2021** von 14:00 - 20:00 Uhr   
@@ -66,9 +60,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**07.01.2021** von 14:00 -20:00 Uhr  
-**18.02.2021** von 14:00 -20:00 Uhr  
-**30.03.2021** von 14:00 -20:00 Uhr  
 **01.04.2021** von 14:00 -20:00 Uhr  
 **27.04.2021** von 14:00 -20:00 Uhr  
 **29.04.2021** von 14:00 -20:00 Uhr  
@@ -89,14 +80,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{% small  %}}
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-**Dreitagesaufstellung: 04.12. - 06.12.2020**<br/>
-Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr 
-
-**Dreitagesaufstellung: 05.02. - 07.02.2021**<br/>
-Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr 
 
 **Dreitagesaufstellung: 15.10. - 17.10.2021**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
