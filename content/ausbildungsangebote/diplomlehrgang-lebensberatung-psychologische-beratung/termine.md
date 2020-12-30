@@ -69,7 +69,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 31.05.2021
 * 10.09.2021
 <br/>
-<br/>
 
 Für den Kurs LSB 14 vereinbaren Sie bitte ein persönliches Infogespräch mit Frau Silvia Podlisca (+43 676 610 89 36).
 
