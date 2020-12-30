@@ -68,7 +68,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 05.04.2021
 * 31.05.2021
 * 10.09.2021
-* 19.11.2021
+<br/>
 <br/>
 
 Für den Kurs LSB 14 vereinbaren Sie bitte ein persönliches Infogespräch mit Frau Silvia Podlisca (+43 676 610 89 36).
@@ -123,6 +123,8 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 Freitags von 14:00 bis 20:00 Uhr
 
+<br/>
+
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
@@ -154,7 +156,9 @@ genauer Kursplan folgt
 #### Start: 09. Februar 2021
 
 Dienstags von 14:00 bis 20:00 Uhr
+
 <br/>
+
 
 [ANMELDUNG](/anmeldung.php)
 
@@ -184,7 +188,8 @@ genauer Kursplan folgt
 ## LSB 17
 #### Start: 05. September 2021
 
-Sonntags von von 10:00 bis 16:00 Uhr
+Sonntags von von 10:00 bis 16:00 Uhr 
+& ein Woe pro Semester (Fr. bis Sonntag); dafür nicht jeder Sonntag
 
 [ANMELDUNG](/anmeldung.php)
 
