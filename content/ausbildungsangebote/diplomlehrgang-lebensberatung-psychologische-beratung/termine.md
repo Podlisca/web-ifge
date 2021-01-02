@@ -192,7 +192,7 @@ Sonntags von von 10:00 bis 16:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-[Termine LSB 16 herunterladen](/downloads/LSB_17_termine.pdf)
+[Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
 ***
 
 {{% box blue=1 %}}
