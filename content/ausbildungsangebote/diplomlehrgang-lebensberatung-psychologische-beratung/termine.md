@@ -188,11 +188,11 @@ genauer Kursplan folgt
 #### Start: 05. September 2021
 
 Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe pro Semester (Fr. bis Sonntag); dafür nicht jeder Sonntag
+& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 16 herunterladen](/downloads/LSB_17_termine.pdf)
 ***
 
 {{% box blue=1 %}}
