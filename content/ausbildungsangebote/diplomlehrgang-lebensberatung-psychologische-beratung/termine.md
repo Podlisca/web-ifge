@@ -51,7 +51,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 * 08.11.2021
 * 07.12.2021
 <br/>
-<br/>
+
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -69,8 +69,10 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 31.05.2021
 * 10.09.2021
 <br/>
-
-Für den Kurs LSB 14 vereinbaren Sie bitte ein persönliches Infogespräch mit Frau Silvia Podlisca (+43 676 610 89 36).
+<br/>
+<br/>
+<br/>
+<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -83,17 +85,15 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-* 21.01.2021 **- online** 
+
 * 04.03.2021
 * 16.04.2021
 * 14.05.2021
 * 28.06.2021
 * 26.11.2021
-
-
 <br/>
-
-
+<br/>
+<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -151,12 +151,12 @@ genauer Kursplan folgt
 
 
 ***
-## LSB 14
+## LSB 14 
 #### Start: 09. Februar 2021
 
 Dienstags von 14:00 bis 20:00 Uhr
 
-<br/>
+**ausgebucht**
 
 
 [ANMELDUNG](/anmeldung.php)
@@ -191,7 +191,6 @@ Sonntags von von 10:00 bis 16:00 Uhr
 & ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag
 
 [ANMELDUNG](/anmeldung.php)
-
 [Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
 ***
 

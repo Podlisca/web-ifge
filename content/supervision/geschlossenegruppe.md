@@ -93,7 +93,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 #### Start: 20.01.2021
 Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:**
+**Termine 2021:- ausgebucht***
 
 {{< center >}}
 20.01.2021<br/>
@@ -143,7 +143,7 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Start: 27.01.2021
 Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:**
+**Termine 2021:- ausgebucht***
 
 {{< center >}}
 27.01.2021<br/>
