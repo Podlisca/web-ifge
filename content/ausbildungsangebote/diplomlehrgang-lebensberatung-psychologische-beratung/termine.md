@@ -191,6 +191,7 @@ Sonntags von von 10:00 bis 16:00 Uhr
 & ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag
 
 [ANMELDUNG](/anmeldung.php)
+
 [Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
 ***
 
