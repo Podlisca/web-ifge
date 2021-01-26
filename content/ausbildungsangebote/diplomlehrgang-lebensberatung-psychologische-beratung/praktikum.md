@@ -47,11 +47,6 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 
 Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von **mindestens 30 Stunden nachzuweisen**. [Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen](/about/ifge_selbsterfahrung/).
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwxiCb0R620" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](https://www.lebensberater.at/)
 
