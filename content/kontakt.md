@@ -85,11 +85,10 @@ silvia.podlisca@ifge.at
 {{% small %}}
 ### Büro 
 
-Dominique Karlovits<br/>
+Daniela Jordan<br/>
 +43 676 591 82 20<br/>
 office@ifge.at
 
-Das Büro ist telefonisch Montag bis Freitag von 10:00 bis 17:00 Uhr besetzt. 
 {{% /small %}}
 {{% small %}}
 ### Buchhaltung

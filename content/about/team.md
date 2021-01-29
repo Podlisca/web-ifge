@@ -46,11 +46,11 @@ Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  ein
 {{% box blue=1 %}}
 {{% small  %}}
 
-#### Dominique Karlovits
+#### Daniela Jordan 
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/karlovits.jpg" title="Dominique Karlovits betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
+{{< image src="/img/dani.jpg" title="Daniela Jordan betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
 {{% /small  %}}
 {{% small %}}
 
@@ -70,12 +70,8 @@ Mit meinem Organisationstalent übernehme ich alle anstehenden Aufgaben stets fr
 
 ### AUSBILDUNG
 
-* seit 2020 Lsb Upgrade Sexualberatung & Paarberatung
-* 2019 Lsb Upgrade Aufstellungsarbeit am IFGE in Wien & Burgenland
-* Seit 2018 in Ausbildung zur Dipl. Lebensberaterin – psychologische Beratung am IFGE in Wien
-* 2013 Dipl. Sozialbetreuerin – Familienarbeit
-* 2012 Pflegehelferin im Zuge der Ausbildung zur Dipl. Sozialbetreuerin
-* 2010 Matura - Oberstufenrealgymnasium
+* in Arbeit
+
 {{% /small  %}}
 {{% /box %}}
 
