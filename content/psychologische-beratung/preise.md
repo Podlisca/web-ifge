@@ -18,6 +18,7 @@ weight: 7
 {{< line icon="icon/kosten_tuerkis_2.png" >}}
 
 ## Selbsterfahrungsangebot
+{{% box blue=1 %}}
 {{% grid %}}
 
 Einzelstunde (50 min)
@@ -53,6 +54,7 @@ Supervisions – Jahresgruppe (4h)
 Preis: € 80,- pro Abend
 
 {{% /grid %}}
+{{% /box %}}
 
 Bei Kauf eines 10er Blocks ist die 11. Stunde kostenlos. Die Stunden/Einheiten werden am Ende der Stunde bezahlt.
 
