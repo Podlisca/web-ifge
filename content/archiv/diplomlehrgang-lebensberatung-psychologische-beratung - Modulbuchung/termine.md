@@ -94,6 +94,8 @@ Sonntag von 09:00 bis 18:00 Uhr<br/>
 Leitung: [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 ***
+<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage" class="button">Terminanfrage</a>
+
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 
@@ -153,6 +155,7 @@ Sonntag von 09:00 bis 18:00 Uhr<br/>
 Leitung: [Mag. Margareta Miel](/about/referenten-lsb/#mag-margareta-miel)
 
 ***
+<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage" class="button">Terminanfrage</a>
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
@@ -165,9 +168,3 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% box blue=1 %}}
 {{% small  %}}
-
-
-
-
-
-
