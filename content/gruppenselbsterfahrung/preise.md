@@ -19,38 +19,45 @@ weight: 7
 
 ## Selbsterfahrungsangebot
 
+
 {{% box blue=1 %}}
-{{% small  %}}
-* Einzelstunde (50 min)
+{{% grid %}}
 
-* Paarberatung (1,5 Stunden)
-* Paarberatung mit Silvia Podlisca und Martin Bransky
+Einzelstunde (50 min)
 
-* Wellness (30 Minuten Klangschalenmassage)
+Preis: € 98,-
 
-* Selbsterfahrungsgruppe (2h)
-* Selbsterfahrungsgruppe (3h)
+Paarberatung (1,5 Stunden)
 
-* Einzelsupervision
+Preis: € 185,-
 
-* Supervisions – Jahresgruppe (4h)
-{{% /small  %}}
-{{% small %}}
-* Preis: € 98,-
+Paarberatung mit Silvia Podlisca und Martin Bransky
 
-* Preis: € 185,-
-* Preis: € 250,-
+Preis: € 250,-
 
-* Preis: € 55,-
+Wellness (30 Minuten Klangschalenmassage)
 
-* Preis: € 35,- pro Abend
-* gesamt für alle Termine: € 440,-
+Preis: € 55,-
 
-* Preis: € 105,-
+Selbsterfahrungsgruppe (2h)
 
-* Preis: € 80,- pro Abend
-{{% /small %}}
+Preis: € 35,- pro Abend
+
+Selbsterfahrungsgruppe (3h)
+
+gesamt für alle Termine: € 440,-
+
+Einzelsupervision
+
+Preis: € 105,-
+
+Supervisions – Jahresgruppe (4h)    
+
+Preis: € 80,- pro Abend
+
+{{% /grid %}}
 {{% /box %}}
+
 
 Bei Kauf eines 10er Blocks ist die 11. Stunde kostenlos. Die Stunden/Einheiten werden am Ende der Stunde bezahlt.
 
