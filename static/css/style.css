@@ -678,8 +678,19 @@ _:future,
     content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAAEhcmxxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAC9SURBVChTdZLhEcIgDIU7giM4giP4W+F0gKZ0BEdgA0fwDvzfERzBERzBETR5DRWEfnftJS8JPGi7mmiHT/aCQr4Llp4sTOgpiIZeS4XbHgiYeHT7YPsRicwjYKRwO7mtpj/uB7fj5d5IpEssyMPdG4hCsYd6BMH0Zw2LJljUsJ5Ie6hUMx+dLkhgERMqMHDKtvMzLvw352jNazrTFJVmLTvElK4VGltaW6giDci9Nb/NGvJpghmucIBfgfwX53V2icJKKTcAAAAASUVORK5CYII=);
 }
 
+#kurstermine {
+    display: grid;
+    column-gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-areas: "wh bh nh" "w1 b1 n1" "w2 b2 n2";
+}
+
 @media (max-width: 700px) {
     .grid {
         grid-template-columns: auto auto;
+    }
+    #kurstermine {
+        grid-template-columns: auto;
+        grid-template-areas: "wh" "w1" "w2" "bh" "b1" "b2" "nh" "n1" "n2";
     }
 }

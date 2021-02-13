@@ -101,21 +101,28 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
+<div id="kurstermine">
+<div style="grid-area: wh">
 
-{{% box top-align=1 %}}
-{{% small  %}}
 #### Wien
+
 ***
+</div>
+<div style="grid-area: w1">
+
 ## LSB 16
 #### Start: 03. September 2021
 
 Freitags von 14:00 bis 20:00 Uhr
 
-<br/>
+<br>
 
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
+
+</div>
+<div style="grid-area: w2">
 
 ***
 {{% box blue=1 %}}
@@ -130,16 +137,16 @@ Samstags von 10:00 bis 16:00 Uhr
 genauer Kursplan folgt 
 {{% /small  %}}
 {{% /box %}}
+</div>
 
+<div style="grid-area: bh">
 
-
-
-{{% /small  %}}
-{{% small  %}}
 #### Burgenland
-
-
 ***
+
+</div>
+<div style="grid-area: b1">
+
 ## LSB 14 
 #### Start: 09. Februar 2021
 
@@ -151,6 +158,9 @@ Dienstags von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 14 herunterladen](/downloads/LSB_14_termine.pdf)
+
+</div>
+<div style="grid-area: b2">
 
 ***
 {{% box blue=1 %}}
@@ -164,15 +174,17 @@ Donnerstags von 14:00 bis 20:00 Uhr
 
 genauer Kursplan folgt 
 {{% /small  %}}
-
 {{% /box %}}
+</div>
 
+<div style="grid-area: nh">
 
-{{% /small  %}}
-
-{{% small  %}}
 #### Niederösterreich
 ***
+
+</div>
+<div style="grid-area: n1">
+
 ## LSB 17
 #### Start: 05. September 2021
 
@@ -182,8 +194,10 @@ Sonntags von von 10:00 bis 16:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
-***
+</div>
+<div style="grid-area: n2">
 
+***
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 20
@@ -197,13 +211,10 @@ Freitags von von 14:00 bis 20:00 Uhr
 
 {{% /small  %}}
 {{% /box %}}
-
-
-{{% /small  %}}
-{{% /box %}}
+</div>
+</div>
 
 {{< line icon="icon/bus.png" >}}
-
 
 {{% box blue=1 %}}
 {{% small  %}}
