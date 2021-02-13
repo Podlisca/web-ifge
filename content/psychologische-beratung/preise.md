@@ -18,39 +18,41 @@ weight: 7
 {{< line icon="icon/kosten_tuerkis_2.png" >}}
 
 ## Selbsterfahrungsangebot
+{{% grid %}}
 
-{{% box blue=1 %}}
-{{% small  %}}
-* Einzelstunde (50 min)
+Einzelstunde (50 min)
 
-* Paarberatung (1,5 Stunden)
-* Paarberatung mit Silvia Podlisca und Martin Bransky
+Preis: € 98,-
 
-* Wellness (30 Minuten Klangschalenmassage)
+Paarberatung (1,5 Stunden)
 
-* Selbsterfahrungsgruppe (2h)
-* Selbsterfahrungsgruppe (3h)
+Preis: € 185,-
 
-* Einzelsupervision
+Paarberatung mit Silvia Podlisca und Martin Bransky
 
-* Supervisions – Jahresgruppe (4h)
-{{% /small  %}}
-{{% small %}}
-* Preis: € 98,-
+Preis: € 250,-
 
-* Preis: € 185,-
-* Preis: € 250,-
+Wellness (30 Minuten Klangschalenmassage)
 
-* Preis: € 55,-
+Preis: € 55,-
 
-* Preis: € 35,- pro Abend
-* gesamt für alle Termine: € 440,-
+Selbsterfahrungsgruppe (2h)
 
-* Preis: € 105,-
+Preis: € 35,- pro Abend
 
-* Preis: € 80,- pro Abend
-{{% /small %}}
-{{% /box %}}
+Selbsterfahrungsgruppe (3h)
+
+gesamt für alle Termine: € 440,-
+
+Einzelsupervision
+
+Preis: € 105,-
+
+Supervisions – Jahresgruppe (4h)    
+
+Preis: € 80,- pro Abend
+
+{{% /grid %}}
 
 Bei Kauf eines 10er Blocks ist die 11. Stunde kostenlos. Die Stunden/Einheiten werden am Ende der Stunde bezahlt.
 
