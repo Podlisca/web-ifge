@@ -34,6 +34,8 @@ weight: 3
 
 
 vorläufig keine Termine in Planung
+***
+<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage" class="button">Terminanfrage</a>
 
 {{% /small  %}}
 
