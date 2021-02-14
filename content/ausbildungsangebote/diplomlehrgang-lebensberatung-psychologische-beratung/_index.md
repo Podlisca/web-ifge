@@ -58,23 +58,29 @@ WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 {{% /iconmenu %}}
 
-<!-- ***
-#### Titel 
+<!-- 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+#### Lernen am IFGE - auch unter Covid
 
-<div class="box" style="flex-wrap: nowrap">
+In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an. Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
+
+Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
+
+<div class="box video">
 {{% small %}}
 
 ### Titel 1
-{{< youtube hvqemZoRyjg >}}
+{{< youtube hwxiCb0R620 >}}
 {{% /small %}}
 {{% small %}}
 
 ### Titel 2
-{{< youtube hvqemZoRyjg >}}
+{{< youtube hwxiCb0R620 >}}
 {{% /small %}}
 {{% small %}}
 
-### Titel 3
-{{< youtube hvqemZoRyjg >}}
+### Titel 3 mit langem zweizeiligen Text
+{{< youtube hwxiCb0R620 >}}
 {{% /small %}}
-</div> -->
+</div> 
+-->

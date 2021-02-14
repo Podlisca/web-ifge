@@ -685,6 +685,15 @@ _:future,
     grid-template-areas: "wh bh nh" "w1 b1 n1" "w2 b2 n2";
 }
 
+.box.video {
+    flex-wrap: nowrap
+}
+
+.box.video h3 {
+    height: 3rem;
+    overflow: hidden;
+}
+
 @media (max-width: 700px) {
     .grid {
         grid-template-columns: auto auto;
@@ -692,5 +701,8 @@ _:future,
     #kurstermine {
         grid-template-columns: auto;
         grid-template-areas: "wh" "w1" "w2" "bh" "b1" "b2" "nh" "n1" "n2";
+    }
+    .box.video h3 {
+        height: auto;
     }
 }
