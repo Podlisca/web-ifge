@@ -72,7 +72,8 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Niederösterreich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-#### Start: 18. September 2021
+#### Start: 18. September 2021 **ausgebucht**
+Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs ausgebucht. Gerne können Sie sich auf die [Warteliste](/anmeldung.php) setzen lassen. Sollten sich die Maßnahmen lockern, werden noch drei weitere Plätze vergeben. 
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
@@ -87,7 +88,7 @@ Prüfungstag von 09:00 bis 16:00 Uhr
 
 Prüfung: 02.04. 2022
 
-[Anmeldung](/anmeldung.php)
+[Warteliste](/anmeldung.php)
 
 {{% /small  %}}
 {{% /small  %}}
