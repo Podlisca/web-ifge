@@ -32,8 +32,8 @@ weight: 3
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 23.02.2021 **- ausgebucht**
-* 29.03.2021
+* 23.02.2021 **- online***
+* 29.03.2021 **- online***
 * 04.05.2021
 * 14.06.2021
 * 20.09.2021
@@ -75,7 +75,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-* 04.03.2021
+* 04.03.2021 **- online***
 * 16.04.2021
 * 14.05.2021
 * 28.06.2021
