@@ -138,9 +138,6 @@ img.blog {
     .box:not(.menu) {
         flex-direction: column;
     }
-    .box.top-align {
-        /* align-items: center; */
-    }
     .formular {
         grid-template-columns: auto;
         row-gap: 0.2em;
