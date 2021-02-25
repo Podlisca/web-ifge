@@ -1,7 +1,7 @@
 ﻿---
 title: "VIDEOS"
 menu: main
-draft: true
+draft: false
 weight: 8
 type: blog
 ---
@@ -10,4 +10,4 @@ type: blog
 
 {{< slogan >}}
 
-{{< line icon="icon/blog.png" >}}
+{{< line icon="icon/video.png" >}}
