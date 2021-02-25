@@ -32,7 +32,6 @@ weight: 3
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 23.02.2021 **- online***
 * 29.03.2021 **- online***
 * 04.05.2021
 * 14.06.2021
@@ -61,7 +60,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <br/>
 <br/>
 <br/>
-<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -82,7 +80,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 von 18:30 bis ca. 20:00 Uhr
 
