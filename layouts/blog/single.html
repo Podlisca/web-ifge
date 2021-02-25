@@ -1,5 +1,7 @@
 {{ define "includes" }}
-    {{ partial "facebook-sdk.html" . }}
+    {{ if isset .Params "img"}}
+        {{ partial "facebook-sdk.html" . }}
+    {{ end }}
 {{ end }}
 
 {{ define "main"}}
@@ -7,11 +9,11 @@
     <div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: center;">
         <div>
             {{ if .PrevInSection }}
-                <a href="{{ .PrevInSection.Permalink }}">Vorheriger Artikel</a>
+                <a href="{{ .PrevInSection.Permalink }}">Vorheriger Eintrag</a>
             {{ end }}
             {{ if and .PrevInSection .NextInSection }} | {{ end }}
             {{ if .NextInSection }}
-                <a href="{{ .NextInSection.Permalink }}">Nächster Artikel</a>
+                <a href="{{ .NextInSection.Permalink }}">Nächster Eintrag</a>
             {{ end }}
         </div>
         <div style="padding: 0.5em;">
@@ -21,16 +23,25 @@
 
     <h1>{{ .Title }}</h1>
 
-    <img class="blog" src="/img/{{ .Param "img" }}" alt="Foto {{ .Title }}">
+    {{ if isset .Params "img"}}
+        <img class="blog" src="/img/{{ .Param "img" }}" alt="Foto {{ .Title }}">
+    {{ end }}
 
     {{ .Content }}
 
-    {{ if .PrevInSection }}
-        <a href="{{ .PrevInSection.Permalink }}">Vorheriger Artikel</a>
+    {{ if isset .Params "img"}}
+        {{ if .PrevInSection }}
+            <a href="{{ .PrevInSection.Permalink }}">Vorheriger Eintrag</a>
+        {{ end }}
+        {{ if and .PrevInSection .NextInSection }} | {{ end }}
+        {{ if .NextInSection }}
+            <a href="{{ .NextInSection.Permalink }}">Nächster Eintrag</a>
+        {{ end }}
+    {{ else }}
+        <br>
+        {{ .Params.Description }}
     {{ end }}
-    {{ if and .PrevInSection .NextInSection }} | {{ end }}
-    {{ if .NextInSection }}
-        <a href="{{ .NextInSection.Permalink }}">Nächster Artikel</a>
-    {{ end }}
+
+    
 
 {{ end }}

@@ -1,11 +1,12 @@
 ﻿---
-title: "BLOG"
+title: "VIDEOS"
 menu: main
-draft: false
-weight: 9
+draft: true
+weight: 8
+type: blog
 ---
 
-# BLOG
+# Videos
 
 {{< slogan >}}
 

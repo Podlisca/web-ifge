@@ -1,14 +1,23 @@
-<article class="post">    
-    <img src="/img/{{ .Param "img" }}" alt="Foto {{ .Title }}">    
+<article class="post {{ with .Params.img}} {{ else }}video{{ end }}">
+    {{ if isset .Params "img" }}   
+        <img src="/img/{{ .Param "img" }}" alt="Foto {{ .Title }}">
+    {{ else }}
+        {{ .Content }}
+    {{ end }}
+
     <header>
         <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
         {{/*  <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words </div>  */}}
     </header>
-    <div>
-        {{ .Summary }}
+    <main>
+        {{ if isset .Params "img" }}
+            {{ .Summary }}
+        {{ else }}
+            {{ .Description }}
+        {{ end}}
         <footer>
-            <a href='{{ .Permalink }}'><nobr>Mehr lesen →</nobr></a>
+            <a href='{{ .Permalink }}'><nobr>Mehr →</nobr></a>
             {{/*  <a href='{{ .Permalink }}'><nobr>Mehr lesen <img src="/img/noun_Arrow_5440-3.png" alt="arrow-right" style="transform: rotate(90deg);"/></nobr></a>  */}}
         </footer>
-    </div>
+    </main>
 </article>

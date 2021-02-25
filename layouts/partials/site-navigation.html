@@ -32,7 +32,7 @@
       </div>
     {{ else }}
       <div>
-        <a class="{{ if or (and (eq .Page.FirstSection.Name "BLOG") (eq $currentPage.CurrentSection.Name "BLOG")) ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}" 
+        <a class="{{ if or (and (eq .Page.FirstSection.Name "BLOG") (eq $currentPage.CurrentSection.Name "BLOG")) (and (eq .Page.FirstSection.Name "VIDEOS") (eq $currentPage.CurrentSection.Name "VIDEOS")) ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}" 
         href="{{ .URL }}">{{ .Name }}</a>
       </div>
     {{ end }}
