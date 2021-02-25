@@ -58,7 +58,7 @@ WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 {{% /iconmenu %}}
 
-<!-- 
+
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 #### Lernen am IFGE - auch unter Covid
 
@@ -69,18 +69,17 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 <div class="box video">
 {{% small %}}
 
-### Titel 1
+### IFGE Software - Lehrgang und Praktikum leicht im Überblick
 {{< youtube hwxiCb0R620 >}}
 {{% /small %}}
 {{% small %}}
 
-### Titel 2
-{{< youtube hwxiCb0R620 >}}
+### LSB Ausbildungen - mittlerweile an 3 Standorten
+{{< youtube R0Iyo_175nY >}}
 {{% /small %}}
 {{% small %}}
 
-### Titel 3 mit langem zweizeiligen Text
-{{< youtube hwxiCb0R620 >}}
+### Hunde & Katzen in der psychologischen Beratung
+{{< youtube cPN03jAzqJQ >}}
 {{% /small %}}
 </div> 
--->

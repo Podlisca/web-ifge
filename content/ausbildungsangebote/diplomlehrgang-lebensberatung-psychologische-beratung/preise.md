@@ -85,3 +85,30 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 Bei jedem Seminar sind kostenlose digitale Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
 
 Insbesondere das neue {{< green >}}SMART-Board{{< /green >}} hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+#### Lernen am IFGE - auch unter Covid
+
+In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an. Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
+
+Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
+
+
+<div class="box video">
+{{% small %}}
+
+### IFGE Software - Lehrgang und Praktikum leicht im Überblick
+{{< youtube hwxiCb0R620 >}}
+{{% /small %}}
+{{% small %}}
+
+### LSB Ausbildungen - mittlerweile an 3 Standorten
+{{< youtube R0Iyo_175nY >}}
+{{% /small %}}
+{{% small %}}
+
+### Hunde & Katzen in der psychologischen Beratung
+{{< youtube cPN03jAzqJQ >}}
+{{% /small %}}
+</div> 

@@ -106,4 +106,31 @@ rich_faq:
 
 **Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+#### Lernen am IFGE - auch unter Covid
+
+In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an. Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
+
+Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
+
+
+<div class="box video">
+{{% small %}}
+
+### IFGE Software - Lehrgang und Praktikum leicht im Überblick
+{{< youtube hwxiCb0R620 >}}
+{{% /small %}}
+{{% small %}}
+
+### LSB Ausbildungen - mittlerweile an 3 Standorten
+{{< youtube R0Iyo_175nY >}}
+{{% /small %}}
+{{% small %}}
+
+### Hunde & Katzen in der psychologischen Beratung
+{{< youtube cPN03jAzqJQ >}}
+{{% /small %}}
+</div> 
+
 
