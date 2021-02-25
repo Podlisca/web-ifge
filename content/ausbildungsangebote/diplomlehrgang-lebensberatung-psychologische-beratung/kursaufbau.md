@@ -102,7 +102,24 @@ rich_faq:
 
 584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
 
-[Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)
+{{< line icon="icon/beratung.png" >}}
+
+## Methoden der Ausbildung 
+
+Als Basis **dienen ziel-, ressourcen- und lösungsorientierte Beratungsansätze**: 
+
+* Der systemische Beratungsansatz (Mailänder Schule) 
+* Der hypnosystemische Beratungsansatz (Gunther Schmidt) 
+* Der personenzentrierte Ansatz (Rogers) 
+* Gewaltfreie Kommunikation (Rosenberg) 
+* Motivierende Gesprächsführung (Miller u. Rollnick) 
+* Der lösungsorientierte Ansatz (DeShazer) 
+* Die lösungsfokussierte systemische Aufstellungsarbeit (von Kibed, Hellinger) 
+
+Die Vermittlung der Lehrinhalte erfolgt leicht verständlich und praxisorientiert. Jeder Theorieblock endend mit praktischen Übungen. (Rollenspiel Berater – Klient / Aufstellung usw.)
+
+
+**[Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)**
 
 **Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
 
