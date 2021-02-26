@@ -13,7 +13,9 @@
         {{ if isset .Params "img" }}
             {{ .Summary }}
         {{ else }}
+        <div class="description">
             {{ .Description }}
+        </div>
         {{ end}}
         <footer>
             <a href='{{ .Permalink }}'><nobr>Mehr →</nobr></a>
