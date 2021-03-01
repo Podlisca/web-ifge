@@ -40,4 +40,4 @@ Dann ist unsere vielseitige, nachhaltige und vor allem praxisorientierte Fortbil
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+

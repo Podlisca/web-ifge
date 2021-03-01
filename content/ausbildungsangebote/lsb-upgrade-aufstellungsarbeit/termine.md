@@ -50,7 +50,30 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-#### Termine folgen
+#### Start: 16.01.2022
+
+immer sonntags von 09:00 bis 18:00 Uhr
+Prüfungstag von 09:00 bis 16:00 Uhr
+
+16.01.2022<br/>
+27.02.2022<br/>
+20.03.2022<br/>
+03.04.2022<br/>
+10.04.2022<br/>
+22.05.2022<br/>
+05.06.2022<br/>
+26.06.2022<br/>
+18.09.2022<br/>
+16.10.2022<br/>
+23.10.2022<br/>
+27.112022<br/>
+04.12.2022<br/>
+
+**Prüfung:** 18.122022<br/>
+
+[Anmeldung](/anmeldung.php)
+
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -70,7 +93,9 @@ Prüfungstag von 09:00 bis 16:00 Uhr
 **Modul 5:** 22.05. und 23.05.2021<br/>
 **Modul 6:** 26.06. und 27.06.2021<br/>
 
-Prüfung: 03.07.2021
+**Prüfung:** 03.07.2021
+
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}

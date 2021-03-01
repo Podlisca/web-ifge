@@ -45,7 +45,7 @@ Dadurch sind Sie für Ihre Kund\*innen einfach zu finden und zeigen Ihren Klient
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-***
+
 
 
 

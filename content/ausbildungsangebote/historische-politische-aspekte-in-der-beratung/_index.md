@@ -41,5 +41,5 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+
 
