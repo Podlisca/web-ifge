@@ -32,7 +32,19 @@ weight: 3
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-#### Termine folgen
+#### Intensiv Ausbildung: 09.08.2021
+
+**Montag:** 09.08.2021<br/>
+**Dienstag:** 10.08.2021<br/>
+**Mittwoch:** 11.08.2021<br/>
+**Donnerstag:** 12.08.2021<br/>
+**Freitag:** 13.08.2021<br/>
+**Samstag:** 14.08.2021<br/>
+
+jeweils von von 09:00 bis 8:00 Uhr
+
+[Anmeldung](/anmeldung.php)
+
 {{% /small  %}}
 
 {{% small  %}}

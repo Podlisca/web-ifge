@@ -37,5 +37,5 @@ In meiner 20-jährigen, intensiven Auseinandersetzung mit den Klangschalen habe 
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+
 
