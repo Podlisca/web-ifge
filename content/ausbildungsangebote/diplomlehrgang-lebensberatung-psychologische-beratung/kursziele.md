@@ -90,7 +90,26 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
 {{% /card-more  %}}
 {{% /box %}}
 
+ {{< line icon="icon/zertifikat.png" >}}
+ 
+{{% box top-align=1 %}}
+{{% small  %}}
+#### IFGe Software - Praktkum
+{{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
 
+{{% /small  %}}
+
+{{% small  %}}
+#### IFGe Software - Organisation
+{{< youtube hwxiCb0R620 >}}
+
+{{% /small  %}}
+{{% small  %}}
+#### AUSBILDUNGSPHILOSOPHIE AM IFGE
+{{< youtube R0Iyo_175nY >}}
+
+{{% /small  %}}
+{{% /box %}}
 
 
 

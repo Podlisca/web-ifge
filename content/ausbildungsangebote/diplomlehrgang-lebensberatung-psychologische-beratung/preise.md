@@ -95,20 +95,21 @@ In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang a
 Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
 
 
-<div class="box video">
-{{% small %}}
+{{% box top-align=1 %}}
+{{% small  %}}
+#### IFGe Software - Praktkum
+{{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
 
-### IFGE Software - Lehrgang und Praktikum leicht im Überblick
+{{% /small  %}}
+
+{{% small  %}}
+#### IFGe Software - Organisation
 {{< youtube hwxiCb0R620 >}}
-{{% /small %}}
-{{% small %}}
 
-### LSB Ausbildungen - mittlerweile an 3 Standorten
+{{% /small  %}}
+{{% small  %}}
+#### AUSBILDUNGSPHILOSOPHIE AM IFGE
 {{< youtube R0Iyo_175nY >}}
-{{% /small %}}
-{{% small %}}
 
-### Hunde & Katzen in der psychologischen Beratung
-{{< youtube cPN03jAzqJQ >}}
-{{% /small %}}
-</div> 
+{{% /small  %}}
+{{% /box %}} 

@@ -136,3 +136,23 @@ ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in
 Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}
+
+ {{< line icon="icon/zertifikat.png" >}}
+
+<div class="box video">
+{{% small %}}
+
+### IFGE Software - Lehrgang und Praktikum leicht im Überblick
+{{< youtube hwxiCb0R620 >}}
+{{% /small %}}
+{{% small %}}
+
+### LSB Ausbildungen - mittlerweile an 3 Standorten
+{{< youtube R0Iyo_175nY >}}
+{{% /small %}}
+{{% small %}}
+
+### Hunde & Katzen in der psychologischen Beratung
+{{< youtube cPN03jAzqJQ >}}
+{{% /small %}}
+</div> 

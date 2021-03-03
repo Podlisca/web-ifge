@@ -63,6 +63,25 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{< /card-more >}}
 {{% /box %}}
 
+ {{< line icon="icon/zertifikat.png" >}}
+
+<div class="box video">
+{{% small %}}
+
+### IFGE Software - Lehrgang und Praktikum leicht im Überblick
+{{< youtube hwxiCb0R620 >}}
+{{% /small %}}
+{{% small %}}
+
+### LSB Ausbildungen - mittlerweile an 3 Standorten
+{{< youtube R0Iyo_175nY >}}
+{{% /small %}}
+{{% small %}}
+
+### Hunde & Katzen in der psychologischen Beratung
+{{< youtube cPN03jAzqJQ >}}
+{{% /small %}}
+</div> 
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
