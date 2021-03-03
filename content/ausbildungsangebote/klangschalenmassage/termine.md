@@ -41,7 +41,7 @@ weight: 3
 **Freitag:** 13.08.2021<br/>
 **Samstag:** 14.08.2021<br/>
 
-jeweils von von 09:00 bis 8:00 Uhr
+jeweils von von 09:00 bis 18:00 Uhr
 
 [Anmeldung](/anmeldung.php)
 
