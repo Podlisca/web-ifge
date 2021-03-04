@@ -46,11 +46,11 @@ Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  ein
 {{% box blue=1 %}}
 {{% small  %}}
 
-#### Daniela Jordan 
+#### Dominique Karlovits
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/dani.jpg" title="Daniela Jordan betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
+{{< image src="/img/karlovits.jpg"title="Dominique Karlovits betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
 {{% /small  %}}
 {{% small %}}
 
@@ -68,14 +68,23 @@ Mit meinem Organisationstalent übernehme ich alle anstehenden Aufgaben stets fr
 {{% box %}}
 {{% small  %}}
 
-### AUSBILDUNG
-
-* in Arbeit
-
 {{% /small  %}}
 {{% /box %}}
 
 {{% /small  %}}
+{{% /box %}}
+<br/>
+<br/>
+ {{< line icon="icon/silvia.png" >}}
+
+#### Daniela Jordan
+
+{{% floatbox %}}
+
+{{< image src="/img/dani.jpg"title="Daniela Jordan bereitet alle Unterlagen grafisch so auf, dass das Lernen ein Genuß ist." float="left" >}}
+
+Daniela Jorden ist für die grafische Aufarbeitung aller Lernunterlagen sowie die Gestaltung der IFGE Newlsletter und Wartung der IFGE Website verantwortlich. 
+
 {{% /box %}}
 
 {{< line icon="icon/raueme.png" >}}
