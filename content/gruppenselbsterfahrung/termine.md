@@ -12,7 +12,7 @@ weight: 6
 
 {{< line icon="icon/termine.png" >}}
 
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samstag und Sonntag) oder eintägig an einem Montag, Dienstag oder Freitag in Wien statt. Seit September 2019 am Donnerstag in Pinkafeld. Ebenso gibt es eine zweiwöchentliche, systematisch geführte, Gruppenselbsterfahrung.
+Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig aunter der Woche statt.
 
 {{< line icon="icon/aufstellung.png" >}}
 {{% box blue=1 %}}
@@ -24,7 +24,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Samsta
 
 **Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
 
-Aufgrund der aktuellen Covid Situation werden die nächsten Familienaufstellungen **voraussichtlich im April 2021** stattfinden. 
+Aufgrund der aktuellen Covid Situation werden die nächsten Familienaufstellungen **voraussichtlich im Mai 2021** stattfinden. 
 
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise/)
 
@@ -38,8 +38,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**03.04.2021** von 10:00 - 16:00 Uhr  
-**07.04.2021** von 09:00 - 15:00 Uhr   
 **28.05.2021** von 14:00 - 20:00 Uhr   
 **16.06.2021** von 14:00 - 20:00 Uhr  
 **25.06.2021** von 14:00 - 20:00 Uhr   
@@ -60,9 +58,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**01.04.2021** von 14:00 -20:00 Uhr  
-**27.04.2021** von 14:00 -20:00 Uhr  
-**29.04.2021** von 14:00 -20:00 Uhr  
 **28.05.2021** von 14:00 -20:00 Uhr  
 **15.06.2021** von 14:00 -20:00 Uhr  
 **17.06.2021** von 14:00 -20:00 Uhr  
