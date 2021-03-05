@@ -53,9 +53,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-* 05.04.2021
 * 31.05.2021
 * 10.09.2021
+<br/>
 <br/>
 <br/>
 <br/>
@@ -73,14 +73,13 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-* 04.03.2021 **- online***
 * 14.05.2021
 * 28.06.2021
 * 26.11.2021
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
