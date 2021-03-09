@@ -27,7 +27,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_noe.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
+{{< image src="/img/lsb_start_2021.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
 Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
 

@@ -15,7 +15,7 @@ og_image: "/img/qualitaetsausbildungen.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/qualitaetsausbildungen.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
+{{< image src="/img/home_2021_1.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
 
 In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
 
@@ -90,7 +90,7 @@ Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die
 {{% /small  %}}
 
 {{% small  %}}
-{{< image src="/img/home_berufsbild.jpg" title="Wer Zuhören will, muss schweigen können. Aktives und empathisches Zuhören, Sicherheit und Ruhe ist die Grundlage jeder psychologischen Beratung. Am IFGE finden Sie einen Ort wo es um Sie und Ihre Anliegen und Gefühlen geht – frei von Bewertungen, Absichten und Besserwisserei. Getragen von dieser Atmosphäre und einer ressourcenorientierter Gesprächsführung, finden Sie Lösungen, die immer in Ihnen schlummern, jedoch nicht wahrgenommen werden können.">}}
+{{< image src="/img/berufsbild_2021.jpg" title="Wer Zuhören will, muss schweigen können. Aktives und empathisches Zuhören, Sicherheit und Ruhe ist die Grundlage jeder psychologischen Beratung. Am IFGE finden Sie einen Ort wo es um Sie und Ihre Anliegen und Gefühlen geht – frei von Bewertungen, Absichten und Besserwisserei. Getragen von dieser Atmosphäre und einer ressourcenorientierter Gesprächsführung, finden Sie Lösungen, die immer in Ihnen schlummern, jedoch nicht wahrgenommen werden können.">}}
 
 #### Berufsbild Lebensberatung
 Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](https://ifge.at/psychologische-beratung/berufsbild/) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](https://ifge.at/psychologische-beratung/berufsbild/).
