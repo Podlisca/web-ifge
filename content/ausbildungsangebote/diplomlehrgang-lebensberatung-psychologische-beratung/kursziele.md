@@ -15,7 +15,7 @@ og_image:  "/img/lsb_info_noe3.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_info_noe3.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
+{{< image src="/img/kursziele_2021_2.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
 
 Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE - in einer wertschätzenden, herzlichen Atmosphäre - fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
 
@@ -43,7 +43,7 @@ Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung 
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_info_noe.jpg" title="Die Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in umfasst zwei wesentliche Säulen. Einerseits der Diplomlehrgang mit den gesetzlich vorgeschriebenen Lehrinhalten und das Praktikum für die selbstständige Arbeit in der freien Praxis. Silvia Podlisca nimmt sich viel Zeit, um alle Fragen diesbezüglich zu beantworten. Ebenso gibt Frau Silvia Podlisca einen guten Einblick in das Berufsbild der Lebensberatung- psychologischen Beratung."float="right">}}
+{{< image src="/img/kursziele_2021_3.jpg" title="Die Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in umfasst zwei wesentliche Säulen. Einerseits der Diplomlehrgang mit den gesetzlich vorgeschriebenen Lehrinhalten und das Praktikum für die selbstständige Arbeit in der freien Praxis. Silvia Podlisca nimmt sich viel Zeit, um alle Fragen diesbezüglich zu beantworten. Ebenso gibt Frau Silvia Podlisca einen guten Einblick in das Berufsbild der Lebensberatung- psychologischen Beratung."float="right">}}
 
 Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb/) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/berufsbilder/systemische-einzelberatung/), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/), [Krisenintervention](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/krisenberatung/) und [Sexualberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/spezialisierungen/sexualberatung/), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
 
@@ -68,7 +68,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin [Silvia Podlisca](/about/ueber_mich/) mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen **bezüglich des Kundenaufbaus** weiter, vermittelt, worauf man bei der **Selbstständigkeit** achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
 {{% /card-more %}}
 
-{{% card-more title="Entwicklung & Unterstützung" img="entwicklung_wien.jpg" %}}
+{{% card-more title="Entwicklung & Unterstützung" img="unterstuetzung.jpg" %}}
 Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. 
 
 Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. 
@@ -80,7 +80,7 @@ Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemisch
 Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 12 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
 {{% /card-more  %}}
 
-{{% card-more title="Entwicklungspotenzial" img="silvia_margit.jpg" %}}
+{{% card-more title="Entwicklungspotenzial" img="entwicklung.jpg" %}}
 
 Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene **IFGE-Software** geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
  
