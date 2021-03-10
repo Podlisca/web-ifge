@@ -21,7 +21,7 @@ rich_kurs: true
 
 ## TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
 
-{{< image src="/img/tiergestuetzt.jpg" title="BTiere in der Beratung erleichtern vielen Menschen den Zugang zu den eigenen Gefühlen. Am IFGE lernen Sie, wie Sie Hunde und Katzen in den Beratungsprozess einbauen." float="left" >}}
+{{< image src="/img/tiergestuetzt_2021.jpg" title="BTiere in der Beratung erleichtern vielen Menschen den Zugang zu den eigenen Gefühlen. Am IFGE lernen Sie, wie Sie Hunde und Katzen in den Beratungsprozess einbauen." float="left" >}}
 
 **Schwerpunkt Tiere:** Hund & Katze<br/>
 **Schwerpunkt Kommunikation:** Systemik & Hypnosystemik, Konfliktmanagement,  gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
@@ -50,7 +50,7 @@ Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für [
 
 #### Ideal auch für Berufseinsteigerinnen
 
-{{< image src="/img/tiergestuetzt_3.jpg" title="Katzen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
+{{< image src="/img/tiergestuetzt_2021_3.jpg" title="Katzen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
 
 Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](/about/institut/) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
 
@@ -66,7 +66,7 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 {{< line icon="icon/tiere.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more link="" img="tiergestützt_silvia_noe.jpg" title="">}}
+{{< card-more link="" img="tiergestuetzt_2021_1.jpg" title="">}}
 
 #### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?
 
