@@ -8,7 +8,7 @@ draft: false
 weight: 1
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychologische Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
-og_image:  "/img/silvia_noe.jpg"
+og_image:  "/img/lsb_start_2021.jpg"
 aliases: 
     - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html"
 rich_kurs: true

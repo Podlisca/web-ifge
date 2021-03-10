@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 12
 description: "Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise, sowohl im gesamten Körper, als auch im gesamten Energiekörper aus und erreichen jede Faser und jede Zelle. In unseren Zellen haben wir jede Erfahrung, das Gute wie das Schwere, gespeichert."
-og_image: "/img/ks_unterricht.jpg"
+og_image: "/img/klangschale_2021_4.jpg"
 ---
 
 # Ausbildung: Klangschalenmassage am IFGE 

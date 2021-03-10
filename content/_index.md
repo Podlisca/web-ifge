@@ -3,7 +3,7 @@ title: "Aus- und Weiterbildungen im Bereich Lebens- und Sozialberatung in Wien, 
 draft: false
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr oder Samstags von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie Supervision und Aufstellungsarbeit, sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
 og_title: "IFGE - Silvia Podlisca"
-og_image: "/img/qualitaetsausbildungen.jpg"
+og_image: "/img/home_2021_1.jpg"
 ---
 
 # Herzlich Willkommen am IFGE
