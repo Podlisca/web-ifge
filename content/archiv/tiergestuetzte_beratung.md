@@ -4,8 +4,8 @@ menu:
     main:
         parent: archiv
         identifier: philosophie_tiergestuetzt
-draft: true
-weight: 1
+draft: false
+weight: 5
 description: "Hier vereinen sich meine beiden Leidenschaften &amp; Ausbildungen perfekt. Fachwissen von Mensch und Tier - für ein friedvolles, gesundes Zusammenleben!"
 ---
 
