@@ -48,7 +48,7 @@ Silvia Podlisca ist für den Inhalt von verlinkten Webseiten anderer Betreiber n
 
 Gerichtsstand ist das zuständige Gericht in Wien.
 
- Fotoquelle: Stefan Seelig & View/Jennifer Vass
+ Fotoquelle: Stefan Seelig & [Carina Fritz](https://www.carinafritz.at/)
 
  
 
