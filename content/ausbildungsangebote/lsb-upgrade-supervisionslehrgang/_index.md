@@ -8,7 +8,7 @@ draft: false
 weight: 2
 description: "Für alle Lebens- und Sozialberater, die ihr Wissen und ihre Erfahrung gerne an angehende Kollegen im Rahmen der Supervision weitergeben möchten."
 og_title: "Lsb Upgrade: Zertifizierter Lehrgang Supervision"
-og_image: "/img/upgrade_supi_wien.jpg"
+og_image: "/img/ambivalenz_2021_1.jpg"
 rich_kurs: true
 ---
 
@@ -19,7 +19,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/upgrade_supi_wien.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
+{{< image src="/img/ambivalenz_2021_1.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
 
 Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
 
