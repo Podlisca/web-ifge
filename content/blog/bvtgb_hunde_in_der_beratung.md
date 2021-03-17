@@ -27,10 +27,10 @@ Um also einen ausgebildeten Therapiehund in der Therapie oder Beratung einsetzen
 
 Das Gesetz gibt vor, dass Sachverständige bei der Beurteilung von Hunden auf ihre Eignung als Therapiehund folgende Parameter in Betracht ziehen sollen:
 
-•	Gesundheit des Tieres
-•	Soziales Verhalten und Umweltverhalten
-•	Kontrollierbarkeit
-•	Zusammenspiel zwischen Halter*in, Hund und Menschen mit Behinderung
+•	Gesundheit des Tieres <br/>
+•	Soziales Verhalten und Umweltverhalten <br/>
+•	Kontrollierbarkeit <br/>
+•	Zusammenspiel zwischen Halter*in, Hund und Menschen mit Behinderung <br/>
 
 Hinsichtlich der Hunderassen sind prinzipiell keine Einschränkung im Bezug auf eine mögliche Karriere als Therapiehund vorgesehen. Doch es hat sich gezeigt, dass bestimmte Rassen – wie etwa der Border Collie, der Labrador oder auch der Golden Retriever – aufgrund ihres ruhigen, freundlichen und friedlichen Wesens besonders geeignet für diesen tierischen Beruf sind. Die wichtigste Voraussetzung dafür ist freilich, dass Therapiehunde-Anwärter ideal sozialisiert worden sind. 
 
