@@ -25,6 +25,10 @@ weight: 3
 {{< line icon="icon/termine.png" >}}
 ## Informationsveranstaltung
 
+Je nach COVID Situation kann es sein, dass die **INFOABNDE** kurzfristig auf **ONLINE*** umgestellt werden. Hierfür erhalten Sie dann automatisch eine E-Mail mit allen nötigen Informationen zugeschickt. 
+
+***
+
 {{% box top-align=1 %}}
 {{% small %}}
 #### Wien
