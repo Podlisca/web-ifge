@@ -8,3 +8,4 @@ Einblicke in das Ausbildungsprogramm am IFGE – wo Ihre Berufung zum Beruf wird
 ---
 
 {{< youtube R0Iyo_175nY >}}
+

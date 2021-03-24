@@ -28,7 +28,7 @@ rich_faq:
         24 Stunden Recht
         16 Stunden Betriebswirtschaft
         16 Stunden Berufsethik und Berufsidentität."             
-    -   frage: "Wodurch unterscheiden sich die Ausbildungsinstitute für die Ausbildung?"
+    -   frage: "Wodurch unterscheiden sich die Ausbildungsinstitute für die Ausbildung zum psychologischen Berater /zur psychologischen Beraterin?"
         antwort: "Die Ausbildungsinstitute geben bei der Zertifizierung bekannt, nach welcher Methodik sie die benötigten 240 Stunden (Methodik der Lebens- und Sozialberatung) unterrichtet werden. Zugelassen sind die 23 anerkannten psychotherapeutischen Methoden:
         
         Tiefenpsychologisch‐psychodynamische Orientierung -   Psychoanalytische Methoden:
