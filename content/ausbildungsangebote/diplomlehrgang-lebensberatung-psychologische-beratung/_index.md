@@ -24,7 +24,16 @@ rich_faq:
         antwort: "Die Grundlage für eine gesunde Resilienz bildet sich im ersten Lebensjahr. Hierfür ist eine bedürfnisorientierte Pflege und Fürsorge sowie eine stabile gute Bindungsperson für den Säugling notwendig. Bis zum dritten Lebensjahr sollte die positive, bedürfnisorientierte Führsorge deutlich überwiegen. Diese Resilienz ist die Grundlage mit Belastungen konstruktiv im Leben umgehen zu können. Die Überwindung eines Traumas oder auch mehrerer Traumata kann die Basis der sogenannten „sekundären Resilienz“ sein."
     -   frage: "Was ist der Unterschied zwischen primärer Resilienz und sekundärer Resilienz?"
         antwort: "Während wir die „primäre Resilienz“ bereits in den ersten Lebensjahren erwerben, ist mit der „sekundären Resilienz“ gemeint, dass wir durch die Bewältigung belastender oder traumatischer Erfahrungen über uns hinauswachsen und daraus lernen können, um damit eine innere Resistenz gegen künftig ähnliche Ereignisse zu entwickeln."
-
+    -   frage: "Braucht man in Österreich einen Gewerbeschein für die Arbeit als Lebens-und Sozialberater/Lebens- und SozialberaterIn?"
+        antwort: "Anders als in Deutschland ist die Vorraussetzung für die Arbeit als Lebens- und Sozialberater/Lebens- und Sozialberaterin in freier Praxis ein aufrechter Gerwerbeschein. Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. "
+    -   frage: "Mit welchen Anliegen Arbeiten Diplom. Lebens-und Sozialberater/Lebens-und SozialberaterInnen?"
+        antwort: "Als Diplom. Lebens- und Sozialberater*in - psychologische Berater*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. LebensberaterInnen - psychologische BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt."
+    -   frage: "Sind Lebens- und Sozialberater dazu berechtigt mit Menschen in Krisen zu arbeiten? "
+        antwort: "Diplom. Lebens- und Sozialberater/Lebens- und SozialberaterInnen durchlaufen während der Ausbildung ingesamt 80 Stunden des Methodenschwerpunkts Krisenintervention. Die Krisenintervention ist somit sogar einer der Schwerpunkte im Bereich der der Lebens- und Sozialberatung in Österreich."
+    -   frage: "Ist der Beruf Lebens-und Sozialberater in Österreich anerkannt?"
+        antwort: "Die Lebensberatung -  psychologische Beratung gehört neben Medizin und Psychotherapie zu den 4 Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen.
+"
+        
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
