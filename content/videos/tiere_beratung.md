@@ -12,7 +12,7 @@ rich_faq:
     -   frage: "Wer darf mit Tieren in der Beratung arbeiten?"
         antwort: "Sozialarbeiter*innen, Betreuer*innen, Psycholog*innen und Pädagog*innen, welche den Lehrgang erfolgreich absolvieren, erhalten die Berechtigung zur „Tiergestützten Aktivität“ – etwa je nach Kernberuf z. B. „Tiergestützte Betreuung“, “Tiergestützte Pädagogik” oder „Tiergestützte Sozialarbeit“."
     -   frage: "Was ist der Unterschied zwischen tiergestützter Beratung und Therapiehunden?"
-        antwort: ""
+        antwort: "Der wichtigste Unterschied liegt vor allem in der Ausbildung des Menschen. In der Therapiehunde-Ausbildung wird vor allem Augenmerk auf die Fähigkeiten des Hundes gelegt. In der tiergestützten Therapie oder in der tiergestützten psychosozialen Arbeit sollte aber vor allem auf die Fähigkeiten der Therapeut*innen und Berater*innen fokussiert werden. Denn dabei geht es nicht primär um die Fähigkeiten des Tieres, sondern ausschließlich darum, wie Therapeut*innen und Berater*innen die Tiere in den Beratungsprozess einbauen. Auch wenn Hunde, Katzen und Co. in vielen Fällen eine wohltuende Wirkung auf das Erleben der Klient*innen haben, die sich ein tiergestütztes Angebot wünschen, so braucht es für einen gelungenen therapeutischen oder beraterischen Prozess in erster Linie hervorragend ausgebildete Menschen."
 
 ---
 

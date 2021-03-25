@@ -10,6 +10,18 @@ description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r 
 og_title: "Ausbildung: psychologisches Teambuilding am IFGE Burgenland"
 og_image: "/img/ausbildung_teambuilding.jpg"
 rich_kurs: true
+rich_faq:
+    -   frage: "Was lernt man in der Ausbildung psychologisches Teambuilding am IFGE?"
+        antwort: "In unserer Ausbildung psychologisches Teambuliding am IFGE  wird jede Intervention fachlich erklärt, sodass Sie diese in Zukunft ideal anleiten können. Gleichzeitig gehen wir einen intensiven Schritt weiter, denn jedes Tool wird psychologisch beleuchtet. Wir gehen dabei gründlich vor - vom Beginn der Intervention über die Begleitung einzelner Team-Spiele bis hin zu der Arbeit mit den aus den Spielen gewonnenen Erkenntnissen Sie lernen als Coach die beobachteten Dynamiken konstruktiv dem Team zur Verfügung zu stellen. Das Ziel ist, neben dem Spaß, dass das Team lernt mit unterschiedlichen Konflikten und Herausforderungen wertschätzend umzugehen und die Unterschiedlichkeiten als Ressourcen erkennt. So erlernen Sie nicht nur, Teamdynamiken aufzuspüren und diese zu benennen, sondern Sie erfahren auch, wie Sie diese gezielt und dienlich ansprechen können, wie Sie mit Widerständen in Teams umgehen und vor allem, wie Sie mit Gruppen letztlich so weiterarbeiten können, dass erfolgreiches Teambuilding entsteht." 
+    -   frage: "Was ist der Schwerpunkt der Zusatzausbildung Psychologisches Teambuilding am IFGE?"
+        antwort: "Die Zusatzausbildung Psychologisches Teambuilding am IFGE hebt sich durch den intensiv psychologischen Schwerpunkt von reinen Tool-Vermittlungs-Seminaren deutlich ab. An zwei Wochenenden wird ein besonderes Hauptaugenmerk auf die wesentlichen Faktoren von Gruppendynamiken in unterschiedlichsten Kontexten gelegt. Dies ermöglicht Ihnen, Strukturen rasch zu erkennen und somit letztlich auch, daraus mit einem Team konstruktive, neue Muster zu gestalten, wodurch Sie sich von klassischen Unternehmens-Coaches zu unterscheiden lernen. Denn Sie erhalten nicht nur Anleitungen für neuartige und moderne Tools in der Teamarbeit, sondern eignen sich durch die Fortbildung wichtiges psychologisches Zusatz-Know-how an." 
+    -   frage: "Für wen ist die Ausbildung Psychologisches Teambuilding geeignet?"
+        antwort: "Dipl. Lebens- und SozialberaterInnen, Lebens- und SozialberaterInnen in Ausbildung, interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, TrainerInnen, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung, usw."
+    -   frage: "Was ist der Methodenschwerpunkt der Zusatzausbildung psychologisches Teambuilding am IFGE"
+        antwort: "Der Methodenschwerpunkt der Zusatzausbildung psychologisches Teambuilding am IFGE liegt unter anderem auf vielen Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion, die eigene Rolle als TeamleiterIn, Ultisationsmöglichkeiten, Zielentwicklungsprozesse und vieles mehr."
+    -   frage: "Welche Möglichkeiten einer gesetzlich vorgeschriebenen Weiterbildung für Lebens- und Sozialberater und Lebens-und SozialberaterInnen gibt es?"
+        antwort: "Am IFGE in Niederösterreich, Wien und Burgenland gibt es eine große Auswahl an Fortbildungsmöglichkeiten (wie z.B. das psychologische Teambuilding)welches als fachliche Fortbildung seitens der WKO anerekannt wird."
+
 ---
 
 # Ausbildung: psychologisches Teambuilding am IFGE Burgenland
