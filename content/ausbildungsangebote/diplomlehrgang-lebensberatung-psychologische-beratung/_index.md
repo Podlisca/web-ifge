@@ -31,8 +31,13 @@ rich_faq:
     -   frage: "Sind Lebens- und Sozialberater dazu berechtigt mit Menschen in Krisen zu arbeiten? "
         antwort: "Diplom. Lebens- und Sozialberater/Lebens- und SozialberaterInnen durchlaufen während der Ausbildung ingesamt 80 Stunden des Methodenschwerpunkts Krisenintervention. Die Krisenintervention ist somit sogar einer der Schwerpunkte im Bereich der der Lebens- und Sozialberatung in Österreich."
     -   frage: "Ist der Beruf Lebens-und Sozialberater in Österreich anerkannt?"
-        antwort: "Die Lebensberatung -  psychologische Beratung gehört neben Medizin und Psychotherapie zu den 4 Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen.
-"
+        antwort: "Die Lebensberatung -  psychologische Beratung gehört neben Medizin und Psychotherapie zu den 4 Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen."
+    -   frage: "Was ist ein psychologischer Berater?"
+        antwort: "Psychologische BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychologische Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
+    -   frage: "Was sind die Stärken eines psychologischen Beraters/einer psychologischen Beraterin?"
+        antwort: "Psychologische BeraterInnen konzentrieren sich stark auf das Hier und Jetzt und unterstützen KlientInnen in aktuellen Problemsituationen. Sie versuchen, dabei so viel von der Vergangenheit der KlientInnen wie nötig einzubauen aber so wenig, wie möglich, damit ihre KlientInnen rasch im aktuellen Leben neue Sichtweisen und Lösungsansätze entwickeln können. Dabei arbeiten sie mit den unterschiedlichsten Methoden der Psychotherapie. Die besondere Stärke der psychologischen Beratung liegt in der Prävention von psychischen Erkrankungen. In der psychologischen Beratung arbeiten also professionell ausgebildete Menschen mit gesunden Menschen daran, dass diese ihre seelische Gesundheit langfristig erhalten."
+    -   frage: "Was sind die Grenzen eines psychologischen Beraters/einer psychologischen Beraterin?"
+        antwort: "Auch wenn psychologische BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben. In diesem Fall verweisen Lebens- und SozialberaterInnen an PsychotherapeutInnen oder ÄrztInnen."
         
 ---
 
