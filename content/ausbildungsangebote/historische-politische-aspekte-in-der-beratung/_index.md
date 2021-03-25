@@ -9,6 +9,13 @@ weight: 9
 description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r BeraterIn – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder TrainerIn erweitern? Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
 og_title: "Historische, politische u. gesellschaftliche Aspekte in der Beratung am IFGE Burgenland"
 og_image: "/img/qualitaetsausbildungen.jpg"
+rich_faq:
+    -   frage: "Welche fachlichen Fortbildungen kann man als Lebens-und Sozialberater anrechnen lassen?"
+        antwort: "Am IFGE finden Sie als Lebens- und Sozialberaterin laufend interesannte Angebote zum Thema Fortbildungen, welche auch für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt werden."
+    -   frage: "Wo kann ich etwas über die Vergangenheit lernen?"
+        antwort: "Das Seminar “Auf den Spuren der Vergangenheit – die Gegenwart verstehen” vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der psychologischen Beratung. Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen."
+    -   frage: "Wo kann ich etwas über den 1. und 2. Weltkrieg  lernen?"
+        antwort: "Die Inhalte des Wochenendkurses 'Historische, politische und gesellschaftliche Aspekte in der Beratung' am IFGE bestehen u. a. aus der Erläuterung humanistischer Zugänge in der psychosozialen Beratung, umfangreichem Wissen über den Ersten und Zweiten Weltkrieg, Massenverfolgung und Genoziden sowie aus verschiedenen Erziehungsstilen. Ebenfalls wird ein guter Überblick über die Weltreligionen geboten. Das gesamte Seminar wird immer auch unter dem systemischen Blickwinkel betrachtet und die klassischen “systemischen Lösungssätze” werden in ihrer Herkunft und Wirkungsweise erklärt sowie verständlich gemacht."
 ---
 
 # Historische, politische u. gesellschaftliche Aspekte in der Beratung am IFGE Burgenland
