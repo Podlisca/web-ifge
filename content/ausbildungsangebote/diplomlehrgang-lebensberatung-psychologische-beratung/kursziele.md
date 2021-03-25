@@ -6,6 +6,9 @@ menu:
 draft: false
 weight: 1
 og_image:  "/img/lsb_info_noe3.jpg"
+rich_faq:
+    -   frage: "Was lerne ich als Lebens-und Sozialberater - psychologische Berater?"
+        antwort: "Die Grundausbildung am IFGE lehrt fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung, Familienaufstellung, Krisenintervention und Sexualberatung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz. Die Themen, mit denen zukünftige Klient*innen zu Lebens- und Sozialberater*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen"
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
