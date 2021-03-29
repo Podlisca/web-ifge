@@ -202,7 +202,7 @@ Sonntags von von 10:00 bis 16:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 20
-#### Start: 02.September 2022
+#### Start: 09.September 2022
 
 Freitags von von 14:00 bis 20:00 Uhr
 
