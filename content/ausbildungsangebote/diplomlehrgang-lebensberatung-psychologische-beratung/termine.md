@@ -36,13 +36,11 @@ Je nach COVID Situation kann es sein, dass die **INFOABENDE** kurzfristig auf **
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 29.03.2021 **- online***
 * 04.05.2021
 * 14.06.2021
 * 20.09.2021
 * 08.11.2021
 * 07.12.2021
-<br/>
 
 
 von 18:30 bis ca. 20:00 Uhr
@@ -63,7 +61,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <br/>
 <br/>
 <br/>
-<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -80,7 +77,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 14.05.2021
 * 28.06.2021
 * 26.11.2021
-<br/>
 <br/>
 <br/>
 <br/>
