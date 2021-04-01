@@ -1,6 +1,6 @@
 ---
 title: "Eins plus eins ist mehr als zwei: Warum ich Wirtschafts-Coaching im Team besonders schätze"
-draft: true
+draft: false
 tags: []
 weight: 109
 
