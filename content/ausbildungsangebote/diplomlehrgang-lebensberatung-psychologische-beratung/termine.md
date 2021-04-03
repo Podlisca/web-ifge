@@ -108,11 +108,12 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <div style="grid-area: w1">
 
 ## LSB 16
-#### Start: 03. September 2021
+#### Start: 03. September 2021 
 
 Freitags von 14:00 bis 20:00 Uhr
 
-<br>
+**Nur noch ein Platz frei**
+
 
 [ANMELDUNG](/anmeldung.php)
 
@@ -186,7 +187,7 @@ genauer Kursplan folgt
 #### Start: 05. September 2021
 
 Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag
+& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch drei freie Plätze**
 
 [ANMELDUNG](/anmeldung.php)
 
