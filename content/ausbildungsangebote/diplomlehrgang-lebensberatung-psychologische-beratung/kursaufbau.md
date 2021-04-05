@@ -111,6 +111,7 @@ Als Basis **dienen ziel-, ressourcen- und lösungsorientierte Beratungsansätze*
 * Der systemische Beratungsansatz (Mailänder Schule) 
 * Der hypnosystemische Beratungsansatz (Gunther Schmidt) 
 * Der personenzentrierte Ansatz (Rogers) 
+* Der sokratischer Dialog
 * Gewaltfreie Kommunikation (Rosenberg) 
 * Motivierende Gesprächsführung (Miller u. Rollnick) 
 * Der lösungsorientierte Ansatz (DeShazer) 
