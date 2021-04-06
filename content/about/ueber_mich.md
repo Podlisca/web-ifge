@@ -62,7 +62,7 @@ Diese Aus­bildung genoss ich bei Michaela Kaden und sie beeinflusst meine heuti
 
 Die Entscheidung für die Lebens- und Sozialberatung – psychologische Beratung, und gegen die Psychotherapie, war eine reiflich sehr bewusste Entscheidung, da mir der Zugang der Gesundheitserhaltung – frei von jeder Diagnose – sehr entgegenkommt. 
 
-Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist ok", am deutlichsten. Mir ist natürlich bewusst, dass die Lebensberatung – psychologische Beratung ihre Grenzen hat, weshalb ich, bei Bedarf, mit anderen Experten zusammenarbeite. 
+Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist ok", am deutlichsten da sich die Lebensberatung nicht an Störungen oder Defiziten orientiert. Mir ist natürlich bewusst, dass die Lebensberatung – psychologische Beratung ihre Grenzen hat, weshalb ich, bei Bedarf, mit anderen Experten zusammenarbeite. 
 
 Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologische-beratung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung.html). Nach wie vor ist die ständige Weiterbildung eine Selbstverständlichkeit für mich. 
 <br/>
