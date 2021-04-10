@@ -23,7 +23,7 @@ weight: 3
 {{% /iconmenu %}}
 
 
-***
+{{< line icon="icon/termine.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
 

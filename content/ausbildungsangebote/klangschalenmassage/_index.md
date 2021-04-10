@@ -14,7 +14,7 @@ og_image: "/img/ks_ausbildung_gruppe.jpg"
 # Ausbildung: Klangschalenmassage am IFGE 
 {{< slogan >}}
 
-{{< line icon="icon/politik.png" >}}
+{{< line icon="icon/klangschale.png">}}
 
 {{% floatbox %}}
 ## Lust auf "klangvolle" berufliche Veränderung? 

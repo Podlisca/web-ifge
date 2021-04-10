@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_berufsbild
 draft: false
-weight: 6
+weight: 7
 description: "Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche"
 og_image: "/img/lsb_info_noe.jpg"
 ---
@@ -44,6 +44,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
+{{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
 {{< /iconmenu >}}
 
 {{< line icon="/icon/beratung.png" >}}

@@ -12,7 +12,7 @@ og_image: "/img/klangschale_2021_4.jpg"
 ## Ausbildung: Klangschalenmassage am IFGE 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/klangschale.png" >}}
 
 {{% floatbox %}}
 
@@ -36,7 +36,7 @@ Bauen Sie Ihre Intuition durch freies, kreatives Arbeiten aus und lernen Sie die
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/klangschale.png" >}}
 
 ## WAS DIE KLANGSCHALEN FÜR IHRE PRAXIS BEDEUTEN
 

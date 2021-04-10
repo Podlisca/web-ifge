@@ -23,6 +23,7 @@ og_image: "/img/sucht2_wien.jpg"
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="../tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" link="../paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" link="../berufsbild" >}}
+
 {{< /iconmenu >}}
 
 {{< line icon="icon/angehoerige.png" >}}

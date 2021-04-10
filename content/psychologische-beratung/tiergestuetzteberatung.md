@@ -42,6 +42,7 @@ Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewe
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
+{{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
 {{< /iconmenu >}}
 
 {{< line icon="icon/tiere.png" >}}

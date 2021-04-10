@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_preise
 draft: false
-weight: 7
+weight: 8
 ---
 
 
@@ -52,6 +52,14 @@ Preis: € 105,-
 Supervisions – Jahresgruppe (4h)    
 
 Preis: € 80,- pro Abend
+
+offene Supervisionsgruppe  (4h)    
+
+Preis: € 80,- pro Abend
+
+offene Supervisionsgruppe  (8h)    
+
+Preis: € 160,- pro Abend
 
 {{% /grid %}}
 {{% /box %}}

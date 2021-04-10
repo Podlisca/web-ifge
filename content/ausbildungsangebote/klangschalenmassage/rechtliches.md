@@ -21,7 +21,7 @@ weight: 4
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/vertrag.png" >}}
 ## Zugangsvoraussetzungen
 
 

@@ -60,10 +60,12 @@ Anmeldung
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**in Planung**<br/>
+**09. Mai 2021**<br/>
+von 09:00 bis 13:00 Uhr
 <br/> 
-Leitung: <br/>
-Anmeldung
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+<br/>
+[Anmeldung](/anmeldung.php)
 
 
 {{% /small  %}}

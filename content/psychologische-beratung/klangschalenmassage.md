@@ -1,32 +1,31 @@
 ---
-title: "Paarberatung"
+title: "Klangschalenmassage"
 menu:
     main:
         parent: psychologischeberatung
-        identifier: beratung_paarberatung
+        identifier: klangschalenmassage
 draft: false
-weight: 4
-description: "Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ."
-og_title: "Paarberatung am IFGE"
-og_image: "/img/paarberatung_wien.jpg"
+weight: 6
+description: "Klangschalenbehandlungen überzeugen durch ihre harmonisierende, wohltuende Wirkung. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt"
+og_image: "/img/ks_2021_1.jpg"
 aliases:
-    - "/psychologische-beratung/paarberatung.html"
+    - "/psychologische-beratung/klangschalenmassage.html"
 ---
 
-# Paarberatung am IFGE
+# Klangschalenmassage mit Silvia Podlisca
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
 
-{{< line icon="icon/paar_tuerkis.png" >}}
+{{< line icon="icon/klangschale.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/paarberatung_wien.jpg" float="left" title="Zumeist ist das was uns zu Beginn an der anderen Welt so fasziniert hat, die größte Herausforderung in der Beziehung. Wenn die Beziehung gelingen soll, muss jeder dem anderen ein Stück entgegengehen und somit Gewohntes hinter sich lassen. Dies ist häufig mit schlechtem Gewissen der eigenen Familie gegenüber verbunden. Wie aus zwei unterschiedlichen Herkunftsystemen ein neues, eigenes System – frei von Gewissensbindungen an die eigene Familie – wird, kann in einer Paarberatung herausgefunden werden. Ebenso können aber auch Sexualthemen wie zum Beispiel unterschiedliche Bedürfnisse oder unterschiedliches Lustempfinden thematisiert werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Paarberatung und Paar - Sexualberatung an." >}} 
+{{< image src="/img/ks_2021_1.jpg" float="left" title="Klangschalen wirken auf Körper, Geist und Seele">}} 
 
-Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner\*innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. <br/> <br/>Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner\*innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner\*innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
+Klangschalenbehandlungen überzeugen durch ihre harmonisierende, wohltuende Wirkung. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt. Häufig wird die Klangschalenmassage im Wellnessbereich angewandt, zum Entspannen und Krafttanken. Dies ist jedoch nur ein ausgewählter Bereich und es wäre schade, die Arbeit darauf zu beschränken. 
 
-Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
+Meine Erfahrung zeigt, dass die Klangschalenbehandlung in einem [Beratungsprozess](https://www.ifge.at/psychologische-beratung/einzelberatung/) oftmals große Wirkung zeigt. Insbesondere in der [systemischen Arbeit](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/), bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen? 
 
 {{% /floatbox %}}
 
@@ -45,35 +44,71 @@ Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **onli
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
 {{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
-{{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
+
 {{< /iconmenu >}}
 
-{{< line icon="icon/paar_tuerkis.png" >}}
+{{< line icon="icon/klangschale.png" >}}
 
 {{% floatbox %}}
 
+{{< image src="/img/ks_2021_2.jpg" float="right" title="Klangschalen">}} 
 
-Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
+Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns. 
+
+In unseren Zellen haben wir jede unserer guten – aber auch jede unserer belastenden – Erfahrungen gespeichert. Nicht nur die persönlichen Erfahrungen sondern auch über die Ebene des kollektiven Bewusstseins, der sogenannten Familienseele, die unserer Vorfahren. Dieses Feld wird sehr genau von der [Epienetik](https://www.ifge.at/blog/epigenetik/) erforscht. Dieses kollektive Bewusstsein ist Teil jeder bzw. jedes Einzelnen von uns und steht sozusagen über dem persönlichen Erleben. So kommt es, dass wir persönlich oft Dinge wollen, diese sich aber nicht umsetzen lassen, da das Vorhaben nicht im Einklang mit der Familienseele steht.
+
+{{< line icon="icon/klangschale.png" >}}
+
+## Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können Lösungen beginnen.
+
+Bei einem mit Klangschalen unterstützten Beratungsprozess wird eine belastende Situation besprochen und genau dort, wo im Moment die größte Belastung ist, wird das Gespräch unterbrochen und ca. 20 Minuten mit den Klangschalen gearbeitet. Sie als Klient\*in bleiben in dieser Zeit innerlich mit Ihrem Anliegen verbunden. Durch die Vibration und den Klang (der erst im Ohr entsteht und somit für jeden Menschen einzigartig ist) entsteht im Körper Bewegung, wodurch sich die Starre verändert und andere Blickwinkel sowie Einsichten möglich werden.
+
+Die Schwingungen der Klangschalen können lockern, was sich tief in unserem Körper festgesetzt hat. Wenn man manchmal mit Worten nicht weiterkommt, kann die Arbeit am Körper Themen lösen und in Gang bringen, die dann wieder mit anderen Behandlungsmethoden weiterverfolgt werden können.
+
+Ein Vorteil dieser Variante ist, dass Sie mit der größten Belastung umzugehen lernen, ohne in destruktive Verhaltensmuster zu fallen. Die Blockaden wandeln sich sogar Schritt für Schritt in Kraft um. 
+
+Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die Klangschalenmassage zu stabilisieren. Hier bleiben Sie als Klient\*in während der Klangschalenmassage innerlich mit der Lösung verbunden. Dies bewirkt, dass die gewünschte Veränderung verinnerlicht und im Körper verankert wird.
+
+{{< line icon="icon/klangschale.png" >}}
+
+## Anwendungsgebiete
+
+* bei großer Anspannung und Stress
+* um eine Verbindung zwischen Verstand und Gefühl herzustellen
+* Aufarbeitung belastender Situationen
+* zur Stabilisierung erreichter Ziele
+* bei Muskelverspannungen und Schmerzen
+* Venenleiden
+* Durchblutungsstörungen
+* nach Geburten
+* Schlafstörungen
+* zur Schmerzbehandlung von chronischen Schmerzen
+* bei körperlichen Symptomen mit oder ohne medizinischen Befund
+
+... und vielem mehr!
+
+{{% /floatbox %}}
 
 
-### PAARBERATUNG  MIT SILVIA PODLISCA UND MARTIN BRANSKY
+{{< line icon="icon/info_tuerkis.png" >}}
 
-Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologischen Berater Martin Bransky in Anspruch genommen werden. Die Möglichkeit, Ihren Beratungsprozess von einem männlichen Berater und einer weiblichen BeraterIn gleichzeitig begleiten zu lassen, bietet für Sie zusätzliche Vorteile, die besonders in festgefahren scheinenden Problembereichen für eine rasche Entspannung Ihrer Situation sorgen. Durch die volle Aufmerksamkeit zweier gegengeschlechtlicher BeraterInnen ist sowohl die männliche als auch die weibliche Sicht in Ihrem Beratungsprozess vertreten, wodurch bestehende und destruktive Verhaltensmuster besonders rasch sichtbar und damit bearbeitbar gemacht werden können. Sie erhalten Feedback von zwei professionellen BeraterInnen und erleben dadurch, dass sich jeder Teil des Paares in seiner bzw. ihrer Rolle wahrgenommen fühlt. Denn häufig fällt es Menschen leichter, sich in der Anwesenheit eines bzw. einer gleichgeschlechtlichen BeraterIn zu öffnen, wodurch Ihr Beratungsprozess von Ihnen beiden besonders konstruktiv genutzt werden kann.
+{{% box blue=1 %}}
+{{% small  %}}
+## Hier finden Sie ausführliche Informationen über:
+{{% /small  %}}
+{{% /box %}}
 
-{{< line icon="icon/paar_tuerkis.png" >}}
+{{< iconmenu >}}
+{{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
+{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
+{{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
+{{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
+{{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
+{{< /iconmenu >}}
 
-### SYSTEMISCHE BETRACHTUNGSWEISE
 
-Aus systemischer Sicht sucht der Mann die Frau und die Frau den Mann, um den fehlenden Teil zu finden und dadurch ganz zu werden. Selbstverständlich kann auch das Singledasein für Klient\*innen als erfüllend empfunden und in vollen Zügen genossen werden. In der Systemik geht es jedoch darum, zu versuchen, die Bindung und (sexuelle) Anziehung zwischen Mann und Frau – oder zwischen gleichgeschlechtlichen Paaren – zu erklären. Wir finden alle die Partner\*innen, welche uns nicht nur als Person vervollständigen, sondern auch unser gesamtes Familiensystem komplettieren. Es ziehen sich sozusagen Menschen mit ähnlichen Familiengeschichten an. 
+{{% floatbox %}}
 
-
-Oftmals aber in genau unterschiedlichen Richtungen – etwa wenn sich [Opfer](/psychologische-beratung/spezialisierungen/opferberatung/) bewusst [Täter\*innen](/psychologische-beratung/spezialisierungen/taeterberatung/) in ihr Leben holen – oder eben umgekehrt. Dies liegt daran, dass eine wichtige Regel in der Systemik lautet: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ – sozusagen als Grundrecht. Wird dieses Recht verwehrt (was oft aus moralischer Sicht auf den ersten Blick nachvollziehbar ist), wird das, was ausgeschlossen wurde, in den nachfolgenden Generationen wieder – abgeschwächt im Schicksal – hereingeholt. Das bedeutet, wenn es etwa in einem System einen Machtkampf zu bewältigen gilt, benötigt es einen Mächtigen und jemand, der weniger stark – also untergeordnet – ist. Der Krieg unserer  (Ur)Großelterngeneration geht sozusagen im Beziehungsstreit – oftmals über Generationen hinweg – weiter.
-
-Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, wenn wir das Beziehungsmodell unserer Eltern als unpassend empfinden, fühlen wir uns Jahre später in ähnlichen Beziehungsmustern „gefangen“.
-
-Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Beziehung so gestalten, wie es für Sie beide am besten dienlich ist – frei von übernommen Altlasten und (oft heimlich) schlechtem Gewissen gegenüber Ihren Eltern. 
-
-Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbsterfahrung/familienaufstellung/).
 
 {{% /floatbox %}}
 
@@ -102,6 +137,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
+
 ## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
