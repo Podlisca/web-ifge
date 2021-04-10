@@ -31,7 +31,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/ausbildung_teambuilding.jpg" title="Lernen Sie als Coach wie Sie Teamspiele psychologisch betrachten und wie Sie das Beobachtete nutzbar für vertiefende, zielbringende Interventionen machen können." float="left">}}
+{{< image src="/img/team_6.jpg" title="Lernen Sie als Coach wie Sie Teamspiele psychologisch betrachten und wie Sie das Beobachtete nutzbar für vertiefende, zielbringende Interventionen machen können." float="left">}}
 
 **Methodenschwerpunkt:** viele Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
 
