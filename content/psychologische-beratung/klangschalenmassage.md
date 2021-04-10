@@ -90,46 +90,7 @@ Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die
 {{% /floatbox %}}
 
 
-{{< line icon="icon/info_tuerkis.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
-## Hier finden Sie ausführliche Informationen über:
-{{% /small  %}}
-{{% /box %}}
-
-{{< iconmenu >}}
-{{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
-{{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
-{{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
-{{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
-{{< /iconmenu >}}
-
-
-{{% floatbox %}}
-
-
-{{% /floatbox %}}
-
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/aufstellung_noe_1.jpg" title="Bei Familienaufstellungen wird jeder wird gesehen und hat jeder das gleiche Recht auf Zugehörigkeit" >}}
-
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/aufstellung_noe1.jpg" title="Erst wenn jedes Familienmitglied dazugehören darf, hat jeder die größte Kraft und Würde." >}}
-
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/brett_2.jpg" title="Aufstellungen am Systembrett oder Familienbrett bringen tiefgreifende Erfahrungen und ermöglicht Schweres gut in das Leben zu integrieren" >}}
-
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/systembrett_noe.jpg" title="Übernommene Gefühle, wie zum Beispiel Trauer, kann zum Ursprung zurückfließen und muss nicht mehr getragen werden. Dadurch gewinnen alle an Kraft und Würde." >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 
 
