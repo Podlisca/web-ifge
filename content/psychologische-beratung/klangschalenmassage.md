@@ -90,10 +90,6 @@ Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die
 {{% /floatbox %}}
 
 
-
-
-
-
 {{% floatbox %}}
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
