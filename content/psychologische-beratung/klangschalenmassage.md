@@ -39,6 +39,7 @@ Meine Erfahrung zeigt, dass die Klangschalenbehandlung in einem [Beratungsprozes
 {{% /box %}}
 
 {{< iconmenu >}}
+{{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
 {{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
 {{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
 {{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
