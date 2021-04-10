@@ -24,7 +24,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freita
 
 **Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
 
-Aufgrund der aktuellen Covid Situation werden die nächsten Familienaufstellungen **voraussichtlich im Mai 2021** stattfinden. 
+Aufgrund der aktuellen Covid Situation werden die nächsten Familienaufstellungen **voraussichtlich im September 2021** stattfinden. 
 
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise/)
 
@@ -38,10 +38,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**28.05.2021** von 14:00 - 20:00 Uhr   
-**16.06.2021** von 14:00 - 20:00 Uhr  
-**25.06.2021** von 14:00 - 20:00 Uhr   
-**30.06.2021** von 09:00 - 15:00 Uhr  
 **29.09.2021** von 09:00 - 15:00 Uhr   
 **09.10.2021** von 10:00 - 16:00 Uhr   
 **17.11.2021** von 09:00 - 15:00 Uhr   
@@ -58,8 +54,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**15.06.2021** von 14:00 -20:00 Uhr  
-**17.06.2021** von 14:00 -20:00 Uhr  
 **14.09.2021** von 14:00 -20:00 Uhr  
 **05.10.2021** von 14:00 -20:00 Uhr  
 **07.10.2021** von 14:00 -20:00 Uhr  

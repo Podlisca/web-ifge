@@ -60,7 +60,7 @@ In unseren Zellen haben wir jede unserer guten – aber auch jede unserer belast
 
 {{< line icon="icon/klangschale.png" >}}
 
-## Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können Lösungen beginnen.
+## Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können ganzheitliche Lösungen beginnen.
 
 Bei einem mit Klangschalen unterstützten Beratungsprozess wird eine belastende Situation besprochen und genau dort, wo im Moment die größte Belastung ist, wird das Gespräch unterbrochen und ca. 20 Minuten mit den Klangschalen gearbeitet. Sie als Klient\*in bleiben in dieser Zeit innerlich mit Ihrem Anliegen verbunden. Durch die Vibration und den Klang (der erst im Ohr entsteht und somit für jeden Menschen einzigartig ist) entsteht im Körper Bewegung, wodurch sich die Starre verändert und andere Blickwinkel sowie Einsichten möglich werden.
 

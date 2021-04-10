@@ -20,6 +20,8 @@ og_image: "/img/einzel_noe.jpg"
 
 {{% floatbox %}}
 
+## Psychologische Beratung - der Weg in ein erfülltes Leben
+
 {{< image src="/img/einzel_noe.jpg" float="left" title="Wenn Lustlosigkeit, Sinnlosigkeit, Wut, Kummer, Trauer, Sorgen und Ängste Sie ständig begleiten oder Sie nur mehr funktionieren, kann Lebensberatung – psychologische Beratung Sie unterstützen und zu neuer Lebensfreude und Sinnfindung führen. Zum Unterschied zur Psychotherapie verzichtet die Lebensberatung – psychologische Beratung auf Diagnosen da der Mensch und menschliche Zustände nicht als Störung betrachtet werden, sondern als wertvolle Hinweise, die bereits den ersten Schritt in Richtung Lösung verbergen. Dies setzt voraus, dass Sie den Alltag noch meistern können oder bei Bedarf zusätzlich ihren Arzt des Vertrauens einbeziehen. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin ist seit 2o Jahren im psychosozialen Bereich tätig und bieten in Wien, Niederösterreich und Burgenland psychologische Beratungen, Sexualberatung sowie Familienaufstellungen an." >}} 
 
 Die klassische Lebens- und Sozialberatung – auch psychologische Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden.

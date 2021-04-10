@@ -67,7 +67,8 @@ Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist
 Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologische Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologische-beratung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung.html). Nach wie vor ist die ständige Weiterbildung eine Selbstverständlichkeit für mich. 
 <br/>
 <br/>
-Die unterschiedlichsten Schulen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt, und dass jeder Mensch völlig individuell, seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung bei meinen Klient\*innen begleite ich mit viel Freude und Engagement und ich freue mich über jeden Erfolg meiner Klienten\*innen. 
+Meine vielen unterschiedlichen Ausbildungen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt und dass jeder Mensch völlig individuell seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung begleite ich bei meinen Klient\*innen mit viel Freude und Engagement und ich freue mich über jeden Erfolg meiner Klienten\*innen. **Ganz in dem Sinne:** 
+## Das Leben will gelebt werden!
 
 {{% /small  %}}
 {{% /box %}}

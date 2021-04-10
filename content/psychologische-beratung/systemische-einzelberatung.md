@@ -18,6 +18,8 @@ og_image: "/img/systembrett_einzel_noe.jpg"
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
+## Systemische Beratung - ganzheitliche Lösungen mit Weitblick
+
 {{% floatbox %}}
 
 {{< image src="/img/systembrett_einzel_noe.jpg" float="left" title="Systemische Einzelberatung bedeutet, dass Sie im Focus der psychologischen Beratung stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im Zusammenhang mit der Umgebung (Familie, Beruf, Freunde) wirkt, und welche Wechselwirkung im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum." >}} 

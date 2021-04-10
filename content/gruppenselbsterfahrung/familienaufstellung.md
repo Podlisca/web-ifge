@@ -56,7 +56,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG mit Silvia Podlisca
+## FAMILIENAUFSTELLUNG mit Silvia Podlisca - ganzheitliche Lösungen mit Weitblick
 
 {{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
 
@@ -134,7 +134,7 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 
 Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. 
 
-Aufgrund der derzeitigen COVID Situation sind bis April 2021 alle Termine abgesagt. Wir hoffen, dass wir ab Mai 2021 wieder Familienaufstellungen anbieten können. 
+Aufgrund der derzeitigen COVID Situation sind bis August 2021 alle Termine abgesagt. Wir hoffen, dass wir ab Herbst 2021 wieder Familienaufstellungen anbieten können. 
 
 Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
 {{% /small  %}}
