@@ -77,7 +77,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 {{% box more=1 blue=1 %}}
 
 {{< card-more icon="icon/rahmenbed.png" title="Allgemeine Rahnmenbedingungen">}}
-Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf. Preis: € 150,- pro Abend (inkl. 20 % Mwst.). Für IFGE Schüler*innen und Absolventen: der Kursbetrag kann am Supervisionstag vor Ort in bar bezahlt werden.
+Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf. Preis: € 80,- für 4 Stunden / € 160,- für 8 Stunden (inkl. 20 % Mwst.). Für IFGE Schüler*innen und Absolventen: der Kursbetrag kann am Supervisionstag vor Ort in bar bezahlt werden.
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen">}} 
