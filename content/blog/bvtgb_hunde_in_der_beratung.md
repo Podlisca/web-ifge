@@ -1,6 +1,6 @@
 ---
 title: "Warum ein Therapiehund andere Aufgaben hat als ein Hund in der Therapie oder in der Beratung"
-draft: true
+draft: false
 tags: []
 weight: 110
 
