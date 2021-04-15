@@ -5,7 +5,7 @@ tags: []
 weight: 110
 
 img: "tiergestuetzt_2021.jpg"
-og_image: "tiergestuetzt_2021.jpg"
+og_image: "/img/tiergestuetzt_2021.jpg"
 description: "Tierische Therapeuten? Oder doch Therapeut*innen mit Hund? Gibt es hier einen Unterschied? Ja, den gibt es, und zwar einen sehr großen noch dazu. Gerade Menschen, die ein tiergestütztes Angebot aufsuchen oder Tiere in psychosoziale Prozesse einbauen wollen, sollten diesen Unterschied kennen."
 ---
 **Tierische Therapeuten? Oder doch Therapeut\*innen mit Hund? Gibt es hier einen Unterschied? Ja, den gibt es, und zwar einen sehr großen noch dazu. Gerade Menschen, die ein tiergestütztes Angebot aufsuchen oder Tiere in psychosoziale Prozesse einbauen wollen, sollten diesen Unterschied kennen.**
