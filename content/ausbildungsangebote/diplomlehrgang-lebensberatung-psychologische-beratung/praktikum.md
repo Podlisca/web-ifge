@@ -47,6 +47,17 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 
 Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von **mindestens 30 Stunden nachzuweisen**. [Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen](/about/ifge_selbsterfahrung/).
 
+{{< line icon="icon/beratung.png" >}}
+
+## Prkatiukumspläte für psychologische Beratungen ab dem 5. Ausbildungssemester 
+
+Ab dem 5. Ausbildungssemester kann man sich als Berater\*in für unser Projekt melden. [Infos herunterladen](/downloads/flyer_prakitumsplaetze.pdf)
+
+
+
+***
+
+
 {{% box top-align=1 %}}
 {{% small  %}}
 #### IFGe Software - Praktkum
