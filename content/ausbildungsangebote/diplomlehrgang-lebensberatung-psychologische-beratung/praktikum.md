@@ -49,7 +49,7 @@ Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesge
 
 {{< line icon="icon/beratung.png" >}}
 
-## Prkatiukumspläte für psychologische Beratungen ab dem 5. Ausbildungssemester 
+## Praktikumsplätze für psychologische Beratungen ab dem 5. Ausbildungssemester 
 
 Ab dem 5. Ausbildungssemester kann man sich als Berater\*in für unser Projekt melden. [Infos herunterladen](/downloads/flyer_prakitumsplaetze.pdf)
 
