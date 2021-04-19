@@ -32,6 +32,18 @@ weight: 3
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
+#### Termine folgen
+
+
+
+
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+
 #### Intensiv Ausbildung: 09.08.2021
 
 **Montag:** 09.08.2021<br/>
@@ -42,25 +54,6 @@ weight: 3
 **Samstag:** 14.08.2021<br/>
 
 jeweils von von 09:00 bis 18:00 Uhr
-
-[Anmeldung](/anmeldung.php)
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
-
-#### 02. Jänner 2021
-
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 18:00 Uhr<br/>
-
-**AUSGEBUCHT**
-
-**Modul 1:** 06.03. und 07.03.2021<br/>
-**Modul 2:** 27.03. und 28.03.2021<br/>
-**Modul 3:** 08.05. und 09.05.2021<br/>
 
 [Anmeldung](/anmeldung.php)
 
