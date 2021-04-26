@@ -43,9 +43,9 @@ Schließlich geht es in erster Linie immer um das Wohl der Klient*innen und dami
 
 Konkret bedeutet das aus meiner langjährigen Erfahrung heraus, dass sich in vielen Fällen das folgende Vorgehen der kombinierten Methode aus Klangschalen-Körperarbeit und psychosozialer Gesprächsführung ideal eignet:
 
-•	Schritt 1: Klient*innen sammeln durch die entspannende und erholsame Wirkung der Klangschalenarbeit Kraft und Energie.
-•	Schritt 2: In diesem kraftvollen Zustand fällt es Klient*innen oft besonders leicht, in einem unterstützten Gesprächsprozess wirksame neue Strategien und Handlungsmöglichkeiten zu entwickeln.
-•	Schritt 3: Im weiteren werden diese neu erlernten Handlungsmuster durch die Körperarbeit mit den Klangschalen ganzheitlich verinnerlicht, so dass es Klient*innen noch leichter fällt, die erarbeiteten Strategien im Außen anzuwenden. 
+•	Schritt 1: Klient*innen sammeln durch die entspannende und erholsame Wirkung der Klangschalenarbeit Kraft und Energie. <br/>
+•	Schritt 2: In diesem kraftvollen Zustand fällt es Klient*innen oft besonders leicht, in einem unterstützten Gesprächsprozess wirksame neue Strategien und Handlungsmöglichkeiten zu entwickeln. <br/>
+•	Schritt 3: Im weiteren werden diese neu erlernten Handlungsmuster durch die Körperarbeit mit den Klangschalen ganzheitlich verinnerlicht, so dass es Klient*innen noch leichter fällt, die erarbeiteten Strategien im Außen anzuwenden. <br/>
 •	Schritt 4: Auch hier sollte die Verantwortung seitens der Anwender*innen nicht alleine auf die Klangschale ausgelagert werden. Ganzheitliche Erarbeitung neuer Handlungsmuster heißt auch, abschließend in einem professionellen Gesprächsprozess, das seitens der Klient*innen Gespürte und Erfahrene mit ihnen prozessdienlich zu evaluieren. 
 
 ### Sie möchten das volle Potenzial der Klangschale selbst in Ihr Portfolio aufnehmen?
