@@ -115,10 +115,10 @@ Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs LSB 16 in Wien ausgebucht
 
 Freitags von 14:00 bis 20:00 Uhr
 
-**Ausgebucht**
+**wieder ein Platz frei geworden**
 
 
-[Warteliste](/anmeldung.php)
+[ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
 
