@@ -1,6 +1,6 @@
 ---
 title: "Klangschalen bieten mehr als nur Wellness – wenn man weiß, wie!"
-draft: true
+draft: false
 tags: []
 weight: 111
 
