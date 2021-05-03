@@ -456,13 +456,6 @@ main ul li:nth-child(even) {
     /* so the text is still selectable */
 }
 
-
-/* Blauer Deckgrund für blaue Boxen */
-
-.box.blue.box.more .card:not(.show) .text:after {
-    background: linear-gradient(to bottom, rgba(230, 244, 244, 0) 60%, rgba(230, 244, 244, 1) 90%);
-}
-
 .card .text {
     transition: max-height 300ms;
 }
