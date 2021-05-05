@@ -38,11 +38,26 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**29.09.2021** von 09:00 - 15:00 Uhr   
+**11.09.2021** von 10:00 - 16:00 Uhr   
+**29.09.2021**	von 09:00 - 15:00 Uhr   
 **09.10.2021** von 10:00 - 16:00 Uhr   
-**17.11.2021** von 09:00 - 15:00 Uhr   
-**15.12.2021** von 09:00 - 15:00 Uhr   
+**17.11.2021**	von 09:00 - 15:00 Uhr   
+**24.11.2021**	von 09:00 - 15:00 Uhr   
+**01.12.2021**	von 09:00 - 15:00 Uhr   
+**15.12.2021**	von 09:00 - 15:00 Uhr   
 **18.12.2021** von 10:00 - 16:00 Uhr   
+**12.01.2022**	von 09:00 - 15:00 Uhr   
+**15.01.2022** von 10:00 - 16:00 Uhr   
+**29.01.2022** von 10:00 - 16:00 Uhr   
+**16.02.2022**	von 09:00 - 15:00 Uhr   
+**30.03.2022**	von 09:00 - 15:00 Uhr   
+**27.04.2022**	von 09:00 - 15:00 Uhr   
+**04.05.2022**	von 09:00 - 15:00 Uhr   
+**15.06.2022**	von 09:00 - 15:00 Uhr   
+**07.09.2022**	von 09:00 - 15:00 Uhr   
+**05.10.2022**	von 09:00 - 15:00 Uhr   
+**21.12.2022**	von 09:00 - 15:00 Uhr   
+
 
 
 [Anmeldung](/anmeldung.php)
@@ -54,13 +69,18 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**14.09.2021** von 14:00 -20:00 Uhr  
-**05.10.2021** von 14:00 -20:00 Uhr  
-**07.10.2021** von 14:00 -20:00 Uhr  
-**02.11.2021** von 14:00 -20:00 Uhr  
-**16.12.2021** von 14:00 -20:00 Uhr  
-**18.01.2022** von 14:00 -20:00 Uhr  
-**27.01.2022** von 14:00 -20:00 Uhr  
+**14.09.2021**	von 14:00 - 20:00 Uhr   
+**09.09.2021**	von 14:00 - 20:00 Uhr   
+**16.09.2021**	von 14:00 - 20:00 Uhr   
+**21.09.2021**	von 14:00 - 20:00 Uhr   
+**05.10.2021**	von 14:00 - 20:00 Uhr   
+**07.10.2021**	von 14:00 - 20:00 Uhr   
+**02.11.2021**	von 14:00 - 20:00 Uhr   
+**16.12.2021**	von 14:00 - 20:00 Uhr   
+**18.01.2022**	von 14:00 - 20:00 Uhr   
+**27.01.2022**	von 14:00 - 20:00 Uhr   
+**01.02.2022**	von 14:00 - 20:00 Uhr   
+
 
 [Anmeldung](/anmeldung.php)
 
