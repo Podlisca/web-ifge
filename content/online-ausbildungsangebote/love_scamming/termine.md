@@ -29,7 +29,7 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: 13. November 2020 - ausgebucht
+#### Start: 22. Oktober 2021 
 
 Die Ausbildung umfasst 6 Ausbildungststunden.<br/>
 
@@ -37,7 +37,7 @@ Seminarzeit 14:00 bis 20:00 Uhr.<br/>
 
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1: 13.11.2020** <br/>
+**Modul 1: 22.10.2021** <br/>
 
 [Anmeldung](/anmeldung.php)
 
