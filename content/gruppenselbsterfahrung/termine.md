@@ -90,7 +90,15 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **16.12.2021**	von 14:00 - 20:00 Uhr   
 **18.01.2022**	von 14:00 - 20:00 Uhr   
 **27.01.2022**	von 14:00 - 20:00 Uhr   
-**01.02.2022**	von 14:00 - 20:00 Uhr   
+**01.02.2022**	von 14:00 - 20:00 Uhr  
+**08.03.2022**	von 14:00 - 20:00 Uhr  
+**26.04.2022**	von 14:00 - 20:00 Uhr   
+**24.05.2022**	von 14:00 - 20:00 Uhr   
+**06.09.2022**	von 14:00 - 20:00 Uhr   
+**18.10.2022**	von 14:00 - 20:00 Uhr   
+**22.11.2022**	von 14:00 - 20:00 Uhr   
+
+
 
 
 [Anmeldung](/anmeldung.php)
