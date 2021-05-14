@@ -44,18 +44,13 @@ weight: 3
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-#### Intensiv Ausbildung: 09.08.2021
+#### Termine folgen
 
-**Montag:** 09.08.2021<br/>
-**Dienstag:** 10.08.2021<br/>
-**Mittwoch:** 11.08.2021<br/>
-**Donnerstag:** 12.08.2021<br/>
-**Freitag:** 13.08.2021<br/>
-**Samstag:** 14.08.2021<br/>
 
-jeweils von von 09:00 bis 18:00 Uhr
 
-[Anmeldung](/anmeldung.php)
+
+
+
 
 {{% /small  %}}
 {{% small  %}}
