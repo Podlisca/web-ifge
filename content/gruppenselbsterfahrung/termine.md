@@ -112,13 +112,25 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
+**Dreitagesaufstellung: 19.11. - 21.11.2021**<br/>				
+Fr. von 14:00 - 20:00 Uhr, <br/>				
+Sa. u.So. von 09:00 - 18:00 Uhr 				
+
 **Dreitagesaufstellung: 25.03. - 27.03.2022**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
+**Dreitagesaufstellung: 22.04. - 24.04.2022**<br/>				
+Fr. von 14:00 - 20:00 Uhr, <br/>				
+Sa. u.So. von 09:00 - 18:00 Uhr 				
+
 **Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
+
+**13.11.2022**	von 10:00 - 16:00 Uhr   
+**20.11.2022**	von 10:00 - 16:00 Uhr   
+
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
