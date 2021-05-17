@@ -63,10 +63,15 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 W
 {{% box blue=1 %}}
 {{% small  %}}
 
-## Allgemeine Geschäftsbedingungen
+## Allgemeine Geschäftsbedingungen / Ablauf
 
 Die Ausbildung ist nur komplett zu buchen.
  
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen.
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. 
+
+Sie erhalten rechtzeitig eine E-Mail mit den Zugangsdaten für die Onlineschulung. 
+
+Bitte sorgen Sie für eine stabile Internetverbindung sowie die Sicherstellung der technischen Voraussetzungen. Bei Internetausfall oder Verbindungsproblemen auf Ihrem Endgerät übernehmen wir keine Haftung und nehmen keine Rücküberweisungen des Webinarbeitrags vor. Weiters weisen wir darauf hin, dass Mittschnitt und Aufnahme des Webinars verboten sind.
+
 {{% /small  %}}
 {{% /box %}}

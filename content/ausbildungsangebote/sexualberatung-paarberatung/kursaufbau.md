@@ -31,6 +31,7 @@ weight: 1
 * Sexuelle Identitäten und Orientierungen
 * Intimität und Nähe
 * Sexuelle Gewalt: Opfer und Täterarbeit
+* Opfer- & Täterhaltungen
 * Erlaubnis gebende Interventionen zur Lustfindung
 * Traumaaufstellung  (nach Ruppert)
 * Aufstellungen mit Seelenanteilen
@@ -41,12 +42,10 @@ weight: 1
 * Verpönte Sexualität (Behinderung, Alter)
 * Sexuelle Gesundheit in einer Beziehung
 * Grundlagen der Paarberatung
-* Sexualberatung für Paare nach Ulrich Clement
 * Lust-Verlust & Lust Gewinnung
 * Phantasien, Wünsche, Bedürfnisse
 * Machtspiele in Beziehungen
-* Verhütung / Sterilisation
-* Abtreibung
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## PRÜFUNG
