@@ -39,6 +39,9 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 3:** 29.10.2021<br/>
 **Modul 4:** 26.11.2021<br/>
 
+jeweils von 09:00 bis 18:00 Uhr.
+
+
 Zwischen den Modulen erhalten Sie kleine Trainingsaufgaben. 
 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) und [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
