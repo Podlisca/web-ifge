@@ -83,7 +83,7 @@ Mit meinem Organisationstalent übernehme ich alle anstehenden Aufgaben stets fr
 
 {{< image src="/img/dani.jpg"title="Daniela Jordan bereitet alle Unterlagen grafisch so auf, dass das Lernen ein Genuß ist." float="left" >}}
 
-Daniela Jorden ist für die grafische Aufarbeitung aller Lernunterlagen sowie die Gestaltung der IFGE Newlsletter und Wartung der IFGE Website verantwortlich. 
+Daniela Jordan ist für die grafische Aufarbeitung aller Lernunterlagen sowie die Gestaltung der IFGE Newlsletter und Wartung der IFGE Website verantwortlich. 
 
 {{% /box %}}
 
