@@ -41,7 +41,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 
 Zwischen den Modulen erhalten Sie kleine Trainingsaufgaben. 
 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) und [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
