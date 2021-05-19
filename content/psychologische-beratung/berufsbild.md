@@ -25,6 +25,7 @@ rich_faq:
     -   frage: "Dürfen Lebens-und Sozialberater auch Sexual- und Paarberatung anbieten?"
         antwort: "Der Bereich der Sexualberatung ist eine wesentliche Säule der psychologischen Beratung, weil er vielen Menschen überhaupt erst ermöglicht, in einem geschützten, wertfreien und sicheren Rahmen über intime Anliegen zu sprechen."
 
+
 ---
 
 # Machen Sie sich ein Bild über Ihre Zukunft als Lebensberater*in

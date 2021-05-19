@@ -18,10 +18,7 @@ rich_faq:
         antwort: "Supervisoren und Supervisorinnen besprechen mit angehenden KollegInnen Fälle, und supervidieren diese hinsichtlich ihrer Beratungs- und Methodenkompetenz."
     -   frage: "Wer darf angehende KollegInnen supervidieren?"
         antwort: "Lebens- und SozialberaterInnen dürfen neben einer aufrechten Gewerbeberechtigung und einem Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung) angehende KollegInnen supervidieren. Diese 100 Stunden sind mit unserem Lehrgang am IFGE zur Gänze abgedeckt."
-    -   frage: "Wofür brauche ich die Ausbildung zum Supervisor?"
-        antwort: "Das Ziel der Zusatzausbildung zum/r Supervisor*in am IFGE ist, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als Expert*in bei allen beruflichen Herausforderungen beratend zur Seite stehen können. Als SupervisorIn erweitern Sie Ihr berufliches Angebot um eine besonders in der Lebens- und Sozialberatung – psychologischen Beratung sehr wichtige Komponente. Die ausgewählten Inhalte des LSB-Upgrades reichen von den Grundlagen der Lehrsupervision über die speziellen Ansprüche an ein Mehrpersonensetting bis hin zu Lösungswegen aus Teamkrisen. Wir bereiten Sie darüber hinaus ideal auf Organisationsberatung, systemische Supervision und betriebsrelevante Themen wie sexuelle Belästigung und Probleme in Teams vor."
-   -   frage: "Was bietet der Lehrgang zum/zur SupervisorIn am IFGE?"
-        antwort: "Die Inhalte unseres Upgrades am IFGE umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen. Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere durch praktische Übungssequenzen ausgebaut und gestärkt. Häufige Themen und Fragestellungen in der Supervision werden erarbeitet, um angehende Kolleg*innen sicher und kompetent begleiten und unterstützen zu können."
+
 
 
 ---
