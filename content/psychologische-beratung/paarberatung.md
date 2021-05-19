@@ -17,7 +17,7 @@ rich_faq:
         antwort: "Der Bereich der Sexualberatung ist eine wesentliche Säule der psychologischen Beratung, weil er vielen Menschen überhaupt erst ermöglicht, in einem geschützten, wertfreien und sicheren Rahmen über intime Anliegen zu sprechen."
     -   frage: "Brauche ich eine spezielle Ausbildung um als Lebens-und Sozialberater Sexualberatung- und Paarberatung anbieten zu dürfen?"
         antwort: "Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberatung – psychologischen Beratung ein besonderes Hauptaugenmerk auf die Besonderheiten und Interventionsmöglichkeiten in der Paar- und Sexualberatung gelegt wird, können im Rahmen der Gesamtausbildung bestimmte vertiefende Themen dennoch nur im Überblick für die reguläre Arbeit in der psychologischen Beratung behandelt werden. Wer sich später auf das Thema „Sexualberatung“ spezialisieren und das in der Grundausbildung erlernte Wissen vertiefen sowie erweitern möchte, der hat dazu in unserem Upgrade die Möglichkeit."
-    -   frage: "Für wen eignet sich die Ausbildung zur Sexual-und Paarberatung?"
+    -   frage: "Für wen eignet sich die Ausbildung Sexual-und Paarberatung?"
         antwort: "Die Fortbildung eignet sich für alle diplomierten oder sich in Ausbildung befindlichen psychologischen Berater*innen anderer Ausbildungsinstitute, die ihre Interventionsmöglichkeiten vertiefen möchten."
 
 ---
