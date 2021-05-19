@@ -8,6 +8,16 @@ draft: false
 weight: 7
 description: "Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche"
 og_image: "/img/lsb_info_noe.jpg"
+
+rich_faq:
+    -   frage: "Was machen Lebens-und Sozialberater?"
+        antwort: "Als Lebens- und Sozialberater*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist"
+    -   frage: "Mit wem arbeiten Lebens- und Sozialberater?"
+        antwort: "Als Lebens- und Sozialberater*in arbeiten Sie mit Einzelpersonen, Paaren und/oder Gruppen"
+    -   frage: "Dürfen Lebensberater auch online Beratungen anbieten?"
+        antwort: "Beratungseinheiten können sowohl vor Ort als auch online stattfinden."
+    -   frage: "Wird mein persönliches Anliegen vertrauelich behandelt?"
+        antwort: "Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt."
 ---
 
 # Machen Sie sich ein Bild über Ihre Zukunft als Lebensberater*in

@@ -9,6 +9,13 @@ weight: 7
 description: "Im Workshop „Fit and safe – ganz sicher Spaß haben“ geht es dabei aber keinesfalls darum, dir den Spaß am Fortgehen und Partys, am Chatten, an deinen TikTok- und YouTube-Videos oder am Fotoversand via WhatsApp zu verderben. Im Gegenteil: Ziel ist es, dass du nach diesem Online-Kurs auf der sicheren Seite Spaß haben kannst."
 og_image: "/img/fit_safe_maedchen.jpg"
 rich_kurs: true
+
+rich_faq:
+    -   frage: "Wie kann ich mein Kind vor Gefahren im Netz schützen?"
+        antwort: "Damit aus Spaß kein ungewollter Ernst wird, braucht es jedoch eine Menge an Wissen rund um die speziellen Gefahren, die im Internet, auf Partys oder beim ersten Treffen mit dem süßen Jungen aus dem Chat lauern können. Im Online-Workshop „Fit and safe – ganz sicher Spaß haben“ geht es dabei aber keinesfalls darum, dir den Spaß am Fortgehen und Partys, am Chatten, an deinen TikTok- und YouTube-Videos oder am Fotoversand via WhatsApp zu verderben. Im Gegenteil: Ziel ist es, dass du nach diesem Online-Kurs auf der sicheren Seite Spaß haben kannst."
+    -   frage: "Wo kann ich Fragen zum Thema Fortgehen, Drogen, Sex, Internet und Alkohol stellen?"
+        antwort: "In unserem Online-Workshop 'Fit & Safe' ist Platz für alle Themen, die dich bewegen und die dir auf der Zunge brennen: Vom Versenden von (sexy) Fotos über K.-Tropfen und Trends sowie Mutproben bis hin zum Fortgehen und zu Drogen. Gleichzeitig kannst dich darauf verlassen, dass alle deine Fragen vertraulich behandelt werden. Nichts von dem, was du wissen willst, dringt nach draußen und wir versprechen dir: Die Antworten werden ehrlich sein.Denn am IFGE vertreten wir die Auffassung: Wissen macht stark, unabhängig und damit sicher. Wer sich sicher fühlt, strahlt auch Sicherheit aus. Und die darf immer oberste Priorität haben – auch wenn es ums Spaßhaben geht.
+        In diesem Workshop geht es also nicht darum, was du NICHT tun sollst, sondern viel mehr zeigen wir dir, WIE du die Dinge tun kannst, um Spaß zu haben und gleichzeitig auf der sicheren Seite zu sein. Außerdem erhältst du neue Erkenntnisse, warum sich Eltern oft so viele Sorgen machen und vermeintlich unfair agieren und du lernst, was du dazu beitragen kannst, um eine vertrauensvolle Beziehung zu deinen Eltern aufzubauen"
 ---
 
 # ONLINE Ausbildung: 

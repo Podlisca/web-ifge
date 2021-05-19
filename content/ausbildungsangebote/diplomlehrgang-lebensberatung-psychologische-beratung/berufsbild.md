@@ -17,7 +17,7 @@ rich_faq:
     -   frage: "Mit welchen Anliegen kann man die psychologische Beratung - Lebens- und Sozialberatung aufsuchen?"
         antwort: "Unter anderem können Klient*innen die Lebens- und Sozialberatung mit Anliegen der  Krisenberatung, Suchtberatung, Burn-out Beratung, Trauerbewältigung, Sexualberatung, gleichgeschlechtliche Liebe, Angehörigenberatung von Opfern und Täter*innen, Stalking, Mobbing"
     -   frage: "Wie lange dauert die Ausbildung zum/zur diplomierten Lebens-und Sozialberater/Lebens-und Sozialberaterin?"
-        antwort: "Die Ausbildung umfasst 584 Ausbildungsstunden auf 5 Semester."
+        antwort: "Die Ausbildung umfasst 584 Ausbildungsstunden (5 Semester)."
     -   frage: "Darf ich als Lebens- und Sozialberaterin Aufstellungen leiten?"
         antwort: "Als Lebens-und Sozialberaterin mit entsprechendem Methodenschwerpunkt zur Aufstellungsarbeit, sind sie berechtigt, nach positivem Abschluss Familienaufstellungen in Österreich zu leiten."
 ---
