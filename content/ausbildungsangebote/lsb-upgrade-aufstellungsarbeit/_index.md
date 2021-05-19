@@ -10,6 +10,21 @@ description: "In unserer sehr praxisnahen Ausbildung zum/zur Aufstellungsleiter/
 og_title: "Fortbildungslehrgang: Aufstellungsarbeit"
 og_image: "/img/aufstellung_noe1.jpg"
 rich_kurs: true
+
+rich_faq:
+    -   frage: "Worauf liegt der Schwerpunkt der Familienaufstellungen am IFGE?"
+        antwort: "Der Schwerpunkt des Upgrades zur Familienaufstellung liegt auf der Familienaufstellung nach Bert Hellinger"
+    -   frage: "Wann kann ich mich in die Expertenliste der Auftsellungsarbeit eintragen lassen?"
+        antwort: "Nach positivem Abschluss unseres Fortbildungslehrgangs für Dipl. Lebens- und Sozialberater*innen – psychologische Berater*innen – am IFGE können Sie sich, bei entsprechender Supervision, in die WKO-Liste der Expert*innen für Aufstellungsarbeit eintragen lassen."
+    -   frage: "Was ermöglichen Familienaufstellungen?"
+        antwort: "Familienstellen hat nicht nur den Einzelnen, sondern das gesamte Familiensystem im Blick und ermöglicht dadurch ganz neue Einblicke sowie Lösungen und kann bei Themen helfen, bei denen man schon lange nach einer positiven Veränderung sucht."
+    -   frage: "Woraus besteht der Unterreicht zum Aufstelllungsleiter am IFGE?"
+        antwort: "Der Unterricht besteht zu einem hohen Anteil aus vielen praktischen Übungseinheiten. Die Theorie wird mittels modernster Präsentationstools – wie unserem Smartboard – sehr interaktiv und lebhaft vermittelt. Alle in den Seminaren erarbeiteten Inhalte stehen Ihnen dank dieser einzigartigen Unterrichtsmethode im Anschluss an jedes Modul als PDF zur Verfügung."
+    -   frage: "Wie lange dauert das Upgrade zum Lehrgang Familienaufstellungen nach Bert Hellinger am IFGE?"
+        antwort: "Das Upgrade umfasst 100 Ausbildungsstunden und wird mit einer praktischen Übung sowie einem fachgespräch abgeschlossen."
+    -   frage: "Was sind die Vorraussetzugen der WKO/Wirtschaftskammer, um in die Expertenliste eingetragen zu werden?"
+        antwort: "Zusätzlich zu den 100 Ausbildungsstunden ist für die Aufnahme in die Expertenliste der WKO/Wirtschaftskammer ein Praktikum im Ausmaß von 40 Stunden im Bereich der Austellungsarbeit erforderlich sowie 5 Einzelsupervisonsstunden (Bestätigung durch eine/n beim Fachverband eingetragene/n Supervisor*in) vorgeschrieben."
+
 ---
 
 # Lsb Upgrade: Aufstellungsarbeit

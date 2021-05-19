@@ -14,6 +14,12 @@ rich_faq:
         antwort: "Psychologische BeraterInnen arbeiten in unterschiedlichen psychosozialen Einrichtungen oder selbstständig in einer eigenen Praxis. Das Arbeitsfeld der psychologischen BeraterInnen ist ein sehr breites und reicht von der Einzelberatung bei belastenden Situationen oder bei Entscheidungsschwierigkeiten über Paar- und Sexualberatung bis hin zu Krisenintervention, Trauerbegleitung oder Coaching."
     -   frage: "Wann entstehen psychische Krankheiten?"
         antwort: "Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen.Lebensberater*innen - psychologische Berater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt."
+    -   frage: "Mit welchen Anliegen kann man die psychologische Beratung - Lebens- und Sozialberatung aufsuchen?"
+        antwort: "Unter anderem können Klient*innen die Lebens- und Sozialberatung mit Anliegen der  Krisenberatung, Suchtberatung, Burn-out Beratung, Trauerbewältigung, Sexualberatung, gleichgeschlechtliche Liebe, Angehörigenberatung von Opfern und Täter*innen, Stalking, Mobbing"
+    -   frage: "Wie lange dauert die Ausbildung zum/zur diplomierten Lebens-und Sozialberater/Lebens-und Sozialberaterin?"
+        antwort: "Die Ausbildung umfasst 584 Ausbildungsstunden auf 5 Semester."
+    -   frage: "Darf ich als Lebens- und Sozialberaterin Aufstellungen leiten?"
+        antwort: "Als Lebens-und Sozialberaterin mit entsprechendem Methodenschwerpunkt zur Aufstellungsarbeit, sind sie berechtigt, nach positivem Abschluss Familienaufstellungen in Österreich zu leiten."
 ---
 
 # Diplomlehrgang Lebensberatung - psychologische Beratung
