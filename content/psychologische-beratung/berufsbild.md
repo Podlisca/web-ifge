@@ -16,8 +16,15 @@ rich_faq:
         antwort: "Als Lebens- und Sozialberater*in arbeiten Sie mit Einzelpersonen, Paaren und/oder Gruppen"
     -   frage: "Dürfen Lebensberater auch online Beratungen anbieten?"
         antwort: "Beratungseinheiten können sowohl vor Ort als auch online stattfinden."
-    -   frage: "Wird mein persönliches Anliegen vertrauelich behandelt?"
+    -   frage: "Wird mein persönliches Anliegen in der Lebensberatung vertraulich   behandelt?"
         antwort: "Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt."
+    -   frage: "Was ist psychologische Beratung - Lebens- und Sozialberatung?"
+        antwort: "Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen.Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir am IFGE auch, dass aufgrund langjähriger Erfahrung und zahlreicher Zusatzausbildungen ein Mix aus unterschiedlichsten psychologischen Methoden ermöglicht wird, der somit die absolut individuelle Begleitung Ihres Prozesses sichert."
+    -   frage: "Welche Bereiche umfasst die Lebens-und Sizialberatung?"
+        antwort: "Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - psychologischen Beratung zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können."
+    -   frage: "Dürfen Lebens-und Sozialberater auch Sexual- und Paarberatung anbieten?"
+        antwort: "Der Bereich der Sexualberatung ist eine wesentliche Säule der psychologischen Beratung, weil er vielen Menschen überhaupt erst ermöglicht, in einem geschützten, wertfreien und sicheren Rahmen über intime Anliegen zu sprechen."
+
 ---
 
 # Machen Sie sich ein Bild über Ihre Zukunft als Lebensberater*in
