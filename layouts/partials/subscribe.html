@@ -21,6 +21,8 @@
     .popup-modal {
         min-width: 350px;
         max-width: 100%;
+        max-height: 100vh;
+        overflow-y: scroll;
         background-color: #fff;
         position: fixed;
         left: 50%;
@@ -56,7 +58,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        width: 70px;
+        width: 100px;
     }
 
     h1.popup-modal-title {
@@ -89,55 +91,77 @@
 </style>
 
 <div class="body-blackout">
+</div>
 
-    <div class="popup-modal shadow" data-popup-modal="subscribe">
-        <div class="popup-modal-header">
-            <img src="/img/logo.jpg">
-        </div>
-        <h1 class="popup-modal-title">Newsletter Anmeldung</h1>
-        <div style="padding: 2rem;">
-            Nichts mehr verpassen!<br>
-            Bleiben Sie mit uns up to date und freuen Sie sich über spannende Blog-Themen, Informationen zu neuen
-            Kursen, Veranstaltungen und vieles mehr.
-        </div>
-        <div class="popup-modal-body">
-            <!-- <form action="https://newsletter.cors.online/subscribe" method="POST" accept-charset="utf-8"> -->
-            <form class="formular" id="subscribe-form">
-                <label for="anrede">Anrede</label>
-                <select id="anrede" name="anrede" required>
-                    <option value="" disabled selected>Bitte wählen...</option>
-                    <option>Hr.</option>
-                    <option>Fr.</option>
-                </select>
-                <label for="vorname">Vorname</label>
-                <input type="text" name="vorname" id="vorname" />
-                <label for="nachname">Nachname</label>
-                <input type="text" name="nachname" id="nachname" />
-                <label for="email">E-Mail Adresse</label>
-                <input type="email" name="email" id="email" />
-
-                <div style="display: flex; margin-top: 0.5rem; align-items: baseline;"><input type="checkbox"
-                        id="datenschutz" name="Datenschutzerklärung" value="ja" required>
-                    <div class="disclaimer">
-                        Ich bin mit der Speicherung meiner Daten ausdrücklich einverstanden.*
-                    </div>
-                </div>
-                <input type="submit" class="button" name="submit" id="submit" value="Absenden" />
-                <div class="disclaimer" style="margin-top: 0.5rem;">
-                    *Ich stimme zu, dass meine personenbezogenen Daten - wie in der Datenschutz-Richtlinie beschrieben -
-                    zur
-                    Zusendung und Analyse des E-Mailings verarbeitet werden.
-                    Diese Zustimmung kann ich jederzeit widerrufen.
-                </div>
-                <div style="display:none;">
-                    <label for="hp">HP</label><br />
-                    <input type="text" name="hp" id="hp" />
-                </div>
-                <input type="hidden" name="list" value="W88923wbLV9C5rSZYi8GvwPA" />
-                <input type="hidden" name="subform" value="yes" />
-                <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
-            </form>
-        </div>
+<div class="popup-modal shadow" data-popup-modal="subscribe">
+    <div class="popup-modal-header">
+        <img src="/img/logo.jpg">
+        <a href="javascript:void(0)" class="popup-modal__close"
+            style="right: 0; top: 0; position: absolute; padding: 16px; margin: 10px;">
+            <img src="/img/icon/close.svg">
+        </a>
+    </div>
+    <h1 class="popup-modal-title">Newsletter Anmeldung</h1>
+    <div style="padding: 2rem;">
+        <b>Nichts mehr verpassen!</b><br>
+        Bleiben Sie mit uns up to date und freuen Sie sich über spannende Blog-Themen, Informationen zu neuen
+        Kursen, Veranstaltungen und vieles mehr.
+    </div>
+    <div class="popup-modal-body">
+        <!-- <form action="https://newsletter.cors.online/subscribe" method="POST" accept-charset="utf-8"> -->
+        <form class="formular" id="subscribe-form">
+            <label for="anrede">Anrede</label>
+            <select id="anrede" name="anrede" required>
+                <option value="" disabled selected>Bitte wählen...</option>
+                <option>Hr.</option>
+                <option>Fr.</option>
+            </select>
+            <label for="vorname">Vorname</label>
+            <input type="text" name="vorname" id="vorname" />
+            <label for="nachname">Nachname</label>
+            <input type="text" name="nachname" id="nachname" />
+            <label for="email">E-Mail Adresse</label>
+            <input type="email" name="email" id="email" />
+            <label>Ich interessiere mich für:</label>
+            <label>
+                <input type="checkbox" id="Ausbildungen"name="Ausbildungen" checked> Ausbildungen
+            </label>
+            <label>
+                <input type="checkbox" name="Onlineausbildungen" checked value="true"> Onlineausbildungen
+            </label>
+            <label>
+                <input type="checkbox" name="Familienaufstellung" checked value="true"> Familienaufstellung
+            </label>
+            <label>
+                <input type="checkbox" name="Supervision" checked value="true"> Supervision
+            </label>
+            <label>
+                <input type="checkbox" name="Blogs" checked value="true"> Blogs
+            </label>
+            <label>
+                <input type="checkbox" name="PsychologischeGW" checked value="true"> Psychologische Gesundheit & Wissen
+            </label>
+            <div style="display: flex; margin-top: 0.5rem; align-items: baseline;">
+                <label class="disclaimer">
+                    <input type="checkbox" id="datenschutz" name="Datenschutzerklärung" value="ja" required>
+                    Ich bin mit der Speicherung meiner Daten ausdrücklich einverstanden.*
+                </label>
+            </div>
+            <input type="submit" class="button" name="submit" id="submit" value="Absenden" />
+            <div class="disclaimer" style="margin-top: 0.5rem;">
+                *Ich stimme zu, dass meine personenbezogenen Daten - wie in der Datenschutz-Richtlinie beschrieben -
+                zur
+                Zusendung und Analyse des E-Mailings verarbeitet werden.
+                Diese Zustimmung kann ich jederzeit widerrufen.
+            </div>
+            <div style="display:none;">
+                <label for="hp">HP</label><br />
+                <input type="text" name="hp" id="hp" />
+            </div>
+            <input type="hidden" name="list" value="W88923wbLV9C5rSZYi8GvwPA" />
+            <input type="hidden" name="subform" value="yes" />
+            <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+        </form>
     </div>
 </div>
 <!-- 
@@ -166,7 +190,7 @@
         const values = document.querySelectorAll('#subscribe-form input')
         const formData = new FormData();
         values.forEach(v => {
-            formData.append(v.name, v.value);
+            formData.append(v.name, v.type === "checkbox" ? v.checked : v.value);
         });
         const name = document.getElementById('vorname').value + " " + document.getElementById("nachname").value;
         formData.append("name", name);
@@ -214,6 +238,12 @@
                 bodyBlackout.classList.remove('is-blacked-out')
             })
         })
-    })
+    });
+
+    modalCloseTrigger.addEventListener('click', () => {
+        const popupModal = document.querySelector(`.popup-modal`)
+        popupModal.classList.remove('is--visible')
+        bodyBlackout.classList.remove('is-blacked-out')
+    });
 
 </script>
