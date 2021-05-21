@@ -67,12 +67,12 @@
         margin: 0;
     }
 
-    .popup-modal-body {        
+    .popup-modal-body, .subscribe-response {        
         padding: 5px; 
     }
 
     @media (min-width: 800px) {
-        .popup-modal-body {
+        .popup-modal-body, .subscribe-response {
             padding: 20%;
             padding-top: 1rem;       
         }
@@ -94,6 +94,11 @@
 
     .popup-modal-body .formular label {
         text-align: left;
+    }
+
+    .subscribe-response .button {
+        width: 95%;
+        text-align: center;
     }
 </style>
 
@@ -156,7 +161,7 @@
                     Ich bin mit der Speicherung meiner Daten ausdrücklich einverstanden.*
                 </label>
             </div>
-            <p class="g-recaptcha" data-sitekey="6LfKI-EaAAAAANzbM-n_QGZM4wtZk8dOhYS87v8Y" data-callback="enableBtn"></p><div style="display:none;"></div>
+            <p class="g-recaptcha" data-sitekey="6LfKI-EaAAAAANzbM-n_QGZM4wtZk8dOhYS87v8Y" data-callback="handleResponse"></p><div style="display:none;"></div>
             <input type="submit" class="button" name="submit" id="submitSubscribe" value="Absenden" disabled="true"/>
             <div class="disclaimer" style="margin-top: 0.5rem;">
                 *Ich stimme zu, dass meine personenbezogenen Daten - wie in der Datenschutz-Richtlinie beschrieben -
@@ -171,27 +176,21 @@
             <input type="hidden" name="list" value="W88923wbLV9C5rSZYi8GvwPA" />
             <input type="hidden" name="subform" value="yes" />
             <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
-        </form>
-        <div class="subscribe-response">
-            Vielen Dank!<br>
-            Sie erhalten in Kürze eine Bestätigungsemail zum Abschließen der Anmeldung.
-        </div>
+        </form>        
+    </div>
+    <div class="subscribe-response">
+        Vielen Dank!<br>
+        Sie erhalten in Kürze eine Bestätigungsemail zum Abschließen der Anmeldung.
+        <br><br>
+        <input class="button popup-modal__close" id="close" value="Schließen"/>
     </div>
 </div>
 
 <script>
-    function enableBtn() {
+    function handleResponse(token) {
         const btn = document.getElementById("submitSubscribe");
         btn.disabled = false;
-    }
-
-    function thankyou() {
-        const form = document.getElementById("subscribe-form");
-        const msg = document.createElement("div");
-        msg.className = "msg";
-        msg.innerHTML = "Vielen Dank.<br>Sie erhalten in Kürze eine Bestätigungsemail zum Abschließen der Anmeldung.";
-
-        form.appendChild(msg);
+        document.getElementById("recaptchaResponse").value = token;
     }
 
     function subscribe(e) {
@@ -211,9 +210,10 @@
             method: "POST",
             body: formData
         }).then(res => {
-            console.log("Request complete! response:", res);
             const response = document.querySelector('.subscribe-response');
             response.style.display = "block";
+
+            const body = document.querySelector('.popup-modal-body').style.display = "none";
         });
 
         return false;
@@ -223,13 +223,8 @@
         subscribe(e);
     });
 
-    function showSubscribeForm() {
-        document.getElementById("subscribe").style.display = "block";
-
-    }
-
     const modalTriggers = document.querySelectorAll('.popup-trigger')
-    const modalCloseTrigger = document.querySelector('.popup-modal__close')
+    const modalCloseTrigger = document.querySelectorAll('.popup-modal__close')
     const bodyBlackout = document.querySelector('.body-blackout')
 
     modalTriggers.forEach(trigger => {
@@ -238,6 +233,8 @@
             const popupModal = document.querySelector(`[data-popup-modal="${popupTrigger}"]`)
             const response = document.querySelector('.subscribe-response');
             response.style.display = "none";
+
+            const body = document.querySelector('.popup-modal-body').style.display = "block";
 
             popupModal.classList.add('is--visible')
             bodyBlackout.classList.add('is-blacked-out')
@@ -255,10 +252,12 @@
         })
     });
 
-    modalCloseTrigger.addEventListener('click', () => {
-        const popupModal = document.querySelector(`.popup-modal`)
-        popupModal.classList.remove('is--visible')
-        bodyBlackout.classList.remove('is-blacked-out')
-    });
+    modalCloseTrigger.forEach(trigger => {
+        trigger.addEventListener('click', () => {
+            const popupModal = document.querySelector(`.popup-modal`)
+            popupModal.classList.remove('is--visible')
+            bodyBlackout.classList.remove('is-blacked-out')
+        });
+    }) 
 
 </script>
