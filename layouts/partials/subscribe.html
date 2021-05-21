@@ -1,7 +1,3 @@
-
-
-
-
 <style>
     .body-blackout {
         position: fixed;
@@ -23,13 +19,14 @@
     }
 
     .popup-modal {
+        min-width: 350px;
         max-width: 100%;
         background-color: #fff;
         position: fixed;
         left: 50%;
         top: 50%;
         transform: translate(-50%, -50%);
-        padding: 45px;
+        border: 5px solid var(--color-red);
         opacity: 0;
         pointer-events: none;
         transition: all 300ms ease-in-out;
@@ -48,55 +45,146 @@
         top: -10px;
         cursor: pointer;
     }
+
+    .popup-modal-header {
+        background-image: url('/img/blumen_wien.jpg');
+        background-size: cover;
+        height: 150px;
+    }
+
+    .popup-modal-header img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 70px;
+    }
+
+    h1.popup-modal-title {
+        color: white;
+        background-color: var(--color-red);
+        margin: 0;
+    }
+
+    .popup-modal-body {
+        padding: 20%;
+        padding-top: 1rem;
+    }
+
+    .popup-modal-body .msg {
+        margin-top: 1rem;
+    }
+
+    .popup-modal-body .disclaimer {
+        font-size: 0.7rem;
+    }
+
+    .popup-modal-body .formular {
+        grid-template-columns: auto;
+        row-gap: 0;
+    }
+
+    .popup-modal-body .formular label {
+        text-align: left;
+    }
 </style>
 
-<div class="body-blackout"></div>
+<div class="body-blackout">
 
-<div class="popup-modal shadow" data-popup-modal="subscribe">
-    <i class="fas fa-2x fa-times text-white bg-primary p-3 popup-modal__close"></i>
-    <div class="popup-modal-body">
-        <h1 class="font-weight-bold">
-            Subscribe
-        </h1>
-        <form action="https://newsletter.cors.online/subscribe" method="POST" accept-charset="utf-8">
-        <label for="name">Name</label><br />
-        <input type="text" name="name" id="name" />
-        <br />
-        <label for="email">Email</label><br />
-        <input type="email" name="email" id="email" />    
-        <div style="display:none;">
-            <label for="hp">HP</label><br />
-            <input type="text" name="hp" id="hp" />
+    <div class="popup-modal shadow" data-popup-modal="subscribe">
+        <div class="popup-modal-header">
+            <img src="/img/logo.jpg">
         </div>
-        <input type="hidden" name="list" value="W88923wbLV9C5rSZYi8GvwPA" />
-        <input type="hidden" name="subform" value="yes" />
-        <input type="submit" name="submit" id="submit" />
-    </div>
-</form>
-</div>
+        <h1 class="popup-modal-title">Newsletter Anmeldung</h1>
+        <div style="padding: 2rem;">
+            Nichts mehr verpassen!<br>
+            Bleiben Sie mit uns up to date und freuen Sie sich über spannende Blog-Themen, Informationen zu neuen
+            Kursen, Veranstaltungen und vieles mehr.
+        </div>
+        <div class="popup-modal-body">
+            <!-- <form action="https://newsletter.cors.online/subscribe" method="POST" accept-charset="utf-8"> -->
+            <form class="formular" id="subscribe-form">
+                <label for="anrede">Anrede</label>
+                <select id="anrede" name="anrede" required>
+                    <option value="" disabled selected>Bitte wählen...</option>
+                    <option>Hr.</option>
+                    <option>Fr.</option>
+                </select>
+                <label for="vorname">Vorname</label>
+                <input type="text" name="vorname" id="vorname" />
+                <label for="nachname">Nachname</label>
+                <input type="text" name="nachname" id="nachname" />
+                <label for="email">E-Mail Adresse</label>
+                <input type="email" name="email" id="email" />
 
+                <div style="display: flex; margin-top: 0.5rem; align-items: baseline;"><input type="checkbox"
+                        id="datenschutz" name="Datenschutzerklärung" value="ja" required>
+                    <div class="disclaimer">
+                        Ich bin mit der Speicherung meiner Daten ausdrücklich einverstanden.*
+                    </div>
+                </div>
+                <input type="submit" class="button" name="submit" id="submit" value="Absenden" />
+                <div class="disclaimer" style="margin-top: 0.5rem;">
+                    *Ich stimme zu, dass meine personenbezogenen Daten - wie in der Datenschutz-Richtlinie beschrieben -
+                    zur
+                    Zusendung und Analyse des E-Mailings verarbeitet werden.
+                    Diese Zustimmung kann ich jederzeit widerrufen.
+                </div>
+                <div style="display:none;">
+                    <label for="hp">HP</label><br />
+                    <input type="text" name="hp" id="hp" />
+                </div>
+                <input type="hidden" name="list" value="W88923wbLV9C5rSZYi8GvwPA" />
+                <input type="hidden" name="subform" value="yes" />
+                <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+            </form>
+        </div>
+    </div>
+</div>
+<!-- 
 <div id="subscribe"
     style="display: none; position: absolute; z-index: 199; background-color: blue; top: 0; left: 0; right: 0; bottom: 0;">
     Some content
     <button onclick="subscribe()">Subscribe!</button>
-</div>
+</div> -->
 
 <script>
 
-    function subscribe() {
-        let formData = new FormData();
-        formData.append("name", "The name");
-        formData.append("email", "email@asdmi.email");
-        formData.append("list", "9Sn892ft7KSR6RVRa0In6uNQ");
-        formData.append("subform", "yes");
+    function thankyou() {
+        const form = document.getElementById("subscribe-form");
+        const msg = document.createElement("div");
+        msg.className = "msg";
+        msg.innerHTML = "Vielen Dank.<br>Sie erhalten in Kürze eine Bestätigungsemail zum Abschließen der Anmeldung.";
 
-        fetch("https://sendy.cors.online/subscribe", {
+        form.appendChild(msg);
+    }
+
+    function subscribe(e) {
+        if (e.preventDefault) {
+            e.preventDefault();
+        }
+
+        const values = document.querySelectorAll('#subscribe-form input')
+        const formData = new FormData();
+        values.forEach(v => {
+            formData.append(v.name, v.value);
+        });
+        const name = document.getElementById('vorname').value + " " + document.getElementById("nachname").value;
+        formData.append("name", name);
+
+        fetch("https://newsletter.cors.online/subscribe", {
             method: "POST",
             body: formData
         }).then(res => {
             console.log("Request complete! response:", res);
+            thankyou();
         });
+
+        return false;
     }
+
+    document.getElementById("subscribe-form").addEventListener("submit", function (e) {
+        subscribe(e);
+    });
 
     function showSubscribeForm() {
         document.getElementById("subscribe").style.display = "block";
