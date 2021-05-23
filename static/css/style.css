@@ -105,6 +105,10 @@ body {
     cursor: pointer;
 }
 
+input.button:disabled {
+    background-color: gray;
+}
+
 main {
     margin-bottom: 4em;
 }

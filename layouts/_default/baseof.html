@@ -74,6 +74,8 @@
   {{ partial "floating-button.html" "aside" }}
   {{ with .Params.disableScrollTop }} {{ else }} {{ partial "scroll-top.html" . }} {{ end }}
   
+  {{ partial "subscribe.html" }}
+
   <script>
 
     function toggleResponsive() {
