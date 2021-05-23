@@ -49,9 +49,10 @@
     }
 
     .popup-modal-header {
-        background-image: url('/img/blumen_wien.jpg');
+        background-image: url('/img/silvia_subscribe.jpg');
         background-size: cover;
-        height: 150px;
+        background-position: center;
+        height: 180px;
     }
 
     .popup-modal-header img {
@@ -131,14 +132,14 @@
                 <option>Fr.</option>
             </select>
             <label for="vorname">Vorname</label>
-            <input type="text" name="vorname" id="vorname" />
+            <input type="text" name="Vorname" id="vorname" />
             <label for="nachname">Nachname</label>
-            <input type="text" name="nachname" id="nachname" />
+            <input type="text" name="Nachname" id="nachname" />
             <label for="email">E-Mail Adresse</label>
             <input type="email" name="email" id="email" />
             <label>Ich interessiere mich für:</label>
             <label>
-                <input type="checkbox" id="Ausbildungen"name="Ausbildungen" checked> Ausbildungen
+                <input type="checkbox" id="Ausbildungen" name="Ausbildungen" checked> Ausbildungen
             </label>
             <label>
                 <input type="checkbox" name="Onlineausbildungen" checked value="true"> Onlineausbildungen
@@ -157,7 +158,7 @@
             </label>
             <div style="display: flex; margin-top: 0.5rem; align-items: baseline;">
                 <label class="disclaimer">
-                    <input type="checkbox" id="datenschutz" name="Datenschutzerklärung" value="ja" required>
+                    <input type="checkbox" id="gdpr" name="gdpr" required>
                     Ich bin mit der Speicherung meiner Daten ausdrücklich einverstanden.*
                 </label>
             </div>
@@ -173,9 +174,9 @@
                 <label for="hp">HP</label><br />
                 <input type="text" name="hp" id="hp" />
             </div>
-            <input type="hidden" name="list" value="W88923wbLV9C5rSZYi8GvwPA" />
+            <input type="hidden" name="list" value="RtQc0PrZTdH2HxAYOyKJpg" />
             <input type="hidden" name="subform" value="yes" />
-            <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+            <input type="hidden" name="g-recaptcha-response" id="recaptchaResponse">
         </form>        
     </div>
     <div class="subscribe-response">
