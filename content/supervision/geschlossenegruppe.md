@@ -18,7 +18,7 @@ og_image: "/img/supervisionsgruppe_bgld.jpg"
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-## Gruppensupervision - Vier neue Gruppen starten Januar 2021
+## Gruppensupervision - Vier neue Gruppen starten Januar 2022
 
 
 {{% floatbox %}}
@@ -56,8 +56,8 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 
 
 {{< line icon="icon/termine.png" >}}
-## Gruppensupervision - unter der Leitung von Silvia Podlisca - Institutsleiterin 
-## Vier neue Gruppen starten Januar 2021
+## Gruppensupervision - drei unter der Leitung von Silvia Podlisca - Institutsleiterin 
+## Vier neue Gruppen starten Januar 2022
 ***
 
 {{% box top-align=1 %}}
@@ -65,23 +65,25 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 #### Wien - Gruppe 1 
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 06.01.2021
+#### Start: 05.01.2022
 Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:- ausgebucht** 
+**Termine 2022:** 
 
 {{< center >}}
-06.01.2021<br/>
-03.02.2021<br/>
-03.03.2021<br/>
-07.04.2021<br/>
-05.05.2021<br/>
-02.06.2021<br/>
-01.09.2021<br/>
-06.10.2021<br/>
-03.11.2021<br/>
-01.12.2021<br/>
+05.01.2022<br/>
+02.02.2022<br/>
+02.03.2022<br/>
+06.04.2022<br/>
+04.05.2022<br/>
+01.06.2022<br/>
+07.09.2022<br/>
+05.10.2022<br/>
+02.11.2022<br/>
+07.12.2022<br/>
 {{< /center >}}
+
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
@@ -90,23 +92,25 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 #### Wien - Gruppe 2
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 20.01.2021
+#### Start: 19.01.2022
 Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:- ausgebucht***
+**Termine 2022:**
 
 {{< center >}}
-20.01.2021<br/>
-17.02.2021<br/>
-17.03.2021<br/>
-21.04.2021<br/>
-19.05.2021<br/>
-16.06.2021<br/>
-15.09.2021<br/>
-20.10.2021<br/>
-17.11.2021<br/>
-15.12.2021<br/>
+19.01.2022<br/>
+16.02.2022<br/>
+16.03.2022<br/>
+20.04.2022<br/>
+18.05.2022<br/>
+15.06.2022<br/>
+21.09.2022<br/>
+19.10.2022<br/>
+16.11.2022<br/>
+21.12.2022<br/>
 {{< /center >}}
+
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
@@ -115,23 +119,25 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Burgenland
 {{< image src="/img/ifge_pinkafeld.jpg">}}
 
-#### Start: 13.01.2021
+#### Start: 12.01.2022
 Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:- ausgebucht**
+**Termine 2022:**
 
 {{< center >}}
-13.01.2021<br/>
-10.02.2021<br/>
-10.03.2021<br/>
-14.04.2021<br/>
-12.05.2021<br/>
-09.06.2021<br/>
-08.09.2021<br/>
-13.10.2021<br/>
-10.11.2021<br/>
-08.12.2021<br/>
+12.01.2022<br/>
+09.02.2022<br/>
+09.03.2022<br/>
+13.04.2022<br/>
+11.05.2022<br/>
+08.06.2022<br/>
+14.09.2022<br/>
+12.10.2022<br/>
+09.11.2022<br/>
+14.12.2022<br/>
 {{< /center >}}
+
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
@@ -140,23 +146,25 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{< image src="/img/raum_noe_weis.jpg">}}
 
 
-#### Start: 27.01.2021
+#### Start: 26.01.2022
 Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2021:- ausgebucht***
+**Termine 2022:**
 
 {{< center >}}
-27.01.2021<br/>
-24.02.2021<br/>
-24.03.2021<br/>
-28.04.2021<br/>
-26.05.2021<br/>
-23.06.2021<br/>
-22.09.2021<br/>
-27.10.2021<br/>
-24.11.2021<br/>
-22.12.2021<br/>
+26.01.2022<br/>
+23.02.2022<br/>
+23.03.2022<br/>
+27.04.2022<br/>
+25.05.2022<br/>
+22.06.2022<br/>
+21.09.2022<br/>
+26.10.2022<br/>
+23.11.2022<br/>
+**22.12.2022 - eine Woche früher**<br/>
 {{< /center >}}
+
+**Leitung:** [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
