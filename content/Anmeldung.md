@@ -49,7 +49,7 @@ disableScrollTop: true
         }
 
         function getMessageExtern() {
-            return "Liebe(r) " . $_POST['Anrede'] . " " . $_POST['Nachname'] . ",\n\nVielen Dank für Ihre Anmeldung zu:\n\n " .$_POST['Veranstaltung'] . ".\n\nDies ist noch keine Anmeldebestätigung, diese erhalten Sie separat von Frau Silvia Podlisca.\n\nDiese Email wurde automatisch generiert.\n\nInstitut für ganzheitliches Erleben - IFGE";
+            return "Liebe*r " . $_POST['Vorname'] . " " . $_POST['Nachname'] . ",\n\nVielen Dank für Ihre Anmeldung zu:\n\n " .$_POST['Veranstaltung'] . ".\n\nDies ist noch keine Anmeldebestätigung, diese erhalten Sie separat von Frau Silvia Podlisca.\n\nDiese Email wurde automatisch generiert.\n\nInstitut für ganzheitliches Erleben - IFGE";
         }
 
         if (isset($_POST['recaptcha_response']))
@@ -132,10 +132,12 @@ Mit Ihrer Anmeldung stimmen Sie den [AGB](/agb/) zu. Die [Widerrufsbelehrung](/w
 <div class=formular>
     <label for="anrede" class="required">Anrede</label>
     <div>
-        <input type="radio" id="male" name="Anrede" value="Hr." required>
-        <label for="male">Hr.</label>
-        <input type="radio" id="female" name="Anrede" value="Fr.">
-        <label for="female">Fr.</label>
+        <input type="radio" id="male" name="Anrede" value="Herr" required>
+        <label for="male">Herr</label>
+        <input type="radio" id="female" name="Anrede" value="Frau">
+        <label for="female">Frau</label>
+        <input type="radio" id="divers" name="Anrede" value="Divers">
+        <label for="divers">Divers</label>
         <input type="radio" id="firma" name="Anrede" value="Firma">
         <label for="firma">Firma</label>
     </div>

@@ -130,31 +130,32 @@
                 <option value="" disabled selected>Bitte wählen...</option>
                 <option>Frau</option>
                 <option>Herr</option>                
+                <option>Divers</option>                
             </select>
             <label for="vorname">Vorname</label>
-            <input type="text" name="Vorname" id="vorname" />
+            <input type="text" name="Vorname" id="vorname" required/>
             <label for="nachname">Nachname</label>
-            <input type="text" name="Nachname" id="nachname" />
+            <input type="text" name="Nachname" id="nachname" required/>
             <label for="email">E-Mail Adresse</label>
-            <input type="email" name="email" id="email" />
+            <input type="email" name="email" id="email" required/>
             <label>Ich interessiere mich für:</label>
             <label>
                 <input type="checkbox" id="Ausbildungen" name="Ausbildungen" checked> Ausbildungen
             </label>
             <label>
-                <input type="checkbox" name="Onlineausbildungen" checked value="true"> Onlineausbildungen
+                <input type="checkbox" name="Onlineausbildungen" checked> Onlineausbildungen
             </label>
             <label>
-                <input type="checkbox" name="Familienaufstellung" checked value="true"> Familienaufstellung
+                <input type="checkbox" name="Familienaufstellung" checked> Familienaufstellung
             </label>
             <label>
-                <input type="checkbox" name="Supervision" checked value="true"> Supervision
+                <input type="checkbox" name="Supervision" checked> Supervision
             </label>
             <label>
-                <input type="checkbox" name="Blogs" checked value="true"> Blogs
+                <input type="checkbox" name="Blogs" checked> Blogs
             </label>
             <label>
-                <input type="checkbox" name="PsychologischeGW" checked value="true"> Psychologische Gesundheit & Wissen
+                <input type="checkbox" name="PsychologischeGW" checked> Psychologische Gesundheit & Wissen
             </label>
             <div style="display: flex; margin-top: 0.5rem; align-items: baseline;">
                 <label class="disclaimer">
@@ -206,6 +207,9 @@
         });
         const name = document.getElementById('vorname').value + " " + document.getElementById("nachname").value;
         formData.append("name", name);
+
+        const anrede = document.getElementById('anrede').value;
+        formData.append("Anrede", anrede);
 
         fetch("https://newsletter.cors.online/subscribe", {
             method: "POST",
