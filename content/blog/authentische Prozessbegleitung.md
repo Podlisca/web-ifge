@@ -1,6 +1,6 @@
 ---
 title: "Warum „Freestyle“ nichts mit authentischer Prozessbegleitung zu tun hat"
-draft: true
+draft: false
 tags: []
 weight: 113
 
