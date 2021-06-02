@@ -96,8 +96,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
-Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs LSB 16 in Wien ausgebucht. Gerne können Sie sich auf die [Warteliste](/anmeldung.php) setzen lassen. Sollten sich die Maßnahmen lockern, werden noch drei weitere Plätze vergeben. Für den Kurs in St. Pölten (sonntags von 10 bis 16 Uhr) sind noch Plätze frei. Da nicht jeder Sonntag ein Kurstag ist, ist dies vielleicht eine gute Alternative. 
-
 
 <div id="kurstermine">
 <div style="grid-area: wh">
@@ -113,7 +111,7 @@ Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs LSB 16 in Wien ausgebucht
 
 Freitags von 14:00 bis 20:00 Uhr
 
-**ausgebucht**
+**noch ein Platz frei**
 
 
 [WARTELISTE](/anmeldung.php)
