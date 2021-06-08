@@ -32,7 +32,7 @@ Jedes Modul besteht aus 12 Unterrichtsstsunden.
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
 **Modul 1: 13.11.2021** von 10:00 bis 16:00 Uhr <br/>
-**Modul 2: 27.11-2021** von 10:00 bis 16:00 Uhr <br/>
+**Modul 2: 27.11.2021** von 10:00 bis 16:00 Uhr <br/>
 
 [Anmeldung](/anmeldung.php)
 {{% /small %}}
