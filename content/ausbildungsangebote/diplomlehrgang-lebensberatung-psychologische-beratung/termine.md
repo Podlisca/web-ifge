@@ -34,7 +34,6 @@ Je nach COVID Situation kann es sein, dass die **INFOABENDE** kurzfristig auf **
 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-
 * 14.06.2021
 * 20.09.2021
 * 08.11.2021
