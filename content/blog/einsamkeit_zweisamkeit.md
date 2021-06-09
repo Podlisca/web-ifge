@@ -4,8 +4,8 @@ draft: true
 tags: []
 weight: 114
 
-img: "einsamkeit.jpg"
-og_image: "/img/einsamkeit.jpg"
+img: "paar_sexualberatung_wien.jpg"
+og_image: "/img/paar_sexualberatung_wien.jpg"
 description: "Wer im psychosozialen Bereich arbeitet oder gerade in einer Ausbildung für einen Sozialberuf ist, der kommt um den Namen Carl Rogers kaum umhin. Er ist der Entwickler der Personenzentrierten Psychotherapie und Begründer einer zu diesem Zeitpunkt neuen Art von authentischer Herangehensweise im Therapie- oder Beratungsprozess. Sein Ansatz wird heute gelegentlich missverstanden. Wir klären auf, was mit „Im Zweifelsfall authentisch“ gemeint ist."
 ---
 **TEST Wer im psychosozialen Bereich arbeitet oder gerade in einer Ausbildung für einen Sozialberuf ist, der kommt um den Namen Carl Rogers kaum umhin. Er ist der Entwickler der Personenzentrierten Psychotherapie und Begründer einer zu diesem Zeitpunkt neuen Art von authentischer Herangehensweise im Therapie- oder Beratungsprozess. Sein Ansatz wird heute gelegentlich missverstanden. Wir klären auf, was mit „Im Zweifelsfall authentisch“ gemeint ist..**
