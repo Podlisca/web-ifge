@@ -4,8 +4,8 @@ draft: true
 tags: []
 weight: 115
 
-img: "lernen_blog.jpg"
-og_image: "lernen_blog.jpg"
+img: "raum_noe6.jpg"
+og_image: "raum_noe6.jpg"
 description: "Dieser Blog richtet sich an alle angehenden Berater*innen, die sich mit dem Gedanken spielen, sich selbstständig zu machen. Denn es gibt viele gute Gründe, die dafür sprechen, aber auch gewisse Warnsignale, die von der Selbstständigkeit (erst einmal) abraten möchten. "
 ---
 **Der Bedarf an psychosozialen Angeboten ist in diesen Tagen so groß wie nie. Das Bewusstsein für die Wichtigkeit von psychologischer Beratung (Link) und die Akzeptanz der Gesellschaft für selbige hat sich durch die für nahezu jeden spürbaren, emotionalen Auswirkungen der Corona-Krise deutlich erhöht. Es ist vielleicht also einer der idealsten Zeitpunkte seit jeher, sich im Bereich der psychologischen Beratung selbstständig zu machen. Trotzdem ist der Schritt in die Selbstständigkeit einer, der von den einen zu sehr gefürchtet und von den anderen zu leichtfertig gegangen wird. Nach der Leitung von mittlerweile 17 Ausbildungsjahrgängen der Berufsausbildung zum/zur Diplomierten psychologischen Berater\*in (Link) habe ich immer wieder mit einer gewissen Wehmut beobachtet, wie gerade fachlich hochqualifizierte Absolvent\*innen des IFGE häufig besonders intensiv damit kämpfen, den Schritt in die Selbstständigkeit zu wagen, während ich gleichzeitig gerade zu Beginn häufig übermotivierte Schüler*innen gerne ermutige, noch ein wenig zu lernen, bevor sie drauf und dran sind, den Quellberuf sofort zu kündigen und sich in einem sehr frühen Ausbildungsstatus in einer Praxis einzumieten. .** 
