@@ -4,8 +4,8 @@ draft: true
 tags: []
 weight: 114
 
-img: "einsamkeit.jpg"
-og_image: "/img/einsamkeit.jpg"
+img: "paarberatung_wien.jpg"
+og_image: "/img/paarberatung_wien.jpg"
 description: "Was macht die Corona-Krise mit unseren Beziehungen? Und was hat sich in der Paarberatung im vergangenen Jahr verändert? Dieser Blog handelt vom Zuhören und davon, weshalb es gerade in Zeiten, in denen wir von einander (zu) viel hören, manchmal besonders schwer fällt."
 ---
 **Kaum jemals war die Nachfrage an psychologischer Beratung (Link) im Allgemeinen und nach Angeboten für Paarberatung (Link) im Speziellen so groß wie im vergangenen Jahr. Und für mich ist es immer wieder erstaunlich, wie sich kollektive Prozesse auch im Beratungsalltag widerspiegeln und diesen dadurch immer neu verändern können. Auch das ist ein für mich so spannender Teil meiner psychosozialen Arbeit. Denn gerade diese Wandlungen, für die ich einen besonders feinen Blick habe, faszinieren mich ungemein. Einerseits ist es so, dass die Paarberatungen im Vergleich zu den vergangenen 20 Jahren, in denen ich als Paarberaterin arbeite, deutlich zugenommen haben, andererseits haben sich auch die Paarberatungen selbst innerhalb des Pandemie-Jahres stark verändert.** 
