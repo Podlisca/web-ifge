@@ -34,7 +34,6 @@ Je nach COVID Situation kann es sein, dass die **INFOABENDE** kurzfristig auf **
 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-
 * 14.06.2021
 * 20.09.2021
 * 08.11.2021
@@ -96,8 +95,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
-Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs LSB 16 in Wien ausgebucht. Gerne können Sie sich auf die [Warteliste](/anmeldung.php) setzen lassen. Sollten sich die Maßnahmen lockern, werden noch drei weitere Plätze vergeben. Für den Kurs in St. Pölten (sonntags von 10 bis 16 Uhr) sind noch Plätze frei. Da nicht jeder Sonntag ein Kurstag ist, ist dies vielleicht eine gute Alternative. 
-
 
 <div id="kurstermine">
 <div style="grid-area: wh">
@@ -113,7 +110,7 @@ Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs LSB 16 in Wien ausgebucht
 
 Freitags von 14:00 bis 20:00 Uhr
 
-**wieder ein Platz frei geworden**
+**noch ein Platz frei**
 
 
 [WARTELISTE](/anmeldung.php)

@@ -58,6 +58,6 @@ Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*in
 
 ## Leitung
 
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Dominique Karlovits](/about/referenten-lsb/#karlovits)
 
 

@@ -44,7 +44,7 @@ Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*in
 
 ## Leitung
 
-* [Mag. Carina Szauer](/about/referenten-lsb/#mag-carina-szauer)
+* 
 
 
 
