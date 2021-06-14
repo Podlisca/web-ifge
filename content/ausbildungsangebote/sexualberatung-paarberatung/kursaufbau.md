@@ -26,25 +26,40 @@ weight: 1
 #### AUFBAU DES LEHRGANGS SUPERVISION
 **100 Ausbildungsstunden mit max. 12 Teilnehmer*innen**
 
+### Modul 1
+
 * Grundlegendes in der Sexualberatung
 * Sexualität und Sprache
 * Sexuelle Identitäten und Orientierungen
-* Intimität und Nähe
-* Sexuelle Gewalt: Opfer und Täterarbeit
-* Opfer- & Täterhaltungen
+* Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
-* Traumaaufstellung  (nach Ruppert)
-* Aufstellungen mit Seelenanteilen
+
+### Modul 2
+* Grundlagen der Paarberatung
+* Phantasien, Wünsche, Bedürfnisse
+* Machtspiele in Beziehungen
+* Sexuelle Gesundheit in einer Beziehung
+
+### Modul 3 bis 6
+
+* Täter- & Opferhaltungen
+* Ausstieg aus Täter- & Opferhaltungen
+* Sexuelle Gewalt: Opfer und Täterarbeit
 * Sexuelle Belästigung und Stalking
+
+### Modul 3 bis 6
+
 * Abweichende Neigungen und Paraphilien
 * Neosexualität
 * BDSM
-* Verpönte Sexualität (Behinderung, Alter)
-* Sexuelle Gesundheit in einer Beziehung
-* Grundlagen der Paarberatung
-* Lust-Verlust & Lust Gewinnung
-* Phantasien, Wünsche, Bedürfnisse
-* Machtspiele in Beziehungen
+
+
+### Modul 3 bis 6
+
+* Traumaaufstellung (nach Ruppert)
+* Aufstellungen mit Seelenanteilen
+
+
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
