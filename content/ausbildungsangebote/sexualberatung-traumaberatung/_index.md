@@ -1,5 +1,5 @@
 ﻿---
-title: "Sexualberatung und Paarberatung"
+title: "Sexualberatung und Traumaberatung"
 menu: 
     main:
         parent: ausb
@@ -9,9 +9,11 @@ weight: 5
 description: "Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
 og_title: "Ausbildung: Sexualberatung / Paarberatung"
 og_image: "/img/silvia_rot.jpg"
+aliases:
+    - "/ausbildungsangebote/sexualberatung-paarberatung/"
 ---
 
-# Ausbildung: Sexualberatung / Paarberatung
+# Ausbildung: Sexualberatung / Traumaberatung
 {{< slogan >}}
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
