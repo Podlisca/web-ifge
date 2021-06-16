@@ -31,6 +31,7 @@ weight: 1
 * Grundlegendes in der Sexualberatung
 * Sexualität und Sprache
 * Sexuelle Identitäten und Orientierungen
+* LGBTIQ
 * Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
 
