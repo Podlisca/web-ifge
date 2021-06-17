@@ -14,6 +14,7 @@ weight: 2
 Frau Silvia Podlisca - IFGE
 Mariahilferstraße 76/4Top 39, 0676 10 89 36, silvia.podlisca@ifge.at
 
+## Beratungsvereinbarung
 
 1 Inhalte des Beratungsauftrags
 
@@ -48,7 +49,9 @@ Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, tier
 
 Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist oder eine medizinische Behandlung ersetzt. Alle Angebote unterliegen strengster Vertraulichkeit!
 
-Ausbilden & Seminare:
+## Ausbilden & Seminare:
+
+**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 Seminar- und Kursgebühren, Onlienangebote sind nach Anmeldung auf das Konto:
 

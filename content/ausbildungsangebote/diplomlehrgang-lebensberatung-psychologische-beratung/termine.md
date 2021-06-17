@@ -34,7 +34,6 @@ Je nach COVID Situation kann es sein, dass die **INFOABENDE** kurzfristig auf **
 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-* 14.06.2021
 * 20.09.2021
 * 08.11.2021
 * 07.12.2021
@@ -56,7 +55,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 von 18:30 bis ca. 20:00 Uhr
@@ -73,7 +71,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 * 28.06.2021
 * 26.11.2021
-<br/>
 <br/>
 <br/>
 
@@ -94,7 +91,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
-
+**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 <div id="kurstermine">
 <div style="grid-area: wh">
@@ -113,7 +110,7 @@ Freitags von 14:00 bis 20:00 Uhr
 **noch ein Platz frei**
 
 
-[WARTELISTE](/anmeldung.php)
+[ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
 
