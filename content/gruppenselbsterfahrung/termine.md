@@ -12,7 +12,7 @@ weight: 6
 
 {{< line icon="icon/termine.png" >}}
 
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig aunter der Woche statt.
+Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig aunter der Woche statt. **Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 {{< line icon="icon/aufstellung.png" >}}
 {{% box blue=1 %}}
@@ -23,8 +23,6 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freita
 [Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
 **Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
-
-Aufgrund der aktuellen Covid Situation werden die nächsten Familienaufstellungen **voraussichtlich im September 2021** stattfinden. 
 
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise/)
 

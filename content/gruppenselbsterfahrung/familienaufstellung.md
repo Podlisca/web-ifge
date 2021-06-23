@@ -134,8 +134,6 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 
 Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. 
 
-Aufgrund der derzeitigen COVID Situation sind bis August 2021 alle Termine abgesagt. Wir hoffen, dass wir ab Herbst 2021 wieder Familienaufstellungen anbieten können. 
-
 Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
 {{% /small  %}}
 {{% /box %}}

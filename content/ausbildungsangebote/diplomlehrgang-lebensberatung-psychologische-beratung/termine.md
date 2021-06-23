@@ -26,7 +26,7 @@ weight: 3
 
 ## Informationsveranstaltung
 
-Je nach COVID Situation kann es sein, dass die **INFOABENDE** kurzfristig auf **ONLINE*** umgestellt werden. Hierfür erhalten Sie dann automatisch eine E-Mail mit allen nötigen Informationen zugeschickt. 
+**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 {{% box top-align=1 %}}
 {{% small %}}
@@ -52,8 +52,8 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
 * 10.09.2021
-<br/>
-<br/>
+* 18.10.2021
+* 06.12.2021
 <br/>
 
 

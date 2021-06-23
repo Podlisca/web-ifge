@@ -34,6 +34,8 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 {{< line icon="icon/termine.png" >}}
 
 ## Termine
+**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
