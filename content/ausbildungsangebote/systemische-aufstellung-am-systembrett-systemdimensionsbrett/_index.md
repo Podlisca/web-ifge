@@ -22,7 +22,7 @@ og_image: "/img/brett_2.jpg"
 
 {{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT & SYSTEMDIMENSIONSBRETT®“ liegt der Focus der Ausbildung auf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung mitzubringen." float="left" >}}
 
-Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert ([systemische Einzelarbeit](/psychologischeberatung/einzel_system.html)).
+Das Upgrade, das 100 Fortbildungsstunden umfasst, gestaltet sich in höchstem Maße übungsorientiert[systemische Einzelarbeit](/psychologischeberatung/einzel_system.html)). 
 
 Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an Dipl. Lebens- und Sozialberater\*innen – psychologische Berater*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in Gruppenseminaren gesammelt haben.
 
