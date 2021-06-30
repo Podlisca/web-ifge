@@ -5,7 +5,7 @@ tags: []
 weight: 115
 
 img: "raum_noe6.jpg"
-og_image: "raum_noe6.jpg"
+og_image: "/img/raum_noe6.jpg"
 description: "Dieser Blog richtet sich an alle angehenden Berater*innen, die sich mit dem Gedanken spielen, sich selbstständig zu machen. Denn es gibt viele gute Gründe, die dafür sprechen, aber auch gewisse Warnsignale, die von der Selbstständigkeit (erst einmal) abraten möchten. "
 ---
 **Wenig wird gleichermaßen so unterschätzt und überschätzt wie der Schritt in die Selbstständigkeit im psychosozialen Beratungsbereich. Dieser Blog richtet sich an alle angehenden Berater*innen, die sich mit dem Gedanken spielen, sich selbstständig zu machen. Denn es gibt viele gute Gründe, die dafür sprechen, aber auch gewisse Warnsignale, die von der Selbstständigkeit (erst einmal) abraten möchten. Ein Überblick.**
