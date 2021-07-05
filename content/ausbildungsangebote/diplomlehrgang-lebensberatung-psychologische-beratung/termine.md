@@ -91,7 +91,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 <div id="kurstermine">
 <div style="grid-area: wh">

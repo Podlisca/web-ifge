@@ -29,7 +29,7 @@ weight: 2
 * Einmalzahlung: € 1.590,-
 * Modulzahlung: € 850- pro Modul (Gesamtsumme: € 1.700,-)
 
-Die angegebenen Preise beinhalten bereits die Umsatzstuer. 
+Die angegebenen Preise beinhalten bereits die Umsatzsteuer. 
 
 Die Ausbildung ist nur komplett buchbar.
 

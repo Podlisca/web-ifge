@@ -33,7 +33,7 @@ Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu ve
 {{% box blue=1 %}}
 {{% small  %}}
 ## Termine
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 #### Seminarzeiten jeweils von 09:00 bis 18:00 Uhr 
 {{% /small  %}}
 {{% /box %}}
