@@ -22,7 +22,7 @@ og_image: "/img/trainingstage.jpg"
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
-Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu verfeinern und Ihr Fachwissen zu vertiefen. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Die Teilnehmer\*innen sind eingeladen, eigene Fälle vorstellen um neue Blcikpunkte für den Beraterprozess zu erhalten. 
+Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu verfeinern und Ihr Fachwissen zu vertiefen. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Die Teilnehmer\*innen sind eingeladen, eigene Fälle vorstellen um neue "PerspekTiefen"  für den Beraterprozess zu erhalten. 
 <br/>
 <br/>
 {{< silvia >}}
