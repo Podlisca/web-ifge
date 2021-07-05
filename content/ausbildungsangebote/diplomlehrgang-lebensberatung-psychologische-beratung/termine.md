@@ -182,7 +182,7 @@ genauer Kursplan folgt
 #### Start: 05. September 2021
 
 Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch drei freie Plätze**
+& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch zwei freie Plätze**
 
 [ANMELDUNG](/anmeldung.php)
 
