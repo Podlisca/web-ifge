@@ -24,19 +24,18 @@ weight: 4
 ***
 ## Zugangsvoraussetzungen
 
-* Dipl. Lebens- und Sozialberater*innen - psychologische Berater*innen
-* Interessierte Sozialarbeiter*innen, Betreuer*innen, Psycholog*innen, Pädagog*innen, Psychotherapeuten*innen
-* für IFGE Schüler*innen ab dem 3. Semester der Grundausbildung
+* Dipl. Lebens- und Sozialberater\*innen - psychologische Berater*innen
+* Interessierte Sozialarbeiter\*innen, Betreuer*innen, Psycholog\*innen, Pädagog\*innen, Psychotherapeuten\*innen
+* für IFGE Schüler*innen ab dem 4. Semester der Grundausbildung
 
-Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab.
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 {{< line icon="noun_Information_478770-2.png" >}}
-## Prüfung
 
-Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
+## Bestätigung
 
-Die praktische Prüfung findet am letzten Seminartag statt. 
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 

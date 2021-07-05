@@ -8,7 +8,7 @@ draft: false
 weight: 1
 ---
 
-# Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
+# Fortbildungslehrgang: Systemische Aufstellung am Systembrett 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -29,13 +29,12 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 
 **In den Modulen wird sehr viel praktisch geübt.**
 
-**100 Ausbildungsstunden mit mind. 8 max. 12 Teilnehmer*innen**
+**32 Ausbildungsstunden mit mind. 8 max. 12 Teilnehmer*innen**
 
 ## Seminarhinhalte
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Modul 1
+{{% box more=1 %}}
+{{< card-more title="Modul 1" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett/kursaufbau/" >}}
 
 * theoretische Grundannahmen zur Aufstellungsarbeit
 * Grunddynamiken im Familiensystem (Herkunfts- und Gegenwartsfamilie)
@@ -46,10 +45,9 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 * Entwicklung des Anliegens/Überweisungskontext/Wahl des Settings
 * Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilder)
 
-{{% /small  %}}
+{{< /card-more >}}
 
-{{% small  %}}
-#### Modul 2
+{{< card-more  title="Modul 2" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett/kursaufbau/" >}}
 
 * Hypothesenbildung
 * Prozessarbeit und Formen der Prozessgestaltung
@@ -57,66 +55,19 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 * Paarbeziehung, Eltern und Kinder
 * Gesundheit/Krankheit, Stress, Burnout, Resilienz;
 * Umgang mit Krisensituationen im Aufstellungskontext
-* Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilder)
+* Anwendung in den Themenfeldern wie z.B. Familie/Patchwork, Beruf, Organisation, Unternehmen
 
-{{% /small  %}}
-
-{{% small  %}}
-#### Modul 3
-
-
-* Glaubenssatzaufstellungen
-* Paarbeziehung, Eltern und Kinder
-* Gesundheit/Krankheit, Stress, Burnout, Resilienz;
-* Integration verschiedener therapeutischer/beraterischer Konzepte in der Anwendung
-* Umgang mit Krisensituationen im Aufstellungskontext
-* Aufstellung eigener Themen
- * Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilder)
-
-{{% /small  %}}
+{{< /card-more >}}
 {{% /box %}}
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Modul 4
-
-* Anwendung in den Themenfeldern wie z.B. Familie/Patchwork, Beruf, Organisation, Unternehmen
-* Entwicklung der Aufsteller-Persönlichkeit (Haltung, Bewusstsein, Menschenbilder)
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Modul 5
-* Paarbeziehung, Eltern und Kinder
-* Gesundheit/Krankheit, Stress, Burnout, Resilienz;
-* Aufstellung in Gruppen-, Paar- und Einzelarbeit
-* Umgang mit Krisensituationen im Aufstellungskontext
 
 
-{{% /small  %}}
+## Bestätigung
 
-{{% small  %}}
-#### Modul 6
-
-* praxtisches Üben 
-* Abschlussprüfung (Mündliche Abschlussprüfung über die gelernten Inhalte anhand eines Praxisfalles) 
-
-
-{{% /small  %}}
-
-{{% /box %}}
-
-{{< line icon="icon/test.png" >}}
-
-
-{{% box blue=1 %}}
-{{% small  %}}
-
-## PRÜFUNG
-
-Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
-
-Die praktische Prüfung findet am letzten Seminartag statt. 
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 {{% /small  %}}
@@ -128,22 +79,6 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
-## PRÜFUNG
-
-Die Prüfung besteht aus einer praktischen Arbeit inkl. Fachgespräch.
-
-Die praktische Prüfung findet am letzten Seminartag statt. 
-
-Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
-## Leitung
-
-* Silvia Podlisca
 
 
 
