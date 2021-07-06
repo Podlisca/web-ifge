@@ -53,11 +53,12 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 
 
-#### Start: Termine folgen
+#### Start: 30.04.2021
 
-###  <br/>
+**Modul 1:** 30.04. und 01.05.2022<br/>
+**Modul 2:** 18.06. und 19.06.2022<br/>
 
-
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}
