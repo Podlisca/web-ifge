@@ -58,7 +58,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 **Modul 1:** 30.04. und 01.05.2022<br/>
 **Modul 2:** 18.06. und 19.06.2022<br/>
 
-Seminarzeiten jeweils von 09:00 bis 18:00 Uhr 
+Seminarzeiten: von 09:00 bis 18:00 Uhr 
 
 [Anmeldung](/anmeldung.php)
 
