@@ -75,7 +75,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 {{< center >}}
 05.01.2022<br/>
 02.02.2022<br/>
-02.03.2022<br/>
+**23.02.2022 - eine Woche früher**<br/>
 06.04.2022<br/>
 04.05.2022<br/>
 01.06.2022<br/>
