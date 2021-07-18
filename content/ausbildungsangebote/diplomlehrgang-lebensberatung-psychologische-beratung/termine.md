@@ -28,6 +28,8 @@ weight: 3
 
 **Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
+Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt werden. Wir hoffen natürlich, dass dies nicht notwendig wird. Sollte es zu einer Umstellung kommen, werden Sie selbstverständlich rechtzeitig darüber informiert. 
+
 {{% box top-align=1 %}}
 {{% small %}}
 #### Wien
