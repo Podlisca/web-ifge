@@ -38,7 +38,7 @@ weight: 2
  **Medothen der LSB** 
 <br/> (140 Std.) 
 <br/>
-<br/>€ 2.240,- 
+<br/>€ 2.450,- 
 ***
 {{% /small  %}}
 {{% small  %}}

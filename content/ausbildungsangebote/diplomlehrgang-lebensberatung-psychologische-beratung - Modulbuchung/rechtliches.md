@@ -44,7 +44,7 @@ Jedes Modul schließt mit einer Teilnahmebestätigung des IFGE ab.
 ## Zahlungsbedingungen
 
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die kompletten Kursgebühren auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben
 Bank Austria
