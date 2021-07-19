@@ -3,7 +3,7 @@ title: "Preise"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 2
 ---
 
@@ -35,10 +35,10 @@ weight: 2
 ***
 {{% /small  %}}
 {{% small  %}}
- **Krisenintervention** 
-<br/> (20 Std./ pro Modul)
+ **Medothen der LSB** 
+<br/> (140 Std.) 
 <br/>
-<br/>€ 350,-
+<br/>€ 2.240,- 
 ***
 {{% /small  %}}
 {{% small  %}}

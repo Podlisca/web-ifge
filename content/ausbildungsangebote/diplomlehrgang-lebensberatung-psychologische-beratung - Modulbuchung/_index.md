@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: lsbmodul
-draft: true
+draft: false
 weight: 1
 description: "Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung am IFGE. Wenn Ihnen nur einzelne Seminare für die Einreichung des Gewerbescheins fehlen, finden Sie am IFGE ausgewählte Module zur Einzelbuchung." 
 
@@ -39,7 +39,7 @@ Sollten Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wi
 
 * Einführung in die Lebens- und Sozialberatung (20 Stunden)
 
-* Krisenintervention (80 Stunden)
+* Stunden Methodik der Lebens- und Sozialberatung (140 Stunden)
 
 *  Recht (24 Stunden )
 

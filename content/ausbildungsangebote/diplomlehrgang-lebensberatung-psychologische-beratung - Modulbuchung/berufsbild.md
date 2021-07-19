@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: berufsbild
-draft: true
+draft: false
 weight: 6
 og_image: "/img/lsb_info_noe.jpg"
 rich_faq:

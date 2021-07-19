@@ -3,7 +3,7 @@ title: "Module"
 menu: 
     main:
         parent: lsbmodul
-draft: true
+draft: false
 weight: 1
 rich_faq:
     -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychologische Beraterin?"
@@ -117,10 +117,12 @@ rich_faq:
 {{% /small  %}}
 {{% small  %}}
 
-#### Krisenintervention 1 - 4 (80 Stunden)
-* historische Entwicklung der Lebens- und Sozialberatung
-* gesellschaftspolitische Rahmenbedingungen der Lebens- und Sozialberatung
-* Sozialphilosophie und Soziologie, erste Interventionsmöglichkeiten
+#### Methodik der Lebens- und Sozialberatung (140 Stunden)
+* Systemische Beratung (Mailänder Schule)
+* Der hypnosystemische Beratungsansatz (Gunther Schmidt)
+* Aufstellungsarbeit in Einzelsitzungen (Hellinger, Varga von Kibéd)
+* Der personenzentrierte Ansatz (Rogers)
+* Der sokratischer Dialog
 {{% /small  %}}
 {{% small  %}}
 
