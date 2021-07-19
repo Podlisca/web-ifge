@@ -9,22 +9,21 @@ weight: 1
 og_image: "/img/kursziel_systembrett.jpg"
 ---
 
-# Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
+# Fortbildungslehrgang: Systemische Aufstellung am Systembrett 
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
 
-#### SYSTEMBRETT & SYSTEMDIMENSIONSBRETT®  – VERSCHIEDENE MÖGLICHKEITEN IDEAL AUSSCHÖPFEN
+#### SYSTEMBRETT  – VERSCHIEDENE MÖGLICHKEITEN IDEAL AUSSCHÖPFEN
 
 {{< image src="/img/kursziel_systembrett.jpg" title="Silvia Podlisca leitet seit über 20 Jahren Aufstellungen sowohl im Plenum mit Repräsentanten\*innen wie auch im Einzelsetting am Systembrett.  Seit 2012 leitet sie den WKO – zertifizierten Diplomlehrgang für Lebens- und Sozialberatung – psychologische Beratung mit systemischem Schwerpunkt. "float="left">}}
 
-Für die [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/) erlernen bzw. verankern Sie gleich zwei Systembrett-Techniken: Sie beginnen mit der systemischen Arbeit auf dem klassischen Brett und steigern Ihre Fähigkeiten im Zuge der Module Schritt für Schritt, bis Sie ebenso die Methode der Aufstellung auf dem patentierten [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) beherrschen werden.
+Sie lernen für die  [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/) das Systembrett zeildienlich einzusetzen. Sie beginnen mit klassischen Dynamiken im Gegenwartssystem und steigern Ihre Fähigkeiten im Zuge der Fortbildung Schritt für Schritt um auch generationsübergreifende Verstrickungen zu erkennen, und lernen wie diese gelöst werden können.
 
-Dieses eigens von Institutsleiterin Silvia Podlisca entwickelte, spezielle Systembrett, mit dem auf drei verschiedenen Ebenen gearbeitet werden kann, erfordert wesentliche Kenntnisse in der mehrdimensionalen Aufstellungsarbeit.
+Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Teilnehmer\*innen dieses Upgrades arbeiten demnach idealerweise bereits mit eigenen Klient\*innen, um Fälle vorstellen und supervidieren lassen zu können.
 
-Eben jene Kenntnisse werden in diesem Upgrade gelehrt, erweitert und gefestigt. Sie lernen diese weiterentwickelte Variante – das SystemDimensionsBrett® – im Zuge des Upgrades genau kennen und vertiefen vielschichtiges Wissen über die Arbeit damit. So wird es Ihnen in Zukunft möglich sein, verschiedene Zeit-, Raum- und Bewegungsmuster gleichzeitig für Ihre Klient*innen sichtbar zu machen.
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

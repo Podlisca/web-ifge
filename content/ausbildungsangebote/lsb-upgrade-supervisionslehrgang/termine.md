@@ -26,7 +26,7 @@ weight: 3
 {{< line icon="icon/termine.png" >}}
 
 # Termine
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 
 {{< line icon="icon/info_tuerkis.png" >}}

@@ -36,7 +36,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -59,13 +59,13 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 **Prüfungstag** von 09:00 bis 16:00 Uhr<br/> 
 
 **Modul 1:** 09.04. und 10.04.2022<br/>
-**Modul 2:** 30.04. und 01.05.2022<br/>
-**Modul 3:** 04.06. und 05.06.2022<br/>
-**Modul 4:** 18.06. und 19.06.2022<br/>
-**Modul 5:** 17.09. und 18.09.2022<br/>
-**Modul 6:** 29.10. und 30.10.2022<br/>
+**Modul 2:** 04.06. und 05.06.2022<br/>
+**Modul 3:** 09.07. und 10.09.2022 <br/>
+**Modul 4:** 17.09. und 18.09.2022<br/>
+**Modul 5:** 29.10. und 30.10.2022<br/>
+**Modul 6:** 26.11. und 27.11.2021<br/>
 
-**Prüfung:** 06.11.2022<br/>
+**Prüfung: 03.12.2021** <br/>
 <br/>
 [Anmeldung](/anmeldung.php)
 

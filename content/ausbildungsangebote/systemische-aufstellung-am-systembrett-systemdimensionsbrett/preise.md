@@ -26,11 +26,10 @@ weight: 2
 ## Kosten
 
 
-* Einmalzahlung: € 1.980,-
-* Modulzahlung: € 450,- Anzahlung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
+* Einmalzahlung: € 1.590,-
+* Modulzahlung: € 850- pro Modul (Gesamtsumme: € 1.700,-)
 
-Die angegebenen Preise beinhalten bereits die Umsatzstuer. 
+Die angegebenen Preise beinhalten bereits die Umsatzsteuer. 
 
 Die Ausbildung ist nur komplett buchbar.
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.

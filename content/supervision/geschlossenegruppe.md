@@ -58,7 +58,7 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 {{< line icon="icon/termine.png" >}}
 ## Gruppensupervision - drei unter der Leitung von Silvia Podlisca - Institutsleiterin 
 ## Vier neue Gruppen starten Januar 2022
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 ***
 
@@ -75,7 +75,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 {{< center >}}
 05.01.2022<br/>
 02.02.2022<br/>
-02.03.2022<br/>
+**23.02.2022 - eine Woche früher**<br/>
 06.04.2022<br/>
 04.05.2022<br/>
 01.06.2022<br/>

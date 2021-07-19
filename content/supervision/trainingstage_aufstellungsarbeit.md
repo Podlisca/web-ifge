@@ -1,16 +1,16 @@
 ﻿---
-title: "Schulungs- und Supervisionswoche"
+title: "Trainingstage: Aufstellungsarbeit"
 menu: 
     main:
         parent: "supervision"
-        identifier: "supervisionswoche"
+        identifier: "trainingstage_aufstellungsarbeit"
 draft: false
-weight: 5
+weight: 6
 description: "Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen."
-og_image: "/img/supervisionswoche.jpg"
+og_image: "/img/trainingstage.jpg"
 ---
 
-# Schulungs- und Supervisionswoche
+# Trainingstage: Aufstellungsarbeit
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
@@ -18,14 +18,11 @@ og_image: "/img/supervisionswoche.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/supervisionswoche.jpg" float="left" title="In dieser Intensivwoche haben Sie die Möglichkeit sich eine Woche lang Ihre Themen als angehende Lebensberater\*in -psychologischen Berater\*in zu widmen. Fragen aus dem Berufsalltag, zum Lehrstoff aber auch zum Praxisaufbau können gut beleuchtet werden. Zudem erhalten Sie einen sehr realistischen Einblick wie der Praxisalltag aussieht, wenn man sich eine Woche ausschliesslich mit dem Beruf beschäftigt. " >}} 
+{{< image src="/img/trainingstage.jpg" float="left" title="Bei dem Trainingstagen haben Sie die Möglichkeit sich Ihre Aufstellungstechnik zu verfeinern und Ihr Fachwissen zu vertiefen." >}} 
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
-Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater\*in - psychologische Berater\*in eingereicht werden. 
-
-Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozialen Bereich arbeiten, offen. Es empfiehlt sich, mit der Methode des Aufstellens vertraut zu sein. 
-<br/>
+Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu verfeinern und Ihr Fachwissen zu vertiefen. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Die Teilnehmer\*innen sind eingeladen, eigene Fälle vorstellen um neue "PerspekTiefen"  für den Beraterprozess zu erhalten. 
 <br/>
 <br/>
 {{< silvia >}}
@@ -37,6 +34,7 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{% small  %}}
 ## Termine
 **Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+#### Seminarzeiten jeweils von 09:00 bis 18:00 Uhr 
 {{% /small  %}}
 {{% /box %}}
 
@@ -46,25 +44,22 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-### 23.08. - 27.08.2021<br/>
+**01.11.2021** <br/>
 
-Mo. - Do. 09:00 bis 18:00 Uhr<br/>
-Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 ### [Anmeldung](/anmeldung.php)
-
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-### 26.07. - 30.07.2021<br/>
+**12.12.2021**<br/>
 
-Mo. - Do. 09:00 bis 18:00 Uhr<br/>
-Fr. 09:00 bis 14:00 Uhr<br/>
+
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
 ### [Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% small  %}}
@@ -73,8 +68,11 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Niederösterereich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-### Termine folgen
+**27.09.2021**
 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
+### [Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% /box %}}
 
@@ -83,11 +81,11 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 ### Allgemeines
 
-* Mind. 10 Teilnehmer\*innen / Max. 14 Teilnehmer\*innen
-* Kosten: € 675,- ( Anzahlung € 100,- bei Anmeldung, Rest bis einen Monat vor Beginn)
+* Mind. 8 Teilnehmer\*innen / Max. 12 Teilnehmer\*innen
+* ab dem 3. LSB Semseter 
+* Kosten: € 198,- (Zahlung bei Anmeldung)
 * Anmeldeschluss: 2 Wochen vorher
  
-
 Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 

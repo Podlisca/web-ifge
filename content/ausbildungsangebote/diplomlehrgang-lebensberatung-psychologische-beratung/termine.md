@@ -26,7 +26,9 @@ weight: 3
 
 ## Informationsveranstaltung
 
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+
+Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt werden. Wir hoffen natürlich, dass dies nicht notwendig wird. Sollte es zu einer Umstellung kommen, werden Sie selbstverständlich rechtzeitig darüber informiert. 
 
 {{% box top-align=1 %}}
 {{% small %}}
@@ -91,7 +93,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 <div id="kurstermine">
 <div style="grid-area: wh">
@@ -182,7 +184,7 @@ genauer Kursplan folgt
 #### Start: 05. September 2021
 
 Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch drei freie Plätze**
+& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch ein Platz frei**
 
 [ANMELDUNG](/anmeldung.php)
 

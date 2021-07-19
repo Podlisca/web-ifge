@@ -35,7 +35,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{< line icon="icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltung gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -53,11 +53,14 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 
 
-#### Start: Termine folgen
+#### Start: 30.04.2021
 
-###  <br/>
+**Modul 1:** 30.04. und 01.05.2022<br/>
+**Modul 2:** 18.06. und 19.06.2022<br/>
 
+Seminarzeiten: von 09:00 bis 18:00 Uhr 
 
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}

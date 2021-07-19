@@ -6,7 +6,9 @@ menu:
         identifier: institut
 draft: false
 weight: 2
-description: "Das IFGE steht mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender Lebens- und SozialberaterInnen – psychologische BeraterInnen."
+description: "Menschen bewegen, begleiten und bereichern.
+
+Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau das steht seit mehr als 10 Jahren im Zentrum unseres Instituts. Das IFGE steht mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender Lebens- und SozialberaterInnen – psychologische BeraterInnen."
 og_title: "Über das IFGE"
 og_image: "/img/institut_wien.jpg"
 aliases:
