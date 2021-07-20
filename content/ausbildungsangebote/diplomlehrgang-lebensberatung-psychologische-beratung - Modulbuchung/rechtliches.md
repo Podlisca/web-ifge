@@ -53,6 +53,8 @@ BIC: BKAUATWW zu überweisen.
 
 Bitte geben Sie als Modulbuchung LSB + Modulname (z.B: Einführung) + Ihren Namen an. Die Module sind jeweils immer nur komplett buchbar.
 
+Bei der Modulbuchung (nur bei Methode der LSB möglich): erste Rate bei Anmeldung; die zweite Rate nach dem 8. Kurstag.
+
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 15 Wochen vor dem geplanten Modul entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Moudulgebühr zu bezahlen; danach die volle Modulgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofist wird eine Bearbeitungsgebühr von € 100,- einbehalten. Bei Fernbleiben oder Abbruch werden keine Kosten rückerstattet.
 
 {{< line icon="icon/vertrag.png" >}}
