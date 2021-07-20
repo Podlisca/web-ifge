@@ -47,20 +47,20 @@ laufend Kurse in Wien - Bitte Kurs anfragen
 ### Rechtliche Grundlagen: 
 laufend Kurse in Wien - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Recht in Wien" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Recht in Wien" class="button">Terminanfrage</a>
 ***
 
 ### Ethik:
 laufend Kurse in Wien - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Ethik in Wien" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Ethik in Wien" class="button">Terminanfrage</a>
 ***
 
 
 ### BWL:
 laufend Kurse in Wien - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: BWL in Wien" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: BWL in Wien" class="button">Terminanfrage</a>
 ***
 
 {{% /small  %}}
@@ -79,25 +79,25 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 ### Einführung:
 laufend Kurse im Bgld. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Einführung in Pinkafeld" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Einführung in Pinkafeld" class="button">Terminanfrage</a>
 ***
 ### Rechtliche Grundlagen: 
 laufend Kurse im Bgld. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Recht in Pinkafeld" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Recht in Pinkafeld" class="button">Terminanfrage</a>
 ***
 
 ### Ethik:
 laufend Kurse im Bgld. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Ethik in Pinkafeld " class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Ethik in Pinkafeld " class="button">Terminanfrage</a>
 ***
 
 
 ### BWL:
 laufend Kurse im Bgld.- Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: BWL in Pinkafeld " class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: BWL in Pinkafeld " class="button">Terminanfrage</a>
 ***
 
 {{% /small  %}}
@@ -115,25 +115,25 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 ### Einführung:
 laufend Kurse in Noe. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Einführung in St. Pölten" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Einführung in St. Pölten" class="button">Terminanfrage</a>
 ***
 ### Rechtliche Grundlagen: 
 laufend Kurse in Noe. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Recht in St. Pölten" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Recht in St. Pölten" class="button">Terminanfrage</a>
 ***
 
 ### Ethik:
 laufend Kurse in Noe. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Ethik in St. Pölten" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Ethik in St. Pölten" class="button">Terminanfrage</a>
 ***
 
 
 ### BWL:
 laufend Kurse in Noe. - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: BWL in St. Pölten" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: BWL in St. Pölten" class="button">Terminanfrage</a>
 ***
 
 
