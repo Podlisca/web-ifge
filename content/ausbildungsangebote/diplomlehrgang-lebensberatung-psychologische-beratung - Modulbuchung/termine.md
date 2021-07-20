@@ -42,8 +42,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 ### Einführung:
 laufend Kurse in Wien - Bitte Kurs anfragen
 
-<a href="mailto:silvia.podlisca@ifge.at?subject=Terminanfrage: Einführung in Wien" class="button">Terminanfrage</a>
+<a href="mailto:wien@ifge.at?subject=Terminanfrage: Einführung in Wien" class="button">Terminanfrage</a>
 ***
+
 ### Rechtliche Grundlagen: 
 laufend Kurse in Wien - Bitte Kurs anfragen
 
