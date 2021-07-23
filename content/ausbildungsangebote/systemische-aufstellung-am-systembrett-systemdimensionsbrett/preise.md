@@ -26,8 +26,8 @@ weight: 2
 ## Kosten
 
 
-* Einmalzahlung: € 1.590,-
-* Modulzahlung: € 850- pro Modul (Gesamtsumme: € 1.700,-)
+* Einmalzahlung: € 890,-
+* Modulzahlung: € 490- pro Modul (Gesamtsumme: € 980,-)
 
 Die angegebenen Preise beinhalten bereits die Umsatzsteuer. 
 
