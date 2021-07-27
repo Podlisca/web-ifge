@@ -9,17 +9,17 @@
 </div>
 {{ end }}
 
+{{ if .Get "img"}}
+<div class="image">
+    <img src="/img/{{ .Get "img" }}" alt='{{ if .Get "alt"}} {{ .Get "alt"}} {{ else }} {{ .Get "img" }} {{ end }}'/>
+</div>
+{{ end }}
+
 {{ if .Get "title" }} 
 <div class="title">    
 <a href="{{ if eq .Parent.Name "iconmenu"}}{{ relref . (print (.Get "title" | lower) ".md" ) }}{{ else }}{{ if .Get "link" }}{{ .Get "link" }}{{ else }}#{{ end }}{{ end }}">
 {{ if .Get "img"}}<h4>{{ .Get "title"}}</h4>{{ else }}{{ .Get "title"}}{{ end }}
 </a>
-</div>
-{{ end }}
-
-{{ if .Get "img"}}
-<div class="image">
-    <img src="/img/{{ .Get "img" }}" alt="{{ .Get "img" }}"/>
 </div>
 {{ end }}
 

@@ -12,21 +12,9 @@ og_image: "/img/home_2021_1.jpg"
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{% banner %}}
 
-{{% floatbox %}}
-
-{{< image src="/img/home_2021_1.jpg" float="left" title="WKO zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung - psychologische Beratung, Supervision, Aufstellungen sowie vielen Zusatzausbildungen im Präsenzunterricht wie im Onlineunterricht in Wien, Niederösterreich und Burgenland." >}} 
-
-In meinem Institut biete ich zahlreiche  [Ausbildungsangebote](/ausbildungsangebote/) (Lehrgang zur Lebensberatung -  Psychologische Beratung, Tiergestützte psychologische Beratung, Supervisions- und Aufstellungslehrgänge für Lebensberater\*innen, Sozialberater\*innen, Coaches ..., LSB-Upgrades, Einzel- und Gruppensupervision ... ) sowie  [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) (Psychologische Beratung, Krisen- & Suchtberatung, Sexualberatung, Beratung für Angehörige, Trauerbewältigung, Familienaufstellung, Gruppenselbsterfahrung, tiergestützte Beratung) an.
-
-Authentizität, Wertschätzung, Herzlichkeit, Professionalität und Lehrgangsstandards auf höchstem Niveau stehen dabei für [mich](/about/ueber_mich/) – und [mein Team](/about/team/) – immer an erster Stelle. An allen drei Standorten in **Wien**, im **Burgenland** und in **Niederösterreich**! 
-
-{{< silvia >}}
-
-\- Institutsleiterin \-
-
-{{% /floatbox %}}
+{{% intro %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -78,32 +66,22 @@ Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) 
 # Upgrades / Fortbildung / Supervision
 
 ***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/vertrauenslehrer_bgld.jpg" title="An drei Standorten, in Wien auf der Mariahilferstraße, im Burgenland in Pinkafeld sowie in Niederösterreich in Sankt Pölten, finden zahlreiche Angebote wie die Ausbildung zum/zur Dipl. Lebensbeater/*in – psychologischen Berater/*in, Upgrades in Aufstellungsarbeit und Supervision, Fortbildung in tiergestützter Arbeit, Coaching, Fortbildungen in der Sexualberatung und Paarberatung statt.">}}
-
-#### Qualitätsausbildungen
+{{% box more="true" %}}
+{{< card-more title="Qualitätsausbildungen" img="vertrauenslehrer_bgld.jpg" alt="An drei Standorten, in Wien auf der Mariahilferstraße, im Burgenland in Pinkafeld sowie in Niederösterreich in Sankt Pölten, finden zahlreiche Angebote wie die Ausbildung zum/zur Dipl. Lebensbeater*in – psychologischen Berater*in, Upgrades in Aufstellungsarbeit und Supervision, Fortbildung in tiergestützter Arbeit, Coaching, Fortbildungen in der Sexualberatung und Paarberatung statt.">}}
 
 **Wien – Burgenland – Niederösterreich:** 
 Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen **WKO zertifizierten [Diplomlehrgänge zur Lebens- und Sozialberatung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/)**, die einmal wöchentlich berufsbegleitend stattfinden. Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades (wie [Supervision](ausbildungsangebote/lsb-upgrade-supervisionslehrgang/) und [Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/)) von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert\*innen- und [Referent\*innen-Team](/about/referenten-lsb/) verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. [Weitere Infos](/ausbildungsangebote/)
+{{< /card-more >}}
 
-{{% /small  %}}
+{{< card-more title="Berufsbild Lebensberatung" img="berufsbild_2021.jpg" alt="Wer Zuhören will, muss schweigen können. Aktives und empathisches Zuhören, Sicherheit und Ruhe ist die Grundlage jeder psychologischen Beratung. Am IFGE finden Sie einen Ort wo es um Sie und Ihre Anliegen und Gefühlen geht – frei von Bewertungen, Absichten und Besserwisserei. Getragen von dieser Atmosphäre und einer ressourcenorientierter Gesprächsführung, finden Sie Lösungen, die immer in Ihnen schlummern, jedoch nicht wahrgenommen werden können.">}}
 
-{{% small  %}}
-{{< image src="/img/berufsbild_2021.jpg" title="Wer Zuhören will, muss schweigen können. Aktives und empathisches Zuhören, Sicherheit und Ruhe ist die Grundlage jeder psychologischen Beratung. Am IFGE finden Sie einen Ort wo es um Sie und Ihre Anliegen und Gefühlen geht – frei von Bewertungen, Absichten und Besserwisserei. Getragen von dieser Atmosphäre und einer ressourcenorientierter Gesprächsführung, finden Sie Lösungen, die immer in Ihnen schlummern, jedoch nicht wahrgenommen werden können.">}}
-
-#### Berufsbild Lebensberatung
 Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychologischen Beratung (Lebens- und Sozialberatung LSB)](ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychologischen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](https://ifge.at/psychologische-beratung/berufsbild/) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](https://ifge.at/psychologische-beratung/berufsbild/).
-{{% /small  %}}
+{{< /card-more >}}
 
-{{% small  %}}
+{{< card-more title="Bildungsphilosophie" img="ausbildungsphilo_2021_1.jpg" alt="Am IFGE wird Ihnen, ab dem ersten Seminartag, die Rolle der psychologischen Beraterin des psychologischen Beraters nähergebracht. Schritt für Schritt wachsen Sie – durch theoretische Inputs und viel Üben in die neue Rolle hinein. Das gibt Ihnen die Sicherheit, damit Sie später mit Fachwissen und vielen praktischen Tools ausgestattet, in die Praxis starten können.">}}
 
-{{< image src="/img/ausbildungsphilo_2021_1.jpg" title="Am IFGE wird Ihnen, ab dem ersten Seminartag, die Rolle der psychologischen Beraterin des psychologischen Beraters nähergebracht. Schritt für Schritt wachsen Sie – durch theoretische Inputs und viel Üben in die neue Rolle hinein. Das gibt Ihnen die Sicherheit, damit Sie später mit Fachwissen und vielen praktischen Tools ausgestattet, in die Praxis starten können." >}}
-
-#### Bildungsphilosophie 
 Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb/), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren, Upgrades und Ausbildungen](/ausbildungsangebote/). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
-{{% /small  %}}
+{{< /card-more >}}
 {{% /box %}}
 
 {{% floatbox %}}

@@ -63,7 +63,7 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 
 {{% box blue=1 %}}
 
-## Warum den Module am IFGE besuchen?
+## Warum die Module am IFGE besuchen?
 {{% /box %}}
 {{% box more=1 blue=1 top-align=1 %}}
 {{% card-more title="Berufsbegleitendes Lernen" img="gruppe_noe.jpg" %}}
