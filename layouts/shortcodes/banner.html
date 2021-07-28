@@ -5,17 +5,30 @@
         background-size: cover;
         background-position-x: 90%;
         height: 600px;
-        margin: 1rem 0;
+        margin-top: 1rem;
     }
 
     .jumbo .message.desk {
         display: none;
         position: absolute;
-        bottom: 5%;
+        bottom: 13%;
         max-width: 40%;
         color: black;
         padding: 0.5rem;
         left: 20px;
+    }
+
+    .jumbo .title.desk {
+        display: none;
+        position: absolute;
+        top: 20%;
+        left: 30px;
+        max-width: 35%;
+    }
+    .jumbo .title.desk h2 {
+        font-size: 1.7rem;
+        font-weight: bold;
+        text-align: left;
     }
 
     .message.mobile {
@@ -31,7 +44,7 @@
             display: none;
         }
 
-        .jumbo .message.desk {
+        .jumbo .message.desk, .jumbo .title.desk {
             display: block;
         }
     }
@@ -44,8 +57,10 @@
 </style>
 
 <div class="jumbo">
+    <div class="title desk">
+        <h2>Menschen bewegen, begleiten & bereichern.</h2>
+    </div>
     <div class="message desk">
-        <h2>Menschen bewegen, begleiten und bereichern.</h2>
         <p>
             Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau
             das steht seit mehr als 10 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen
