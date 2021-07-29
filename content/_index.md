@@ -16,7 +16,7 @@ og_image: "/img/startseite_handy.jpg"
 
 {{% intro %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line >}}
 
 {{% box blue=1 more=1 %}}
 
