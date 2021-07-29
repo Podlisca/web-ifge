@@ -1,7 +1,7 @@
 <style>
     .jumbo {
         position: relative;
-        background-image: url('/img/silvia_startseite.jpg');
+        background-image: url('/img/startseite_handy.jpg');
         background-size: cover;
         background-position-x: 90%;
         height: 600px;
@@ -25,6 +25,7 @@
         left: 30px;
         max-width: 360px;
     }
+
     .jumbo .title.desk h2 {
         font-size: 1.7rem;
         font-weight: bold;
@@ -36,20 +37,22 @@
     }
 
     @media (min-width: 768px) {
-        .jumbo {            
+        .jumbo {
             background-position-x: center;
+            background-image: url('/img/silvia_startseite.jpg');
         }
 
         .message.mobile {
             display: none;
         }
 
-        .jumbo .message.desk, .jumbo .title.desk {
+        .jumbo .message.desk,
+        .jumbo .title.desk {
             display: block;
         }
     }
 
-    @media (max-width: 575px) {        
+    @media (max-width: 575px) {
         .jumbo {
             height: 250px;
         }
@@ -71,14 +74,13 @@
         <a href='{{ relref . "ausbildungsangebote" }}' class="cst-button">Mehr lesen</a>
     </div>
 </div>
-<div class="message mobile" style="margin: 3rem 0">
-    <h2>Menschen bewegen, begleiten und bereichern.</h2>
-        <p>
-            Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau
-            das steht seit mehr als 10 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen
-            Qualitätsausbildungen, begleiten sie bei ihrer beruflichen sowie persönlichen Entwicklung und bereichern
-            sie so mit neuen Perspektiven. Und das mit viel Intuition, fundiertem Fachwissen, jeder Menge Gefühl und
-            großem Erfolg.
-        </p>
-        <a href='{{ relref . "ausbildungsangebote" }}' class="cst-button">Mehr lesen</a>
+<div class="message mobile" style="margin: 1rem 0 2rem 0">
+    <p>
+        Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau
+        das steht seit mehr als 10 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen
+        Qualitätsausbildungen, begleiten sie bei ihrer beruflichen sowie persönlichen Entwicklung und bereichern
+        sie so mit neuen Perspektiven. Und das mit viel Intuition, fundiertem Fachwissen, jeder Menge Gefühl und
+        großem Erfolg.
+    </p>
+    <a href='{{ relref . "ausbildungsangebote" }}' class="cst-button">Mehr lesen</a>
 </div>
