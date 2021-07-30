@@ -16,7 +16,9 @@ og_image: "/img/startseite_handy.jpg"
 
 {{% intro %}}
 
-{{< line >}}
+*** 
+# Verschaffen Sie sich einen Überblick
+***
 
 {{% box blue=1 more=1 %}}
 
