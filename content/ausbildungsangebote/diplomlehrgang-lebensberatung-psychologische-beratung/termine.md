@@ -109,10 +109,10 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 Freitags von 14:00 bis 20:00 Uhr
 
-**noch ein Platz frei**
+**ausgebucht**
 
 
-[ANMELDUNG](/anmeldung.php)
+[Warteliste](/anmeldung.php)
 
 [Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
 
