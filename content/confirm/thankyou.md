@@ -13,14 +13,13 @@ draft: false
 {{% floatbox %}}
 
 
-
 {{< image src="/img/silvia_noe3.jpg" float="left" title="Siliva Podlisca" >}}
 
-Ich bedanke mich für Ihre Anmeldung und freue mich Ihnen als Dankeschön unser IFGE-Magazin zu schenken
+Ich bedanke mich für Ihre Anmeldung und freue mich Ihnen als Dankeschön unser IFGE-Magazin zu schenken.
 
-[Magazin](/downloads/LSB_20_termine.pdf)
+[Magazin](/downloads/magazin.pdf)
 
-Viel Spaß beim schmökern!
+Viel Spaß beim Schmökern!
 
 Herzliche Grüße
 
