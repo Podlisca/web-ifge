@@ -12,7 +12,7 @@ og_image: "/img/home_2021_1.jpg"
 
 {{< slogan >}}
 
-{{% banner %}}
+{{% banner img_position_x="79%" img_position_y="50%" alt="Silvia Podlisca" %}}
 
 {{% intro %}}
 

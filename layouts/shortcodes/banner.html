@@ -1,11 +1,12 @@
 <style>
     .jumbo {
+        display: none;
         position: relative;
-        background-image: url('/img/startseite_handy.jpg');
-        background-size: cover;
-        background-position-x: 90%;
-        height: 600px;
+        background-size: contain;
+        background-position-x: {{ .Get "img_position_x"}};
+        background-position-y: {{ .Get "img_position_y"}};        
         margin-top: 1rem;
+        background-repeat: no-repeat;
     }
 
     .jumbo .message.desk {
@@ -38,8 +39,9 @@
 
     @media (min-width: 768px) {
         .jumbo {
-            background-position-x: center;
-            background-image: url('/img/silvia_startseite.jpg');
+            display: block;
+            background-image: url('/img/silvia_startseite.jpg');            
+            height: 600px;
         }
 
         .message.mobile {
@@ -54,7 +56,7 @@
 
     @media (max-width: 575px) {
         .jumbo {
-            height: 250px;
+            height: 190px;
         }
     }
 </style>
@@ -75,6 +77,7 @@
     </div>
 </div>
 <div class="message mobile" style="margin: 1rem 0 2rem 0">
+    <img src="/img/startseite_handy.jpg" alt='{{ .Get "alt"}}'>
     <p>
         Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau
         das steht seit mehr als 10 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen
