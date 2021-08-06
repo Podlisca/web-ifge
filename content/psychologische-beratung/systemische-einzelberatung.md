@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_systemische-einzelberatung
 draft: false
-weight: 3
+weight: 2
 description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
 og_title: "Einzelsitzung – Systemische Beratung"
 og_image: "/img/systembrett_einzel_noe.jpg"
