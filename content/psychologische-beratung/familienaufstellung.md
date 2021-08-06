@@ -2,10 +2,10 @@
 title: "Familienaufstellung"
 menu: 
     main:
-        parent: gruppenselbsterfahrung
+        parent: psychologischeberatung
         identifier: familienaufstellung
 draft: false
-weight: 3
+weight: 4
 description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
 og_title: "Familienaufstellung mit Silvia Podlisca"
 og_image: "/img/aufstllung_noe3.jpg"
