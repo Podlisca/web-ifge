@@ -129,7 +129,7 @@ Samstags von 10:00 bis 16:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 19 herunterladen](/downloads/LSB_19_termine.pdf)
 {{% /small  %}}
 {{% /box %}}
 </div>
