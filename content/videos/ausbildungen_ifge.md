@@ -1,7 +1,7 @@
 ---
 title: "Ausbildungen am IFGE"
 draft: false
-weight: 3
+weight: 4
 type: blog
 description: "An mittlerweile 3 Standorten - in Wien, Niederösterreich und Burgenland  - vereinen wir Intuition, Fachwissen, Gefühl und Erfolg. Gemeinsam mit meinem exzellenten Fachreferent*innen-Team legen wir besonderen Wert auf individuelle Betreuung, fachliche Kompetenz, eine herzliche Atmosphäre, Arbeiten in Kleingruppen und eine top moderene Ausstattung. Da Bilder mehr als 1000 Worte sagen, bietet dieses Video eine wunderbare Möglichkeit, Einblicke in das Ausbildungsprogramm am IFGE zu bekommen – wo Ihre Berufung zum Beruf wird."
 rich_faq:

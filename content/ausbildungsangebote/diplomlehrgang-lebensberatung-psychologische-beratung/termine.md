@@ -167,7 +167,7 @@ Donnerstags von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 18 herunterladen](/downloads/LSB_18_termine.pdf)
 {{% /small  %}}
 {{% /box %}}
 </div>
