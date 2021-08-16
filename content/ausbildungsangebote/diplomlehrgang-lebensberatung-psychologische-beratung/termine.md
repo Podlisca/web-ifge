@@ -184,9 +184,9 @@ Donnerstags von 14:00 bis 20:00 Uhr
 #### Start: 05. September 2021
 
 Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch ein Platz frei**
+& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **ausgebucht**
 
-[ANMELDUNG](/anmeldung.php)
+[Warteliste](/anmeldung.php)
 
 [Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
 </div>
