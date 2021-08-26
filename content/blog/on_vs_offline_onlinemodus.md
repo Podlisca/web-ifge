@@ -1,6 +1,6 @@
 ---
 title: "On- vs. Offline – Was der Onlineraum (nicht) kann."
-draft: true
+draft: false
 tags: []
 weight: 119
 
