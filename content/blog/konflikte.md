@@ -46,3 +46,17 @@ http://www.zeitzuleben.de/besser-mit-konflikten-umgehen/
 https://www.uni-bielefeld.de/Universitaet/Ueberblick/Organisation/Verwaltung/Dez_III/Leitfaden_MA/konflikte.html                        
                                                                                                                                                              
 
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [PAPA, WO BIST DU?](https://www.ifge.at/blog/papa/)
+* [SEINEN PLATZ IN DER FAMILIE FINDEN - ÜBER DIE WIRKUNG DES FAMILIENSTELLENS](https://www.ifge.at/blog/wirkung_familienstellen/)
+* [EPIGENETIK: WIE UNSERE ZELLEN DEN SCHMERZ VERGANGENER GENERATIONEN SPEICHERN](https://www.ifge.at/blog/epigenetik/)
+* [IST TRAUMATISIERUNG DAS NEUE BURN-OUT? VOM ACHTSAMEN UMGANG MIT BEGRIFFEN](https://www.ifge.at/blog/traumatisierung-vs.-trauma/)
+* [TRAUMATA, REAKTIVIERUNG & RETRAUMATISIERUNG: EIN KOMPLEXES, VIELSCHICHTIGES THEMA](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/)
+* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
+* [DIGITALER ANGRIFF AUF DIE PSYCHE: DIESE GEFAHREN LAUERN IM INTERNET](https://www.ifge.at/blog/gefahr_internet/)
+* [GHOSTING](https://www.ifge.at/blog/ghosting/)
+* [TIERE ALS WERTVOLLE BEREICHERUNG IN DER BERATUNG](https://www.ifge.at/blog/tiere_beratung/)
+* [DAMIT ES IM BETT SO RICHTIG NETT WIRD](https://www.ifge.at/blog/nett_im_bett/)
+
+<br/>
