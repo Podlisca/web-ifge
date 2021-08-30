@@ -1,11 +1,11 @@
-﻿---
-title: "Familienaufstellung"
-menu: 
+---
+title: "Familienaufstellungen"
+menu:
     main:
-        parent: gruppenselbsterfahrung
-        identifier: familienaufstellung
+        parent: psychologischeberatung
+        identifier: familienaufstellungen
 draft: false
-weight: 3
+weight: 4
 description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
 og_title: "Familienaufstellung mit Silvia Podlisca"
 og_image: "/img/aufstllung_noe3.jpg"
@@ -58,7 +58,7 @@ rich_faq:
 
 ## FAMILIENAUFSTELLUNG mit Silvia Podlisca - ganzheitliche Lösungen mit Weitblick
 
-{{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
+{{< image src="/img/aufstellung_noe1.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
 
 Systemische Beratung kann sowohl in Einzelsitzungen, als auch in Form von Gruppenseminaren die Lösung für die Probleme in den verschiedensten Lebenssituationen darstellen.
 
@@ -67,6 +67,7 @@ Familienaufstellung nach Bert Hellinger ist eine sehr schöne Versöhnungsarbeit
 Versöhnung kann nicht die Vergangenheit verändern – sie bereichert aber unsere Zukunft ungemein!
 
 {{% silvia %}}
+
 
 {{% /floatbox %}}
 
@@ -87,7 +88,7 @@ Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum ver
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/aufstellung_noe1.jpg" float="right" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
+{{< image src="/img/aufstllung_noe3.jpg" float="right" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
 
 Nur wenn jeder das gleiche Recht hat, dazuzugehören -- frei von Wertung und der Überheblichkeit, sich besser oder größer als eine ausgeschlossene oder ungeliebte Person zu fühlen –, empfindet sich die Sippe vollständig und in der sogenannten Familienseele kehrt Einklang und Frieden ein. 
 
