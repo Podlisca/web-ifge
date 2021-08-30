@@ -32,3 +32,15 @@ Also ganz gleich, was Sie lernen wollen: Ihr Alter ist kein Hindernis, sondern e
 **Quelle:** 
 
 https://www.dasgehirn.info/grundlagen/das-gehirn-im-alter/weise-greise
+
+<br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [DER TRAUM VON DER EIGENEN PRAXIS – VOM SINN UND UNSINN DER SELBSTSTÄNDIGKEIT](https://www.ifge.at/blog/sinn-und-unsinn-der-gr%C3%BCndung/)
+* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
+* [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
+* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
+* [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
+
+<br/>

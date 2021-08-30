@@ -70,3 +70,12 @@ Sollten Sie sich derzeit in Ausbildung be- und vor allem in den Punkten wiederfi
 <br/>
 {{< silvia >}}
 <br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
+* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
+* [LEBENSLANGES LERNEN – HEUTE IST FRÜH GENUG](https://www.ifge.at/blog/lebenslanges_lernen/)
+* [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
+
+<br/>

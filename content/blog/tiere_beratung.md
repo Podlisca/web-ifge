@@ -42,3 +42,17 @@ Die Vierbeiner stellen eine hilfreiche Stütze im Beratungsprozess dar und könn
 
 http://www.paracelsus-magazin.de/alle-ausgaben/82-heft-022015/1325-tiergestuetzte-interventionen-in-therapie-und-beratung.html
 
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [PAPA, WO BIST DU?](https://www.ifge.at/blog/papa/)
+* [SEINEN PLATZ IN DER FAMILIE FINDEN - ÜBER DIE WIRKUNG DES FAMILIENSTELLENS](https://www.ifge.at/blog/wirkung_familienstellen/)
+* [EPIGENETIK: WIE UNSERE ZELLEN DEN SCHMERZ VERGANGENER GENERATIONEN SPEICHERN](https://www.ifge.at/blog/epigenetik/)
+* [IST TRAUMATISIERUNG DAS NEUE BURN-OUT? VOM ACHTSAMEN UMGANG MIT BEGRIFFEN](https://www.ifge.at/blog/traumatisierung-vs.-trauma/)
+* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
+* [DIGITALER ANGRIFF AUF DIE PSYCHE: DIESE GEFAHREN LAUERN IM INTERNET](https://www.ifge.at/blog/gefahr_internet/)
+* [HAPPY AGING](https://www.ifge.at/blog/happy_aging/)
+* [GHOSTING](https://www.ifge.at/blog/ghosting/)
+* [DAMIT ES IM BETT SO RICHTIG NETT WIRD](https://www.ifge.at/blog/nett_im_bett/)
+
+
+<br/>

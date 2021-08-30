@@ -45,3 +45,11 @@ Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut lie
 
 {{< silvia >}}
 <br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
+* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
+* [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
+
+<br/>
