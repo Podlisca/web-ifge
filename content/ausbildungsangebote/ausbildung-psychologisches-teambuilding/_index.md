@@ -29,9 +29,14 @@ rich_faq:
 
 {{< line icon="icon/teambuilding.png" >}}
 
+
+## Menschen fördern. Teams stärken.
+
 {{% floatbox %}}
 
 {{< image src="/img/team_6.jpg" title="Lernen Sie als Coach wie Sie Teamspiele psychologisch betrachten und wie Sie das Beobachtete nutzbar für vertiefende, zielbringende Interventionen machen können." float="left">}}
+
+
 
 **Methodenschwerpunkt:** viele Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
 

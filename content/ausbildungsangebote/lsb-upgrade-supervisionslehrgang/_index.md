@@ -27,22 +27,26 @@ rich_faq:
 {{< slogan >}}
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
+## Einander begegnen. Einander bereichern.
 
 {{% floatbox %}}
 
 {{< image src="/img/ambivalenz_2021_1.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
 
-Sie möchten gerne angehende [Lebens- und Sozialberater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) hinsichtlich deren Beratungs- und Methodenkompetenz supervidieren und mit diesen konkrete Fälle besprechen? Dann fühlen Sie sich herzlich willkommen in unserem Upgrade zur Supervision! Dieser Lehrgang richtet sich an alle Lebens- und Sozialberater\*innen - psychologische Berater\*innen, die ihr Wissen und ihre Erfahrung gerne an angehende Kolleg*innen im Rahmen der Supervision weitergeben möchten. 
 
-Dies erfordert neben einer aufrechten Gewerbeberechtigung den Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung). 
+Supervision ist ein zentraler Bestandteil einer professionellen beruflichen Haltung. Nicht nur in der [psychosozialen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/), sondern auch in vielen anderen Berufsfeldern. Nur, wer seine Rolle, seine Methodik und seine Erfahrungen laufend reflektiert, bewahrt eine so wichtige kritische Haltung, entwickelt sich weiter und geht mit der Zeit. 
 
-Diese 100 Stunden sind mit unserem Lehrgang zur Gänze abgedeckt.
+Wer als Coach tätig ist, viel mit Gruppen arbeitet oder angehende Lebens- und Sozialberater\*innen supervidieren, mit ihnen konkrete Fälle besprechen und sie damit in ihrer Entwicklung unterstützen möchte, für den ist das Upgrade [Supervision](https://www.ifge.at/supervision/philosophie/) interessant.
 
-Für die Aufnahme in die [Supervisorenliste der WKO/Wirtschaftskammer](https://firmen.wko.at/suche_lebensberater-supervision/), ist zusätzlich ein Praktikum im Ausmaß von 100 Stunden im Bereich der Supervision  sowie 5 Einzelsupervisonsstunden (Bestätigung durch eine/n beim Fachverband eingetragene/n Supervisor\*in)  vorgeschrieben. Sollten Sie das Praktikum und die Einzelsupervisionsstunden nicht absolvieren, können Sie angehende Kolleg*innen supervidieren. Allerdings werden Sie NICHT in die Liste der Wirtschaftskammer für Supervisor\*innen aufgenommen. 
+Der Lehrgang richtet sich an Lebens- und Sozialberater\*innen – psychologische Berater\*innen, die Wissen und Erfahrungen mit angehenden Kolleg\*innen teilen möchten, viel im Gruppensetting aktiv sind oder als Coaches arbeiten. Die Zertifizierung als Supervisor\*in erfordert neben einer aufrechten Gewerbeberechtigung den Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung). Diese 100 Stunden werden mit unserem Lehrgang zur Gänze abgedeckt. 
+
+Wer sich in weiterer Folge in die [Supervisorenliste der WKO ](https://firmen.wko.at/suche_lebensberater-supervision/)eintragen lassen möchte, muss zusätzlich ein Praktikum im Ausmaß von 100 Stunden im Bereich der Supervision sowie 5 Einzelsupervisionsstunden absolvieren (Bestätigung durch eine/n beim Fachverband eingetragene/n Supervisor\*in). 
+
+WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
+
 
 **Nach dieser Ausbildung dürfen Sie Supervision von Lebens- und Sozialberater\*innen in Ausbildung anbieten.**
 
-WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
 
 {{% /floatbox %}}
 

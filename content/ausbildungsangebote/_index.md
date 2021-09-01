@@ -30,6 +30,8 @@ aliases:
 {{< linebreak >}}
 {{% /float-images %}}
 
+## Menschen bilden, begleiten und bereichern
+
 In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
 {{% box %}}
 * Herzlichkeit,

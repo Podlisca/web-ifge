@@ -39,14 +39,17 @@ rich_faq:
 
 {{% floatbox %}}
 
-## TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
+## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
 {{< image src="/img/tiergestuetzt_2021.jpg" title="BTiere in der Beratung erleichtern vielen Menschen den Zugang zu den eigenen Gefühlen. Am IFGE lernen Sie, wie Sie Hunde und Katzen in den Beratungsprozess einbauen." float="left" >}}
 
-**Schwerpunkt Tiere:** Hund & Katze<br/>
-**Schwerpunkt Kommunikation:** Systemik & Hypnosystemik, Konfliktmanagement,  gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
+Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret in der [tiergestützten psychologischen Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/). Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
 
-Die Fortbildung "Tiergestützte psychologische Beratung" ist insbesondere für [Lebens- und Sozialberater\*innen - psychologische Berater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) sowie Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, interessant,  die sich durch einen starken Bezug zu Tieren auszeichnen und die die positiven Effekte, die Vierbeiner auf uns Menschen haben, gerne in den Beratungsprozess einsetzen möchten.
+In diesem Lehrgang bilden wir Menschen aus und nicht Tiere. Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. Der Lehrgang Tiergestützte psychologische Beratung richtet sich an [Lebens- und Sozialberater\*innen - psychologische Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten. Damit tiergestützte Beratung für Klient\*innen nachhaltig erfolgreiche Ergebnisse erzielt und auch dem Tier Freude bereitet, braucht es fundiertes Wissen, die richtigen Methoden und Anwendungskompetenz. Dies steht im Zentrum der Fortbildung. 
+
+Schwerpunkt Tiere: Hund & Katze
+Schwerpunkt Kommunikation: Systemik & Hypnosystemik, Konfliktmanagement, gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
+
 
 {{% /floatbox %}}
 

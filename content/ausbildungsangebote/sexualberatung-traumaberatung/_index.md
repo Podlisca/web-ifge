@@ -17,23 +17,19 @@ aliases:
 {{< slogan >}}
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
+
+## Sexualität offen ansprechen. Unsicherheit gezielt abbauen.
+
 {{% floatbox %}}
 
 {{< image src="/img/silvia_rot.jpg" title="Sexualität, Intimität und Nähe sind Themen, die uns alle betreffen und oftmals sehr betroffen machen. Gefühle wie Frustration, Ohnmacht, Wut aber auch Freude werden besonders intensiv erlebt. Gerade deshalb ist es wichtig, dass Lebens- und Sozialberater\*innen – psychologische Berater\*innen besonders geschult werden. Am IFGE erhalten Sie nicht nur fachliche Kompetenzen, sondern Sie lernen auch, mit schwierigen Themen in der psychologischen Beratung umzugehen." float="left" >}}
 
-**Methodenschwerpunkt:** gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, systemische Gesprächsführung
+Die Sexualität eines Menschen beeinflusst seine Identität, sein Selbstbild und seinen Selbstwert. Kein Wunder also, dass Sexualität häufig Ursprung von Unsicherheiten, Sorgen und Problemen ist. Sexualität zeigt sich in den Medien präsenter denn je und unsere Gesellschaft zeichnet nach außen gerne ein offenes und tolerantes Bild. Die Realität sieht aber häufig anders aus. 
 
-Auch wenn Sexualität in Medien heute präsenter zu sein scheint als je zuvor und unsere Gesellschaft sich vermeintlich so offen wie nie gibt, zeigt sich das tatsächliche, individuelle sexuelle Erleben für viele Menschen häufig problembehaftet. 
+Viele Menschen empfinden sexuelle Bedürfnisse und Traumata als Tabuthemen. Themen, die in Gesellschaft, manchmal sogar gegenüber den eigenen Partner\*innen, nicht angesprochen werden. Umso wichtiger ist das Angebot von [Sexual- und Paarberatung](/psychologische-beratung/spezialisierungen/sexualitaetpaare/), die mit den richtigen Methoden sexuelle Identität beraten und begleiten.
 
-Eben weil die vielerorts zur Schau gestellte sexuelle Offenheit so präsent ist, gibt es mehr und mehr Personen, die sich verunsichert fühlen und es nicht wagen, die eigenen sexuellen Unsicherheiten, Anliegen, Probleme und Sorgen mit ihren Partner\*innen oder mit Freunden zu teilen. 
+Als zentrale Säule der [psychologischen Lebens- und Sozialberatung](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) ist [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) Bestandteil vieler Ausbildungsprogramme. Allerdings häufig nur am Rande, oberflächlich und nicht in der Tiefe, welche dieses sensible Thema de facto erfordert und verdient hat. Der Lehrgang richtet sich an diplomierte oder sich in Ausbildung befindende Lebens- und Sozialberater*innen, die sich auf den Bereich Sexualberatung fokussieren oder ihr (Methoden-)Wissen erweitern möchte.
 
-Der Bereich der [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/) ist damit eine wesentliche Säule der psychologischen Beratung, weil er vielen Menschen überhaupt erst ermöglicht, in einem geschützten, wertfreien und sicheren Rahmen über intime Anliegen zu sprechen. [Weitere Infos](#was-bietet-unser-lehrgang)
-
-Da es für Klient\*innen großes Vertrauen in die Beratenden benötigt, um sich in einem derart gelagerten Beratungsprozess überhaupt zu öffnen, sind geschulte und empathiefähige Berater\*innen immer wieder gefragt. Weil das Feld der Sexualberatung aufgrund der hochintimen Anliegen der Klient\*innen ein besonders sensibles ist, ist es wichtig, möglichst umfassend im Bereich der [Sexual- und Paarberatung](/psychologische-beratung/spezialisierungen/sexualitaetpaare/) ausgebildet zu sein, um die eigenen Klient\*innen optimal unterstützen zu können. Viele Ausbildungen im Bereich der [Lebens- und Sozialberatung - psychologischen Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) streifen dieses Themengebiet nur kurz, wodurch sich manche Lebens- und Sozialberater\*innen - psychologische Berater\*innen mit sexuellen Klient\*innen-Anliegen unwohl oder gar überfordert fühlen.
-
-{{< image src="/img/paar_2021.jpg" title="Psychologische Beratung oder Sexualberatung? Paarberatung oder Paar-Sexualberatung? Mach dies überhaupt einen Unterschied in der Lebensberatung – psychologischen Beratung? JA – macht es! Lernen Sie die Unterschiede in der Herangehensweise am IFGE kennen und erweitern Sie Ihr Angebot als Lebensberater\*in – psychologische Berater\*in." float="right">}}
-
-Während am IFGE zwar bereits in der Grundausbildung zur Lebens- und Sozialberatung – psychologischen Beratung ein besonderes Hauptaugenmerk auf die Besonderheiten und Interventionsmöglichkeiten in der Paar- und Sexualberatung gelegt wird, können im Rahmen der Gesamtausbildung bestimmte vertiefende Themen dennoch nur im Überblick für die reguläre Arbeit in der psychologischen Beratung behandelt werden. Wer sich später auf das Thema „Sexualberatung“ spezialisieren und das in der Grundausbildung erlernte Wissen vertiefen sowie erweitern möchte, der hat dazu in unserem Upgrade die Möglichkeit. Die Fortbildung eignet sich darüber hinaus selbstverständlich auch für alle diplomierten oder sich in Ausbildung befindlichen psychologischen Berater\*innen anderer Ausbildungsinstitute, die ihre Interventionsmöglichkeiten vertiefen möchten.
 
 {{% /floatbox %}}
 
