@@ -46,7 +46,7 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-### 23.08. - 27.08.2021<br/>
+### 22.08. - 26.08.2022<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
@@ -60,7 +60,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-### 26.07. - 30.07.2021<br/>
+### 25.07. - 29.07.2022<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
