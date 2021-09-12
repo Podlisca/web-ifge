@@ -50,3 +50,11 @@ http://flexikon.doccheck.com/de/Psychohygiene
 
 http://diepsyche.de/psychohygiene-die-seelische-gesundheit-bewahren/
 
+<br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [SELBSTFÜRSORGE: WARUM SIE NIE WICHTIGER WAR - GERADE JETZT](https://www.ifge.at/blog/selbstfuersorge_corona/)
+* [15 TIPPS, WIE SIE DEN ADVENT UND WEIHNACHTEN TROTZ CORONA GENIESSEN](https://www.ifge.at/blog/advent_weihnachten_corona/)
+* [NEUJAHRSVORSÄTZE – ZUM SCHEITERN VERURTEILT](https://www.ifge.at/blog/neujahrsvorsaetze/)
+<br/>

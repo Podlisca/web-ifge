@@ -1,6 +1,6 @@
 ---
 title: "Das ICH im WIR – Warum wir uns in einer Partnerschaft hin- und nie aufgeben sollten"
-draft: true
+draft: false
 tags: []
 weight: 118
 
@@ -33,4 +33,10 @@ Die Qualität von Partnerschaften hängt stark von der Qualität der Kommunikati
 
 <br/>
 {{< silvia >}}
+<br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [WAS BEZIEHUNGEN IM JAHR DER PANDEMIE GEPRÄGT HAT](https://www.ifge.at/blog/einsamkeit_zweisamkeit/)
+* [PSYCHOLOGISCHE BERATUNG: WAS GENAU IST DENN DAS?](https://www.ifge.at/blog/was_ist_psychologische_beratung/)
 <br/>

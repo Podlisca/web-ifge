@@ -1,7 +1,7 @@
 ---
 title: "IFGE Software"
 draft: false
-weight: 2
+weight: 3
 type: blog
 description: "Unsere Software macht es uns und den Schüler*innen noch leichter, uns auf Corona bedingte Einschränkungen so einstellen, dass niemand auch nur einen Tag am Weg zur Diplomprüfung verliert. Außerdem werden sowohl das Lernen, das Sammeln aller nötigen Stunden für die fachliche Assistenz, als auch das An-, Ab- und Ummelden verschiedenster Kursseminare noch angenehmer, flexibler und übersichtlicher."    
 rich_faq:

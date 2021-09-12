@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 3
 description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
-og_title: "Familienaufstellung nach Bert Hellinger"
+og_title: "Familienaufstellung mit Silvia Podlisca"
 og_image: "/img/aufstllung_noe3.jpg"
 rich_faq:
     -   frage: "Was ist eine Familienaufstellung?"
@@ -67,6 +67,7 @@ Familienaufstellung nach Bert Hellinger ist eine sehr schöne Versöhnungsarbeit
 Versöhnung kann nicht die Vergangenheit verändern – sie bereichert aber unsere Zukunft ungemein!
 
 {{% silvia %}}
+
 {{% /floatbox %}}
 
 {{< line icon="icon/aufstellung.png" >}}
@@ -142,6 +143,26 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Familienaufstellung in St. Pölten Tag 1
+{{< youtube NY2Foh8-Fbo >}}
+Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und wie sich die Methode weiterentwickelt hat. Lösungen im Einklang mit der Familiensystem und den persönlichen Wünschen.
+{{% /small  %}}
+
+{{% small  %}}
+#### Familienaufstellung in St. Pölten Tag 2
+{{< youtube 9sTJHky6cUA >}}
+Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
+{{% /small  %}}
+{{% small  %}}
+#### Familienaufstellung in St. Pölten Tag 3
+{{< youtube Ut0nAJ_Qh-Y >}}
+
+Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
+{{% /small  %}}
+{{% /box %}}
+
 [Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
 **Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
@@ -158,7 +179,7 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 
 {{% small  %}}
 #### Burgenland
-{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 {{% /small  %}}
 {{% small  %}}

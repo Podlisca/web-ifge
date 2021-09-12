@@ -29,15 +29,19 @@ rich_faq:
 
 {{< line icon="icon/teambuilding.png" >}}
 
+
+## Menschen fördern. Teams stärken.
+
 {{% floatbox %}}
 
 {{< image src="/img/team_6.jpg" title="Lernen Sie als Coach wie Sie Teamspiele psychologisch betrachten und wie Sie das Beobachtete nutzbar für vertiefende, zielbringende Interventionen machen können." float="left">}}
 
-**Methodenschwerpunkt:** viele Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
+Dynamik, Zusammenhalt und Einstellung von Teams ist ein wichtiger Erfolgsfaktor für Projekte, Unternehmen und Organisationen. Mit den richtigen Tools und Methoden können Teams als soziale Systeme ganzheitlich verstanden und damit aktiv gefördert werden. Teambuilding stärkt nicht nur einzelne Menschen bzw. Mitarbeiter\*innen, sondern durch den Aufbau von Vertrauen, Verständnis und Verantwortung ganze Teams.
 
-Sie möchten als [Lebens- und Sozialberater\*innen – psychologische Berater\*innen](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung.html) – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder Trainer\*in erweitern? Die facettenreiche Arbeit mit Gruppen bereitet Ihnen Freude, doch bei so mancher Team-Dynamik geraten auch Sie noch an Ihre Grenzen?
+Wer sich als [Lebens- und Sozialberater\*in](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/) im wirtschaftlichen Bereich wohlfühlt oder sein Angebot als Business Coach und Trainer\*in erweitern möchte, der kann durch die Ausbildung psychologisches Teambuilding sein Methodenwissen erweitern. In dieser Weiterbildung lernen Sie zahlreiche Indoor- und Outdoortools für die aktive Begleitung und Unterstützung von Teams kennen. Auch fachliche Reflexion ist ein zentraler Pfeiler des Kurses.
 
-Dann ist unsere vielseitige, nachhaltige und vor allem praxisorientierte Fortbildung für psychologisches Teambuilding möglicherweise genau das Richtige für Sie. Denn in dieser Zusatzausbildung geht es um sehr viel mehr als um das reine Kennenlernen diverser „Teamspielchen“.
+Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
+
 
 {{% /floatbox %}}
 

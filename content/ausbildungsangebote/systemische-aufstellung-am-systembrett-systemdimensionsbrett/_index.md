@@ -16,18 +16,17 @@ og_image: "/img/brett_2.jpg"
 
 {{< line icon="icon/aufstellung.png" >}}
 
-#### SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT 
+## Systeme aufstellen. Menschen verstehen.
 
 {{% floatbox %}}
 
 {{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETt“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
 
-Die Weiterbildung, welche 32 Stunden umfasst, gestaltet sich in höchstem Maße übungsorientiert. Der Focus der Ausbildung liegt auf der [systemische Einzelarbeit](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. 
 
-Die Zusatzausbildung zur Systemischen Aufstellungsarbeit am Systembrett richtet sich an [Dipl. Lebens- und Sozialberater\*innen – psychologische Berater*innen](https://www.ifge.at/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/), die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting  oder in Gruppenseminaren gesammelt haben.
 
-Die Ausbildung wir von Institutsleiterin [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) persönlich geleitet.
+Bedürfnisse, Konflikte und herausfordernde Lebenssituationen von Menschen erwachsen häufig aus ihrem Umfeld. Für psychosoziale Berater\*innen ist es daher wichtig, über Expertise und Methodenkompetenz in der systemischen Aufstellung zu verfügen. Wer Themen kontextualisieren kann, kann Klient\*innen ganzheitlich verstehen und damit besser in ihrer Entwicklung unterstützen.
 
+Die Weiterbildung Systemische Aufstellung am Systembrett richtet sich an diplomierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting oder in Gruppenseminaren mitbringen. Die Zusatzausbildung umfasst ein Pensum von 32 Stunden und ist übungsorientiert ausgerichtet. Die Inhalte, Methoden und Tools, deren Fokus auf systematischer Einzelarbeit mit Klient\*innen liegt, werden Ihnen durch praktische Übungen und reale Anwendungen nähergebracht.
 
 {{% /floatbox %}}
 

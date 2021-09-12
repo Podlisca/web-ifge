@@ -106,7 +106,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-**Dreitagesaufstellung: 15.10. - 17.10.2021**<br/>
+**Dreitagesaufstellung: 19.11. - 21.11.2021**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
@@ -114,11 +114,51 @@ Sa. u.So. von 09:00 - 18:00 Uhr
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
+**Dreitagesaufstellung: 22.04. - 24.04.2022**<br/>
+Fr. von 14:00 - 20:00 Uhr, <br/>
+Sa. u.So. von 09:00 - 18:00 Uhr 
+
+**25.09.2022**	von 10:00 - 16:00 Uhr
+**02.10.2022**	von 10:00 - 16:00 Uhr      
+
 **Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
+**25.09.2022**	von 10:00 - 16:00 Uhr
+**02.10.2022**	von 10:00 - 16:00 Uhr
+**13.11.2022**	von 10:00 - 16:00 Uhr
+**20.11.2022**	von 10:00 - 16:00 Uhr
+**16.04.2023**	von 10:00 - 16:00 Uhr
+**07.05.2023**	von 10:00 - 16:00 Uhr
+**14.05.2023**	von 10:00 - 16:00 Uhr
+**04.06.2023**	von 10:00 - 16:00 Uhr
+**15.10.2023**	von 10:00 - 16:00 Uhr
+**09.11.2023**	von 10:00 - 16:00 Uhr
+**10.12.2023**	von 10:00 - 16:00 Uhr
+**28.01.2024**	von 10:00 - 16:00 Uhr
 [Anmeldung](/anmeldung.php)
+{{% /small  %}}
+{{% /box %}}
+
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Familienaufstellung in St. Pölten Tag 1
+{{< youtube NY2Foh8-Fbo >}}
+Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und wie sich die Methode weiterentwickelt hat. Lösungen im Einklang mit der Familiensystem und den persönlichen Wünschen.
+{{% /small  %}}
+
+{{% small  %}}
+#### Familienaufstellung in St. Pölten Tag 2
+{{< youtube 9sTJHky6cUA >}}
+Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
+{{% /small  %}}
+{{% small  %}}
+#### Familienaufstellung in St. Pölten Tag 3
+{{< youtube Ut0nAJ_Qh-Y >}}
+
+Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
 {{% /small  %}}
 {{% /box %}}
 

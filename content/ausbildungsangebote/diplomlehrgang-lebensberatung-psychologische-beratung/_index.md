@@ -50,18 +50,17 @@ rich_faq:
 
 {{< image src="/img/lsb_start_2021.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
-Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung").
+## Probleme lösen. Perspektiven erarbeiten.
 
-Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
+Bedürfnisse, Sehnsüchte und Ängste. Unsicherheiten, Konflikte und Krisen. Stillstand, Veränderung und Verbesserung. Das alles gehört zu unserem Leben dazu. Aber nicht immer können und/oder wollen Menschen herausfordernde Lebenssituationen alleine bewältigen. Umso wichtiger, dass es fachlich qualifizierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
 
-Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen - psychologische Berater\*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
-
-Am [IFGE](/about/institut/) wird die Grundausbildung mit folgenden Schwerpunkten angeboten:
-
-**Systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung**
+Als Lebens- und Sozialberater\*in – psychologische Berater\*in arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch keine krankhaften Störungen aufweisen*. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
 
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
+<br/>
+
+*entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
 
 {{% /floatbox %}}
 

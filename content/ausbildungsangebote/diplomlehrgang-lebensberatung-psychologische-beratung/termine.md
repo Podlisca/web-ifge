@@ -51,7 +51,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 #### Burgenland
 
-{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 * 10.09.2021
 * 18.10.2021
@@ -129,7 +129,7 @@ Samstags von 10:00 bis 16:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 19 herunterladen](/downloads/LSB_19_termine.pdf)
 {{% /small  %}}
 {{% /box %}}
 </div>
@@ -167,7 +167,7 @@ Donnerstags von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-genauer Kursplan folgt 
+[Termine LSB 18 herunterladen](/downloads/LSB_18_termine.pdf)
 {{% /small  %}}
 {{% /box %}}
 </div>
@@ -184,9 +184,9 @@ genauer Kursplan folgt
 #### Start: 05. September 2021
 
 Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **noch ein Platz frei**
+& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **ausgebucht**
 
-[ANMELDUNG](/anmeldung.php)
+[Warteliste](/anmeldung.php)
 
 [Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
 </div>

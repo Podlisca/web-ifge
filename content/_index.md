@@ -12,7 +12,7 @@ og_image: "/img/home_2021_1.jpg"
 
 {{< slogan >}}
 
-{{% banner img_position_x="79%" img_position_y="50%" alt="Silvia Podlisca" %}}
+{{% banner img_position_x="90%" img_position_y="20%" alt="Silvia Podlisca" %}}
 
 {{% intro %}}
 
@@ -118,7 +118,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 
 {{% small  %}}
 #### Burgenland
-{{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/buero_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 {{% /small  %}}
 {{% small  %}}

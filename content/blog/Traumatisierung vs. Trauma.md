@@ -80,4 +80,18 @@ All diese genannten Punkte müssen Sie nicht alleine für sich neu in Ihr Leben 
 <br/>
 {{< silvia >}}
 <br/>
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [TRAUMATA, REAKTIVIERUNG & RETRAUMATISIERUNG: EIN KOMPLEXES, VIELSCHICHTIGES THEMA](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/)
+* [PAPA, WO BIST DU?](https://www.ifge.at/blog/papa/)
+* [SEINEN PLATZ IN DER FAMILIE FINDEN - ÜBER DIE WIRKUNG DES FAMILIENSTELLENS](https://www.ifge.at/blog/wirkung_familienstellen/)
+* [EPIGENETIK: WIE UNSERE ZELLEN DEN SCHMERZ VERGANGENER GENERATIONEN SPEICHERN](https://www.ifge.at/blog/epigenetik/)
+* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
+* [DIGITALER ANGRIFF AUF DIE PSYCHE: DIESE GEFAHREN LAUERN IM INTERNET](https://www.ifge.at/blog/gefahr_internet/)
+* [HAPPY AGING](https://www.ifge.at/blog/happy_aging/)
+* [GHOSTING](https://www.ifge.at/blog/ghosting/)
+* [TIERE ALS WERTVOLLE BEREICHERUNG IN DER BERATUNG](https://www.ifge.at/blog/tiere_beratung/)
+* [DAMIT ES IM BETT SO RICHTIG NETT WIRD](https://www.ifge.at/blog/nett_im_bett/)
+
+
 <br/>

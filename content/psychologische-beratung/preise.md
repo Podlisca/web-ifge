@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_preise
 draft: false
-weight: 8
+weight: 
 ---
 
 

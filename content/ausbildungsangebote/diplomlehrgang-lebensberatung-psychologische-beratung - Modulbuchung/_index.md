@@ -31,8 +31,9 @@ rich_faq:
 
 {{< image src="/img/modulbuchung.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
-Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung")
+## Probleme lösen. Perspektiven erarbeiten.
 
+Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. 
 Sollten Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wirtschaftskammer](https://www.lebensberater.at/) angerechnet worden sein, so ist es möglich folgende Module am IFGE einzeln zu buchen:
 {{% box top-align=1 %}}
 {{% small %}}
@@ -50,6 +51,9 @@ Sollten Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wi
 <br/>
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
+
+
+Entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den "Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung")
 {{% /small  %}}
 
 {{% /box %}}

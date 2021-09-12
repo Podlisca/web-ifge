@@ -76,3 +76,13 @@ PsychiaterInnen werden ebenso gerne in einem Atemzug mit PsychologInnen, Klinisc
 
 {{< silvia >}}
 <br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [EPIGENETIK: WIE UNSERE ZELLEN DEN SCHMERZ VERGANGENER GENERATIONEN SPEICHERN](https://www.ifge.at/blog/epigenetik/)
+* [WORAN GLAUBEN SIE? VOM UMGANG MIT ABSCHIED, VERLUST UND TRAUER](https://www.ifge.at/blog/glaube_abschied/)
+* [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
+* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
+* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
+
+<br/>
