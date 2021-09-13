@@ -8,7 +8,7 @@ draft: false
 weight: 3
 description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
 og_title: "Einzelsitzung – Systemische Beratung"
-og_image: "/img/systembrett_einzel_noe.jpg"
+og_image: "/img/system_einzel.jpg"
 ---
 
 # Einzelsitzung – Systemische Beratung
@@ -22,7 +22,7 @@ og_image: "/img/systembrett_einzel_noe.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/systembrett_einzel_noe.jpg" float="left" title="Systemische Einzelberatung bedeutet, dass Sie im Focus der psychologischen Beratung stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im Zusammenhang mit der Umgebung (Familie, Beruf, Freunde) wirkt, und welche Wechselwirkung im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum." >}} 
+{{< image src="/img/system_einzel.jpg" float="left" title="Systemische Einzelberatung bedeutet, dass Sie im Focus der psychologischen Beratung stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im Zusammenhang mit der Umgebung (Familie, Beruf, Freunde) wirkt, und welche Wechselwirkung im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum." >}} 
 
 
 Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der hypnosystemischen Beratung achte ich zum Beispiel darauf, dass Sie Ihre Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert – aber auch wohldosiert – für Ihre Lösungen einsetzen können, um neue wirksame Realitäten zu erschaffen.

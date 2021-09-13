@@ -8,7 +8,7 @@ draft: false
 weight: 4
 description: "Lebens- und SozialberaterInnen, Interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, Trainer, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung die gerne Tiere in die psychologische Beratung integrieren möchten. Einstieg bereits in der Grundausbildung (ab 2. Semester) möglich."
 og_title: "Ausbildung: Tiergestützte psychologische Beratung"
-og_image: "/img/tiergestuetzt_2021.jpg"
+og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Was bedeutet tiergestüzte psychologische Beratung?"
@@ -41,7 +41,7 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-{{< image src="/img/tiergestuetzt_2021.jpg" title="BTiere in der Beratung erleichtern vielen Menschen den Zugang zu den eigenen Gefühlen. Am IFGE lernen Sie, wie Sie Hunde und Katzen in den Beratungsprozess einbauen." float="left" >}}
+{{< image src="/img/bv_wirkung.jpg" title="BTiere in der Beratung erleichtern vielen Menschen den Zugang zu den eigenen Gefühlen. Am IFGE lernen Sie, wie Sie Hunde und Katzen in den Beratungsprozess einbauen." float="left" >}}
 
 Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret in der [tiergestützten psychologischen Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/). Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
 
@@ -73,7 +73,7 @@ Schwerpunkt Kommunikation: Systemik & Hypnosystemik, Konfliktmanagement, gewaltf
 
 #### Ideal auch für Berufseinsteigerinnen
 
-{{< image src="/img/tiergestuetzt_2021_3.jpg" title="Katzen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
+{{< image src="/img/hunde_garten.jpg" title="Katzen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
 
 Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](/about/institut/) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
 

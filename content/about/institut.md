@@ -10,7 +10,7 @@ description: "Menschen bewegen, begleiten und bereichern.
 
 Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau das steht seit mehr als 10 Jahren im Zentrum unseres Instituts. Das IFGE steht mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender Lebens- und SozialberaterInnen – psychologische BeraterInnen."
 og_title: "Über das IFGE"
-og_image: "/img/institut_wien.jpg"
+og_image: "/img/institut_bgld.jpg"
 aliases:
     - "/übers-ifge/index.html"
     - "/about/institut.html"
@@ -25,7 +25,7 @@ rich_logo: true
 {{< line icon="icon/silvia.png" >}}
 
 {{% floatbox %}} 
-{{< image src="/img/institut_wien.jpg"title="´Silvia Podlisca leitet das zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung, Supervision, Aufstellungen mit viel Freude am Tun. Selbstverständlich arbeitet Silvia Podlisca nach wie vor in der freien Praxis und bietet psychologische Beratung, Krisenintervention, Familienaufstellungen, tiergestützte Beratung, Einzelsupervision und Coaching in Wien, Niederösterreich und Burgenland an." float="left" >}}
+{{< image src="/img/institut_bgld.jpg"title="´Silvia Podlisca leitet das zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychologische Beratung, Supervision, Aufstellungen mit viel Freude am Tun. Selbstverständlich arbeitet Silvia Podlisca nach wie vor in der freien Praxis und bietet psychologische Beratung, Krisenintervention, Familienaufstellungen, tiergestützte Beratung, Einzelsupervision und Coaching in Wien, Niederösterreich und Burgenland an." float="left" >}}
 
 Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. 
 
@@ -61,7 +61,7 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 {{% small  %}}
 {{< image src="/img/institut_2.jpg" title="´Paarberatung oder Paar Sexualberatung ist ein wesentlicher Bestandteil in der Arbeit als Lebens- und Sozialberater\*in – psychologischer Berater\*in. Supervision kann bei Silvia Podlisca sowohl im Einzel wie auch als Team in Anspruch genommen werden." >}}
 <br>
-{{< image src="/img/institut_3.jpg" title="Seit 2012 leitet Silvia Podlisca den Diplomlehrgang für Lebens- und Sozialberater\*innen – psychologischer Berater\*innen in Wien, Niederösterreich und Burgenland. Zudem bietet Silvia Podlisca am IFGE vertiefende Weiterbildungen für Supervision, Aufstellungsarbeit, Sexualberatung, Paarberatung, Psychosomatik, sexuelle Belästigung und Stalking, psychologisches Coaching sowohl als Onlineausbildungen wie auch als Präsenzausbildungen in Wien, Niederösterreich und Burgenland an." >}}
+{{< image src="/img/yes.jpg" title="Seit 2012 leitet Silvia Podlisca den Diplomlehrgang für Lebens- und Sozialberater\*innen – psychologischer Berater\*innen in Wien, Niederösterreich und Burgenland. Zudem bietet Silvia Podlisca am IFGE vertiefende Weiterbildungen für Supervision, Aufstellungsarbeit, Sexualberatung, Paarberatung, Psychosomatik, sexuelle Belästigung und Stalking, psychologisches Coaching sowohl als Onlineausbildungen wie auch als Präsenzausbildungen in Wien, Niederösterreich und Burgenland an." >}}
 {{% /small  %}}
 {{% /box %}}
 

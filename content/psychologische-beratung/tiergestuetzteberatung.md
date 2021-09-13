@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 6
 description: "Hunde unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie sind uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese respektieren zu lernen."
-og_image: "/img/sally_bgld.jpg"
+og_image: "/img/upgrade_tiere.jpg"
 ---
 
 # Tiergestützte psychologische Beratung in Wien
@@ -18,7 +18,7 @@ og_image: "/img/sally_bgld.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Tiere in der psychologischen Beratung bereichern den Prozess auf besondere Art und Weise. Durch ihre wertfreie und freundliche Haltung und ihr uneingeschränktes DA SEIN erreichen sie jeden Winkel unsers Herzens. Selbst Menschen mit Bindungsangst können sehr schnell in Beziehung zu den Tieren gehen. Dies überträgt sich günstig auf den Beratungsprozess und letzten Endes in ihr Leben. Dies Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie ist Gründerin des Berufsverbands für tiergestützte psychologische Beratung. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an." >}} 
+{{< image src="/img/upgrade_tiere.jpg" float="left" title="Tiere in der psychologischen Beratung bereichern den Prozess auf besondere Art und Weise. Durch ihre wertfreie und freundliche Haltung und ihr uneingeschränktes DA SEIN erreichen sie jeden Winkel unsers Herzens. Selbst Menschen mit Bindungsangst können sehr schnell in Beziehung zu den Tieren gehen. Dies überträgt sich günstig auf den Beratungsprozess und letzten Endes in ihr Leben. Dies Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie ist Gründerin des Berufsverbands für tiergestützte psychologische Beratung. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an." >}} 
 
 Da ich meine Hunde Pluto & Sally schon in Teile meiner Arbeit (Beratung und Bewegung mit Hunden) integriere, freue ich mich, dass ich sie durch spezielles Training seit Herbst 2015 auch in das Einzelsetting einbeziehen kann.<br/> <br/> Tiergestützte Beratung beginnt dort, wo Gespräche und die Arbeit mit einem entsprechend ausgebildetem Tier einander ergänzen – es geht um den Beziehungsaufbau und die Prozessgestaltung im Beziehungsdreieck zwischen Klient\*in, Tier und Berater\*in. Neben der Gesprächsführung zwischen Berater\*in und Klient\*in werden Methoden eingesetzt, bei denen die Klienten/Klientinnen mit Tieren interagieren oder über Tiere kommunizieren.
 <br/>

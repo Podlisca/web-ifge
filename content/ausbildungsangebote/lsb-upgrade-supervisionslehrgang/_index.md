@@ -8,7 +8,7 @@ draft: false
 weight: 2
 description: "Für alle Lebens- und Sozialberater, die ihr Wissen und ihre Erfahrung gerne an angehende Kollegen im Rahmen der Supervision weitergeben möchten."
 og_title: "Lsb Upgrade: Zertifizierter Lehrgang Supervision"
-og_image: "/img/ambivalenz_2021_1.jpg"
+og_image: "/img/index_sv_ausbildung.jpg"
 rich_kurs: true
 
 rich_faq:
@@ -31,7 +31,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/ambivalenz_2021_1.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
+{{< image src="/img/index_sv_ausbildung.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
 
 
 Supervision ist ein zentraler Bestandteil einer professionellen beruflichen Haltung. Nicht nur in der [psychosozialen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/), sondern auch in vielen anderen Berufsfeldern. Nur, wer seine Rolle, seine Methodik und seine Erfahrungen laufend reflektiert, bewahrt eine so wichtige kritische Haltung, entwickelt sich weiter und geht mit der Zeit. 

@@ -2,7 +2,7 @@
 title: "Traumata, Reaktivierung & Retraumatisierung: Ein komplexes, vielschichtiges Thema. "
 draft: false
 tags: []
-weight: 120
+weight: 119
 img: "trauma.jpg"
 og_image: "/img/trauma.jpg"
 description: "Trauma. Ein Begriff, den wir häufig lesen, hören und möglicherweise auch selbst verwenden. Aber wo hat das Wort eigentlich seinen Ursprung? Was bedeuten Trauma-Reaktivierung und Retraumatisierung? Welche Ereignisse sind traumatisch und wann liegt überhaupt ein Trauma vor? Im aktuellen Blog stellen wir uns diesen komplexen Fragen. ."
