@@ -7,7 +7,7 @@ draft: false
 weight: 1
 description: "Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebe ttet und genützt werden. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln."
 og_title: "Philosophie: Online Schulungen und Trainings"
-og_image: "/img/philosophie_online.jpg"
+og_image: "/img/onlienausbildung.jpg"
 aliases: 
     - "/online-ausbildungsangebote/index.html"
 ---
@@ -19,7 +19,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/wandel_der_zeit_online.jpg" float="left" title="Onlineausbildungen, Onlineberatungen, Onlinesupervision ist heutzutage wichtiger denn je. Nicht zuletzt durch Covid 19 – wo viele gezwungen wurden, in den Onlinemodus zu wechseln ist der Bomm nicht endet wollend. Am IFGE wird Digitalisierung seit je her groß geschrieben weshalb es nach und nach auch immer mehr Onlineschulungen gab. Höchste Qualität, höchste Flexibilität und höchster Datenschutz sind dabei eine Selbstverständlichkeit bei meinen Schulungen am IFGE – Online wie auch beim Präsenzunterricht. Herzlichst, Silvia Podlisca" >}} 
+{{< image src="/img/onlienausbildung.jpg" float="left" title="Onlineausbildungen, Onlineberatungen, Onlinesupervision ist heutzutage wichtiger denn je. Nicht zuletzt durch Covid 19 – wo viele gezwungen wurden, in den Onlinemodus zu wechseln ist der Bomm nicht endet wollend. Am IFGE wird Digitalisierung seit je her groß geschrieben weshalb es nach und nach auch immer mehr Onlineschulungen gab. Höchste Qualität, höchste Flexibilität und höchster Datenschutz sind dabei eine Selbstverständlichkeit bei meinen Schulungen am IFGE – Online wie auch beim Präsenzunterricht. Herzlichst, Silvia Podlisca" >}} 
 
 ## Aus- und Fortbildungen online: Ihr digitales Lernerlebnis
 
