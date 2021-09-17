@@ -1,5 +1,5 @@
 ---
-title: "Die Zukunft der Arbeitswelt: Wandel, Werte und Wichtigkeit psychosozialer Berufsbilder."
+title: "Die Zukunft der Arbeitswelt: Wandel, Werte und Wichtigkeit psychosozialer Berufe."
 draft: false
 tags: []
 weight: 121
