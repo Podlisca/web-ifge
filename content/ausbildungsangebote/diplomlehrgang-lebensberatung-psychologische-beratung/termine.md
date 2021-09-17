@@ -53,11 +53,10 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-* 10.09.2021
 * 18.10.2021
 * 06.12.2021
 <br/>
-
+<br/>
 
 von 18:30 bis ca. 20:00 Uhr
 
@@ -104,24 +103,6 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 </div>
 <div style="grid-area: w1">
 
-## LSB 16
-#### Start: 03. September 2021 
-
-Freitags von 14:00 bis 20:00 Uhr
-
-**ausgebucht**
-
-
-[Warteliste](/anmeldung.php)
-
-[Termine LSB 16 herunterladen](/downloads/LSB_16_termine.pdf)
-
-</div>
-<div style="grid-area: w2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 19
 #### Start: 12. Februar 2022
 
@@ -130,6 +111,20 @@ Samstags von 10:00 bis 16:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 19 herunterladen](/downloads/LSB_19_termine.pdf)
+
+</div>
+<div style="grid-area: w2">
+
+***
+{{% box blue=1 %}}
+{{% small  %}}
+## LSB 21
+#### Start: 2023
+
+Kurstag: in Planung
+
+[ANMELDUNG](/anmeldung.php)
+
 {{% /small  %}}
 {{% /box %}}
 </div>
@@ -142,24 +137,6 @@ Samstags von 10:00 bis 16:00 Uhr
 </div>
 <div style="grid-area: b1">
 
-## LSB 14 
-#### Start: 09. Februar 2021
-
-Dienstags von 14:00 bis 20:00 Uhr
-
-**ausgebucht**
-
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 14 herunterladen](/downloads/LSB_14_termine.pdf)
-
-</div>
-<div style="grid-area: b2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 18
 #### Start: 10. Februar 2022
 
@@ -168,6 +145,19 @@ Donnerstags von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 18 herunterladen](/downloads/LSB_18_termine.pdf)
+
+</div>
+<div style="grid-area: b2">
+
+***
+{{% box blue=1 %}}
+{{% small  %}}
+## LSB 22
+#### Start: 2023
+
+Kurstag: in Planung
+
+[ANMELDUNG](/anmeldung.php)
 {{% /small  %}}
 {{% /box %}}
 </div>
@@ -180,21 +170,6 @@ Donnerstags von 14:00 bis 20:00 Uhr
 </div>
 <div style="grid-area: n1">
 
-## LSB 17
-#### Start: 05. September 2021
-
-Sonntags von von 10:00 bis 16:00 Uhr 
-& ein Woe. pro Semester (Fr., Sa., So.); dafür nicht jeder Sonntag - **ausgebucht**
-
-[Warteliste](/anmeldung.php)
-
-[Termine LSB 17 herunterladen](/downloads/LSB_17_termine.pdf)
-</div>
-<div style="grid-area: n2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 20
 #### Start: 09.September 2022
 
@@ -203,6 +178,19 @@ Freitags von von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 20 herunterladen](/downloads/LSB_20_termine.pdf)
+</div>
+<div style="grid-area: n2">
+
+***
+{{% box blue=1 %}}
+{{% small  %}}
+
+## LSB 233
+#### Start: 2023
+
+Kurstag: in Planung
+
+[ANMELDUNG](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}
