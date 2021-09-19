@@ -5,7 +5,7 @@ tags: []
 weight: 121
 
 img: "blog_zukunft_arbeit.jpg"
-og_image: "/img/kursziele_2021_1.jpg"
+og_image: "/img/blog_zukunft_arbeit.jpg"
 description: "So alt wie die Menschheit ist auch die Arbeit. Der Mensch hat immer schon auf eine Art und Weise gearbeitet. Der Mensch schafft die Arbeitswelt, die aber wiederum die Menschheit in ihrer Entwicklung beeinflusst.
 
 Im aktuellen Block werfen wir einen Blick in die Vergangenheit und in die Zukunft unserer Arbeitswelt und stellen uns der Frage, weshalb psychosoziale Berufe immer wichtiger werden."
