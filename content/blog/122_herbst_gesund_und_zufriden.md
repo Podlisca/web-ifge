@@ -1,6 +1,6 @@
 ---
 title: "Herbst: Gesund und zufrieden durch die „graue“ Jahreszeit."
-draft: true
+draft: false
 tags: []
 weight: 122
 

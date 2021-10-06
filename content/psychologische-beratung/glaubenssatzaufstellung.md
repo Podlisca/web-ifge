@@ -4,11 +4,11 @@ menu:
     main:
         parent: psychologischeberatung
         identifier: glaubenssatz
-draft: true
+draft: false
 weight: 5
 description: "In der Glaubenssatzaufstellung im Rahmen einer psychologischen Beratung konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität."
 og_title: "Glaubenssatzaufstellung mit Silvia Podlisca"
-og_image: "/img/glaubenssatzaufstellung_3.jpg"
+og_image: "/img/system_zettel1_bgld.jpg"
 rich_faq:
     -   frage: "Was ist ein Glaubenssatz?"
         antwort: " "
@@ -56,7 +56,7 @@ rich_faq:
 
 ## Weil Muster und Tabus blockieren können:<br> Glaubenssatzaufstellung mit Silvia Podlisca.
 
-{{< image src="/img/glaubenssatzaufstellung_3.jpg" title="BILDBESCHREIBUNG"float="left">}}
+{{< image src="/img/system_zettel1_bgld.jpg" title="BILDBESCHREIBUNG"float="left">}}
 
 *„Das haben wir schon immer so gemacht. Das gehört sich einfach nicht. Das kannst du nicht machen. Nimm dich nicht so wichtig. Ich bin nicht gut genug“* 
 
@@ -113,7 +113,9 @@ In der Glaubenssatzaufstellung richten wir den Blick auf die Gegenwart. Es geht 
 
 {{< image src="/img/glaubenssatzaufstellung.jpg" float="left" title="FOTOBESCHREIBUNG" >}}
 
-Eine Glaubenssatzaufstellung folgt häufig im Anschluss an eine [Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/). Dieser Ablauf empfiehlt sich. Denn die Familienaufstellung richtet den Blick nicht nur, aber stark in die Vergangenheit, während in der Glaubenssatzaufstellung der Fokus auf der Gegenwart liegt. So können individuelle Lösungswege für Gegenwart und Zukunft im Einklang mit Vergangenheit und Herkunft aktiv erarbeitet werden.
+Eine Glaubenssatzaufstellung folgt häufig im Anschluss an eine [Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/). Dieser Ablauf empfiehlt sich. Denn die Familienaufstellung richtet den Blick nicht nur, aber stark in die Vergangenheit, während in der Glaubenssatzaufstellung der Fokus auf der Gegenwart liegt. So können individuelle Lösungswege für Gegenwart und Zukunft im Einklang mit Vergangenheit und Herkunft aktiv erarbeitet werden. 
+
+Setting: 90 Minuten 
 
 Apropos Gegenwart: Die systemischen Aufstellungen am IFGE werden häufig von unseren [Institutskatzen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/) begleitet. Diese unterstützen uns ganz im Hier und Jetzt anzukommen, sorgen für eine entspannte Atmosphäre während des Seminars und geben nicht selten Impulse um eigene Bedürfnisse besser benennen zu können.
 
@@ -159,7 +161,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 [Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
+**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/)**
 
 
 {{< line icon="icon/3_standorte.png" >}}

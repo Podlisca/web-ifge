@@ -159,7 +159,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 [Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
+**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/)**
 
 
 {{< line icon="icon/3_standorte.png" >}}
