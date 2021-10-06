@@ -17,13 +17,17 @@ og_image: "/img/glaubenssatz1.jpg"
 
 {{% floatbox %}}
 
-## GRUPPENSEMINARE – FAMILIENAUFSTELLUNG NACH BERT HELLINGER
+## Weil das Hier und Jetzt zählt: Glaubenssatzaufstellung mit Silvia Podlisca.
 
 {{< image src="/img/glaubenssatz1.jpg" title="Hinderliche Gedanken, die sich zu Glaubenssätzen manifestiert haben, sind oft schwer wieder zu löschen. Egal wie sehr man sich auch bemüht, sie holen uns in Stresssituationen immer wieder ein. Glaubenssatzaufstellungen haben sowohl das persönliche Erleben wie auch das kollektive Bindungssystem im Blick. Dadurch werden die Glaubenssätze im Einklang mit ihrer Herkunft aufgelöst."float="left">}}
 
-Während es in der klassischen Familienaufstellung vor allem darum geht, die eigenen destruktiven Muster zu erkennen und Verständnis für die persönliche Familiengeschichte – also das eigene Herkunftssystem – zu entwickeln, damit es schließlich für Sie gut weitergehen kann, arbeite ich in der Glaubenssatz-Aufstellung vorrangig gegenwartsbezogen. 
+Wer seine Zukunft aktiv gestalten, Blockaden lösen und seine Lebensqualität erhöhen möchte, der muss nicht nur die Vergangenheit verstehen, sondern vor allem im Hier und Jetzt leben. 
 
-Das bedeutet, dass eine Familienaufstellung als Vorbereitung in den meisten Fällen sehr zu empfehlen ist, bevor Sie einen Schritt weiter gehen und sich damit beschäftigen können, welche Ziele für Ihre Weiterentwicklung und Ihre Bedürfnisse dienlich sind. 
+Um die Gegenwart und deren Bereicherung durch konstruktive Gedanken, geht es in der Glaubenssatzaufstellung. Diese Methode ist alleine deswegen so wertvoll, weil wir uns destruktiven Mustern und Werten manchmal hilflos ausgeliefert fühlen. Wir nehmen Dinge hin anstatt sie durch ein anderes Mindset zu verändern. Wir leben in der Vergangenheit anstatt in der Gegenwart.
+
+Die [Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) unterstützt im Hinblick auf Verständnis, Bewusstsein und Aufarbeitung der eigenen Familiengeschichte. 
+
+Damit richtet sich der Blick auch stark in die Vergangenheit. Die Glaubenssatzaufstellung fokussiert vor allem die Gegenwart. Im Zentrum stehen Ihre Bedürfnisse, Themen und Ziele im Hier und Jetzt. Empfehlenswert ist eine Verbindung von [Familienaufstellung](http://localhost:1313/gruppenselbsterfahrung/familienaufstellung/) und [Glaubenssatzaufstellung](https://www.ifge.at/psychologische-beratung/glaubenssatzaufstellungen/). 
 
 {{% silvia %}}
 {{% /floatbox %}}

@@ -1,19 +1,17 @@
-﻿---
-title: "Familienaufstellung"
-menu: 
+---
+title: "Glaubenssatzaufstellung"
+menu:
     main:
-        parent: gruppenselbsterfahrung
-        identifier: familienaufstellung
-draft: false
-weight: 3
-description: "In einer systemischen Beratung – egal ob in Einzelstunden oder bei Familienaufstellungen – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster."
-og_title: "Familienaufstellung mit Silvia Podlisca"
-og_image: "/img/aufstllung_noe3.jpg"
+        parent: psychologischeberatung
+        identifier: glaubenssatz
+draft: true
+weight: 5
+description: "In der Glaubenssatzaufstellung im Rahmen einer psychologischen Beratung konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität."
+og_title: "Glaubenssatzaufstellung mit Silvia Podlisca"
+og_image: "/img/glaubenssatzaufstellung_3.jpg"
 rich_faq:
-    -   frage: "Was ist eine Familienaufstellung?"
-        antwort: "Bei Familienaufstellungen kann ein beliebiges Thema aufgestellt werden, das belastend wirkt – egal ob es aus dem privaten oder beruflichen Bereich kommt. Ziel der Aufstellungsarbeit ist es, die verborgen wirkenden Kräfte ans Licht zu bringen und anzuerkennen, was in diesem System wirkt. Am Ende der Aufstellung entsteht ein Lösungsbild, das allen Systemmitgliedern den ihnen gebührenden Platz gibt. Dieses Lösungsbild entfaltet seine tiefe Wirkung oft noch Monate nach einer Aufstellung und wirkt heilsam und gibt Kraft für den weiteren Lebensweg."
-    -   frage: "Was ist der Nutzen einer Familienaufstellung?"
-        antwort: "Familienaufstellungen schaffen Verständnis für Andere, weil unerklärliches Verhalten nachvollziehbarer wird, wenn man sieht, in welchen Verstrickungen eine Person gefangen ist und dass sie vielleicht so handelt, um ihre Zugehörigkeit in der Familie zu sichern. Trotzdem bleibt jeder für sein Handeln verantwortlich und die Verstrickungen sollen nie als Entschuldigung für eine Tat herangezogen werden."
+    -   frage: "Was ist ein Glaubenssatz?"
+        antwort: " "
     -   frage: "Mit welchem Anliegen kommen Klienten oder Klientinnen zu einer Familienaufsellung?"
         antwort: "Häufig kommen Klient/innen mit folgenden Anliegen: körperliche Erkrankungen, Paar- und Beziehungsschwierigkeiten, Wiederholung eines immer gleichen Musters, das Gefühl, nicht das eigene Leben zu leben oder Schwierigkeiten im Berufsleben."
     -   frage: "Wie lange dauert eine Familienaufstellung?"
@@ -50,28 +48,32 @@ rich_faq:
         antwort: "Wenn man sich intensiver mit Familienaufstellungen befasst, kann man nicht nur unlösbar scheinende Probleme aufarbeiten, sondern man wird wohl generell seine Sichtweise auf andere Personen verändern. Familienaufstellungen schaffen Verständnis für Andere, weil unerklärliches Verhalten nachvollziehbarer wird, wenn man sieht, in welchen Verstrickungen eine Person gefangen ist und dass sie vielleicht so handelt, um ihre Zugehörigkeit in der Familie zu sichern. Trotzdem bleibt jeder für sein Handeln verantwortlich und die Verstrickungen sollen nie als Entschuldigung für eine Tat herangezogen werden.Familienaufstellungen wirklich mit Fakten und nackten Informationen zu erklären wird dem Erlebten nie ganz gerecht werden. Man muss wohl selber einmal erlebt haben, wie stark die Emotionen bei einer Aufstellung wirken und wie viele Gefühle sie in einem auslösen können, wenn Verborgenes, das schon lange unbewusst bzw. in der Familienseele wirkt, plötzlich aufgedeckt wird."
 ---
 
-# Familienaufstellung mit Silvia Podlisca
+# Glaubenssatzaufsstellung mit Silvia Podlisca
 {{< slogan >}}
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% floatbox %}}
 
-## Weil Vergangenheit Zukunft mitgestaltet: Familienaufstellung mit Silvia Podlisca.
+## Weil Muster und Tabus blockieren können:<br> Glaubenssatzaufstellung mit Silvia Podlisca.
 
-{{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
+{{< image src="/img/glaubenssatzaufstellung_3.jpg" title="BILDBESCHREIBUNG"float="left">}}
 
-So unterschiedlich Lebenswege auch sind, eines haben alle Menschen gemeinsam: Sie sind geprägt durch Wurzeln und Herkunft. 
+*„Das haben wir schon immer so gemacht. Das gehört sich einfach nicht. Das kannst du nicht machen. Nimm dich nicht so wichtig. Ich bin nicht gut genug“* 
 
-Denn es ist die Familie, die uns als erste soziale Gruppe im Leben, Ideale vermittelt, Verhaltensweisen vorlebt und Erwartungen an uns stellt. Schon bald entsteht bei Kindern der Wunsch zur Familie dazuzugehören, angenommen, akzeptiert und geliebt zu werden. Kein Wunder, dass Familie damit auch häufig Ursprung von Selbstzweifeln, [Konflikten](https://www.ifge.at/blog/konflikte/) und [Traumata](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/) ist.  
+Kommen Ihnen diese und ähnliche Glaubenssätze bekannt vor? Es gibt unzählige Beispiele für solche Aussagen, die unser Verhalten bewusst und/oder unbewusst beeinflussen, das Ausleben unserer Bedürfnisse hindern und damit unsere Lebensqualität einschränken. 
 
-Familien als Einheit von Persönlichkeiten sind Systeme der Interaktion und Kommunikation. Systeme, in denen Wunden, Kränkungen,  Ängste und Konflikte nicht selten über Generationen weitergegeben werden. 
+Was wir nicht vergessen dürfen: Wir können Glaubenssätze verändern. Von destruktiv zu konstruktiv. Von negativ zu positiv. Von fremd- zu selbstbestimmt. Zwar nicht für andere Menschen, aber für uns selbst. Und das ist es, was letztlich zählt.
+{{% /floatbox %}}
 
-Systeme, in denen individuelle Bedürfnisse auf kollektive Erwartungen treffen. Damit ist klar: Unsere Vergangenheit gestaltet unsere Zukunft maßgeblich mit. Ein guter Weg, um Herkunft und damit uns selbst besser zu verstehen ist eine Familienaufstellung. Da auch Familien soziale Gruppen sind, eignet sich dafür insbesondere eine [Gruppenselbsterfahrung](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/), in der Dynamiken und Rollen demonstriert und reflektiert werden. 
+{{% floatbox %}}
+In der Glaubenssatzaufstellung im Rahmen einer [psychologischen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität.
 
+{{% /floatbox %}}
 
 {{% silvia %}}
 
-{{% /floatbox %}}
+
+
 
 {{< line icon="icon/aufstellung.png" >}}
 
@@ -80,54 +82,43 @@ Systeme, in denen individuelle Bedürfnisse auf kollektive Erwartungen treffen. 
 {{% box blue=1 %}}
 {{% small  %}}
 
-Es geht dabei nicht um Rationalisierung, Idealisierung oder Schönfärben der oft­mals schmerzhaften Erfahrungen.
+## Ein positives Mindset: Für Gegenwart und Zukunft.
 
-Doch gerade dann, wenn wir uns in schweren Lebenssituationen befinden, wird unser Blick eng und alles in uns scheint still zu stehen. Meistens drehen sich unsere Gedanken im Kreis und wir finden keine Lösung ...
+Wir sind gut beraten, uns mit der Vergangenheit zu befassen, vergangene [Traumata](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/) aufzuarbeiten, Erlebnisse zu reflektieren und unsere Persönlichkeit damit besser zu verstehen. Verändern können wir die Vergangenheit allerdings nicht, sehr wohl aber Gegenwart und Zukunft. Und das beginnt mit konstruktiven Gedanken, einem positiven Mindset und der richtigen Einstellung.
 
-Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum verständlich sind – herkommen und wofür diese im eigenen Leben stehen, kann durch Familienaufstellungen unnachahmlich beantwortet werden. Viele unserer Emotionen, Handlungsweisen und Verhaltensmuster haben mit dem zu tun, was in unserer Familiengeschichte heimlich wirkt. Die Heimlichkeit, von der wir in der systemischen Arbeit nach Hellinger sprechen, bezieht sich nicht zwangsläufig auf klassische Geheimnisse, sondern viel eher auf die heimliche Liebe und Loyalität zu Mitgliedern aus unserer Familie, welche zumeist ein schweres Schicksal hatten und vergessen oder ausgeklammert wurden. Dies verletzt jedoch eine existenzielle Grundregel jeder Familie: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ 
+Als Teil einer Familie stellen wir Bedürfnisse nicht selten hinten an. Wir geben dem, was andere von uns erwarten und gerne sehen möchten, den Vortritt. Der Grund: Wir wollen anderen Gutes tun, ihre Einstellungen bestätigen und uns selbst nicht zu wichtig nehmen. Die Folge: Wir sind selbst unzufrieden und diese Unzufriedenheit wirkt sich wiederum auf unser Umfeld aus. In der Glaubenssatzaufstellung erarbeiten Sie aufbauend auf Ihren Bedürfnissen und durch das Auflösen dekonstruktiver Einstellungen Zukunftswege. Dabei wird auch die Wirkung dieser Lösungswege auf Ihre Familie und Ihre Umgebung reflektiert und miteinbezogen. Denn nur so ist eine dauerhafte Umsetzung neuer Glaubenssätze und damit die Gestaltung einer „besseren“ Realität für alle möglich. 
+
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/aufstellung_noe1.jpg" float="right" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
+## Was Glaubenssatzaufstellung (nicht) ist.
 
-Nur wenn jeder das gleiche Recht hat, dazuzugehören -- frei von Wertung und der Überheblichkeit, sich besser oder größer als eine ausgeschlossene oder ungeliebte Person zu fühlen –, empfindet sich die Sippe vollständig und in der sogenannten Familienseele kehrt Einklang und Frieden ein. 
+{{< image src="/img/glaubenssatzaufstellung_2.jpg" float="right" title="FOTOBESCHREIBUNG" >}}
 
-Dieser Einklang wird oft auch als der „größere Frieden“ bezeichnet, weil solche Dynamiken weit über unser Alltagsdenken hinaus gehen. Wird das Recht auf Zugehörigkeit verwehrt – also wird eine Person vergessen, ausgeklammert oder empfindet man sich besser als diese Person, stellt sich also über sie – empfindet sich die Sippe sozusagen nicht mehr als vollständig. 
+In der psychologischen Beratung ist die Glaubenssatzaufstellung eine fundierte Methode, um blockierende Muster und Tabus zu lösen. Dabei werden Sie von [erfahrenen und ausgebildeten Ausbildungsleiter*innen](https://www.ifge.at/about/ueber_mich/) begleitet. Denkweisen und Einstellungen werden oft über eine lange Zeit gefestigt und verinnerlicht, weshalb das Lösen dieser ein Prozess ist. Ein Prozess, der nicht nur professionelle Begleitung, sondern vor allem Zeit und die Bereitschaft an sich zu arbeiten braucht.
 
-Die Ausgeklammerten werden durch das Verhalten, Denken oder Empfinden der nächsten Generationen wieder unbewusst dazu geholt, um sich in der Familienseele wieder als vollständig zu erleben. „Heimlich“ nennen Systemiker dieses Muster deshalb, weil es uns vor einer Familienaufstellung meist nicht bewusst ist und uns die betreffenden Personen in vielen Fällen nicht einmal persönlich bekannt sind. 
+In der Glaubenssatzaufstellung richten wir den Blick auf die Gegenwart. Es geht darum die Gegenwart durch ein verbessertes Mindset zu verstehen, bewusst wahrzunehmen und damit aktiv zu gestalten. Dabei wird darauf geachtet, dass nicht nur der individuelle Mensch, sondern auch die Familie von einem neuen Weg und einer Weiterentwicklung profitiert. Ihre Vergangenheit, Ihre Wurzeln und Ihre Familie sind nicht veränderbar. Ihre Sichtweise und Ihre Einstellung dazu allerdings schon.
 
-Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sichert, ist der Versuch unseres inneren aber blinden Kindes, zu helfen. Das Kind trägt dabei so schwer und „übersieht“ dadurch, dass es den Vorfahren nichts abnehmen kann, sondern im Gegenteil – das Schicksal wiederholt und es damit nicht zur Ruhe bzw. in Frieden kommen lässt. Daraus entsteht zumeist das Gefühl: „Was ich auch mache, es ist nie genug, es ist immer falsch.“ Denn den eigenen Vorfahren zu helfen oder sie gar zu retten, ist noch nie gelungen! 
+*Ich möchte etwas verändern. Etwas verbessern. Die Zukunft soll anders aussehen.* Diese Gedanken kennen wohl die meisten Menschen. In der Glaubenssatzaufstellung setzen wir genau bei solchen Gedanken an. Wir stellen uns die Frage: Was konkret verändern? Wie genau verbessern? Was soll anders werden? Was brauchen Sie um Ziele zu erreichen? In der Glaubenssatzaufstellung finden sie mit wertvoller Unterstützung durch Expert*innen und unter Anwendung der richtigen Methoden Antworten auf diese Fragen. 
+
 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
-Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
-{{< image src="/img/brett_noch.jpg" float="left" title="Familienaufstellungen am Systembrett stellen eine wirkungsvolle Methode dar, um Einblicke in Verstrickungen zu erhalten, welch schon über Generationen wirken. Erkennen lassen sich solche Verstrickungen in dem sich zum Beispiel eine Häufung:  von Scheidungen, Krankheit, Unfällen, Kindersterblichkeit oder ähnlich Schwerem, in der Gegenwart zeigt. Familienaufstellungen zeigen neue Möglichkeiten der Integration der Schwere und bietet neue Perspektiven für die persönliche Zukunft." format="hoch" >}} 
-<br/>
-Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig.
+## Glaubenssatzaufstellung am IFGE: Ablauf und Besonderheiten.
 
-Durch diese kindliche Liebe in uns und dem damit verbundenen Wunsch, zu helfen, ist es häufig schwierig, sich alleine aus solchen Verstrickungen zu befreien. 
+{{< image src="/img/glaubenssatzaufstellung.jpg" float="left" title="FOTOBESCHREIBUNG" >}}
 
-Was in vorangegangenen Generationen gewirkt hat, holen wir aufgrund des starken Wunsches nach Zugehörigkeit – welcher das Überleben sichert – wieder in unser Leben. 
+Eine Glaubenssatzaufstellung folgt häufig im Anschluss an eine [Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/). Dieser Ablauf empfiehlt sich. Denn die Familienaufstellung richtet den Blick nicht nur, aber stark in die Vergangenheit, während in der Glaubenssatzaufstellung der Fokus auf der Gegenwart liegt. So können individuelle Lösungswege für Gegenwart und Zukunft im Einklang mit Vergangenheit und Herkunft aktiv erarbeitet werden.
 
-Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Alkoholabhängigkeit oder emotionale Härte) zerbrochen sind, zerbrechen beispielsweise heute stellvertretend Beziehungen und Ehen. Die Frauen dieser Kriegsgeneration, die – um zu überleben – alles alleine bewältigen mussten, haben gelernt: „Wir Frauen brauchen keine Männer, wir schaffen es alleine!“ Dies wirkt als ungeschriebenes Familiengesetz und führt dazu, dass es den Töchtern oder Enkelinnen dieser Generation in ihrem Leben schwer fällt, sich auf Beziehungen einzulassen.
+Apropos Gegenwart: Die systemischen Aufstellungen am IFGE werden häufig von unseren [Institutskatzen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/) begleitet. Diese unterstützen uns ganz im Hier und Jetzt anzukommen, sorgen für eine entspannte Atmosphäre während des Seminars und geben nicht selten Impulse um eigene Bedürfnisse besser benennen zu können.
 
 {{% /small  %}}
 {{% /box %}}
-
-{{< line icon="icon/aufstellung.png" >}}
-
-{{< image src="/img/aufs_noe.jpg" float="left" title="Familienaufstellungen mit Silvia Podlisca – Im vertraulichen Rahmen unter der Leitung von Silvia Podlisca können belastende Situationen beleuchtet werden. Familienaufstellungen eignen sich besonders gut bei folgenden Themen: körperlichen oder psychosomatischen Erkrankungen, Paar- und Beziehungsschwierigkeiten, zur Trauerbewältigung, kollektive Traumata, Wiederholung eines immer gleichen Musters, dem Gefühl nicht das eigene Leben zu leben, generationsübergreifende Traumata, für Eltern, deren Kinder besondere Auffälligkeiten zeigen, schweren Ereignissen in der Gegenwarts- oder Herkunftsfamilie, Versöhnungsarbeit mit der Herkunft-/Gegenwartsfamilie, bei Schwierigkeiten im Berufsleben, zur Neuorientierung, Selbsterfahrung, für ein besseres Verständnis der (Familien-) Geschichte" >}} 
-
-Erweitert wurde diese Arbeit durch die sogenannten "Bewegungen der Seele" und den "Bewegungen des Geistes". Dabei wird in einer wortlosen Sequenz ohne Eingriffe des Beraters/der Beraterin die tiefe Verbundenheit zwischen den Personen erkennbar. Erst wenn ge­se­hen, ge­hört und an­er­kannt wird, was in der Größe der Fa­mi­li­en­see­le wirkt, kön­nen Lö­sun­gen be­gin­nen.
-
-Familienaufstellungen ändern nichts an der Geschichte, helfen uns aber neue Erkenntnisse und Sichtweisen in alte, oftmals krankmachende Muster zu integrieren. Durch die neugewonnene Sichtweise, die dem Erlebten hin­zu­ge­fügt wird, öffnet sich der Blick und unser Herz, sodass Lösungen beginnen können und neue wirksame Realitäten geschaffen werden können. Durch das Bewusstwerden über die Glaubenssätze, die in der eigenen Familie bestehen, können diese letztlich verändert und Ziele gefunden werden, die Ihrem persönlichen Fortkommen dienlich sind. Diese neuen Realitäten und Zielvorstellungen können besonders nachhaltig in einer anschließenden Glaubenssatzaufstellung erarbeitet werden.
-
-Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg­gründe zu klären und Vorinformationen einzuholen. Nach der Aufstellung stehe ich für eine weitere Betreuung gerne zur Verfügung.
 
 {{< line icon="icon/termine.png" >}}
 

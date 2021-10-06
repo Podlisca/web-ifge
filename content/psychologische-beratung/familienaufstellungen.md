@@ -56,15 +56,14 @@ rich_faq:
 
 {{% floatbox %}}
 
-## FAMILIENAUFSTELLUNG mit Silvia Podlisca - ganzheitliche Lösungen mit Weitblick
+## Weil uns Familie prägt: Familienaufstellung mit Silvia Podlisca.
 
 {{< image src="/img/aufstellung_noe1.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
 
-Systemische Beratung kann sowohl in Einzelsitzungen, als auch in Form von Gruppenseminaren die Lösung für die Probleme in den verschiedensten Lebenssituationen darstellen.
+Klein oder groß. Nah oder entfernt. Harmonisch oder belastet. So vielfältig Familien und ihre Geschichten auch sind, eines ist gewiss: Familien sind Herkunft und damit häufig auch Quelle von Fragen, Konflikten und Sorgen. Wer sich selbst besser kennenlernen, alte Muster auflösen oder schmerzhafte Erinnerungen aufarbeiten möchte, der ist gut beraten sich mit seinen Wurzeln und damit seiner Familie systematisch und professionell auseinanderzusetzen.
 
-Familienaufstellung nach Bert Hellinger ist eine sehr schöne Versöhnungsarbeit mit der eigenen Geschichte.
+Und genau dies passiert in der [Familienaufstellung](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/), die sowohl im [Einzel-](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) als auch im [Gruppensetting](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/) stattfinden kann. Aufbauend auf der Familienaufstellung nach Bert Hellinger hat IFGE-Leiterin Silvia Podlisca eine eigene Methode entwickelt. Eine Methode, die nicht nur kollektive Dynamiken, sondern auch individuelles Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht.
 
-Versöhnung kann nicht die Vergangenheit verändern – sie bereichert aber unsere Zukunft ungemein!
 
 {{% silvia %}}
 
@@ -78,54 +77,48 @@ Versöhnung kann nicht die Vergangenheit verändern – sie bereichert aber unse
 {{% box blue=1 %}}
 {{% small  %}}
 
-Es geht dabei nicht um Rationalisierung, Idealisierung oder Schönfärben der oft­mals schmerzhaften Erfahrungen.
+## Der Blick zurück für den Blick nach vorne.
 
-Doch gerade dann, wenn wir uns in schweren Lebenssituationen befinden, wird unser Blick eng und alles in uns scheint still zu stehen. Meistens drehen sich unsere Gedanken im Kreis und wir finden keine Lösung ...
+Jeder Mensch strebt ein glückliches, zufriedenes und erfülltes Leben an. Doch manchmal kommen wir entlang unseres Lebensweges an Punkte, an denen uns vergangene Erlebnisse, negative Gedanken und belastende Ängste blockieren. Nicht immer sind uns diese Blockaden bewusst. Sie können sich auch indirekt in steigender Anspannung, Unzufriedenheit und [Konflikten](https://www.ifge.at/blog/konflikte/) in Berufs- oder Privatleben äußern. Der Ursprung von Blockaden, Barrieren und Belastungen ist nicht selten in der individuellen Herkunft zu finden. Kein Wunder. Denn Familien sind das erste soziale System, welches wir als Menschen kennenlernen. Damit prägt uns die Familie positiv, aber eben auch negativ. 
 
-Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum verständlich sind – herkommen und wofür diese im eigenen Leben stehen, kann durch Familienaufstellungen unnachahmlich beantwortet werden. Viele unserer Emotionen, Handlungsweisen und Verhaltensmuster haben mit dem zu tun, was in unserer Familiengeschichte heimlich wirkt. Die Heimlichkeit, von der wir in der systemischen Arbeit nach Hellinger sprechen, bezieht sich nicht zwangsläufig auf klassische Geheimnisse, sondern viel eher auf die heimliche Liebe und Loyalität zu Mitgliedern aus unserer Familie, welche zumeist ein schweres Schicksal hatten und vergessen oder ausgeklammert wurden. Dies verletzt jedoch eine existenzielle Grundregel jeder Familie: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ 
+Wer seine Zukunft von Selbstzweifeln, [Traumata](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/) und Verstrickungen befreien möchte, muss seine Vergangenheit verstehen. Ganz nach dem Motto: Der Blick zurück für den Blick nach vorne. Mangelnde Anerkennung und Zuneigung in der Kindheit. Fehlende Loyalität und Akzeptanz in der Jugend. Das Gefühl, den Erwartungen der Familie nicht gerecht zu werden. Es gibt unzählige Beispiele für familiäre Themen und Konflikte, die unser Hier und Jetzt beeinflussen.
+
+In einer Familie darf und soll jede\*r seinen Platz haben. Jede*r darf dazugehören, aber selbst entscheiden, wie diese Zugehörigkeit aussieht. Letztlich ist eine Familie als Ganzes so glücklich, wie ihre einzelnen Mitglieder mit sich selbst. Der Weg zu mehr familiärem Glück und Harmonie führt daher stark über sich selbst und der Befassung mit Herkunft, Sehnsüchten und Ängsten. 
+
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/aufstellung.png" >}}
 
+##  Was Familienaufstellung (nicht) kann.
+
 {{< image src="/img/aufstllung_noe3.jpg" float="right" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
 
-Nur wenn jeder das gleiche Recht hat, dazuzugehören -- frei von Wertung und der Überheblichkeit, sich besser oder größer als eine ausgeschlossene oder ungeliebte Person zu fühlen –, empfindet sich die Sippe vollständig und in der sogenannten Familienseele kehrt Einklang und Frieden ein. 
+Vergangenheit ist Vergangenheit. Und damit nicht veränderbar. Systematische und professionell begleitete Familienaufstellung kann aber unterstützen, mit der Vergangenheit Frieden zu schließen. Versöhnung mit Wurzeln und Herkunft bereichert wiederum unsere Zukunft. Ganz einfach, weil Themen aufgearbeitet und Zusammenhänge verstanden werden und damit mehr Bewusstsein geschaffen wird.
 
-Dieser Einklang wird oft auch als der „größere Frieden“ bezeichnet, weil solche Dynamiken weit über unser Alltagsdenken hinaus gehen. Wird das Recht auf Zugehörigkeit verwehrt – also wird eine Person vergessen, ausgeklammert oder empfindet man sich besser als diese Person, stellt sich also über sie – empfindet sich die Sippe sozusagen nicht mehr als vollständig. 
+Familienaufstellung kann keine Familie ändern. Sehr wohl aber den Blick auf das System Familie und auf uns selbst. Häufig ist uns gar nicht bewusst, wie stark wir unser Verhalten an familiären Mustern, Idealen und Erwartungen ausrichten, während wir eigene Bedürfnisse hintenanstellen. Ein Verhalten, welches viel Konfliktpotenzial birgt. Familienaufstellung schärft den Blick für uns selbst, unsere Rolle in einer Familie und das große Ganze. 
 
-Die Ausgeklammerten werden durch das Verhalten, Denken oder Empfinden der nächsten Generationen wieder unbewusst dazu geholt, um sich in der Familienseele wieder als vollständig zu erleben. „Heimlich“ nennen Systemiker dieses Muster deshalb, weil es uns vor einer Familienaufstellung meist nicht bewusst ist und uns die betreffenden Personen in vielen Fällen nicht einmal persönlich bekannt sind. 
+Idealisierung. Runterspielen. Schönreden. Damit hat professionelle Familienaufstellung nichts zu tun.  Ganz im Gegenteil. Viele Menschen haben familiäre Traumata lange genug verdrängt, manchmal bewusst, häufig auch unbewusst. Die Folge: Negative Gefühle, Sorgenkarusselle und Verhaltensweisen nehmen weiter ihren Lauf und hemmen uns. Familienaufstellung konfrontiert bewusst mit vergangenen Wunden, schmerzhaften Erinnerungen und familiären Schicksalsschlägen. Nur so können Lösungswege für mehr Zufriedenheit, Ausgeglichenheit und inneren Frieden erarbeitet werden.
 
-Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sichert, ist der Versuch unseres inneren aber blinden Kindes, zu helfen. Das Kind trägt dabei so schwer und „übersieht“ dadurch, dass es den Vorfahren nichts abnehmen kann, sondern im Gegenteil – das Schicksal wiederholt und es damit nicht zur Ruhe bzw. in Frieden kommen lässt. Daraus entsteht zumeist das Gefühl: „Was ich auch mache, es ist nie genug, es ist immer falsch.“ Denn den eigenen Vorfahren zu helfen oder sie gar zu retten, ist noch nie gelungen! 
 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
-Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
 {{< image src="/img/brett_noch.jpg" float="left" title="Familienaufstellungen am Systembrett stellen eine wirkungsvolle Methode dar, um Einblicke in Verstrickungen zu erhalten, welch schon über Generationen wirken. Erkennen lassen sich solche Verstrickungen in dem sich zum Beispiel eine Häufung:  von Scheidungen, Krankheit, Unfällen, Kindersterblichkeit oder ähnlich Schwerem, in der Gegenwart zeigt. Familienaufstellungen zeigen neue Möglichkeiten der Integration der Schwere und bietet neue Perspektiven für die persönliche Zukunft." format="hoch" >}} 
-<br/>
-Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig.
 
-Durch diese kindliche Liebe in uns und dem damit verbundenen Wunsch, zu helfen, ist es häufig schwierig, sich alleine aus solchen Verstrickungen zu befreien. 
+## Familienaufstellung am IFGE: Ablauf und Methodik.
 
-Was in vorangegangenen Generationen gewirkt hat, holen wir aufgrund des starken Wunsches nach Zugehörigkeit – welcher das Überleben sichert – wieder in unser Leben. 
+Vor einer Familienaufstellung empfehle ich Ihnen zunächst Kontakt wegen einem Erstgespräch aufzunehmen. In diesem Erstgespräch klären wir Ihre Beweggründe und Sie erhalten relevante Vorinformationen. Nach der Aufstellung, die im [Einzel-](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) oder  [Gruppensetting](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/) stattfinden kann, stehe ich bei Bedarf für weitere Betreuung zur Verfügung.
 
-Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Alkoholabhängigkeit oder emotionale Härte) zerbrochen sind, zerbrechen beispielsweise heute stellvertretend Beziehungen und Ehen. Die Frauen dieser Kriegsgeneration, die – um zu überleben – alles alleine bewältigen mussten, haben gelernt: „Wir Frauen brauchen keine Männer, wir schaffen es alleine!“ Dies wirkt als ungeschriebenes Familiengesetz und führt dazu, dass es den Töchtern oder Enkelinnen dieser Generation in ihrem Leben schwer fällt, sich auf Beziehungen einzulassen.
+IFGE-Leiterin Silvia Podlisca hat eine eigene Familienaufstellungsmethode entwickelt. Ihr Ansatz baut auf jenem von Bert Hellinger auf, verfeinert diesen allerdings und bietet eine noch ganzheitlichere Sichtweise. Eine Methode, die nicht nur kollektive Dynamiken, sondern auch individuelles Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht. 
+
+Den Blick auf das große Ganze, also auf das vielschichtige System Familie, braucht es, um persönliche Empfindungen, kollektive Dynamiken und soziale Konflikte zu verstehen. 
 
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/aufstellung.png" >}}
-
-{{< image src="/img/aufs_noe.jpg" float="left" title="Familienaufstellungen mit Silvia Podlisca – Im vertraulichen Rahmen unter der Leitung von Silvia Podlisca können belastende Situationen beleuchtet werden. Familienaufstellungen eignen sich besonders gut bei folgenden Themen: körperlichen oder psychosomatischen Erkrankungen, Paar- und Beziehungsschwierigkeiten, zur Trauerbewältigung, kollektive Traumata, Wiederholung eines immer gleichen Musters, dem Gefühl nicht das eigene Leben zu leben, generationsübergreifende Traumata, für Eltern, deren Kinder besondere Auffälligkeiten zeigen, schweren Ereignissen in der Gegenwarts- oder Herkunftsfamilie, Versöhnungsarbeit mit der Herkunft-/Gegenwartsfamilie, bei Schwierigkeiten im Berufsleben, zur Neuorientierung, Selbsterfahrung, für ein besseres Verständnis der (Familien-) Geschichte" >}} 
-
-Erweitert wurde diese Arbeit durch die sogenannten "Bewegungen der Seele" und den "Bewegungen des Geistes". Dabei wird in einer wortlosen Sequenz ohne Eingriffe des Beraters/der Beraterin die tiefe Verbundenheit zwischen den Personen erkennbar. Erst wenn ge­se­hen, ge­hört und an­er­kannt wird, was in der Größe der Fa­mi­li­en­see­le wirkt, kön­nen Lö­sun­gen be­gin­nen.
-
-Familienaufstellungen ändern nichts an der Geschichte, helfen uns aber neue Erkenntnisse und Sichtweisen in alte, oftmals krankmachende Muster zu integrieren. Durch die neugewonnene Sichtweise, die dem Erlebten hin­zu­ge­fügt wird, öffnet sich der Blick und unser Herz, sodass Lösungen beginnen können und neue wirksame Realitäten geschaffen werden können. Durch das Bewusstwerden über die Glaubenssätze, die in der eigenen Familie bestehen, können diese letztlich verändert und Ziele gefunden werden, die Ihrem persönlichen Fortkommen dienlich sind. Diese neuen Realitäten und Zielvorstellungen können besonders nachhaltig in einer anschließenden Glaubenssatzaufstellung erarbeitet werden.
-
-Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg­gründe zu klären und Vorinformationen einzuholen. Nach der Aufstellung stehe ich für eine weitere Betreuung gerne zur Verfügung.
 
 {{< line icon="icon/termine.png" >}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title: "Termine"
+title: "Termine Familienaufstellung"
 menu: 
     main:
         parent: gruppenselbsterfahrung
@@ -76,7 +76,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**05.10.2021**	von 14:00 - 20:00 Uhr   
 **07.10.2021**	von 14:00 - 20:00 Uhr   
 **02.11.2021**	von 14:00 - 20:00 Uhr   
 **16.12.2021**	von 14:00 - 20:00 Uhr   

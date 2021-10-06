@@ -119,11 +119,13 @@ Samstags von 10:00 bis 16:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 21
-#### Start: 2023
+#### Start: 29. August 2022
 
-Kurstag: in Planung
+Montags von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 21 herunterladen](/downloads/LSB_21_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}
@@ -158,6 +160,9 @@ Donnerstags von 14:00 bis 20:00 Uhr
 Kurstag: in Planung
 
 [ANMELDUNG](/anmeldung.php)
+
+Terminübersicht ist in Bearbeitung.
+
 {{% /small  %}}
 {{% /box %}}
 </div>
@@ -185,12 +190,14 @@ Freitags von von 14:00 bis 20:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 
-## LSB 233
+## LSB 23
 #### Start: 2023
 
 Kurstag: in Planung
 
 [ANMELDUNG](/anmeldung.php)
+
+Terminübersicht ist in Bearbeitung. 
 
 {{% /small  %}}
 {{% /box %}}
