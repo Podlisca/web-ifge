@@ -4,7 +4,7 @@ menu:
     main:
         parent: "supervision"
         identifier: "trainingstage_aufstellungsarbeit"
-draft: false
+draft: true
 weight: 6
 description: "Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen."
 og_image: "/img/trainingstage.jpg"
