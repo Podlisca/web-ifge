@@ -71,10 +71,11 @@
     {{ partial "site-footer.html" . }}
   </footer>
 
-  {{ partial "floating-button.html" "aside" }}
+  {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "floating-button.html" "aside" }} {{ end }}    
+
   {{ with .Params.disableScrollTop }} {{ else }} {{ partial "scroll-top.html" . }} {{ end }}
   
-  {{ partial "subscribe.html" }}
+  {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "subscribe.html" }} {{ end }}  
 
   <script>
 
