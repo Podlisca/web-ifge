@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 10
 description: "Die eigene Berufung zum Beruf machen, damit den Schritt in die Selbstständigkeit wagen und eine eigene psychologische Praxis eröffnen: Diesen Traum haben viele, die die Ausbildung zur psychologischen Beratung absolvieren oder absolviert haben."
-og_image: "/img/planspiel.jpg"
+og_image: "/img/planspiel1.jpg"
 rich_kurs: true
 ---
 
@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/planspiel.jpg"title="Um als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin erfolgreich zu sein, benötigt es neben der fachlichen, berufsspezifischen Ausbildung auch ein Grundwissen über Firmengründung. Eine realistische Einschätzung der Kosten und Kalkulation des Honorars sind wichtige Voraussetzungen für einen langanhaltenden Erfolg - frei von Frust. Gerade in der psychosozialen Branche werden diese Aspekte unterschätzt da dies nicht zu den Grundvoraussetzungen für den eigentlichen Beruf – unserer Berufung – gehört. Für viele schneiden sich hier sogar die eigenen Wertevorstellungen. Aber genau das muss nicht sein. Sinnvolle Kalkulation und Gründung - spielerisch leicht erklärtes Fachwissen speziell für den psychosozialen Bereich, um langfristig erfolgreich zu sein und kein böses Steuererwachen – genau dies bietet diese Onlineausbildung am IFGE." float="left " >}}
+{{< image src="/img/planspiel1.jpg"title="Um als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin erfolgreich zu sein, benötigt es neben der fachlichen, berufsspezifischen Ausbildung auch ein Grundwissen über Firmengründung. Eine realistische Einschätzung der Kosten und Kalkulation des Honorars sind wichtige Voraussetzungen für einen langanhaltenden Erfolg - frei von Frust. Gerade in der psychosozialen Branche werden diese Aspekte unterschätzt da dies nicht zu den Grundvoraussetzungen für den eigentlichen Beruf – unserer Berufung – gehört. Für viele schneiden sich hier sogar die eigenen Wertevorstellungen. Aber genau das muss nicht sein. Sinnvolle Kalkulation und Gründung - spielerisch leicht erklärtes Fachwissen speziell für den psychosozialen Bereich, um langfristig erfolgreich zu sein und kein böses Steuererwachen – genau dies bietet diese Onlineausbildung am IFGE." float="left " >}}
 
 Sind Sie im Geiste auch schon damit beschäftigt, innerlich Ihren perfekten Praxisraum einzurichten? Dann sind Sie mit Ihrer Gründung entweder schon sehr, sehr weit – oder aber stehen noch ganz am träumerischen Anfang. Sollte ersteres der Fall sein, wissen Sie vermutlich auch bereits, wie hoch Ihr jährlicher Aufwand an Putzmitteln und WC-Papier für die Praxis sein wird. Nein? Darüber haben Sie sich noch keine Gedanken gemacht? Dann stehen Sie wohl doch wieder – zumindest zum Teil – ganz am Anfang.
 

@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_paarberatung
 draft: false
-weight: 5
+weight: 6
 description: "Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ."
 og_title: "Paarberatung am IFGE"
 og_image: "/img/paarberatung_wien.jpg"
