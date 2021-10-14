@@ -1,0 +1,266 @@
+{{ define "main"}}
+{{ .Content }}
+
+<style>
+    .body-blackout {
+        position: fixed;
+        z-index: 1010;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, .65);
+        display: none;
+    }
+
+    .body-blackout.is-blacked-out {
+        display: block;
+    }
+
+    .popup-trigger {
+        display: inline-block;
+    }
+
+    .popup-modal {
+        min-width: 350px;
+        max-width: 700px;
+        max-height: 100vh;
+        overflow-y: scroll;
+        background-color: #fff;
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        border: 5px solid var(--color-red);
+        opacity: 0;
+        pointer-events: none;
+        transition: all 300ms ease-in-out;
+        z-index: 1011;
+    }
+
+    .popup-modal.is--visible {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .popup-modal.__close {
+        position: absolute;
+        font-size: 1.2rem;
+        right: -10px;
+        top: -10px;
+        cursor: pointer;
+    }
+
+    .popup-modal-header {
+        background-image: url('/img/silvia_subscribe.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 180px;
+    }
+
+    .popup-modal-header img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100px;
+    }
+
+    h1.popup-modal-title {
+        color: white;
+        background-color: var(--color-red);
+        margin: 0;
+    }
+
+    .popup-modal-body,
+    .subscribe-response {
+        padding: 5px;
+    }
+
+    .subscribe-response {
+        display: none;
+    }
+
+    @media (min-width: 800px) {
+
+        .popup-modal-body,
+        .subscribe-response {
+            padding: 20%;
+            padding-top: 1rem;
+        }
+    }
+
+    .popup-modal-body .msg {
+        margin-top: 1rem;
+        display: none;
+    }
+
+    .popup-modal-body .disclaimer {
+        font-size: 0.7rem;
+    }
+
+    .popup-modal-body .formular {
+        grid-template-columns: auto;
+        row-gap: 0;
+    }
+
+    .popup-modal-body .formular label {
+        text-align: left;
+    }
+
+    .subscribe-response .button {
+        width: 95%;
+        text-align: center;
+    }
+</style>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<div style="padding: 2rem;">
+    <b>Nichts mehr verpassen!</b><br>
+    Bleiben Sie mit uns up to date und freuen Sie sich über spannende Blog-Themen, Informationen zu neuen
+    Kursen, Veranstaltungen und vieles mehr.
+</div>
+<div class="popup-modal-body">
+    <!-- <form action="https://newsletter.cors.online/subscribe" method="POST" accept-charset="utf-8"> -->
+    <form class="formular" id="subscribe-form">
+        <label for="anrede">Anrede</label>
+        <select id="anrede" name="anrede" required>
+            <option value="" disabled selected>Bitte wählen...</option>
+            <option>Frau</option>
+            <option>Herr</option>
+            <option>Divers</option>
+        </select>
+        <label for="vorname">Vorname</label>
+        <input type="text" name="Vorname" id="vorname" required />
+        <label for="nachname">Nachname</label>
+        <input type="text" name="Nachname" id="nachname" required />
+        <label for="email">E-Mail Adresse</label>
+        <input type="email" name="email" id="email" required />
+        <label>Ich interessiere mich für:</label>
+        <label>
+            <input type="checkbox" id="Ausbildungen" name="Ausbildungen" checked> Ausbildungen
+        </label>
+        <label>
+            <input type="checkbox" name="Onlineausbildungen" checked> Onlineausbildungen
+        </label>
+        <label>
+            <input type="checkbox" name="Familienaufstellung" checked> Familienaufstellung
+        </label>
+        <label>
+            <input type="checkbox" name="Supervision" checked> Supervision
+        </label>
+        <label>
+            <input type="checkbox" name="Blogs" checked> Blogs
+        </label>
+        <label>
+            <input type="checkbox" name="PsychologischeGW" checked> Psychologische Gesundheit & Wissen
+        </label>
+        <div style="display: flex; margin-top: 0.5rem; align-items: baseline;">
+            <label class="disclaimer">
+                <input type="checkbox" id="gdpr" name="gdpr" required>
+                Ich bin mit der Speicherung meiner Daten ausdrücklich einverstanden.*
+            </label>
+        </div>
+        <p class="g-recaptcha" data-sitekey="6LfKI-EaAAAAANzbM-n_QGZM4wtZk8dOhYS87v8Y" data-callback="handleResponse">
+        </p>
+        <div style="display:none;"></div>
+        <input type="submit" class="button" name="submit" id="submitSubscribe" value="Absenden" disabled="true" />
+        <div class="disclaimer" style="margin-top: 0.5rem;">
+            *Ich stimme zu, dass meine personenbezogenen Daten - wie in der Datenschutz-Richtlinie beschrieben -
+            zur
+            Zusendung und Analyse des E-Mailings verarbeitet werden.
+            Diese Zustimmung kann ich jederzeit widerrufen.
+        </div>
+        <div style="display:none;">
+            <label for="hp">HP</label><br />
+            <input type="text" name="hp" id="hp" />
+        </div>
+        <input type="hidden" name="list" value="RtQc0PrZTdH2HxAYOyKJpg" />
+        <input type="hidden" name="subform" value="yes" />
+        <input type="hidden" name="g-recaptcha-response" id="recaptchaResponse">
+    </form>
+</div>
+<div class="subscribe-response">
+    Vielen Dank!<br>
+    Sie erhalten in Kürze eine Bestätigungsemail zum Abschließen der Anmeldung.
+</div>
+<script>
+    function handleResponse(token) {
+        const btn = document.getElementById("submitSubscribe");
+        btn.disabled = false;
+        document.getElementById("recaptchaResponse").value = token;
+    }
+
+    function subscribe(e) {
+        if (e.preventDefault) {
+            e.preventDefault();
+        }
+
+        const values = document.querySelectorAll('#subscribe-form input')
+        const formData = new FormData();
+        values.forEach(v => {
+            formData.append(v.name, v.type === "checkbox" ? v.checked : v.value);
+        });
+        const name = document.getElementById('vorname').value + " " + document.getElementById("nachname").value;
+        formData.append("name", name);
+
+        const anrede = document.getElementById('anrede').value;
+        formData.append("Anrede", anrede);
+
+        fetch("https://newsletter.cors.online/subscribe", {
+            method: "POST",
+            body: formData
+        }).then(res => {
+            const response = document.querySelector('.subscribe-response');
+            response.style.display = "block";
+
+            const body = document.querySelector('.popup-modal-body').style.display = "none";
+        });
+
+        return false;
+    }
+
+    document.getElementById("subscribe-form").addEventListener("submit", function (e) {
+        subscribe(e);
+    });
+
+    const modalTriggers = document.querySelectorAll('.popup-trigger')
+    const modalCloseTrigger = document.querySelectorAll('.popup-modal__close')
+    const bodyBlackout = document.querySelector('.body-blackout')
+
+    modalTriggers.forEach(trigger => {
+        trigger.addEventListener('click', () => {
+            const { popupTrigger } = trigger.dataset
+            const popupModal = document.querySelector(`[data-popup-modal="${popupTrigger}"]`)
+            const response = document.querySelector('.subscribe-response');
+            response.style.display = "none";
+
+            const body = document.querySelector('.popup-modal-body').style.display = "block";
+
+            popupModal.classList.add('is--visible')
+            bodyBlackout.classList.add('is-blacked-out')
+
+            popupModal.querySelector('.popup-modal__close').addEventListener('click', () => {
+                popupModal.classList.remove('is--visible')
+                bodyBlackout.classList.remove('is-blacked-out')
+            })
+
+            bodyBlackout.addEventListener('click', () => {
+                // TODO: Turn into a function to close modal
+                popupModal.classList.remove('is--visible')
+                bodyBlackout.classList.remove('is-blacked-out')
+            })
+        })
+    });
+
+    modalCloseTrigger.forEach(trigger => {
+        trigger.addEventListener('click', () => {
+            const popupModal = document.querySelector(`.popup-modal`)
+            popupModal.classList.remove('is--visible')
+            bodyBlackout.classList.remove('is-blacked-out')
+        });
+    }) 
+
+</script>
+
+{{ end }}
