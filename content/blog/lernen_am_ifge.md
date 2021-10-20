@@ -62,5 +62,6 @@ Am IFGE wird die digitale Weitsicht also jetzt auch noch in einer weiteren Form 
 * [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [LEBENSLANGES LERNEN – HEUTE IST FRÜH GENUG](https://www.ifge.at/blog/lebenslanges_lernen/)
 * [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
-
+* [HERBST: GESUND UND ZUFRIEDEN DURCH DIE "GRAUE" JAHRESZEIT](https://www.ifge.at/blog/122_herbst_gesund_und_zufrieden/)
+* [BERUF ODER BERUFUNG? DER TRAUM VON DER BERUFLICHEN SELBSTVERWIRKLICHUNG](https://www.ifge.at/blog/123_beruf_berufung/)
 <br/>

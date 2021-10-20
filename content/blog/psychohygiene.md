@@ -57,4 +57,5 @@ http://diepsyche.de/psychohygiene-die-seelische-gesundheit-bewahren/
 * [SELBSTFÜRSORGE: WARUM SIE NIE WICHTIGER WAR - GERADE JETZT](https://www.ifge.at/blog/selbstfuersorge_corona/)
 * [15 TIPPS, WIE SIE DEN ADVENT UND WEIHNACHTEN TROTZ CORONA GENIESSEN](https://www.ifge.at/blog/advent_weihnachten_corona/)
 * [NEUJAHRSVORSÄTZE – ZUM SCHEITERN VERURTEILT](https://www.ifge.at/blog/neujahrsvorsaetze/)
+* [HERBST: GESUND UND ZUFRIEDEN DURCH DIE GRAUE JAHRESZEIT](https://www.ifge.at/blog/122_herbst_gesund_und_zufrieden/)
 <br/>

@@ -46,3 +46,10 @@ Alle Ausbildungsangebote des IFGE finden Sie hier: [Ausbildungen im Überblick](
 
 {{< silvia >}}
 <br/>
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [BERUF ODER BERUFUNG? DER TRAUM VON DER BERUFLICHEN SELBSTVERWIRKLICHUNG](https://www.ifge.at/blog/123_beruf_berufung/)
+* [HERBST: GESUND UND ZUFRIEDEN DURCH DIE "GRAUE" JAHRESZEIT](https://www.ifge.at/blog/122_herbst_gesund_und_zufrieden/)
+
+<br/>

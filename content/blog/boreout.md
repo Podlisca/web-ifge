@@ -23,7 +23,12 @@ Fazit: Es wäre für beide Seiten von Vorteil, einem drohenden Boreout aktiv ent
 {{< silvia >}}
 <br/>
 
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [BERUF ODER BERUFUNG? DER TRAUM VON DER BERUFLICHEN SELBSTVERWIRKLICHUNG](https://www.ifge.at/blog/123_beruf_berufung/)
+
 **Weiterführende Links:**
+
 
 www.boreout.com
 

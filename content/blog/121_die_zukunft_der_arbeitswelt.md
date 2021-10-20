@@ -45,5 +45,6 @@ Die skizzierten Entwicklungen verdeutlichen, dass [psychosoziale Berufe](https:/
 * [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
 * [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [LEBENSLANGES LERNEN – HEUTE IST FRÜH GENUG](https://www.ifge.at/blog/lebenslanges_lernen/)
+* [BERUF ODER BERUFUNG? DER TRAUM VON DER BERUFLICHEN SELBSTVERWIRKLICHUNG](https://www.ifge.at/blog/123_beruf_berufung/)
 
 <br/>

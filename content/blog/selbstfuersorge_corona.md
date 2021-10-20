@@ -64,4 +64,10 @@ Selbstfürsorge ist ein Akt der Eigenverantwortung, mit der wir uns gegen die ve
 <br/>
 {{< silvia >}}
 <br/>
+
+
+**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
+
+* [HERBST: GESUND UND ZUFRIEDEN DURCH DIE "GRAUE" JAHRESZEIT](https://www.ifge.at/blog/122_herbst_gesund_und_zufrieden/)
+
 <br/>

@@ -48,6 +48,4 @@ In manchen Lebensbereichen kehrt im Herbst mehr Ruhe ein und Ruhe ist bekanntlic
 * [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
 
-
-
 <br/>
