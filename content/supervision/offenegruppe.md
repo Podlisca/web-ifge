@@ -45,7 +45,7 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 **in Planung**<br/>
 <br/>
 Leitung: <br/> 
-Anmeldung
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
 {{% small  %}}
@@ -55,18 +55,16 @@ Anmeldung
 **in Planung**<br/>
 <br/> 
 Leitung: <br/>
-Anmeldung
+[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
 {{% small  %}}
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**09. Mai 2021**<br/>
-von 09:00 bis 13:00 Uhr
+**in Planung**<br/>
 <br/> 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-<br/>
+Leitung:<br/>
 [Anmeldung](/anmeldung.php)
 
 

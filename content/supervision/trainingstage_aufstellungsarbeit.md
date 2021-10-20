@@ -44,7 +44,7 @@ Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu ve
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-**01.11.2021** <br/>
+**Neue Termine in Planung** <br/>
 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
@@ -68,7 +68,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Niederösterereich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-**27.09.2021**
+**Neue Termine in Planung**
 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
