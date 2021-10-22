@@ -39,7 +39,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
 
-Die Buchung ist verbindlich sobald nach der Buchung **20% Anzahlung** getätigt wurde. Die Restzahlung muss spätestens eine Woche vor Kursstart am IFGE eingelangt sein. Sollte eine Staffelung der Zahlungen erwünscht werden, können diese gerne individuell vereinbart werden. 
+Die Buchung ist verbindlich sobald nach der Buchung **20% Anzahlung** getätigt wurde. Die Restzahlung muss spätestens eine Woche vor Kursstart am IFGE eingelangt sein. Sollte eine Staffelung der Zahlungen erwünscht werden, kann diese gerne individuell vereinbart werden. 
 
 Kontodaten: 
 
