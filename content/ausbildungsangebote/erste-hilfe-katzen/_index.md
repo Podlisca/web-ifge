@@ -5,7 +5,7 @@ menu:
         parent: ausb
         identifier: katzen
 draft: true
-weight: 10
+weight: 13
 ---
 
 # Erste Hilfe für Katzen

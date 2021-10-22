@@ -5,7 +5,7 @@ menu:
         parent: ausb
         identifier: upgrade_supervision
 draft: false
-weight: 2
+weight: 3
 description: "Für alle Lebens- und Sozialberater, die ihr Wissen und ihre Erfahrung gerne an angehende Kollegen im Rahmen der Supervision weitergeben möchten."
 og_title: "Lsb Upgrade: Zertifizierter Lehrgang Supervision"
 og_image: "/img/index_sv_ausbildung.jpg"

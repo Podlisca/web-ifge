@@ -5,7 +5,7 @@ menu:
         parent: ausb
         identifier: hunde
 draft: true
-weight: 10
+weight: 12
 ---
 
 # Erste Hilfe für Hunde

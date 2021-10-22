@@ -5,7 +5,7 @@ menu:
         parent: ausb
         identifier: lsbmodul
 draft: false
-weight: 1
+weight: 2
 description: "Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung am IFGE. Wenn Ihnen nur einzelne Seminare für die Einreichung des Gewerbescheins fehlen, finden Sie am IFGE ausgewählte Module zur Einzelbuchung." 
 
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_preise
-draft: true
+draft: false
 weight: 2
 ---
 
@@ -26,9 +26,10 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 
-* Einmalzahlung: € 1.980,-
-* Modulzahlung: € 450,- Anzahlzung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
+* bei 6 bis 7 Teilnehmer\*innen: € 16.980,00 
+* bei 8 bis 9 Teilnehmer\*innen: € 16.250,00 
+* bei 10 bis 12 Teilnehmer\*innen: € 15.850,00 
 
-**Die Ausbildung ist nur komplett buchbar.**
+Die angegebenen Preise beinhalten bereits die Umsatzsteuer sowie die Nutzung der IFGE Software. Keine Prüfungsgebühr, kein Auswahlseminar. 
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.

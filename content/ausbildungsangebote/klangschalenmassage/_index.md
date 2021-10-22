@@ -5,7 +5,7 @@ menu:
         parent: ausb
         identifier: klangschale
 draft: false
-weight: 12
+weight: 10
 description: "Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise, sowohl im gesamten Körper, als auch im gesamten Energiekörper aus und erreichen jede Faser und jede Zelle. In unseren Zellen haben wir jede Erfahrung, das Gute wie das Schwere, gespeichert."
 og_image: "/img/ks_ausbildung_gruppe.jpg"
 

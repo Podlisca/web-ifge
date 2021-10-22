@@ -5,7 +5,7 @@ menu:
         parent: ausb
         identifier: teambuilding
 draft: false
-weight: 7
+weight: 8
 description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r BeraterIn – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder TrainerIn erweitern? Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
 og_title: "Ausbildung: psychologisches Teambuilding am IFGE Burgenland"
 og_image: "/img/ausbildung_teambuilding.jpg"

@@ -17,7 +17,7 @@ draft: false
 
 Ich bedanke mich für Ihre Anmeldung und freue mich Ihnen als Dankeschön unser IFGE-Magazin zu schenken.
 
-[Download IFGE-Magazin](/downloads/IFGE_Magazin.pdf)
+**[Download IFGE-Magazin](/downloads/IFGE_Magazin.pdf)**
 
 Viel Spaß beim Schmökern!
 

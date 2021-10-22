@@ -4,7 +4,7 @@ menu:
     main:
         parent: vertrauenslehrer
         identifier: vertrauenslehrer_kursaufbau
-draft: true
+draft: false
 weight: 1
 ---
 
@@ -24,7 +24,7 @@ weight: 1
 ***
 
 ## AUFBAU DES LEHRGANGS 
-100 Ausbildungsstunden mit mind. 8 und **max. 12 Teilnehmer\*innen**
+100 Ausbildungsstunden mit mind. 6 und **max. 12 Teilnehmer\*innen**
 
 Eine überschaubare Zahl an Teilnehmer\*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
 
