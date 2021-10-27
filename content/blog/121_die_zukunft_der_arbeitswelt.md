@@ -1,7 +1,8 @@
 ---
 title: "Die Zukunft der Arbeitswelt: Wandel, Werte und Wichtigkeit psychosozialer Berufe."
 draft: false
-tags: []
+tags: ["Arbeitswelt"]
+categories: ["Arbeit"]
 weight: 121
 
 img: "blog_zukunft_arbeit.jpg"
