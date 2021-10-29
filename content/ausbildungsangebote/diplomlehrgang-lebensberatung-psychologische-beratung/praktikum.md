@@ -3,6 +3,7 @@ title: "Praktikum"
 menu: 
     main:
         parent: lsb
+        identifier: lsbpraktikum
 draft: false
 weight: 5
 ---

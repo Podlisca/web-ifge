@@ -3,7 +3,7 @@ title: "Berufsbild"
 menu: 
     main:
         parent: lsbmodul
-        identifier: berufsbild
+        identifier: lsbberufsbild
 draft: false
 weight: 6
 og_image: "/img/lsb_info_noe.jpg"

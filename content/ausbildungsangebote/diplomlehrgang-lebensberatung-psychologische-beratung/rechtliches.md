@@ -3,6 +3,7 @@ title: "Rechtliches"
 menu: 
     main:
         parent: lsb
+        identifier: lsbrechtliches
 draft: false
 weight: 4
 ---
