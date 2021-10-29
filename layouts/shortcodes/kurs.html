@@ -1,5 +1,5 @@
 <div class="kurs">    
-    <div class="title">
+    <div class='title {{ with .Get "color" }}  {{ . }} {{ else }} light-green {{ end }}'>
         {{ .Get "titel" }}
     </div>
         <img src='{{ .Get "image"}}' />

@@ -1,6 +1,8 @@
 :root {
   --color-green: #16978c;
+  --color-green-light: #a6e1dc;
   --color-red: #a34d5d;
+  --color-red-light: #e9d1d4;
   --color-gray: #969696;
   --color-lightgray: #eee;
   --color-creme: #f8eada;
@@ -613,6 +615,14 @@ img.small {
   color: var(--color-red);
 }
 
+.light-green {
+    background-color: var(--color-green-light);
+}
+
+.light-red {
+    background-color: var(--color-red-light);
+}
+
 .green {
   color: var(--color-green);
 }
@@ -746,8 +756,8 @@ main .cst-intro a {
   padding-bottom: 30px;
   text-align: center;
   margin: 1rem;
-  background-color: var(--color-green);
-  color: white;
+  /* background-color: var(--color-green-light);
+  color: white; */
 }
 
 .kurs img {
@@ -777,4 +787,4 @@ main .cst-intro a {
 
 .kursbox .toggler a[data-mode="collapse"] img.icon {
     transform: rotate(-90deg);
-} 
+}

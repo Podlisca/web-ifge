@@ -1,12 +1,5 @@
 ﻿{{ define "main"}}
-<ul>
-    {{ range .Pages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{ .Params.wikipedia }}
-        </li>
-    {{ end }}
-</ul>
 
-    {{ .Content }}
+{{ .Content }}
+
 {{ end }}

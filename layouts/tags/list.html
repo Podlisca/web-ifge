@@ -1,0 +1,12 @@
+﻿{{ define "main"}}
+
+{{- partial "blog-style" . -}}
+{{- partial "blog-header" . -}}
+
+<div class="post-container">        
+    {{ range .Pages.Reverse }}            
+      {{ .Render "summary"}}
+    {{ end }}
+</div>
+
+{{ end }}

@@ -1,0 +1,96 @@
+<style>
+    .post-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: left;
+    }
+
+    .post-container .post:nth-child(even) {
+        background-color: var(--color-blue);
+    }
+
+    article header {
+        background: none;
+        overflow: visible;
+        height: 9em;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    article.video header {
+        height: auto;
+    }
+
+    article.post {
+        margin: 0.5em;
+        max-width: 31%;
+        display: grid;
+        grid-template-areas:
+            " header "
+            " pic "
+            " main "
+            " . ";
+        grid-template-rows: auto auto auto 1fr;
+    }
+
+    article.post>main {
+        grid-area: main;
+        padding: 1em;
+    }
+
+    article>main {
+        margin-bottom: 0;
+    }
+
+    article>main>.description {
+        max-height: 9em;
+        overflow: hidden;
+    }
+
+    article.post iframe {
+        grid-area: pic;
+    }
+
+    @media (max-width: 700px) {
+        .post-container {
+            grid-template-columns: auto auto;
+        }
+
+        article header {
+            height: auto;
+        }
+
+        article.post {
+            max-width: 100%;
+            grid-template-areas:
+                " header "
+                " pic "
+                " main ";
+        }
+    }
+
+    article.post header {
+        grid-area: header;
+    }
+
+    article.post img {
+        grid-area: pic;
+    }
+
+    .tag-cloud {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 1rem;
+    }
+
+    .tag-cloud a {
+        padding: 2px;
+        margin: 1px 5px;
+    }
+
+    .tag-cloud .active {
+        font-weight: bold;
+    }
+</style>
