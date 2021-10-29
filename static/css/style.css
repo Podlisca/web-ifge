@@ -752,24 +752,38 @@ main .cst-intro a {
 
 .kurs .title {
   grid-area: title;
-  padding: 0.5rem;
+  padding: 1rem;
   padding-bottom: 30px;
   text-align: center;
   margin: 1rem;
-  /* background-color: var(--color-green-light);
-  color: white; */
+  font-weight: bold;
 }
 
-.kurs img {
+.kurs .image {
   grid-area: img;
-  margin-top: -30px;
-  max-width: 200px;
+  margin-top: -30px; 
+  display: grid;
+  justify-content: center; 
+}
+
+.kurs .image img {
+    max-width: 200px;
 }
 
 .kursbox .cont {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-content: center;
+}
+
+@media (max-width: 700px) {
+    .kursbox .cont {
+        grid-template-columns: 1fr;
+    }
+}
+
+.kursbox .cont a {
+    color: inherit;
 }
 
 .kursbox .cont .kurs:nth-child(n + 4) {

@@ -1,6 +1,10 @@
-<div class="kurs">    
+<div class="kurs">
     <div class='title {{ with .Get "color" }}  {{ . }} {{ else }} light-green {{ end }}'>
-        {{ .Get "titel" }}
+        <a href='{{ relref . (.Get "link")}}'>{{ .Get "titel" }}</a>
     </div>
-        <img src='{{ .Get "image"}}' />
+    <div class="image">
+        <a href='{{ relref . (.Get "link")}}'>
+            <img src='{{ .Get "image"}}' />
+        </a>
+    </div>
 </div>
