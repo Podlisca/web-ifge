@@ -3,7 +3,6 @@ title: "Berufsbild"
 menu:
     main:
         parent: archiv
-        identifier: berufsbild
 draft: true
 weight: 1
 

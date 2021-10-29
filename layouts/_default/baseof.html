@@ -95,6 +95,13 @@
     function toggleMore(obj) {      
       obj.parentNode.parentNode.classList.toggle("show");
     }
+
+    function toggleKursbox(obj) {
+      obj.parentElement.parentElement.querySelectorAll('.kurs:nth-child(n+4)').forEach(node => {
+        node.style.display = obj.dataset.mode === "expand" ? "grid" : "none";
+      });
+      obj.dataset.mode = obj.dataset.mode === "expand" ? "collapse" : "expand";
+    }
   </script>
   
   <script src="/js/slider.js"></script>

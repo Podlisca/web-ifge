@@ -1,7 +1,7 @@
 ---
 title: "On- vs. Offline – Was der Onlineraum (nicht) kann."
 draft: false
-tags: []
+tags: ["Online"]
 weight: 120
 
 img: "kursziele_2021_1.jpg"

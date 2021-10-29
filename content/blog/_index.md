@@ -5,9 +5,3 @@ draft: false
 weight: 9
 description: "Spannende Themen Rund um psychologische Prozesse."
 ---
-
-# BLOG
-
-{{< slogan >}}
-
-{{< line icon="icon/blog.png" >}}

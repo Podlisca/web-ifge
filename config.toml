@@ -8,6 +8,10 @@ languageCode = "de"
 defaultContentLanguage = "de"
 summaryLength = 30
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [markup.goldmark.renderer]
 unsafe = true
 

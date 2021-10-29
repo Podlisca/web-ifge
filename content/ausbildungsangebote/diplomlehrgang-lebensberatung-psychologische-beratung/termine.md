@@ -3,6 +3,7 @@ title: "Termine"
 menu: 
     main:
         parent: lsb
+        identifier: lsbtermine
 draft: false
 weight: 3
 ---

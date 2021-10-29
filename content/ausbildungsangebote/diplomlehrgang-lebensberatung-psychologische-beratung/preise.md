@@ -3,6 +3,7 @@ title: "Preise"
 menu: 
     main:
         parent: lsb
+        identifier: lsbpreise
 draft: false
 weight: 2
 ---
