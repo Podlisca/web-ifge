@@ -90,25 +90,6 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 ## Unsere Ausbildungen im Überblick
 * * *
 
-{{% kursbox %}}
-{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Das ist der Titel 2" link="" image="/img/icon/zertifikat.png" >}}
-{{< kurs titel="Das ist der Titel 3" link="" image="/img/icon/zertifikat.png" color="light-red" >}}
-{{< kurs titel="Das ist der Titel 4" link="" image="/img/icon/zertifikat.png" >}}
-{{< kurs titel="Das ist der Titel 5" link="" image="/img/icon/zertifikat.png" >}}
-{{% /kursbox %}}
-
-
-{{% kursbox %}}
-{{< kurs titel="Abschnitt 2 1" link="" image="/img/icon/zertifikat.png" >}}
-{{< kurs titel="Titel 2" link="" image="/img/icon/zertifikat.png" >}}
-{{< kurs titel="der Titel 3" link="" image="/img/icon/zertifikat.png" >}}
-{{< kurs titel="Titel 4" link="" image="/img/icon/zertifikat.png" >}}
-{{< kurs titel="Titel 5" link="" image="/img/icon/zertifikat.png" >}}
-{{% /kursbox %}}
-
 {{% box top-align=1 %}}
 {{% small  %}}
 {{< image src="/img/icon/diplomlehrgang.png" small=1 >}}
