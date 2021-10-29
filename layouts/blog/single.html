@@ -29,6 +29,16 @@
 
     {{ .Content }}
 
+    {{ $related := .Site.RegularPages.Related . }}    
+    {{ with $related }}    
+    <strong>Mehr zu diesem Thema finden Sie auch in folgenden Blogs:</strong>
+    <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
     {{ if isset .Params "img"}}
         {{ if .PrevInSection }}
             <a href="{{ .PrevInSection.Permalink }}">Vorheriger Eintrag</a>
@@ -40,8 +50,7 @@
     {{ else }}
         <br>
         {{ .Params.Description }}
-    {{ end }}
-
+    {{ end }}   
     
 
 {{ end }}
