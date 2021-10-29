@@ -91,7 +91,9 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 * * *
 
 {{% kursbox %}}
-{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/icon/zertifikat.png" color="light-red" >}}
+{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Das ist der Titel 1" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{< kurs titel="Das ist der Titel 2" link="" image="/img/icon/zertifikat.png" >}}
 {{< kurs titel="Das ist der Titel 3" link="" image="/img/icon/zertifikat.png" color="light-red" >}}
 {{< kurs titel="Das ist der Titel 4" link="" image="/img/icon/zertifikat.png" >}}

@@ -10,8 +10,7 @@
 </div>
 
 <div class="tag-cloud">
-    {{ $taxo := "tags" }}
-
+    {{ $taxo := "tags" }}    
     {{ with ($.Site.GetPage (printf "/%s" $taxo)) }}
     {{ range .Pages }}        
         <a href="{{ .Permalink }}" {{ if eq . $current }} class="active"{{ end}}>{{ .Title}}</a>
