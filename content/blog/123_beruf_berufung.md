@@ -1,7 +1,7 @@
 ---
 title: "Beruf oder Berufung? Der Traum von der beruflichen Selbstverwirklichung. "
 draft: false
-tags: ["Beruf", "Erfuellung", "Umschulung", "Traumberuf", "Berufswahl", "Weiterbildung", "Karriere"]
+tags: ["Beruf", "Erfuellung", "Arbeitswelt", "Weiterbildung", "Karriere"]
 weight: 123
 
 img: "blog_beruf_berufung.jpg"
