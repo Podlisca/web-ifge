@@ -27,7 +27,7 @@ weight: 3
 
 ## Informationsveranstaltung
 
-**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Informationsveranstaltungen gilt die 2,5-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt werden. Wir hoffen natürlich, dass dies nicht notwendig wird. Sollte es zu einer Umstellung kommen, werden Sie selbstverständlich rechtzeitig darüber informiert. 
 

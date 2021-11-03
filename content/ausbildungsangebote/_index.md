@@ -57,41 +57,41 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="LSB Upgrade: Supervision" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="LSB Upgrade: Supervision" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/supervisionsgruppe_bgld.jpg" color="light-red" >}}
+{{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
 #### Aus- und Weiterbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Psychologisches Teambuilding" link="/ausbildungsangebote/ausbildung-psychologisches-teambuilding" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Sexual- & Traumaberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="VertrauenslehrerIn" link="/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Historische & politische Aspekte in der Beratung" link="/ausbildungsangebote/historische-politische-aspekte-in-der-beratung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Klangschalenmassage" link="/ausbildungsangebote/klangschalenmassage" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Psychologisches Teambuilding" link="/ausbildungsangebote/ausbildung-psychologisches-teambuilding" image="/img/team_6.jpg" >}}
+{{< kurs titel="Sexual- & Traumaberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
+{{< kurs titel="VertrauenslehrerIn" link="/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin" image="/img/kursziel_vertrauenslehrer.jpg" >}}
+{{< kurs titel="Historische & politische Aspekte in der Beratung" link="/ausbildungsangebote/historische-politische-aspekte-in-der-beratung" image="/img/politische_bildung.jpg" >}}
+{{< kurs titel="Klangschalenmassage" link="/ausbildungsangebote/klangschalenmassage" image="/img/kursuebersicht_klangschale.jpg" >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett" image="/img/kursuebersicht_systembrett.jpg" >}}
 {{% /kursbox %}}
 
 #### Online Ausbildungen & Trainings
 
 {{% kursbox %}}
-{{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Psychologisches Coaching" link="/online-ausbildungsangebote/psychologisches_coaching" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Große weite Welt - Kinder vor Gefahren (im Netz) schützen" link="/online-ausbildungsangebote/kinder_gefahrenschutz" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Fit and safe: Ganz sicher Spaß haben - online und unterwegs" link="/online-ausbildungsangebote/fitandsafe" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/grundlagen_online.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" color="light-red" >}}
+{{< kurs titel="Psychologisches Coaching" link="/online-ausbildungsangebote/psychologisches_coaching" image="/img/kursuebersicht_coaching.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg" color="light-red" >}}
+{{< kurs titel="Große weite Welt - Kinder vor Gefahren (im Netz) schützen" link="/online-ausbildungsangebote/kinder_gefahrenschutz" image="/img/kinder_schuetzen.jpg" color="light-red" >}}
+{{< kurs titel="Fit and safe: Ganz sicher Spaß haben - online und unterwegs" link="/online-ausbildungsangebote/fitandsafe" image="/img/kursziel_fit_safe_maedchen.jpg" color="light-red" >}}
+{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
 #### Tiergestützte Ausbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Erste Hilfe für Katzen" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Erste Hilfe für Hunde" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/kursuebersicht_eh_katzen.jpg" >}}
+{{< kurs titel="Erste Hilfe für Hunde" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/erste_hilfe_hunde.jpg" >}}
 {{% /kursbox %}}
 
 

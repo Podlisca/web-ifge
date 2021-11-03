@@ -139,6 +139,9 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. 
 
 Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
+
+**Für alle Aufstellungsseminare gilt für externe Teilnehmer die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+
 {{% /small  %}}
 {{% /box %}}
 
