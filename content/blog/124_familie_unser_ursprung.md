@@ -1,6 +1,6 @@
 ---
 title: "Familie: Unser Ursprung, unsere Herkunft."
-draft: true
+draft: false
 tags: ["Familie", "Rollenbilder", "Kindheit", "Selbstverwirklichung", "Trauma"]
 weight: 124
 
