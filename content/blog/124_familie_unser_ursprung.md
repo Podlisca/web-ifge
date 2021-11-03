@@ -1,7 +1,7 @@
 ---
 title: "Familie: Unser Ursprung, unsere Herkunft."
 draft: true
-tags: ["Familie", "Familienaufstellung", "Rollenbilder", "Kindheit", "Selbstverwirklichung", "Trauma"]
+tags: ["Familie", "Rollenbilder", "Kindheit", "Selbstverwirklichung", "Trauma"]
 weight: 124
 
 img: "blog_familienfoto_generationen.jpg"
