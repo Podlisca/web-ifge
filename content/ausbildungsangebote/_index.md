@@ -65,7 +65,7 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 {{% kursbox %}}
 {{< kurs titel="Psychologisches Teambuilding" link="/ausbildungsangebote/ausbildung-psychologisches-teambuilding" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
-{{< kurs titel="Sexual- & Paarberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Sexual- & Traumaberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="VertrauenslehrerIn" link="/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="/ausbildungsangebote/historische-politische-aspekte-in-der-beratung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="Klangschalenmassage" link="/ausbildungsangebote/klangschalenmassage" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}

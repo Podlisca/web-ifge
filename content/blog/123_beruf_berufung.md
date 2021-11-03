@@ -1,7 +1,7 @@
 ---
 title: "Beruf oder Berufung? Der Traum von der beruflichen Selbstverwirklichung. "
 draft: false
-tags: ["Beruf", "Erfuellung", "Arbeitswelt", "Weiterbildung", "Karriere"]
+tags: ["Beruf", "Erfuellung", "Arbeitswelt", "Bildung", "Karriere"]
 weight: 123
 
 img: "blog_beruf_berufung.jpg"
@@ -43,6 +43,7 @@ Der Beruf ist eine wichtige Komponente des menschlichen Lebens. Er schafft Einko
 
 <br/>
 {{< silvia >}}
+
 
 **Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
