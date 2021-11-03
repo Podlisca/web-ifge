@@ -36,7 +36,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**22.10.2021**	von 14:00 - 20:00 Uhr   
 **12.11.2021**	von 14:00 - 20:00 Uhr   
 **17.11.2021**	von 09:00 - 15:00 Uhr   
 **24.11.2021**	von 09:00 - 15:00 Uhr   
@@ -75,7 +74,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**02.11.2021**	von 14:00 - 20:00 Uhr   
 **16.12.2021**	von 14:00 - 20:00 Uhr   
 **18.01.2022**	von 14:00 - 20:00 Uhr   
 **27.01.2022**	von 14:00 - 20:00 Uhr   
