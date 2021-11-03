@@ -51,6 +51,52 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
+## Unsere Ausbildungen im Überblick
+
+#### WKO Zertifizierte Lehrgänge
+
+{{% kursbox %}}
+{{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="LSB Upgrade: Supervision" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{% /kursbox %}}
+
+#### Aus- und Weiterbildungen
+
+{{% kursbox %}}
+{{< kurs titel="Psychologisches Teambuilding" link="/ausbildungsangebote/ausbildung-psychologisches-teambuilding" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Sexual- & Paarberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="VertrauenslehrerIn" link="/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Historische & politische Aspekte in der Beratung" link="/ausbildungsangebote/historische-politische-aspekte-in-der-beratung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Klangschalenmassage" link="/ausbildungsangebote/klangschalenmassage" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{% /kursbox %}}
+
+#### Online Ausbildungen & Trainings
+
+{{% kursbox %}}
+{{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Psychologisches Coaching" link="/online-ausbildungsangebote/psychologisches_coaching" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Große weite Welt - Kinder vor Gefahren (im Netz) schützen" link="/online-ausbildungsangebote/kinder_gefahrenschutz" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Fit and safe: Ganz sicher Spaß haben - online und unterwegs" link="/online-ausbildungsangebote/fitandsafe" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{% /kursbox %}}
+
+#### Tiergestützte Ausbildungen
+
+{{% kursbox %}}
+{{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Erste Hilfe für Hunde" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{% /kursbox %}}
+
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
 {{% box more=1 blue=1 %}}
 {{< card-more link="/about/institut/" icon="icon/3_standorte_schwarz.png"  title="Berufsbegleitendes Lernen an 3 Standorten in Wien, Nö & Bgld" >}}
 Für Schüler\*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschätzenden und offenen Umgebung - an 3 Standorten (Wien, Burgenland und Niederösterreich) - lernen können, in der auf die Stärken jedes Einzelnen Rücksicht genommen und jede/r individuell gefördert wird. Die gesammelte Kompetenz eines breiten Referentenpools vermittelt Wissen am IFGE spannend, tiefgreifend und praxisorientiert, sodass sich Fachwissen, Auftreten und praktische Erfahrung letztlich intensiv festigen. Damit ermögliche ich es, dass IFGE-Absolvent\*innen nicht nur fachlich auf höchstem Niveau ausgebildet sind, sondern von meinem erfahrenen, kompetenten Expertenteam auch jene Handwerkzeuge mitbekommen, die für den erfolgreichen Start in der Lebens- und Sozialberatung – psychologische Beratung – oder Supervision notwendig sind. Kurs- und Ortshopping: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
@@ -85,58 +131,6 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% /small %}}
 </div> 
 
-{{< line icon="icon/info_tuerkis.png" >}}
-
-## Unsere Ausbildungen im Überblick
-* * *
-
-{{% box top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/icon/diplomlehrgang.png" small=1 >}}
-
-#### WKO ZERTIFIZIERTE LEHRGÄNGE
-* [Lebens- und Sozialberatung - psychologische Beratung](/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/)
-* [LSB Upgrade: Supervision](/ausbildungsangebote/lsb-upgrade-supervisionslehrgang/)
-* [LSB Upgrade: Aufstellungsarbeit](/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/)
-
-
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/icon/zertifikat.png" small=1 >}}
-
-#### AUS- UND WEITERBILDUNGEN
-* [Psychologisches Teambuilding](/ausbildungsangebote/ausbildung-psychologisches-teambuilding/)
-* [Sexual- & Paarberatung](/ausbildungsangebote/sexualberatung-paarberatung/)
-* [VertrauenslehrerIn](/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin/)
-* [Historische & politische Aspekte in der Beratung](/ausbildungsangebote/historische-politische-aspekte-in-der-beratung/)
-* [Klangschalenmassage](https://ifge.at/ausbildungsangebote/klangschalenmassage/)
-
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/icon/onlineausbildung.png" small=1 >}}
-
-#### ONLINE AUSBILDUNGEN & TRAININGS
-* [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung/)
-* [Umgang mit sexueller Belästigung & Stalking](/online-ausbildungsangebote/sexuelle_belaestigung/)
-* [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik/)
-* [psychologisches Coaching](/online-ausbildungsangebote/psychologisches_coaching/)
-* [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming/)
-* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz/)
-* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/fitandsafe/)
-* [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau/)
-* [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau/)
-
-{{% /small  %}}
-{{% small  %}}
-{{< image src="/img/icon/tiere.png" small=1 >}}
-
-#### TIERGESTÜTZTE AUSBILDUNGEN
-* [Tiergestützte psychologische Beratung](/ausbildungsangebote/tiergestützte-psychologische-beratung/)
-* [Erste Hilfe für Katzen](https://www.berufsverband-tiergestuetzteberatung.at/geprüfte-kurse/erste-hilfe-für-katzen/)
-* [Erste Hilfe für Hunde](https://www.berufsverband-tiergestuetzteberatung.at/geprüfte-kurse/erste-hilfe-für-hunde/)
-
-{{% /small  %}}
-{{% /box %}}
 
 {{< line icon="icon/raueme.png" >}}
 
