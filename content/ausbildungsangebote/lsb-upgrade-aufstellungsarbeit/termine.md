@@ -50,26 +50,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-#### Start: 16.01.2022
-
-immer sonntags von 09:00 bis 18:00 Uhr
-Prüfungstag von 09:00 bis 16:00 Uhr
-
-16.01.2022<br/>
-27.02.2022<br/>
-20.03.2022<br/>
-03.04.2022<br/>
-10.04.2022<br/>
-22.05.2022<br/>
-05.06.2022<br/>
-26.06.2022<br/>
-18.09.2022<br/>
-16.10.2022<br/>
-23.10.2022<br/>
-27.112022<br/>
-04.12.2022<br/>
-
-**Prüfung:** 18.122022<br/>
+#### Termine folgen
 
 [Anmeldung](/anmeldung.php)
 
@@ -80,20 +61,7 @@ Prüfungstag von 09:00 bis 16:00 Uhr
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-#### Start: 16. Jänner 2021
-
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 18:00 Uhr<br/>
-Prüfungstag von 09:00 bis 16:00 Uhr 
-
-**Modul 1:** 16.01. und 17.01.2021<br/>
-**Modul 2:** 13.02. und 14.02.2021<br/>
-**Modul 3:** 20.03. und 21.03.2021<br/>
-**Modul 4:** 24.04. und 25.04.2021<br/>
-**Modul 5:** 22.05. und 23.05.2021<br/>
-**Modul 6:** 26.06. und 27.06.2021<br/>
-
-**Prüfung:** 03.07.2021
+#### Termine folgen
 
 [Anmeldung](/anmeldung.php)
 
@@ -104,6 +72,7 @@ Prüfungstag von 09:00 bis 16:00 Uhr
 
 #### Termine folgen
 
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}

@@ -48,29 +48,27 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-#### Start: 06. September 2021
+#### Start: 16. Jänner 2022
 
-Montag von 10:00 bis 16:00 Uhr<br/>
+immer sonntags von 09:00 bis 18:00 Uhr
+Prüfungstag von 09:00 bis 16:00 Uhr
 
-* 06.09.2021
-* 13.09.2021
-* 20.09.2021
-* 04.10.2021
-* 11.10.2021
-* 18.10.2021
-* 25.10.2021
-* 08.11.2021
-* 15.11.2021
-* 22.11.2021
-* 29.11.2021
-* 06.12.2021
-* 13.12.2021
-* 20.12.2021
-* 10.01.2022
-* 17.01.2022
-* 24.01.2022
+* 16.01.2022<br/>
+* 27.02.2022<br/>
+* 20.03.2022<br/>
+* 03.04.2022<br/>
+* 10.04.2022<br/>
+* 22.05.2022<br/>
+* 26.06.2022<br/>
+* 18.09.2022<br/>
+* 16.10.2022<br/>
+* 23.10.2022<br/>
+* 27.112022<br/>
+* 04.12.2022<br/>
 
-[ANMELDUNG](/anmeldung.php)
+**Prüfung: 18.12.2022**<br/>
+
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 
@@ -80,29 +78,7 @@ Montag von 10:00 bis 16:00 Uhr<br/>
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
-#### Start: 22. Jänner 2020
-
-Mittwoch von 14:00 bis 20:00 Uhr<br/>
-Sonntag von 10:00 bis 16:00 Uhr<br/>
-
-* 22.01.2020
-* 16.02.2020 
-* 26.02.2020
-* 08.03.2020 
-* 25.03.2020 
-* 08.04.2020 
-* 22.04.2020
-* 17.05.2020 
-* 27.05.2020 
-* 14.06.2020 
-* 24.06.2020 
-* 13.09.2020 
-* 27.09.2020 
-* 14.10.2020 
-* 01.11.2020 
-* 11.11.2020 
-* 29.11.2020
-
+#### Termine folgen
 
 {{% /small  %}}
 {{% small  %}}
