@@ -25,7 +25,7 @@ weight: 3
 {{< line icon="icon/termin_kursplan.png" >}}
 
 # Termine
-**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 2,5 G Regel (Geimpft, Genesen, PCR Test).**  Bitte den Nachweis mitführen - Danke!
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Informationsveranstaltung
