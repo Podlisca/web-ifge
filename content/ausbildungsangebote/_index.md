@@ -64,22 +64,23 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 #### Aus- und Weiterbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Psychologisches Teambuilding" link="/ausbildungsangebote/ausbildung-psychologisches-teambuilding" image="/img/team_6.jpg" >}}
 {{< kurs titel="Sexual- & Traumaberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
-{{< kurs titel="VertrauenslehrerIn" link="/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin" image="/img/vertrauenslehrer1.jpg" >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett" image="/img/kursuebersicht_systembrett.jpg">}}
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="/ausbildungsangebote/historische-politische-aspekte-in-der-beratung" image="/img/politische_bildung.jpg" color="light-red">}}
+{{< kurs titel="VertrauenslehrerIn" link="/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin" image="/img/vertrauenslehrer1.jpg" >}}
+{{< kurs titel="Psychologisches Teambuilding" link="/ausbildungsangebote/ausbildung-psychologisches-teambuilding" image="/img/team_6.jpg" color="light-red" >}}
 {{< kurs titel="Klangschalenmassage" link="/ausbildungsangebote/klangschalenmassage" image="/img/kursuebersicht_klangschale.jpg" >}}
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+
 {{% /kursbox %}}
 
 #### Online Ausbildungen & Trainings
 
 {{% kursbox %}}
-{{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/grundlagen_online.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" >}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" color="light-red" >}}
-{{< kurs titel="Psychologisches Coaching" link="/online-ausbildungsangebote/psychologisches_coaching" image="/img/psychologisches _coaching.jpg" >}}
+{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" >}}
 {{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg" color="light-red" >}}
+{{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/grundlagen_online.jpg" >}}
+{{< kurs titel="Psychologisches Coaching" link="/online-ausbildungsangebote/psychologisches_coaching" image="/img/psychologisches _coaching.jpg" color="light-red" >}}
 {{< kurs titel="Große weite Welt - Kinder vor Gefahren (im Netz) schützen" link="/online-ausbildungsangebote/kinder_gefahrenschutz" image="/img/kinder_schuetzen.jpg" >}}
 {{< kurs titel="Fit and safe: Ganz sicher Spaß haben - online und unterwegs" link="/online-ausbildungsangebote/fitandsafe" image="/img/kursziel_fit_safe_maedchen.jpg" color="light-red" >}}
 {{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" >}}
@@ -89,9 +90,10 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 #### Tiergestützte Ausbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}}
-{{< kurs titel="Erste Hilfe für Katzen" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/kursuebersicht_eh_katzen.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/bv_wirkung.jpg" >}}
+{{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" color="light-red" >}} 
 {{< kurs titel="Erste Hilfe für Hunde" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/erste_hilfe_hunde.jpg" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/kursuebersicht_eh_katzen.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
 
