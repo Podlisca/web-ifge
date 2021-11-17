@@ -15,7 +15,7 @@ description: "Diese Seite dient als Vorlage für neue Funktionen und ist nur sic
 ## WKO Zertifizierte Lehrgänge
 
 {{% kursbox %}}
-{{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="https://google.com" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{< kurs titel="LSB Upgrade: Supervision" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{% /kursbox %}}

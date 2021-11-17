@@ -1,10 +1,8 @@
 <div class="kurs">
-    <div class='title {{ with .Get "color" }}  {{ . }} {{ else }} light-green {{ end }}'>
-        <a href='{{ relref . (.Get "link")}}'>{{ .Get "titel" }}</a>
-    </div>
-    <div class="image">
-        <a href='{{ relref . (.Get "link")}}'>
-            <img src='{{ .Get "image"}}' />
-        </a>
-    </div>
+<div class='title {{ with .Get "color" }}  {{ . }} {{ else }} light-green {{ end }}'>
+{{ if hasPrefix (.Get "link") "http" }}<a href='{{ .Get "link"}}' target="_blank" rel="noopener">{{else }}<a href='{{ relref . (.Get "link")}}'>{{end}}{{ .Get "titel" }}</a>
+</div>
+<div class="image">
+{{ if hasPrefix (.Get "link") "http" }}<a href='{{ .Get "link"}}' target="_blank" rel="noopener">{{else}}<a href='{{ relref . (.Get "link")}}'>{{end}}<img src='{{ .Get "image"}}' /></a>
+</div>
 </div>

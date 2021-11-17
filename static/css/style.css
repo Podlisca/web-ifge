@@ -748,6 +748,7 @@ main .cst-intro a {
   grid-template-areas:
     "title title title"
     ". img .";
+  grid-template-rows: 1fr auto;
 }
 
 .kurs .title {
