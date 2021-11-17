@@ -1,7 +1,7 @@
 ---
 title: "Herbst: Gesund und zufrieden durch die „graue“ Jahreszeit."
 draft: false
-tags: []
+tags: ["Gesundheit", "Selbstfürsorge"]
 weight: 122
 
 img: "blog_herbst.jpg"
@@ -39,13 +39,5 @@ In manchen Lebensbereichen kehrt im Herbst mehr Ruhe ein und Ruhe ist bekanntlic
 <br/>
 {{< silvia >}}
 
-**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
-
-
-* [SELBSTFÜRSORGE: WARUM SIE NIE WICHTIGER WAR - GERADE JETZT](https://www.ifge.at/blog/selbstfuersorge_corona/)
-* [PSYCHOHYGIENE ODER DER WEG ZU MEHR WOHLBEFINDEN UND GELASSENHEIT](https://www.ifge.at/blog/psychohygiene/)
-* [KATZEN(VIDEOS) MACHEN GLÜCKLICH!](https://www.ifge.at/blog/katzenvideos/)
-* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
-* [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
 
 <br/>

@@ -1,7 +1,7 @@
 ---
 title: "Warum „Freestyle“ nichts mit authentischer Prozessbegleitung zu tun hat"
 draft: false
-tags: []
+tags: ["Sozialberuf", "Familienaufstellung", "Selbstständigkeit", "Bildung"]
 weight: 113
 
 img: "authentische prozessbegleitung.jpg"
@@ -43,10 +43,5 @@ Authentische Beratung heißt, dass wir uns als Berater\*innen menschlich sowie e
 
 **Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
-* [DER TRAUM VON DER EIGENEN PRAXIS – VOM SINN UND UNSINN DER SELBSTSTÄNDIGKEIT](https://www.ifge.at/blog/sinn-und-unsinn-der-gr%C3%BCndung/)
-* [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
-* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
-* [LEBENSLANGES LERNEN – HEUTE IST FRÜH GENUG](https://www.ifge.at/blog/lebenslanges_lernen/)
-* [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
 
 <br/>

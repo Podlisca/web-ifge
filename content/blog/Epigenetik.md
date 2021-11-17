@@ -1,7 +1,7 @@
 ---
 title: "Epigenetik: Wie unsere Zellen den Schmerz vergangener Generationen speichern"
 draft: false
-tags: []
+tags: ["Epigenetik", "Familienaufstellung", "Bildung"]
 weight: 107
 img: "epigenetik.jpg"
 og_image: "/img/epigenetik.jpg"
@@ -50,16 +50,5 @@ Das sei außerdem die beste Prävention gegen das Nachlassen der geistigen Fähi
 {{< silvia >}}
 <br/>
 **Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
-
-* [PAPA, WO BIST DU?](https://www.ifge.at/blog/papa/)
-* [SEINEN PLATZ IN DER FAMILIE FINDEN - ÜBER DIE WIRKUNG DES FAMILIENSTELLENS](https://www.ifge.at/blog/wirkung_familienstellen/)
-* [IST TRAUMATISIERUNG DAS NEUE BURN-OUT? VOM ACHTSAMEN UMGANG MIT BEGRIFFEN](https://www.ifge.at/blog/traumatisierung-vs.-trauma/)
-* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [DIGITALER ANGRIFF AUF DIE PSYCHE: DIESE GEFAHREN LAUERN IM INTERNET](https://www.ifge.at/blog/gefahr_internet/)
-* [HAPPY AGING](https://www.ifge.at/blog/happy_aging/)
-* [GHOSTING](https://www.ifge.at/blog/ghosting/)
-* [TIERE ALS WERTVOLLE BEREICHERUNG IN DER BERATUNG](https://www.ifge.at/blog/tiere_beratung/)
-* [DAMIT ES IM BETT SO RICHTIG NETT WIRD](https://www.ifge.at/blog/nett_im_bett/)
-
 
 <br/>

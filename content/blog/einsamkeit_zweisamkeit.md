@@ -1,7 +1,7 @@
 ---
 title: "Was Beziehungen im Jahr der Pandemie geprägt hat"
 draft: false
-tags: []
+tags: ["Partnerschaft", "Familie", "Corona"]
 weight: 114
 
 img: "paarberatung_wien.jpg"

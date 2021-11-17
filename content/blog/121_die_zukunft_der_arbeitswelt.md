@@ -2,7 +2,7 @@
 title: "Die Zukunft der Arbeitswelt: Wandel, Werte und Wichtigkeit psychosozialer Berufe."
 draft: false
 tags: ["Arbeitswelt"]
-categories: ["Arbeit"]
+categories: ["Arbeit", "Digitalisierung", "Sozialberuf"]
 weight: 121
 
 img: "blog_zukunft_arbeit.jpg"
@@ -39,13 +39,6 @@ Die skizzierten Entwicklungen verdeutlichen, dass [psychosoziale Berufe](https:/
 <br/>
 {{< silvia >}}
 
-**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
-* [DER TRAUM VON DER EIGENEN PRAXIS – VOM SINN UND UNSINN DER SELBSTSTÄNDIGKEIT](https://www.ifge.at/blog/sinn-und-unsinn-der-gr%C3%BCndung/)
-* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
-* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
-* [LEBENSLANGES LERNEN – HEUTE IST FRÜH GENUG](https://www.ifge.at/blog/lebenslanges_lernen/)
-* [BERUF ODER BERUFUNG? DER TRAUM VON DER BERUFLICHEN SELBSTVERWIRKLICHUNG](https://www.ifge.at/blog/123_beruf_berufung/)
 
 <br/>

@@ -1,7 +1,7 @@
 ---
 title: "Digitaler Angriff auf die Psyche: Diese Gefahren lauern im Internet"
 draft: false
-tags: ["Heiratsschwindler", "Love Scamming","Einamkeit", "Partnersuche",  "Angst"]
+tags: ["Digitalisierung","Partnerschaft", "Angst", "Trauma", "Sexualität", "Familienaufstellung"]
 weight: 103
 img: "love_scamming_blog.jpg"
 description: "Ängste, Einsamkeit und seelische Nöte werden gerade im Internet schamlos ausgenützt. Bewusst wird eine Beziehung aufgebaut die letztendlich nur dazu dient, möglichst viel Geld aus den Opfern zu erbeuten. Heiratsschwindel ganz modern"
@@ -40,17 +40,6 @@ Auf [dieser Seite](https://www.polizei-beratung.de/themen-und-tipps/betrug/scamm
 <br/>
 
 **Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
-
-* [PAPA, WO BIST DU?](https://www.ifge.at/blog/papa/)
-* [SEINEN PLATZ IN DER FAMILIE FINDEN - ÜBER DIE WIRKUNG DES FAMILIENSTELLENS](https://www.ifge.at/blog/wirkung_familienstellen/)
-* [EPIGENETIK: WIE UNSERE ZELLEN DEN SCHMERZ VERGANGENER GENERATIONEN SPEICHERN](https://www.ifge.at/blog/epigenetik/)
-* [IST TRAUMATISIERUNG DAS NEUE BURN-OUT? VOM ACHTSAMEN UMGANG MIT BEGRIFFEN](https://www.ifge.at/blog/traumatisierung-vs.-trauma/)
-* [TRAUMATA, REAKTIVIERUNG & RETRAUMATISIERUNG: EIN KOMPLEXES, VIELSCHICHTIGES THEMA](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/)s
-* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [HAPPY AGING](https://www.ifge.at/blog/happy_aging/)
-* [GHOSTING](https://www.ifge.at/blog/ghosting/)
-* [TIERE ALS WERTVOLLE BEREICHERUNG IN DER BERATUNG](https://www.ifge.at/blog/tiere_beratung/)
-* [DAMIT ES IM BETT SO RICHTIG NETT WIRD](https://www.ifge.at/blog/nett_im_bett/)
 
 
 <br/>

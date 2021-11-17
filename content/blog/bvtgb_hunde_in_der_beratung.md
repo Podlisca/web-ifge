@@ -1,7 +1,7 @@
 ---
 title: "Warum ein Therapiehund andere Aufgaben hat als ein Hund in der Therapie oder in der Beratung"
 draft: false
-tags: []
+tags: ["Tiergestützte Beratung", ]
 weight: 110
 
 img: "tiergestuetzt_2021.jpg"
