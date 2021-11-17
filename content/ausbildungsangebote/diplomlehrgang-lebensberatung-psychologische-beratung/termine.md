@@ -37,8 +37,9 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt 
 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-* 08.11.2021
+
 * 07.12.2021
+<br/>
 <br/>
 <br/>
 
