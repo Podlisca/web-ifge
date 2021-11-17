@@ -36,33 +36,34 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**12.11.2021**	von 14:00 - 20:00 Uhr   
-**17.11.2021**	von 09:00 - 15:00 Uhr   
-**24.11.2021**	von 09:00 - 15:00 Uhr   
-**01.12.2021**	von 09:00 - 15:00 Uhr   
-**15.12.2021**	von 09:00 - 15:00 Uhr   
-**17.12.2021**	von 14:00 - 20:00 Uhr   
+
+**11.12.2021**	von 10:00 - 16:00 Uhr   
 **18.12.2021**	von 10:00 - 16:00 Uhr   
-**12.01.2022**	von 09:00 - 15:00 Uhr   
 **15.01.2022**	von 10:00 - 16:00 Uhr   
-**21.01.2022**	von 14:00 - 20:00 Uhr   
 **29.01.2022**	von 10:00 - 16:00 Uhr   
 **16.02.2022**	von 09:00 - 15:00 Uhr   
 **25.02.2022**	von 14:00 - 20:00 Uhr   
+**16.03.2022**	von 09:00 - 15:00 Uhr   
+**23.03.2022**	von 09:00 - 15:00 Uhr   
 **30.03.2022**	von 09:00 - 15:00 Uhr   
+**01.04.2022**  von 14:00 - 20:00 Uhr   
 **08.04.2022**	von 14:00 - 20:00 Uhr   
+**20.04.2022**	von 09:00 - 15:00 Uhr   
 **27.04.2022**	von 09:00 - 15:00 Uhr   
+**29.04.2022**  von 14:00 - 20:00 Uhr   
 **04.05.2022**	von 09:00 - 15:00 Uhr   
-**06.05.2022**	von 14:00 - 20:00 Uhr   
+**06.05.2022**	von 14:00 - 20:00 Uhr      
+**03.06.2022**  von 14:00 - 20:00 Uhr   
 **10.06.2022**	von 14:00 - 20:00 Uhr   
 **15.06.2022**	von 09:00 - 15:00 Uhr   
+**22.06.2022**  von 09:00 - 15:00 Uhr   
 **07.09.2022**	von 09:00 - 15:00 Uhr   
 **05.10.2022**	von 09:00 - 15:00 Uhr   
+**02.11.2022**  von 09:00 - 15:00 Uhr   
 **04.11.2022**	von 14:00 - 20:00 Uhr   
 **25.11.2022**	von 14:00 - 20:00 Uhr   
 **09.12.2022**	von 14:00 - 20:00 Uhr   
 **21.12.2022**	von 09:00 - 15:00 Uhr   
-
 
 
 [Anmeldung](/anmeldung.php)
@@ -75,11 +76,11 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
 **16.12.2021**	von 14:00 - 20:00 Uhr   
-**18.01.2022**	von 14:00 - 20:00 Uhr   
 **27.01.2022**	von 14:00 - 20:00 Uhr   
-**01.02.2022**	von 14:00 - 20:00 Uhr  
 **08.03.2022**	von 14:00 - 20:00 Uhr  
+**15.03.2022**  von 14:00 - 20:00 Uhr   
 **26.04.2022**	von 14:00 - 20:00 Uhr   
+**10.05.2022**  von 14:00 - 20:00 Uhr   
 **24.05.2022**	von 14:00 - 20:00 Uhr   
 **06.09.2022**	von 14:00 - 20:00 Uhr   
 **18.10.2022**	von 14:00 - 20:00 Uhr   
@@ -95,35 +96,31 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-**Dreitagesaufstellung: 19.11. - 21.11.2021**<br/>
+**21.02.2022**  von 14:00 - 20:00 Uhr   
+**06.03.2022**  von 10:00 - 16:00 Uhr   
+**13.03.2022**  von 10:00 - 16:00 Uhr   
+
+**Dreitagesaufstellung: 25.03. - 27.03.2022**<br/>      
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
-**Dreitagesaufstellung: 25.03. - 27.03.2022**<br/>
+**Dreitagesaufstellung: 22.04. - 24.04.2022**<br/>      
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
-**Dreitagesaufstellung: 22.04. - 24.04.2022**<br/>
+**01.05.2022**  von 10:00 - 16:00 Uhr   
+**15.05.2022**  von 10:00 - 16:00 Uhr   
+**25.09.2022**	von 10:00 - 16:00 Uhr   
+**02.10.2022**	von 10:00 - 16:00 Uhr   
+
+**Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>      
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
-**25.09.2022**	von 10:00 - 16:00 Uhr
-**02.10.2022**	von 10:00 - 16:00 Uhr      
+**13.11.2022**	von 10:00 - 16:00 Uhr   
+**20.11.2022**	von 10:00 - 16:00 Uhr   
 
-**Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>
-Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr 
 
-**13.11.2022**	von 10:00 - 16:00 Uhr
-**20.11.2022**	von 10:00 - 16:00 Uhr
-**16.04.2023**	von 10:00 - 16:00 Uhr
-**07.05.2023**	von 10:00 - 16:00 Uhr
-**14.05.2023**	von 10:00 - 16:00 Uhr
-**04.06.2023**	von 10:00 - 16:00 Uhr
-**15.10.2023**	von 10:00 - 16:00 Uhr
-**09.11.2023**	von 10:00 - 16:00 Uhr
-**10.12.2023**	von 10:00 - 16:00 Uhr
-**28.01.2024**	von 10:00 - 16:00 Uhr
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% /box %}}
