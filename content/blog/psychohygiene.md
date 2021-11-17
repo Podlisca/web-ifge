@@ -1,7 +1,7 @@
 ---
 title: "Psychohygiene oder der Weg zu mehr Wohlbefinden und Gelassenheit"
 draft: false
-tags: []
+tags: ["Psychohygiene", "Gesundheit"]
 weight: 87
 img: "psychohygiene.jpg"
 og_image: "/img/psychohygiene.jpg"
@@ -52,10 +52,5 @@ http://diepsyche.de/psychohygiene-die-seelische-gesundheit-bewahren/
 
 <br/>
 
-**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
-* [SELBSTFÜRSORGE: WARUM SIE NIE WICHTIGER WAR - GERADE JETZT](https://www.ifge.at/blog/selbstfuersorge_corona/)
-* [15 TIPPS, WIE SIE DEN ADVENT UND WEIHNACHTEN TROTZ CORONA GENIESSEN](https://www.ifge.at/blog/advent_weihnachten_corona/)
-* [NEUJAHRSVORSÄTZE – ZUM SCHEITERN VERURTEILT](https://www.ifge.at/blog/neujahrsvorsaetze/)
-* [HERBST: GESUND UND ZUFRIEDEN DURCH DIE GRAUE JAHRESZEIT](https://www.ifge.at/blog/122_herbst_gesund_und_zufrieden/)
 <br/>

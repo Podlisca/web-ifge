@@ -1,7 +1,7 @@
 ---
 title: "Verlust und Trauer - Das Leben danach"
 draft: false
-tags: []
+tags: ["Trauer", "Krisensituation", "Familie"]
 weight: 82
 img: "verlust.jpg"
 og_image: "/img/verlust.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Neujahrsvorsätze – Zum Scheitern verurteilt"
 draft: false
-tags: []
+tags: ["Psychohygiene"]
 weight: 94
 img: "blog_neujahrsvorsaetze.png"
 og_image: "/img/blog_neujahrsvorsaetze.jpg"

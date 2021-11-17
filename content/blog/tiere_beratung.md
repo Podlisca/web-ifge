@@ -1,7 +1,7 @@
 ---
 title: "Tiere als wertvolle Bereicherung in der Beratung"
 draft: false
-tags: []
+tags: ["Tiergestützte Beratung"]
 weight: 88
 img: "beratung_tiere_noe.jpg"
 og_image: "/img/beratung_tiere_noe.jpg"

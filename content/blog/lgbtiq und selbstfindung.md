@@ -1,7 +1,7 @@
 ---
 title: "LGBTIQ* und Selbstfindung: Viel geschafft, vieles noch zu tun"
 draft: false
-tags: []
+tags: ["LGBTIQ", "Familie", "Partnerschaft"]
 weight: 116
 
 img: "lgbtiq.jpg"

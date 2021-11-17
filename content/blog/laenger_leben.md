@@ -1,7 +1,7 @@
 ---
 title: "Länger leben - aber bitte glücklich!"
 draft: false
-tags: ["Langes", "Leben", "glücklich", "Lebenserwartung"]
+tags: ["Alter", "Gesundheit", "Psychohygiene"]
 weight: 72
 img: "leben.jpg"
 og_image: "/img/leben.jpg"

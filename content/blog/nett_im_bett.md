@@ -1,7 +1,7 @@
 ---
 title: "Damit es im Bett so richtig nett wird"
 draft: false
-tags: []
+tags: ["Sexualität", "Partnerschaft"]
 weight: 86
 img: "bett.jpg"
 og_image: "/img/bett.jpg"

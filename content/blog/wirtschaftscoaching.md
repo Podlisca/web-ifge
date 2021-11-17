@@ -1,7 +1,7 @@
 ---
 title: "Eins plus eins ist mehr als zwei: Warum ich Wirtschafts-Coaching im Team besonders schätze"
 draft: false
-tags: []
+tags: ["Arbeitswelt", "Selbstständigkeit"]
 weight: 109
 
 img: "fcbp_ifge.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Happy Aging"
 draft: false
-tags: []
+tags: ["Alter", "Familie", "Sexualität", "Partnerschaft"]
 weight: 90
 img: "happy_aging.jpg"
 og_image: "/img/happy_aging.jpg"

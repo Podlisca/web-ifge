@@ -1,7 +1,7 @@
 ---
 title: "Das Leben ist zum Lernen da!"
 draft: true
-tags: ["Bildung", "Alter", "Pädagogik", ]
+tags: ["Bildung", "Alter", "Pädagogik"]
 weight: 125
 
 img: "blog_lernen.jpg"

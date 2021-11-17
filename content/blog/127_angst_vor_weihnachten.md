@@ -1,7 +1,7 @@
 ---
 title: "Angst vor Weihnachten?"
 draft: true
-tags: ["Weihnachten", "Angst", "Religion", "Stress", "Familie"]
+tags: ["Weihnachten", "Angst", "Religion", "Stress", "Familie", "Selbstfürsorge"]
 weight: 127
 
 img: "blog_angst_weihnachten.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Papa, wo bist du?"
 draft: false
-tags: []
+tags: ["Familie", "Pädagogik"]
 weight: 80
 img: "papa.jpg"
 og_image: "/img/papa.jpg"

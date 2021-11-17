@@ -1,7 +1,7 @@
 ---
 title: "Kinderlose Frauen"
 draft: false
-tags: []
+tags: ["Familie", "Sexualität"]
 weight: 92
 img: "blog_kinderlos.jpg"
 og_image: "/img/blog_kinderlos.jpg"

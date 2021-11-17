@@ -1,7 +1,7 @@
 ---
 title: "Digitaler Angriff auf die Psyche: Diese Gefahren lauern im Internet"
 draft: false
-tags: ["Digitalisierung","Partnerschaft", "Angst", "Trauma", "Sexualität", "Familienaufstellung"]
+tags: ["Digitalisierung","Partnerschaft", "Angst", "Trauma", "Sexualität", "Aufstellungsarbeit"]
 weight: 103
 img: "love_scamming_blog.jpg"
 description: "Ängste, Einsamkeit und seelische Nöte werden gerade im Internet schamlos ausgenützt. Bewusst wird eine Beziehung aufgebaut die letztendlich nur dazu dient, möglichst viel Geld aus den Opfern zu erbeuten. Heiratsschwindel ganz modern"

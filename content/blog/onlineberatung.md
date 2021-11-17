@@ -1,7 +1,7 @@
 ---
 title: "Psychologische Beratung online? Jein! Das sind die 10 Vor- und Nachteile "
 draft: false
-tags: ["Onlineberatung", "Vorteile der Onlineberatung", "Nachteile der Onlineberatung"]
+tags: ["Online", "Digitalisierung"]
 weight: 102
 img: "onlineberatung.jpg"
 og_image: "/img/onlineberatung.jpg"

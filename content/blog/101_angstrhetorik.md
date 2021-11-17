@@ -1,7 +1,7 @@
 ---
 title: "Die Spuren der Angstrhetorik "
 draft: false
-tags: ["Angst", "Corona", "Angst", "Krisen"]
+tags: ["Angst", "Corona", "Angst", "Krisensituation"]
 weight: 101
 img: "blog_angst_covid.jpg"
 og_image: "/img/blog_angst_covid.jpg"

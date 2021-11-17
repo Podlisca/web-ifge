@@ -1,7 +1,7 @@
 ---
 title: "Das ICH im WIR – Warum wir uns in einer Partnerschaft hin- und nie aufgeben sollten"
 draft: false
-tags: ["Partnerschaft", "Familie", "Corona"]
+tags: ["Partnerschaft", "Familie", "Krisensituationen"]
 weight: 118
 
 img: "blog_wir_im_ppar.jpg"

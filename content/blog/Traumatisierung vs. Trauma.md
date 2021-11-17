@@ -1,7 +1,7 @@
 ---
 title: "Ist Traumatisierung das neue Burn-out? Vom achtsamen Umgang mit Begriffen"
 draft: false
-tags: []
+tags: ["Trauma", "Krisensituation"]
 weight: 106
 img: "traumatisierung_trauma.jpg"
 og_image: "/img/traumatisierung_trauma.jpg"

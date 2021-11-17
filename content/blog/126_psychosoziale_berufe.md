@@ -1,7 +1,7 @@
 ---
 title: "Der Mensch im Mittelpunkt: Psychosoziale Ausbildungen und Berufe."
 draft: true
-tags: ["Ausbildung", "Psychologie", "Digitalisierung", "Bildung", "Sozialberuf"]
+tags: ["Digitalisierung", "Bildung", "Sozialberuf"]
 weight: 126
 
 img: "blog_psychosoziale_berufe.jpg"

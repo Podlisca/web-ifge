@@ -1,7 +1,7 @@
 ---
 title: "Lernen am IFGE: „Mehr Praxis geht nicht“"
 draft: false
-tags: ["IFGE Qualität", "Lernen", "Erwachsenenbildung", "Weiterbildung", "Digitalisierung", "berufsbegleitendes Lernen", "psychologische Beratung", "Ausbildung"]
+tags: ["Bildung", "Digitalisierung", "Online"]
 weight: 104
 img: "system_zettel_bgld.jpg"
 description: "Mit der eigens fürs IFGE entwickelte Software, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick."

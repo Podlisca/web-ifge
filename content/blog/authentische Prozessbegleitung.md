@@ -1,7 +1,7 @@
 ---
 title: "Warum „Freestyle“ nichts mit authentischer Prozessbegleitung zu tun hat"
 draft: false
-tags: ["Sozialberuf", "Familienaufstellung", "Selbstständigkeit", "Bildung"]
+tags: ["Sozialberuf", "Aufstellungsarbeit", "Selbstständigkeit", "Bildung"]
 weight: 113
 
 img: "authentische prozessbegleitung.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Gelebte Gewalt: Taten - Täter - Prävention"
 draft: false
-tags: []
+tags: ["Krisensituation", "Trauma"]
 weight: 79
 img: "taeter.jpg"
 og_image: "/img/taeter.jpg"

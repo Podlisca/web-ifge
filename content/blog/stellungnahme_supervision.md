@@ -1,7 +1,7 @@
 ---
 title: "Stellungnahme – 5 Antworten zum Konflikt zwischen ÖVS und WKO"
 draft: false
-tags: []
+tags: ["Supervision"]
 weight: 96
 img: "blog_stellung.jpg"
 og_image: "/img/blog_stellung.jpg"

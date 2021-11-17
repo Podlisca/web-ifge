@@ -1,7 +1,7 @@
 ---
 title: "Psychologische Beratung: Was genau ist denn das?"
 draft: false
-tags: ["Lehrer", "Grenze"]
+tags: ["Bildung", "Psychohygiene"]
 weight: 99
 img: "silvia_wien1.jpg"
 og_image: "/img/silvia_wien1.jpg"

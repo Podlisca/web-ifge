@@ -1,7 +1,7 @@
 ---
 title: "Zeit der Masken – Warum wir uns nicht nur im Fasching maskieren"
 draft: false
-tags: []
+tags: ["Psychohygiene"]
 weight: 95
 img: "blog_fasching.jpg"
 og_image: "/img/blog_fasching.jpg"

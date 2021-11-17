@@ -1,7 +1,7 @@
 ---
 title: "Lehrer*innen an ihren Grenzen: Corona und die Folgen für Kinder"
 draft: false
-tags: ["Corona", "Psychohygiene", "Burn-Out", "Familie"]
+tags: ["Corona", "Psychohygiene", "Burn-Out", "Familie", "Stress"]
 weight: 100
 img: "blog_corona.jpg"
 og_image: "/img/blog_corona.jpg"

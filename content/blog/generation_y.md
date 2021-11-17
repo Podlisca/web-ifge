@@ -1,7 +1,7 @@
 ---
 title: "Generation Y - überfordert oder überfordernd?"
 draft: false
-tags: ["Familie", "Psychogyhiene"]
+tags: ["Familie", "Psychohygiene", "Pädagogik"]
 weight: 75
 img: "generationy.jpg"
 og_image: "/img/generationy.jpg"

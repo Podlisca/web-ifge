@@ -1,7 +1,7 @@
 ---
 title: "Boreout - krank vor Langeweile"
 draft: false
-tags: []
+tags: ["Arbeitswelt", "Psychohygiene",]
 weight: 79
 img: "boreout.jpg"
 og_image: "/img/boreout.jpg"

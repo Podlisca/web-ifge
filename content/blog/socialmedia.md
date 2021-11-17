@@ -1,7 +1,7 @@
 ---
 title: "Sicherer Umgang im Internet und in Social Media"
 draft: false
-tags: []
+tags: ["Digitalisierung", "Online"]
 weight: 78
 img: "socialmedia.jpg"
 og_image: "/img/socialmedia.jpg"

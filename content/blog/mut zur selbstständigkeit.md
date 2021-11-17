@@ -1,7 +1,7 @@
 ---
 title: "Raus aus der Schablone: Mut zu beruflicher Selbstverwirklichung"
 draft: false
-tags: []
+tags: ["Selbstständigkeit"]
 weight: 117
 
 img: "traumjob.jpg"

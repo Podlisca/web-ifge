@@ -1,7 +1,7 @@
 ---
 title: "Selbstfürsorge: Warum sie nie wichtiger war - gerade JETZT"
 draft: false
-tags: []
+tags: ["Psychohygiene", "Corona", "Krisensituation"]
 weight: 108
 img: "selbstfuersorge.jpg"
 og_image: "/img/selbstfuersorge.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Traumata, Reaktivierung & Retraumatisierung: Ein komplexes, vielschichtiges Thema. "
 draft: false
-tags: []
+tags: ["Trauma", "Krisensituation", "Psychohygiene"]
 weight: 119
 img: "trauma.jpg"
 og_image: "/img/trauma.jpg"

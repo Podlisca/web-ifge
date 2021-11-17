@@ -1,7 +1,7 @@
 ---
 title: "Du bist ja nicht normal."
 draft: false
-tags: []
+tags: ["Krisensituation", "Arbeitswelt", "Familie"]
 weight: 81
 img: "normal.jpg"
 og_image: "/img/normal.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Von Konflikten zu Chancen"
 draft: false
-tags: []
+tags: ["Konflikt", "Arbeitswelt"]
 weight: 83
 img: "beratung_angehoerige_noe.jpg"
 og_image: "/img/beratung_angehoerige_noe.jpg"

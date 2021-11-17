@@ -1,7 +1,7 @@
 ---
 title: "Klangschalen bieten mehr als nur Wellness – wenn man weiß, wie!"
 draft: false
-tags: []
+tags: ["Gesundheit", "Psychohygiene", "Bildung"]
 weight: 111
 
 img: "klangschale_st.pölten.jpg"

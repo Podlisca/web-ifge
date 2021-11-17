@@ -1,7 +1,7 @@
 ---
 title: "Der Traum von der eigenen Praxis – vom Sinn und Unsinn der Selbstständigkeit "
 draft: false
-tags: []
+tags: ["Selbstständigkeit", "Angst"]
 weight: 115
 
 img: "raum_noe6.jpg"

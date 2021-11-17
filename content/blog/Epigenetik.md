@@ -1,7 +1,7 @@
 ---
 title: "Epigenetik: Wie unsere Zellen den Schmerz vergangener Generationen speichern"
 draft: false
-tags: ["Epigenetik", "Familienaufstellung", "Bildung"]
+tags: ["Epigenetik", "Aufstellungsarbeit", "Bildung"]
 weight: 107
 img: "epigenetik.jpg"
 og_image: "/img/epigenetik.jpg"
