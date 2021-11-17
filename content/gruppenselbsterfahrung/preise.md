@@ -25,7 +25,7 @@ weight: 7
 
 Einzelstunde (50 min)
 
-Preis: € 98,-
+Preis: € 105,-
 
 Paarberatung (1,5 Stunden)
 
@@ -49,7 +49,7 @@ gesamt für alle Termine: € 440,-
 
 Einzelsupervision
 
-Preis: € 105,-
+Preis: € 120,-
 
 Supervisions – Jahresgruppe (4h)    
 
