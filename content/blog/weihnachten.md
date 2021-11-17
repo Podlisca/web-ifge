@@ -1,7 +1,7 @@
 ---
 title: "Macht uns Weihnachten krank?"
 draft: false
-tags: ["Weihnachten", "Religion", "Gesundheit"]
+tags: ["Weihnachten", "Religion", "Gesundheit", "Psychohygiene"]
 weight: 93
 img: "blog_weihnachten.jpg"
 og_image: "/img/blog_weihnachten.jpg"

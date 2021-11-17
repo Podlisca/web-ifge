@@ -1,7 +1,7 @@
 ---
 title: "Was du nicht willst, das man dir tut..."
 draft: false
-tags: ["Arbeitswelt", "Konflikte"]
+tags: ["Arbeitswelt", "Konflikt"]
 weight: 79
 img: "handschlag.jpg"
 og_image: "/img/handschlag.jpg"

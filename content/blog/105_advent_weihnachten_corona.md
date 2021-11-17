@@ -1,7 +1,7 @@
 ---
 title: "15 Tipps, wie Sie den Advent und Weihnachten trotz Corona genießen"
 draft: false
-tags: ["Weihnachten", "Corona", "Selbstfürsorge"]
+tags: ["Weihnachten", "Corona", "Psychohygiene", "Gesundheit"]
 weight: 105
 img: "advent.jpg"
 og_image: "/img/advent.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Herbst: Gesund und zufrieden durch die „graue“ Jahreszeit."
 draft: false
-tags: ["Gesundheit", "Selbstfürsorge"]
+tags: ["Gesundheit", "Psychohygiene"]
 weight: 122
 
 img: "blog_herbst.jpg"
