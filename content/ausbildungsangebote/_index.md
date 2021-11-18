@@ -90,10 +90,10 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 #### Tiergestützte Ausbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/bv_wirkung.jpg" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
 {{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" color="light-red" >}} 
-{{< kurs titel="Erste Hilfe für Hunde" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/erste_hilfe_hunde.jpg" >}}
-{{< kurs titel="Erste Hilfe für Katzen" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/kursuebersicht_eh_katzen.jpg" color="light-red" >}}
+{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
 
