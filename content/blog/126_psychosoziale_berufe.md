@@ -1,6 +1,6 @@
 ---
 title: "Der Mensch im Mittelpunkt: Psychosoziale Ausbildungen und Berufe."
-draft: true
+draft: false
 tags: ["Digitalisierung", "Bildung", "Sozialberuf"]
 weight: 126
 
