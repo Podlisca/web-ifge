@@ -38,7 +38,7 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 07.12.2021
+* 07.12.2021 **- online**
 <br/>
 <br/>
 <br/>
@@ -55,7 +55,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-* 06.12.2021
+* 06.12.2021 **- online**
 * 17.01.2022
 <br/>
 <br/>
