@@ -29,7 +29,9 @@ weight: 3
 
 **Für alle Informationsveranstaltungen gilt die 2,5-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
-Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt werden. Wir hoffen natürlich, dass dies nicht notwendig wird. Sollte es zu einer Umstellung kommen, werden Sie selbstverständlich rechtzeitig darüber informiert. 
+Je nach Covid Situation kann es sein, dass die Infoabende auf **ONLINE** umgestellt werden. Wir hoffen natürlich, dass dies nicht notwendig wird. Sollte es zu einer Umstellung kommen, werden Sie selbstverständlich rechtzeitig darüber informiert. 
+
+***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer\*innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
 
 {{% box top-align=1 %}}
 {{% small %}}
@@ -38,7 +40,7 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf ONLINE umgestellt 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 07.12.2021 **- online**
+* 07.12.2021 - ***Online**
 <br/>
 <br/>
 <br/>
@@ -55,7 +57,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-* 06.12.2021 **- online**
+* 06.12.2021 - ***Online**
 * 17.01.2022
 <br/>
 <br/>
@@ -72,7 +74,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-* 26.11.2021 **- online**
+* 26.11.2021 - ***Online**
 <br/>
 <br/>
 <br/>
@@ -89,7 +91,10 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 **Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
 
-*Die Onlineveranstaltung wird über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. 
+
+Ich freue mich, Sie am IFGE oder in unserem digitalen Ausbildungsraum kennenzulernen! 
+
+{{< silvia >}}
 
 
 {{< line icon="icon/termin_kursplan.png" >}}
