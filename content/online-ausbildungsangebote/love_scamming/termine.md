@@ -39,6 +39,16 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 
 **Modul 1: 11.12.2021** <br/>
 
+#### Start: 19. November 2022 
+
+Die Ausbildung umfasst 6 Ausbildungststunden.<br/>
+
+Seminarzeit 10:00 bis 16:00 Uhr.<br/>
+
+Die Veranstaltung wird über Webex Meeting abgehalten.
+
+**Modul 1: 19.11.2022** <br/>
+
 [Anmeldung](/anmeldung.php)
 
 {{% /small  %}}

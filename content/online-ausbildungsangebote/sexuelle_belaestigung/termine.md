@@ -32,18 +32,18 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: 04. Juli 2020
+#### Start: 12. November 2022
 
 Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
 
-Immer von 09:00 bis 18:00 Uhr. (Mittagspause von 13:00 bis 14:00 Uhr)<br/>
+Immer von 10:00 bis 17:00 Uhr.<br/>
 
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1: 04.07.2020** <br/>
-**Modul 2: 05.07.2020** <br/>
-**Modul 3: 18.07.2020** <br/>
-**Modul 4: 19.07.2020** <br/>
+**Modul 1: 12.11.2022** <br/>
+**Modul 2: 13.11.2022** <br/>
+**Modul 3: 19.11.2022** <br/>
+**Modul 4: 20.11.2022** <br/>
 
 [Anmeldung](/anmeldung.php)
 

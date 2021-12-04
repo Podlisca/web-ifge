@@ -29,15 +29,15 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: Termine in Planung
+#### Start: 08.10.2022
 
 Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1:** 01.10.2021 <br/>
-**Modul 2:** 15.10.2021 <br/>
-**Modul 3:** 29.10.2021<br/>
-**Modul 4:** 26.11.2021<br/>
+**Modul 1:** 08.10.2022 <br/>
+**Modul 2:** 09.10.2022 <br/>
+**Modul 3:** 05.11.2022<br/>
+**Modul 4:** 06.11.2022<br/>
 
 jeweils von 09:00 bis 18:00 Uhr.
 

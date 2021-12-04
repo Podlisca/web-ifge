@@ -50,13 +50,13 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-#### Start: 30. Oktober 2021
+#### Start: 04. Juni 2022
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 17:00 Uhr<br/>
 
-**Modul 1:** 30.10. und 31.10.2021<br/>
-**Modul 2:** 11.12. und 12.12.2021<br/>
+**Modul 1:** 04.06. und 05.06.2022<br/>
+**Modul 2:** 25.06. und 26.06.2022<br/>
 
 
 [Anmeldung](/anmeldung.php)

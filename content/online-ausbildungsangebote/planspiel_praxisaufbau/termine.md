@@ -49,16 +49,13 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
 
-Montag oder Mittwoch von 16:00 - 20:00 Uhr
+Samstag und Sontag von 10:00 - 17:00 Uhr 
 Die Veranstaltung wird über Webex Meeting abgehalten.
 
-**Modul 1: Montag 21.09.2020** <br/>
-**Modul 2: Mittwoch 30.09.2020** <br/>
-**Modul 3: Montag 05.10.2020** <br/>
-**Modul 4: Montag 19.10.2020** <br/>
-**Modul 5: Mittwoch 28.10.2020** <br/>
-**Modul 6: Montag 02.11.2020** <br/>
-**Modul 7: Montag 09.11.2020** <br/>
+**Modul 1: 10.09.2022** <br/>
+**Modul 2: 11.09.2022** <br/>
+**Modul 3: 24.09.2022** <br/>
+**Modul 4: 25.09.2022** <br/>
 
 [Anmeldung](/anmeldung.php)
 
