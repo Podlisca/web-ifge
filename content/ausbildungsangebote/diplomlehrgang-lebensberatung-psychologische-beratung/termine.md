@@ -40,16 +40,10 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf **ONLINE** umgeste
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-<<<<<<< Updated upstream
-* 07.12.2021 - ***Online**
-<br/>
-<br/>
-=======
 * 07.12.2021 - **online**
 * 24.01.2022
 * 27.04.2022
 * 02.06.2022
->>>>>>> Stashed changes
 <br/>
 
 von 18:30 bis ca. 20:00 Uhr
@@ -64,11 +58,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-<<<<<<< Updated upstream
-* 06.12.2021 - ***Online**
-=======
 * 06.12.2021 - **online**
->>>>>>> Stashed changes
 * 17.01.2022
 <br/>
 <br/>
@@ -86,14 +76,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-<<<<<<< Updated upstream
-* 26.11.2021 - ***Online**
-<br/>
-=======
 * 30.03.2022
 * 05.05.2022
 * 07.06.2022
->>>>>>> Stashed changes
 <br/>
 <br/>
 
