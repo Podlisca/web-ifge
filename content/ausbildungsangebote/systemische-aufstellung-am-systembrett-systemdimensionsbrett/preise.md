@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-# Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
+# Fortbildungslehrgang: Systemische Aufstellung am Systembrett
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

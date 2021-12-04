@@ -9,7 +9,7 @@ weight: 3
 ---
 
 
-# Fortbildungslehrgang: Systemische Aufstellung am Systembrett & SystemDimensionsBrett®
+# Fortbildungslehrgang: Systemische Aufstellung am Systembrett
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

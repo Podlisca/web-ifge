@@ -20,7 +20,7 @@ og_image: "/img/brett_2.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETt“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
+{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
 
 
 
