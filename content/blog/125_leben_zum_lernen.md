@@ -1,6 +1,6 @@
 ---
 title: "Das Leben ist zum Lernen da!"
-draft: true
+draft: false
 tags: ["Bildung", "Alter", "Pädagogik"]
 weight: 125
 
