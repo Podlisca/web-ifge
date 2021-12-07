@@ -63,6 +63,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 <br/>
 <br/>
 <br/>
+<br/>
 von 18:30 bis ca. 20:00 Uhr
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
