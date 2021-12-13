@@ -29,16 +29,6 @@ weight: 3
 {{% small  %}}
 ## Nächste Kurse & Lehrpläne 
 
-#### Start: 11. Dezember 2021 
-
-Die Ausbildung umfasst 6 Ausbildungststunden.<br/>
-
-Seminarzeit 14:00 bis 20:00 Uhr.<br/>
-
-Die Veranstaltung wird über Webex Meeting abgehalten.
-
-**Modul 1: 11.12.2021** <br/>
-
 #### Start: 19. November 2022 
 
 Die Ausbildung umfasst 6 Ausbildungststunden.<br/>

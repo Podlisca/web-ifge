@@ -67,10 +67,10 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 #### Wien - Gruppe 1 
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 05.01.2022
+#### Start: 05.01.2022 
 Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2022:** 
+**Termine 2022: - 1 freier Platz** 
 
 {{< center >}}
 05.01.2022<br/>
@@ -97,7 +97,7 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 #### Start: 19.01.2022
 Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2022:**
+**Termine 2022: ausgebucht**
 
 {{< center >}}
 19.01.2022<br/>
@@ -124,7 +124,7 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Start: 12.01.2022
 Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2022:**
+**Termine 2022: 3 freie Plätze**
 
 {{< center >}}
 12.01.2022<br/>
@@ -151,7 +151,7 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Start: 26.01.2022
 Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2022:**
+**Termine 2022: ausgebucht**
 
 {{< center >}}
 26.01.2022<br/>
