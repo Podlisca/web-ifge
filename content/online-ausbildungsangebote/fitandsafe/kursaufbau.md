@@ -44,7 +44,7 @@ Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*in
 
 ## Leitung
 
-* 
+* [Susanna Kundics](/about/referenten-lsb/#susanna-kundics) 
 
 
 
