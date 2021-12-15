@@ -103,6 +103,7 @@ Durch die bewusste Gesprächsführung werden belastenden Situationen aufgearbeit
 
 {{< image src="/img/silvia_noe_blaue_bank.jpg" float="right" title="Bildbeschreibung" >}} 
 
+
 Durch meine umfassenden Ausbildungen in der Energetik sowie in der [klassischen Lebensberatung](https://ifge.at/psychologische-beratung/einzelberatung/) sowie zahlreiche vertiefende Ausbildungen, ist es mir möglich, ganz individuell auf jede Klient*in einzugehen. Sowohl als Seminarleiterin als auch als psychologische Beraterin und [Supervisorin](https://ifge.at/supervision/philosophie/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden. Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Die Lösungen, welche gefunden/erfunden werden, zeichnen sich durch Klarheit, Einfachheit und Leichtigkeit aus und lassen sich mit Freude in Ihren Alltag integrieren.
 
 **Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!**
