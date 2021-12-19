@@ -53,7 +53,8 @@ Leitung: <br/>
 {{< image src="/img/ifge_pinkafeld.jpg">}}
 
 **in Planung**<br/>
-<br/> 
+<br/>
+ 
 Leitung: <br/>
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
@@ -63,6 +64,8 @@ Leitung: <br/>
 {{< image src="/img/onlineunterricht.jpg">}}
 
 **19.01.2022**<br/>
+von 10:00 bis 14:00 Uhr
+<br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 [Anmeldung](/anmeldung.php)
