@@ -86,10 +86,10 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr
 
-**01.05.2022**  von 10:00 - 16:00 Uhr
-**15.05.2022**  von 10:00 - 16:00 Uhr
-**25.09.2022**	von 10:00 - 16:00 Uhr
-**02.10.2022**	von 10:00 - 16:00 Uhr   
+**01.05.2022** von 10:00 - 16:00 Uhr
+**15.05.2022** von 10:00 - 16:00 Uhr
+**25.09.2022** von 10:00 - 16:00 Uhr
+**02.10.2022** von 10:00 - 16:00 Uhr   
 
 
 **Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>
