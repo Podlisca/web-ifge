@@ -53,16 +53,19 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 ## Unsere Ausbildungen im Überblick
 
+**Für alle Informationsveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+***
 #### WKO Zertifizierte Lehrgänge
-
+***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
 {{< kurs titel="LSB Upgrade: Supervision" link="/ausbildungsangebote/lsb-upgrade-supervisionslehrgang" image="/img/kraftfeld.jpg"  >}}
 {{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
+***
 #### Aus- und Weiterbildungen
-
+***
 {{% kursbox %}}
 {{< kurs titel="Sexual- & Traumaberatung" link="/ausbildungsangebote/sexualberatung-traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett" image="/img/kursuebersicht_systembrett.jpg">}}
@@ -73,8 +76,9 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 {{% /kursbox %}}
 
+***
 #### Online Ausbildungen & Trainings
-
+***
 {{% kursbox %}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" color="light-red" >}}
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" >}}
@@ -87,8 +91,9 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 {{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
+***
 #### Tiergestützte Ausbildungen
-
+***
 {{% kursbox %}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
 {{< kurs titel="Tiergestützte psychologische Beratung" link="/ausbildungsangebote/tiergestützte-psychologische-beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" color="light-red" >}} 

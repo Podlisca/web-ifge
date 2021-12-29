@@ -26,7 +26,7 @@ weight: 3
 {{< line icon="icon/termine.png" >}}
 
 # Termine
-**Für alle Präsenzveranstaltungen gilt die 2,5 G Regel (Geimpft, Genesen, PCR Test).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 
 {{< line icon="icon/info_tuerkis.png" >}}

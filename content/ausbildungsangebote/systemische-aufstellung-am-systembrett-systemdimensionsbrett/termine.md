@@ -35,7 +35,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{< line icon="icon/termin_kursplan.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 {{% box top-align=1 %}}
 {{% small  %}}

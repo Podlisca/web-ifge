@@ -25,7 +25,7 @@ weight: 3
 
 {{< line icon="icon/termine.png" >}}
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltungen gilt die 3-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Präsenzveranstaltungen gilt die  2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
 {{% box top-align=1 %}}
 {{% small  %}}
