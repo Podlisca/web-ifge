@@ -39,7 +39,7 @@ Sofern im Einzelfall nichts anderes zwischen der Silvia Podlisca und dem Kliente
 4 Honorar, Rechtliches und AGB
 
 Für ihre Leistungen wird die Silvia Podlisca ein sofort fälliges Honorar von EUR 98,- für Einzelberatungen / Paarberatungen EUR 185,-. (inklusive USt) pro angefangener Beratung-Einheit verrechnen. Dies gilt auch für Beratung via E-Mail, Skype oder Telefon. Eine Beratungs-Einheit beträgt 50 / 90 Minuten. Sollte das Beratungs-Ziel [für diese Einheit] vor Ablauf einer Beratungs-Einheit erreicht werden, wird die Einheit dennoch voll verrechnet. Die Zeit für die Vor- und Nachbereitung der Beratungs-Einheit ist im Honorar für diese Beratungs-Einheit enthalten.
-Einzelstunden werden am Ende der Stunde in bar per Bankomat oder Kreditkarte bezahlt. Bei Onlineangebote sind diese im Vorhinein zu überweisen.
+Das Honorar ist vorab zu überweisen.
 
 Einzelstunden müssen mind. 48 Stunden vorher telefonisch, per E-Mail, WhatsApp oder SMS abgesagt werden. Anderenfalls werden diese voll verrechnet.
 
@@ -68,7 +68,7 @@ Durch Anmeldung, Beauftragung bzw. Terminvereinbarung stimmen Sie der Zahlungsve
 
 Durch Anfragen, Anmeldung, Beauftragung bzw. Terminvereinbarung stimmen Sie zu, dass Rechnungen sowie Zahlungsbestätigungen per Mail verschickt werden können
 
-Sofern nicht Überweisung vereinbart wird, sind Honorare grundsätzlich sofort und ohne Abzug bar, per Bankomat oder Kreditkarte nach jeder Beratung-Einheit zu begleichen.
+Das Honorar ist vorab zu überweisen.
 
 Bezahlt der der Klient/die Klientin trotz Fälligkeit nicht, so ist die Silvia Podlisca ab dem auf die Fälligkeit folgenden Tag berechtigt, Verzugszinsen von 6 Prozent pro Jahr einzufordern. Darüber hinaus kann die Silvia Podlisca auch den Ersatz anderer, vom Klienten/der Klientin verschuldeter Schäden geltend machen, beispielsweise die notwendigen Kosten außergerichtlicher Betreibungs- oder Einbringungsmaßnahmen. Insbesondere wird Silvia Podlisca dem Klienten/der Klientin für jede schriftliche Mahnung einen Betrag von EUR 5,00 in Rechnung stellen.
 

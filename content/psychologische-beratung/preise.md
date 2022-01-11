@@ -66,7 +66,7 @@ Preis: € 160,- pro Abend
 
 Bei Kauf eines 10er Blocks ist die 11. Stunde kostenlos. Die Stunden/Einheiten werden am Ende der Stunde bezahlt.
 
-Zahlungsmöglichkeiten: Bar, Bankomat- oder Kreditkarte
+Zahlungsmöglichkeiten: Vorabüberseisung
 
 Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis, dass Stunden, die nicht mind. 48 Stunden vorher telefonisch abgesagt werden, voll verrechnet werden.
 
