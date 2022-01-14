@@ -50,8 +50,8 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 #### Start: 16. Jänner 2022
 
-immer sonntags von 09:00 bis 18:00 Uhr
-Prüfungstag von 09:00 bis 16:00 Uhr
+**Seminarzeiten:** 
+immer sonntags von 09:00 bis 18:00 Uhr. Prüfungstag von 09:00 bis 16:00 Uhr
 
 * 16.01.2022<br/>
 * 27.02.2022<br/>
@@ -78,7 +78,25 @@ Prüfungstag von 09:00 bis 16:00 Uhr
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
-#### Termine folgen
+#### Start: 09. Juli 2022
+
+**Seminarzeiten:** 
+jeweils von 09:00 bis 18:00 Uhr. Prüfungstag von 09:00 bis 16:00 Uhr
+
+* 09.07.2022<br/>
+* 10.07.2022<br/>
+* 23.07.2022<br/>
+* 24.07.2022<br/>
+* 06.07.2022<br/>
+* 07.08.2022<br/>
+* 20.08.2022<br/>
+* 21.08.2022<br/>
+* 03.09.2022<br/>
+* 17.09.2022<br/>
+* 01.10.2022<br/>
+* 15.10.2022<br/>
+
+**Prüfung: 29.10.2022**<br/>
 
 {{% /small  %}}
 {{% small  %}}
