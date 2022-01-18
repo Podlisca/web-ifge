@@ -39,15 +39,15 @@ weight: 3
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-#### Start: 13. Mai 2022
+#### Start: 09. September 2022
 
-Wochenende: 13.05. bis 15.05.2022<br/>
+Wochenende: 09.09. bis 11.09.2022<br/>
 
 **Freitag** von 14:00 bis 20:00 Uhr<br/>
 **Samstag** von 09:00 bis 18:00 Uhr<br/>
 **Sonntag** von 09:00 bis 17:00 Uhr<br/>
 
-
+Wochenende: 13.05. bis 15.05.2022<br/>
 
 
 
