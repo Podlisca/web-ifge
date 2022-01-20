@@ -1,7 +1,8 @@
 ﻿---
-title: "IFGE BLOG"
+title: "BLOG"
 menu: main
 draft: false
-weight: 9
+weight: 10
 description: "Spannende Themen Rund um psychologische Prozesse."
+
 ---

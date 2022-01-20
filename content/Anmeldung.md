@@ -2,7 +2,7 @@
 title: "Anmeldung"
 menu: "main"
 draft: false
-weight: 7
+weight: 12
 url: "/anmeldung.php"
 description: "Hier können Sie sich für die gewünschte Veranstaltung anmelden!"
 aliases:

@@ -30,31 +30,43 @@ og_image = "/img/startseite_handy.jpg"
         weight = 1
 
     [[menu.main]]
-        name = "Ausbildungen"
+        name = "Dipl. Ausbildungen"
         identifier = "ausb"
         url = "#"       
         weight = 2
 
     [[menu.main]]
+        name = "Upgrades"
+        identifier = "upgrade"
+        url = "#"       
+        weight = 3
+
+    [[menu.main]]
+        name = "Fortbildungen"
+        identifier = "fortb"
+        url = "#"       
+        weight = 4
+
+    [[menu.main]]
         name = "Online-Ausbildungen"
         identifier = "online"
         url = "#"
-        weight = 3
+        weight = 5
     
     [[menu.main]]
         name = "Supervision"
         identifier = "supervision"
         url = "#"
-        weight = 4
+        weight = 6
     
     [[menu.main]]
         name = "Gruppenselbsterfahrung"
         identifier = "gruppenselbsterfahrung"
         url = "#"
-        weight = 5
+        weight = 7
 
     [[menu.main]]
         name = "Psychologische Beratung"
         identifier = "psychologischeberatung"
         url = "#"
-        weight = 6
+        weight = 8
