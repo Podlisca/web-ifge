@@ -2,7 +2,7 @@
 title: "Kursziele"
 menu: 
     main:
-        parent: upgrade_systembrett
+        parent: fortb_systembrett
         identifier: fortb_systembrett_ziele
 draft: false
 weight: 1

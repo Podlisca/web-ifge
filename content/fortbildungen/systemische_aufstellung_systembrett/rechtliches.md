@@ -2,7 +2,7 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: upgrade_systembrett
+        parent: fortb_systembrett
         identifier: fortb_systembrett_rechtliches
 draft: false
 weight: 4
