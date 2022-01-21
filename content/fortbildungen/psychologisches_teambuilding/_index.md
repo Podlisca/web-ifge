@@ -10,7 +10,7 @@ description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r 
 og_title: "Ausbildung: psychologisches Teambuilding am IFGE Burgenland"
 og_image: "/img/ausbildung_teambuilding.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/ausbildung-psychologisches-teambuilding/"
 rich_kurs: true
 rich_faq:
     -   frage: "Was lernt man in der Ausbildung psychologisches Teambuilding am IFGE?"

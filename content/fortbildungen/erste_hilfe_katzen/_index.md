@@ -5,8 +5,6 @@ menu:
         parent: fortb
         identifier: katzen
 draft: true
-aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
 weight: 13
 ---
 

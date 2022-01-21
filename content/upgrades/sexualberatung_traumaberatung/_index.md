@@ -11,6 +11,7 @@ og_title: "Ausbildung: Sexualberatung / Paarberatung"
 og_image: "/img/silvia_rot.jpg"
 aliases:
     - "/ausbildungsangebote/sexualberatung-paarberatung/"
+    - "/ausbildungsangebote/sexualberatung-traumaberatung/"
 ---
 
 # Ausbildung: Sexualberatung / Traumaberatung

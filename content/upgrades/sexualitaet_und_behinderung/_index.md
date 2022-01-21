@@ -10,8 +10,6 @@ description: "Für alle Lebens- und Sozialberater, die ihr Wissen im Bereich Sex
 og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
 og_image: "/img/index_sv_ausbildung.jpg"
 rich_kurs: true
-aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
 rich_faq:
     -   frage: "Frage?"
         antwort: "Antwort"

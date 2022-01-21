@@ -10,7 +10,7 @@ description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r 
 og_title: "Historische, politische u. gesellschaftliche Aspekte in der Beratung am IFGE Burgenland"
 og_image: "/img/qualitaetsausbildungen.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/historische-politische-aspekte-in-der-beratung/"
 rich_faq:
     -   frage: "Welche fachlichen Fortbildungen kann man als Lebens-und Sozialberater anrechnen lassen?"
         antwort: "Am IFGE finden Sie als Lebens- und Sozialberaterin laufend interesannte Angebote zum Thema Fortbildungen, welche auch für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt werden."

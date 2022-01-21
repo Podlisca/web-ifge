@@ -10,7 +10,7 @@ description: "Für alle Lebens- und Sozialberater, die ihr Wissen und ihre Erfah
 og_title: "Lsb Upgrade: Zertifizierter Lehrgang Supervision"
 og_image: "/img/index_sv_ausbildung.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/lsb-upgrade-supervisionslehrgang/"
 rich_kurs: true
 
 rich_faq:

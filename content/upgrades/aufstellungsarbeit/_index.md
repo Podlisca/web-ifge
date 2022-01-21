@@ -10,7 +10,7 @@ description: "In unserer sehr praxisnahen Ausbildung zum/zur Aufstellungsleiter/
 og_title: "Fortbildungslehrgang: Aufstellungsarbeit"
 og_image: "/img/aufstellung_noe1.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/lsb-upgrade-aufstellungsarbeit/"
 rich_kurs: true
 
 rich_faq:

@@ -9,7 +9,7 @@ weight: 10
 description: "Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise, sowohl im gesamten Körper, als auch im gesamten Energiekörper aus und erreichen jede Faser und jede Zelle. In unseren Zellen haben wir jede Erfahrung, das Gute wie das Schwere, gespeichert."
 og_image: "/img/ks_ausbildung_gruppe.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/klangschalenmassage/"
 rich_faq:
     -   frage: "Für wen ist die Ausbildung zur Klangschalenmassage interesannt?"
         antwort: "Die Ausbildung zur Klangschalenmasse ist für alle diplomierten und sich in Ausbildung befindlichen Lebens- und SozialberaterInnen interessant, die ihre Methodenkompetenz um ein körperorientiertes Verfahren ergänzen möchten"

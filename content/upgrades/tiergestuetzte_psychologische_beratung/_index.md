@@ -10,7 +10,7 @@ description: "Lebens- und SozialberaterInnen, Interessierte SozialarbeiterInnen,
 og_title: "Ausbildung: Tiergestützte psychologische Beratung"
 og_image: "/img/bv_wirkung.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/tiergestützte-psychologische-beratung/"
 rich_kurs: true
 rich_faq:
     -   frage: "Was bedeutet tiergestüzte psychologische Beratung?"

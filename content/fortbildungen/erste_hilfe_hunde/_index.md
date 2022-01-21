@@ -5,8 +5,6 @@ menu:
         parent: fortb
         identifier: hunde
 draft: true
-aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
 weight: 12
 ---
 

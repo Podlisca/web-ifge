@@ -11,6 +11,7 @@ og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
 og_image: "/img/index_lsb.jpg"
 aliases: 
     - "/ausbildungsangebote/lebensberatung_psychologische_beratung.html"
+    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/"
 rich_kurs: true
 
 rich_faq:

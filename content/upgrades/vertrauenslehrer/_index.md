@@ -10,7 +10,7 @@ description: "In unserer Ausbildung zum/zur Vertrauenslehrerin erlernen Sie eine
 og_title: "Ausbildung zum/zur VertrauenslehrerIn"
 og_image: "/img/vertrauenslehrer.jpg"
 aliases: 
-    - "/fortbildungen/psychologisches_teambuilding/"
+    - "/ausbildungsangebote/ausbildung-zum-zur-vertrauenslehrerin/"
 rich_kurs: true
 ---
 
