@@ -1,5 +1,5 @@
 ﻿---
-title: "Ausbildung: Klangschalenmassage"
+title: "Diplomausbildung: Klangschalenmassage"
 menu: 
     main:
         parent: ausb
