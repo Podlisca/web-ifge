@@ -12,7 +12,7 @@ rich_faq:
         antwort: "Die Grundausbildung am IFGE lehrt fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung, Familienaufstellung, Krisenintervention und Sexualberatung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz. Die Themen, mit denen zukünftige Klient*innen zu Lebens- und Sozialberater*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen"
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung Schwerpunkt SGF®-Methode
+# Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}

@@ -73,7 +73,7 @@ rich_faq:
     
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung Schwerpunkt SGF®-Methode
+# Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

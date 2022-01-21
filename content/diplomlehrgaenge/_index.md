@@ -1,5 +1,5 @@
 ﻿---
-title: "Ausbildungsphilosophie und Kursangebote"
+title: "Diplom Aufstellungslehrgang SGF-Methode nach Silvia Podlisca"
 name: ausbildung
 menu: 
     main:
