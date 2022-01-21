@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortb
         identifier: gender
-draft: true
+draft: false
 weight: 12
 description: "Achtsamkeit & Vielfältigkeit in der psychologischen Beratung."
 og_title: "Gender & Diversity -Achtsamkeit & Vielfältigkeit in der psychologischen Beratung"

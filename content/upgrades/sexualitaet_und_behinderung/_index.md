@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade
         identifier: upgrade_sexualitaet_behinderung
-draft: true
+draft: false
 weight: 6
 description: "Für alle Lebens- und Sozialberater, die ihr Wissen im Bereich Sexualität und Behinderung in Ihrer Arbeit mit Klienten vertiefen möchten."
 og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
