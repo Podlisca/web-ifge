@@ -1,5 +1,5 @@
 ﻿---
-title: "Supervisionslehrgang"
+title: "WKO-Zertifiziert: Supervisionslehrgang"
 menu: 
     main:
         parent: upgrade

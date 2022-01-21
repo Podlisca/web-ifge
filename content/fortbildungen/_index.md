@@ -13,6 +13,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 ---
 
+
 # Ausbildungsphilosophie am IFGE 
 # Wien - Burgenland - Niederösterreich
 
@@ -53,24 +54,39 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 **Für alle Informationsveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 ***
-#### WKO Zertifizierte Lehrgänge
+#### Diplomausbildungen
 ***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="LSB Upgrade: Supervision" link="/upgrades/supervisionsausbildung" image="/img/kraftfeld.jpg"  >}}
-{{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/upgrades/aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" color="light-red" >}}
+{{< kurs titel="Diplomlehrgang Lebensberatung - psychologische Beratung Schwerpunkt SGF®-Methode" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" >}}
+{{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
+{{< kurs titel="Ausbildung Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
+
 {{% /kursbox %}}
 
 ***
-#### Aus- und Weiterbildungen
+#### Upgrades
 ***
 {{% kursbox %}}
-{{< kurs titel="Sexual- & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/upgrades/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg">}}
+{{< kurs titel="WKO-Zertifiziert: Aufstellungsarbeit" link="/upgrades/aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" color="light-red" >}}
+{{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/upgrades/supervisionsausbildung" image="/img/kraftfeld.jpg"  >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/upgrades/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+{{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
+{{< kurs titel="Sexualität & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red">}}
+{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
+
+
+{{% /kursbox %}}
+
+***
+#### Fortbildungen
+***
+{{% kursbox %}}
+
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red">}}
-{{< kurs titel="VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
-{{< kurs titel="Psychologisches Teambuilding" link="/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage" image="/img/kursuebersicht_klangschale.jpg" >}}
+{{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" >}}
+{{< kurs titel="Gender & Diversity in der psychologischen Beratung" link="fortbildungen/gender_und_diversity" image="/img/team_6.jpg" color="light-red">}}
+{{< kurs titel="Erlebnsitour: Hitlers Wien / Jüdigesch Wien" link="fortbildungen/erlebnistour_hitlers_wien" image="/img/politische_bildung.jpg" >}}
 
 {{% /kursbox %}}
 
