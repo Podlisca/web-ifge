@@ -3,7 +3,7 @@ title: "Kursziele"
 menu: 
     main:
         parent: upgrade_systembrett
-        identifier: upgrade_systembrett_ziele
+        identifier: fortb_systembrett_ziele
 draft: false
 weight: 1
 og_image: "/img/kursziel_systembrett.jpg"

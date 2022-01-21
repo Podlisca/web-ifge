@@ -4,7 +4,7 @@ menu:
     main:
         parent: ausb
         identifier: lsb_SGF
-draft: false
+draft: true
 weight: 1
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychologische Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr und am Wochenende von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
@@ -54,7 +54,6 @@ Bedürfnisse, Sehnsüchte und Ängste. Unsicherheiten, Konflikte und Krisen. Sti
 
 Als Lebens- und Sozialberater\*in – psychologische Berater\*in arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch keine krankhaften Störungen aufweisen*. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
 
-WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 <br/>
 

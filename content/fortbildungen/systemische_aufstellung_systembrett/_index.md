@@ -2,8 +2,8 @@
 title: "Systemische Aufstellung am Systembrett"
 menu: 
     main:
-        parent: upgrade
-        identifier: upgrade_systembrett
+        parent: fortb
+        identifier: fortb_systembrett
 draft: false
 weight: 4
 description: "Das Upgrade, das 32 Fortbildungsstunden umfasst, gestaltet sich dabei in höchstem Maße übungsorientiert und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der Diplomausbildung am IFGE kann eben jenes notwendige Vorwissen vor allem im Expert*innen zur Aufstellungsarbeit erworben und gefestigt werden."
@@ -46,14 +46,14 @@ Die Weiterbildung Systemische Aufstellung am Systembrett richtet sich an diplomi
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box more=1 %}}
-{{< card-more icon="/icon/bildung_schwarz.png" title="WELCHE INHALTE BIETET Die Fortbildung  ZUR AUFSTELLUNG AM SYSTEMBRETT?" link="/upgrades/systemische_aufstellung_systembrett/kursaufbau/" >}}
+{{< card-more icon="/icon/bildung_schwarz.png" title="WELCHE INHALTE BIETET Die Fortbildung  ZUR AUFSTELLUNG AM SYSTEMBRETT?" link="/fortbildungen/systemische_aufstellung_systembrett/kursaufbau/" >}}
 
 Die Fortbildung bietet wesentliche Inhalte, welche die psychologisch-systemische Arbeit im Einzelsetting deutlich erleichtert. Neben der Methode des inneren Bildes und der bekannten Zettelarbeit ist die Technik der Aufstellungsarbeit am Systembrett für viele Klient\*innen die eindrucksvollste. Immerhin können – ähnlich wie in der Gruppenaufstellung – Dynamiken und Bewegungen im Außen sichtbar gemacht und dadurch erweitert wahrgenommen werden. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Teilnehmer\*innen dieses Upgrades arbeiten demnach idealerweise bereits mit eigenen Klient\*innen, um Fälle vorstellen und supervidieren lassen zu können. 
 
 Am IFGE geht es nicht nur darum, dass Sie herzlich, professionell und wertschätzend dabei unterstütz werden, Ihr gesamtes Potenzial in der systemischen Beratungstätigkeit auszuschöpfen, sondern in der Ausbildung selbst wird ebenso aus dem Vollen geschöpft: Neben den beiden verschiedenen Systembrett-Varianten steht Ihnen ein unvergleichlicher Fundus an völlig unterschiedlichen Stellvertreterimagen zur Verfügung. Anhand dieser bekommen Sie ein Gefühl dafür, mit welchen Formen oder imagen Sie sich wohl fühlen und mit welchen davon Sie in Zukunft vielleicht – vermehrt – arbeiten wollen.
 {{< /card-more >}}
 
-{{< card-more icon="/icon/fachwissen.png" title="JAHRZEHNTE LANGE ERFAHRUNG TRIFFT AUF FACHLICHES TOP-NIVEAU" link="/upgrades/systemische_aufstellung_systembrett/kursaufbau/" >}}
+{{< card-more icon="/icon/fachwissen.png" title="JAHRZEHNTE LANGE ERFAHRUNG TRIFFT AUF FACHLICHES TOP-NIVEAU" link="/fortbildungen/systemische_aufstellung_systembrett/kursaufbau/" >}}
 
 Dank des über 20 Jahre intensiv geschulten systemischen Blicks von Institutsleiterin Silvia Podlisca, die alle Module dieses Upgrades persönlich unterrichtet, erhalten Sie hinsichtlich Ihrer Fälle sowie eigener Aufstellungsarbeiten nicht nur neue systemische Sichtweisen. Sondern Sie lernen gleichzeitig, wie Sie die Methode der unterschiedlichen Systembretter zieldienlich für Ihre Klient\*innen einsetzen. 
 

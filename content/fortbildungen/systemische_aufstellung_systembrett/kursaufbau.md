@@ -3,7 +3,7 @@ title: "Kursaufbau"
 menu: 
     main:
         parent: upgrade_systembrett
-        identifier: systembrett_kursaufbau
+        identifier: fortb_systembrett_kursaufbau
 draft: false
 weight: 1
 ---
@@ -34,7 +34,7 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 ## Seminarhinhalte
 
 {{% box more=1 %}}
-{{< card-more title="Modul 1" link="/upgrades/systemische_aufstellung_systembrett/kursaufbau/" >}}
+{{< card-more title="Modul 1" link="/fortbildungen/systemische_aufstellung_systembrett/kursaufbau/" >}}
 
 * theoretische Grundannahmen zur Aufstellungsarbeit
 * Grunddynamiken im Familiensystem (Herkunfts- und Gegenwartsfamilie)
@@ -47,7 +47,7 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 
 {{< /card-more >}}
 
-{{< card-more  title="Modul 2" link="/upgrades/systemische_aufstellung_systembrett/kursaufbau/" >}}
+{{< card-more  title="Modul 2" link="/fortbildungen/systemische_aufstellung_systembrett/kursaufbau/" >}}
 
 * Hypothesenbildung
 * Prozessarbeit und Formen der Prozessgestaltung

@@ -3,7 +3,7 @@ title: "Termine"
 menu: 
     main:
         parent: upgrade_systembrett
-        identifier: systembrett_termine
+        identifier: fortb_systembrett_termine
 draft: false
 weight: 3
 ---

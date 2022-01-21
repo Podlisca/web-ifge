@@ -13,7 +13,6 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 ---
 
-
 # Ausbildungsphilosophie am IFGE 
 # Wien - Burgenland - Niederösterreich
 
@@ -58,7 +57,6 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 ***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" >}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
 {{< kurs titel="Ausbildung Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
 
@@ -70,9 +68,7 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 {{% kursbox %}}
 {{< kurs titel="WKO-Zertifiziert: Aufstellungsarbeit" link="/upgrades/aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" color="light-red" >}}
 {{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/upgrades/supervisionsausbildung" image="/img/kraftfeld.jpg"  >}}
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/upgrades/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
 {{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
-{{< kurs titel="Sexualität & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red">}}
 {{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
 
 
@@ -85,8 +81,8 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red">}}
 {{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" >}}
-{{< kurs titel="Gender & Diversity in der psychologischen Beratung" link="fortbildungen/gender_und_diversity" image="/img/team_6.jpg" color="light-red">}}
-{{< kurs titel="Erlebnsitour: Hitlers Wien / Jüdigesch Wien" link="fortbildungen/erlebnistour_hitlers_wien" image="/img/politische_bildung.jpg" >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+
 
 {{% /kursbox %}}
 

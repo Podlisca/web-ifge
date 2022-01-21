@@ -3,7 +3,7 @@ title: "Preise"
 menu: 
     main:
         parent: upgrade_systembrett
-        identifier: systembrett_preise
+        identifier: fortb_systembrett_preise
 draft: false
 weight: 2
 ---

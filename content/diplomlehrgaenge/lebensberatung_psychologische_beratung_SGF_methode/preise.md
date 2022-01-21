@@ -28,12 +28,9 @@ weight: 2
 ## Kosten
 
 
-inkl. 120 Std. Gruppenselbsterfahrung und **90 Stunden Gruppensupervision für die fachliche Tätigkeit**
+* Einmalzahlung: € 4.500,-<br/>
 
-* Einmalzahlung: € 9.800,-<br/>
-**Einmalzahlung mit Frühbucherbonus\*: € 9.500,- \***
-
-* Semesterzahlung: € 2.110,- pro Semester (Gesamtsumme € 10.550,-)<br/>
+* Modulzahlung: € 1.110,- pro Semester (Gesamtsumme € 10.550,-)<br/>
 **Semesterzahlung mit Frühbucherbonus: € 2.060,- pro Semester (Gesamtsumme: € 10.300,-)\***
 
 * Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 380,- beginnend mit Kursstart (Gesamtsumme: € 11.900,-)<br/>
