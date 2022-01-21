@@ -58,7 +58,7 @@ Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, erm
 ***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Diplomlehrgang Lebensberatung - psychologische Beratung Schwerpunkt SGF®-Methode" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" >}}
+{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" >}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
 {{< kurs titel="Ausbildung Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
 

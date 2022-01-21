@@ -1,5 +1,5 @@
 ﻿---
-title: "Dipl. Lebensberatung - psychologische Beratung SGF-Methode"
+title: "Diplom Aufstellungslehrgang SGF-Methode nach Silvia Podlisca"
 menu: 
     main:
         parent: ausb
@@ -39,7 +39,7 @@ rich_faq:
         
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung Schwerpunkt SGF®-Methode
+# Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca
 {{< slogan >}}
 
 {{< line icon="icon/diplomlehrgang.png" >}}

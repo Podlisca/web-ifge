@@ -129,7 +129,7 @@ Ich freue mich, Sie am IFGE oder in unserem digitalen Ausbildungsraum kennenzule
 </div>
 <div style="grid-area: b1">
 
-## LSB SGF-Methode
+## Diplom Aufstellungslehrgang SGF®-Methode
 #### Start: 16. Juli 2022
 
 Wochenendsetting 
