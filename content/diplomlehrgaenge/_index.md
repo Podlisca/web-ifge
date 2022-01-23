@@ -41,13 +41,24 @@ In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
 * flexible, individuelle und persönliche Betreuung in Kleingruppen 
 {{% /box %}}
 
-an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schüler\*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen.
+an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Teilnehmer\*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen.
 
-Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent\*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Schüler\*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt.
+Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent\*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Teilnehmer\*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt. 
+<br/>
+<br/>
+<br/>
+Nach über **22 Jahren intensivster Beschäftigung mit Familienaufstellungen**, entwickelte ich, basierend auf den Grundlagen von Bert Hellinger, meine **eigene Aufstellungsmethode**:
 
+#  SGF®-Methode
+## Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca
+
+Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles, höchst persönliches Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht. Eine Methode mit Herz, Weitblick und Wertschätzung für Familien – wo jeder Mensch das gleiche Recht hat gesehen, gehört und anerkannt zu werden.	
+
+<br/>
 {{< silvia >}}
 
 {{% /floatbox %}}
+
 
 {{< line icon="icon/info_tuerkis.png" >}}
 

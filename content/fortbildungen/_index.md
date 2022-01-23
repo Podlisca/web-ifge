@@ -23,28 +23,36 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 {{% floatbox %}}
 {{% float-images %}}
-{{< image src="/img/silvia_noe_blaue_bank.jpg" >}}
+{{< image src="/img/philo_upgrades.jpg" >}}
 {{< linebreak >}}
-{{< image src="/img/philo_noe_ausbildung.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
+{{< image src="/img/start_rahmen.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
+<br/>
+{{< silvia >}}
 {{< linebreak >}}
 {{% /float-images %}}
 
 ## Menschen bilden, begleiten und bereichern
 
-In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
+Die Zusatzausbildungen am [IFGE](https://www.ifge.at/about/institut/) sind so aufgebaut, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als [Expert\*in](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) ihr bestehendes Wissen erweitern können und somit bei allen Herausforderungen von Klienten\*innen noch besser beratend zur Seite stehen können.
+
+### Angenehme, herzliche und nachhaltige Lernatmosphäre 
+Das IFGE bietet Ihnen neben einer herzlichen und wertschätzenden Unterrichtsatmosphäre, in der dank kleiner Gruppen auf alle Teilnehmer\*Innen individuell eingegangen werden kann, vor allem ein hochmodernes Lehrkonzept. Top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Handouts sorgen ebenso für Erfolg wie die individuelle Betreuung.
+
+### Vorteile der Ausbildung am IFGE
+
+Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahrung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) sowie der fundierten Unterrichtstätigkeit in zahlreichen Aus- und Fortbildungsmodulen zeichnet das IFGE im Besonderen aus:
 {{% box %}}
-* Herzlichkeit,
-* Schulung in systemischer- und personenzentrierter Gesprächsführung sowie gewaltfreier, Kommunikation,
-* Achtsamkeit, Wertschätzung und arbeiten auf Augenhöhe,
-* Kompetenz - sowohl im komplementär-medizinischen, psychosomatischen wie im beraterischen Bereich,
-* flexible, individuelle und persönliche Betreuung in Kleingruppen 
+* breitgefächerte Expertise in unterschiedlichsten Methoden
+* professionelles, wertschätzendes und herzliches ReferentInnen-Team
+* zahlreiche Module mit der Institutsleiterin Silvia Podlisca persönlich
+* individuelle Betreuung jedes Ausbildungsteilnehmers/jeder Ausbildungsteilnehmerin
+* fundierte Theorie vermittelt durch hochmoderne Tools wie unsere acht Smart-Boards 
+* praxisnahe Übungssequenzen in Kleingruppen
+
 {{% /box %}}
 
-an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Schüler\*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen.
 
-Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent\*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Schüler\*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt.
 
-{{< silvia >}}
 
 {{% /floatbox %}}
 
