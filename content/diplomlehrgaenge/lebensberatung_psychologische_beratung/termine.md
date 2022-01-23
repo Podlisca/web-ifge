@@ -40,7 +40,7 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf **ONLINE** umgeste
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-* 24.01.2022
+* 24.01.2022 **online** 
 * 27.04.2022
 * 02.06.2022
 <br/>
