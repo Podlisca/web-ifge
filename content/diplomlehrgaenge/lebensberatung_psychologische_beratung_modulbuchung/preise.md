@@ -71,7 +71,7 @@ weight: 2
 {{% /box %}}
 
 
-**Modulzahlung möglich:** 2 Modulzahlungen a € 1.290,- (Gesamtpreis: 2.580,-)
+***Modulzahlung möglich:** 2 Modulzahlungen a € 1.290,- (Gesamtpreis: 2.580,-)
 
 Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit a. UStG 1994 steuerfrei.
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
