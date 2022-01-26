@@ -32,7 +32,8 @@ weight: 3
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-#### Termine folgen
+#### 19.06.2022  
+**genauer Treffpunkt wird noch bekannt gegeben**
 {{% /small  %}}
 
 {{% small  %}}

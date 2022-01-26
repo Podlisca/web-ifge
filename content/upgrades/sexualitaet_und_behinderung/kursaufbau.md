@@ -40,44 +40,11 @@ weight: 1
 
 * Lehrplan folgt
 
-
 {{% /small %}}
 
 {{% small %}}
-#### Modul 3
 
-* Lehrplan folgt
-{{% /small  %}}
 
-{{% /box %}}
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Modul 4
-
-* Lehrplan folgt
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Modul 5
-
-* Lehrplan folgt
-* Prüfungsvorbereitung
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Modul 6
-
-* Abschlussprüfung 
-
-{{% /small  %}}
-{{% /box %}}
-
-{{< line icon="icon/test.png" >}}
-
-{{% box blue=1 %}}
-{{% small  %}}
 
 ## Prüfung
 
