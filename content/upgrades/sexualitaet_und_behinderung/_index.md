@@ -1,5 +1,5 @@
 ﻿---
-title: "Sexualität und Behinderung"
+title: "Sexualität, Alter & Behinderung"
 menu: 
     main:
         parent: upgrade
@@ -16,7 +16,7 @@ rich_faq:
 
 ---
 
-# Lsb Upgrade: Sexualität und Behinderung
+# Lsb Upgrade: Sexualität, Alter und Behinderung
 {{< slogan >}}
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
