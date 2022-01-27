@@ -95,8 +95,11 @@ jeweils von 09:00 bis 18:00 Uhr. Prüfungstag von 09:00 bis 16:00 Uhr
 * 17.09.2022<br/>
 * 01.10.2022<br/>
 * 15.10.2022<br/>
+<br/>
 
 **Prüfung: 29.10.2022**<br/>
+
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}
