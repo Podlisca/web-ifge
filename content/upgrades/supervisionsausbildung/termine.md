@@ -52,10 +52,27 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
+
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-#### Termine folgen
+#### Start: 14. September 2023
+
+jeweils donnerstags von 09:00 bis 18:00 Uhr
+
+14.09.23
+05.10.23
+12.10.23
+26.10.23
+02.11.23
+30.11.23
+14.12.23
+11.01.24
+25.01.24
+15.02.24
+29.02.24
+14.03.24
+28.03.24
 {{% /small  %}}
 
 {{% small  %}}
@@ -69,7 +86,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Niederösterreich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-#### Start: 18. September 2021 **ausgebucht**
+#### Start: 18. September 2021 
 Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs ausgebucht. Gerne können Sie sich auf die [Warteliste](/anmeldung.php) setzen lassen. Sollten sich die Maßnahmen lockern, werden noch drei weitere Plätze vergeben. 
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
