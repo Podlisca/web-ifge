@@ -1,0 +1,75 @@
+﻿---
+title: "Rechtliches"
+menu: 
+    main:
+        parent: coaching
+        identifier: coaching_rechtliches
+draft: false
+weight: 4
+---
+
+# Diplomlehrgang: Coaching
+
+{{< slogan >}}
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+{{% iconmenu %}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
+{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
+{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
+{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
+{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
+{{% /iconmenu %}}
+
+
+{{< line icon="icon/lebenslauf.png" >}}
+
+## Zugangsvoraussetzungen
+
+* Diese Ausbildung ist für alle offen
+
+{{< line icon="icon/test.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+## Prüfung
+
+Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Diplomes des Institut für ganzheitliches Erleben ab.
+
+Voraussetzung hierfür ist die 90%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. 
+
+{{% /small  %}}
+{{% /box %}}
+
+{{< line icon="icon/vertrag.png" >}}
+## Zahlungsbedingungen
+
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 500,- Konto:
+
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+zu überweisen. Bitte geben Sie als Verwendungszweck Coaching Onlineschulung + Ihren Namen an.
+
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Ausbildungsgebühr zu bezahlen; danach die volle Ausbildungsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
+
+{{< line icon="icon/vertrag.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
+
+## Allgemeine Geschäftsbedingungen / Ablauf
+
+Die Ausbildung ist nur komplett zu buchen.
+ 
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. 
+
+Sie erhalten rechtzeitig eine E-Mail mit den Zugangsdaten für die Onlineschulung. 
+
+Bitte sorgen Sie für eine stabile Internetverbindung sowie die Sicherstellung der technischen Voraussetzungen. Bei Internetausfall oder Verbindungsproblemen auf Ihrem Endgerät übernehmen wir keine Haftung und nehmen keine Rücküberweisungen des Webinarbeitrags vor. Weiters weisen wir darauf hin, dass Mittschnitt und Aufnahme des Webinars verboten sind.
+
+{{% /small  %}}
+{{% /box %}}

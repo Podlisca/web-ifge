@@ -40,8 +40,7 @@ Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die 
 {{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
-{{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
-{{< card icon="noun_Venn Diagram_50174-2.png" title="Berufsbild" >}}
+{{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
 {{% /iconmenu %}}
 
 {{< line icon="icon/diplomlehrgang.png" >}}

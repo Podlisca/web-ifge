@@ -104,7 +104,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" >}}
 {{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg" color="light-red" >}}
 {{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/grundlagen_online.jpg" >}}
-{{< kurs titel="Psychologisches Coaching" link="/online-ausbildungsangebote/psychologisches_coaching" image="/img/psychologisches _coaching.jpg" color="light-red" >}}
+{{< kurs titel="Psychologisches Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching" image="/img/psychologisches _coaching.jpg" color="light-red" >}}
 {{< kurs titel="Große weite Welt - Kinder vor Gefahren (im Netz) schützen" link="/online-ausbildungsangebote/kinder_gefahrenschutz" image="/img/kinder_schuetzen.jpg" >}}
 {{< kurs titel="Fit and safe: Ganz sicher Spaß haben - online und unterwegs" link="/online-ausbildungsangebote/fitandsafe" image="/img/kursziel_fit_safe_maedchen.jpg" color="light-red" >}}
 {{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" >}}

@@ -164,13 +164,13 @@ Donnerstags von 14:00 bis 20:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 ## LSB 22
-#### Start: 2023
+#### Start: 4. September 2023
 
-Kurstag: in Planung
+Montags von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-Terminübersicht ist in Bearbeitung.
+[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}
