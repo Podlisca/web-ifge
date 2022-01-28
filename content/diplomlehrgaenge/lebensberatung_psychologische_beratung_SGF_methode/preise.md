@@ -28,61 +28,24 @@ weight: 2
 ## Kosten
 
 
-* Einmalzahlung: € 4.500,-<br/>
+* Einmalzahlung: 500,- Anzahlung / € 4.000,- Restzahlung ein Monat vor Beginn<br/>
 
-* Modulzahlung: € 1.110,- pro Semester (Gesamtsumme € 10.550,-)<br/>
-**Semesterzahlung mit Frühbucherbonus: € 2.060,- pro Semester (Gesamtsumme: € 10.300,-)\***
+* Modulzahlung: 500,- Anzahlung / 3 Zahlungen a 1.400,- immer ein Monat vor Beginn (Gesamt 4.700,-)<br/>
 
-* Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 380,- beginnend mit Kursstart (Gesamtsumme: € 11.900,-)<br/>
-**Ratenzahlung mit Frühbucherbonus: € 360,- pro Rate (Gesamtsumme: € 11.300,-)\*** 
+* Monatliche Raten: 500,- Anzahlung / 9 Raten a € 500,- (Gesamt 5.000,-)
 
+**AKTION bei Anmeldung bis 31.05.2022 – Einführungspreis\***
 
-Für die Administration und die online Praktikumsübersicht & Praktikumsverwaltung ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 250,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden (€ 50,- pro Semester).
+* Einmalzahlung: 500,- Anzahlung / € 3.500,- Restzahlung ein Monat vor Beginn<br/>
 
-Sollten Sie bereits vor Ausbildungsbeginn mit dem Praktikum am IFGE beginnen, oder die Software über den Ausbildungszeitraum von 5 Semestern nützen wollen, sind pro Semester € 50,- zusätzlich für die Nutzung der Software zu bezahlen.
+* Modulzahlung: 500,- Anzahlung / 3 Zahlungen a 1.250,- immer ein Monat vor Beginn (Gesamt 4.700,-)<br/>
 
-Wenn Sie die Voraussetzungen für die **Förderkriterien des Wiener ArbeitnehmerInnen Förderungsfonds (waff)** erfüllen, wird die Ausbildung bis zu € 2.000,- gefördert. Weitere Infos hier: https://www.waff.at/foerderungen/
+* Monatliche Raten: 500,- Anzahlung / 9 Raten a € 450,- (Gesamt 4.550,-)
 
-Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit a. UStG 1994 steuerfrei.
+<br/>
 
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-{{< line icon="icon/aktion.png" >}}
-## AKTIONEN FÜR alle Standorte
-
-{{% box blue=1 %}}
-{{% small  %}}
-
-## An den Infoabenden erhältlich:
-
-{{% box blue=1 top-align=1 %}}
-{{% small  %}}
-
-* Sofort 1x Zahlung: € 9.300,- (gilt immer bis zu 3 Monate vor Kursstart)
-* Bildungsscheck von 100,-
-
-**GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware)**
-
-
-## Frühbucherbonus
-
-*Der Frühbucherbonus gilt immer bis zu 4 Monate vor Kursstart
-
-
-
-{{% /small  %}}
-{{% /box %}}
-
-{{% /small  %}}
-{{% /box %}}
-
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-## Unterrichtsmaterialien
-
-Bei jedem Seminar sind kostenlose digitale Skripten inbegriffen. Zur Unterstützung wird auch mit Powerpoint gearbeitet, diese kann jede/r auf Wunsch für € 5,- als pdf ausgedruckt bekommen. Weiteres wird auch mit Flip Charts, White Boards, dem SystemDimensionsBrett® und mit vielen anderen Materialien gearbeitet.
-
-Insbesondere das neue {{< green >}}SMART-Board{{< /green >}} hat die Präsentationsmöglichkeiten am IFGE modernisiert und vereinfacht. Mittels SMART-Board können Inhalte interaktiv und spielerischer vermittelt werden. Das SMART-Board hat eine berührungs-sensitive Oberfläche, auf welcher mühelos Dokumente bearbeitet, abgespeichert und in der Folge an alle Ausbildungsteilnehmer*innen gesendet werden können - für ein ganz neues Unterrichtserlebnis.
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 

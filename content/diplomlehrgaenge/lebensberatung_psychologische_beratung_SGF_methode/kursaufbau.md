@@ -90,40 +90,12 @@ rich_faq:
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
-## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychologische Beratung
+## Aufbau des Lehrgangs "Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca"
 
-* 20 Stunden Einführung in die Lebensberatung und Sozialberatung psychologische Beratung
-* 120 Stunden Gruppenselbsterfahrung
-* 68 Stunden angrenzender Fachbereich (Medizin, Pädagogik, Mediation)
-* 240 Stunden Methodik der Lebens- und Sozialberatung (Systemische Beratung, Familienaufstellung, Sexualberatung, Work-Life-Balance)
-* 80 Stunden Krisenintervention
-* 24 Stunden Recht
-* 16 Stunden Betriebswirtschaft
-* 16 Stunden Berufsethik und Berufsidentität
+Die Vermittlung der Lehrinhalte erfolgt anhand von Praxisfällen. 100%iges praxisorientiertes Erarbeiten des Lernstoffes anhand von Aufstellungen und Fallbesprechungen. 
 
-584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
+240 Ausbildungsstunden auf 2 Semester mit **max. 12 Teilnehmer*innen.**
 
-{{< line icon="icon/beratung.png" >}}
-
-## Methoden der Ausbildung 
-
-Als Basis **dienen ziel-, ressourcen- und lösungsorientierte Beratungsansätze**: 
-
-* Der systemische Beratungsansatz (Mailänder Schule) 
-* Der hypnosystemische Beratungsansatz (Gunther Schmidt) 
-* Der personenzentrierte Ansatz (Rogers) 
-* Der sokratischer Dialog
-* Gewaltfreie Kommunikation (Rosenberg) 
-* Motivierende Gesprächsführung (Miller u. Rollnick) 
-* Der lösungsorientierte Ansatz (DeShazer) 
-* Die lösungsfokussierte systemische Aufstellungsarbeit (von Kibed, Hellinger) 
-
-Die Vermittlung der Lehrinhalte erfolgt leicht verständlich und praxisorientiert. Jeder Theorieblock endend mit praktischen Übungen. (Rollenspiel Berater – Klient / Aufstellung usw.)
-
-
-**[Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)**
-
-**Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 

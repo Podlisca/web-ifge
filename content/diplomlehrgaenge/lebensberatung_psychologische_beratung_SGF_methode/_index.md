@@ -46,18 +46,20 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/index_lsb.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
+{{< image src="/img/sgf_intro.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="quer">}}
 
-## Probleme lösen. Perspektiven erarbeiten.
+## Die SGF®-Methode. 
+## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
 
-Bedürfnisse, Sehnsüchte und Ängste. Unsicherheiten, Konflikte und Krisen. Stillstand, Veränderung und Verbesserung. Das alles gehört zu unserem Leben dazu. Aber nicht immer können und/oder wollen Menschen herausfordernde Lebenssituationen alleine bewältigen. Umso wichtiger, dass es fachlich qualifizierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
-
-Als Lebens- und Sozialberater\*in – psychologische Berater\*in arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch keine krankhaften Störungen aufweisen*. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
-
+Mit mehr als 20 Jahren Erfahrung in den Bereichen psychosoziale Beratung und psychosoziale Ausbildung ist Silvia Podlisca eine Expertin für systemische Familienaufstellung. Auf Basis bewährter und etablierter Ansätze, wie etwa der Aufstellung nach Bert Hellinger, hat sie eine eigene und mittlerweile patentierte Methode entwickelt: Die SGF-Methode. Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca. 
 
 <br/>
 
-*entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
+## Was ist und kann die SGF®-Methode?
+
+In Familien treffen individuelle Bedürfnisse auf kollektive Bedürfnisse. Eigene Ziele treffen auf gemeinschaftliche Ziele. Und moderne Werte treffen auf traditionelle Werte. Kurz: Familien sind komplexe, soziale Systeme, weshalb sie oftmals Quelle von Selbstzweifeln, Konflikten und Krisen sind. Manchmal wissen wir genau, welche familiären Themen uns belasten und blockieren. Manchmal ist uns hingegen gar nicht bewusst, wie stark Ursprung, Herkunft und Familie unsere Bedürfnisse, Sorgen und Ängste im Hier und Jetzt prägen. In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennenzulernen, schmerzhafte Erinnerungen aufzuarbeiten, sich von alten Mustern zu lösen und so Zukunftswege zu ebnen.
+ 
+Im Unterschied zu anderen Zugängen berücksichtigt die SGF®-Methode von Silvia Podlisca nicht nur das kollektive System Familie, sondern auch individuelle Bedürfnisse, Sichtweisen und Erlebnisse. So können Probleme und Prozesse ganzheitlich verstanden und nachhaltige Lösungswege erarbeitet werden. 
 
 {{% /floatbox %}}
 

@@ -19,11 +19,14 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziele_2021_2.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
+{{< image src="/img/sgf_ziele.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
 
-Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE - in einer wertschätzenden, herzlichen Atmosphäre - fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
+Wer bin ich? Warum bin ich, wie ich bin? Warum belasten und blockieren mich Zweifel, Ängste und Sorgen? Warum kommt es in meiner Familie immer wieder zu Streit? Warum habe ich keinen Kontakt zu meinen Eltern? Warum bin ich traurig, wenn ich an meine Kindheit denke? Weshalb distanziere ich mich von meiner Herkunft? Wie kann ich das Verhältnis zu meiner Familie verbessern? Die eigene Persönlichkeitsstruktur, individuelle Bedürfnisse und belastende Muster haben ihren Ursprung häufig in der Herkunft und damit in unserer Familie. 
 
-Über 900 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit. [Weitere Infos](#alle-informationen-über-den-lehrgang-am-ifge)
+**Dementsprechend vielfältig sind die Fragen, die im Zentrum der Familienaufstellung nach der SGF®-Methode stehen können.** 
+
+Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die eigene Sichtweise als auch die Familie als Ganzes werden systematisch aufgestellt und Schritt für Schritt unter Begleitung verstanden und ergründet. Unsere Geschichte und unsere Herkunft lassen sich nicht ändern, sehr wohl aber unsere Sichtweise und unser Verständnis für familiäre Prozesse und Konflikte. Und genau das ist Ziel der SGF®-Methode. Die Familienaufstellung unterstützt Frieden mit der Vergangenheit zu schließen, traumatische Erinnerungen aufzuarbeiten, das System Familie zu verstehen und so unbelastet und zufrieden die Zukunft zu gestalten. 
+
 
 {{% silvia %}}
 
