@@ -25,7 +25,7 @@ weight: 3
 {{< line icon="icon/termin_kursplan.png" >}}
 
 # Termine
-**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Informationsveranstaltung
@@ -104,7 +104,8 @@ Wochenendekurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr.
 03.12.2023
 09.12.2023
 10.12.2023
-16.12.2023<br> 
+16.12.2023 
+<br> 
  
 **Prüfung: 18.12.2022**<br/>
 

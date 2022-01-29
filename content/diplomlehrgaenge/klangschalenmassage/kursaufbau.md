@@ -29,6 +29,9 @@ weight: 1
 * Umgang mit Klangschalen
 * Möglichkeiten und Grenzen der Klangschalentherapie
 * Der Mensch als Einheit von Körper, Geist und Seele
+* Grundlagen der Gesprächsführung
+* der emotionale Beziehungsaufbau als Grundlage in der Arbeit
+* Grundlagen über Burn out und Belastungsstörungen
 * Grundwissen über Chakren
 * Grundwissen über die fünf Elemente
 * Überblick über die Organe und ihre Funktion
@@ -47,7 +50,14 @@ weight: 1
 {{% small  %}}
 
 ## PRÜFUNG
-Diese Fortbildung endet ohne Prüfung. 
+
+* eine mündliche Zwischenprüfung
+* Facharbeit
+* Mündliche Abschlussprüfung & Fachgespräch
+* Keine Prüfungsgebühr, kein Auswahlseminar
+
+Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Facharbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig. 
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -55,6 +65,7 @@ Diese Fortbildung endet ohne Prüfung.
 ## Leitung
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Dominique Karlovits](/about/referenten-lsb/#karlovits)
 
 
 

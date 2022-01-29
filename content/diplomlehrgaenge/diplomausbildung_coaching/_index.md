@@ -45,9 +45,6 @@ Die Kompetenzen & Methoden, die in dieser Ausbildung vermittelt werden sind viel
 
 {{% floatbox %}}
 
-## Großartiges Entwicklungspotenzial am IFGE
+#### Lernen am IFGE - auch unter Covid
 
-Dank der hochmodernen Technik-Ausstattung an unserem Institut ist es möglich, praktische Übungssequenzen in top-Qualität aufzeichnen zu lassen, um im Anschluss an das fachliche Feedback die eigene Arbeit selbst aus einem neuen Blickwinkel zu betrachten. Wie in vielen Coachingvarianten üblich, bietet Ihnen diese – freiwillige – Möglichkeit der Videoaufzeichnung enormes Entwicklungspotenzial, indem Sie Ihre Körpersprache, Gestik und Mimik selbst beobachten und analysieren können. Wir weisen darauf hin, dass Gesprächs-Sequenzen ausschließlich nach ausdrücklicher Zustimmung aller Beteiligten, freiwillig und unter strengster Einhaltung aller Datenschutzrichtlinien aufgezeichnet werden.
-
-Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten.
-{{% /floatbox %}}
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter über zusätzliche Sicherheit. 

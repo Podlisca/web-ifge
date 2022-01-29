@@ -25,29 +25,42 @@ weight: 4
 ## Zugangsvoraussetzungen
 
 
-* Dipl. Lebens- und Sozialberater/in
-* Lebens- und Sozialberater/in ab dem 1. Semester der Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten
-* Interessierte SozialarbeiterInnen, BetreuerInnen, Trainer, EnergetikerInnen mit Erfahrung in der Gesprächsführung usw.
+Diese Ausbildung ist für alle offen
 
 {{< line icon="noun_Information_478770-2.png" >}}
+
+
+## Prüfung
+
+* eine mündliche Zwischenprüfung
+* Facharbeit
+* Mündliche Abschlussprüfung & Fachgespräch
+* Keine Prüfungsgebühr, kein Auswahlseminar
+
+Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Facharbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig. 
+
+
+{{< line icon="icon/vertrag.png" >}}
 ## Zahlungsbedingungen
 
-Um Ihnen den Platz verbindlich zu reservieren sind nach Anmeldung € 250,- Anzahlung auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Kursgebühren von € 500,- Konto:
 
-Silvia Podlisca - Institut für ganzheitliches Erleben e.U. / FN 395989m
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
 
 Bank Austria
 IBAN: AT42 1200 0007 4443 4259
-BIC: BKAUATWW zu überweisen.
+BIC: BKAUATWW
 
-Bitte geben Sie als Verwendungszweck KS + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck Diplomlehrgang Klangschalenmassage + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Seminar- bzw. Ausbildungsbeginn. Bei Absage bis zu 12 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50 % zu bezahlen; danach die volle Ausbildungsgebühr  und ein Vertragsrücktritt ist ausgeschlossen.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
 
+{{< line icon="icon/vertrag.png" >}}
+{{% box blue=1 %}}
+{{% small  %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
-## Allgemeine Geschäftsbedingungen
+## Allgemeine Geschäftsbedingungen / Ablauf
 
-Die Ausbildung ist nur komplett zu buchen. Bei Zahlungsverzug von mehr als 10 Tagen wird automatisch der gesamte offene Restbetrag fällig. Die Ausbildung kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
-
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen.  Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen.
+Die Ausbildung ist nur komplett zu buchen.
+ 
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. 

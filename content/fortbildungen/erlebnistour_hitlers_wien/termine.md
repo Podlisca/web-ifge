@@ -33,6 +33,8 @@ weight: 3
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 #### 19.06.2022  
+von 10:00 bis 16:00 Uhr
+
 **genauer Treffpunkt wird noch bekannt gegeben**
 {{% /small  %}}
 

@@ -65,7 +65,7 @@ BIC: BKAUATWW zu überweisen.
 
 Bitte geben Sie als Verwendungszweck SGF Lehrgang + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten und pro besuchten Praktikumstag werden € 50,- verrechnet.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
 
 {{< line icon="icon/vertrag.png" >}}
 {{% box blue=1 %}}

@@ -26,6 +26,10 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 
-* Einmalzahlung: € 980,-
+* Einmalzahlung: 500,- Anzahlung / € 4.000,- Restzahlung ein Monat vor Beginn<br/>
+
+* Modulzahlung: 500,- Anzahlung / 3 Zahlungen a 1.400,- immer ein Monat vor Beginn (Gesamt 4.700,-)<br/>
+
+* Monatliche Raten: 500,- Anzahlung / 9 Raten a € 500,- (Gesamt 5.000,-)
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.

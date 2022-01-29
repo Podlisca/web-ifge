@@ -96,6 +96,17 @@ Die Vermittlung der Lehrinhalte erfolgt anhand von Praxisfällen. 100%iges praxi
 240 Ausbildungsstunden auf 2 bis max. 3 Semester mit **max. 12 Teilnehmer*innen.**
 
 ***
+
+## Prüfung
+
+* eine mündliche Zwischenprüfung
+* Facharbeit
+* Mündliche Abschlussprüfung & Fachgespräch
+* Keine Prüfungsgebühr, kein Auswahlseminar
+
+Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Facharbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
+***
+
 ## BESTÄTIGUNG
 Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 

@@ -35,9 +35,12 @@ weight: 4
 {{% small  %}}
 ## Prüfung
 
-Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Diplomes des Institut für ganzheitliches Erleben ab.
+* eine mündliche Zwischenprüfung
+* Facharbeit
+* Mündliche Abschlussprüfung & Fachgespräch
+* Keine Prüfungsgebühr, kein Auswahlseminar
 
-Voraussetzung hierfür ist die 90%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. 
+Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Facharbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig. 
 
 {{% /small  %}}
 {{% /box %}}
@@ -53,9 +56,9 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck Coaching Onlineschulung + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck Diplomlehrgang Coaching + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Ausbildungsgebühr zu bezahlen; danach die volle Ausbildungsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
 
 {{< line icon="icon/vertrag.png" >}}
 {{% box blue=1 %}}
@@ -66,10 +69,6 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis 
 Die Ausbildung ist nur komplett zu buchen.
  
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. 
-
-Sie erhalten rechtzeitig eine E-Mail mit den Zugangsdaten für die Onlineschulung. 
-
-Bitte sorgen Sie für eine stabile Internetverbindung sowie die Sicherstellung der technischen Voraussetzungen. Bei Internetausfall oder Verbindungsproblemen auf Ihrem Endgerät übernehmen wir keine Haftung und nehmen keine Rücküberweisungen des Webinarbeitrags vor. Weiters weisen wir darauf hin, dass Mittschnitt und Aufnahme des Webinars verboten sind.
 
 {{% /small  %}}
 {{% /box %}}

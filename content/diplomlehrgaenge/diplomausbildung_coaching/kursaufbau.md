@@ -33,28 +33,36 @@ weight: 1
 * Coaching im beruflichen Kontext
 * Themen im Coaching
 * Coaching-Vereinbarung, Prozess, Gespräch, Zielfindung
-* Coaching-Methoden & Modelle (Kreislauf der Veränderung)
+* Coaching-Methoden & Modelle 
 * Prozess der Problemlösung- und Entscheidungsfindung
+* Teams & Gruppen
+* Führungsstile 
+* Konflikt & Konfliktmanagement 
 * viele Tools
 
 {{< line icon="icon/test.png" >}}
 
 ## Prüfung
-{{% box blue=1 %}}
-{{% small  %}}
-Der Lehrgang schließt mit einer mündlichen Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater\*innen anerkannt.
+* eine mündliche Zwischenprüfung
+* Facharbeit
+* Mündliche Abschlussprüfung & Fachgespräch
+* Keine Prüfungsgebühr, kein Auswahlseminar
 
-{{% /small  %}}
-{{% /box %}}
+Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Facharbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
+***
+
+## BESTÄTIGUNG
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 {{< line icon="icon/referenten.png" >}}
 
 ## Leitung
 
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
+* Michalea Böhm
 
 
 
