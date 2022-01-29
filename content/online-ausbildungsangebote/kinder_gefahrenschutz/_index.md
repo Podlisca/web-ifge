@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: kinder_gefahrenschutz
-draft: true
+draft: false
 weight: 7
 description: "In diesem digitalen Seminar erhält genau diese Sorge insofern besondere Betrachtung, als dass die Lebenswelt von Kindern, Jugendlichen und jungen Erwachsenen nachgezeichnet wird. Dadurch erhalten Sie einen weitreichenden Einblick in die Vorstellungen und Wünsche Ihrer Kinder, die außerhalb des familiären Gefüges und der elterlichen Kontrolle für sie zentrale Themen sein können."
 og_image: "/img/kinder_schuetzen.jpg"
