@@ -93,7 +93,7 @@ Standort: Baden bei Wien
 24.06.23
 
 
-[Termine herunterladen](/downloads/upgrade_ sexualitaet_und_paarberatung_baden.pdf)
+[Termine herunterladen](/downloads/upgrade_sexualitaet_und_paarberatung_baden.pdf)
 
 [Anmeldung](/anmeldung.php)
 
