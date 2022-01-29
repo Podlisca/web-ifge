@@ -16,7 +16,7 @@ og_image: "/img/politik.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/politik.jpg" title="Sozialpolitische Aspekte sind bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett sind ein wesentlicher Teil, um kollektive Traumata aufzulösen. Deshalb gibt es am IFGE ein Seminar welche die wichtigsten Aspekte beleuchtet." float="left">}}
+{{< image src="/img/gender.jpg" title="Sozialpolitische Aspekte sind bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett sind ein wesentlicher Teil, um kollektive Traumata aufzulösen. Deshalb gibt es am IFGE ein Seminar welche die wichtigsten Aspekte beleuchtet." float="left">}}
 
 Die Ausbildung richtet sich an Mitarbeiter\*innen und Führungskräfte aus dem Sozial-, Bildungs- und Wirtschaftsbereich und damit an alle, die Wissen zu Gender & Diversity erschließen und damit ihr Bewusstsein für die Chancen der Vielfalt schärfen möchten. Individualität, Kollektivität und Diversität betrifft uns alle, weshalb die Zielgruppe für den Kurs breit ist. 
 
