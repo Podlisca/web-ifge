@@ -88,7 +88,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 09.04.24
 16.04.24 - Prüfung
 
-[Termine LSB 19 herunterladen](/downloads/termine_sgf.pdf)
+[Termine herunterladen](/downloads/termine_sgf.pdf)
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
 

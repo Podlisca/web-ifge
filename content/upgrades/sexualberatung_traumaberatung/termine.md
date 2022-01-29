@@ -25,7 +25,9 @@ weight: 3
 {{< line icon="icon/termin_kursplan.png" >}}
 
 # Termine
-**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Informationsveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Informationsveranstaltung

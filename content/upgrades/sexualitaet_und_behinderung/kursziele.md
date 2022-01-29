@@ -9,7 +9,7 @@ weight: 1
 og_image: "/img/sv_supervision.jpg"
 ---
 
-# Lsb Upgrade: Sexualität und Behinderung
+# Lsb Upgrade: Sexualität, Alter  und Behinderung
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
@@ -18,9 +18,11 @@ og_image: "/img/sv_supervision.jpg"
 
 {{< image src="/img/sv_supervision.jpg"title="Bildbeschreibung "float="left">}}
 
-Mehr Informationen zu dieser Ausbildung finden Sie hier in Kürze!
+Der Kurs umfasst 100 Ausbildungsstunden, in denen Sie unterschiedliche didaktische Formate, wie Vorträge und Workshops, erwarten. 
 
-{{% silvia %}}
+Ziel ist nicht nur das Bewusstsein für die sexuellen Bedürfnisse von Menschen mit Behinderung zu schaffen, sondern auch geeignete Methoden kennenzulernen und so die Sicherheit im Umgang mit dem Thema zu stärken. Ob Lebens- und Sozialberater*innen, Pädagog\*innen, Betreuer\*innen in Einrichtungen, Arbeitgeber\*innen oder Angehörige, die Ausbildung richtet sich an alle, die mit alten Menschen oder mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten oder leben. 
+
+
 
 {{% /floatbox %}}
 
@@ -34,13 +36,3 @@ Mehr Informationen zu dieser Ausbildung finden Sie hier in Kürze!
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/supervision_tuerkis.png" >}}
-
-## WAS BIETET UNSER LEHRGANG?
-{{% box %}}
-{{% small %}}
-
-Mehr Information hierzu folgt in Kürze. 
-
-{{% /small %}}
-{{% /box %}}

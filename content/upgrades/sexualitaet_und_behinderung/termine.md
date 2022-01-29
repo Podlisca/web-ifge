@@ -25,8 +25,9 @@ weight: 3
 {{< line icon="icon/termine.png" >}}
 
 # Termine
-**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für alle Informationsveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -62,7 +63,27 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
-#### Termine folgen
+#### Start: 17. Februar 2023
+
+17.02.23
+24.02.23
+03.03.23
+17.03.23
+31.03.23
+14.04.23
+21.04.23
+28.04.23
+19.05.23
+26.05.23
+02.06.23
+16.06.23
+23.06.23 
+30.06.23
+
+[Termine herunterladen](/downloads/termine_sex_alter_behinderung.pdf)
+
+[Anmeldung](/anmeldung.php)
+
 {{% /small  %}}
 {{% small  %}}
 
@@ -81,7 +102,6 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% box blue=1 %}}
 {{% small  %}}
 
-{{< line icon="icon/bus.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}

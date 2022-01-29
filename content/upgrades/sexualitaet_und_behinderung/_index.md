@@ -6,7 +6,7 @@ menu:
         identifier: upgrade_sexualitaet_behinderung
 draft: false
 weight: 6
-description: "Für alle Lebens- und Sozialberater, die ihr Wissen im Bereich Sexualität und Behinderung in Ihrer Arbeit mit Klienten vertiefen möchten."
+description: "Sexualität, Alter & Behinderung ist eine optimale Weiterbildung für alle, die mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten und an Sicherheit im Umgang mit sexuellen Themen gewinnen möchten. Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern."
 og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
 og_image: "/img/index_sv_ausbildung.jpg"
 rich_kurs: true
@@ -20,11 +20,19 @@ rich_faq:
 {{< slogan >}}
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
-## Jeder hat ein Recht auf Sexualität. 
+## Bewusstsein schärfen. Bedürfnisse ernstnehmen.
 
 {{% floatbox %}}
 
 {{< image src="/img/index_sv_ausbildung.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
+
+Alte Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht. 
+
+Aber auch Betreuer\*innen, Pädagog\*innen und Eltern, denen die sexuellen Bedürfnisse von Menschen mit Behinderung bewusst sind, sind häufig unsicher im Umgang und in der Begleitung.
+
+Genau hier setzt die Ausbildung Sexualität, Alter & Behinderung an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen mit Behinderungen ernstgenommen und bewusst aufgegriffen werden können. 
+
+
  
 {{% /floatbox %}}
 
@@ -38,10 +46,5 @@ rich_faq:
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
 
-
-## WARUM ES SO GERADE SO WICHTIG IST BEEINTRÄCHTIGTE MENSCHEN ZU BETREUEN?
-
-Text text text 
 
