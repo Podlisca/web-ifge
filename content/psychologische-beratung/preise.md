@@ -53,6 +53,10 @@ Supervisions – Jahresgruppe (4h)
 
 Preis: € 80,- pro Abend
 
+Supervisions – Jahresgruppe (4,5h)    
+
+Preis: € 90,- pro Abend
+
 offene Supervisionsgruppe  (4h)    
 
 Preis: € 80,- pro Abend

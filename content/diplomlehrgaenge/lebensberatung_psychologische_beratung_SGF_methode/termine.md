@@ -24,13 +24,16 @@ weight: 3
 
 {{< line icon="icon/termine.png" >}}
 
-## Informationsveranstaltung
+#### Termine
 
 **Für alle Informationsveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
 
-Je nach Covid Situation kann es sein, dass die Infoabende auf **ONLINE** umgestellt werden. Wir hoffen natürlich, dass dies nicht notwendig wird. Sollte es zu einer Umstellung kommen, werden Sie selbstverständlich rechtzeitig darüber informiert. 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
 
-***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer\*innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
+{{< line icon="icon/silvia.png" >}}
+
+## Der erste Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
+***
 
 {{% box top-align=1 %}}
 {{% small %}}
@@ -38,17 +41,10 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf **ONLINE** umgeste
 
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-
-* 24.01.2022
-* 27.04.2022
-* 02.06.2022
-<br/>
-<br/>
-
-von 18:30 bis ca. 20:00 Uhr
+#### Termine folgen
 
 
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
+
 
 {{% /small  %}}
 
@@ -57,12 +53,42 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-* 17.01.2022 **- online**
+#### Start: 29. August 2023
 
-<br/>
-<br/>
-<br/>
-von 18:30 bis ca. 20:00 Uhr
+**immer dienstags von 09:00 bis 18:00 Uhr**
+
+29.08.23
+05.09.23
+12.09.23
+19.09.23
+26.09.23
+03.10.23
+10.10.23
+17.10.23
+24.10.23
+07.11.23
+14.11.23
+21.11.23
+28.11.23
+05.12.23
+12.12.23
+19.12.23
+09.01.24
+16.01.24
+23.01.24
+30.01.24
+06.02.24
+13.02.24
+20.02.24
+27.02.24
+05.03.24
+12.03.24
+19.03.24
+02.04.24
+09.04.24
+16.04.24 - Prüfung
+
+[Termine LSB 19 herunterladen](/downloads/termine_sgf.pdf)
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
@@ -73,84 +99,15 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-
-* 30.03.2022
-* 05.05.2022
-* 07.06.2022
-<br/>
-<br/>
+#### Termine folgen
 
 
-von 18:30 bis ca. 20:00 Uhr
 
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% /small  %}}
 
 {{% /box %}}
 
-
-
-**Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
-
-
-Ich freue mich, Sie am IFGE oder in unserem digitalen Ausbildungsraum kennenzulernen! 
-
-{{< silvia >}}
-
-
-{{< line icon="icon/termin_kursplan.png" >}}
-## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltungen gilt die 2,5 G Regel (Geimpft, Genesen, PCR Test).**  Bitte den Nachweis mitführen - Danke!
-
-<div id="kurstermine">
-<div style="grid-area: wh">
-
-#### Wien
-
-***
-</div>
-<div style="grid-area: w1">
-
-
-
-</div>
-<div style="grid-area: w2">
-
-
-</div>
-
-<div style="grid-area: bh">
-
-#### Burgenland
-***
-
-</div>
-<div style="grid-area: b1">
-
-## Diplom Aufstellungslehrgang SGF®-Methode
-#### Start: 16. Juli 2022
-
-Wochenendsetting 
-
-[ANMELDUNG](/anmeldung.php)
-
-Terminübersicht ist in Bearbeitung.
-
-</div>
-
-<div style="grid-area: nh">
-
-#### Niederösterreich
-***
-
-</div>
-<div style="grid-area: n1">
-
-
-</div>
-
-</div>
 
 {{< line icon="icon/bus.png" >}}
 
@@ -166,33 +123,8 @@ Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anme
 {{% /small %}}
 </div> 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-#### Lernen am IFGE - auch unter Covid
-
-In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an. Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
-
-Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### IFGe Software - Praktkum
-{{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### IFGe Software - Organisation
-{{< youtube hwxiCb0R620 >}}
-
-{{% /small  %}}
-{{% small  %}}
-#### AUSBILDUNGSPHILOSOPHIE AM IFGE
-{{< youtube R0Iyo_175nY >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 
 

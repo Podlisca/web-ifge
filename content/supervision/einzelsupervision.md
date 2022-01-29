@@ -25,7 +25,8 @@ og_image: "/img/einzelsupervision_noe.jpg"
 Alle Berater\*innen stehen im Zuge der Karriere immer wieder vor fachlichen oder persönlichen Herausforderungen, die den Beratungsprozess verlangsamen, die ihn ins Stocken bringen oder im ungünstigsten Fall den Beratungsabbruch durch Klient\*innen zur Folge haben können. Gerade in den ersten Jahren der beratenden Tätigkeit ist eine fachliche Begleitung für den persönlichen Erfolg ratsam. Aus diesem Grund schreibt auch die Wirtschaftskammer zur Eintragung des Gewerbes für Lebens- und Sozialberater\*innen zumindest 100 Stunden an Supervision vor. 
 
 Damit Sie für Ihre Klient\*innen bestmöglich da sein können, ist es empfehlenswert, sich in regelmäßigen Abständen oder bei besonders kniffligen Fällen methodenorientiert supervidieren zu lassen. 
-Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
+Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden. 
+
 {{% /floatbox %}}
 
 {{% box %}}
@@ -59,6 +60,8 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 {{< line icon="icon/kontakt.png" >}}
 
 **Bitte kontaktieren Sie mich für einen Termin unter +43 676 610 89 36**
+
+Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung/preise/)
 
 **Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.wko.at/) anerkannt.
 

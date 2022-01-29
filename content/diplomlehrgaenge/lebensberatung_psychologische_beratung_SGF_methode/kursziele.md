@@ -25,7 +25,7 @@ Wer bin ich? Warum bin ich, wie ich bin? Warum belasten und blockieren mich Zwei
 
 **Dementsprechend vielfältig sind die Fragen, die im Zentrum der Familienaufstellung nach der SGF®-Methode stehen können.** 
 
-Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die eigene Sichtweise als auch die Familie als Ganzes werden systematisch aufgestellt und Schritt für Schritt unter Begleitung verstanden und ergründet. Unsere Geschichte und unsere Herkunft lassen sich nicht ändern, sehr wohl aber unsere Sichtweise und unser Verständnis für familiäre Prozesse und Konflikte. Und genau das ist Ziel der SGF®-Methode. Die Familienaufstellung unterstützt Frieden mit der Vergangenheit zu schließen, traumatische Erinnerungen aufzuarbeiten, das System Familie zu verstehen und so unbelastet und zufrieden die Zukunft zu gestalten. 
+Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die eigene Sichtweise als auch die Familie als Ganzes werden systematisch aufgestellt und Schritt für Schritt unter Begleitung verstanden und ergründet. Unsere Geschichte und unsere Herkunft lassen sich nicht ändern, sehr wohl aber unsere Sichtweise und unser Verständnis für familiäre Prozesse und Konflikte. Und genau das ist Ziel der **SGF®-Methode nach Silvia Podlisca**. Die Familienaufstellung unterstützt Frieden mit der Vergangenheit zu schließen, traumatische Erinnerungen aufzuarbeiten, das System Familie zu verstehen und so unbelastet und zufrieden die Zukunft zu gestalten. 
 
 
 {{% silvia %}}
@@ -43,79 +43,9 @@ Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die 
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/diplomlehrgang.png" >}}
 
-## Alle Informationen über den Lehrgang am IFGE
 
-{{% floatbox %}}
 
-{{< image src="/img/kursziele_2021_3.jpg" title="Die Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in umfasst zwei wesentliche Säulen. Einerseits der Diplomlehrgang mit den gesetzlich vorgeschriebenen Lehrinhalten und das Praktikum für die selbstständige Arbeit in der freien Praxis. Silvia Podlisca nimmt sich viel Zeit, um alle Fragen diesbezüglich zu beantworten. Ebenso gibt Frau Silvia Podlisca einen guten Einblick in das Berufsbild der Lebensberatung- psychologischen Beratung."float="right">}}
-
-Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb/) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemische-einzelberatung/), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/), [Krisenintervention](/diplomlehrgaenge/lebensberatung_psychologische_beratung/spezialisierungen/krisenberatung/) und [Sexualberatung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/spezialisierungen/sexualberatung/), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
-
-{{< image src="/img/entwicklung_noe.jpg" title="In Kleingruppen wird der theoretische Input sofort ausprobiert und geübt. Silvia Podlisca und Ihr Team unterstützen Sie individuell und persönlich."  float="right" >}}
-
-Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
-
-Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
-
-{{% /floatbox %}}
-
-{{< line icon="icon/diplomlehrgang.png" >}}
-
-{{% box blue=1 %}}
-
-## Warum den Lehrgang am IFGE besuchen?
-{{% /box %}}
-{{% box more=1 blue=1 top-align=1 %}}
-{{% card-more title="Berufsbegleitendes Lernen" img="gruppe_noe.jpg" %}}
-Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Variante des Lernens in kleinen Dosen und die stetige Wiederholung innerhalb kürzester Zeit nicht nur jene Variante ist, in der das Festigen des Lehrstoffes besonders mühelos gelingt, es ist auch die idealste Möglichkeit, Berufstätigen und Eltern, welche an Wochenendkursen oft nicht teilnehmen können, den Einstieg in ihren Traumberuf zu ermöglichen. **Kurs- und Ortshopping**: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 5 Gehminuten vom Hauptbahnhof entfernt.
-
-Sie profitieren davon, dass ein Großteil der Kurseinheiten von der Institutsleiterin [Silvia Podlisca](/about/ueber_mich/) mit Enthusiasmus, Weitblick und 20jähriger Berufserfahrung selbst unterrichtet wird. Wie ein roter Faden ziehen sich auch hilfreiche Tipps hinsichtlich eines Praxisaufbaus durch die Ausbildung: die Insititutsleiterin gibt gerne ihr Wissen **bezüglich des Kundenaufbaus** weiter, vermittelt, worauf man bei der **Selbstständigkeit** achten sollte und wie man z.B. auch die Social Media-Kanäle für sich nützen kann.
-{{% /card-more %}}
-
-{{% card-more title="Entwicklung & Unterstützung" img="unterstuetzung.jpg" %}}
-Selbstverständlich legen wir einen besonderen Fokus darauf, Ihnen möglichst viel Fachinput zu geben. Mittels modernsten Präsentationstools wie unserem Smartboard geschieht dies allerdings sehr interaktiv und lebhaft. 
-
-Auch unsere praxisnahen Übungssequenzen lockern den Unterricht immer wieder auf und bieten die Möglichkeit, die erlernte Theorie umgehend anzuwenden und auszuprobieren - es schafft Sicherheit, wenn man das Erlernte bereits in der Ausbildung anwenden kann und nicht erst in späterer Praxis. 
-
-Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemische Beratung, Familienaufstellung, Work-Life-Balance oder Sexualberatung - Themenbereiche, die von anderen Lehrgängen oft nur kurz aufgegriffen werden. 
-
-Über 800 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit.
-
-Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 12 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
-{{% /card-more  %}}
-
-{{% card-more title="Entwicklungspotenzial" img="entwicklung.jpg" %}}
-
-Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene **IFGE-Software** geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick.
- 
-**Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen** bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
-
-Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse sowie Kuchen & Süßes angeboten.
-{{% /card-more  %}}
-{{% /box %}}
-
- {{< line icon="icon/zertifikat.png" >}}
- 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### IFGe Software - Praktkum
-{{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### IFGe Software - Organisation
-{{< youtube hwxiCb0R620 >}}
-
-{{% /small  %}}
-{{% small  %}}
-#### AUSBILDUNGSPHILOSOPHIE AM IFGE
-{{< youtube R0Iyo_175nY >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 
 

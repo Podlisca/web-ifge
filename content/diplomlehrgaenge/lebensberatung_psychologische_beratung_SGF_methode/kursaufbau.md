@@ -93,35 +93,17 @@ rich_faq:
 
 Die Vermittlung der Lehrinhalte erfolgt anhand von Praxisfällen. 100%iges praxisorientiertes Erarbeiten des Lernstoffes anhand von Aufstellungen und Fallbesprechungen. 
 
-240 Ausbildungsstunden auf 2 Semester mit **max. 12 Teilnehmer*innen.**
+240 Ausbildungsstunden auf 2 bis max. 3 Semester mit **max. 12 Teilnehmer*innen.**
+
+***
+## BESTÄTIGUNG
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-#### Lernen am IFGE - auch unter Covid
-
-In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an. Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
-
-Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### IFGe Software - Praktkum
-{{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
 
-{{% /small  %}}
-
-{{% small  %}}
-#### IFGe Software - Organisation
-{{< youtube hwxiCb0R620 >}}
-
-{{% /small  %}}
-{{% small  %}}
-#### AUSBILDUNGSPHILOSOPHIE AM IFGE
-{{< youtube R0Iyo_175nY >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 

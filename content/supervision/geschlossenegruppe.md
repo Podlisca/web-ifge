@@ -177,7 +177,7 @@ Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 
 {{% box more=1 blue=1 %}}
 {{< card-more icon="icon/rahmenbed.png" title="Allgemeine Rahnmenbedingungen" >}}
-Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf. Preis: € 80,- pro Abend (inkl. 20 % Mwst.)
+Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf. Preis: € 80,- pro Abend für die 4stündige Variante / € 90,- pro Abend für die 4,5stündige Variante (inkl. 20 % Mwst.)
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen" >}}

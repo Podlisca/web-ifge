@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsb_SGF
         identifier: lsb_SGFpraktikum
-draft: true
+draft: false
 weight: 5
 ---
 

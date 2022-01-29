@@ -27,22 +27,28 @@ weight: 4
 {{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
-* Mindestalter 24 Jahre
-* Persönliches Aufnahmegespräch oder Infoabend
-* Seelische und geistige Stabilität
 
+* Dipl. Lebens- und Sozialberater\*innen - psychologische Berater\*innen
+* Lebens- und Sozialberater\*innen in Ausbildung am IFGE ab dem 3. Semester, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Aufstellungen erst mit Erhalt des Gewerbescheins. 
+* Interessierte Psychotherapeuten\*innen, Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Vorerfahrung in der systemischen Aufstellungsarbeit
+
+Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Diplom des Institut für ganzheitliches Erleben ab. 
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+
+Mind. 8 TeilnehmerInnen / Max. 12 TeilnehmerInnen
 
 {{< line icon="icon/test_2.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 ## Prüfung
 
-* pro Semester gibt es eine mündliche Zwischenprüfung
-* Diplomarbeit
+* eine mündliche Zwischenprüfung
+* Facharbeit
 * Mündliche Abschlussprüfung & Fachgespräch
 * Keine Prüfungsgebühr, kein Auswahlseminar
 
-Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 80%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Diplomarbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
+Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwesenheitspflicht pro Seminar, die rechtzeitige Abgabe der Facharbeit sowie sowie die komplette Bezahlung der Ausbildung notwendig.
 {{% /small  %}}
 {{% /box %}}
 
@@ -57,7 +63,7 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW zu überweisen.
 
-Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
+Bitte geben Sie als Verwendungszweck SGF Lehrgang + Ihren Namen an.
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Semester- bzw. Lehrgangsbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten und pro besuchten Praktikumstag werden € 50,- verrechnet.
 
@@ -67,12 +73,9 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 W
 ## Allgemeine Geschäftsbedingungen
 
 
-Die Ausbildung ist nur komplett zu buchen und innerhalb von 5 Jahren (10 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von 5 Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Lehrgangsgebühr zu rechnen. Ein kompletter Umstieg in eine andere Gruppe ist nur möglich, wenn nach Ausbildungsstart der gewünschten Gruppe, noch Plätze frei sind. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. 
+Die Ausbildung ist nur komplett zu buchen und innerhalb von 2 Jahren (4 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von 2 Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Lehrgangsgebühr zu rechnen. Ein kompletter Umstieg in eine andere Gruppe ist nur möglich, wenn nach Ausbildungsstart der gewünschten Gruppe, noch Plätze frei sind. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. 
 
-Bei Zahlungsverzug von mehr als 10 Tagen bei Semesterzahlung oder Ratenzahlung wird automatisch der gesamte offene Restbetrag fällig. Der Lehrgang kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
+Bei Zahlungsverzug von mehr als 10 Tagen der gewählten Zahlungsvariante wird automatisch der gesamte offene Restbetrag fällig. Der Lehrgang kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
 
-Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt. Ab Verträge Mai 2020 sind die, für das Praktikum vorgeschriebenen 90 Stunden Gruppensupervision, bereits im Vertrag inkludiert.
-
-Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/praktikum/).
 {{% /small  %}}
 {{% /box %}}

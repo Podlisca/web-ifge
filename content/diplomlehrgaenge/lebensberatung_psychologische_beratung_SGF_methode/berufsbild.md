@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsb_SGF
         identifier: lsb_SGFberufsbild
-draft: true
+draft: false
 weight: 6
 og_image: "/img/lsb_info_noe.jpg"
 rich_faq:

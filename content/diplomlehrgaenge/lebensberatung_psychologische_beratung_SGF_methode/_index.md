@@ -1,10 +1,10 @@
 ﻿---
-title: "Diplom Aufstellungslehrgang SGF-Methode nach Silvia Podlisca"
+title: "Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca"
 menu: 
     main:
         parent: ausb
         identifier: lsb_SGF
-draft: true
+draft: false
 weight: 1
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychologische Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr und am Wochenende von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
 og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
@@ -51,15 +51,15 @@ rich_faq:
 ## Die SGF®-Methode. 
 ## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
 
-Mit mehr als 20 Jahren Erfahrung in den Bereichen psychosoziale Beratung und psychosoziale Ausbildung ist Silvia Podlisca eine Expertin für systemische Familienaufstellung. Auf Basis bewährter und etablierter Ansätze, wie etwa der Aufstellung nach Bert Hellinger, hat sie eine eigene und mittlerweile patentierte Methode entwickelt: Die SGF-Methode. Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca. 
+Mit mehr als 20 Jahren Erfahrung in den Bereichen [psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) und [psychosoziale Ausbildung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) ist [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) eine Expertin für systemische Familienaufstellung. Auf Basis bewährter und etablierter Ansätze, wie etwa der Aufstellung nach Bert Hellinger, hat sie eine eigene und mittlerweile patentierte Methode entwickelt: Die **SGF®-Methode**. **S**ystemisch-**G**anzheitliche-**F**amilienaufstellung nach Silvia Podlisca. 
 
 <br/>
 
 ## Was ist und kann die SGF®-Methode?
 
-In Familien treffen individuelle Bedürfnisse auf kollektive Bedürfnisse. Eigene Ziele treffen auf gemeinschaftliche Ziele. Und moderne Werte treffen auf traditionelle Werte. Kurz: Familien sind komplexe, soziale Systeme, weshalb sie oftmals Quelle von Selbstzweifeln, Konflikten und Krisen sind. Manchmal wissen wir genau, welche familiären Themen uns belasten und blockieren. Manchmal ist uns hingegen gar nicht bewusst, wie stark Ursprung, Herkunft und Familie unsere Bedürfnisse, Sorgen und Ängste im Hier und Jetzt prägen. In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennenzulernen, schmerzhafte Erinnerungen aufzuarbeiten, sich von alten Mustern zu lösen und so Zukunftswege zu ebnen.
+In [Familien](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) treffen individuelle Bedürfnisse auf kollektive Bedürfnisse. Eigene Ziele treffen auf gemeinschaftliche Ziele. Und moderne Werte treffen auf traditionelle Werte. Kurz: Familien sind komplexe, soziale Systeme, weshalb sie oftmals Quelle von Selbstzweifeln, Konflikten und Krisen sind. Manchmal wissen wir genau, welche familiären Themen uns belasten und blockieren. Manchmal ist uns hingegen gar nicht bewusst, wie stark Ursprung, Herkunft und Familie unsere Bedürfnisse, Sorgen und Ängste im Hier und Jetzt prägen. In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennenzulernen, schmerzhafte Erinnerungen aufzuarbeiten, sich von alten Mustern zu lösen und so Zukunftswege zu ebnen.
  
-Im Unterschied zu anderen Zugängen berücksichtigt die SGF®-Methode von Silvia Podlisca nicht nur das kollektive System Familie, sondern auch individuelle Bedürfnisse, Sichtweisen und Erlebnisse. So können Probleme und Prozesse ganzheitlich verstanden und nachhaltige Lösungswege erarbeitet werden. 
+Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silvia Podlisca** nicht nur das kollektive System Familie, sondern auch individuelle Bedürfnisse, Sichtweisen und Erlebnisse. So können Probleme und Prozesse ganzheitlich verstanden und nachhaltige Lösungswege erarbeitet werden. 
 
 {{% /floatbox %}}
 
@@ -80,25 +80,6 @@ Im Unterschied zu anderen Zugängen berücksichtigt die SGF®-Methode von Silvia
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 #### Lernen am IFGE - auch unter Covid
 
-In der aktuellen Krise hat sich einmal mehr bewährt, dass das IFGE von Anfang an auf modernste Technik, digitalen Fortschritt und die Gewährleistung des Datenschutzes im Bereich des E-Learnings sowie der Videoübertragung gesetzt hat. So ist es uns auch in dieser aktuell außergewöhnlichen Covid-19 Situation möglich, den Unterricht weiter zu gewährleisten – und zwar von Anfang an. Unter Einbeziehung ausbildungsrechtlich notwendiger Adaptierungen im Lehrplan können dank der digital vorausblickenden Haltung am IFGE alle bestehenden Ausbildungskurse trotz der Krise pünktlich abschließen. Neue Diplomlehrgänge können dank unserer qualitativen und fortschrittlichen Unterrichtstechnik wie geplant starten.
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter über zusätzliche Sicherheit. 
 
-Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### IFGe Software - Praktkum
-{{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### IFGe Software - Organisation
-{{< youtube hwxiCb0R620 >}}
-
-{{% /small  %}}
-{{% small  %}}
-#### AUSBILDUNGSPHILOSOPHIE AM IFGE
-{{< youtube R0Iyo_175nY >}}
-
-{{% /small  %}}
-{{% /box %}}
