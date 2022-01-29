@@ -62,27 +62,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-
-#### Start: 17. Februar 2023
-
-17.02.23
-24.02.23
-03.03.23
-17.03.23
-31.03.23
-14.04.23
-21.04.23
-28.04.23
-19.05.23
-26.05.23
-02.06.23
-16.06.23
-23.06.23 
-30.06.23
-
-[Termine herunterladen](/downloads/termine_sex_alter_behinderung.pdf)
-
-[Anmeldung](/anmeldung.php)
+#### Termine folgen 
 
 {{% /small  %}}
 {{% small  %}}
@@ -91,7 +71,32 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-#### Termine folgen
+
+#### Start: 11. Februar 2023
+
+Standort: Baden bei Wien
+
+11.02.23
+18.02.23
+11.03.23
+18.03.23
+25.03.23
+15.04.23
+22.04.23
+29.04.23
+06.05.23
+13.05.23
+20.05.23
+03.06.23
+10.06.23
+17.06.23
+24.06.23
+
+
+[Termine herunterladen](/downloads/upgrade_ sexualitaet_und_paarberatung_baden.pdf)
+
+[Anmeldung](/anmeldung.php)
+
 
 
 {{% /small  %}}
