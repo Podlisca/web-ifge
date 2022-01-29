@@ -26,7 +26,7 @@ weight: 3
 {{< line icon="icon/termine.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
 
 {{% box top-align=1 %}}
 {{% small  %}}

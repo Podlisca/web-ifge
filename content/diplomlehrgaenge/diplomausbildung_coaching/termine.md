@@ -25,7 +25,7 @@ weight: 3
 {{< line icon="icon/termin_kursplan.png" >}}
 
 # Termine
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Informationsveranstaltung

@@ -47,4 +47,4 @@ Die Kompetenzen & Methoden, die in dieser Ausbildung vermittelt werden sind viel
 
 #### Lernen am IFGE - auch unter Covid
 
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter über zusätzliche Sicherheit. 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter für zusätzliche Sicherheit. 

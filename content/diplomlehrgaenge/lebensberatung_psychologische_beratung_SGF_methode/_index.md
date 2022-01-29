@@ -80,6 +80,6 @@ Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silv
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 #### Lernen am IFGE - auch unter Covid
 
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter über zusätzliche Sicherheit. 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter für zusätzliche Sicherheit. 
 
 
