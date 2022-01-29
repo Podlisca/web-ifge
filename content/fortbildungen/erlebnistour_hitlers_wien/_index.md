@@ -24,13 +24,14 @@ rich_faq:
 
 {{< image src="/img/ar_on_ tour_1.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
-## ÜBERCHRIFT
+## Erlebnistour durch Wien
 
-TEXT
+Wer [Systeme, Strukturen und Menschen](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/) verstehen möchte, der ist gut beraten, immer wieder neue Wege zu gehen und Orte bewusst oder einmal anders zu erleben. Wissen zu Geschichte, historischen Schauplätzen und Spuren früherer Generationen stärkt nicht nur das Verständnis gegenüber anderen Menschen und der Gesellschaft, sondern auch unser eigenes Selbstbild. 
 
-<br/>
+**Ganz nach dem Motto:** *Wer die Gegenwart verstehen und die Zukunft gestalten möchte, der muss auch in die Vergangenheit zurückblicken.*
 
-*entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
+Im Rahmen der Erlebnistour „Jüdisches Wien“ und „Hitlers Wien“ begeben wir uns auf die [Spuren der Vergangenheit](https://www.ifge.at/fortbildungen/historische_politische_aspekte/), betrachten historische Geschehnisse und Schauplätze aus unterschiedlichen Perspektiven und stärken so unser systemisches Verständnis vom großen Ganzen.  
+
 
 {{% /floatbox %}}
 
