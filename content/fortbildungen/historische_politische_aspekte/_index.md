@@ -5,7 +5,7 @@ menu:
         parent: fortb
         identifier: politik
 draft: false
-weight: 11
+weight: 3
 description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r BeraterIn – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder TrainerIn erweitern? Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
 og_title: "Historische, politische u. gesellschaftliche Aspekte in der Beratung am IFGE Burgenland"
 og_image: "/img/qualitaetsausbildungen.jpg"

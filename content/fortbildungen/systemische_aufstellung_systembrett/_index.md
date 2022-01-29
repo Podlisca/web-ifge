@@ -5,7 +5,7 @@ menu:
         parent: fortb
         identifier: fortb_systembrett
 draft: false
-weight: 4
+weight: 1
 description: "Das Upgrade, das 32 Fortbildungsstunden umfasst, gestaltet sich dabei in höchstem Maße übungsorientiert und setzt demnach grundlegendes Fachwissen rund um systemische Regeln und Bewegungen voraus. Neben der Diplomausbildung am IFGE kann eben jenes notwendige Vorwissen vor allem im Expert*innen zur Aufstellungsarbeit erworben und gefestigt werden."
 aliases: 
     - "/ausbildungsangebote/systemische-aufstellung-am-systembrett-systemdimensionsbrett/"

@@ -25,16 +25,13 @@ weight: 4
 ## Zugangsvoraussetzungen
 
 
-* Dipl. Lebens- und Sozialberater\*in
-* Lebens- und Sozialberater\*in in Ausbildung
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
-* privates Interesse
+* die Erlebnistour ist für alle offen
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
 
 
-Um Ihnen den Platz verbindlich zu reservieren, ist nach Anmeldung der Kursbetrag sofort  auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, ist nach Anmeldung der Kursbetrag sofort auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
 
