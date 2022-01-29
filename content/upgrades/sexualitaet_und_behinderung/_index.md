@@ -8,7 +8,7 @@ draft: false
 weight: 6
 description: "Sexualität, Alter & Behinderung ist eine optimale Weiterbildung für alle, die mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten und an Sicherheit im Umgang mit sexuellen Themen gewinnen möchten. Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern."
 og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
-og_image: "/img/index_sv_ausbildung.jpg"
+og_image: "/img/sex_alter.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Frage?"
@@ -24,7 +24,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/index_sv_ausbildung.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
+{{< image src="/img/sex_alter.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
 
 Alte Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht. 
 
