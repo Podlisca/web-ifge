@@ -9,7 +9,7 @@ weight: 3
 ---
 
 
-# Lsb Upgrade: Sexualität und Behinderung
+# Lsb Upgrade: Sexualität, Alter und Behinderung
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
