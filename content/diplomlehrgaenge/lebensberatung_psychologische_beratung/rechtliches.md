@@ -28,7 +28,6 @@ weight: 4
 {{< line icon="icon/lebenslauf.png" >}}
 ## Zugangsvoraussetzungen
 
-* Mindestalter 24 Jahre
 * Persönliches Aufnahmegespräch oder Infoabend
 * Seelische und geistige Stabilität
 
