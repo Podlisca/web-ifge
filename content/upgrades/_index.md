@@ -59,7 +59,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 ***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/unterricht_bgld.jpg" >}}
+{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
 {{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
 {{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
 
@@ -71,10 +71,10 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 {{% kursbox %}}
 {{< kurs titel="WKO-Zertifiziert: Aufstellungsarbeit" link="/upgrades/aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" >}}
 {{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/upgrades/supervisionsausbildung" image="/img/kraftfeld.jpg" color="light-red" >}}
-{{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
-{{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
-{{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
-{{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
+{{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sv_supervision.jpg" >}}
+{{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
+{{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
+{{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
 {{< kurs titel="Tiergestützte psychologische Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" color="light-red" >}}
 
@@ -87,9 +87,9 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 {{% kursbox %}}
 
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
-{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/fortbildungen/gender_und_diversity" image="/img/kursuebersicht_systembrett.jpg" >}}
+{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
-{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/kursuebersicht_systembrett.jpg" >}}
+{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
 {{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
 
 
