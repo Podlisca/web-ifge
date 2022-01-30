@@ -67,7 +67,6 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 ***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung_modulbuchung/" image="/img/unterricht_bgld.jpg" >}}
 {{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg"color="light-red"  >}}
 
 {{% /kursbox %}}
