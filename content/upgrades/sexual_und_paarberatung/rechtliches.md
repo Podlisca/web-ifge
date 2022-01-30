@@ -59,7 +59,7 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Sexualität, Alter & Behinderung + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck LSB Upgrade Sexualität u. Paarberatung + Ihren Namen an.
 
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.

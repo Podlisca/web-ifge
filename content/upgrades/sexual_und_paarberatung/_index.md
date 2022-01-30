@@ -4,11 +4,10 @@ menu:
     main:
         parent: upgrade
         identifier: sexual_und_paarberatung
-draft: true
+draft: false
 weight: 6
-description: "Sexualität, Alter & Behinderung ist eine optimale Weiterbildung für alle, die mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten und an Sicherheit im Umgang mit sexuellen Themen gewinnen möchten. Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern."
-og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
-og_image: "/img/sex_alter.jpg"
+description: "Sexual- und Paarberatung ist ein Kurs für alle, die beruflich mit Paaren und Sexualität konfrontiert werden. Erarbeitet werden Wissen und Methoden, um Beziehungen und Sexualität aktiv zu stärken."
+og_image: "/img/upgrade_sex_paar1.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Frage?"
@@ -20,19 +19,16 @@ rich_faq:
 {{< slogan >}}
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
-## Bewusstsein schärfen. Bedürfnisse ernstnehmen.
+## Paare unterstützen. Beziehungen stärken.
 
 {{% floatbox %}}
 
-{{< image src="/img/sex_alter.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
+{{< image src="/img/upgrade_sex_paar.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
 
-Alte Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht. 
+**Individuelle Krisen, finanzielle Sorgen und Ängste. Kinder, Arbeitsstress und Alltag.** 
+Die Beziehung von Paaren und damit deren Qualität und Perspektive werden durch viele Faktoren beeinflusst. Nicht immer finden Paare alleine einen Weg aus Konflikten und Krisen. An manchen Lebenspunkten sind Fronten verhärtet, lösungsorientierte Gespräche nicht mehr möglich und damit der gemeinsame Gang in die Zukunft ungewiss. Häufig spielt auch Sexualität eine zentrale Rolle in Paarbeziehungen. Werden sexuelle Bedürfnisse nicht ausgesprochen, nicht ausgelebt oder nicht befriedigt, kann das auf Dauer zu Unzufriedenheit und Konflikten führen.
 
-Aber auch Betreuer\*innen, Pädagog\*innen und Eltern, denen die sexuellen Bedürfnisse von Menschen mit Behinderung bewusst sind, sind häufig unsicher im Umgang und in der Begleitung.
-
-Genau hier setzt die Ausbildung Sexualität, Alter & Behinderung an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen mit Behinderungen ernstgenommen und bewusst aufgegriffen werden können. 
-
-
+Die Ausbildung Sexual- und Paarberatung bereitet Sie auf eine professionelle Arbeit mit Paaren vor. Im Kurs erschließen Sie Wissen und Methoden, um Paare systematisch unterstützen und so Beziehungen stärken zu können.  
  
 {{% /floatbox %}}
 

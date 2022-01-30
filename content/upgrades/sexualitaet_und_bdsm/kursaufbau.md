@@ -24,7 +24,7 @@ weight: 1
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
 
-## AUFBAU DES LEHRGANGS SUPERVISION
+## AUFBAU DES LEHRGANGS Sexualität und BDSM
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 {{% box top-align=1 %}}
@@ -59,7 +59,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 ## Leitung
 
-* Ursula Zingl
+* Sarah Schrödl
 
 
 

@@ -103,6 +103,7 @@ Ich freue mich, Sie am IFGE oder in unserem digitalen Ausbildungsraum kennenzule
 ## Nächste Kurse & Lehrpläne 
 **Für alle Präsenzveranstaltungen gilt die 2,5 G Regel (Geimpft, Genesen, PCR Test).**  Bitte den Nachweis mitführen - Danke!
 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
 <div id="kurstermine">
 <div style="grid-area: wh">
 

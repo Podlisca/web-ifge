@@ -16,13 +16,13 @@ og_image: "/img/sv_supervision.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/sv_supervision.jpg"title="Bildbeschreibung "float="left">}}
+{{< image src="/img/upgrade_sex_paar1.jpg"title="Bildbeschreibung "float="left">}}
 
-Der Kurs umfasst 100 Ausbildungsstunden, in denen Sie unterschiedliche didaktische Formate, wie Vorträge und Workshops, erwarten. 
+Der Kurs Sexual- und Paarberatung umfasst 100 Ausbildungsstunden, in denen Sie unterschiedliche didaktische Settings erwarten. Wissen und Methoden werden sowohl durch Vorträge als auch durch praktische Workshops und Übungen erarbeitet. Dadurch ist eine theoretisch fundierte, aber gleichzeitig praktisch orientierte und abwechslungsreiche Weiterbildung gewährleistet. 
 
-Ziel ist nicht nur das Bewusstsein für die sexuellen Bedürfnisse von Menschen mit Behinderung zu schaffen, sondern auch geeignete Methoden kennenzulernen und so die Sicherheit im Umgang mit dem Thema zu stärken. Ob Lebens- und Sozialberater*innen, Pädagog\*innen, Betreuer\*innen in Einrichtungen, Arbeitgeber\*innen oder Angehörige, die Ausbildung richtet sich an alle, die mit alten Menschen oder mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten oder leben. 
+Die Ausbildung richtet sich an alle, die sich beruflich mit Paaren und Sexualität befassen, wie etwa Lebens- und Sozialberater\*innen.
 
-
+{{< silvia >}}
 
 {{% /floatbox %}}
 

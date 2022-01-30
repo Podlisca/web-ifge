@@ -4,11 +4,10 @@ menu:
     main:
         parent: upgrade
         identifier: sex_bdsm
-draft: true
-weight: 6
-description: "Sexualität, Alter & Behinderung ist eine optimale Weiterbildung für alle, die mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten und an Sicherheit im Umgang mit sexuellen Themen gewinnen möchten. Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern."
-og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
-og_image: "/img/sex_alter.jpg"
+draft: false
+weight: 7
+description: "Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern, wie unser neuer Kurs Sexualität & BDSM."
+og_image: "/img/upgrade_bdsm.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Frage?"
@@ -20,17 +19,18 @@ rich_faq:
 {{< slogan >}}
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
-## Bewusstsein schärfen. Bedürfnisse ernstnehmen.
+## Sexualität verstehen. Verständnis schaffen.
 
 {{% floatbox %}}
 
-{{< image src="/img/sex_alter.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
+{{< image src="/img/upgrade_bdsm.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
 
-Alte Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht. 
+Unsere Gesellschaft stellt sich heutzutage gerne als unvoreingenommen, offen und tolerant dar. Doch in Gesprächen, Gesellschaft und Medien wird schnell klar, dass Tabus, Vorurteile und Ablehnung nach wie vor bestehen. 
 
-Aber auch Betreuer\*innen, Pädagog\*innen und Eltern, denen die sexuellen Bedürfnisse von Menschen mit Behinderung bewusst sind, sind häufig unsicher im Umgang und in der Begleitung.
+Ganz nach dem Motto: *"Das, was ich nicht kenne oder was gesellschaftlich nicht als Norm gilt, finde ich (zumindest nach außen hin) nicht gut."* Ein Bereich, in dem dieses Phänomen häufig auftritt, ist Sexualität. Auch, wenn uns Werbung, Filme oder Zeitungen viel nackte Haut und aufreizende Szenen zeigen, ist und bleibt Sexualität etwas, über das viele nicht offen sprechen können. Zu groß ist die Angst die eigenen Bedürfnisse könnten als pervers oder krank angesehen werden.
 
-Genau hier setzt die Ausbildung Sexualität, Alter & Behinderung an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen mit Behinderungen ernstgenommen und bewusst aufgegriffen werden können. 
+Während romantische Erotik zumindest teilweise toleriert und auch kommuniziert wird, ist **BDSM** (Abkürzung für Bondage & Discipline, Dominance & Submission, Sadism & Masochism) und damit Dominanz, Unterwerfung und Bestrafung im Rahmen der [Sexualität](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) nach wie vor ein Tabu. Aber welche psychologischen Motive stehen hinter diesen sexuellen Verhaltensweisen? Wo und innerhalb welcher Grenzen dürfen und sollen [sexuelle Bedürfnisse](https://www.ifge.at/psychologische-beratung/spezialisierungen/gesundeperversion/) ausgelebt werden? Bei diesen und weiteren relevanten Fragen setzt die Ausbildung Sexualität & BDSM an.
+
 
 
  

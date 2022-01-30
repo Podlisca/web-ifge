@@ -16,13 +16,13 @@ og_image: "/img/sv_supervision.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/sv_supervision.jpg"title="Bildbeschreibung "float="left">}}
+{{< image src="/img/silvia_rot.jpg"title="Bildbeschreibung "float="left">}}
 
-Der Kurs umfasst 100 Ausbildungsstunden, in denen Sie unterschiedliche didaktische Formate, wie Vorträge und Workshops, erwarten. 
+Ziel der Ausbildung ist sexuelle Vielfalt zu verstehen und damit ein besseres Verständnis für unterschiedliche Bedürfnisse zu schaffen. 
 
-Ziel ist nicht nur das Bewusstsein für die sexuellen Bedürfnisse von Menschen mit Behinderung zu schaffen, sondern auch geeignete Methoden kennenzulernen und so die Sicherheit im Umgang mit dem Thema zu stärken. Ob Lebens- und Sozialberater*innen, Pädagog\*innen, Betreuer\*innen in Einrichtungen, Arbeitgeber\*innen oder Angehörige, die Ausbildung richtet sich an alle, die mit alten Menschen oder mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten oder leben. 
+Der Kurs umfasst ein Pensum von 100 Stunden und richtet sich an unterschiedliche Zielgruppen, wie Sexual-, Paar-, Trauma-, Lebens- und Sozialberater\*innen sowie Pädagog\*innen und Einrichtungen, die in ihrer Arbeit mit dem Thema Sexualität konfrontiert werden. 
 
-
+{{< silvia >}}
 
 {{% /floatbox %}}
 
