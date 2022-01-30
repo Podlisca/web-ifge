@@ -2,8 +2,8 @@
 title: "Kursziele"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb_SGFkursziele
+        parent: ausbildung_SGF
+        identifier: lausbildung_SGF_kursziele
 draft: false
 weight: 1
 og_image:  "/img/lsb_info_noe3.jpg"

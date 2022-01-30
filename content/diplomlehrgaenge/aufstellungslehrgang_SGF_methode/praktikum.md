@@ -2,8 +2,8 @@
 title: "Praktikum"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb_SGFpraktikum
+        parent: ausbildung_SGF
+        identifier: ausbildung_SGF_praktikum
 draft: false
 weight: 5
 ---

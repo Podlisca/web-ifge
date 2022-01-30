@@ -2,8 +2,8 @@
 title: "Termine"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb_SGFtermine
+        parent: ausbildung_SGF
+        identifier: ausbildung_SGF_termine
 draft: false
 weight: 3
 ---

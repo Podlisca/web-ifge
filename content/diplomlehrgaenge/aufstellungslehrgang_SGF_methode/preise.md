@@ -2,8 +2,8 @@
 title: "Preise"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb-SGFpreise
+        parent: ausbildung_SGF
+        identifier: ausbildung_SGF_preise
 draft: false
 weight: 2
 ---

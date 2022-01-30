@@ -70,7 +70,9 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 ***
 {{% kursbox %}}
 {{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg"color="light-red"  >}}
+{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/unterricht_bgld.jpg" >}}
+{{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
+{{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
 
 {{% /kursbox %}}
 
@@ -81,6 +83,10 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 {{< kurs titel="WKO-Zertifiziert: Aufstellungsarbeit" link="/upgrades/aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" >}}
 {{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/upgrades/supervisionsausbildung" image="/img/kraftfeld.jpg" color="light-red" >}}
 {{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
+{{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
+{{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sexualberatung_paarberatung_4.jpg" >}}
+{{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/sexualberatung_paarberatung_4.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestützte psychologische Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" color="light-red" >}}
 
 
@@ -91,9 +97,11 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 ***
 {{% kursbox %}}
 
-{{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/fortbildungen/gender_und_diversity" image="/img/kursuebersicht_systembrett.jpg" >}}
+{{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
+{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/kursuebersicht_systembrett.jpg" >}}
 {{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" >}}
 
 
 {{% /kursbox %}}
@@ -102,25 +110,21 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 #### Online Ausbildungen & Trainings
 ***
 {{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg" color="light-red" >}}
-{{< kurs titel="Grundlagen in der Onlineberatung & Onlinecoaching" link="/online-ausbildungsangebote/grundlagen_onlineberatung" image="/img/grundlagen_online.jpg" >}}
-{{< kurs titel="Psychologisches Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching" image="/img/psychologisches _coaching.jpg" color="light-red" >}}
-{{< kurs titel="Große weite Welt - Kinder vor Gefahren (im Netz) schützen" link="/online-ausbildungsangebote/kinder_gefahrenschutz" image="/img/kinder_schuetzen.jpg" >}}
-{{< kurs titel="Fit and safe: Ganz sicher Spaß haben - online und unterwegs" link="/online-ausbildungsangebote/fitandsafe" image="/img/kursziel_fit_safe_maedchen.jpg" color="light-red" >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
+{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
+{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg">}}
 {{% /kursbox %}}
 
 ***
 #### Tiergestützte Ausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
-{{< kurs titel="Tiergestützte psychologische Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" color="light-red" >}} 
-{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" >}}
-{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestützte psychologische Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
+{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
 {{% /kursbox %}}
 
 

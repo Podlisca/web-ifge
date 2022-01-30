@@ -2,8 +2,8 @@
 title: "Kursaufbau"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb_SGFkursaufbau
+        parent: ausbildung_SGF
+        identifier: ausbildung_SGF_kursaufbau
 draft: false
 weight: 1
 rich_faq:

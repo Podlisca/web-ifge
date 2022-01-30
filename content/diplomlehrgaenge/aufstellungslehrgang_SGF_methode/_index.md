@@ -3,7 +3,7 @@ title: "Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca"
 menu: 
     main:
         parent: ausb
-        identifier: lsb_SGF
+        identifier: ausbildung_SGF
 draft: false
 weight: 1
 description: "Die SGF-Methode. Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca. Aufbauend auf bewährten und etablierten Ansätzen, wie jenem nach Bert Hellinger, hat Silvia Podlisca eine eigene Aufstellungssystematik entwickelt. Das Besondere daran ist die Integration individueller sowie kollektiver Bedürfnisse und Prozesse. Indem nicht nur das System Familie als Ganzes, sondern auch das persönliche Wahrnehmen und Empfinden in die Aufstellungsarbeit eingebunden werden, können Klient*innen ganzheitliche und nachhaltige Lösungswege erarbeiten. In der SGF-Methode stecken nicht nur 20 Jahre Aufstellungserfahrung und unzählige Stunden Konzeption sowie Reflexion, sondern insbesondere auch jede Menge Herzblut und Leidenschaft für die Arbeit mit Menschen."

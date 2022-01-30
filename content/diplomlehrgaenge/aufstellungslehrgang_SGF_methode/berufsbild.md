@@ -2,8 +2,8 @@
 title: "Berufsbild"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb_SGFberufsbild
+        parent: ausbildung_SGF
+        identifier: ausbildung_SGF_berufsbild
 draft: false
 weight: 6
 og_image: "/img/lsb_info_noe.jpg"

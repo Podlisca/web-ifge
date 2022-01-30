@@ -2,8 +2,8 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: lsb_SGF
-        identifier: lsb_SGFrechtliches
+        parent: ausbildung_SGF
+        identifier: ausbildung_SGF_rechtliches
 draft: false
 weight: 4
 ---

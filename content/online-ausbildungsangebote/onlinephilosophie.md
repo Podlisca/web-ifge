@@ -69,12 +69,9 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 {{< small >}}
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
-* [Grundlagen in der Onlineberatung & Onlinecoaching](/online-ausbildungsangebote/grundlagen_onlineberatung)
 * [Umgang mit sexueller Belästigung & Stalking](/psychologische-beratung/spezialisierungen/stalking)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming)
-* [Große weite Welt – Kinder vor Gefahren (im Netz) schützen](/online-ausbildungsangebote/kinder_gefahrenschutz)
-* [Fit and safe: Ganz sicher Spaß haben – online und unterwegs](/online-ausbildungsangebote/fitandsafe)
 * [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau)
 * [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau)
 {{< /small >}}
