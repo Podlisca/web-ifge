@@ -25,7 +25,7 @@ rich_faq:
 
 {{< image src="/img/upgrade_sex_paar.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
 
-Im Unterschied zu vergangenen Zeiten sind Liebes- und Lebensbeziehungen heute vielfältiger denn je. Es gibt **monogame und offene Beziehungen. Heterosexuelle und homosexuelle Paare. „Klassische“ Familien und Patchworkfamilien**. 
+Im Unterschied zu vergangenen Zeiten sind Liebes- und Lebensbeziehungen heute vielfältiger denn je. Es gibt monogame und offene Beziehungen. Heterosexuelle und homosexuelle Paare. „Klassische“ Familien und Patchworkfamilien. 
 
 So unterschiedlich die Lebensmodelle von Paaren auch sind, sie haben eines gemeinsam: Beziehung bedeutet manchmal auch Herausforderung und
 nicht immer finden Paare alleine einen Weg aus Konflikten und Krisen. An manchen Lebenspunkten sind Fronten verhärtet, lösungsorientierte Gespräche nicht mehr möglich und damit der gemeinsame Gang in die Zukunft ungewiss. Häufig spielt auch Sexualität eine zentrale Rolle in Paarbeziehungen. Werden sexuelle Bedürfnisse nicht ausgesprochen, nicht ausgelebt oder nicht befriedigt, kann das auf Dauer zu Unzufriedenheit und Konflikten führen.
