@@ -20,9 +20,11 @@ og_image: "/img/sv_supervision.jpg"
 
 Der Kurs umfasst 100 Ausbildungsstunden, in denen Sie unterschiedliche didaktische Formate, wie Vorträge und Workshops, erwarten. 
 
-Ziel ist nicht nur das Bewusstsein für die sexuellen Bedürfnisse von Menschen mit Behinderung zu schaffen, sondern auch geeignete Methoden kennenzulernen und so die Sicherheit im Umgang mit dem Thema zu stärken. Ob Lebens- und Sozialberater*innen, Pädagog\*innen, Betreuer\*innen in Einrichtungen, Arbeitgeber\*innen oder Angehörige, die Ausbildung richtet sich an alle, die mit alten Menschen oder mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten oder leben. 
+Ziel ist nicht nur das Bewusstsein für die sexuellen Bedürfnisse älterer Menschen sowie von Menschen mit Behinderung zu schaffen, sondern auch geeignete Methoden kennenzulernen und so die Sicherheit im Umgang mit dem Thema zu stärken. 
 
+Ob Lebens- und Sozialberater\*innen, Pädagog\*innen, Betreuer*innen in Einrichtungen, Arbeitgeber\*innen oder Angehörige, die Ausbildung richtet sich an alle, die mit älteren Menschen und/oder Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten oder leben. 
 
+{{< silvia >}}
 
 {{% /floatbox %}}
 

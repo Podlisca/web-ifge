@@ -25,10 +25,14 @@ rich_faq:
 
 {{< image src="/img/upgrade_sex_paar.jpg" title="Im Upgrade Sexualität und Behinderung lernen Sie alles nötige um Klient*innen mit Hindernissen in der Auslebung Ihrer Sexualität zu zu betreuen."float="left " >}}
 
-**Individuelle Krisen, finanzielle Sorgen und Ängste. Kinder, Arbeitsstress und Alltag.** 
-Die Beziehung von Paaren und damit deren Qualität und Perspektive werden durch viele Faktoren beeinflusst. Nicht immer finden Paare alleine einen Weg aus Konflikten und Krisen. An manchen Lebenspunkten sind Fronten verhärtet, lösungsorientierte Gespräche nicht mehr möglich und damit der gemeinsame Gang in die Zukunft ungewiss. Häufig spielt auch Sexualität eine zentrale Rolle in Paarbeziehungen. Werden sexuelle Bedürfnisse nicht ausgesprochen, nicht ausgelebt oder nicht befriedigt, kann das auf Dauer zu Unzufriedenheit und Konflikten führen.
+Im Unterschied zu vergangenen Zeiten sind Liebes- und Lebensbeziehungen heute vielfältiger denn je. Es gibt **monogame und offene Beziehungen. Heterosexuelle und homosexuelle Paare. „Klassische“ Familien und Patchworkfamilien**. 
 
-Die Ausbildung Sexual- und Paarberatung bereitet Sie auf eine professionelle Arbeit mit Paaren vor. Im Kurs erschließen Sie Wissen und Methoden, um Paare systematisch unterstützen und so Beziehungen stärken zu können.  
+So unterschiedlich die Lebensmodelle von Paaren auch sind, sie haben eines gemeinsam: Beziehung bedeutet manchmal auch Herausforderung und
+nicht immer finden Paare alleine einen Weg aus Konflikten und Krisen. An manchen Lebenspunkten sind Fronten verhärtet, lösungsorientierte Gespräche nicht mehr möglich und damit der gemeinsame Gang in die Zukunft ungewiss. Häufig spielt auch Sexualität eine zentrale Rolle in Paarbeziehungen. Werden sexuelle Bedürfnisse nicht ausgesprochen, nicht ausgelebt oder nicht befriedigt, kann das auf Dauer zu Unzufriedenheit und Konflikten führen.
+
+Die **Ausbildung Sexual- und Paarberatung** bereitet Sie auf eine professionelle Arbeit mit Paaren vor. Sie **erschließen Wissen zu „traditionellen“** und **„neuen“ Formen des Zusammenlebens** sowie zu Methoden, um Paare systematisch unterstützen und so Beziehungen stärken zu können.  
+
+
  
 {{% /floatbox %}}
 

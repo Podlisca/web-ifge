@@ -20,7 +20,7 @@ og_image: "/img/politik.jpg"
 
 Im Rahmen der Erlebnistour „Hitlers Wien & Jüdisches Wien“ begeben Sie sich auf eine spannende Reise zum jüdischen Erbe, durch unterschiedliche geschichtliche Epochen hin zu mehr Wissen und Bewusstsein. 
 
-Der Schwerpunkt „Hitlers Wien“ greift Fragen auf, die unsere Gesellschaft heute noch prägen. Wie konnte so etwas Grausames wie der Nationalsozialismus passieren? Warum hat niemand etwas unternommen? Diese und weitere Fragen werden auf der Tour an unterschiedlichen Stationen in Wien ergründet. 
+Außerdem greifen wir Fragen auf, die unsere Gesellschaft heute noch prägen. Wie konnte so etwas Grausames wie der Nationalsozialismus passieren? Warum hat niemand etwas unternommen? Diese und weitere Fragen werden auf der Tour an unterschiedlichen Stationen in Wien ergründet. 
 
 Ziel ist (historisches) Wissen zu erschließen und zu stärken und damit die Gegenwart sowie Menschen systemisch noch besser zu begreifen.
 

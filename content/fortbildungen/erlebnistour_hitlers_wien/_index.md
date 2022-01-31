@@ -30,7 +30,7 @@ Wer [Systeme, Strukturen und Menschen](https://www.ifge.at/gruppenselbsterfahrun
 
 **Ganz nach dem Motto:** *Wer die Gegenwart verstehen und die Zukunft gestalten möchte, der muss auch in die Vergangenheit zurückblicken.*
 
-Im Rahmen der Erlebnistour „Jüdisches Wien“ und „Hitlers Wien“ begeben wir uns auf die [Spuren der Vergangenheit](https://www.ifge.at/fortbildungen/historische_politische_aspekte/), betrachten historische Geschehnisse und Schauplätze aus unterschiedlichen Perspektiven und stärken so unser systemisches Verständnis vom großen Ganzen.  
+Im Rahmen der Erlebnistour „Jüdisches Wien“ & „Hitlers Wien“ begeben wir uns auf die [Spuren der Vergangenheit](https://www.ifge.at/fortbildungen/historische_politische_aspekte/), betrachten historische Geschehnisse und Schauplätze aus unterschiedlichen Perspektiven und stärken so unser systemisches Verständnis vom großen Ganzen.  
 
 
 {{% /floatbox %}}
