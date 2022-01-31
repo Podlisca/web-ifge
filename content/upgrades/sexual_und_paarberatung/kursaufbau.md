@@ -60,7 +60,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 ## Leitung
 
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
-
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
 
