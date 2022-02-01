@@ -31,6 +31,7 @@ weight: 1
 * Der Mensch als Einheit von Körper, Geist und Seele
 * Grundlagen der Gesprächsführung
 * der emotionale Beziehungsaufbau als Grundlage in der Arbeit
+* Systemisch, kollektive Grandlagen 
 * Grundlagen über Burn out und Belastungsstörungen
 * Grundwissen über Chakren
 * Grundwissen über die fünf Elemente
@@ -38,6 +39,7 @@ weight: 1
 * Erkennen und Erspüren von Blockaden
 * Wahrnehmungsübungen
 * Praktisches Üben mit den Klangschalen
+* Lösungsbilder im Körper verankern
 * Selbsterfahrung
 * Vertiefung des bereits Gelernten
 * Techniken der Gesprächsführung

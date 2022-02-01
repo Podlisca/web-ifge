@@ -22,6 +22,10 @@ weight: 3
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
 {{% /iconmenu %}}
 
+***
+## Die SGF®-Methode. 
+## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
+
 {{< line icon="icon/termine.png" >}}
 
 #### Termine
