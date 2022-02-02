@@ -75,6 +75,18 @@ rich_faq:
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
+{{< line icon="icon/burn_out.png" >}}
+
+{{% box blue=1 %}}
+{{% small  %}}
+
+#### Achtung: Geänderte Ausbildungsverordnung!
+
+Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gültigen Lehrplan. Danach ändert sich der Ausbildungsumfang erheblich. Derzeit umfasst die Ausbildung 584 Ausbildungsstunden und ggf. 750 Stunden Praktikum. Laut neuer Verordnung **erhöht sich der Umfang auf 4500 Zeitstunden**. Den Entwurf zur Verordnung finden Sie unter folgendem [Link](https://www.ris.bka.gv.at/Dokument.wxe?ResultFunctionToken=8019c6ec-cd8f-4204-81fd-653f98db2cb1&Position=1&SkipToDocumentPage=True&Abfrage=Begut&Titel=&Einbringer=BMDW+(Bundesministerium+f%C3%BCr+Digitalisierung+und+Wirtschaftsstandort)&DatumBegutachtungsfrist=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Dokumentnummer=BEGUT_E68A451A_794A_4D2A_BB8A_35BD489B5B87)
+
+{{% /small  %}}
+{{% /box %}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
