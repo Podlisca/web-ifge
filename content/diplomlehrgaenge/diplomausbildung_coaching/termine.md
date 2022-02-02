@@ -74,7 +74,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 Standort: Baden bei Wien 
 
 **Seminarzeiten:** 
-Wochenendekurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr. 
+Wochenendkurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr. 
 
 02.09.2023
 03.09.2023
@@ -109,7 +109,9 @@ Wochenendekurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr.
  
 **Prüfung: 18.12.2022**<br/>
 
-[Anmeldung](/anmeldung.php)
+[ANMELDUNG](/anmeldung.php)
+
+[Termine herunterladen](/downloads/Diplomlehrgang_Coaching_Baden.pdf)
 
 
 {{% /small  %}}

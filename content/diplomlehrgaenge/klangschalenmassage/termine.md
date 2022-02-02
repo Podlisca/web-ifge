@@ -9,7 +9,7 @@ weight: 3
 ---
 
 
-## Ausbildung: Klangschalenmassage am IFGE 
+# Diplomlehrgang Klangschalenmassage am IFGE 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -59,7 +59,47 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-#### Termine folgen
+#### 6. Jänner 2023
+
+**Seminarzeiten:** Wochenendkurs, Samsta und Sonntag von 09:00 bis 18:00 Uhr. 
+
+06.01.2023
+07.01.2023
+20.01.2023
+21.01.2023
+03.02.2023
+04.02.2023
+17.02.2023
+18.02.2023
+03.03.2023
+04.03.2023
+11.03.2023
+17.03.2023
+25.03.2023
+31.03.2023
+14.04.2023
+15.04.2023
+28.04.2023
+29.04.2023
+12.05.2023
+13.05.2023
+02.06.2023
+03.06.2023
+16.06.2023
+17.06.2023
+30.06.2023
+01.07.2023
+01.09.2023
+01.09.2023
+02.09.2023
+15.09.2023
+16.09.2023
+
+**Prüfung: 16.09.2023**
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine herunterladen](/downloads/Diplomlehrgang_Klangschalenmassage_2023.pdf)
 
 {{% /small  %}}
 {{% /box %}}

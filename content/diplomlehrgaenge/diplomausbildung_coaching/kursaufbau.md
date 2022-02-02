@@ -25,10 +25,9 @@ weight: 1
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
-## AUFBAU DES LEHRGANGS 
-240 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
-
 ### Seminarinhalte
+
+240 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 * Coaching im beruflichen Kontext
 * Themen im Coaching

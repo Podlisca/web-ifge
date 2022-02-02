@@ -9,7 +9,7 @@ weight: 1
 og_image: "/img/klangschale_2021_4.jpg"
 ---
 
-## Ausbildung: Klangschalenmassage am IFGE 
+# Diplomlehrgang Klangschalenmassage am IFGE 
 {{< slogan >}}
 
 {{< line icon="icon/klangschale.png" >}}

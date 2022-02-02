@@ -8,7 +8,7 @@ draft: false
 weight: 1
 ---
 
-## Ausbildung: Klangschalenmassage am IFGE 
+# Diplomlehrgang Klangschalenmassage am IFGE 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -24,6 +24,8 @@ weight: 1
 {{< line icon="icon/klangschale.png" >}}
 
 ## Seminarhinhalte
+
+240 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 * Wissenswertes über Klangschalen (Herkunft, Herstellung etc.)
 * Umgang mit Klangschalen

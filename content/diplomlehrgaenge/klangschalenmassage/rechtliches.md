@@ -8,7 +8,7 @@ draft: false
 weight: 4
 ---
 
-## Ausbildung: Klangschalenmassage am IFGE 
+# Diplomlehrgang Klangschalenmassage am IFGE 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
