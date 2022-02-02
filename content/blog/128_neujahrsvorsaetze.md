@@ -3,7 +3,7 @@ title: "Neujahrsvorsätze – Zum Scheitern verurteilt"
 draft: false
 tags: ["Psychohygiene"]
 weight: 128
-img: "blog_neujahrsvorsaetze.png"
+img: "blog_neujahrsvorsaetze.jpg"
 og_image: "/img/blog_neujahrsvorsaetze.jpg"
 description: "Es ist doch jedes Jahr das Gleiche. Voll motiviert heißt es dann gegen Ende Dezember: „Im neuen Jahr wird alles anders“, „2021 wird das Jahr der Veränderung“ und „Diesmal halte ich meine Vorsätze wirklich ein!“ Die große Ernüchterung folgt dann meist schon im Jänner. Denn die meisten unserer Neujahrsvorsätze sind zum Scheitern verurteilt. Wieso das so ist und was Sie dafür tun können, dass es nicht so bleibt."
 ---
