@@ -98,7 +98,33 @@ buchhaltung@ifge.at
 {{% /small %}}
 {{% /box %}}
 
+{{< line icon="icon/kooperation.png" >}}
+
+## Kooperationspartner
+{{% box %}}
+
+{{% small %}}
+{{< slider content="/img/redezeit/redezeit_logo.png,/img/redezeit/redezeit_1.jpg,/img//redezeit/redezeit_2.jpg,/img//redezeit/redezeit_3.jpg" >}}
+{{% /small %}}
+
+{{% large %}}
+### Weiterer Ausbildungstandort in Baden bei Wien
+
+**Redezeit e.U.**
+
+Pfarrgasse 4 Top 9<br>
+2500 Baden 
+
+[www.redezeit.at](https://www.redezeit.at)
+{{% /large %}}
+
+
+
+{{% /box %}}
+
 {{< line icon="icon/politik.png" >}}
+
+
 
 ### IFGE - PRESSE
 
