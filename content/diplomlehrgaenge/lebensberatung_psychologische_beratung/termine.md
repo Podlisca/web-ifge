@@ -154,7 +154,43 @@ Montags von 14:00 bis 20:00 Uhr
 {{% /box %}}
 </div>
 
+<div style="grid-area: w3">
 
+***
+
+## LSB 23
+#### Start: 15. Februar 2023
+
+Mittwochs von 09:30 bis 13:30 Uhr<br>
+Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
+
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 23 herunterladen](/downloads/LSB_23_termine.pdf)
+
+
+Vormittagskurs: Ideal für Eltern!
+
+</div>
+
+<div style="grid-area: w4">
+
+***
+{{% box blue=1 %}}
+{{% small  %}}
+## LSB 25
+#### Start: 03. September 2024
+
+Dienstags von 14:00 bis 20:00 Uhr
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 25 herunterladen](/downloads/LSB_25_termine.pdf)
+
+{{% /small  %}}
+{{% /box %}}
+</div>
 
 
 <div style="grid-area: bh">
@@ -193,6 +229,32 @@ Montags von 14:00 bis 20:00 Uhr
 {{% /box %}}
 </div>
 
+<div style="grid-area: b3">
+
+***
+
+## LSB 27
+#### Start: 30. August 2024
+
+Freitags von 14:00 bis 20:00 Uhr<br>
+Einmalig: Sa und So von 09:00 bis 18:00 Uhr
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 27 herunterladen](/downloads/LSB_27_termine.pdf)
+
+
+</div>
+
+<div style="grid-area: b4x">
+
+***
+
+
+</div>
+
+
+
 <div style="grid-area: nh">
 
 #### Niederösterreich
@@ -201,7 +263,7 @@ Montags von 14:00 bis 20:00 Uhr
 </div>
 <div style="grid-area: n1">
 
-## LSB 20
+## LSB 20 St. Pölten
 #### Start: 09.September 2022
 
 Freitags von von 14:00 bis 20:00 Uhr
@@ -216,17 +278,55 @@ Freitags von von 14:00 bis 20:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 
-## LSB 23
-#### Start: 2023
+## LSB 24 St. Pölten
+#### Start: 7. September 2023
 
-Kurstag: in Planung
+Donnerstags von 14:00 bis 20:00 Uhr
 
 [ANMELDUNG](/anmeldung.php)
 
-Terminübersicht ist in Bearbeitung. 
+[Termine LSB 24 herunterladen](/downloads/LSB_24_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}
+</div>
+
+<div style="grid-area: n3">
+
+***
+
+## LSB 26 St. Pölten
+#### Start: 8. September 2024
+
+Sonntags von 10:00 bis 16:00 Uhr
+<br>
+<br>
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 26 herunterladen](/downloads/LSB_26_termine.pdf)
+
+
+</div>
+
+<div style="grid-area: n4">
+
+***
+{{% box blue=1 %}}
+{{% small  %}}
+## LSB 28 Baden bei Wien
+#### Start: 07. September 2024
+
+Samstags von 10:00 bis 16:00 Uhr
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 28 herunterladen](/downloads/LSB_28_termine.pdf)
+
+{{% /small  %}}
+{{% /box %}}
+
+
 </div>
 </div>
 
