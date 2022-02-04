@@ -246,7 +246,7 @@ Einmalig: Sa und So von 09:00 bis 18:00 Uhr
 
 </div>
 
-<div style="grid-area: b4x">
+<div style="grid-area: b4">
 
 ***
 
