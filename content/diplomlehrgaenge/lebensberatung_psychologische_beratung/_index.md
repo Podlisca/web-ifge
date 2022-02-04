@@ -45,7 +45,7 @@ rich_faq:
 # Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
-{{< line icon="icon/verordnung_3.png" >}}
+{{< line icon="icon/verordnung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
