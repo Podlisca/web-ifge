@@ -26,7 +26,7 @@ rich_faq:
 {{< slogan >}}
 
 
-{{< line icon="icon/burn_out.png" >}}
+{{< line icon="icon/verordnung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
