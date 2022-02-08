@@ -12,7 +12,7 @@ weight: 2
 {{< slogan >}}
 
 
-{{< line icon="icon/verordnung.png" >}}
+{{< line icon="icon/burn_out.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
