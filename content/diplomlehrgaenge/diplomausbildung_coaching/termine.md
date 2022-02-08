@@ -71,7 +71,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 #### 02. September 2023
 
-Standort: Baden bei Wien 
+Standort: Redezeit/ Baden bei Wien 
 
 **Seminarzeiten:** 
 Wochenendkurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr. 

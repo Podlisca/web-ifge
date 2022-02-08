@@ -74,7 +74,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 #### Start: 11. Februar 2023
 
-Standort: Baden bei Wien
+Standort: Redezeit / Baden bei Wien
 
 11.02.23
 18.02.23
