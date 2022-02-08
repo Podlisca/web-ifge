@@ -61,7 +61,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 
 #### 6. Jänner 2023
 
-**Seminarzeiten:** Wochenendkurs, Samsta und Sonntag von 09:00 bis 18:00 Uhr. 
+**Seminarzeiten:** Wochenendkurs, Freitag und Samstag von 09:00 bis 18:00 Uhr. 
 
 06.01.2023
 07.01.2023
@@ -90,10 +90,8 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 30.06.2023
 01.07.2023
 01.09.2023
-01.09.2023
 02.09.2023
 15.09.2023
-16.09.2023
 
 **Prüfung: 16.09.2023**
 
