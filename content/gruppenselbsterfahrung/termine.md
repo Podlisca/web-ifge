@@ -37,24 +37,25 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-**01.04.2022**  von 14:00 - 20:00 Uhr   
-**08.04.2022**	von 14:00 - 20:00 Uhr   
-**20.04.2022**	von 09:00 - 15:00 Uhr   
-**27.04.2022**	von 09:00 - 15:00 Uhr   
-**29.04.2022**  von 14:00 - 20:00 Uhr   
-**04.05.2022**	von 09:00 - 15:00 Uhr   
-**06.05.2022**	von 14:00 - 20:00 Uhr      
-**03.06.2022**  von 14:00 - 20:00 Uhr   
-**10.06.2022**	von 14:00 - 20:00 Uhr   
-**15.06.2022**	von 09:00 - 15:00 Uhr   
-**22.06.2022**  von 09:00 - 15:00 Uhr   
-**07.09.2022**	von 09:00 - 15:00 Uhr   
-**05.10.2022**	von 09:00 - 15:00 Uhr   
-**02.11.2022**  von 09:00 - 15:00 Uhr   
-**04.11.2022**	von 14:00 - 20:00 Uhr   
-**25.11.2022**	von 14:00 - 20:00 Uhr   
-**09.12.2022**	von 14:00 - 20:00 Uhr   
-**21.12.2022**	von 09:00 - 15:00 Uhr   
+**01.04.2022** 14:00 - 20:00 Uhr (ausgebucht)</br> 
+**08.04.2022** 14:00 - 20:00 Uhr   
+**20.04.2022** 09:00 - 15:00 Uhr   
+**27.04.2022** 09:00 - 15:00 Uhr   
+**29.04.2022** 14:00 - 20:00 Uhr   
+**04.05.2022** 09:00 - 15:00 Uhr   
+**04.05.2022** 09:00 - 15:00 Uhr   
+**06.05.2022** 14:00 - 20:00 Uhr      
+**03.06.2022** 14:00 - 20:00 Uhr   
+**10.06.2022** 14:00 - 20:00 Uhr   
+**15.06.2022** 09:00 - 15:00 Uhr   
+**22.06.2022** 09:00 - 15:00 Uhr   
+**07.09.2022** 09:00 - 15:00 Uhr   
+**05.10.2022** 09:00 - 15:00 Uhr   
+**02.11.2022** 09:00 - 15:00 Uhr   
+**04.11.2022** 14:00 - 20:00 Uhr   
+**25.11.2022** 14:00 - 20:00 Uhr   
+**09.12.2022** 14:00 - 20:00 Uhr   
+**21.12.2022** 09:00 - 15:00 Uhr   
 
 [Anmeldung](/anmeldung.php)
 
@@ -66,12 +67,12 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
 
-**26.04.2022**	von 14:00 - 20:00 Uhr
-**10.05.2022**  von 14:00 - 20:00 Uhr
-**24.05.2022**	von 14:00 - 20:00 Uhr
-**06.09.2022**	von 14:00 - 20:00 Uhr
-**18.10.2022**	von 14:00 - 20:00 Uhr
-**22.11.2022**	von 14:00 - 20:00 Uhr   
+**26.04.2022**	14:00 - 20:00 Uhr</br>
+**10.05.2022**  14:00 - 20:00 Uhr</br>
+**24.05.2022**	14:00 - 20:00 Uhr</br>
+**06.09.2022**	14:00 - 20:00 Uhr</br>
+**18.10.2022**	14:00 - 20:00 Uhr</br>
+**22.11.2022**	14:00 - 20:00 Uhr</br>   
 
 [Anmeldung](/anmeldung.php)
 
@@ -84,20 +85,20 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 **Dreitagesaufstellung: 22.04. - 24.04.2022**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr
+Sa. u.So. von 09:00 - 18:00 Uhr<br>
 
-**01.05.2022** von 10:00 - 16:00 Uhr
-**15.05.2022** von 10:00 - 16:00 Uhr
-**25.09.2022** von 10:00 - 16:00 Uhr
-**02.10.2022** von 10:00 - 16:00 Uhr   
 
+**01.05.2022** 10:00 - 16:00 Uhr</br>
+**15.05.2022** 10:00 - 16:00 Uhr</br>
+**25.09.2022** 10:00 - 16:00 Uhr</br>
+**02.10.2022** 10:00 - 16:00 Uhr</br>
 
 **Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>
 Fr. von 14:00 - 20:00 Uhr, <br/>
 Sa. u.So. von 09:00 - 18:00 Uhr 
 
-**13.11.2022**  von 10:00 - 16:00 Uhr
-**20.11.2022**  von 10:00 - 16:00 Uhr   
+**13.11.2022**  10:00 - 16:00 Uhr</br>
+**20.11.2022**  10:00 - 16:00 Uhr</br>   
 
 [Anmeldung](/anmeldung.php)
 
