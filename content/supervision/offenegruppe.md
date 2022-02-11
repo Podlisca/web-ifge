@@ -63,7 +63,7 @@ Leitung: <br/>
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**02.03.2022**<br/>
+**02.03.2022 - ausgebucht**<br/>
 von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
