@@ -42,9 +42,11 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 #### Wien  
 {{< image src="/img/ifge_wien.jpg">}}
 
-**in Planung**<br/>
-<br/>
+**09.04.2022**<br/>
+von 10:00 bis 14:00 Uhr
 Leitung: <br/> 
+<br/> 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
 
