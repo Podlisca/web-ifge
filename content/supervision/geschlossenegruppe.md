@@ -68,21 +68,22 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 {{< image src="/img/ifge_wien.jpg">}}
 
 #### Start: 05.01.2022 
-Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
+Die Gruppe findet 10 mal jährlich jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2022: - 1 freier Platz** 
+
+**Termine 2023:** 
 
 {{< center >}}
-05.01.2022<br/>
-02.02.2022<br/>
-**23.02.2022 - eine Woche früher**<br/>
-06.04.2022<br/>
-04.05.2022<br/>
-01.06.2022<br/>
-07.09.2022<br/>
-05.10.2022<br/>
-02.11.2022<br/>
-07.12.2022<br/>
+04.01.2023<br/>
+01.02.2023<br/>
+01.03.2023<br/>
+05.04.2023<br/>
+03.05.2023<br/>
+07.06.2023<br/>
+06.09.2023<br/>
+04.10.2023<br/>
+01.11.2023<br/>
+06.12.2023<br/>
 {{< /center >}}
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
@@ -95,21 +96,21 @@ Die Gruppe findet jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr sta
 {{< image src="/img/ifge_wien.jpg">}}
 
 #### Start: 19.01.2022
-Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
+Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2022: ausgebucht**
+**Termine 2023:** 
 
 {{< center >}}
-19.01.2022<br/>
-16.02.2022<br/>
-16.03.2022<br/>
-20.04.2022<br/>
-18.05.2022<br/>
-15.06.2022<br/>
-21.09.2022<br/>
-19.10.2022<br/>
-16.11.2022<br/>
-21.12.2022<br/>
+18.01.2023<br/>
+15.02.2023<br/>
+15.03.2023<br/>
+19.04.2023<br/>
+17.05.2023<br/>
+21.06.2023<br/>
+20.09.2023<br/>
+18.10.2023<br/>
+15.11.2023<br/>
+20.12.2023<br/>
 {{< /center >}}
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
@@ -121,22 +122,22 @@ Die Gruppe findet jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 #### Burgenland
 {{< image src="/img/ifge_pinkafeld.jpg">}}
 
-#### Start: 12.01.2022
-Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
+#### Start: 11.01.2023
+Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt. 
 
-**Termine 2022: 3 freie Plätze**
+**Termine 2023:** 
 
 {{< center >}}
-12.01.2022<br/>
-09.02.2022<br/>
-09.03.2022<br/>
-13.04.2022<br/>
-11.05.2022<br/>
-08.06.2022<br/>
-14.09.2022<br/>
-12.10.2022<br/>
-09.11.2022<br/>
-14.12.2022<br/>
+11.01.2023<br/>
+kein Termin im Febraur<br/>
+08.03.2023<br/>
+12.04.2023<br/>
+10.05.2023<br/>
+14.06.2023<br/>
+13.09.2023<br/>
+11.10.2023<br/>
+08.11.2023<br/>
+13.12.2023<br/>
 {{< /center >}}
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
@@ -148,25 +149,25 @@ Die Gruppe findet jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr st
 {{< image src="/img/raum_noe_weis.jpg">}}
 
 
-#### Start: 26.01.2022
-Die Gruppe findet jeden **vierten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
+#### Start: 22.02.2023
+Die Gruppe findet 9 mal jährlich jeden **vierten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt.<br/>
 
-**Termine 2022: ausgebucht**
+**Termine 2023:**
 
 {{< center >}}
-26.01.2022<br/>
-23.02.2022<br/>
-23.03.2022<br/>
-27.04.2022<br/>
-25.05.2022<br/>
-22.06.2022<br/>
-21.09.2022<br/>
-26.10.2022<br/>
-23.11.2022<br/>
-**22.12.2022 - eine Woche früher**<br/>
+kein Termin im Jänner<br/>
+22.02.2023<br/>
+22.03.2023<br/>
+26.04.2023<br/>
+24.05.2023<br/>
+28.06.2023<br/>
+27.09.2023<br/>
+25.10.2023<br/>
+22.11.2023<br/>
+27.12.2023<br/>
 {{< /center >}}
 
-**Leitung:** [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
 [Anmeldung](/anmeldung.php)
 {{% /small  %}}
