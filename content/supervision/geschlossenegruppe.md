@@ -67,7 +67,7 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 #### Wien - Gruppe 1 
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 05.01.2022 
+#### Start: 0.01.2023 
 Die Gruppe findet 10 mal jährlich jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
 
@@ -95,7 +95,7 @@ Die Gruppe findet 10 mal jährlich jeden **ersten Mittwoch** im Monat von 16:00 
 #### Wien - Gruppe 2
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 19.01.2022
+#### Start: 18.01.2023
 Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
 **Termine 2023:** 
