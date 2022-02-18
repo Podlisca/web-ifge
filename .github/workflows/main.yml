@@ -22,7 +22,6 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.80.0'
-        # extended: true
     
     - name: Build
       run: hugo --baseUrl="https://www.ifge.at"
@@ -32,8 +31,8 @@ jobs:
     - name: Deploy to FTP 
       uses: sebastianpopp/ftp-action@releases/v2
       with:
-        host: ftp://ftp.issp.at
-        user: spodlisca_ftp2
+        host: ftp://host38.ssl-net.net
+        user: fcbp_at_ifge_leichtware
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "public"
         remoteDir: "/"
