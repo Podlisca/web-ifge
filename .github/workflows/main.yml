@@ -29,7 +29,9 @@ jobs:
         TZ: Europe/Vienna 
 
     - name: Zip
-      run: zip out/public.zip ./public -r
+      run: |
+        mkdir out
+        zip out/public.zip ./public -r
 
     - name: Deploy to FTP 
       uses: sebastianpopp/ftp-action@releases/v2
