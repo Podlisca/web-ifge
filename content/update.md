@@ -10,7 +10,7 @@ draft: true
 {{< php >}}
 
     <?php
-    $file = './public.zip';
+    $file = '../public.zip';
 
     // extract to parent folder
     $path = '../';
