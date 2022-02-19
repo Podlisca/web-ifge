@@ -12,8 +12,8 @@ draft: true
     <?php
     $file = './public.zip';
 
-    // extract to current dir
-    $path = '.';
+    // extract to parent folder
+    $path = '../';
 
     $zip = new ZipArchive;
     $res = $zip->open($file);
@@ -22,7 +22,7 @@ draft: true
         $zip->close();
         echo "Update erfolgt";        
     } else {
-        echo "Kein file hinterlegt";
+        echo "Kein Update erfolgt";
     }
 
     exit();
