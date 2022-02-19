@@ -31,7 +31,7 @@ jobs:
     - name: Zip
       run: |
         mkdir out
-        zip out/public.zip ./public -r
+        zip out/public.zip ./public/* -r
 
     - name: Deploy to FTP 
       uses: sebastianpopp/ftp-action@releases/v2
@@ -41,3 +41,6 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "out"
         remoteDir: "/"
+
+    - name: Trigger unzip
+      run: curl https://ifge.at/update.php
