@@ -28,11 +28,14 @@ jobs:
       env:
         TZ: Europe/Vienna 
 
+    - name: Zip
+      run: zip out/public.zip ./public -r
+
     - name: Deploy to FTP 
       uses: sebastianpopp/ftp-action@releases/v2
       with:
         host: ftp://host38.ssl-net.net
         user: fcbp_at_ifge_leichtware
         password: ${{ secrets.FTP_PASSWORD }}
-        localDir: "public"
+        localDir: "out"
         remoteDir: "/"
