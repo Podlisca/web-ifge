@@ -58,6 +58,7 @@ Je nach Covid Situation kann es sein, dass die Infoabende auf **ONLINE** umgeste
 <br/>
 <br/>
 <br/>
+
 von 18:30 bis ca. 20:00 Uhr
 
 
@@ -70,11 +71,12 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-*22.02.2022 **- online**
+* 22.02.2022 **- online**
+* 23.03.2022 **- online**
+* 09.04.2022 **- online**
 <br/>
 <br/>
-<br/>
-<br/>
+
 von 18:30 bis ca. 20:00 Uhr
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
@@ -91,7 +93,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 * 05.05.2022
 * 07.06.2022
 <br/>
-
+<br/>
 
 
 von 18:30 bis ca. 20:00 Uhr

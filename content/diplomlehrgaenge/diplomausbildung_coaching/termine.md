@@ -107,7 +107,7 @@ Wochenendkurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr.
 16.12.2023 
 <br> 
  
-**Prüfung: 18.12.2022**<br/>
+**Prüfung: 17.12.2022**<br/>
 
 [ANMELDUNG](/anmeldung.php)
 
