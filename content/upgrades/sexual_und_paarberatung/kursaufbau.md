@@ -31,14 +31,39 @@ weight: 1
 {{% small %}}
 #### Modul 1
 
-* Lehrplan folgt
+**Einführung in die Paarberatung**
+
+* Grundlagen der Paarberatung
+* Haltung, Setting, 
+* Auftragsklärung
+* Unterschiede Paarberatung/Sexualberatung
+
+**Rolle des Beraters/der Beraterin**
+
+* Triangulation und andere Formen
+* verschiedene Beratungsansätze (Buddeberg/Klement/Imago) im Überblick
+
+**Typische Themen in der Paarberatung**
+
+* Krisen in der Beziehung
+* Lust und Lustverlust
+* Eifersucht und Untreue
+* Trennung
+* Unerfüllter Kinderwunsch
+* Krankheit
 
 {{% /small %}}
 
 {{% small %}}
 #### Modul 2
 
-* Lehrplan folgt
+**Beziehungsformen**
+
+* Gleichgeschlechtliche Beziehungen
+* Moderne Paarformen (offene Beziehung, Polyamorie, …)
+
+
+...im Aufbau
 
 {{% /small %}}
 

@@ -65,12 +65,6 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 #### Termine folgen
 
-17.02.23
-
-
-[Termine herunterladen](/downloads/termine_sex_alter_behinderung.pdf)
-
-[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% small  %}}
@@ -79,8 +73,33 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-#### Termine folgen
+#### Start: 07. September 2023
 
+jeweils donnerstags von 14:00 bis 20:00 Uhr
+
+07.09.2023
+14.09.2023
+21.09.2023
+28.09.2023
+05.10.2023
+12.10.2023
+19.10.2023
+02.11.2023
+09.11.2023
+16.11.2023
+23.11.2023
+30.11.2023
+07.12.2023
+14.12.2023
+21.12.2023
+11.01.2024
+18.01.2024
+
+Prüfung: 25.01.2024
+
+[Termine herunterladen](/downloads/termine_bdsm2023.pdf)
+
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
 {{% /box %}}

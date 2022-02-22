@@ -24,21 +24,47 @@ weight: 1
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
 
-## AUFBAU DES LEHRGANGS Sexualität und BDSM
+## AUFBAU DES LEHRGANGS: Sexualität und BDSM
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 {{% box top-align=1 %}}
 {{% small %}}
 #### Modul 1
 
-* Lehrplan folgt
+**Einführung in die Sexualberatung**
+
+* Grundlagen der Sexualberatung
+* Haltung, Setting 
+* Auftragsklärung (rechtliche Grundlagen/Hinweise)
+* Sprache
+
+**Normale Sexualität vs. Abweichende Sexualität**
+
+* Fetische, Paraphilien, Sexualstörungen 
+* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 11
+* Emotionsentwicklung / Emotionstheorien
+* Lust- und Wertesystem
+* BDSM Basis 
+* Neosexualität
 
 {{% /small %}}
 
 {{% small %}}
 #### Modul 2
 
-* Lehrplan folgt
+**BDSM vs. Täter und Opfer**
+
+* Freud & Abwehrmechanismen
+* Entwicklungsstufen nach Erikson
+* SIBAM Modell nach Ruppert
+
+
+**BDSM**
+
+* BDSM Spielformen (24/7, Daddy/Littlegirl, CNC...)
+* rechtliche Grundlagen
+* BDSM Sprache
+
 
 {{% /small %}}
 
@@ -60,6 +86,8 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 ## Leitung
 
 * Sarah Schrödl
+* Michaela Böhm 
+
 
 
 

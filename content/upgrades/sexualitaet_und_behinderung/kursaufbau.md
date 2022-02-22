@@ -24,7 +24,7 @@ weight: 1
 {{< line icon="icon/supervision_tuerkis.png" >}}
 
 
-## AUFBAU DES LEHRGANGS SUPERVISION
+## AUFBAU DES LEHRGANGS: Sexualität, Alter und Behinderung
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 Die Thementage sind begleitet von interaktiven Methoden, Tools und Gruppenarbeiten sowie praxisbezogene Fallbeispielen, zahlreichen

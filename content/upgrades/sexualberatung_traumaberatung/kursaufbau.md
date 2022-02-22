@@ -23,7 +23,7 @@ weight: 1
 
 ***
 
-#### AUFBAU DES LEHRGANGS SUPERVISION
+#### AUFBAU DES LEHRGANGS: Sexualberatung / Paarberatung
 **100 Ausbildungsstunden mit max. 12 Teilnehmer*innen**
 
 ### Modul 1
