@@ -42,8 +42,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **20.04.2022** 09:00 - 15:00 Uhr   
 **27.04.2022** 09:00 - 15:00 Uhr   
 **29.04.2022** 14:00 - 20:00 Uhr   
-**04.05.2022** 09:00 - 15:00 Uhr   
-**04.05.2022** 09:00 - 15:00 Uhr   
+**04.05.2022** 09:00 - 15:00 Uhr (ausgebucht)</br> 
 **06.05.2022** 14:00 - 20:00 Uhr      
 **03.06.2022** 14:00 - 20:00 Uhr   
 **10.06.2022** 14:00 - 20:00 Uhr   
