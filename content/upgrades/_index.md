@@ -53,7 +53,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 ## Unsere Ausbildungen im Überblick
 
-**Für alle Informationsveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 ***
 #### Diplomausbildungen
 ***

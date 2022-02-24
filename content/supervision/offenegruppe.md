@@ -34,7 +34,7 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 {{< line icon="icon/termine.png" >}}
 
 ## Termine
-**Für alle Präsenzveranstaltungen gilt die 2,5-G-Regel (Getestet oder Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 
 {{% box top-align=1 %}}

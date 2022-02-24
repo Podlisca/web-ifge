@@ -133,7 +133,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freita
 
 Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
 
-**Für alle Aufstellungsseminare gilt für Teilnehmer\*innen die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 {{% /small  %}}
 {{% /box %}}

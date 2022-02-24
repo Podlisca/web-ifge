@@ -12,7 +12,7 @@ weight: 6
 
 {{< line icon="icon/termine.png" >}}
 
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig aunter der Woche statt. **Für alle Teilnehmer\*innen von Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig aunter der Woche statt. **Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 {{< line icon="icon/aufstellung.png" >}}
 {{% box blue=1 %}}

@@ -36,7 +36,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 {{% box top-align=1 %}}
 {{% small  %}}

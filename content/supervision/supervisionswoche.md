@@ -36,7 +36,7 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{% box blue=1 %}}
 {{% small  %}}
 ## Termine
-**Für alle Präsenzveranstaltungen gilt die 2-G-Regel (Genesen oder Geimpft).**  Bitte den Nachweis mitführen - Danke!
+**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 {{% /small  %}}
 {{% /box %}}
 
