@@ -1,14 +1,14 @@
 ---
 title: "Ausbildung Lebens- und Sozialberatung: Relevanz für viele Berufsfelder."
-draft: true
+draft: false
 tags: ["Arbeitswelt", "Bildung", "Pädagogik", "Sozialberuf"]
 weight: 130
 
-img: "blog_angst_weihnachten.jpg"
-og_image: "/img/blog_angst_weihnachten.jpg"
+img: "beratung_2021.jpg"
+og_image: "/img/beratung_2021.jpg"
 description: "Die Ausbildung zur Lebens- und Sozialberatung - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Beraterinnen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…"
 ---
-**Die Ausbildung zur Lebens- und Sozialberatung - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Berater\*innen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…**
+**Die [Ausbildung zur Lebens- und Sozialberatung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Berater\*innen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…**
 <br>
 
 
@@ -18,7 +18,7 @@ Was haben Lehrer\*innen, Ärzt\*innen, Personalmanager\*innen, Betriebsführungs
 
 ### Bildung und Pädagogik: Der Mensch im Mittelpunkt.
 
-Für Lehrer\*innen und Pädagog\*innen stellt eine psychosoziale Ausbildung eine wertvolle Weiterbildung dar. Nicht nur die Ausbildung zu Vertrauenslehrer\*innen, sondern auch andere Kurse wie psychologische Beratung oder Grundlagen des Onlinecoachings können die Arbeit im Bildungsbereich bereichern. Ob in der Volkschule, in der Mittelschule oder in der Erwachsenenbildung, es geht immer um Menschen und Wissensvermittlung und damit auch um Kommunikation, Konflikte, Emotionen und die Förderung von Menschen. Wird das Fach- und Pädagogikwissen durch psychosoziale Methodenkompetenz erweitert, profitieren beide Seiten, Lehrer\*innen und Schüler\*innen. 
+Für Lehrer\*innen und Pädagog\*innen stellt eine psychosoziale Ausbildung eine wertvolle Weiterbildung dar. Nicht nur die [Ausbildung zu Vertrauenslehrer\*innen](https://www.ifge.at/upgrades/vertrauenslehrer/), sondern auch andere Kurse wie psychologische Beratung oder eine [Coachingausbildung](https://www.ifge.at/diplomlehrgaenge/diplomausbildung_coaching/) können die Arbeit im Bildungsbereich bereichern. Ob in der Volkschule, in der Mittelschule oder in der Erwachsenenbildung, es geht immer um Menschen und Wissensvermittlung und damit auch um Kommunikation, Konflikte, Emotionen und die Förderung von Menschen. Wird das Fach- und Pädagogikwissen durch psychosoziale Methodenkompetenz erweitert, profitieren beide Seiten, Lehrer\*innen und Schüler\*innen. 
 
 ### Gesundheit und Medizin: Auch hier geht es um Menschen.
 
@@ -32,9 +32,9 @@ Auch für Unternehmen sind Menschen ein wesentliches Erfolgskriterium. Einerseit
 
 Psychosoziale Themen, wie psychische Gesundheit, Selbstverwirklichung, Sinnstiftung oder soziale Gerechtigkeit, spielen heute eine wesentlich bedeutendere Rolle als früher. Bereits seit längerer Zeit zeichnet sich am Arbeitsmarkt folgende Entwicklung ab: Menschen sind nicht mehr bereit nur für den Job zu leben. Sie streben eine gute Work-Life-Balance an und bevorzugen Arbeitgeber\*innen, die psychosozialen Themen Beachtung schenken. Wer also als Betrieb bestehende Mitarbeiter\*innen halten und fördern sowie neue Mitarbeiter\*innen überzeugen und gewinnen möchte, muss diesem Trend Rechnung tragen. Hier können Aus- und Weiterbildungen ein wichtiger Schritt sein. Nicht nur um neues Wissen zu erschließen, sondern auch um nach außen zu kommunizieren, dass bestimmte Themen ernstgenommen werden. 
 
-### ### Externe Beratung: Ein Gewinn.
+### Externe Beratung: Ein Gewinn.
 
-Nicht jeder kann alles (wissen). Das ist nun einmal so. Hinzu kommt, dass nicht jede\*r psychosoziale Ausbildungen absolvieren kann und/oder möchte, zumal diese auch eine gewisse Eignung voraussetzen und mit zahlreichen Kursstunden, Supervision und viel Arbeit verbunden sind. Wer als Bildungsinstitution, Gesundheitsbetrieb oder Unternehmen psychosoziale Kompetenz nicht intern abdecken kann, kann auf externe Expertise vertrauen und diese bei Bedarf hinzuziehen. Innerhalb psychosozialer Berufe gibt es zahlreiche Schwerpunkte und damit Expert\*innen für unterschiedliche Fragen, wie Teambuilding, Umgang mit sexueller Belästigung oder tiergestützte Beratung.   
+Nicht jeder kann alles (wissen). Das ist nun einmal so. Hinzu kommt, dass nicht jede\*r psychosoziale Ausbildungen absolvieren kann und/oder möchte, zumal diese auch eine gewisse Eignung voraussetzen und mit zahlreichen Kursstunden, Supervision und viel Arbeit verbunden sind. Wer als Bildungsinstitution, Gesundheitsbetrieb oder Unternehmen psychosoziale Kompetenz nicht intern abdecken kann, kann auf externe Expertise vertrauen und diese bei Bedarf hinzuziehen. Innerhalb psychosozialer Berufe gibt es zahlreiche Schwerpunkte und damit Expert\*innen für unterschiedliche Fragen, wie [Teambuilding](https://www.ifge.at/fortbildungen/psychologisches_teambuilding/), [Umgang mit sexueller Belästigung](https://www.ifge.at/online-ausbildungsangebote/sexuelle_belaestigung/) oder [tiergestützte Beratung](https://www.ifge.at/upgrades/tiergestuetzte_psychologische_beratung/).   
 
 ### Unser Fazit: Relevanz für viele Berufsfelder.
 
