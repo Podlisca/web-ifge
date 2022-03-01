@@ -40,6 +40,7 @@ Nicht jeder kann alles (wissen). Das ist nun einmal so. Hinzu kommt, dass nicht 
 
 In diesem Blog haben wir psychosoziale Ausbildungen einmal aus einer anderen Perspektive betrachtet. Nämlich nicht aus Sicht der „klassischen“ Lebens- und Sozialberatung, sondern aus dem Blickwinkel anderer Berufsfelder und Branchen. Unser Fazit: Eine psychosoziale Aus- und Weiterbildung ist für viele Berufsgruppen von Relevanz und letztlich überall dort wertvoll, wo es um Menschen, Kommunikation und Sozialdynamiken geht. Nichtsdestotrotz ist auch wichtig festzuhalten, dass es sich um herausfordernde Ausbildungen handelt, die vollstes Engagement und viel Motivation brauchen. 
 
+
 <br/>
 {{< silvia >}}
 
