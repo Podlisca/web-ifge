@@ -29,6 +29,7 @@ weight: 2
 
 ## Kosten
 
+* Sofort 1x Zahlung: 4.300,- / Zahlung bei Anmeldung <br/>
 
 * Einmalzahlung: 500,- Anzahlung / € 4.000,- Restzahlung ein Monat vor Beginn<br/>
 
