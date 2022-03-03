@@ -43,7 +43,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 ## Zahlungsbedingungen
 
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 450,- Anzahlung auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung € 100,- Anzahlung auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
 Kontonr. 744 434 259
