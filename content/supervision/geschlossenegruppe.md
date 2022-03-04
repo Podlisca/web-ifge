@@ -57,7 +57,7 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 
 {{< line icon="icon/termine.png" >}}
 ## Gruppensupervision - drei unter der Leitung von Silvia Podlisca - Institutsleiterin 
-## Vier neue Gruppen starten Januar 2022
+## Vier neue Gruppen starten Januar 2023
 **Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 ***
