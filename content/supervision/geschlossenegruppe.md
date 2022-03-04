@@ -23,7 +23,7 @@ og_image: "/img/supervisionsgruppe_bgld.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/supervisionsgruppe_bgld.jpg" float="left" title="In der Gruppensupervision nützen Sie die Kraft und Stärke der Gruppe. Sie erhalten unterschiedliche Zugänge und Sichtweisen und können so aus der Fülle die für Sie am passendsten Interventionen wählen. Schon während der Grundausbildung zur Lebensberater\*in -psychologischen Berater\*in dürfen Sie im Rahmen des Praktikums mit Klienten\*innen arbeiten. Diese Fälle müssen verpflichtet unter Supervision gestellt werden." >}} 
+{{< image src="/img/offene_svgruppe.jpg" float="left" title="In der Gruppensupervision nützen Sie die Kraft und Stärke der Gruppe. Sie erhalten unterschiedliche Zugänge und Sichtweisen und können so aus der Fülle die für Sie am passendsten Interventionen wählen. Schon während der Grundausbildung zur Lebensberater\*in -psychologischen Berater\*in dürfen Sie im Rahmen des Praktikums mit Klienten\*innen arbeiten. Diese Fälle müssen verpflichtet unter Supervision gestellt werden." >}} 
 
 Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
 
