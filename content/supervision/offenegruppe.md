@@ -8,7 +8,7 @@ draft: false
 weight: 4
 description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
 og_title: "Offene Gruppensupervision"
-og_image: "/img/offene_sv_gruppe.jpg"
+og_image: "/img/offene_svgruppe.jpg"
 ---
 
 
@@ -21,7 +21,7 @@ og_image: "/img/offene_sv_gruppe.jpg"
 {{% floatbox %}}
 ### DIE VORTEILE DER OFFENEN SUPERVISIONSGRUPPE
 
-{{< image src="/img/offene_sv_gruppe.jpg" float="left" title="Gruppensupervision mit immer wechselnden Teilnehmer\*innen bieten besonders viel Abwechslung und Bewegung im eigenen Beraterprozess. Zudem ermöglicht eine offene Supervisionsgruppe die Teilnahme immer dann, wenn Sie auch eine Fall haben welchen Sie supervidieren lassen möchten. Solange Sie in Ausbildung zur Lebensberater\*in -psychologischen Berater\*in sind ist es auch eine Möglichkeit noch fehlende Stunden für das Praktikum zu absolvieren. " >}} 
+{{< image src="/img/offene_svgruppe.jpg" float="left" title="Gruppensupervision mit immer wechselnden Teilnehmer\*innen bieten besonders viel Abwechslung und Bewegung im eigenen Beraterprozess. Zudem ermöglicht eine offene Supervisionsgruppe die Teilnahme immer dann, wenn Sie auch eine Fall haben welchen Sie supervidieren lassen möchten. Solange Sie in Ausbildung zur Lebensberater\*in -psychologischen Berater\*in sind ist es auch eine Möglichkeit noch fehlende Stunden für das Praktikum zu absolvieren. " >}} 
 
 Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in allen Ausbildungsstadien und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
 
@@ -65,7 +65,7 @@ Leitung: <br/>
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**02.03.2022 - ausgebucht**<br/>
+**13.05.2022**<br/>
 von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
