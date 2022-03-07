@@ -19,7 +19,7 @@ og_image: "/img/aufstellung_noe1.jpg"
 
 {{% box %}}
 {{% small  %}}
-**Intensivwoche 2020: in Wien: 06. - 10.07.2020**
+**Intensivwoche 2020: in Wien: 08. - 12 August 2022 in Wien**
 {{% /small  %}}
 {{% small  %}}
 **geschlossene Gruppe in Wien: in Planung**
@@ -34,19 +34,22 @@ og_image: "/img/aufstellung_noe1.jpg"
 Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet.
 
 Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt (wie nehme ich mich in der Gruppe wahr – wie werde ich wahrgenommen), Potenziale (wie nehme ich mir was ich brauche) und Ressourcen entdeckt sowie das eigene Handeln reflektiert.
-
 Das Ziel ist, Ihre persönlichen Handlungsmöglichkeiten und Ihr Potenzial im Alltag deutlich zu erweitern und zu mehr Lebensfreude und Leichtigkeit zu gelangen.
 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more icon="icon/termin_kursplan.png" title="Intensiv Selbsterfahrungswoche in Wien: 06. - 10 Juli 2020 in Wien">}}
+{{< card-more icon="icon/termin_kursplan.png" title="Intensiv Selbsterfahrungswoche in Wien: 08. - 12 August 2022 in Wien">}}
 
 Mo. - Do. von 09:00 bis 18.00 Uhr 
 Fr. von 09:00 bis 14:00 Uhr
 
 Ein Einstieg in die Gruppenselbsterfahrung während dieser Zeit ist nicht möglich.
 
+
+<br/>
+
+Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{% /card-more %}}
 {{< card-more icon="icon/termin_kursplan.png" title="Geschlossene Selbsterfahrungsgruppe in Wien: in Planung">}}
@@ -57,6 +60,7 @@ Termine: in Planung
  
 Ein Einstieg in die Selbsterfahrungsgruppe während der Zeit ist nicht möglich. 
 
+
 {{< /card-more >}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -65,10 +69,13 @@ Ein Einstieg in die Selbsterfahrungsgruppe während der Zeit ist nicht möglich.
 
 ## Kosten:
 
-* Intensiv Selbsterfahrungswoche: € 590,- 
-* Geschlossene Selbsterfahrungsgruppe: € 59,- pro Abend zahlbar oder Einmalzahlung von € 450,- (Ersparnis € 22,-)
+* Intensiv Selbsterfahrungswoche: € 675,- 
+* Geschlossene Selbsterfahrungsgruppe: € 69,- pro Abend 
 
-Mindestteilnehmer\*innenzahl: 12 / Höchstteilnehmer\*innenzahl: 14
+Mindestteilnehmer\*innenzahl: 8 / Höchstteilnehmer\*innenzahl: 12
+<br/>
+
+Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 {{< line icon="icon/referenten.png" >}}
 {{% box blue=1 %}}
@@ -87,19 +94,17 @@ Mindestteilnehmer\*innenzahl: 12 / Höchstteilnehmer\*innenzahl: 14
 {{% small  %}}
 ## ALLGEMEINE INFO INTENSIV SELBSTERFAHRUNGSWOCHE
 
-Um sich einen fixen Platz zu sichern, sind nach Anmeldung € 100,- Anzahlung zu überweisen; Restzahlung ein Monat vor Beginn.
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Seminargebühren von € 675,- Anzahlung auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben
-
 Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW zu überweisen.
 
-Bitte geben Sie als Verwendungszweck Selbsterfahrungsgruppe 2020 + Ihren Namen an.
+Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
 
-Alle Teilnehmer*innen erhalten eine Bestätigung über 38 Stunden Gruppenselbsterfahrung.
- 
-Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei Abbruch oder Fernbleiben der Gruppe werden keine Kosten rückerstattet oder erlassen.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Seminargebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten und pro besuchten Praktikumstag werden € 50,- verrechnet.
+
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
