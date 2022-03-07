@@ -45,9 +45,11 @@ Preis: € 35,- pro Abend
 
 Selbsterfahrungsgruppe (3h)
 
-Selbsterfahrungswoche: € 675,-
-
 gesamt für alle Termine: € 440,-
+
+Selbsterfahrungswoche (38 h)
+
+Kosten: € 675,-
 
 Einzelsupervision
 
