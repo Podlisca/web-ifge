@@ -103,7 +103,7 @@ BIC: BKAUATWW zu überweisen.
 
 Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Seminargebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten und pro besuchten Praktikumstag werden € 50,- verrechnet.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Seminargebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. 
 
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
