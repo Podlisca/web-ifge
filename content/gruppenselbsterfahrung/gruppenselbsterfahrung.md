@@ -72,7 +72,7 @@ Ein Einstieg in die Selbsterfahrungsgruppe während der Zeit ist nicht möglich.
 * Intensiv Selbsterfahrungswoche: € 675,- 
 * Geschlossene Selbsterfahrungsgruppe: € 69,- pro Abend 
 
-Mindestteilnehmer\*innenzahl: 8 / Höchstteilnehmer\*innenzahl: 12
+Mindestteilnehmer\*innenzahl: 8 / Höchstteilnehmer\*innenzahl: 14
 <br/>
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
