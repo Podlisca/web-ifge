@@ -78,9 +78,9 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 
 **Abendtermine (18:30 bis 20:00 Uhr)**
 
-* 23.03.2022 **- online**
 * 09.04.2022 **- online**
 * 27.07.2022 **- Präsenz**
+<br/>
 <br/>
 
 Hier geht es zur [ANMELDUNG](/anmeldung.php)
