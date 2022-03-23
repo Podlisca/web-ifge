@@ -19,7 +19,7 @@ weight: 3
 
 #### Achtung: Geänderte Ausbildungsverordnung!
 
-Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gültigen Lehrplan. Danach ändert sich der Ausbildungsumfang erheblich. Derzeit umfasst die Ausbildung 584 Ausbildungsstunden und ggf. 750 Stunden Praktikum. Laut neuer Verordnung **erhöht sich der Umfang auf 4500 Zeitstunden**. Den Entwurf zur Verordnung finden Sie unter folgendem [Link](https://www.ris.bka.gv.at/eli/bgbl/II/2022/116)
+Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gültigen Lehrplan. Danach ändert sich der Ausbildungsumfang erheblich. Derzeit umfasst die Ausbildung 584 Ausbildungsstunden und ggf. 750 Stunden Praktikum. Laut neuer Verordnung **erhöht sich der Umfang auf 4500 Zeitstunden**. Den neuen Gesetzestext finden Sie unter folgendem [Link](https://www.ris.bka.gv.at/eli/bgbl/II/2022/116)
 
 {{% /small  %}}
 {{% /box %}}
