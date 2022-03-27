@@ -31,17 +31,19 @@
 
   <link rel="icon" type="image/png" href="/img/favicon.png">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">  
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
   {{- $style := resources.Get "/css/style.css" -}}
   {{- $slider := resources.Get "/css/slider.css" -}}
   {{- $nav := resources.Get "/css/nav.css" -}}
   {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
   <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}"/>
+
+  {{ if hugo.IsProduction }}
+    {{ partial "etracker" . }}
+  {{ end }}
 </head>
 
-<body>  
-  {{ partial "cookieconsent" . }}
+<body>
   {{ block "includes" . }}{{ end }}
   <header>    
     <div class="cont">
