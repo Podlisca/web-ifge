@@ -97,7 +97,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 <div>
 <h4>Online</h4>
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+{{< slider content="/img/grundlagen_online.jpg,/img/philo_upgrades.jpg,/img/philo_upgrades1.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/yes.jpg,/img/raum_weis_1.jpg" >}}
 </div>
 <div>
 <b>Vormittagstermine</b>
