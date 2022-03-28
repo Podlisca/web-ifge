@@ -44,72 +44,77 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 ***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer\*innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
 
-{{% box top-align=1 %}}
-{{% small %}}
-#### Wien
-
+<div id="termine">
+<div>
+<h4>Wien</h4>
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+</div>
 
-**Vormittagstermine (09:30 bis 11:00 Uhr)**
+<div>
+<b>Vormittagstermine</b>
+<div id="wien1"></div>
+</div>
 
-* 04.04.2022 **- online**
-* 10.05.2022 **- online**
+<div>
+<b>Abendtermine</b>
+<div id="wien2"></div>
+</div>
 
-**Abendtermine (18:30 bis 20:00 Uhr)**
+<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
 
-* 27.04.2022 **- Präsenz**
-* 02.06.2022 **- Präsenz**
-* 22.06.2022 **- Präsenz**
-
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-
+<div>
+<h4>Burgenland</h4>
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+</div>
 
-**Vormittagstermine (09:30 bis 11:00 Uhr)**
+<div>
+<b>Vormittagstermine</b> 
+<div id="bgld1"></div>
+</div>
 
-* 09.06.2022 **- Präsenz**
-* 17.05.2022 **- online**
-<br/>
+<div>
+<b>Abendtermine</b>
+<div id="bgld2"></div>
+</div>
 
-**Abendtermine (18:30 bis 20:00 Uhr)**
+<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
 
-* 09.04.2022 **- online**
-* 27.07.2022 **- Präsenz**
-<br/>
-<br/>
-
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Niederösterreich
-
+<div>
+<h4>Niederösterreich</h4>
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+</div>
 
-**Vormittagstermine (09:30 bis 11:00 Uhr)**
+<div>
+<b>Vormittagstermine</b>
+<div id="noe1"></div>
+</div>
+<div>
+<b>Abendtermine</b>
+<div id="noe2"></div>
+</div>
 
-* 22.04.2022 **- Präsenz**
-* 13.06.2022 **- Präsenz**
+<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
 
-**Abendtermine (18:30 bis 20:00 Uhr)**
+<div>
+<h4>Online</h4>
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+</div>
+<div>
+<b>Vormittagstermine</b>
+<div id="online1"></div>
+</div>
 
-* 30.03.2022 **- Online**
-* 05.05.2022 **- Präsenz**
-* 07.06.2022 **- Präsenz**
-<br/>
+<div>
+<b>Abendtermine</b>
+<div id="online2"></div>
+</div>
 
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
+<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
+</div>
 
-{{% /small  %}}
+{{< termine >}}
 
-{{% /box %}}
-
+<br>
 
 
 **Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**

@@ -807,3 +807,18 @@ main .cst-intro a {
 .kursbox .toggler a[data-mode="collapse"] img.icon {
     transform: rotate(-90deg);
 }
+
+#termine {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, auto);
+  grid-auto-flow: column;
+}
+
+@media (max-width: 700px) {
+  #termine {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(16, auto);
+  }
+}
