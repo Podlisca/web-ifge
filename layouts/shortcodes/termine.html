@@ -1,55 +1,60 @@
 <script>
-    function createList(items) {
-        /*  if (items.length == 0) {
-            const msg = document.createElement("span");
-            msg.textContent = "Derzeit keine Termine";
-            return msg;
-        }
-        else {  */
-            const ul = document.createElement("ul");        
-            items.forEach(d => {
-                const li = document.createElement("li");
-                li.textContent = `${new Date(d.datum).toLocaleDateString()}: ${d.startzeit.substring(0,5)}-${d.endzeit.substring(0,5)}`;
-                ul.appendChild(li);
-            });
-            return ul;
-        /*  }  */
+    function toLocaleDateString(date) {
+        const d = new Date(date);
+        return ('0' + d.getDate()).slice(-2) + '.'
+            + ('0' + (d.getMonth() + 1)).slice(-2) + '.'
+            + d.getFullYear();
     }
 
-    /*  const cont = document.getElementById("termine");  */
-    fetch('https://api.ifge.cors.online/api/public/infoveranstaltung/termine')
-        .then(response => response.json())
-        .then(data => {
-            document.getElementById("wien1").appendChild(
-                createList(data.filter(d => d.ort == "WIEN" && d.isVormittag))
-            );
-            document.getElementById("wien2").appendChild(
-                createList(data.filter(d => d.ort == "WIEN" && !d.isVormittag))
-            );
-            document.getElementById("bgld1").appendChild(
-                createList(data.filter(d => d.ort == "PINKAFELD" && d.isVormittag))
-            );
-            document.getElementById("bgld2").appendChild(
-                createList(data.filter(d => d.ort == "PINKAFELD" && !d.isVormittag))
-            );
-            document.getElementById("noe1").appendChild(
-                createList(data.filter(d => d.ort == "ST_POELTEN" && d.isVormittag))
-            );
-            document.getElementById("noe2").appendChild(
-                createList(data.filter(d => d.ort == "ST_POELTEN" && !d.isVormittag))
-            );
-            document.getElementById("online1").appendChild(
-                createList(data.filter(d => d.ort == "ONLINE" && d.isVormittag))
-            );
-            document.getElementById("online2").appendChild(
-                createList(data.filter(d => d.ort == "ONLINE" && !d.isVormittag))
-            );
-        })
-        .catch(error => {
-            document.getElementById("wien1").textContent = "Fehler beim Laden der Termine";
-            document.getElementById("bgld1").textContent = "Fehler beim Laden der Termine";
-            document.getElementById("noe1").textContent = "Fehler beim Laden der Termine";
-            document.getElementById("online1").textContent = "Fehler beim Laden der Termine";
-            console.error(error);
+    function toHHMM(timeStr) {
+        return timeStr.substring(0, 5);
+    }
+
+    function createList(items) {        
+        const ul = document.createElement("ul");
+        items.forEach(d => {
+            const li = document.createElement("li");
+            li.textContent = `${toLocaleDateString(d.datum)}: ${toHHMM(d.startzeit)}-${toHHMM(d.endzeit)} Uhr`;
+            ul.appendChild(li);
         });
+        return ul;
+    }
+
+    (function () {
+        fetch('https://api.ifge.cors.online/api/public/infoveranstaltung/termine')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("wien1").appendChild(
+                    createList(data.filter(d => d.ort == "WIEN" && d.isVormittag))
+                );
+                document.getElementById("wien2").appendChild(
+                    createList(data.filter(d => d.ort == "WIEN" && !d.isVormittag))
+                );
+                document.getElementById("bgld1").appendChild(
+                    createList(data.filter(d => d.ort == "PINKAFELD" && d.isVormittag))
+                );
+                document.getElementById("bgld2").appendChild(
+                    createList(data.filter(d => d.ort == "PINKAFELD" && !d.isVormittag))
+                );
+                document.getElementById("noe1").appendChild(
+                    createList(data.filter(d => d.ort == "ST_POELTEN" && d.isVormittag))
+                );
+                document.getElementById("noe2").appendChild(
+                    createList(data.filter(d => d.ort == "ST_POELTEN" && !d.isVormittag))
+                );
+                document.getElementById("online1").appendChild(
+                    createList(data.filter(d => d.ort == "ONLINE" && d.isVormittag))
+                );
+                document.getElementById("online2").appendChild(
+                    createList(data.filter(d => d.ort == "ONLINE" && !d.isVormittag))
+                );
+            })
+            .catch(error => {
+                document.getElementById("wien1").textContent = "Fehler beim Laden der Termine";
+                document.getElementById("bgld1").textContent = "Fehler beim Laden der Termine";
+                document.getElementById("noe1").textContent = "Fehler beim Laden der Termine";
+                document.getElementById("online1").textContent = "Fehler beim Laden der Termine";
+                console.error(error);
+            });
+    })();
 </script>
