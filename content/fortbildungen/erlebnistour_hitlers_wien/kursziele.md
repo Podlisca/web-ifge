@@ -16,7 +16,7 @@ og_image: "/img/politik.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/ziel_erlebnis.jpg" title="Sozialpolitische Aspekte sind bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett sind ein wesentlicher Teil, um kollektive Traumata aufzulösen. Deshalb gibt es am IFGE ein Seminar welche die wichtigsten Aspekte beleuchtet." float="left">}}
+{{< image src="/img/ziel_erlebnis.jpg" title="Sozialpolitische Aspekte sind bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett sind ein wesentlicher Teil, um kollektive Traumata aufzulösen. Deshalb gibt es am IFGE ein Seminar welche die wichtigsten Aspekte beleuchtet." float="left">}}
 
 Im Rahmen der Erlebnistour „Hitlers Wien & Jüdisches Wien“ begeben Sie sich auf eine spannende Reise zum jüdischen Erbe, durch unterschiedliche geschichtliche Epochen hin zu mehr Wissen und Bewusstsein. 
 

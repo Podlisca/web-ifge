@@ -6,7 +6,7 @@ menu:
         identifier: online_grundlagen
 draft: true
 weight: 2
-description: "Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychosoziales Beratungsangebot in Anspruch zu nehmen. Während Klient*innen aus dem psychologischen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist."
+description: "Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychosoziales Beratungsangebot in Anspruch zu nehmen. Während Klient*innen aus dem psychosozialen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist."
 og_image: "/img/grundlagen_online.jpg"
 rich_kurs: true
 ---
@@ -20,7 +20,7 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/grundlagen_online.jpg" title="Als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin erfolgreich zu sein sind viele Fertigkeiten gefragt. Gerade in Zeiten von Corona ist die Onlineberatung eine wertvolle Bereicherung in der täglichen Praxis. Der emotionale Beziehungsaufbau ist hier genauso wichtig wie im persönlichen Gespräch. Wie dieser auch in der Onlineberatung/im Onlinecoaching gelingen kann und wie Sie bekannte Tools, wie zum Beispiel die Aufstellungsarbeit am Systembrett, auch online gestalten können, lernen Sie hier in dieser Ausbildung." float="left " >}} 
+{{< image src="/img/grundlagen_online.jpg" title="Als Lebensberater\*in -psychosozialen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin erfolgreich zu sein sind viele Fertigkeiten gefragt. Gerade in Zeiten von Corona ist die Onlineberatung eine wertvolle Bereicherung in der täglichen Praxis. Der emotionale Beziehungsaufbau ist hier genauso wichtig wie im persönlichen Gespräch. Wie dieser auch in der Onlineberatung/im Onlinecoaching gelingen kann und wie Sie bekannte Tools, wie zum Beispiel die Aufstellungsarbeit am Systembrett, auch online gestalten können, lernen Sie hier in dieser Ausbildung." float="left " >}} 
 
 Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychosozialen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: 
 

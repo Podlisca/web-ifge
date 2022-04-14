@@ -23,7 +23,7 @@ og_image: "/img/supervisionsgruppe_bgld.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/offene_svgruppe.jpg" float="left" title="In der Gruppensupervision nützen Sie die Kraft und Stärke der Gruppe. Sie erhalten unterschiedliche Zugänge und Sichtweisen und können so aus der Fülle die für Sie am passendsten Interventionen wählen. Schon während der Grundausbildung zur Lebensberater\*in -psychologischen Berater\*in dürfen Sie im Rahmen des Praktikums mit Klienten\*innen arbeiten. Diese Fälle müssen verpflichtet unter Supervision gestellt werden." >}} 
+{{< image src="/img/offene_svgruppe.jpg" float="left" title="In der Gruppensupervision nützen Sie die Kraft und Stärke der Gruppe. Sie erhalten unterschiedliche Zugänge und Sichtweisen und können so aus der Fülle die für Sie am passendsten Interventionen wählen. Schon während der Grundausbildung zur Lebensberater\*in -psychosozialen Berater\*in dürfen Sie im Rahmen des Praktikums mit Klienten\*innen arbeiten. Diese Fälle müssen verpflichtet unter Supervision gestellt werden." >}} 
 
 Wer vor allem die kontinuierliche Weiterentwicklung in einem Prozess schätzt, ist in der geschlossenen Jahresgruppe genauso gut aufgehoben wie diejenigen, die sich einen bunten Mix aus Praxisfällen, spannenden Fachfragen und nachhaltigen Übungssequenzen wünschen.
 
@@ -37,7 +37,7 @@ Gleichzeitig können alle Teilnehmer\*innen ihren eigenen Entwicklungsprozess so
 
 {{% box blue=1 %}}
 {{% large  %}}
-Zusätzlich zu Einzelsupervisionen, in denen auch Ihre {{< green >}}persönlichen {{< /green >}} Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychologischen Berater\*innen in Ausbildung sehr zu empfehlen. Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg\*innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
+Zusätzlich zu Einzelsupervisionen, in denen auch Ihre {{< green >}}persönlichen {{< /green >}} Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychosozialen Berater\*innen in Ausbildung sehr zu empfehlen. Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg\*innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
 {{% /large %}}
 {{% small %}}
 {{< image src="/img/geschlossene_sv_gruppe.jpg" title="Manch intensive Fälle sind es wert, in einer Einzelsupervision beleuchtet zu werden. Zumeist sind es jene Themen die uns selbst betroffen machen und Anteile in uns berührt werden, die selbst noch gesehen und anerkannt werden möchten. Hierfür bietet der besonders vertrauliche Rahmen eine besondere Form der Sicherheit." >}}

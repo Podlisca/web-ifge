@@ -46,7 +46,7 @@ Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **o
 In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo Sie gerade fachlich nicht weiterkommen und dafür Strategien entwickeln, die für Sie und {{< green >}} Ihre {{< /green >}}Klient\*innen hilfreich sind, sondern dass wir in der Supervision vor allem auch auf Ihre persönlichen Themen eingehen können, die in Ihren Beratungseinheiten auftauchen und Sie womöglich am Weiterkommen hindern. Für die fachliche sowie emotionale Begleitung Ihrer Arbeit nehme ich mir in der Einzelsupervision besonders viel Zeit. So erleben Sie in einem freundlichen, fachlich wertschätzenden und gelegentlich auch auflockernden Klima Ihr persönliches Vorankommen, welches nicht nur Ihnen, sondern auch den Anliegen Ihrer Klient*innen sowie dem Erfolg Ihres Unternehmens dient. 
 {{% /large  %}}
 {{% small  %}}
-{{< image src="/img/einzel_sv.jpg" title="Bereits in der Grundausbildung zur Lebensberater\*in -psychologischen Berater\*in dürfen Sie in Ausbildung unter Supervision arbeiten. Die Einzelsupervision bietet den Rahmen um sich intensiv mit Ihren Fällen oder aber auch Fachfragen zur Ausbildung zu widmen.  " >}} 
+{{< image src="/img/einzel_sv.jpg" title="Bereits in der Grundausbildung zur Lebensberater\*in -psychosozialen Berater\*in dürfen Sie in Ausbildung unter Supervision arbeiten. Die Einzelsupervision bietet den Rahmen um sich intensiv mit Ihren Fällen oder aber auch Fachfragen zur Ausbildung zu widmen.  " >}} 
 {{% /small  %}}
 {{% /box %}}
 
@@ -61,7 +61,7 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 
 **Bitte kontaktieren Sie mich für einen Termin unter +43 676 610 89 36**
 
-Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung/preise/)
+Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychosoziale-beratung/preise/)
 
 **Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.wko.at/) anerkannt.
 

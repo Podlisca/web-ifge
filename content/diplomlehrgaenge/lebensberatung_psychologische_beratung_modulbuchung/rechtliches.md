@@ -65,7 +65,7 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis 
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
 
-Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Das IFGE weißt ausdrücklich darauf hin, dass es sich hier um einzelne, zugelassene Module für die Ausbildung zur Dipl. Lebens- uns Sozialberaterin – psychologischen Beraterin / zum Lebens- und Sozialberater – psychologischen Berater handelt, und keine Vollausbildung ist. 
+Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Das IFGE weißt ausdrücklich darauf hin, dass es sich hier um einzelne, zugelassene Module für die Ausbildung zur Dipl. Lebens- uns Sozialberaterin – psychosozialen Beraterin / zum Lebens- und Sozialberater – psychosozialen Berater handelt, und keine Vollausbildung ist. 
 
 Weiterer Hinweis: Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum DiplomlehrgangLehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt. 
 
