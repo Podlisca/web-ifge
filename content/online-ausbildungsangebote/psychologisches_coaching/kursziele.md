@@ -10,7 +10,7 @@ og_image: "/img/onlinecoaching_ziel_noe.jpg"
 ---
 
 # ONLINE Ausbildung: 
-# psychologisches Coaching
+# psychosoziales Coaching
 
 {{< slogan >}}
 

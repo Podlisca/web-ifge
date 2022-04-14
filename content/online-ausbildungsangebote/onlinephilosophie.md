@@ -34,7 +34,7 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 {{% floatbox %}}
 ## Ansprechende Lernatmosphäre & fachliche Qualität – auch online!
 
-{{< image src="/img/philosophie_online1.jpg" title="Herzlichkeit, Ausbildung auf Augenhöhe und top Qualität stehen auch bei allen Onlineausbildungen, Onlineberatungen, Onlinesupervisionen an oberster Stelle. Gerade im Onlinemodus ist er emotionale Beziehungsaufbau enorm wichtig, um einen spannenden Unterricht zu gestalten. In Ihrer freien Praxis ist der emotionale Beziehungsaufbau Gradmesser Ihres Erfolges. Das Ziel ist, dass Sie Ihre positive Lernerfahrung in Ihre Arbeit als diplomierter Lebensberater\*in -psychologischen Berater\*in, Aufstellungsleiter\*in oder Supervisor\*in, Coach übertragen, und so noch ein Stück mehr erfolgreich sind."float="right" >}}
+{{< image src="/img/philosophie_online1.jpg" title="Herzlichkeit, Ausbildung auf Augenhöhe und top Qualität stehen auch bei allen Onlineausbildungen, Onlineberatungen, Onlinesupervisionen an oberster Stelle. Gerade im Onlinemodus ist er emotionale Beziehungsaufbau enorm wichtig, um einen spannenden Unterricht zu gestalten. In Ihrer freien Praxis ist der emotionale Beziehungsaufbau Gradmesser Ihres Erfolges. Das Ziel ist, dass Sie Ihre positive Lernerfahrung in Ihre Arbeit als diplomierter Lebensberater\*in -psychosozialen Berater\*in, Aufstellungsleiter\*in oder Supervisor\*in, Coach übertragen, und so noch ein Stück mehr erfolgreich sind."float="right" >}}
 
 Die Inhalte unserer digitalen Ausbildungen sind in gewohnt hoher fachlicher Qualität bewusst auf das Online-Setting zugeschnitten, wodurch auch in allen online stattfindenden Aus- und Fortbildungen ein Höchstmaß an behaglicher, konzentrationsfördernder und ansprechender Lernatmosphäre geschaffen wird. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln. Wir freuen uns daher besonders über das konstante Feedback der Schüler\*innen, dass der gewohnt persönliche Rahmen genauso wie die lockere Unterrichtsstimmung und die herzliche Professionalität uneingeschränkt auch in unseren Onlineausbildungen gegeben ist. Das individuelle Eingehen auf alle Teilnehmer*innen wird am IFGE auch in den digitalen Ausbildungen groß geschrieben. 
 
@@ -69,7 +69,7 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 {{< small >}}
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
-* [Umgang mit sexueller Belästigung & Stalking](/psychologische-beratung/spezialisierungen/stalking)
+* [Umgang mit sexueller Belästigung & Stalking](/psychosoziale-beratung/spezialisierungen/stalking)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming)
 * [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau)

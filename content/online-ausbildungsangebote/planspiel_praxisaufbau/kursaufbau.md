@@ -39,7 +39,7 @@ Neben vielen anderen Fragen beantworten Sie mit professioneller Unterstützung d
 * Was ist optional?
 * Wie viel Geld müssen und können Sie investieren?
 
-Gemeinsam mit Expert\*innen aus Wirtschaft und psychologischer Beratung sowie Coaching erarbeiten Sie die Überlegungen, die (vor der Gründung) benötigt werden und simulieren anhand dieser Daten Ihr (erstes) Geschäftsjahr.
+Gemeinsam mit Expert\*innen aus Wirtschaft und psychosozialer Beratung sowie Coaching erarbeiten Sie die Überlegungen, die (vor der Gründung) benötigt werden und simulieren anhand dieser Daten Ihr (erstes) Geschäftsjahr.
 
 {{< line icon="icon/test.png" >}}
 

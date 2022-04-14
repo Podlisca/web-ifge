@@ -16,7 +16,7 @@ og_image: "/img/sv_supervision.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/sv_supervision.jpg"title="Das Ziel der Supervisionsausbildung ist, dass Sie als Expertin Kollegin\*innen unterstützend zur Seite stehen können – egal ob im Einzel- oder Gruppensetting. Die Ausbildung ist von der WKO anerkannt und befähigt Sie angehende Lebensberater\*innen - psychologische Berater\*innen zu supervidieren. "float="left">}}
+{{< image src="/img/sv_supervision.jpg"title="Das Ziel der Supervisionsausbildung ist, dass Sie als Expertin Kollegin\*innen unterstützend zur Seite stehen können – egal ob im Einzel- oder Gruppensetting. Die Ausbildung ist von der WKO anerkannt und befähigt Sie angehende Lebensberater\*innen - psychosoziale Berater\*innen zu supervidieren. "float="left">}}
 
 Das Ziel der Zusatzausbildung am IFGE ist, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als Expert*in bei allen beruflichen Herausforderungen beratend zur Seite stehen können. Als SupervisorIn erweitern Sie Ihr berufliches Angebot um eine besonders in der Lebens- und Sozialberatung – psychosozialen Beratung sehr wichtige Komponente. 
 

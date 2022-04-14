@@ -40,13 +40,13 @@ Wenn gewalttätige Erfahrungen von nahestehenden Personen oder Familienmitgliede
 
 {{< image src="/img/ziel_selbsthilfe1.jpg" float="right" title="Es bedarf großen Mut sich mit dem Thema Gewalt auseinander zu setzen. Ich, Silvia Podlisca, bietet am IFGE ganz bewusst einen Rahmen wo Sie sich genau mit diesem Thema auseinandersetzen können.  Völlig frei von einer Wertung oder Bewertung. Ganz im Gegenteil; ich habe größten Respekt und Hochachtung vor Ihrer Geschichte und Ihren Mut.">}}
 
-Als Angehörige von Täter\*innen beschleicht Menschen oft ein Gefühl der Mitschuld oder Verantwortung. Scham, Ungläubigkeit, sowie Ohnmacht und Starre verhindern hier in vielen Fällen, sich in einer Beratung zeitgerecht Hilfe zu holen. Dabei ist die[ psychologische Begleitung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/) gerade für das nahe Umfeld von Täter*innen eine wesentliche Möglichkeit, um mit der Tat des nahe stehenden Menschen umgehen zu lernen. 
+Als Angehörige von Täter\*innen beschleicht Menschen oft ein Gefühl der Mitschuld oder Verantwortung. Scham, Ungläubigkeit, sowie Ohnmacht und Starre verhindern hier in vielen Fällen, sich in einer Beratung zeitgerecht Hilfe zu holen. Dabei ist die[ psychosoziale Begleitung](https://ifge.at/psychosoziale-beratung/systemische-einzelberatung/) gerade für das nahe Umfeld von Täter*innen eine wesentliche Möglichkeit, um mit der Tat des nahe stehenden Menschen umgehen zu lernen. 
 
 Denn auch wenn etwa der Vater zum Straftäter wurde, bleibt er immer noch der eigene Vater. Und dieser Vater darf weiter geliebt werden, auch wenn es dabei wichtig ist, die Verantwortung der Tat zu hundert Prozent beim Vater zu lassen. Dies ist oft ein schwieriger Prozess – egal welche Emotion vordergründig ist. Das Paradoxe daran ist, je mehr man Vater nach einer Straftat verleugnet und ablehnt, umso mehr Leid erzeugt es. Denn die Liebe lässt sich nicht so einfach ausschalten, da im psychischen Erleben des Menschen diese Form von „gestern noch geliebt – heute gehasst“ nicht oder nur auf unpassende Weise funktioniert.
 
-Auch Angehörige von [Opfern](https://ifge.at/psychologische-beratung/spezialisierungen/opferberatung/) fühlen sich häufig schuldig und überfordert. Die Frage, ob man die Tat nicht hätte verhindern können, dreht sich in den Köpfen der betroffenen Personen oft in einer Dauerschleife, außerdem beschleicht sie immer wieder eine extreme – oftmals durchaus verständliche – Wut auf die Täter\*innen. Manchmal erleben Angehörige die gleiche Ohnmacht und Hilflosigkeit wie das Opfer selbst. Werden diese Gefühle nicht verarbeitet, können sie chronisch werden und zukünftige Lösungen für das eigene Erleben verhindern sowie zu körperlichen Symptomen führen. Besonders hilf- und machtlos fühlen sich betroffene Eltern und auch Geschwister – die sich in solchen Fällen oft völlig vergessen fühlen, da die gesamte Aufmerksamkeit dem zum Opfer gewordenen Geschwisterkind gilt. Ebenso belastend kann die Hilflosigkeit für die eigenen Kinder oder Freunde werden, vor allem dann, wenn das Opfer selbst keine weiteren Schritte setzen möchte.
+Auch Angehörige von [Opfern](https://ifge.at/psychosoziale-beratung/spezialisierungen/opferberatung/) fühlen sich häufig schuldig und überfordert. Die Frage, ob man die Tat nicht hätte verhindern können, dreht sich in den Köpfen der betroffenen Personen oft in einer Dauerschleife, außerdem beschleicht sie immer wieder eine extreme – oftmals durchaus verständliche – Wut auf die Täter\*innen. Manchmal erleben Angehörige die gleiche Ohnmacht und Hilflosigkeit wie das Opfer selbst. Werden diese Gefühle nicht verarbeitet, können sie chronisch werden und zukünftige Lösungen für das eigene Erleben verhindern sowie zu körperlichen Symptomen führen. Besonders hilf- und machtlos fühlen sich betroffene Eltern und auch Geschwister – die sich in solchen Fällen oft völlig vergessen fühlen, da die gesamte Aufmerksamkeit dem zum Opfer gewordenen Geschwisterkind gilt. Ebenso belastend kann die Hilflosigkeit für die eigenen Kinder oder Freunde werden, vor allem dann, wenn das Opfer selbst keine weiteren Schritte setzen möchte.
 
-{{< image src="/img/ziel_selbsthilfe2.jpg" float="left" title="Nach und nach kehrt Zuversicht zurück und JA, Ihr Leben wird anders sein als davor, vielleicht ist nichts mehr so wie es vor der Tat war, aber Sie werden wieder neuen Lebensmut finden. Ich, Silvia Podlisca, psychologische Beraterin, Aufstellungsleiterin, Supervisorin und Sexualberaterin begleite Sie gerne auf diesen Weg." >}}
+{{< image src="/img/ziel_selbsthilfe2.jpg" float="left" title="Nach und nach kehrt Zuversicht zurück und JA, Ihr Leben wird anders sein als davor, vielleicht ist nichts mehr so wie es vor der Tat war, aber Sie werden wieder neuen Lebensmut finden. Ich, Silvia Podlisca, psychosoziale Beraterin, Aufstellungsleiterin, Supervisorin und Sexualberaterin begleite Sie gerne auf diesen Weg." >}}
 
 Angehörige von Opfern belasten sich zusätzlich auch mit inneren Vorwürfe, da es ihnen häufig nicht möglich ist, in der aktuellen Situation Mitgefühl zu zeigen. Dies wird dadurch nachvollziehbar, dass die Angehörigen selbst mit dieser Situation derart überfordert sind, dass „harte Reaktionen“ als die einzigen Handlungsmöglichkeiten erlebt werden. Sätze wie
 „Stell dich nicht so an!“, „So schlimm ist das doch gar nicht!“ oder „Warum hast du kein Taxi genommen?“ sind dann die Ergebnisse dieser Überforderung. Das Gefühl, auf seine eigenen Emotionen kein Recht zu haben, da man die Tat ja weder selbst begangen noch erlebt hat, sorgt bei Angehörigen oft für Scham, welche leider häufig verhindert, dass sie sich an Beratungsstellen werden. Männer leiden zudem immer wieder darunter, die Tat nicht verhindert und das Opfer nicht beschützt zu haben.
@@ -61,17 +61,17 @@ Es ist wichtig, zu verstehen, dass eine einzige Tat nicht nur das Leben von Tät
 {{< line icon="/icon/beratung.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
+## [Einzelselbsterfahrung mit Silvia Podlisca](/psychosoziale-beratung/einzelberatung/)
 {{% /small %}}
 {{% /box %}}
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/burnout2_bgld.jpg" float="right" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
+{{< image src="/img/burnout2_bgld.jpg" float="right" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychosozialen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
+Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychosoziale-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychosoziale-beratung/systemische-einzelberatung/).
 {{% /small %}}
 {{% /box %}}
 {{% /floatbox %}}
@@ -83,43 +83,43 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
-* [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
-* [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
-* [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
-* [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
+* [Krisenberatung](/psychosoziale-beratung/spezialisierungen/krisenberatung/)
+* [Suchtberatung](/psychosoziale-beratung/spezialisierungen/suchtberatung/)
+* [Burn-out Beratung](/psychosoziale-beratung/spezialisierungen/burnout/)
+* [Trauerbewältigung](/psychosoziale-beratung/spezialisierungen/trauerbewaeltigung/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Sexualberatung
-{{< image src="/img/einzelberatung_weis_noe.jpg" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Sexualberatung" >}}
+{{< image src="/img/einzelberatung_weis_noe.jpg" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Sexualberatung" >}}
 
-* [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/)
-* [Sexualität und Alter](/psychologische-beratung/spezialisierungen/sexualitaetalter/)
-* [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
-* [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
-* [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+* [Sexualberatung](/psychosoziale-beratung/spezialisierungen/sexualberatung/)
+* [Sexualität und Alter](/psychosoziale-beratung/spezialisierungen/sexualitaetalter/)
+* [Sexualberatung für Paare](/psychosoziale-beratung/spezialisierungen/sexualitaetpaare/)
+* [Gleichgeschlechtliche Liebe](/psychosoziale-beratung/spezialisierungen/gleichgeschlechtlich/)
+* [Gesunde Perversion](/psychosoziale-beratung/spezialisierungen/gesundeperversion/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
-* [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
-* [Stalking](/psychologische-beratung/spezialisierungen/stalking/)
-* [Opferberatung](/psychologische-beratung/spezialisierungen/opferberatung/)
-* [Männliche Opfer](/psychologische-beratung/spezialisierungen/maennlicheopfer/)
-* [Häusliche Gewalt](/psychologische-beratung/spezialisierungen/haeuslichegewalt/)
+* [Täterberatung](/psychosoziale-beratung/spezialisierungen/taeterberatung/)
+* [Stalking](/psychosoziale-beratung/spezialisierungen/stalking/)
+* [Opferberatung](/psychosoziale-beratung/spezialisierungen/opferberatung/)
+* [Männliche Opfer](/psychosoziale-beratung/spezialisierungen/maennlicheopfer/)
+* [Häusliche Gewalt](/psychosoziale-beratung/spezialisierungen/haeuslichegewalt/)
 {{% /small  %}}
 
 {{% small  %}}
 #### Beratung Angehörige
-{{< image src="/img/beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Angehörige" >}}
+{{< image src="/img/beratung_angehoerige_noe.jpg" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." title="Berufsbild Angehörige" >}}
 
-* [Angehörige von Opfern oder TäterIn](/psychologische-beratung/spezialisierungen/angehoerigetaeteropfer/)
-* [Angehörige von Kranken](/psychologische-beratung/spezialisierungen/angehoerigekranken/)
-* [Angehörige von Süchtigen](/psychologische-beratung/spezialisierungen/angehoerigesucht/)
-* [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
+* [Angehörige von Opfern oder TäterIn](/psychosoziale-beratung/spezialisierungen/angehoerigetaeteropfer/)
+* [Angehörige von Kranken](/psychosoziale-beratung/spezialisierungen/angehoerigekranken/)
+* [Angehörige von Süchtigen](/psychosoziale-beratung/spezialisierungen/angehoerigesucht/)
+* [Suizid in der Familie](/psychosoziale-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
