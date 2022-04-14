@@ -31,7 +31,7 @@ Aufgrund der digitalen Unterrichtserfahrung sowie dank der datenschutzrechtliche
 
 ### 5 Schwächen der digitalen Videoberatung
 
-Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut liefen, so ist für mich aus diversen Gründen der persönliche Prozess einem Videogespräch – wenn möglich – immer vorzuziehen. Selbst bei den oben genannten besonderen Ausnahmesituationen, wie etwa einem gebrochenen Bein, sollte meiner Ansicht nach spätestens nach drei bis fünf Stunden in den [persönlichen Beratungsprozess](https://www.ifge.at/psychosoziale-beratung/einzelberatung/) gewechselt werden. Die Gründe dafür sind die folgenden fünf Schwächen der Onlineberatung via Video. 
+Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut liefen, so ist für mich aus diversen Gründen der persönliche Prozess einem Videogespräch – wenn möglich – immer vorzuziehen. Selbst bei den oben genannten besonderen Ausnahmesituationen, wie etwa einem gebrochenen Bein, sollte meiner Ansicht nach spätestens nach drei bis fünf Stunden in den [persönlichen Beratungsprozess](https://www.ifge.at/psychologische-beratung/einzelberatung/) gewechselt werden. Die Gründe dafür sind die folgenden fünf Schwächen der Onlineberatung via Video. 
 
 1.	Auch wenn Sie als Berater\*in die modernste und beste Technik sowie die schnellste, sicherste und stabilste Internetverbindung zur Verfügung stellen, so hängt es doch auch von den digitalen Gegebenheiten Ihrer Klient\*innen ab, in welcher technischen Qualität die Beratung ankommt. Bildausfälle und Internetunterbrechungen können sich sehr ungünstig auswirken.
 
@@ -49,7 +49,7 @@ Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut lie
 **Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
 * [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [psychosoziale Beratung: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychosoziale_beratung/)
+* [psychosoziale Beratung: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
 
 <br/>

@@ -13,7 +13,7 @@ og_image: "/img/system_zettel_bgld.jpg"
 **von Sonja Vorderdörfler** 
 <br/>
 
-Das IFGE wächst und wächst: An mittlerweile drei Standorten finden parallel bis zu sieben wöchentliche Lehrgänge für die Diplomausbildung zur [Lebens- und Sozialberatung – psychosoziale Beratung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/) – statt. Aber wie kommt es, dass sich das Institut für ganzheitliches Erleben in den vergangenen Jahren so stark vergrößert hat? So viel sei verraten: Es gibt darauf mehr als nur eine Antwort.
+Das IFGE wächst und wächst: An mittlerweile drei Standorten finden parallel bis zu sieben wöchentliche Lehrgänge für die Diplomausbildung zur [Lebens- und Sozialberatung – psychosoziale Beratung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) – statt. Aber wie kommt es, dass sich das Institut für ganzheitliches Erleben in den vergangenen Jahren so stark vergrößert hat? So viel sei verraten: Es gibt darauf mehr als nur eine Antwort.
 
 
 ### Sie haben mit Ihrem Team derzeit alle unterrichtenden Hände voll zu tun. Wie erklären Sie Ihren Erfolg? 
@@ -27,7 +27,7 @@ Das IFGE wächst und wächst: An mittlerweile drei Standorten finden parallel bi
 
 ### Wie viel Praxis ist im Ausbildungsbereich der Lebens- und Sozialberatung „viel Praxis“?
 
-**Silvia Podlisca:** „Ich würde sagen, mehr Praxis geht nicht. *(lacht)* Das Besondere am IFGE ist, dass wir nicht nur qualitativ hochwertige Theorie vermitteln, sondern dass es mein Herzensanliegen ist, das LSB-Diplom an angehende Kolleg*\*innen zu überreichen, die in realitätsnahen Sequenzen üben konnten. Man muss sich vorstellen, dass unsere Schüler\*innen bis zu 50 Beratungssequenzen im Laufe der Ausbildung üben! Hier zeigt sich auch einer der vielen Vorteile des bei uns einzigartigen wöchentlichen Modus: Im Gegensatz zur Wochenend-Block-Variante vergeht im Wochentakt nicht so viel Zeit zwischen den inhaltlichen Modulen. So fließen im Wochenkurs spätestens ab dem vierten oder fünften Semester unterschiedliche Module wie [Krise](https://www.ifge.at/psychosoziale-beratung/spezialisierungen/krisenberatung/), [System](https://www.ifge.at/psychosoziale-beratung/systemische-einzelberatung/) oder [Sexualberatung](https://www.ifge.at/psychosoziale-beratung/spezialisierungen/sexualberatung/) methodenübergreifend in den Übungsgesprächen ineinander. Außerdem können so nicht nur Erstgespräche, sondern auch zeitlich realitätsnah die wichtigen Folgegespräche geübt werden. Denn in der Realität kommen ja Klient\*innen nicht nur einmal mit einem Thema in die Praxis. Es sollte in einer Ausbildung daher auch möglich sein, den entstehenden Prozess zu üben, wenn Klient\*innen – wie in der freien Praxis – wöchentlich oder 14-tägig zur Beratung kommen.“
+**Silvia Podlisca:** „Ich würde sagen, mehr Praxis geht nicht. *(lacht)* Das Besondere am IFGE ist, dass wir nicht nur qualitativ hochwertige Theorie vermitteln, sondern dass es mein Herzensanliegen ist, das LSB-Diplom an angehende Kolleg*\*innen zu überreichen, die in realitätsnahen Sequenzen üben konnten. Man muss sich vorstellen, dass unsere Schüler\*innen bis zu 50 Beratungssequenzen im Laufe der Ausbildung üben! Hier zeigt sich auch einer der vielen Vorteile des bei uns einzigartigen wöchentlichen Modus: Im Gegensatz zur Wochenend-Block-Variante vergeht im Wochentakt nicht so viel Zeit zwischen den inhaltlichen Modulen. So fließen im Wochenkurs spätestens ab dem vierten oder fünften Semester unterschiedliche Module wie [Krise](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/), [System](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) oder [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) methodenübergreifend in den Übungsgesprächen ineinander. Außerdem können so nicht nur Erstgespräche, sondern auch zeitlich realitätsnah die wichtigen Folgegespräche geübt werden. Denn in der Realität kommen ja Klient\*innen nicht nur einmal mit einem Thema in die Praxis. Es sollte in einer Ausbildung daher auch möglich sein, den entstehenden Prozess zu üben, wenn Klient\*innen – wie in der freien Praxis – wöchentlich oder 14-tägig zur Beratung kommen.“
 
 
 ### Oft scheint es ja genau die Praxis zu sein, die für angehende Berater*innen ein Schreckgespenst darstellt. 
@@ -59,7 +59,7 @@ Am IFGE wird die digitale Weitsicht also jetzt auch noch in einer weiteren Form 
 
 * [DER TRAUM VON DER EIGENEN PRAXIS – VOM SINN UND UNSINN DER SELBSTSTÄNDIGKEIT](https://www.ifge.at/blog/sinn-und-unsinn-der-gr%C3%BCndung/)
 * [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [psychosoziale Beratung: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychosoziale_beratung/)
+* [psychosoziale Beratung: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [LEBENSLANGES LERNEN – HEUTE IST FRÜH GENUG](https://www.ifge.at/blog/lebenslanges_lernen/)
 * [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
 * [HERBST: GESUND UND ZUFRIEDEN DURCH DIE "GRAUE" JAHRESZEIT](https://www.ifge.at/blog/122_herbst_gesund_und_zufrieden/)

@@ -12,7 +12,7 @@ og_image: "/img/sgf_intro.jpg"
 rich_kurs: true
 
 rich_faq:
-    -   frage: "Wie arbeitet ein psychosozialer Berater eine psychosoziale Beraterin?"
+    -   frage: "Wie arbeitet ein psychologischer Berater eine psychologische Beraterin?"
         antwort: "psychosozialen BeraterInnen konzentrieren sich stark auf das Hier und Jetzt und unterstützen KlientInnen aktuellen Problemsituationen. Sie versuchen, dabei so viel von der Vergangenheit der KlientInnen, wie nötig einzubauen, aber so wenig, wie möglich, damit ihre KlientInnen rasch im aktuellen Leben neue Sichtweisen und Lösungsansätze entwickeln können. Dabei arbeiten sie mit den unterschiedlichsten Methoden der Psychotherapie. Die besondere Stärke der psychosozialen Beratung liegt in der Prävention von psychischen Erkrankungen. Denn, wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen.psychosozialen BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt. In der psychosozialen Beratung arbeiten also professionell ausgebildete Menschen mit gesunden Menschen daran, dass diese ihre seelische Gesundheit langfristig erhalten."
     -   frage: "Was sind die Grenzen der Lebensberatung - psychosozialen Beratung?"
         antwort: "Auch wenn psychosozialen BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben."
@@ -25,16 +25,16 @@ rich_faq:
     -   frage: "Braucht man in Österreich einen Gewerbeschein für die Arbeit als Lebens-und Sozialberater/Lebens- und SozialberaterIn?"
         antwort: "Anders als in Deutschland ist die Vorraussetzung für die Arbeit als Lebens- und Sozialberater/Lebens- und Sozialberaterin in freier Praxis ein aufrechter Gerwerbeschein. Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. "
     -   frage: "Mit welchen Anliegen Arbeiten Diplom. Lebens-und Sozialberater/Lebens-und SozialberaterInnen?"
-        antwort: "Als Diplom. Lebens- und Sozialberater*in - psychosoziale Berater*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. LebensberaterInnen - psychosozialen BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt."
+        antwort: "Als Diplom. Lebens- und Sozialberater*in - psychologische Berater*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. LebensberaterInnen - psychosozialen BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt."
     -   frage: "Sind Lebens- und Sozialberater dazu berechtigt mit Menschen in Krisen zu arbeiten? "
         antwort: "Diplom. Lebens- und Sozialberater/Lebens- und SozialberaterInnen durchlaufen während der Ausbildung ingesamt 80 Stunden des Methodenschwerpunkts Krisenintervention. Die Krisenintervention ist somit sogar einer der Schwerpunkte im Bereich der der Lebens- und Sozialberatung in Österreich."
     -   frage: "Ist der Beruf Lebens-und Sozialberater in Österreich anerkannt?"
         antwort: "Die Lebensberatung -  psychosoziale Beratung gehört neben Medizin und Psychotherapie zu den 4 Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen."
-    -   frage: "Was ist ein psychosozialer Berater?"
+    -   frage: "Was ist ein psychologischer Berater?"
         antwort: "psychosozialen BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychosoziale Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
-    -   frage: "Was sind die Stärken eines psychosozialen Beraters/einer psychosozialen Beraterin?"
+    -   frage: "Was sind die Stärken eines psychologischen Beraters/einer psychologischen Beraterin?"
         antwort: "psychosozialen BeraterInnen konzentrieren sich stark auf das Hier und Jetzt und unterstützen KlientInnen in aktuellen Problemsituationen. Sie versuchen, dabei so viel von der Vergangenheit der KlientInnen wie nötig einzubauen aber so wenig, wie möglich, damit ihre KlientInnen rasch im aktuellen Leben neue Sichtweisen und Lösungsansätze entwickeln können. Dabei arbeiten sie mit den unterschiedlichsten Methoden der Psychotherapie. Die besondere Stärke der psychosozialen Beratung liegt in der Prävention von psychischen Erkrankungen. In der psychosozialen Beratung arbeiten also professionell ausgebildete Menschen mit gesunden Menschen daran, dass diese ihre seelische Gesundheit langfristig erhalten."
-    -   frage: "Was sind die Grenzen eines psychosozialen Beraters/einer psychosozialen Beraterin?"
+    -   frage: "Was sind die Grenzen eines psychologischen Beraters/einer psychologischen Beraterin?"
         antwort: "Auch wenn psychosozialen BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben. In diesem Fall verweisen Lebens- und SozialberaterInnen an PsychotherapeutInnen oder ÄrztInnen."
         
 ---
@@ -46,18 +46,18 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/sgf_intro.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="quer">}}
+{{< image src="/img/sgf_intro.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="quer">}}
 
 ## Die SGF®-Methode. 
 ## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
 
-Mit mehr als 20 Jahren Erfahrung in den Bereichen [psychosoziale Beratung](https://www.ifge.at/psychosoziale-beratung/einzelberatung/) und [psychosoziale Ausbildung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/) ist [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) eine Expertin für systemische Familienaufstellung. Auf Basis bewährter und etablierter Ansätze, wie etwa der Aufstellung nach Bert Hellinger, hat sie eine eigene und mittlerweile patentierte Methode entwickelt: Die **SGF®-Methode**. **S**ystemisch-**G**anzheitliche-**F**amilienaufstellung nach Silvia Podlisca. 
+Mit mehr als 20 Jahren Erfahrung in den Bereichen [psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) und [psychosoziale Ausbildung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) ist [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) eine Expertin für systemische Familienaufstellung. Auf Basis bewährter und etablierter Ansätze, wie etwa der Aufstellung nach Bert Hellinger, hat sie eine eigene und mittlerweile patentierte Methode entwickelt: Die **SGF®-Methode**. **S**ystemisch-**G**anzheitliche-**F**amilienaufstellung nach Silvia Podlisca. 
 
 <br/>
 
 ## Was ist und kann die SGF®-Methode?
 
-In [Familien](https://www.ifge.at/psychosoziale-beratung/familienaufstellungen/) treffen individuelle Bedürfnisse auf kollektive Bedürfnisse. Eigene Ziele treffen auf gemeinschaftliche Ziele. Und moderne Werte treffen auf traditionelle Werte. Kurz: Familien sind komplexe, soziale Systeme, weshalb sie oftmals Quelle von Selbstzweifeln, Konflikten und Krisen sind. Manchmal wissen wir genau, welche familiären Themen uns belasten und blockieren. Manchmal ist uns hingegen gar nicht bewusst, wie stark Ursprung, Herkunft und Familie unsere Bedürfnisse, Sorgen und Ängste im Hier und Jetzt prägen. In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennenzulernen, schmerzhafte Erinnerungen aufzuarbeiten, sich von alten Mustern zu lösen und so Zukunftswege zu ebnen.
+In [Familien](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) treffen individuelle Bedürfnisse auf kollektive Bedürfnisse. Eigene Ziele treffen auf gemeinschaftliche Ziele. Und moderne Werte treffen auf traditionelle Werte. Kurz: Familien sind komplexe, soziale Systeme, weshalb sie oftmals Quelle von Selbstzweifeln, Konflikten und Krisen sind. Manchmal wissen wir genau, welche familiären Themen uns belasten und blockieren. Manchmal ist uns hingegen gar nicht bewusst, wie stark Ursprung, Herkunft und Familie unsere Bedürfnisse, Sorgen und Ängste im Hier und Jetzt prägen. In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennenzulernen, schmerzhafte Erinnerungen aufzuarbeiten, sich von alten Mustern zu lösen und so Zukunftswege zu ebnen.
  
 Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silvia Podlisca** nicht nur das kollektive System Familie, sondern auch individuelle Bedürfnisse, Sichtweisen und Erlebnisse. So können Probleme und Prozesse ganzheitlich verstanden und nachhaltige Lösungswege erarbeitet werden. 
 

@@ -19,7 +19,7 @@ og_image: "/img/grundlagen_onlineberatung_ziel.jpg"
 {{% floatbox %}}
 {{< image src="/img/grundlagen_onlineberatung_ziel.jpg" title="Onlineberatung, Onlinecoaching und auch Onlinesupervision bietet viele Vorteile und sichert auch den Kundenkontakt in Zeiten wie Corona oder auch anderen (Krankheits)gründen. Was Sie bei Onlineberatungen, Onlinecoachings und Onlinesupervisionen beachten sollten, wird Ihnen hier sehr praxisorientiert vermittelt." float="left">}}
 
-Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professionelle psychosoziale Onlineberatung & digitales Coaching“ ausführlich vermittelt wird. Im Zuge der Fortbildung wird für Sie auch rasch spürbar, dass es einen großes Unterschied zwischen digitaler und emotionaler Distanz gibt. So lernen Sie gemeinsam mit Ihren Fortbildungskolleg*innen, wie selbst der vertiefende Beziehungsaufbau über das Medium „Videotelefonie“ erfolgreich glückt.
+Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professionelle psychologische Onlineberatung & digitales Coaching“ ausführlich vermittelt wird. Im Zuge der Fortbildung wird für Sie auch rasch spürbar, dass es einen großes Unterschied zwischen digitaler und emotionaler Distanz gibt. So lernen Sie gemeinsam mit Ihren Fortbildungskolleg*innen, wie selbst der vertiefende Beziehungsaufbau über das Medium „Videotelefonie“ erfolgreich glückt.
 
 {{% silvia %}}
 
@@ -41,7 +41,7 @@ Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professione
 {{% box %}}
 {{% small %}}
 
-Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychosoziales Beratungsangebot in Anspruch zu nehmen. Während Klient\*innen aus dem psychosozialen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund\*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist.
+Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychosoziales Beratungsangebot in Anspruch zu nehmen. Während Klient\*innen aus dem psychologischen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund\*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist.
 
 {{% /small %}}
 {{% /box %}}
