@@ -37,7 +37,7 @@ In der folgenden Bildergalerie stellen sich Ihnen unsere zwei Institutshunde sow
 Anbei finden Sie einen Überblick über unser Angebot bzw. die Methoden im Bereich der Mensch-Tier-Beziehung:
  
 * Beratung und Bewegung mit Hunden
-* Tiergestützte psychologische Beratung
+* Tiergestützte psychosoziale Beratung
 * Systemische Tieraufstellung
 * Trauer um ein verstorbenes Tier
 
@@ -45,7 +45,7 @@ Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!
 
 ***
 
-Beratungsraum Tiergestützte psychologische Beratung - Wien
+Beratungsraum Tiergestützte psychosoziale Beratung - Wien
 
 Unser Institut kann in eine komplett tierfreie Zone* geteilt werden, in der unsere Selbsterfahrungsangebote ohne tierische Begleitung stattfinden. Bei der tiergestützten psychologischen Beratung in Wien haben Sie die Wahlmöglichkeit zwischen Katzen oder Katzen & Hunde.
 

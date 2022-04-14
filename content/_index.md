@@ -25,7 +25,7 @@ og_image: "/img/home_2021_1.jpg"
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/ausbildungsangebote.png" title="Diplomlehrgaenge">}}
 
-Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychologische BeraterInnen allumfassend ausgebildet. 
+Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychosoziale BeraterInnen allumfassend ausgebildet. 
 
 Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung. 
 
@@ -98,7 +98,7 @@ Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Leb
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="psychologische Beratung und Familienaufstellung mit Silvia Podlisca in Wien, Niederösterreich oder Burgenland." >}} 
+{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="psychosoziale Beratung und Familienaufstellung mit Silvia Podlisca in Wien, Niederösterreich oder Burgenland." >}} 
 
 Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  

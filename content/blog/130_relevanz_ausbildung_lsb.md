@@ -18,7 +18,7 @@ Was haben Lehrer\*innen, Ärzt\*innen, Personalmanager\*innen, Betriebsführungs
 
 ### Bildung und Pädagogik: Der Mensch im Mittelpunkt.
 
-Für Lehrer\*innen und Pädagog\*innen stellt eine psychosoziale Ausbildung eine wertvolle Weiterbildung dar. Nicht nur die [Ausbildung zu Vertrauenslehrer\*innen](https://www.ifge.at/upgrades/vertrauenslehrer/), sondern auch andere Kurse wie psychologische Beratung oder eine [Coachingausbildung](https://www.ifge.at/diplomlehrgaenge/diplomausbildung_coaching/) können die Arbeit im Bildungsbereich bereichern. Ob in der Volkschule, in der Mittelschule oder in der Erwachsenenbildung, es geht immer um Menschen und Wissensvermittlung und damit auch um Kommunikation, Konflikte, Emotionen und die Förderung von Menschen. Wird das Fach- und Pädagogikwissen durch psychosoziale Methodenkompetenz erweitert, profitieren beide Seiten, Lehrer\*innen und Schüler\*innen. 
+Für Lehrer\*innen und Pädagog\*innen stellt eine psychosoziale Ausbildung eine wertvolle Weiterbildung dar. Nicht nur die [Ausbildung zu Vertrauenslehrer\*innen](https://www.ifge.at/upgrades/vertrauenslehrer/), sondern auch andere Kurse wie psychosoziale Beratung oder eine [Coachingausbildung](https://www.ifge.at/diplomlehrgaenge/diplomausbildung_coaching/) können die Arbeit im Bildungsbereich bereichern. Ob in der Volkschule, in der Mittelschule oder in der Erwachsenenbildung, es geht immer um Menschen und Wissensvermittlung und damit auch um Kommunikation, Konflikte, Emotionen und die Förderung von Menschen. Wird das Fach- und Pädagogikwissen durch psychosoziale Methodenkompetenz erweitert, profitieren beide Seiten, Lehrer\*innen und Schüler\*innen. 
 
 ### Gesundheit und Medizin: Auch hier geht es um Menschen.
 

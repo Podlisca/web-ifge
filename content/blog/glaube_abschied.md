@@ -6,9 +6,9 @@ weight: 112
 
 img: "glaube_abschied.jpg"
 og_image: "/img/glaube_abschied.jpg"
-description: "Der Umgang mit dem Sterben und dem Tod ist für die meisten Menschen kein leichter. Warum es wichtig sein kann, an etwas zu glauben, und warum es gerade in der Trauerbegleitung besonders gut ausgebildete psychologische Berater*innen braucht, erfahren Sie in unserem neuen Blog."
+description: "Der Umgang mit dem Sterben und dem Tod ist für die meisten Menschen kein leichter. Warum es wichtig sein kann, an etwas zu glauben, und warum es gerade in der Trauerbegleitung besonders gut ausgebildete psychosoziale Berater*innen braucht, erfahren Sie in unserem neuen Blog."
 ---
-**Der Umgang mit dem Sterben und dem Tod ist für die meisten Menschen kein leichter. Sowohl aus persönlicher Betroffenheit als auch aus kollektiv systemischer Sicht. Warum es wichtig sein kann, an etwas zu glauben, und warum es gerade in der Trauerbegleitung besonders gut ausgebildete psychologische Berater\*innen braucht, erfahren Sie in unserem neuen Blog.**
+**Der Umgang mit dem Sterben und dem Tod ist für die meisten Menschen kein leichter. Sowohl aus persönlicher Betroffenheit als auch aus kollektiv systemischer Sicht. Warum es wichtig sein kann, an etwas zu glauben, und warum es gerade in der Trauerbegleitung besonders gut ausgebildete psychosoziale Berater\*innen braucht, erfahren Sie in unserem neuen Blog.**
 
 Ein Begräbnis ist nie ein angenehmer Anlass. Doch in Zeiten der Corona-Pandemie hat das Unbehagen bei einer Beisetzung Ausmaße angenommen, die wir bisher nicht kannten. Wo ansonsten Nähe, mitfühlende Mimik, Umarmungen oder eine aufrichtige Kondolenz mit einem Handschlag, der „ich bin da“ signalisiert, für ein gewisses Maß an Trost sorgen, finden wir uns heute am Friedhof in einer bizarr anmutenden neuen Welt wieder. Abstand. Masken. Trauer. Und das Gefühl der Zerrissenheit, wenn wir die Angehörigen einfach nur in den Arm nehmen oder von angereisten Familienmitgliedern und Freund\*innen der Verstorbenen selbst gehalten werden wollen – aber dem drängenden, ganz natürlichen sozialen Impuls aufgrund der Maßnahmen widerstehen müssen.
 

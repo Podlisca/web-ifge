@@ -15,7 +15,7 @@ description: "Diese Seite dient als Vorlage für neue Funktionen und ist nur sic
 ## WKO Zertifizierte Lehrgänge
 
 {{% kursbox %}}
-{{< kurs titel="Lebens- und Sozialberatung - psychologische Beratung" link="https://google.com" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
+{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="https://google.com" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{< kurs titel="LSB Upgrade: Supervision" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{< kurs titel="LSB Upgrade: Aufstellungsarbeit" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" color="light-red" >}}
 {{% /kursbox %}}
@@ -47,7 +47,7 @@ description: "Diese Seite dient als Vorlage für neue Funktionen und ist nur sic
 ## Tiergestützte Ausbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestützte psychologische Beratung" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
+{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="Erste Hilfe für Hunde" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{% /kursbox %}}

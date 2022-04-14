@@ -9,7 +9,7 @@ description: "Epigenetik und Familienaufstellungen - in der Praxis zeigt sich, d
 ---
 **Haben Sie schon einmal etwas von der Epigenetik gehört? Es handelt sich dabei um einen bestimmten Forschungszweig der Biologie, der sich unter anderem mit der Frage beschäftigt, inwieweit bestimmte Erfahrungen die DNA der nachfolgenden Generationen beeinflussen.**
 
-Besonders für psychologische Berater\*innen, die auf systemische Familienaufstellungen spezialisiert sind, ist dieses Wissenschaftsgebiet von zentralem Interesse. Denn dank neuester technischer Verfahren und zunehmender Untersuchungen sowie Studien zum Thema kann nun endlich auch biologisch nachgewiesen werden, was in der psychologischen Arbeit mit der Methode der [Familienaufstellung](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/) seit Jahrzehnten spür- und erlebbar ist: 
+Besonders für psychosoziale Berater\*innen, die auf systemische Familienaufstellungen spezialisiert sind, ist dieses Wissenschaftsgebiet von zentralem Interesse. Denn dank neuester technischer Verfahren und zunehmender Untersuchungen sowie Studien zum Thema kann nun endlich auch biologisch nachgewiesen werden, was in der psychologischen Arbeit mit der Methode der [Familienaufstellung](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/) seit Jahrzehnten spür- und erlebbar ist: 
 
 Und zwar das Phänomen, dass nicht nur körperliche Merkmale, Krankheitsrisiken und Eigenschaften von einer Generation an die nächste weitervererbt werden können, sondern dass sich auch besonders [traumatische oder einschneidende Erlebnisse](http://localhost:1313/blog/traumatisierung-vs.-trauma/) in unserem Erbgut festsetzten. 
 

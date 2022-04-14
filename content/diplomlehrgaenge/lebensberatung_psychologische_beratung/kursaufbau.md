@@ -6,21 +6,21 @@ menu:
 draft: false
 weight: 1
 rich_faq:
-    -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychologische Beraterin?"
+    -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychosoziale Beraterin?"
         antwort: "Im Rahmen von Lehrgängen für Lebens- und Sozialberatung muss die gelehrte Methodik der Lebens- und Sozialberatung nachfolgenden Grundsätzen entsprechen:
 
-        Methoden der Lebens- und Sozialberatung sind jene, deren Grundlage der philosophische Dialog und oder die psychologische Beratung ist und sich einer oder mehreren der nachfolgend angeführten Orientierungen zuordnen lassen:
+        Methoden der Lebens- und Sozialberatung sind jene, deren Grundlage der philosophische Dialog und oder die psychosoziale Beratung ist und sich einer oder mehreren der nachfolgend angeführten Orientierungen zuordnen lassen:
 
        tiefenpsychologisch-psychodynamische Orientierung
        - humanistisch-existentielle Orientierung
        - systemisch-soziodynamische Orientierung
        - verhaltensmodifizierende Orientierung"
-    -   frage: "Wie lange dauert die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychologische Beraterin?"
+    -   frage: "Wie lange dauert die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychosoziale Beraterin?"
         antwort: "Die Dauer der Ausbildung ist per Gesetz festgelegt und muss mindesten 5 Semester andauern und 584 Ausbildungsstunden beinhalten. Absolvieren kann man die Diplomausbildung bei zertifizierten Ausbildungsinstituten. Gesetzlich anerkannte Lehrgänge haben WKO Zertifizierungsnummer. Z. B. ZA-LSB 233.1/2012 (Zertifizierungsnummer des IFGE)."
-    -   frage: "Wie ist der Lehrplan für die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychologische Beraterin aufgeteilt?"
+    -   frage: "Wie ist der Lehrplan für die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychosoziale Beraterin aufgeteilt?"
         antwort: "Die 584 gesetzlich vorgeschrieben Ausbildungsstunden müssen wie folgt aufgeteilt werden:
         
-        20 Stunden Einführung in die Lebensberatung und Sozialberatung psychologische Beratung
+        20 Stunden Einführung in die Lebensberatung und Sozialberatung psychosoziale Beratung
         120 Stunden Gruppenselbsterfahrung
         68 Stunden angrenzender Fachbereich 
         240 Stunden Methodik der Lebens- und Sozialberatung 
@@ -72,7 +72,7 @@ rich_faq:
     
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychosoziale Beratung
 {{< slogan >}}
 
 {{< line icon="icon/verordnung.png" >}}
@@ -101,9 +101,9 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
-## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychologische Beratung
+## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychosoziale Beratung
 
-* 20 Stunden Einführung in die Lebensberatung und Sozialberatung psychologische Beratung
+* 20 Stunden Einführung in die Lebensberatung und Sozialberatung psychosoziale Beratung
 * 120 Stunden Gruppenselbsterfahrung
 * 68 Stunden angrenzender Fachbereich (Medizin, Pädagogik, Mediation)
 * 240 Stunden Methodik der Lebens- und Sozialberatung (Systemische Beratung, Familienaufstellung, Sexualberatung, Work-Life-Balance)

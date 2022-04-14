@@ -33,7 +33,7 @@ Gewalt – mit oder ohne sexueller Komponente – zu erleben, ist für viele Men
 
 Vielfach ist es das eigene Umfeld, das durch Schockreaktionen, Bewertungen und unbedachte Äußerungen die (sexuelle) Gewalterfahrung zu einer besonders intensiven Belastung für das Opfer werden lässt.
 
-Psychologische Beratung kann das Geschehene natürlich nicht ungeschehen machen, hilft aber dabei, das Erlebte zu verschmerzen und als Teil der eigenen Biographie so in das Leben zu integrieren, dass dieses gut weiter gehen kann. Wie oben bereits ersichtlich, beschränken sich Gewalterfahrungen nicht ausschließlich auf Sexualstraftaten. 
+Psychosoziale Beratung kann das Geschehene natürlich nicht ungeschehen machen, hilft aber dabei, das Erlebte zu verschmerzen und als Teil der eigenen Biographie so in das Leben zu integrieren, dass dieses gut weiter gehen kann. Wie oben bereits ersichtlich, beschränken sich Gewalterfahrungen nicht ausschließlich auf Sexualstraftaten. 
 
 Beispielsweise nimmt das Phänomen Stalking zu, wodurch es in diesem Bereich der – vorwiegend psychischen – Gewalt immer häufiger zu Opfern kommt. Leider ist auch häusliche Gewalt ein verbreitetes sowie höchst belastendes Thema in Familien und zwar sowohl für die Täter\*innen, die Opfer als auch deren Angehörige. Wiewohl jede Tat als absolut individuell zu betrachten ist, ähneln sich die belastenden Gefühle (siehe weiter unten) der Opfer von psychischer, körperlicher oder sexueller Gewalt in vielen Fällen. Da in Österreich noch immer jede dritte Frau von sexueller Gewalt betroffen ist, möchte ich im Folgenden die Emotionen der Ohnmacht, Verzweiflung, Wut, Scham und Hilflosigkeit, welche die Opfer nach einer Gewalttat oder in einem gewalttätigen Umfeld empfinden, im besonderen am Beispiel von sexueller Gewalt deutlich machen.
 
@@ -93,7 +93,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)

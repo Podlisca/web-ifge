@@ -29,7 +29,7 @@ og_image: "/img/system_einzel_2.jpg"
 
 
 {{% floatbox %}}
-{{< image src="/img/ziel_selbsthilfe.jpg" float="left" title="Gewalt in der Familie oder im nahen Umfeld ist eines jener Themen, welch mit großer Scham verbunden ist. Egal ob es völlig überraschend kam oder immer Tendenzen zu Gewalt erkennbar waren – es ist nicht Ihre Schuld. Ich Silvia Podlisca bietet am IFGE ganz bewusst einen Rahmen wo Sie sich genau mit diesem Thema auseinandersetzen können.  Psychologische Beratung hilft bei der Bewältigung." >}} 
+{{< image src="/img/ziel_selbsthilfe.jpg" float="left" title="Gewalt in der Familie oder im nahen Umfeld ist eines jener Themen, welch mit großer Scham verbunden ist. Egal ob es völlig überraschend kam oder immer Tendenzen zu Gewalt erkennbar waren – es ist nicht Ihre Schuld. Ich Silvia Podlisca bietet am IFGE ganz bewusst einen Rahmen wo Sie sich genau mit diesem Thema auseinandersetzen können.  Psychosoziale Beratung hilft bei der Bewältigung." >}} 
 
 Wenn eine Gewalttat passiert – ganz gleich ob es sich dabei um sexualisierte oder andere Formen von Gewalt handelt – gilt die gesamte Konzentration sowohl den Täter\*innen als auch den Opfern. 
 
@@ -83,7 +83,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)

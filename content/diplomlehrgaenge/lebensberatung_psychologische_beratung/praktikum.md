@@ -8,7 +8,7 @@ draft: false
 weight: 5
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychosoziale Beratung
 {{< slogan >}}
 
 
@@ -63,7 +63,7 @@ Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesge
 
 {{< line icon="icon/beratung.png" >}}
 
-## Praktikumsplätze für psychologische Beratungen ab dem 5. Ausbildungssemester 
+## Praktikumsplätze für psychosoziale Beratungen ab dem 5. Ausbildungssemester 
 
 Ab dem 5. Ausbildungssemester kann man sich als Berater\*in für unser Projekt melden. [Infos herunterladen](/downloads/flyer_prakitumsplaetze.pdf)
 

@@ -32,7 +32,7 @@ rich_faq:
 {{% floatbox %}}
 ## Schwingungen auslösen. Wirkung erzielen. 
 
-{{< image src="/img/klangschale_2021.jpg" title="Gesundheit beruht im Wesentlichen auf drei Säulen – Körper, Geist und Seele. Um ganzheitlich als Lebens- und Sozialberater\*in – psychologische Berater\*in arbeiten zu können, empfiehlt es sich, eine körperorientierte Methode in den Beratungsprozess einzubauen. Gerade die Klangschalen zeigen durch Ihre angehnehme sanfte Wirkungsweise, große Wirkung da die Auflösung von Blockaden im passenden Tempo für die Klienten\*innen geschieht. " float="left">}} 
+{{< image src="/img/klangschale_2021.jpg" title="Gesundheit beruht im Wesentlichen auf drei Säulen – Körper, Geist und Seele. Um ganzheitlich als Lebens- und Sozialberater\*in – psychosoziale Berater\*in arbeiten zu können, empfiehlt es sich, eine körperorientierte Methode in den Beratungsprozess einzubauen. Gerade die Klangschalen zeigen durch Ihre angehnehme sanfte Wirkungsweise, große Wirkung da die Auflösung von Blockaden im passenden Tempo für die Klienten\*innen geschieht. " float="left">}} 
 
 Körper und Geist bilden eine Einheit. Eine Einheit, die Gesundheit, Wohlbefinden und Zufriedenheit formt. Eine Einheit, die uns zu den Menschen macht, die wir sind. Neben psychosozialer Beratung sind daher auch körperorientierte Verfahren in der Begleitung von und der Arbeit mit Menschen wichtig. 
 
