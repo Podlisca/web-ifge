@@ -65,9 +65,9 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 ## Probleme lösen. Perspektiven erarbeiten.
 
-Bedürfnisse, Sehnsüchte und Ängste. Unsicherheiten, Konflikte und Krisen. Stillstand, Veränderung und Verbesserung. Das alles gehört zu unserem Leben dazu. Aber nicht immer können und/oder wollen Menschen herausfordernde Lebenssituationen alleine bewältigen. Umso wichtiger, dass es fachlich qualifizierte Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
+Bedürfnisse, Sehnsüchte und Ängste. Unsicherheiten, Konflikte und Krisen. Stillstand, Veränderung und Verbesserung. Das alles gehört zu unserem Leben dazu. Aber nicht immer können und/oder wollen Menschen herausfordernde Lebenssituationen alleine bewältigen. Umso wichtiger, dass es fachlich qualifizierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
 
-Als Lebens- und Sozialberater\*in – psychosoziale Berater\*in arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch keine krankhaften Störungen aufweisen*. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
+Als Lebens- und Sozialberater\*in – psychologische Berater\*in arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch keine krankhaften Störungen aufweisen*. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
 
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
