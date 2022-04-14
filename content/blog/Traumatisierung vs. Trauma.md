@@ -59,9 +59,9 @@ Das gilt übrigens nicht nur für selbst erlebte Traumata. Denn es hat sich geze
 
 Und wenn ein traumatisches Ereignis als Teil der Biografie ins Leben integriert werden kann, kann es häufig so verarbeitet werden, dass es keine ungünstigen Auswirkungen auf das weiterte Leben hat. In manchen Fällen wird die Traumaverarbeitung sogar zum Entwicklungsschritt, der es Menschen ermöglicht, sich gestärkt und mit zusätzlichen Handlungsstrategien neu zu orientieren. Das gilt übrigens auch für bereits lang zurück liegende Erlebnisse, die häufig als Trauma benannt werden, wie zum Beispiel das ständige Hadern mit der eigenen Kindheit oder vorangegangenen Beziehungen. Ja, vieles in Ihrem bisherigen Leben war vielleicht äußerst belastend und womöglich sogar traumatisch. Aber auch eine traumatische Kindheit lässt sich so ins Leben integrieren, dass es für Sie gut weitergehen darf. 
 
-Ob und wie ein Trauma also eigenverantwortlich verarbeitet wird, kann den Unterschied zwischen eine Stärkung des eigenen Selbst und einer entstehenden Erkrankung machen. Das zeigt wiederum klar, wie wichtig es ist, sich bei traumatischen Erlebnissen Hilfe zu holen. [psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) beispielsweise hilft dabei, das Trauma zu be- und schließlich zu verarbeiten. 
+Ob und wie ein Trauma also eigenverantwortlich verarbeitet wird, kann den Unterschied zwischen eine Stärkung des eigenen Selbst und einer entstehenden Erkrankung machen. Das zeigt wiederum klar, wie wichtig es ist, sich bei traumatischen Erlebnissen Hilfe zu holen. [Psychologische Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) beispielsweise hilft dabei, das Trauma zu be- und schließlich zu verarbeiten. 
 
-**In diesem psychosozialen Beratungsprozess geht es darum, dass sich die seelische Wunde langsam schließen darf, anstatt sich „unbeachtet“ zu einer chronischen Erkrankung zu entwickeln.**
+**In diesem psychologischen Beratungsprozess geht es darum, dass sich die seelische Wunde langsam schließen darf, anstatt sich „unbeachtet“ zu einer chronischen Erkrankung zu entwickeln.**
 
 ### Die Bedeutung von Resilienz zur Verarbeitung von Traumata
 
@@ -74,7 +74,7 @@ Dieser Blogeintrag möchte weder das Krankheitsbild der Posttraumatischen Belast
 * Stärken Sie Ihr soziales Netzwerk, schaffen Sie sich ein Umfeld aus Bezugspersonen, die Ihnen Rückhalt bieten.
 * Beginnen Sie [Krisen](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/) und traumatische Erlebnisse als Entwicklungsmotoren Ihrer Biographie zu begreifen. 
 
-All diese genannten Punkte müssen Sie nicht alleine für sich neu in Ihr Leben integrieren. [psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/) kann Sie besonders beim Stärken Ihrer Resilienz intensiv unterstützen. Wenn Sie also gerade etwas Traumatisches erlebt haben oder eine traumatische Vergangenheit bearbeiten möchten, sind Sie nicht alleine. Und: **Sie sind Ihren Erlebnissen nicht hilflos ausgeliefert, sondern Sie können aktiv etwas dazu beitragen, resilienter zu werden und zu lernen, wie Sie auch aus schlimmen Erfahrungen gestärkt und sicher hervorgehen.**
+All diese genannten Punkte müssen Sie nicht alleine für sich neu in Ihr Leben integrieren. [Psychologische Beratung](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/) kann Sie besonders beim Stärken Ihrer Resilienz intensiv unterstützen. Wenn Sie also gerade etwas Traumatisches erlebt haben oder eine traumatische Vergangenheit bearbeiten möchten, sind Sie nicht alleine. Und: **Sie sind Ihren Erlebnissen nicht hilflos ausgeliefert, sondern Sie können aktiv etwas dazu beitragen, resilienter zu werden und zu lernen, wie Sie auch aus schlimmen Erfahrungen gestärkt und sicher hervorgehen.**
 
 
 <br/>

@@ -6,7 +6,7 @@ menu:
         identifier: glaubenssatz
 draft: false
 weight: 5
-description: "In der Glaubenssatzaufstellung im Rahmen einer psychosozialen Beratung konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität."
+description: "In der Glaubenssatzaufstellung im Rahmen einer psychologischen Beratung konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität."
 og_title: "Glaubenssatzaufstellung mit Silvia Podlisca"
 og_image: "/img/system_zettel1_bgld.jpg"
 rich_faq:
@@ -66,7 +66,7 @@ Was wir nicht vergessen dürfen: Wir können Glaubenssätze verändern. Von dest
 {{% /floatbox %}}
 
 {{% floatbox %}}
-In der Glaubenssatzaufstellung im Rahmen einer [psychosozialen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität.
+In der Glaubenssatzaufstellung im Rahmen einer [psychologischen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) konfrontieren Sie sich mit Ihren aktuellen Bedürfnissen, Einstellungen und Konflikten. Unter professioneller Begleitung arbeiten Sie an Ihrem Mindset, an tabuisierten Sehnsüchten und dekonstruktiven Gedankenmustern. Dabei wird nicht nur Ihr individuelles Empfinden systematisch hinterfragt, sondern auch dessen Auswirkungen auf Ihre Familie. So ebnen Sie den Weg in eine konstruktive Zukunftsrealität.
 
 {{% /floatbox %}}
 
@@ -97,7 +97,7 @@ Als Teil einer Familie stellen wir Bedürfnisse nicht selten hinten an. Wir gebe
 
 {{< image src="/img/glaubenssatzaufstellung_2.jpg" float="right" title="FOTOBESCHREIBUNG" >}}
 
-In der psychosozialen Beratung ist die Glaubenssatzaufstellung eine fundierte Methode, um blockierende Muster und Tabus zu lösen. Dabei werden Sie von [erfahrenen und ausgebildeten Ausbildungsleiter*innen](https://www.ifge.at/about/ueber_mich/) begleitet. Denkweisen und Einstellungen werden oft über eine lange Zeit gefestigt und verinnerlicht, weshalb das Lösen dieser ein Prozess ist. Ein Prozess, der nicht nur professionelle Begleitung, sondern vor allem Zeit und die Bereitschaft an sich zu arbeiten braucht.
+In der psychologischen Beratung ist die Glaubenssatzaufstellung eine fundierte Methode, um blockierende Muster und Tabus zu lösen. Dabei werden Sie von [erfahrenen und ausgebildeten Ausbildungsleiter*innen](https://www.ifge.at/about/ueber_mich/) begleitet. Denkweisen und Einstellungen werden oft über eine lange Zeit gefestigt und verinnerlicht, weshalb das Lösen dieser ein Prozess ist. Ein Prozess, der nicht nur professionelle Begleitung, sondern vor allem Zeit und die Bereitschaft an sich zu arbeiten braucht.
 
 In der Glaubenssatzaufstellung richten wir den Blick auf die Gegenwart. Es geht darum die Gegenwart durch ein verbessertes Mindset zu verstehen, bewusst wahrzunehmen und damit aktiv zu gestalten. Dabei wird darauf geachtet, dass nicht nur der individuelle Mensch, sondern auch die Familie von einem neuen Weg und einer Weiterentwicklung profitiert. Ihre Vergangenheit, Ihre Wurzeln und Ihre Familie sind nicht veränderbar. Ihre Sichtweise und Ihre Einstellung dazu allerdings schon.
 

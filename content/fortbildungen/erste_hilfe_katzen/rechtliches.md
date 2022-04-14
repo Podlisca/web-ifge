@@ -32,7 +32,7 @@ weight: 4
 
 Seminargebühren sind nach Anmeldung Anmeldung auf das
 
-Vereinskonto Berufsverband für Tiergestützte psychosoziale Beratung: 
+Vereinskonto Berufsverband für Tiergestützte psychologische Beratung: 
 BAWAG PSK
 AT74 1400 0051 1085 5500   BIC: BAWAATWW
 

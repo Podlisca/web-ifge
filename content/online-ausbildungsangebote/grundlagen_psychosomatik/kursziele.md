@@ -44,4 +44,4 @@ Sowohl die Unterrichtstechnik als auch die Vermittlung von Fachwissen hat sich s
 
 In dieser digitalen Fortbildung betrachten wir die Psychosomatik aus verschiedenen Blickwinkeln und beleuchten eine Vielzahl an körperorientierten Gesundheitsbetrachtungen, die sich mit der psychischen Ebene verbinden. Sie erarbeiten in angenehmer, herzlicher und dank Onlinemodus höchst flexibler Lernatmosphäre einen Überblick zu unterschiedlichen ganzheitlichen Herangehensweisen. Diese ermöglichen Ihnen in der psychologischen Praxis eine weitere Methode, mit der Sie Ihre Klient\*innen ganzheitlich erfassen können.
 
-Denn gerade körperliche Beschwerden, die medizinisch mehrfach abgeklärt wurden und für die keinerlei organische Ursachen gefunden werden können, belasten Menschen oft in besonderem Maße. Viele davon besprechen diese Belastung in der psychosozialen Beratung.
+Denn gerade körperliche Beschwerden, die medizinisch mehrfach abgeklärt wurden und für die keinerlei organische Ursachen gefunden werden können, belasten Menschen oft in besonderem Maße. Viele davon besprechen diese Belastung in der psychologischen Beratung.

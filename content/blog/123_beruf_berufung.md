@@ -50,7 +50,7 @@ Der Beruf ist eine wichtige Komponente des menschlichen Lebens. Er schafft Einko
 
 * [DIE ZUKUNFT DER ARBEITSWELT: WANDEL, WERTE UND WICHTIGKEIT PSYCHOSOZIALER BERUFE.](https://www.ifge.at/blog/121_die_zukunft_der_arbeitswelt/)
 * [BOREOUT - KRANK VOR LANGEWEILE](https://www.ifge.at/blog/boreout/)
-* [psychosoziale Beratung: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
+* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [LERNEN AM IFGE: MEHR PRAXIS GEHT NICHT](https://www.ifge.at/blog/lernen_am_ifge/)
 
 

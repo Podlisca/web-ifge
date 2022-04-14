@@ -56,7 +56,7 @@ Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  ein
 
 * Assistentin der Geschäftsleitung
 * Back-Office-Managerin
-* Verantwortliche für alle Praktika im Zuge der Ausbildung zur Dipl. Lebensberatung - psychosoziale Beratung
+* Verantwortliche für alle Praktika im Zuge der Ausbildung zur Dipl. Lebensberatung - psychologische Beratung
 
 Am IFGE in Wien, Burgenland und Sankt Poelten bilde ich mich nicht nur aus und weiter, ich erledige auch alle anfallenden Arbeiten mit Herz und bin eine kompetente und einfühlsame Ansprechpartnerin für das Team und die Kursteilnehmer*innen.
 

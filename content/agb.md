@@ -92,4 +92,4 @@ Eine Entbindung von Silvia Podlisca von der Verschwiegenheitspflicht bedeutet je
 
 9 Besonderheit:
 
-In den Räumlichkeiten in Wien halten sich die Institutskatzen auf, in Ausbildungspausen auch fallweise die Institutshunde. Die Tiere werden in die psychosozialen Beratungen auf Wunsch einbezogen.
+In den Räumlichkeiten in Wien halten sich die Institutskatzen auf, in Ausbildungspausen auch fallweise die Institutshunde. Die Tiere werden in die psychologischen Beratungen auf Wunsch einbezogen.

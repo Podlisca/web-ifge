@@ -44,7 +44,7 @@ Meiner Ansicht nach, ist es jetzt wichtig, dass wir alle unsere Bewusstseinseben
 
 ### Angstrhetorik hat Spuren hinterlassen – den Weg zurück zu innerer Sicherheit 
 
-Ich beobachte in meiner Arbeit, dass genau dies für viele Menschen im Moment Schwierigkeiten bedeutet. Die offizielle Angstrhetorik der letzten Monate hat große Gräben in den Seelen hinterlassen und so manch unbewusste, über Generationen weitergegebene, tiefe Glaubenssätze aktualisiert. Der Weg zurück zur inneren Normalität, Ruhe, Stabilität und Sicherheit kann also durchwegs etwas dauern. Die psychosoziale Beratung hilft dabei, dass genau das nachhaltig und zeitnah geschehen kann. 
+Ich beobachte in meiner Arbeit, dass genau dies für viele Menschen im Moment Schwierigkeiten bedeutet. Die offizielle Angstrhetorik der letzten Monate hat große Gräben in den Seelen hinterlassen und so manch unbewusste, über Generationen weitergegebene, tiefe Glaubenssätze aktualisiert. Der Weg zurück zur inneren Normalität, Ruhe, Stabilität und Sicherheit kann also durchwegs etwas dauern. Die psychologische Beratung hilft dabei, dass genau das nachhaltig und zeitnah geschehen kann. 
 
 {{< silvia >}}
 <br/>

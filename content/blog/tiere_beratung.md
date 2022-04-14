@@ -16,7 +16,7 @@ Tiere unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manc
 
 Sie zeigen uns durch ihre unbekümmerte Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. 
 
-### Was bedeutet tiergestützte psychosoziale Beratung?
+### Was bedeutet tiergestützte psychologische Beratung?
 
 Tiergestützte Beratung beginnt dort, wo Gespräche und die Arbeit mit einem entsprechend ausgebildetem Tier einander ergänzen – es geht um den Beziehungsaufbau und die Prozessgestaltung im Beziehungsdreieck zwischen Klient/in, Tier und Berater/in. Neben der Gesprächsführung zwischen Berater/in und Klient/in werden Methoden eingesetzt, bei denen die Klienten/Klientinnen mit Tieren interagieren oder über Tiere kommunizieren.
 
@@ -28,9 +28,9 @@ Tiere geben ihre Emotionen darüberhinaus direkt und unverfälscht wieder. Sie r
 
 Die Sinneserlebnisse durch den Körperkontakt bzw. die Berührung der Tiere wirken sich positiv auf die Persönlichkeitsentwicklung aus. Die Klienten/Klientinnen erhalten körperliche Zuwendung und Wärme. Auch erhöhen sie das Gefühl für Selbstverantwortung. Insbesondere Hunde zeichnen sich durch ein hohes Aufforderungsverhalten aus, was zu einer stärkeren Selbstmitteilung, Beweglichkeit und Kontaktaufnahme mit der Umwelt führen kann. Weil man im Umgang mit Tieren manchmal Geduld haben muss, helfen sie auch dabei zu entspannen.
 
-Wenn die tiergestützte psychosoziale Beratung Outdoor stattfindet, gelingt es Tieren oft, den Menschen die Natur wieder näherzubringen. Weiters motivieren sie zur Bewegung, was positive Auswirkungen auf den Körper bzw. das Körperbewusstsein hat.
+Wenn die tiergestützte psychologische Beratung Outdoor stattfindet, gelingt es Tieren oft, den Menschen die Natur wieder näherzubringen. Weiters motivieren sie zur Bewegung, was positive Auswirkungen auf den Körper bzw. das Körperbewusstsein hat.
 
-### Wofür eignet sich die tiergestützte psychosoziale Beratung?
+### Wofür eignet sich die tiergestützte psychologische Beratung?
 Prinzipiell können Tiere bei jedem Beratungsgespräch als wertvolle Stütze dienen. Ihr Einsatz bzw. ihre Begleitung eignet sich z.B. insbesondere bei mangelndem Selbstbewusstsein oder Lebensmut, Aggressionen, Anpassungsstörungen, Trauerbewältigung oder der Behandlung von Ängsten. Gerne werden Tiere durch ihre „Eisbrecher-Funktion“ auch in der Arbeit mit Kindern eingesetzt.
 
 Die Vierbeiner stellen eine hilfreiche Stütze im Beratungsprozess dar und können viele positive Gefühle in uns Menschen wecken – wie Fröhlichkeit, Sorglosigkeit und bedingungslose Liebe. Sie entpuppen sich oft als eine wundervolle Bereicherung im Leben oder wie Rupert Sheldrake sagt: „Die meisten von uns benötigen Tiere offenbar als Teil ihres Lebens - unsere menschliche Natur ist untrennbar mit der Natur des Tieres verbunden. Sind wir von ihr isoliert, fehlt uns etwas. Wir verlieren ein Teil unseres Erbes.“

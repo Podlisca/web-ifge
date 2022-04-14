@@ -8,7 +8,7 @@ draft: false
 weight: 1
 ---
 
-# Ausbildung: Tiergestützte psychosoziale Beratung & systemische Tieraufstellung
+# Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -23,7 +23,7 @@ weight: 1
 
 ***
 
-AUFBAU DES LEHRGANGES: TIERGESTÜTZTE psychosoziale Beratung
+AUFBAU DES LEHRGANGES: TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG
 100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
 
 {{< line icon="noun_Information_478770-2.png" >}}

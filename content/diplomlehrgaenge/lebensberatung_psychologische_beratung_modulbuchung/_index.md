@@ -1,15 +1,15 @@
 ﻿---
-title: "Dipl. Lebensberatung - psychosoziale Beratung - Modulbuchung"
+title: "Dipl. Lebensberatung - psychologische Beratung - Modulbuchung"
 menu: 
     main:
         parent: ausb
         identifier: lsbmodul
 draft: true
 weight: 2
-description: "Lebens- und Sozialberatung - psychosoziale Beratung - Modulbuchung am IFGE. Wenn Ihnen nur einzelne Seminare für die Einreichung des Gewerbescheins fehlen, finden Sie am IFGE ausgewählte Module zur Einzelbuchung." 
+description: "Lebens- und Sozialberatung - psychologische Beratung - Modulbuchung am IFGE. Wenn Ihnen nur einzelne Seminare für die Einreichung des Gewerbescheins fehlen, finden Sie am IFGE ausgewählte Module zur Einzelbuchung." 
 
 
-og_title: "Ausbildung Lebensberatung - psychosoziale Beratung am IFGE"
+og_title: "Ausbildung Lebensberatung - psychologische Beratung am IFGE"
 og_image:  "/img/modulbuchung.jpg"
 aliases: 
     - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung-modulbuchung/"
@@ -17,12 +17,12 @@ rich_kurs: true
 
 rich_faq:
     -   frage: "Wie arbeitet ein psychologischer Berater eine psychologische Beraterin?"
-        antwort: "Psychologische BeraterInnen konzentrieren sich stark auf das Hier und Jetzt und unterstützen KlientInnen aktuellen Problemsituationen. Sie versuchen, dabei so viel von der Vergangenheit der KlientInnen, wie nötig einzubauen, aber so wenig, wie möglich, damit ihre KlientInnen rasch im aktuellen Leben neue Sichtweisen und Lösungsansätze entwickeln können. Dabei arbeiten sie mit den unterschiedlichsten Methoden der Psychotherapie. Die besondere Stärke der psychosozialen Beratung liegt in der Prävention von psychischen Erkrankungen. Denn, wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen.Psychologische BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt. In der psychosozialen Beratung arbeiten also professionell ausgebildete Menschen mit gesunden Menschen daran, dass diese ihre seelische Gesundheit langfristig erhalten."
-    -   frage: "Was sind die Grenzen der Lebensberatung - psychosozialen Beratung?"
+        antwort: "Psychologische BeraterInnen konzentrieren sich stark auf das Hier und Jetzt und unterstützen KlientInnen aktuellen Problemsituationen. Sie versuchen, dabei so viel von der Vergangenheit der KlientInnen, wie nötig einzubauen, aber so wenig, wie möglich, damit ihre KlientInnen rasch im aktuellen Leben neue Sichtweisen und Lösungsansätze entwickeln können. Dabei arbeiten sie mit den unterschiedlichsten Methoden der Psychotherapie. Die besondere Stärke der psychologischen Beratung liegt in der Prävention von psychischen Erkrankungen. Denn, wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen.Psychologische BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt. In der psychologischen Beratung arbeiten also professionell ausgebildete Menschen mit gesunden Menschen daran, dass diese ihre seelische Gesundheit langfristig erhalten."
+    -   frage: "Was sind die Grenzen der Lebensberatung - psychologischen Beratung?"
         antwort: "Auch wenn psychologische BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben."
 ---
 
-# Diplomlehrgang Lebensberatung - psychosoziale Beratung - Modulbuchung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
  {{< slogan >}}
 
 {{< line icon="icon/diplomlehrgang.png" >}}

@@ -9,12 +9,12 @@ weight: 6
 og_image: "/img/lsb_info_noe.jpg"
 rich_faq:
     -   frage: "Wer ist psychologischer Berater oder psychologische Beraterin?"
-        antwort: "Psychologische BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychosoziale Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
+        antwort: "Psychologische BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychologische Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
     -   frage: "Wie sieht das Arbeitsfeld aus?"
         antwort: "Psychologische BeraterInnen arbeiten in unterschiedlichen psychosozialen Einrichtungen oder selbstständig in einer eigenen Praxis. Das Arbeitsfeld der psychologischen BeraterInnen ist ein sehr breites und reicht von der Einzelberatung bei belastenden Situationen oder bei Entscheidungsschwierigkeiten über Paar- und Sexualberatung bis hin zu Krisenintervention, Trauerbegleitung oder Coaching."
 ---
 
-# Diplomlehrgang Lebensberatung - psychosoziale Beratung - Modulbuchung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -37,7 +37,7 @@ Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im All
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychosozialen Beratung] zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychosoziale Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
+Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychologischen Beratung] zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -48,12 +48,12 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-#### [psychosoziale Beratung - EINZEL](/psychologische-beratung/einzelberatung/)
+#### [PSYCHOLOGISCHE BERATUNG - EINZEL](/psychologische-beratung/einzelberatung/)
 {{< image src="/img/berufsbild_einzelberatung.jpg" title="Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Einzelselbsterfahrung, um Entlastung in schwierigen Lebenssituationen zu erhalten. Typische Themen sind Beziehungsschwierigkeiten, Trauer, Krisen, Traumata, Probleme in der Sexualität, Schwierigkeiten im Beruf, bei Konflikten mit der Familie (Eltern, Geschwister…). Selbstverständlich werden alle Themen streng vertraulich behandelt." >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [psychosoziale Beratung - PAAR](/psychologische-beratung/paarberatung/)
+#### [PSYCHOLOGISCHE BERATUNG - PAAR](/psychologische-beratung/paarberatung/)
 {{< image src="/img/berufsbild_paarberatung.jpg" title="Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Paarberatung, um Entlastung in schwierigen Lebenssituationen zu erhalten. Typische Themen sind ständige Streitereien / Konflikte in der Beziehung, Untreue, Seitensprung, Lustverlust, unterschiedliche sexuelle Neigungen und Lustempfinden, Lustverlust, Dreiecksbeziehungen, Trennung, Scheidung, unerfüllter Kinderwunsch. Selbstverständlich werden alle Themen streng vertraulich behandelt." >}}
 {{% /small  %}}
 
@@ -74,7 +74,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 ***
 
 {{% box more=1 top-align=1 %}}
-{{% card-more img="krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="KRISE/SUCHT/BURN-OUT"  %}}
+{{% card-more img="krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="KRISE/SUCHT/BURN-OUT"  %}}
 Mein persönlicher Zugang zu der Arbeit mit Klient\*innen, die sich in Krisen befinden, ist, sie professionell und emphatisch dabei zu unterstützen, in sich selbst die Kraft zu entdecken, die sie benötigen, um von der Ohnmacht in die Macht zu kommen und um die veränderte Situation zu akzeptieren. Dadurch können Sie Ihr Leben trotz – oder gerade aufgrund dieser Veränderung – neu und gesund gestalten. Sie entdecken wieder den Mut in sich, der einen kraftvollen und lebendigen Alltag gelingen lässt.
 {{% /card-more  %}}
 

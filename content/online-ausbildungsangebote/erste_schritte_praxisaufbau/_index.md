@@ -15,7 +15,7 @@ rich_faq:
     -   frage: "Wie kommt man eigentlich an die ersten eigenen Klient*innen?"
         antwort: "Dafür müssen Sie sichtbar werden. „Zeig’ dich!“ ist die Devise – aber bitte professionell. Bevor der erste Klient oder die erste Klientin also die eigene Praxis betritt, gibt es zahlreiche Schritte, die es für eine erfolgreiche und vor allem professionelle Gründung braucht. Und das sind gar nicht wenige."
     -   frage: "Wie gestalte ich einen professionellen Werbeauftritt als LSB?"
-        antwort: "Für diese und andere Fragen ist im Online Workshop, der speziell auf die Branche der Lebens- und Sozialberater*innen – psychologischen Berater*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychosozialen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen."
+        antwort: "Für diese und andere Fragen ist im Online Workshop, der speziell auf die Branche der Lebens- und Sozialberater*innen – psychologischen Berater*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychologischen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen."
 ---
 
 # ONLINE Ausbildung: 

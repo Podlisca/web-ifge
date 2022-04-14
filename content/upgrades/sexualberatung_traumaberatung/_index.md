@@ -23,7 +23,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_rot.jpg" title="Sexualität, Intimität und Nähe sind Themen, die uns alle betreffen und oftmals sehr betroffen machen. Gefühle wie Frustration, Ohnmacht, Wut aber auch Freude werden besonders intensiv erlebt. Gerade deshalb ist es wichtig, dass Lebens- und Sozialberater\*innen – psychologische Berater\*innen besonders geschult werden. Am IFGE erhalten Sie nicht nur fachliche Kompetenzen, sondern Sie lernen auch, mit schwierigen Themen in der psychosozialen Beratung umzugehen." float="left" >}}
+{{< image src="/img/silvia_rot.jpg" title="Sexualität, Intimität und Nähe sind Themen, die uns alle betreffen und oftmals sehr betroffen machen. Gefühle wie Frustration, Ohnmacht, Wut aber auch Freude werden besonders intensiv erlebt. Gerade deshalb ist es wichtig, dass Lebens- und Sozialberater\*innen – psychologische Berater\*innen besonders geschult werden. Am IFGE erhalten Sie nicht nur fachliche Kompetenzen, sondern Sie lernen auch, mit schwierigen Themen in der psychologischen Beratung umzugehen." float="left" >}}
 
 Die Sexualität eines Menschen beeinflusst seine Identität, sein Selbstbild und seinen Selbstwert. Kein Wunder also, dass Sexualität häufig Ursprung von Unsicherheiten, Sorgen und Problemen ist. Sexualität zeigt sich in den Medien präsenter denn je und unsere Gesellschaft zeichnet nach außen gerne ein offenes und tolerantes Bild. Die Realität sieht aber häufig anders aus. 
 
@@ -65,7 +65,7 @@ Da am IFGE die systemische Sichtweise auf Probleme aller Art ein zentraler Teil 
 
 Die Vertiefung des Wissens im Bereich der [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/) in Verbindung mit der [Systemik](/psychologische-beratung/systemische-einzelberatung/) bedeutet, dass sich die Ausbildungsinhalte in Zukunft verstärkt auf das Arbeiten mit erstarrten Welten, Abspaltungen oder dissoziierten Anteile konzentriert.
 
-Diese Interventionstechniken sind gerade in der Arbeit mit [Opfern sexueller Gewalt](/psychologische-beratung/spezialisierungen/opferberatung/) von äußerst zentraler Bedeutung. Die Opferarbeit benötigt ein enormes Fingerspitzengefühl und unterscheidet sich teilweise deutlich von klassischer Sexualberatung. Mit aus diesem Grund wird der psychosozialen Beratung von Opfern sexueller Gewalt oder Missbrauch besonderes fachliches Augenmerk geschenkt. Gleichzeitig bietet die Fortbildung sehr wichtige, vertiefende Einblicke in die Präventionsarbeit: Wie sieht die professionelle psychosoziale Arbeit mit [(potenziellen) Sexualstraftäter\*innen](/psychologische-beratung/spezialisierungen/taeterberatung/) aus? Auf welche Hinweise gilt es hier als Berater*in geschult zu sein? Wie sieht die Rechtslange aus? Wodurch unterscheidet sich die Täter\*innen-Arbeit für BeraterInnen in erheblichem Maße von der gewohnten Art zu arbeiten?
+Diese Interventionstechniken sind gerade in der Arbeit mit [Opfern sexueller Gewalt](/psychologische-beratung/spezialisierungen/opferberatung/) von äußerst zentraler Bedeutung. Die Opferarbeit benötigt ein enormes Fingerspitzengefühl und unterscheidet sich teilweise deutlich von klassischer Sexualberatung. Mit aus diesem Grund wird der psychologischen Beratung von Opfern sexueller Gewalt oder Missbrauch besonderes fachliches Augenmerk geschenkt. Gleichzeitig bietet die Fortbildung sehr wichtige, vertiefende Einblicke in die Präventionsarbeit: Wie sieht die professionelle psychosoziale Arbeit mit [(potenziellen) Sexualstraftäter\*innen](/psychologische-beratung/spezialisierungen/taeterberatung/) aus? Auf welche Hinweise gilt es hier als Berater*in geschult zu sein? Wie sieht die Rechtslange aus? Wodurch unterscheidet sich die Täter\*innen-Arbeit für BeraterInnen in erheblichem Maße von der gewohnten Art zu arbeiten?
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -80,7 +80,7 @@ Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professio
 
 {{% box blue=1 %}}
 {{% small %}}
-{{< image src="/img/silvia_wien1.jpg" title="Oftmals wagen Klient\*innen den Weg bei den sogenannten „heiklen Themen“ nicht in die psychosoziale Beratung. Angst vor Wertungen und Vorverurteilungen aber auch Angst die Themen endlich anzugehen sind oftmals hinderlich. Deshalb findet Silvia Podlisca – Institutsleiterin des IFGE, es besonders wichtig, in diesen Themen gut ausgebildet zu sein und auch durch einen bewussten Auftritt auf der Website sich als Expert\*in für dieses Gebiet zu zeigen.  " float="left" >}}
+{{< image src="/img/silvia_wien1.jpg" title="Oftmals wagen Klient\*innen den Weg bei den sogenannten „heiklen Themen“ nicht in die psychologische Beratung. Angst vor Wertungen und Vorverurteilungen aber auch Angst die Themen endlich anzugehen sind oftmals hinderlich. Deshalb findet Silvia Podlisca – Institutsleiterin des IFGE, es besonders wichtig, in diesen Themen gut ausgebildet zu sein und auch durch einen bewussten Auftritt auf der Website sich als Expert\*in für dieses Gebiet zu zeigen.  " float="left" >}}
 
 In dem Upgrade erhalten Sie beispielsweise einen historischen, systemischen und auch analytischen Einblick in das Thema **BDSM**. Ein besonderer Schwerpunkt wird hier auf die durch das Spiel mit Macht und Unterwerfung entstehenden oder sichtbar gemachten **Paardynamiken** gelegt. 
 

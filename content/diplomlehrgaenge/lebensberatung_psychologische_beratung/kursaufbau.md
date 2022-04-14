@@ -9,7 +9,7 @@ rich_faq:
     -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychologische Beraterin?"
         antwort: "Im Rahmen von Lehrgängen für Lebens- und Sozialberatung muss die gelehrte Methodik der Lebens- und Sozialberatung nachfolgenden Grundsätzen entsprechen:
 
-        Methoden der Lebens- und Sozialberatung sind jene, deren Grundlage der philosophische Dialog und oder die psychosoziale Beratung ist und sich einer oder mehreren der nachfolgend angeführten Orientierungen zuordnen lassen:
+        Methoden der Lebens- und Sozialberatung sind jene, deren Grundlage der philosophische Dialog und oder die psychologische Beratung ist und sich einer oder mehreren der nachfolgend angeführten Orientierungen zuordnen lassen:
 
        tiefenpsychologisch-psychodynamische Orientierung
        - humanistisch-existentielle Orientierung
@@ -20,7 +20,7 @@ rich_faq:
     -   frage: "Wie ist der Lehrplan für die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychologische Beraterin aufgeteilt?"
         antwort: "Die 584 gesetzlich vorgeschrieben Ausbildungsstunden müssen wie folgt aufgeteilt werden:
         
-        20 Stunden Einführung in die Lebensberatung und Sozialberatung psychosoziale Beratung
+        20 Stunden Einführung in die Lebensberatung und Sozialberatung psychologische Beratung
         120 Stunden Gruppenselbsterfahrung
         68 Stunden angrenzender Fachbereich 
         240 Stunden Methodik der Lebens- und Sozialberatung 
@@ -72,7 +72,7 @@ rich_faq:
     
 ---
 
-# Diplomlehrgang Lebensberatung - psychosoziale Beratung
+# Diplomlehrgang Lebensberatung - psychologische Beratung
 {{< slogan >}}
 
 {{< line icon="icon/verordnung.png" >}}
@@ -101,9 +101,9 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
-## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychosoziale Beratung
+## Aufbau des Lehrgangs dipl. Lebens- und Sozialberatung – psychologische Beratung
 
-* 20 Stunden Einführung in die Lebensberatung und Sozialberatung psychosoziale Beratung
+* 20 Stunden Einführung in die Lebensberatung und Sozialberatung psychologische Beratung
 * 120 Stunden Gruppenselbsterfahrung
 * 68 Stunden angrenzender Fachbereich (Medizin, Pädagogik, Mediation)
 * 240 Stunden Methodik der Lebens- und Sozialberatung (Systemische Beratung, Familienaufstellung, Sexualberatung, Work-Life-Balance)

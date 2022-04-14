@@ -10,7 +10,7 @@ og_image:  "/img/modulbuchung1.jpg"
 
 ---
 
-# Diplomlehrgang Lebensberatung - psychosoziale Beratung - Modulbuchung
+# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
@@ -48,9 +48,9 @@ Die Modulbuchung am [IFGE](/about/institut/) soll Ihnen die Möglichkeit bieten,
 
 {{% floatbox %}}
 
-{{< image src="/img/modulbuchung2.jpg" title="Die Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in umfasst zwei wesentliche Säulen. Einerseits der Diplomlehrgang mit den gesetzlich vorgeschriebenen Lehrinhalten und das Praktikum für die selbstständige Arbeit in der freien Praxis. Silvia Podlisca nimmt sich viel Zeit, um alle Fragen diesbezüglich zu beantworten. Ebenso gibt Frau Silvia Podlisca einen guten Einblick in das Berufsbild der Lebensberatung- psychosozialen Beratung."float="right">}}
+{{< image src="/img/modulbuchung2.jpg" title="Die Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in umfasst zwei wesentliche Säulen. Einerseits der Diplomlehrgang mit den gesetzlich vorgeschriebenen Lehrinhalten und das Praktikum für die selbstständige Arbeit in der freien Praxis. Silvia Podlisca nimmt sich viel Zeit, um alle Fragen diesbezüglich zu beantworten. Ebenso gibt Frau Silvia Podlisca einen guten Einblick in das Berufsbild der Lebensberatung- psychologischen Beratung."float="right">}}
 
-Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychosoziale Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb/) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemische-einzelberatung/), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/), [Krisenintervention](/diplomlehrgaenge/lebensberatung_psychologische_beratung/spezialisierungen/krisenberatung/) und [Sexualberatung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/spezialisierungen/sexualberatung/), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
+Die Ausbildung zur Dipl. Lebens- und Sozialberatung - psychologische Beratung am IFGE liefert eine knackig verpackte, mit modernsten Präsentationstools von einem [erfahrenen Referententeam](/about/referenten-lsb/) vorgetragene, sehr viel fachlichen Input rund um verschiedene Themenbereiche wie [Systemische Beratung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemische-einzelberatung/), [Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/), [Krisenintervention](/diplomlehrgaenge/lebensberatung_psychologische_beratung/spezialisierungen/krisenberatung/) und [Sexualberatung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/spezialisierungen/sexualberatung/), Ausbildung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz, was sich positiv auf den zwischenmenschlichen Bereich auswirkt. Sich mit ganz persönlichen Themen zu befassen, die uns selbst und unsere Mitmenschen beschäftigen, kann unglaublich bereichernd sein und einem sich selbst und anderen viel näher bringen. Um eine optimale persönliche und fachspezifische Entwicklung anzubieten, ist die Teilnehmeranzahl pro Lehrgang auf maximal 12 Personen beschränkt. 
 
 {{< image src="/img/modulbuchung3.jpg" title="In Kleingruppen wird der theoretische Input sofort ausprobiert und geübt. Silvia Podlisca und Ihr Team unterstützen Sie individuell und persönlich."  float="right" >}}
 
