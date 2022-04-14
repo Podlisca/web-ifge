@@ -11,14 +11,14 @@ Vom Krisenmanagement in die Krise? So oder so ähnlich könnten manche die verga
 
 Was das mit Integrationsarbeit zu tun hat und warum wir jetzt alle wieder unser Hirnkastl einschalten sollten. 
 
-Ich bin psychosoziale Beraterin, Supervisorin, Aufstellungsleiterin und Inhaberin eines stetig wachsenden Ausbildungsinstituts im Bereich der psychosozialen Berufe. 
+Ich bin psychologische Beraterin, Supervisorin, Aufstellungsleiterin und Inhaberin eines stetig wachsenden Ausbildungsinstituts im Bereich der psychosozialen Berufe. 
 
 Ich bin keine Chemikerin. 
 Keine Virologin. 
 Keine Biologin. 
 Keine Medizinerin und ja, ich bin auch keine Gesundheitsministerin. 
 
-Zu beurteilen, wie gesundheitsrelevant die österreichischen Maßnahmen in der Corona-Krise waren, sollten wir also alle den oben genannten Berufsgruppen überlassen. Ich persönlich möchte keinesfalls die unternommenen Schritte an sich infrage stellen, denn es konnte eindeutig gezeigt werden, dass sie wirken. Was ich aber mit Ihnen heute an dieser Stelle genauer betrachten möchte, ist die psychosoziale Eigendynamik, die in den vergangenen Wochen ihren Lauf genommen und sich nachhaltig in uns eigeprägt hat. Denn es ist schon von zentraler Bedeutung, WIE die Maßnahmen kommuniziert wurden.
+Zu beurteilen, wie gesundheitsrelevant die österreichischen Maßnahmen in der Corona-Krise waren, sollten wir also alle den oben genannten Berufsgruppen überlassen. Ich persönlich möchte keinesfalls die unternommenen Schritte an sich infrage stellen, denn es konnte eindeutig gezeigt werden, dass sie wirken. Was ich aber mit Ihnen heute an dieser Stelle genauer betrachten möchte, ist die psychologische Eigendynamik, die in den vergangenen Wochen ihren Lauf genommen und sich nachhaltig in uns eigeprägt hat. Denn es ist schon von zentraler Bedeutung, WIE die Maßnahmen kommuniziert wurden.
 
 ### Die Angst in unsere Wohnzimmer transportiert
 

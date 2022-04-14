@@ -58,7 +58,7 @@ rich_faq:
 
 ## Weil Vergangenheit Zukunft mitgestaltet: Familienaufstellung mit Silvia Podlisca.
 
-{{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychosoziale Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
+{{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
 
 So unterschiedlich Lebenswege auch sind, eines haben alle Menschen gemeinsam: Sie sind geprägt durch Wurzeln und Herkunft. 
 

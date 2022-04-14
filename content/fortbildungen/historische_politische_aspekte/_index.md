@@ -6,7 +6,7 @@ menu:
         identifier: politik
 draft: false
 weight: 3
-description: "Sie möchten als Lebens- und SozialberaterIn – psychosoziale/r BeraterIn – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder TrainerIn erweitern? Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
+description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r BeraterIn – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder TrainerIn erweitern? Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
 og_title: "Historische, politische u. gesellschaftliche Aspekte in der Beratung am IFGE Burgenland"
 og_image: "/img/qualitaetsausbildungen.jpg"
 aliases: 
@@ -27,11 +27,11 @@ rich_faq:
 ## Vergangenheit verstehen. Zukunft gestalten.
 {{% floatbox %}}
 
-{{< image src="/img/politik_1.jpg" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett darauf, dass kollektive Traumata berücksichtigt werden und Lösungen im Einklang mit der Familiengeschichte sind." float="left">}} 
+{{< image src="/img/politik_1.jpg" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett darauf, dass kollektive Traumata berücksichtigt werden und Lösungen im Einklang mit der Familiengeschichte sind." float="left">}} 
 
 Wer die Vergangenheit versteht, kann die Zukunft gestalten. So ist es. Denn historische Ereignisse, gesellschaftliche Strukturen und Epigenetik beeinflussen unser Hier und Jetzt. Manchmal ist uns das bewusst, häufig allerdings nicht.  Konflikte, Ängste und Sehnsüchte haben ihren Ursprung nicht immer in der Gegenwart, sondern häufig auch in vergangenen Rollenbildern, Traditionen und Werten. 
 
-Gerade für [psychosoziale Berater\*innen](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/)/Terapeuten\*innen ist es wichtig, politische, gesellschaftliche und ideologische Rahmenbedingungen der Vergangenheit zu kennen. Denn diese haben einen maßgeblichen Einfluss auf die Gegenwart. Wer das große Ganze sieht, kann menschliche Bedürfnisse, Bedenken und Krisen ganzheitlich und damit besser verstehen. 
+Gerade für [psychosoziale Berater\*innen](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/)/Terapeuten\*innen ist es wichtig, politische, gesellschaftliche und ideologische Rahmenbedingungen der Vergangenheit zu kennen. Denn diese haben einen maßgeblichen Einfluss auf die Gegenwart. Wer das große Ganze sieht, kann menschliche Bedürfnisse, Bedenken und Krisen ganzheitlich und damit besser verstehen. 
 
 In dieser Ausbildung begeben wir uns auf die Spuren der Vergangenheit und erarbeiten historische, gesellschaftliche und politische Aspekte, welche für die psychosoziale Beratung/Therapie relevant sind und uns unterstützen, Klient\*innen noch systematischer zu begleiten. 
 

@@ -20,7 +20,7 @@ og_image: "/img/teambuilding.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/teambuilding.jpg" float="left" title="Teambuilding und Supervision die Spaß macht und zudem noch lehrreich ist. Am IFGE erhalten Sie durch die psychosoziale Betrachtungsweise der Teamübungen wertvolle Einblicke in verborgenen Ressourcen, neue Blickwinkel eröffnen sich und wie von selbst lösen sich – durch die spielerische Interaktion – starre Muster. " >}} 
+{{< image src="/img/teambuilding.jpg" float="left" title="Teambuilding und Supervision die Spaß macht und zudem noch lehrreich ist. Am IFGE erhalten Sie durch die psychologische Betrachtungsweise der Teamübungen wertvolle Einblicke in verborgenen Ressourcen, neue Blickwinkel eröffnen sich und wie von selbst lösen sich – durch die spielerische Interaktion – starre Muster. " >}} 
 
 Eine besondere Form der Supervision am IFGE ist das Angebot von „Supervision & Teambuilding“. 
 
@@ -35,10 +35,10 @@ In dieser teamfokussierten [Supervisionsgruppe](/supervision/philosophie/) werde
 {{% box blue=1 %}}
 {{% small %}}
 ### Ressourcen stärken
-Am IFGE gehen wir durch die langjährige psychosoziale Erfahrung also einen wichtigen Schritt weiter: Das, was sich an möglicherweise destruktiven Mustern zeigt und was in so manchen Übungen noch einmal deutlich sichtbar wird, haben Sie vielleicht – bewusst oder unbewusst – bereits gespürt. Doch möglicherweise fehlen Ihnen noch klare Hinweise, wie Sie diese Muster in neue, konstruktive Strukturen umwandeln können? Sie arbeiten in der Gruppe daran, vorhandene Ressourcen sowie Stärken zieldienlich für Ihre berufliche Zufriedenheit und Ihren wirtschaftlichen Erfolg einsetzen zu können. 
+Am IFGE gehen wir durch die langjährige psychologische Erfahrung also einen wichtigen Schritt weiter: Das, was sich an möglicherweise destruktiven Mustern zeigt und was in so manchen Übungen noch einmal deutlich sichtbar wird, haben Sie vielleicht – bewusst oder unbewusst – bereits gespürt. Doch möglicherweise fehlen Ihnen noch klare Hinweise, wie Sie diese Muster in neue, konstruktive Strukturen umwandeln können? Sie arbeiten in der Gruppe daran, vorhandene Ressourcen sowie Stärken zieldienlich für Ihre berufliche Zufriedenheit und Ihren wirtschaftlichen Erfolg einsetzen zu können. 
 
-### Teambuilding im psychosozialen Kontext
-Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Komponente der Supervision gesehen, wodurch der Mehrwert der psychosozialen Betrachtung Ihrer beruflichen Dynamiken mit in den Prozess eingebunden wird. Dazu gehört auch, dass wir psychosoziale Strukturen mit in unseren geschulten Blick nehmen. Denn auch wenn eine Übung vordergründig geglückt und eine Aufgabe spielerisch gemeistert scheint, können wir als exakte Beobachter in Teams destruktive Muster erkennen, die im verborgenen wirken. Wir lassen uns also vom kurzfristigen Erfolg einer Team-Übung nicht verführen, sondern nehmen den gesamten Prozess in den Blick, um auch langfristig erfolgreiche Strukturen für Sie zu erarbeiten und zu festigen. So entwickeln Sie sich persönlich ebenso weiter, wie sich auch das gesamte Team weiterentwickeln kann.
+### Teambuilding im psychologischen Kontext
+Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Komponente der Supervision gesehen, wodurch der Mehrwert der psychologischen Betrachtung Ihrer beruflichen Dynamiken mit in den Prozess eingebunden wird. Dazu gehört auch, dass wir psychosoziale Strukturen mit in unseren geschulten Blick nehmen. Denn auch wenn eine Übung vordergründig geglückt und eine Aufgabe spielerisch gemeistert scheint, können wir als exakte Beobachter in Teams destruktive Muster erkennen, die im verborgenen wirken. Wir lassen uns also vom kurzfristigen Erfolg einer Team-Übung nicht verführen, sondern nehmen den gesamten Prozess in den Blick, um auch langfristig erfolgreiche Strukturen für Sie zu erarbeiten und zu festigen. So entwickeln Sie sich persönlich ebenso weiter, wie sich auch das gesamte Team weiterentwickeln kann.
 
 {{% /small %}}
 {{% /box %}}
@@ -50,11 +50,11 @@ Die Teambuildingseminare werden am IFGE somit immer unter der erweiternden Kompo
 
 Probleme dürfen da angesprochen werden, wo sie sonst keinen passenden Platz finden und wir sprechen Probleme dort an, wo sie auf Grund der ganz natürlichen Betriebsblindheit gar nicht mehr gesehen werden können. 
 
-Nutzen Sie Ihr volles Potenzial, indem Sie durch unser psychosoziales Teambuilding Störfaktoren ausräumen und Ihre Ressourcen fördern. Je nach Anliegen oder Kernthematik Ihrer beruflichen Herausforderungen gehen wir individuell im Team auf Sie ein. 
+Nutzen Sie Ihr volles Potenzial, indem Sie durch unser psychologisches Teambuilding Störfaktoren ausräumen und Ihre Ressourcen fördern. Je nach Anliegen oder Kernthematik Ihrer beruflichen Herausforderungen gehen wir individuell im Team auf Sie ein. 
 
-Unser Angebot beinhaltet ein breites Spektrum an psychosozialen Interventionen im wirtschaftlichen Kontext, die nachhaltige Lösungen entstehen lassen. Durch hochmoderne Utensilien für diverse Tools gestaltet sich die Teambuilding-Supervision für Sie kurzweilig, abwechslungsreich und vor allem neuartig. 
+Unser Angebot beinhaltet ein breites Spektrum an psychologischen Interventionen im wirtschaftlichen Kontext, die nachhaltige Lösungen entstehen lassen. Durch hochmoderne Utensilien für diverse Tools gestaltet sich die Teambuilding-Supervision für Sie kurzweilig, abwechslungsreich und vor allem neuartig. 
 
-Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelingen, keinesfalls zu kurz. Außerdem erhalten Sie im Zuge der Supervision spannende Inputs rund um soziodynamische, psychosoziale und wirtschaftliche Prozesse in Gruppen, damit Sie diese letztlich für Ihren persönlichen beruflichen Erfolg einsetzen können. Sie erfahren dazu einen neuen Zugang zum Thema Teambuilding, der im Besonderen auf Ihre Ressourcen und Ihre Zufriedenheit fokussiert. Profitieren Sie von einer idealen Verbindung bewährter Teambuilding-Strategien kombiniert mit allen Vorteilen der [Supervision](/supervision/philosophie/) für Ihre nachhaltig berufliche Zufriedenheit.
+Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelingen, keinesfalls zu kurz. Außerdem erhalten Sie im Zuge der Supervision spannende Inputs rund um soziodynamische, psychologische und wirtschaftliche Prozesse in Gruppen, damit Sie diese letztlich für Ihren persönlichen beruflichen Erfolg einsetzen können. Sie erfahren dazu einen neuen Zugang zum Thema Teambuilding, der im Besonderen auf Ihre Ressourcen und Ihre Zufriedenheit fokussiert. Profitieren Sie von einer idealen Verbindung bewährter Teambuilding-Strategien kombiniert mit allen Vorteilen der [Supervision](/supervision/philosophie/) für Ihre nachhaltig berufliche Zufriedenheit.
 
 
 {{< line icon="icon/info_tuerkis.png" >}}

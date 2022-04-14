@@ -33,14 +33,14 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/index_sv_ausbildung.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychosoziale Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
+{{< image src="/img/index_sv_ausbildung.jpg" title="Im Upgrade zur Supervisor\*in lernen Sie sehr praxisorientiert angehende Lebensberater\*innen - psychologische Berater\*innen in Ihren Berufsalltag zu unterstützen. Die Ausbildung ist von der WKO anerkannt und Sie können sich, nach Absolvierung dieser und das benötigte Praktikum in die Liste der WKO für Supervisor\*innen eintragen lassen. "float="left " >}}
 
 
-Supervision ist ein zentraler Bestandteil einer professionellen beruflichen Haltung. Nicht nur in der [psychosozialen Beratung](https://www.ifge.at/psychosoziale-beratung/einzelberatung/), sondern auch in vielen anderen Berufsfeldern. Nur, wer seine Rolle, seine Methodik und seine Erfahrungen laufend reflektiert, bewahrt eine so wichtige kritische Haltung, entwickelt sich weiter und geht mit der Zeit. 
+Supervision ist ein zentraler Bestandteil einer professionellen beruflichen Haltung. Nicht nur in der [psychosozialen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/), sondern auch in vielen anderen Berufsfeldern. Nur, wer seine Rolle, seine Methodik und seine Erfahrungen laufend reflektiert, bewahrt eine so wichtige kritische Haltung, entwickelt sich weiter und geht mit der Zeit. 
 
 Wer als Coach tätig ist, viel mit Gruppen arbeitet oder angehende Lebens- und Sozialberater\*innen supervidieren, mit ihnen konkrete Fälle besprechen und sie damit in ihrer Entwicklung unterstützen möchte, für den ist das Upgrade [Supervision](https://www.ifge.at/supervision/philosophie/) interessant.
 
-Der Lehrgang richtet sich an Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen, die Wissen und Erfahrungen mit angehenden Kolleg\*innen teilen möchten, viel im Gruppensetting aktiv sind oder als Coaches arbeiten. Die Zertifizierung als Supervisor\*in erfordert neben einer aufrechten Gewerbeberechtigung den Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung). Diese 100 Stunden werden mit unserem Lehrgang zur Gänze abgedeckt. 
+Der Lehrgang richtet sich an Lebens- und Sozialberater\*innen – psychologische Berater\*innen, die Wissen und Erfahrungen mit angehenden Kolleg\*innen teilen möchten, viel im Gruppensetting aktiv sind oder als Coaches arbeiten. Die Zertifizierung als Supervisor\*in erfordert neben einer aufrechten Gewerbeberechtigung den Nachweis von mindestens 100 Stunden zusätzlicher Qualifikation (BGBL. II, 112. Verordnung vom 14. 3. 2006, Änderung der Lebens- und Sozialberater-Verordnung). Diese 100 Stunden werden mit unserem Lehrgang zur Gänze abgedeckt. 
 
 Wer sich in weiterer Folge in die [Supervisorenliste der WKO ](https://firmen.wko.at/suche_lebensberater-supervision/)eintragen lassen möchte, muss zusätzlich ein Praktikum im Ausmaß von 100 Stunden im Bereich der Supervision sowie 5 Einzelsupervisionsstunden absolvieren (Bestätigung durch eine/n beim Fachverband eingetragene/n Supervisor\*in). 
 
@@ -77,19 +77,19 @@ Der/die Supervisor\*in unterstützt beratend bei allen beruflichen Herausforderu
 {{% box top-align=1 %}}
 {{% small %}}
 #### [Einzelsupervision](/supervision/einzelsupervision/)
-{{< image src="/img/einzelsupervision.jpg" title="Die Lehrinhalte umfassen: Supervision im Einzelsetting für Lebensberater\*innen - psychosoziale Berater\*innen. " >}}
+{{< image src="/img/einzelsupervision.jpg" title="Die Lehrinhalte umfassen: Supervision im Einzelsetting für Lebensberater\*innen - psychologische Berater\*innen. " >}}
 
 {{% /small  %}}
 
 {{% small  %}}
 #### [Teamsupervision](/supervision/teamsupervision/)
-{{< image src="/img/teamsupervision.jpg" title=" Die Lehrinhalte umfassen: Supervision im Team für Lebensberater\*innen - psychosoziale Berater\*innen, Institutionen und Teams ">}}
+{{< image src="/img/teamsupervision.jpg" title=" Die Lehrinhalte umfassen: Supervision im Team für Lebensberater\*innen - psychologische Berater\*innen, Institutionen und Teams ">}}
 
 {{% /small  %}}
 
 {{% small  %}}
 #### [Gruppensupervision](/supervision/geschlossenegruppe/)
-{{< image src="/img/gruppensupervision.jpg" title=" Die Lehrinhalte umfassen: Supervision in der Gruppe für Lebensberater\*innen - psychosoziale Berater\*innen.">}}
+{{< image src="/img/gruppensupervision.jpg" title=" Die Lehrinhalte umfassen: Supervision in der Gruppe für Lebensberater\*innen - psychologische Berater\*innen.">}}
 
 {{% /small  %}}
 

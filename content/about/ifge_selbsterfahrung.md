@@ -10,7 +10,7 @@ weight: 9
 
 {{< line icon="icon/supervision.png" >}}
 
-Die Berufsausbildung zum/zur Dipl. psychosozialen Berater*in lebt nicht alleine von theoretischen Inhalten, weshalb am IFGE  seit jeher ein besonderes Augenmerk auf praxisnahen Unterricht und viele aktive Übungssequenzen gelegt wird. Denn sowohl die fachliche Praxis als auch die eigene Fähigkeit zur Empathie und zur ganzheitlichen Wahrnehmung spielen eine wichtige Rolle, wenn es darum geht, später auf hohem Niveau beraten zu können.
+Die Berufsausbildung zum/zur Dipl. psychologischen Berater*in lebt nicht alleine von theoretischen Inhalten, weshalb am IFGE  seit jeher ein besonderes Augenmerk auf praxisnahen Unterricht und viele aktive Übungssequenzen gelegt wird. Denn sowohl die fachliche Praxis als auch die eigene Fähigkeit zur Empathie und zur ganzheitlichen Wahrnehmung spielen eine wichtige Rolle, wenn es darum geht, später auf hohem Niveau beraten zu können.
 
 Um ein professionelles Beratungs-Setting anzubieten, ist es wichtig, die eigenen Trigger-Punkte und persönlichen Themen zu kennen, die eine professionelle Distanz zu den Klient*innen verhindern könnten. 
 

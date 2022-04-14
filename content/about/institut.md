@@ -47,21 +47,21 @@ Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung
 
 {{% box blue=1 %}}
 {{% large %}}
-Im Jahr 2012 startete an meinem Institut somit der erste [Diplomlehrgang zur Berufsausbildung Lebens- und Sozialberatung – psychosoziale Beratung](/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/). 
+Im Jahr 2012 startete an meinem Institut somit der erste [Diplomlehrgang zur Berufsausbildung Lebens- und Sozialberatung – psychosoziale Beratung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/). 
 
 Mittlerweile wurden am IFGE hunderte Diplome und Zertifikate erarbeitet und zahlreiche Lehrgänge erfolgreich abgeschlossen. Heute laufen drei bis fünf Berufsausbildungen an unterschiedlichen Wochentagen und an verschiedenen Orten parallel: Denn neben der Hauptniederlassung des IFGE in Wien wurde 2018 in Pinkafeld im Burgenland eine Zweigstelle errichtet und 2019 folgte die Entscheidung, auch im niederösterreichischen St. Pölten eine IFGE-Niederlassung zu gründen.
 
 Lebensberatung, Lebens- und Sozialberatung, psychosoziale Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychosoziale Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Klangschalen
 
-Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender [Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen](/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/). 
+Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender [Lebens- und Sozialberater\*innen – psychologische Berater\*innen](/diplomlehrgaenge/lebensberatung_psychologische_beratung/). 
 {{% /large %}}
 {{% /box %}}
 
 {{% /large %}}
 {{% small  %}}
-{{< image src="/img/institut_2.jpg" title="´Paarberatung oder Paar Sexualberatung ist ein wesentlicher Bestandteil in der Arbeit als Lebens- und Sozialberater\*in – psychosozialer Berater\*in. Supervision kann bei Silvia Podlisca sowohl im Einzel wie auch als Team in Anspruch genommen werden." >}}
+{{< image src="/img/institut_2.jpg" title="´Paarberatung oder Paar Sexualberatung ist ein wesentlicher Bestandteil in der Arbeit als Lebens- und Sozialberater\*in – psychologischer Berater\*in. Supervision kann bei Silvia Podlisca sowohl im Einzel wie auch als Team in Anspruch genommen werden." >}}
 <br>
-{{< image src="/img/yes.jpg" title="Seit 2012 leitet Silvia Podlisca den Diplomlehrgang für Lebens- und Sozialberater\*innen – psychosozialer Berater\*innen in Wien, Niederösterreich und Burgenland. Zudem bietet Silvia Podlisca am IFGE vertiefende Weiterbildungen für Supervision, Aufstellungsarbeit, Sexualberatung, Paarberatung, Psychosomatik, sexuelle Belästigung und Stalking, psychosoziales Coaching sowohl als Onlineausbildungen wie auch als Präsenzausbildungen in Wien, Niederösterreich und Burgenland an." >}}
+{{< image src="/img/yes.jpg" title="Seit 2012 leitet Silvia Podlisca den Diplomlehrgang für Lebens- und Sozialberater\*innen – psychologischer Berater\*innen in Wien, Niederösterreich und Burgenland. Zudem bietet Silvia Podlisca am IFGE vertiefende Weiterbildungen für Supervision, Aufstellungsarbeit, Sexualberatung, Paarberatung, Psychosomatik, sexuelle Belästigung und Stalking, psychologisches Coaching sowohl als Onlineausbildungen wie auch als Präsenzausbildungen in Wien, Niederösterreich und Burgenland an." >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -90,8 +90,8 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/entwicklung_noe.jpg"title="Teamsupervision, Teamcoaching und Unterricht in Kleingruppen, um den bestmöglichen Lernerfolg für Sie zu erzielen. Am IFGE finden Sie eine Atmosphäre der Wertschätzung und Achtsamkeit vor und werden von sehr erfahrenen Referenten\*innen betreut. Denn: nur wenn Sie erfolgreich in ihrer psychosozialen Praxis sind, ist auch das IFGE erfolgreich" >}}
-{{< image src="/img/lsb_info_noe1.jpg" title="Am IFGE wird von Beginn an das Berufsbild der Lebens- und Sozialberatung – psychosozialen Beratung vorgestellt. Alle Möglichkeiten und Grenzen sowie Abgrenzung zu den anderen psychosozialen Berufsgruppen werden ebenso erörtert wie das Praktikum um als Lebens- und Sozialberater\*in  - psychosoziale Berater\*in  in freier Praxis erfolgreich tätig zu sein. Am IFGE erfahren Sie größtmögliche Unterstützung beim Erreichen des Gewerbescheins für das Gewerbe: Lebens- und Sozialberatung – psychosoziale Beratung.">}}
+{{< image src="/img/entwicklung_noe.jpg"title="Teamsupervision, Teamcoaching und Unterricht in Kleingruppen, um den bestmöglichen Lernerfolg für Sie zu erzielen. Am IFGE finden Sie eine Atmosphäre der Wertschätzung und Achtsamkeit vor und werden von sehr erfahrenen Referenten\*innen betreut. Denn: nur wenn Sie erfolgreich in ihrer psychologischen Praxis sind, ist auch das IFGE erfolgreich" >}}
+{{< image src="/img/lsb_info_noe1.jpg" title="Am IFGE wird von Beginn an das Berufsbild der Lebens- und Sozialberatung – psychosozialen Beratung vorgestellt. Alle Möglichkeiten und Grenzen sowie Abgrenzung zu den anderen psychosozialen Berufsgruppen werden ebenso erörtert wie das Praktikum um als Lebens- und Sozialberater\*in  - psychologische Berater\*in  in freier Praxis erfolgreich tätig zu sein. Am IFGE erfahren Sie größtmögliche Unterstützung beim Erreichen des Gewerbescheins für das Gewerbe: Lebens- und Sozialberatung – psychosoziale Beratung.">}}
 {{% /small  %}}
 
 {{% large %}}
@@ -109,7 +109,7 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 # Coaching für Führungskräfte
 
 
-Meine Philosophie hinsichtlich der [Ausbildungs-](/diplomlehrgaenge/) und [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](https://www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](https://www.fcbp.at/gr%C3%BCndung/) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten [Tagesseminare](https://www.fcbp.at/tagestrainings/) sowie [Workshops](https://www.fcbp.at/workshops/) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychosozialem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
+Meine Philosophie hinsichtlich der [Ausbildungs-](/diplomlehrgaenge/) und [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](https://www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](https://www.fcbp.at/gr%C3%BCndung/) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten [Tagesseminare](https://www.fcbp.at/tagestrainings/) sowie [Workshops](https://www.fcbp.at/workshops/) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
 
 {{% /small  %}}
 {{% /box %}}
@@ -120,17 +120,17 @@ Meine Philosophie hinsichtlich der [Ausbildungs-](/diplomlehrgaenge/) und [Selbs
 {{% small  %}}
 {{< image src="/img/impulspro.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychosoziale Berater\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologische Berater\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/supervision.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als zertifizierte Supervisor\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als zertifizierte Supervisor\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/berufsverband.jpg" >}}

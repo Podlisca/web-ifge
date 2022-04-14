@@ -2,7 +2,7 @@
 title: "Familienaufstellungen"
 menu:
     main:
-        parent: psychosozialeberatung
+        parent: psychologischeberatung
         identifier: familienaufstellungen
 draft: false
 weight: 4
@@ -58,11 +58,11 @@ rich_faq:
 
 ## Weil uns Familie prägt: Familienaufstellung mit Silvia Podlisca.
 
-{{< image src="/img/aufstellung_noe1.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychosoziale Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
+{{< image src="/img/aufstellung_noe1.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychologische Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
 
 Klein oder groß. Nah oder entfernt. Harmonisch oder belastet. So vielfältig Familien und ihre Geschichten auch sind, eines ist gewiss: Familien sind Herkunft und damit häufig auch Quelle von Fragen, Konflikten und Sorgen. Wer sich selbst besser kennenlernen, alte Muster auflösen oder schmerzhafte Erinnerungen aufarbeiten möchte, der ist gut beraten sich mit seinen Wurzeln und damit seiner Familie systematisch und professionell auseinanderzusetzen.
 
-Und genau dies passiert in der [Familienaufstellung](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/), die sowohl im [Einzel-](https://www.ifge.at/psychosoziale-beratung/systemische-einzelberatung/) als auch im [Gruppensetting](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/) stattfinden kann. Aufbauend auf der Familienaufstellung nach Bert Hellinger hat IFGE-Leiterin Silvia Podlisca eine eigene Methode entwickelt. Eine Methode, die nicht nur kollektive Dynamiken, sondern auch individuelles Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht.
+Und genau dies passiert in der [Familienaufstellung](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/), die sowohl im [Einzel-](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) als auch im [Gruppensetting](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/) stattfinden kann. Aufbauend auf der Familienaufstellung nach Bert Hellinger hat IFGE-Leiterin Silvia Podlisca eine eigene Methode entwickelt. Eine Methode, die nicht nur kollektive Dynamiken, sondern auch individuelles Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht.
 
 
 {{% silvia %}}
@@ -110,7 +110,7 @@ Idealisierung. Runterspielen. Schönreden. Damit hat professionelle Familienaufs
 
 ## Familienaufstellung am IFGE: Ablauf und Methodik.
 
-Vor einer Familienaufstellung empfehle ich Ihnen zunächst Kontakt wegen einem Erstgespräch aufzunehmen. In diesem Erstgespräch klären wir Ihre Beweggründe und Sie erhalten relevante Vorinformationen. Nach der Aufstellung, die im [Einzel-](https://www.ifge.at/psychosoziale-beratung/systemische-einzelberatung/) oder  [Gruppensetting](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/) stattfinden kann, stehe ich bei Bedarf für weitere Betreuung zur Verfügung.
+Vor einer Familienaufstellung empfehle ich Ihnen zunächst Kontakt wegen einem Erstgespräch aufzunehmen. In diesem Erstgespräch klären wir Ihre Beweggründe und Sie erhalten relevante Vorinformationen. Nach der Aufstellung, die im [Einzel-](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) oder  [Gruppensetting](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/) stattfinden kann, stehe ich bei Bedarf für weitere Betreuung zur Verfügung.
 
 IFGE-Leiterin Silvia Podlisca hat eine eigene Familienaufstellungsmethode entwickelt. Ihr Ansatz baut auf jenem von Bert Hellinger auf, verfeinert diesen allerdings und bietet eine noch ganzheitlichere Sichtweise. Eine Methode, die nicht nur kollektive Dynamiken, sondern auch individuelles Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht. 
 
@@ -162,7 +162,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 [Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychosoziale-beratung/systemische-einzelberatung/)**
+**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/)**
 
 
 {{< line icon="icon/3_standorte.png" >}}
