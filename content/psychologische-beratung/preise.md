@@ -2,7 +2,7 @@
 title: "Preise"
 menu: 
     main:
-        parent: psychologischeberatung
+        parent: psychosozialeberatung
         identifier: beratung_preise
 draft: false
 weight: 

@@ -36,7 +36,7 @@ Neben der ärztlichen Betreuung kann der ganzheitliche Ansatz im psychosozialen 
 * Anatomisches Grundverständnis: Der Körper und seine Organe von Kopf bis Fuß
 * Körperebenen und Organsprache: Welche Organe stehen für welche seelischen Prozesse?
 * Streifzug durch die Traditionelle Chinesische Medizin: Welche Funktionen haben Energiebahnen, wo verlaufen sie und wie können Sie dieses Wissen in der Beratung einbauen?
-* Verbindung von psychologischer Gesprächsführung und Körperarbeit
+* Verbindung von psychosozialer Gesprächsführung und Körperarbeit
 * Physische Übungen für mehr Balance zwischen Körper und Geist
 
 {{< line icon="icon/test.png" >}}

@@ -25,9 +25,9 @@ Wer seine Zukunft aktiv gestalten, Blockaden lösen und seine Lebensqualität er
 
 Um die Gegenwart und deren Bereicherung durch konstruktive Gedanken, geht es in der Glaubenssatzaufstellung. Diese Methode ist alleine deswegen so wertvoll, weil wir uns destruktiven Mustern und Werten manchmal hilflos ausgeliefert fühlen. Wir nehmen Dinge hin anstatt sie durch ein anderes Mindset zu verändern. Wir leben in der Vergangenheit anstatt in der Gegenwart.
 
-Die [Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) unterstützt im Hinblick auf Verständnis, Bewusstsein und Aufarbeitung der eigenen Familiengeschichte. 
+Die [Familienaufstellung](https://www.ifge.at/psychosoziale-beratung/familienaufstellungen/) unterstützt im Hinblick auf Verständnis, Bewusstsein und Aufarbeitung der eigenen Familiengeschichte. 
 
-Damit richtet sich der Blick auch stark in die Vergangenheit. Die Glaubenssatzaufstellung fokussiert vor allem die Gegenwart. Im Zentrum stehen Ihre Bedürfnisse, Themen und Ziele im Hier und Jetzt. Empfehlenswert ist eine Verbindung von [Familienaufstellung](http://localhost:1313/gruppenselbsterfahrung/familienaufstellung/) und [Glaubenssatzaufstellung](https://www.ifge.at/psychologische-beratung/glaubenssatzaufstellungen/). 
+Damit richtet sich der Blick auch stark in die Vergangenheit. Die Glaubenssatzaufstellung fokussiert vor allem die Gegenwart. Im Zentrum stehen Ihre Bedürfnisse, Themen und Ziele im Hier und Jetzt. Empfehlenswert ist eine Verbindung von [Familienaufstellung](http://localhost:1313/gruppenselbsterfahrung/familienaufstellung/) und [Glaubenssatzaufstellung](https://www.ifge.at/psychosoziale-beratung/glaubenssatzaufstellungen/). 
 
 {{% silvia %}}
 {{% /floatbox %}}

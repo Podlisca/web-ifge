@@ -67,7 +67,7 @@ In unserer Ausbildung zum/zur Vertrauenslehrer\*in erlernen Sie einen umfassende
 
 Konfliktmanagement und Mediations-Tools sind ebenso Teil der Vertrauenslehrer\*innen-Ausbildung, damit Sie sich letztlich sicher und präsent in Ihrer Rolle fühlen können. Denn nur, wenn Sie sich selbst Ihrer Sache sicher sind, können Sie Ihre Schüler\*innen optimal unterstützen. 
 
-Gleichzeitig lernen Sie im Zuge der Burn-out-Prävention, wie Sie eine gesunde Distanz zu den Anliegen Ihrer Schüler\*innen bewahren können, um selbst gesund und arbeitsfähig zu bleiben. Die Methodenschwerpunkte am IFGE Wien umfassen dabei ebenso die psychologische Arbeit mit tierischer Unterstützung, welche besonders im Umgang mit Kindern und Jugendlichen zu empfehlen ist. In unserer Vertrauenslehrer\*in-Ausbildung lernen Sie daher auch, wie Sie Hunde und Katzen optimal in den Prozess einbauen können, um zu einem langfristig gesunden Schulklima beizutragen.
+Gleichzeitig lernen Sie im Zuge der Burn-out-Prävention, wie Sie eine gesunde Distanz zu den Anliegen Ihrer Schüler\*innen bewahren können, um selbst gesund und arbeitsfähig zu bleiben. Die Methodenschwerpunkte am IFGE Wien umfassen dabei ebenso die psychosoziale Arbeit mit tierischer Unterstützung, welche besonders im Umgang mit Kindern und Jugendlichen zu empfehlen ist. In unserer Vertrauenslehrer\*in-Ausbildung lernen Sie daher auch, wie Sie Hunde und Katzen optimal in den Prozess einbauen können, um zu einem langfristig gesunden Schulklima beizutragen.
 
 {{% /small %}}
 {{% /box %}}

@@ -20,7 +20,7 @@ og_image: "/img/kinder_schuetzen_ziel.jpg"
 
 ## UMGANG MIT DER EIGENEN ANGST & WISSEN KONSTRUKTIV AN DIE KINDER WEITERGEBEN
 
-{{< image src="/img/kinder_schuetzen_ziel.jpg" title="Ein wesentlicher Faktor dieses Workshops ist auch, dass wir Ihnen Gesprächstechniken speziell für Kinder und Jugendliche vorstellen, damit aufmerksames Zuhören begünstig wird. Erfahrene Lebensberater\*in -psychologischen Berater\*in mit Zusatzausbildung in Supervision, und Gesprächsführung mit Kindern, leiten diesen Onlineworkshop."float="left " >}} 
+{{< image src="/img/kinder_schuetzen_ziel.jpg" title="Ein wesentlicher Faktor dieses Workshops ist auch, dass wir Ihnen Gesprächstechniken speziell für Kinder und Jugendliche vorstellen, damit aufmerksames Zuhören begünstig wird. Erfahrene Lebensberater\*in -psychosozialen Berater\*in mit Zusatzausbildung in Supervision, und Gesprächsführung mit Kindern, leiten diesen Onlineworkshop."float="left " >}} 
 
 Das Seminar soll allerdings nicht alleine dazu dienen, dass Sie spezielle sowie risikobehaftete Aktionen, die im Trend liegen, kennen und Gefahren im Online-Bereich abschätzen können. Mit der digitalen Fortbildung möchten wir Ihnen neben einem realistischen Blick auf die Einfälle und die Lebenswelt der jungen Generation vor allem Strategien zum Umgang damit vermitteln. Wir betrachten daher gleichzeitig, was Sie als Elternteil brauchen, um einen für Sie passenden Umgang mit Ihren eigenen Bedenken und Ängsten zu finden.
 

@@ -8,7 +8,7 @@ img: "beratung_2021.jpg"
 og_image: "/img/beratung_2021.jpg"
 description: "Die Ausbildung zur Lebens- und Sozialberatung - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Beraterinnen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…"
 ---
-**Die [Ausbildung zur Lebens- und Sozialberatung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Berater\*innen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…**
+**Die [Ausbildung zur Lebens- und Sozialberatung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/) - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Berater\*innen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…**
 <br>
 
 
@@ -34,7 +34,7 @@ Psychosoziale Themen, wie psychische Gesundheit, Selbstverwirklichung, Sinnstift
 
 ### Externe Beratung: Ein Gewinn.
 
-Nicht jeder kann alles (wissen). Das ist nun einmal so. Hinzu kommt, dass nicht jede\*r psychosoziale Ausbildungen absolvieren kann und/oder möchte, zumal diese auch eine gewisse Eignung voraussetzen und mit zahlreichen Kursstunden, Supervision und viel Arbeit verbunden sind. Wer als Bildungsinstitution, Gesundheitsbetrieb oder Unternehmen psychosoziale Kompetenz nicht intern abdecken kann, kann auf externe Expertise vertrauen und diese bei Bedarf hinzuziehen. Innerhalb psychosozialer Berufe gibt es zahlreiche Schwerpunkte und damit Expert\*innen für unterschiedliche Fragen, wie [Teambuilding](https://www.ifge.at/fortbildungen/psychologisches_teambuilding/), [Umgang mit sexueller Belästigung](https://www.ifge.at/online-ausbildungsangebote/sexuelle_belaestigung/) oder [tiergestützte Beratung](https://www.ifge.at/upgrades/tiergestuetzte_psychologische_beratung/).   
+Nicht jeder kann alles (wissen). Das ist nun einmal so. Hinzu kommt, dass nicht jede\*r psychosoziale Ausbildungen absolvieren kann und/oder möchte, zumal diese auch eine gewisse Eignung voraussetzen und mit zahlreichen Kursstunden, Supervision und viel Arbeit verbunden sind. Wer als Bildungsinstitution, Gesundheitsbetrieb oder Unternehmen psychosoziale Kompetenz nicht intern abdecken kann, kann auf externe Expertise vertrauen und diese bei Bedarf hinzuziehen. Innerhalb psychosozialer Berufe gibt es zahlreiche Schwerpunkte und damit Expert\*innen für unterschiedliche Fragen, wie [Teambuilding](https://www.ifge.at/fortbildungen/psychosoziales_teambuilding/), [Umgang mit sexueller Belästigung](https://www.ifge.at/online-ausbildungsangebote/sexuelle_belaestigung/) oder [tiergestützte Beratung](https://www.ifge.at/upgrades/tiergestuetzte_psychosoziale_beratung/).   
 
 ### Unser Fazit: Relevanz für viele Berufsfelder.
 

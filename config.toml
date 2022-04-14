@@ -67,6 +67,6 @@ og_image = "/img/startseite_handy.jpg"
 
     [[menu.main]]
         name = "psychosoziale Beratung"
-        identifier = "psychologischeberatung"
+        identifier = "psychosozialeberatung"
         url = "#"
         weight = 8

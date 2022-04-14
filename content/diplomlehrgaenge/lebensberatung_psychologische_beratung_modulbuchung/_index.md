@@ -12,11 +12,11 @@ description: "Lebens- und Sozialberatung - psychosoziale Beratung - Modulbuchung
 og_title: "Ausbildung Lebensberatung - psychosoziale Beratung am IFGE"
 og_image:  "/img/modulbuchung.jpg"
 aliases: 
-    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung-modulbuchung/"
+    - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychosoziale-beratung-modulbuchung/"
 rich_kurs: true
 
 rich_faq:
-    -   frage: "Wie arbeitet ein psychologischer Berater eine psychologische Beraterin?"
+    -   frage: "Wie arbeitet ein psychosozialer Berater eine psychosoziale Beraterin?"
         antwort: "psychosozialen BeraterInnen konzentrieren sich stark auf das Hier und Jetzt und unterstützen KlientInnen aktuellen Problemsituationen. Sie versuchen, dabei so viel von der Vergangenheit der KlientInnen, wie nötig einzubauen, aber so wenig, wie möglich, damit ihre KlientInnen rasch im aktuellen Leben neue Sichtweisen und Lösungsansätze entwickeln können. Dabei arbeiten sie mit den unterschiedlichsten Methoden der Psychotherapie. Die besondere Stärke der psychosozialen Beratung liegt in der Prävention von psychischen Erkrankungen. Denn, wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen.psychosozialen BeraterInnen fangen sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt. In der psychosozialen Beratung arbeiten also professionell ausgebildete Menschen mit gesunden Menschen daran, dass diese ihre seelische Gesundheit langfristig erhalten."
     -   frage: "Was sind die Grenzen der Lebensberatung - psychosozialen Beratung?"
         antwort: "Auch wenn psychosozialen BeraterInnen mit den Methoden der Psychotherapie arbeiten, haben Sie nicht deren Befugnis, Diagnosen zu stellen oder mit Menschen zu arbeiten, die bereits eine psychische Erkrankungen oder Störung entwickelt haben."
@@ -29,11 +29,11 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/modulbuchung.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
+{{< image src="/img/modulbuchung.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
 ## Probleme lösen. Perspektiven erarbeiten.
 
-Als Lebens- und Sozialberater\*in - psychologische Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. 
+Als Lebens- und Sozialberater\*in - psychosoziale Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. 
 Sollten Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wirtschaftskammer](https://www.lebensberater.at/) angerechnet worden sein, so ist es möglich folgende Module am IFGE einzeln zu buchen:
 {{% box top-align=1 %}}
 {{% small %}}

@@ -18,11 +18,11 @@ og_image: "/img/supervisionswoche.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/supervisionswoche.jpg" float="left" title="In dieser Intensivwoche haben Sie die Möglichkeit sich eine Woche lang Ihre Themen als angehende Lebensberater\*in -psychologischen Berater\*in zu widmen. Fragen aus dem Berufsalltag, zum Lehrstoff aber auch zum Praxisaufbau können gut beleuchtet werden. Zudem erhalten Sie einen sehr realistischen Einblick wie der Praxisalltag aussieht, wenn man sich eine Woche ausschliesslich mit dem Beruf beschäftigt. " >}} 
+{{< image src="/img/supervisionswoche.jpg" float="left" title="In dieser Intensivwoche haben Sie die Möglichkeit sich eine Woche lang Ihre Themen als angehende Lebensberater\*in -psychosozialen Berater\*in zu widmen. Fragen aus dem Berufsalltag, zum Lehrstoff aber auch zum Praxisaufbau können gut beleuchtet werden. Zudem erhalten Sie einen sehr realistischen Einblick wie der Praxisalltag aussieht, wenn man sich eine Woche ausschliesslich mit dem Beruf beschäftigt. " >}} 
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
-Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater\*in - psychologische Berater\*in eingereicht werden. 
+Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater\*in - psychosoziale Berater\*in eingereicht werden. 
 
 Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozialen Bereich arbeiten, offen. Es empfiehlt sich, mit der Methode des Aufstellens vertraut zu sein. 
 <br/>

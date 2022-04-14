@@ -9,7 +9,7 @@ weight: 1
 ---
 
 # ONLINE Ausbildung: 
-# psychologisches Coaching
+# psychosoziales Coaching
 
 {{< slogan >}}
 

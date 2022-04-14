@@ -40,7 +40,7 @@ Vor der Eröffnung einer eigenen Beratungspraxis stehen (angehende) Berater\*inn
 * Wie können Social Media-Kanäle zieldienlich für den Erfolg in der psychosozialen Beratung eingesetzt werden?
 * Welche organisations-systemischen Fragen gilt es, sich im Zuge der Gewerbeeröffnung zu stellen?
  
-Für diese und andere Fragen ist in dem Workshop, der speziell auf die Branche der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychosozialen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater\*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen.
+Für diese und andere Fragen ist in dem Workshop, der speziell auf die Branche der Lebens- und Sozialberater\*innen – psychosozialen Berater\*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychosozialen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater\*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen.
 
 {{< line icon="icon/test.png" >}}
 

@@ -8,7 +8,7 @@ draft: false
 weight: 1
 og_image:  "/img/lsb_info_noe3.jpg"
 rich_faq:
-    -   frage: "Was lerne ich als Lebens-und Sozialberater - psychologische Berater?"
+    -   frage: "Was lerne ich als Lebens-und Sozialberater - psychosoziale Berater?"
         antwort: "Die Grundausbildung am IFGE lehrt fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung, Familienaufstellung, Krisenintervention und Sexualberatung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz. Die Themen, mit denen zukünftige Klient*innen zu Lebens- und Sozialberater*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen"
 ---
 
@@ -22,7 +22,7 @@ rich_faq:
 ## Die SGF®-Methode. 
 ## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
 
-{{< image src="/img/sgf_ziele.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
+{{< image src="/img/sgf_ziele.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
 
 Wer bin ich? Warum bin ich, wie ich bin? Warum belasten und blockieren mich Zweifel, Ängste und Sorgen? Warum kommt es in meiner Familie immer wieder zu Streit? Warum habe ich keinen Kontakt zu meinen Eltern? Warum bin ich traurig, wenn ich an meine Kindheit denke? Weshalb distanziere ich mich von meiner Herkunft? Wie kann ich das Verhältnis zu meiner Familie verbessern? Die eigene Persönlichkeitsstruktur, individuelle Bedürfnisse und belastende Muster haben ihren Ursprung häufig in der Herkunft und damit in unserer Familie. 
 
