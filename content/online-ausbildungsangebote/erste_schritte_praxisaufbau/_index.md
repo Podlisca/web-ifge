@@ -15,7 +15,7 @@ rich_faq:
     -   frage: "Wie kommt man eigentlich an die ersten eigenen Klient*innen?"
         antwort: "Dafür müssen Sie sichtbar werden. „Zeig’ dich!“ ist die Devise – aber bitte professionell. Bevor der erste Klient oder die erste Klientin also die eigene Praxis betritt, gibt es zahlreiche Schritte, die es für eine erfolgreiche und vor allem professionelle Gründung braucht. Und das sind gar nicht wenige."
     -   frage: "Wie gestalte ich einen professionellen Werbeauftritt als LSB?"
-        antwort: "Für diese und andere Fragen ist im Online Workshop, der speziell auf die Branche der Lebens- und Sozialberater*innen – psychosozialen Berater*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychosozialen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen."
+        antwort: "Für diese und andere Fragen ist im Online Workshop, der speziell auf die Branche der Lebens- und Sozialberater*innen – psychologischen Berater*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychosozialen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen."
 ---
 
 # ONLINE Ausbildung: 
@@ -27,7 +27,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/zeig_dich.jpg" title="Um als Lebensberater\*in -psychosozialen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin braucht es neben einer kompetenten Ausbildung auch das richtige Marketing. Gerade im psychosozialen Bereich ist es oftmals schwierig, weil sich die Anliegen unserer Klienten\*innen nicht in die typischen Marketingladen legen lassen. Wie zeige ich mich also als Lebensberater\*in -psychosozialen Berater\*in passend um auch genügend Klienten\*innen zu haben. In dieser Ausbildung erfahren Sie wie es geht." float="left " >}}
+{{< image src="/img/zeig_dich.jpg" title="Um als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin braucht es neben einer kompetenten Ausbildung auch das richtige Marketing. Gerade im psychosozialen Bereich ist es oftmals schwierig, weil sich die Anliegen unserer Klienten\*innen nicht in die typischen Marketingladen legen lassen. Wie zeige ich mich also als Lebensberater\*in -psychologischen Berater\*in passend um auch genügend Klienten\*innen zu haben. In dieser Ausbildung erfahren Sie wie es geht." float="left " >}}
 
 Die beste Ausbildung  nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient\*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient\*innen? 
 

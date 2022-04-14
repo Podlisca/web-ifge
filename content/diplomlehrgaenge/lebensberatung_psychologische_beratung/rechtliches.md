@@ -86,6 +86,6 @@ Bei Zahlungsverzug von mehr als 10 Tagen bei Semesterzahlung oder Ratenzahlung w
 
 Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die freie Praxis, zusätzlich zum Lehrgang ein Nachweis über 750 Stunden fachliche Tätigkeit zu erbringen ist. Die Absolvierung dieser liegt in der Eigenverantwortung der Teilnehmer*innen und ist nicht Vertragsinhalt. Ab Verträge Mai 2020 sind die, für das Praktikum vorgeschriebenen 90 Stunden Gruppensupervision, bereits im Vertrag inkludiert.
 
-Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/praktikum/).
+Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/praktikum/).
 {{% /small  %}}
 {{% /box %}}

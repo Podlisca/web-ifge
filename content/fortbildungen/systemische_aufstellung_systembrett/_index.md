@@ -22,13 +22,13 @@ og_image: "/img/brett_2.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychosoziale Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
+{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
 
 
 
 Bedürfnisse, Konflikte und herausfordernde Lebenssituationen von Menschen erwachsen häufig aus ihrem Umfeld. Für psychosoziale Berater\*innen ist es daher wichtig, über Expertise und Methodenkompetenz in der systemischen Aufstellung zu verfügen. Wer Themen kontextualisieren kann, kann Klient\*innen ganzheitlich verstehen und damit besser in ihrer Entwicklung unterstützen.
 
-Die Weiterbildung Systemische Aufstellung am Systembrett richtet sich an diplomierte Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting oder in Gruppenseminaren mitbringen. Die Zusatzausbildung umfasst ein Pensum von 32 Stunden und ist übungsorientiert ausgerichtet. Die Inhalte, Methoden und Tools, deren Fokus auf systematischer Einzelarbeit mit Klient\*innen liegt, werden Ihnen durch praktische Übungen und reale Anwendungen nähergebracht.
+Die Weiterbildung Systemische Aufstellung am Systembrett richtet sich an diplomierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting oder in Gruppenseminaren mitbringen. Die Zusatzausbildung umfasst ein Pensum von 32 Stunden und ist übungsorientiert ausgerichtet. Die Inhalte, Methoden und Tools, deren Fokus auf systematischer Einzelarbeit mit Klient\*innen liegt, werden Ihnen durch praktische Übungen und reale Anwendungen nähergebracht.
 
 {{% /floatbox %}}
 
@@ -57,7 +57,7 @@ Am IFGE geht es nicht nur darum, dass Sie herzlich, professionell und wertschät
 
 Dank des über 20 Jahre intensiv geschulten systemischen Blicks von Institutsleiterin Silvia Podlisca, die alle Module dieses Upgrades persönlich unterrichtet, erhalten Sie hinsichtlich Ihrer Fälle sowie eigener Aufstellungsarbeiten nicht nur neue systemische Sichtweisen. Sondern Sie lernen gleichzeitig, wie Sie die Methode der unterschiedlichen Systembretter zieldienlich für Ihre Klient\*innen einsetzen. 
 
-Das fachliche Niveau des Upgrades bietet auch für langjährig in der Aufstellungsarbeit tätige psychosoziale Berater\*innen und Psychotherapeut\*innen neue Anreize. Durch diese gehaltvollen systemischen Fachinputs wird vorhandenes Wissen gefestigt und um neueste Erkenntnisse sowie um eigens entwickelte Aufstellungs-Methoden erweitert. Fertige Teilnehmer\*innen können nach Beendigung der Zusatzausbildung auf einen fachlichen System-Methodenkoffer der Spitzenklasse zurückgreifen und diesen zieldienlich in Einzelsettings einsetzen. Gleichzeitig erlauben die gelehrten neuen Inhalte, auch die eigene Aufstellungsarbeit in der Gruppe weiterzuentwickeln.
+Das fachliche Niveau des Upgrades bietet auch für langjährig in der Aufstellungsarbeit tätige psychologische Berater\*innen und Psychotherapeut\*innen neue Anreize. Durch diese gehaltvollen systemischen Fachinputs wird vorhandenes Wissen gefestigt und um neueste Erkenntnisse sowie um eigens entwickelte Aufstellungs-Methoden erweitert. Fertige Teilnehmer\*innen können nach Beendigung der Zusatzausbildung auf einen fachlichen System-Methodenkoffer der Spitzenklasse zurückgreifen und diesen zieldienlich in Einzelsettings einsetzen. Gleichzeitig erlauben die gelehrten neuen Inhalte, auch die eigene Aufstellungsarbeit in der Gruppe weiterzuentwickeln.
 {{< /card-more >}}
 {{% /box %}}
 

@@ -34,14 +34,14 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 ## Menschen bilden, begleiten und bereichern
 
-Die Zusatzausbildungen am [IFGE](https://www.ifge.at/about/institut/) sind so aufgebaut, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als [Expert\*in](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/) ihr bestehendes Wissen erweitern können und somit bei allen Herausforderungen von Klienten\*innen noch besser beratend zur Seite stehen können.
+Die Zusatzausbildungen am [IFGE](https://www.ifge.at/about/institut/) sind so aufgebaut, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als [Expert\*in](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) ihr bestehendes Wissen erweitern können und somit bei allen Herausforderungen von Klienten\*innen noch besser beratend zur Seite stehen können.
 
 ### Angenehme, herzliche und nachhaltige Lernatmosphäre 
 Das IFGE bietet Ihnen neben einer herzlichen und wertschätzenden Unterrichtsatmosphäre, in der dank kleiner Gruppen auf alle Teilnehmer\*Innen individuell eingegangen werden kann, vor allem ein hochmodernes Lehrkonzept. Top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Handouts sorgen ebenso für Erfolg wie die individuelle Betreuung.
 
 ### Vorteile der Ausbildung am IFGE
 
-Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahrung](https://www.ifge.at/psychosoziale-beratung/systemische-einzelberatung/) sowie der fundierten Unterrichtstätigkeit in zahlreichen Aus- und Fortbildungsmodulen zeichnet das IFGE im Besonderen aus:
+Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahrung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/) sowie der fundierten Unterrichtstätigkeit in zahlreichen Aus- und Fortbildungsmodulen zeichnet das IFGE im Besonderen aus:
 {{% box %}}
 * breitgefächerte Expertise in unterschiedlichsten Methoden
 * professionelles, wertschätzendes und herzliches ReferentInnen-Team
@@ -66,9 +66,9 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 #### Diplomausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/diplomlehrgaenge/lebensberatung_psychosoziale_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
+{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
 {{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
-{{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychosoziales _coaching.jpg"color="light-red"  >}}
+{{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
 {{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
 
 {{% /kursbox %}}
@@ -83,7 +83,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 {{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
 {{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
 {{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
-{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychosoziale_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
+{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" color="light-red" >}}
 
 
@@ -98,7 +98,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 {{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
 {{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
-{{< kurs titel="psychosoziales Teambuilding" link="fortbildungen/psychosoziales_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
+{{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
 
 
 {{% /kursbox %}}
@@ -119,7 +119,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 ***
 {{% kursbox %}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
-{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychosoziale_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
+{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
 {{% /kursbox %}}
@@ -133,7 +133,7 @@ Für Schüler\*innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschä
 {{< /card-more >}}
 
 {{< card-more link="/about/institut/" icon="icon/entwicklungspotential.png" title="Großartiges Entwicklungspotenzial am IFGE" >}}
-Dank der hochmodernen Technik-Ausstattung an unserem Institut ist es möglich, praktische Übungssequenzen in top-Qualität aufzeichnen zu lassen, um im Anschluss an das fachliche Feedback die eigene Arbeit selbst aus einem neuen Blickwinkel zu betrachten. Wie in vielen Coachingvarianten üblich, bietet Ihnen diese – freiwillige – Möglichkeit der Videoaufzeichnung enormes Entwicklungspotenzial, indem Sie Ihre Körpersprache, Gestik und Mimik selbst beobachten und analysieren können. Wir weisen darauf hin, dass Gesprächs-Sequenzen ausschließlich nach ausdrücklicher Zustimmung aller Beteiligten, freiwillig und unter strengster Einhaltung aller Datenschutzrichtlinien aufgezeichnet werden. Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene IFGE-Software geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick. Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychosoziale Berater\*innen bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
+Dank der hochmodernen Technik-Ausstattung an unserem Institut ist es möglich, praktische Übungssequenzen in top-Qualität aufzeichnen zu lassen, um im Anschluss an das fachliche Feedback die eigene Arbeit selbst aus einem neuen Blickwinkel zu betrachten. Wie in vielen Coachingvarianten üblich, bietet Ihnen diese – freiwillige – Möglichkeit der Videoaufzeichnung enormes Entwicklungspotenzial, indem Sie Ihre Körpersprache, Gestik und Mimik selbst beobachten und analysieren können. Wir weisen darauf hin, dass Gesprächs-Sequenzen ausschließlich nach ausdrücklicher Zustimmung aller Beteiligten, freiwillig und unter strengster Einhaltung aller Datenschutzrichtlinien aufgezeichnet werden. Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt wird, wächst das IFGE zunehmend. Damit auch bei der zunehmenden Schüler\*innen-Anzahl und der Möglichkeit, Bundesland übergreifendend flexibel zu lernen, weiterhin wie gewohnt alles reibungslos verläuft, wird es ab September 2020 eine eigene IFGE-Software geben. Diese Software wird allerdings nicht nur uns zur Qualitätssicherung dienen, sondern ermöglicht vor allem einen am IFGE Lernenden einen weitreichenden Überblick auf einen Klick. Genau abgestimmt auf die Bedürfnisse von angehenden Lebens- und Sozialberater\*innen/psychologische Berater\*innen bietet das zur Verfügung stehende Programm eine genaue und aktuelle Auflistung aller Anwesenheits- und bisher fürs Praktikum gesammelten Stunden. Außerdem werden alle Bestätigungen online zum Download zur Verfügung gestellt.
 {{< /card-more >}}
 
 {{< card-more link="/about/ueber_mich/"icon="icon/berufsbegleitendes_lernen.png" title="Berufsbegleitendes Lernen - von der Praxis für die Praxis" >}}

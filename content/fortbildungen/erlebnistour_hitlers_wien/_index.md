@@ -22,7 +22,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/ar_on_ tour_1.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
+{{< image src="/img/ar_on_ tour_1.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologische Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
 ## Erlebnistour durch Wien
 
