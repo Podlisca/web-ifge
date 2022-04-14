@@ -18,7 +18,7 @@ og_image: "/img/klangschale_2021_4.jpg"
 
 ## AUF VIELFACHEN WUNSCH IST DIE KURZAUSBILDUNG WIEDER IM PROGRAMM
 
-{{< image src="/img/ks_ausbildung_gruppe.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychologischen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
+{{< image src="/img/ks_ausbildung_gruppe.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
 
 Mit dieser Ausbildung erhalten Sie umfangreiches Wissen und tiefere Einsichten in mögliche Ursachen von Krankheit, Leid, Glück und Unglück. Sie können körperorientiert arbeiten und gewinnen wichtiges Know-how hinsichtlich des menschlichen Körpers inklusive seiner Organe sowie seiner Energiekreise. Medizinische Grundlagen werden verständlich anhand eines Torsos sowie an einem menschlichen Skelett erklärt. Weiters bekommen Sie Input, worauf es bei der Behandlung – beispielsweise das Setting betreffend – zu achten gilt.
 
@@ -51,18 +51,18 @@ So ermöglichen Sie Ihren KundInnen, dass sie auch große Belastungen in Zukunft
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< image src="/img/klangschale_2021_7.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychologischen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
+{{< image src="/img/klangschale_2021_7.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
 
 {{% /small  %}}
 
 {{% small  %}}
 
-{{< image src="/img/klangschale_2021_8.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychologischen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
+{{< image src="/img/klangschale_2021_8.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
 
 {{% /small  %}}
 {{% small  %}}
 
-{{< image src="/img/klangschale_2021_4.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychologischen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
+{{< image src="/img/klangschale_2021_4.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
 
 {{% /small  %}}
 {{% /box %}}

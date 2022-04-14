@@ -30,7 +30,7 @@ og_image: "/img/sucht2_wien.jpg"
 
 
 {{% floatbox %}}
-{{< image src="/img/sucht2_wien.jpg" float="left" title="Wenn ein geliebter Mensch erkrankt, ist dies für die Angehörigen eine große Belastung. Erschwerend kommt hinzu, dass sich die Angehörigen zurücknehmen, um die kranke Person nicht zu belasten oder aber auch aus Angst vor Unverständnis. In der psychologischen Beratung mit Silvia Podlisca geht es ausschließlich um Sie und um ihre Sorgen. Denn, wenn Sorgen lange ignoriert werden, können auch Sie erkranken. Lassen Sie es gar nicht so weit kommen." >}} 
+{{< image src="/img/sucht2_wien.jpg" float="left" title="Wenn ein geliebter Mensch erkrankt, ist dies für die Angehörigen eine große Belastung. Erschwerend kommt hinzu, dass sich die Angehörigen zurücknehmen, um die kranke Person nicht zu belasten oder aber auch aus Angst vor Unverständnis. In der psychosozialen Beratung mit Silvia Podlisca geht es ausschließlich um Sie und um ihre Sorgen. Denn, wenn Sorgen lange ignoriert werden, können auch Sie erkranken. Lassen Sie es gar nicht so weit kommen." >}} 
 
 Wenn ein Familienmitglied erkrankt, gehört dies zu den belastendsten Herausforderungen, die uns Menschen begegnen. 
 
@@ -76,7 +76,7 @@ Am IFGE biete ich Ihnen die Möglichkeit, Ihre Gefühle zuzulassen, um damit in 
 {{% small %}}
 {{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychosozialen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
 Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
 {{% /small %}}
@@ -90,7 +90,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)

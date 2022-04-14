@@ -6,7 +6,7 @@ menu:
         identifier: philosophie
 draft: false
 weight: 2
-description: "In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?"
+description: "In der psychosozialen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?"
 og_image: "/img/gruppenselbsterf_philo.jpg"
 aliases:
     - "/gruppenselbsterfahrung/philosophie.html"
@@ -28,7 +28,7 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 
 Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“. 
 
-In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
+In der psychosozialen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -77,7 +77,7 @@ Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualit
 {{% small %}}
 {{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychologische Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
+Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychosoziale Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
 
 Schon die bloße Anwesenheit der Tiere erzeugt bei meinen KlientInnen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. 
 {{% /small %}}

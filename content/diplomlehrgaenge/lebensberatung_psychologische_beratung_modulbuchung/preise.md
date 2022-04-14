@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung - Modulbuchung
+# Diplomlehrgang Lebensberatung - psychosoziale Beratung - Modulbuchung
 {{< slogan >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

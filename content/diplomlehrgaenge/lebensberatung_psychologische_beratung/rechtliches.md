@@ -8,7 +8,7 @@ draft: false
 weight: 4
 ---
 
-# Diplomlehrgang Lebensberatung - psychologische Beratung
+# Diplomlehrgang Lebensberatung - psychosoziale Beratung
 {{< slogan >}}
 
 

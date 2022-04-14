@@ -29,7 +29,7 @@ weight: 1
 
 12 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
 
-Neben der ärztlichen Betreuung kann der ganzheitliche Ansatz im psychologischen Beratungsprozess für Klient*innen demnach ein sehr wesentlicher sein. Um hier ein möglichst breites Spektrum an Bewusstsein für das Zusammenspiel von Organismus und Seele zu erhalten, beinhaltet unser fachlicher Streifzug durch die Psychosomatik unter anderem folgende Bereiche:
+Neben der ärztlichen Betreuung kann der ganzheitliche Ansatz im psychosozialen Beratungsprozess für Klient*innen demnach ein sehr wesentlicher sein. Um hier ein möglichst breites Spektrum an Bewusstsein für das Zusammenspiel von Organismus und Seele zu erhalten, beinhaltet unser fachlicher Streifzug durch die Psychosomatik unter anderem folgende Bereiche:
 
 * Grundprinzipien der Psychosomatik: Was genau bedeutet der Begriff?
 * Welche Bereiche fallen darunter?

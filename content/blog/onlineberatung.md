@@ -1,5 +1,5 @@
 ---
-title: "Psychologische Beratung online? Jein! Das sind die 10 Vor- und Nachteile "
+title: "psychosoziale Beratung online? Jein! Das sind die 10 Vor- und Nachteile "
 draft: false
 tags: ["Online", "Digitalisierung"]
 weight: 102
@@ -11,13 +11,13 @@ Ein Resümee zu den Stärken und den Schwächen der digitalen Beratungstools. Au
 
 Während so manche Berater\*innen, Coaches und Therapeut\*innen bereits vor einiger Zeit auf Videoberatung oder psychosoziale Angebote per Chat oder Mail setzten, musste spätestens mit Mitte März eine ganze Branche auf digitale Tools umschwenken. Was für mich vorab nicht infrage kam, wurde nun notwendig, um die Prozessarbeit mit meinen Klient\*innen weiterführen zu können. Dass die meisten meiner Klient*innen das Angebot der Videoberatung bereitwillig und dankbar annahmen, überraschte mich dabei weniger als das Resümee, das ich nach über zwei Monaten mit dieser Form meiner Arbeit ziehen konnte. 
 
-Denn auch wenn für mich außer Frage steht, dass das digitale [Ausbildungsangebot am IFGE](https://www.ifge.at/online-ausbildungsangebote/onlinephilosophie/)  ausschließlich die Pro-Seite füllen können, so betrachte ich die digitale psychologische Beratung durchaus differenzierter. Denn ein psychosozialer, innerer Entwicklungsprozess erfordert andere Rahmenbedingungen als spannende Ausbildungen, [Workshops](https://www.ifge.at/online-ausbildungsangebote/love_scamming/) und [Seminare](https://www.ifge.at/online-ausbildungsangebote/planspiel_praxisaufbau/). Warum ich einerseits positiv überrascht über die Möglichkeiten in der Videoberatung war und weshalb ich andererseits im Beratungsprozess – im Gegensatz zum Ausbildungskontext – spätestens nach einigen digitalen Einheiten immer den persönlichen Kontakt bevorzugen werde, zeigen die folgenden Erfahrungswerte.
+Denn auch wenn für mich außer Frage steht, dass das digitale [Ausbildungsangebot am IFGE](https://www.ifge.at/online-ausbildungsangebote/onlinephilosophie/)  ausschließlich die Pro-Seite füllen können, so betrachte ich die digitale psychosoziale Beratung durchaus differenzierter. Denn ein psychosozialer, innerer Entwicklungsprozess erfordert andere Rahmenbedingungen als spannende Ausbildungen, [Workshops](https://www.ifge.at/online-ausbildungsangebote/love_scamming/) und [Seminare](https://www.ifge.at/online-ausbildungsangebote/planspiel_praxisaufbau/). Warum ich einerseits positiv überrascht über die Möglichkeiten in der Videoberatung war und weshalb ich andererseits im Beratungsprozess – im Gegensatz zum Ausbildungskontext – spätestens nach einigen digitalen Einheiten immer den persönlichen Kontakt bevorzugen werde, zeigen die folgenden Erfahrungswerte.
 
 ### 5 Stärken der digitalen Videoberatung
 
-Aufgrund der digitalen Unterrichtserfahrung sowie dank der datenschutzrechtlichen Weitsicht konnte mittels speziell verschlüsselter, absolut sicherer Technik nach dem Lock-down die psychologische Beratung nahtlos digital mit meinen Klient*innen weitergeführt werden. Hier finden Sie die praxisorientierten Erfahrungswerte, die meiner Meinung nach für die Videoberatung sprechen. 
+Aufgrund der digitalen Unterrichtserfahrung sowie dank der datenschutzrechtlichen Weitsicht konnte mittels speziell verschlüsselter, absolut sicherer Technik nach dem Lock-down die psychosoziale Beratung nahtlos digital mit meinen Klient*innen weitergeführt werden. Hier finden Sie die praxisorientierten Erfahrungswerte, die meiner Meinung nach für die Videoberatung sprechen. 
 
-1.	Die digitale Videoberatung ermöglicht Menschen, die sich vielleicht inmitten eines psychologischen Beratungsprozesses bei Ihnen befinden und den Wohnort wechseln müssen, dass sie trotz dieser räumlichen Änderung ihre gewohnten Strukturen in der Beratung weiter erleben können. Gerade wenn sich ein Beratungsprozess in einer sehr wichtigen oder intensiven Phase befindet, kann es für Klient\*innen  ganz zentral sein, trotz räumlicher Distanz mit Ihnen digital „dranbleiben“ zu können.
+1.	Die digitale Videoberatung ermöglicht Menschen, die sich vielleicht inmitten eines psychosozialen Beratungsprozesses bei Ihnen befinden und den Wohnort wechseln müssen, dass sie trotz dieser räumlichen Änderung ihre gewohnten Strukturen in der Beratung weiter erleben können. Gerade wenn sich ein Beratungsprozess in einer sehr wichtigen oder intensiven Phase befindet, kann es für Klient\*innen  ganz zentral sein, trotz räumlicher Distanz mit Ihnen digital „dranbleiben“ zu können.
 
 2.	Ausnahmesituationen erfordern außergewöhnliche Maßnahmen, die mit einem sicheren Onlineberatungstool gewährleistet werden können. Das muss nicht der Lock-down-Extremfall sein, sondern kann auch eine besondere Situation in Form eines Liegegips meinen.
 
@@ -35,7 +35,7 @@ Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut lie
 
 1.	Auch wenn Sie als Berater\*in die modernste und beste Technik sowie die schnellste, sicherste und stabilste Internetverbindung zur Verfügung stellen, so hängt es doch auch von den digitalen Gegebenheiten Ihrer Klient\*innen ab, in welcher technischen Qualität die Beratung ankommt. Bildausfälle und Internetunterbrechungen können sich sehr ungünstig auswirken.
 
-2.	Gerade die psychologische Beratung fußt auf dem Prinzip der aktiven Mitwirkung der Klient\*innen an ihrem eigenen Prozess. Beratung erfordert also Aktivität von den Kund\*innen, um erfolgreich zu sein. Zu Hause zu bleiben und sich grundlos den Weg in die Praxis zu sparen, weil das Angebot „eh auch online möglich“ ist, fördert hingegen die Passivität. Die Einladung, in die Praxis zu kommen, ist stattdessen bereits eine Einladung dazu, aktiv etwas zu tun.
+2.	Gerade die psychosoziale Beratung fußt auf dem Prinzip der aktiven Mitwirkung der Klient\*innen an ihrem eigenen Prozess. Beratung erfordert also Aktivität von den Kund\*innen, um erfolgreich zu sein. Zu Hause zu bleiben und sich grundlos den Weg in die Praxis zu sparen, weil das Angebot „eh auch online möglich“ ist, fördert hingegen die Passivität. Die Einladung, in die Praxis zu kommen, ist stattdessen bereits eine Einladung dazu, aktiv etwas zu tun.
 
 3.	Bestimmte Ängste, Sorgen und depressive Verstimmungen können sich in der Isolation noch verstärken. Vermeidung – wie etwa das Vermeiden von öffentlichen Verkehrsmitteln – fördert oft destruktive Muster. Onlineberatungen können eben solche Vermeidungen und damit problematische Strukturen begünstigen.
 
@@ -49,7 +49,7 @@ Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut lie
 **Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
 * [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
+* [psychosoziale Beratung: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
 * [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
 
 <br/>

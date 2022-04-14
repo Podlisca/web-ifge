@@ -31,12 +31,12 @@ Nehmen Sie sich Zeit dafür, sich Ihren Verlust bewusst zu machen, damit Sie sic
 
 ***
 
-# Beratungsraum Tiergestützte psychologische Beratung - Wien
+# Beratungsraum Tiergestützte psychosoziale Beratung - Wien
 
 Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!
 
 Beratung mit tierischer Unterstützung oder ohne? -  Sie können frei entscheiden! 
-Hier finden Sie Informationen zur tiergestützte psychologische Beratung.
+Hier finden Sie Informationen zur tiergestützte psychosoziale Beratung.
 
 Unser Institut teilt sich in eine komplett tierfreie Zone, in der unsere Selbsterfahrungsangebote ohne tierische Begleitung stattfinden sowie in einen Bereich, in dem sich unsere Institutstiere aufhalten.  
 

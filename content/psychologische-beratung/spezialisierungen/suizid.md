@@ -41,7 +41,7 @@ Doch auch vielen Eltern bereitet der Gedanke an Suizid besonderes Unbehagen, ger
 *Und was, wenn er oder sie sich wirklich umbringt?* <br/>
 *Und was, wenn es wirklich passiert?*
 
-So drastisch das Wort Selbstmord klingt, so drastisch sind auch die Auswirkungen einer Selbsttötung auf die Hinterbliebenen. Nahe Angehörige, enge Freund*innen und Kolleg*innen befinden sich nach der schrecklichen Nachricht in einem absoluten Schockzustand und in einer Ausnahmesituation, in der quälende Schuldgefühle, Wut und Ohnmacht häufig vorherrschend sind. Zögern Sie bitte nicht, sich für die Bewältigung Ihres traumatischen Erlebnisses ehestmöglich Hilfe zu holen und psychologische Beratung in Anspruch zu nehmen.
+So drastisch das Wort Selbstmord klingt, so drastisch sind auch die Auswirkungen einer Selbsttötung auf die Hinterbliebenen. Nahe Angehörige, enge Freund*innen und Kolleg*innen befinden sich nach der schrecklichen Nachricht in einem absoluten Schockzustand und in einer Ausnahmesituation, in der quälende Schuldgefühle, Wut und Ohnmacht häufig vorherrschend sind. Zögern Sie bitte nicht, sich für die Bewältigung Ihres traumatischen Erlebnisses ehestmöglich Hilfe zu holen und psychosoziale Beratung in Anspruch zu nehmen.
 
 ### UNERTRÄGLICHER GEFÜHLSCOCKTAIL
 
@@ -75,7 +75,7 @@ Und zu all diesen verzweifelten Gefühlen gesellt sich immer wieder auch enormer
 
 In manchen Fällen wissen die Hinterbliebenen kaum mehr, wohin mit ihrer verzweifelten Wut und lenken diese auf die zur Hilfe gerufenen ÄrztInnen, behandelnden Psychotherapeut\*innen und Berater*innen oder auch auf Personen aus dem näheren Umfeld. 
 
-Diese Gefühle sind nach einem Suizid oder Selbstmordversuch absolut menschlich und nachvollziehbar. In der psychologischen Beratung haben auch Emotionen wie Ärger und Wut Platz und Raum, so dass Sie sich mit all dem, was Sie empfinden, willkommen fühlen. 
+Diese Gefühle sind nach einem Suizid oder Selbstmordversuch absolut menschlich und nachvollziehbar. In der psychosozialen Beratung haben auch Emotionen wie Ärger und Wut Platz und Raum, so dass Sie sich mit all dem, was Sie empfinden, willkommen fühlen. 
 
 Denn erst, wenn alle unsere Empfindungen gewürdigt werden, gelingt es, sie in Zukunft passend einzuordnen, um ruhiger und klarer zu werden. 
 
@@ -91,7 +91,7 @@ Manchmal durchlebt man einzelne Trauerphasen, die man bereits abgeschlossen glau
 
 ### ZEIT UM ZU VERARBEITEN
 
-Daher empfehle ich Ihnen von ganzem Herzen, sich im Zuge der psychologischen Beratung Zeit für sich und für Ihre Trauer zu nehmen. Hier bei mir am IFGE dürfen alle Ihre Gefühle zum Ausdruck kommen, ganz gleich ob es um quälende Schuldfragen, verzweifelte Wut oder letztlich um das Gefühl geht, diesen Verlust nie verschmerzen zu können. Jeder Mensch erlebt seine Trauer individuell und entwickelt ganz persönliche Herangehensweisen, wie er seinen Verlust bewältigen kann.
+Daher empfehle ich Ihnen von ganzem Herzen, sich im Zuge der psychosozialen Beratung Zeit für sich und für Ihre Trauer zu nehmen. Hier bei mir am IFGE dürfen alle Ihre Gefühle zum Ausdruck kommen, ganz gleich ob es um quälende Schuldfragen, verzweifelte Wut oder letztlich um das Gefühl geht, diesen Verlust nie verschmerzen zu können. Jeder Mensch erlebt seine Trauer individuell und entwickelt ganz persönliche Herangehensweisen, wie er seinen Verlust bewältigen kann.
 Dabei unterstütze ich Sie in offener, vertrauensvoller und herzlicher Atmosphäre, so dass es auch Ihnen gelingt, wieder in einen für Sie lebbaren Alltag zurück zu finden.
 <br/>
 <br/>
@@ -101,7 +101,7 @@ Dabei unterstütze ich Sie in offener, vertrauensvoller und herzlicher Atmosphä
 # Suizidversuche
 
 
-Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind Sie bei mir ebenso herzlich Willkommen. Ein missglückter Selbstmordversuch – besonders wenn er von dem eigenen Kind begangen wurde – lässt Angehörige in einem ähnlichen Gefühlschaos zurück. In Ihrem Kopf kreisen vielleicht quälende Fragen und Klischees wie „Wer es ankündigt, macht es doch nicht“ oder „Wer es einmal macht, macht’s immer wieder“, für die in der psychologischen Beratung ausreichend Platz ist. Darüber hinaus empfinden Sie möglicherweise massiven Druck, der durch den Selbstmordversuch ausgelöst wurde, der Ihnen vielleicht wie eine emotionale Erpressung vorkommt. Ich bin da für Sie, unterstütze Sie in all Ihren Fragen und begleite Sie ein Stück weit während dieser schwierigen Zeit, so dass auch Sie wieder zuversichtlich in die Zukunft blicken können.
+Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind Sie bei mir ebenso herzlich Willkommen. Ein missglückter Selbstmordversuch – besonders wenn er von dem eigenen Kind begangen wurde – lässt Angehörige in einem ähnlichen Gefühlschaos zurück. In Ihrem Kopf kreisen vielleicht quälende Fragen und Klischees wie „Wer es ankündigt, macht es doch nicht“ oder „Wer es einmal macht, macht’s immer wieder“, für die in der psychosozialen Beratung ausreichend Platz ist. Darüber hinaus empfinden Sie möglicherweise massiven Druck, der durch den Selbstmordversuch ausgelöst wurde, der Ihnen vielleicht wie eine emotionale Erpressung vorkommt. Ich bin da für Sie, unterstütze Sie in all Ihren Fragen und begleite Sie ein Stück weit während dieser schwierigen Zeit, so dass auch Sie wieder zuversichtlich in die Zukunft blicken können.
 
 
 {{% /floatbox %}}
@@ -119,7 +119,7 @@ Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind S
 {{% small %}}
 {{< image src="/img/noe_einzel.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychosozialen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
 Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
 {{% /small %}}
@@ -133,7 +133,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)

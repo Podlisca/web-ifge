@@ -50,5 +50,5 @@ Und haben Sie nicht auch schon einmal von jemandem die Aussage gehört, dass ein
 
 Gerade deshalb ist es unerlässlich, in psychosozialen Berufen sowie im Coachingbereich ein ausreichendes Maß an Fachwissen rund um die emotionalen sowie rechtlichen Besonderheiten zu diesem Themenkomplex zu erwerben. Mit der Fortbildung „Sexuelle Belästigung und Stalking“ eignen Sie sich beraterische Sicherheit für die freie psychologische Praxis an und erwerben gleichzeitig wesentliches Know-how für unternehmerisches Coaching und betriebliche Supervision in diesem sensiblen Anliegen-Bereich.
 
-Bei der digitalen Ausbildung am IFGE profitieren Sie dabei von der unternehmerischen Coaching-Erfahrung der Instituts- sowie Kursleiterin Silvia Podlisca, die aufgrund ihrer Praxiserfahrungauch auf Besonderheiten im Coaching großer Unternehmen hinweisen und diese in psychodynamischen Bezug zur jahrzehntelangen Erfahrung in der psychologischen Beratung setzen kann.
+Bei der digitalen Ausbildung am IFGE profitieren Sie dabei von der unternehmerischen Coaching-Erfahrung der Instituts- sowie Kursleiterin Silvia Podlisca, die aufgrund ihrer Praxiserfahrungauch auf Besonderheiten im Coaching großer Unternehmen hinweisen und diese in psychodynamischen Bezug zur jahrzehntelangen Erfahrung in der psychosozialen Beratung setzen kann.
 {{% /floatbox %}}

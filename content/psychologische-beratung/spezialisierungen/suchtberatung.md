@@ -37,7 +37,7 @@ Außerdem hat „jede Sucht einmal als Suche begonnen“, wie Andreas Tenzer sag
 
 In meiner langjährigen Erfahrung in der Suchtberatung konnte ich dieses Prinzip vielfach selbst bei meinen Klient*innen beobachten. Denn Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: 
 
-Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychologische Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](/psychologische-beratung/einzelberatung/) auch durch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) oder [systemische Methoden in Einzelberatungen](/psychologische-beratung/systemische-einzelberatung/) sichtbar gemacht werden.
+Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychosoziale Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](/psychologische-beratung/einzelberatung/) auch durch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) oder [systemische Methoden in Einzelberatungen](/psychologische-beratung/systemische-einzelberatung/) sichtbar gemacht werden.
 
 Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
@@ -50,11 +50,11 @@ Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
 Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Schicksalsschlägen, körperlichen Erkrankungen, Existenzverlust und Einsamkeit. Nicht selten führt Sucht über kurz oder lang auch zum Tod. Abhängigkeit und Suchttendenzen gehen dabei nicht nur für die Betroffenen zu Lasten ihrer eigenen Lebensqualität, sie setzen auch [Angehörige](/psychologische-beratung/spezialisierungen/angehoerigesucht/) unter enormen Druck und erzeugen bei ihnen quälende Gefühle von Macht- und Hilflosigkeit, sowie Wut und Scham. Dadurch entstehend sogenannte gesundheitsgefährdende [Co-Abhängigkeiten](/psychologische-beratung/spezialisierungen/angehoerigesucht/).
 
-[Psychologische Beratung](/psychologische-beratung/einzelberatung/) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 
+[psychosoziale Beratung](/psychologische-beratung/einzelberatung/) begleitet Sie in Zusammenarbeit mit einem Arzt oder einer Ärztin in den verschiedensten Phasen Ihres Abhängigkeitsproblems: Von der Bewusstwerdung, über die ersten Schritte des Freiwerdens von Ihrer Sucht, bis hin zur Stabilisierung Ihres gesunden Verhaltens. 
 
 Finden Sie wieder zurück in einen Alltag, der frei ist von der ständigen, unstillbaren Gier und den Sie wieder klar wahrnehmen sowie genießen können.
 
-Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden, durch die Sie sich wieder gefestigt und zuversichtlich fühlen können.
+Die psychosoziale Beratung ermöglicht Ihnen, die Lösungen für sich zu finden, durch die Sie sich wieder gefestigt und zuversichtlich fühlen können.
 
 {{% /floatbox %}}
 
@@ -72,7 +72,7 @@ Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden
 {{% small %}}
 {{< image src="/img/einzelselbsterfahrung.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
 
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
+Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychosozialen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
  
 Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
 {{% /small %}}
@@ -86,7 +86,7 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)

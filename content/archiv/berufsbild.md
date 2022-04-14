@@ -21,14 +21,14 @@ weight: 1
 
 description Sehen Sie Ihre Krisensituation nicht als persönliches Versagen, sondern als Chance für eine Neugestaltung! Nehmen Sie eine Krisenberatung in Wien in Anspruch, DENN Lebenskrisen sind auch immer eine Lebenschance!
 
-DLebenskrisen stellen sich auf die unterschiedlichsten Arten dar. Sie können sich in verschiedenen Symptomen sowie Gefühlen äußern und sich letztlich als Krankheiten manifestieren. Die psychologische Beratung setzt an einem Punkt an, an dem Sie selbst beschließen, etwas ändern zu wollen, um gesund zu bleiben. Wenn bereits körperliche oder psychische Erkrankungen entstanden sind, biete ich Ihnen in meinem Institut – in Zusammenarbeit mit einem Arzt oder einer Ärztin – begleitende Beratung an, um Sie in Ihrem Genesungsprozess optimal zu unterstützen.
+DLebenskrisen stellen sich auf die unterschiedlichsten Arten dar. Sie können sich in verschiedenen Symptomen sowie Gefühlen äußern und sich letztlich als Krankheiten manifestieren. Die psychosoziale Beratung setzt an einem Punkt an, an dem Sie selbst beschließen, etwas ändern zu wollen, um gesund zu bleiben. Wenn bereits körperliche oder psychische Erkrankungen entstanden sind, biete ich Ihnen in meinem Institut – in Zusammenarbeit mit einem Arzt oder einer Ärztin – begleitende Beratung an, um Sie in Ihrem Genesungsprozess optimal zu unterstützen.
 
 Meine Schwerpunkte am Institut für ganzheitliches Erleben liegen dabei auf:
 
 
 ### LEBENS- UND VERÄNDERUNGSKRISEN, AKUTKRISEN SOWIE CHRONISCHE KRISEN
 
-Berufsbild LSB, Lebenskrise, Veränderungskrise, Krisenberatung, Lehrgang Lebensberatung, Lebens- und Sozialberatung, Psychologische Beratung, Fortbildung, Supervision, tiergestützte psychologische Beratung, Lsb Upgrade, Aufstellungsarbeit, Aufstellung, Au
+Berufsbild LSB, Lebenskrise, Veränderungskrise, Krisenberatung, Lehrgang Lebensberatung, Lebens- und Sozialberatung, psychosoziale Beratung, Fortbildung, Supervision, tiergestützte psychosoziale Beratung, Lsb Upgrade, Aufstellungsarbeit, Aufstellung, Au
 Mein persönlicher Zugang zu der Arbeit mit Klient*innen, die sich in Krisen befinden, ist, sie professionell und emphatisch dabei zu unterstützen, in sich selbst die Kraft zu entdecken, die sie benötigen, um von der Ohnmacht in die Macht zu kommen und um die veränderte Situation zu akzeptieren. Dadurch können Sie Ihr Leben trotz – oder gerade aufgrund dieser Veränderung – neu und gesund gestalten. Sie entdecken wieder den Mut in sich, der einen kraftvollen und lebendigen Alltag gelingen lässt.
 
 Lesen Sie mehr über Krisenberatung...
@@ -81,7 +81,7 @@ Jede Gewalttat hat einen gemeinsamen Nenner, welchen sich Täter\*innen, Opfer u
 
 dann ignorieren Sie die Gefühle und Gedanken, die auf Sie einströmen, bitte nicht.
 
-Frühzeitige und professionelle psychologische Beratung hilft Ihnen dabei, sich mit Ihren Emotionen und gedanklichen Bildern bewusst auseinandersetzen zu können, um Ihre Erfahrungen zu verschmerzen. So können Sie diese Emotionen und das Erlebte als Teil Ihrer Biographie in Ihr weiteres Leben integrieren. Ich bin ebenso für Sie da, wenn Sie Ihre möglicherweise gefährlichen Wünsche kontrollieren möchten und destruktive Handlungs- sowie Gedankenmuster durchbrechen wollen.
+Frühzeitige und professionelle psychosoziale Beratung hilft Ihnen dabei, sich mit Ihren Emotionen und gedanklichen Bildern bewusst auseinandersetzen zu können, um Ihre Erfahrungen zu verschmerzen. So können Sie diese Emotionen und das Erlebte als Teil Ihrer Biographie in Ihr weiteres Leben integrieren. Ich bin ebenso für Sie da, wenn Sie Ihre möglicherweise gefährlichen Wünsche kontrollieren möchten und destruktive Handlungs- sowie Gedankenmuster durchbrechen wollen.
 
 Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!
 
@@ -107,7 +107,7 @@ Wenn eine Gewalttat passiert – ganz gleich ob es sich dabei um sexualisierte o
 Für die Gefühle der Angehörigen wird oftmals wenig bis kein Raum geschaffen. Was in der Akutsituation verständlich ist, bringt die Angehörigen im Alltag aber völlig an den Rand. Gefühle der Vernachlässigung stellen sich ein. Die Ambivalenz zwischen Verständnis, Wut, Scham, Mitgefühl sowie der Emotion, selbst unterzugehen und langsam unsichtbar zu werden, belastet enorm.
 Hinzu kommt die moralische Instanz, die meint: „Mir ist ja eh nix passiert.“ Aufgrund dieser emotionalen Instanz reden sich Angehörige oft ein, keine Zuwendung zu benötigen. Ich versichere Ihnen: DOCH, diese Zuwendung braucht jede und jeder! Der innere Wunsch danach ist absolut verständlich und berechtigt. „Bitte sieh auch mich, denn auch ich brauche Hilfe“ ist ein häufiges inneres Anliegen von Angehörigen, auf das diese oft meinen, kein Recht zu haben.
 
-Gewalttätige Erfahrung von Familienmitgliedern, Handlungsfähigkeit, Täter, Täterinnen, Lehrgang Lebensberatung, Lebens- und Sozialberatung, Psychologische Beratung, Fortbildung, Supervision, tiergestützte psychologische Beratung, Lsb Upgrade, Aufstellungs
+Gewalttätige Erfahrung von Familienmitgliedern, Handlungsfähigkeit, Täter, Täterinnen, Lehrgang Lebensberatung, Lebens- und Sozialberatung, psychosoziale Beratung, Fortbildung, Supervision, tiergestützte psychosoziale Beratung, Lsb Upgrade, Aufstellungs
 Wenn gewalttätige Erfahrungen von nahestehenden Personen oder Familienmitgliedern berichtet werden oder ans Licht kommen, fühlen sich Angehörige oft in einem Strudel aus belastenden Gefühlen wieder: Diese Emotionen können von Angst, Wut, Zorn, Scham über Unsicherheit, Ungläubigkeit und vor allem Hilflosigkeit sowie Handlungsunfähigkeit bis hin zu Machtlosigkeit reichen.
 
 
@@ -117,11 +117,11 @@ Denn auch wenn etwa der Vater zum Straftäter wurde, bleibt er immer noch der ei
 
 Auch Angehörige von Opfern fühlen sich häufig schuldig und überfordert. Die Frage, ob man die Tat nicht hätte verhindern können, dreht sich in den Köpfen der betroffenen Personen oft in einer Dauerschleife, außerdem beschleicht sie immer wieder eine extreme – oftmals durchaus verständliche – Wut auf die Täter Täter*innen. Manchmal erleben Angehörige die gleiche Ohnmacht und Hilflosigkeit wie das Opfer selbst. Werden diese Gefühle nicht verarbeitet, können sie chronisch werden und zukünftige Lösungen für das eigene Erleben verhindern sowie zu körperlichen Symptomen führen. Besonders hilf- und machtlos fühlen sich betroffene Eltern und auch Geschwister – die sich in solchen Fällen oft völlig vergessen fühlen, da die gesamte Aufmerksamkeit dem zum Opfer gewordenen Geschwisterkind gilt. Ebenso belastend kann die Hilflosigkeit für die eigenen Kinder oder Freunde werden, vor allem dann, wenn das Opfer selbst keine weiteren Schritte setzen möchte.
 
-Angehörigen von Opfern, Vorwürfe, Mitgefühl,Lehrgang Lebensberatung, Lebens- und Sozialberatung, Psychologische Beratung, Fortbildung, Supervision, tiergestützte psychologische Beratung, Lsb Upgrade, Aufstellungsarbeit, Aufstellung, Ausbildung am IFGE
+Angehörigen von Opfern, Vorwürfe, Mitgefühl,Lehrgang Lebensberatung, Lebens- und Sozialberatung, psychosoziale Beratung, Fortbildung, Supervision, tiergestützte psychosoziale Beratung, Lsb Upgrade, Aufstellungsarbeit, Aufstellung, Ausbildung am IFGE
 Angehörige von Opfern belasten sich zusätzlich auch mit inneren Vorwürfe, da es ihnen häufig nicht möglich ist, in der aktuellen Situation Mitgefühl zu zeigen. Dies wird dadurch nachvollziehbar, dass die Angehörigen selbst mit dieser Situation derart überfordert sind, dass „harte Reaktionen“ als die einzigen Handlungsmöglichkeiten erlebt werden. Sätze wie
 „Stell dich nicht so an!“, „So schlimm ist das doch gar nicht!“ oder „Warum hast du kein Taxi genommen?“ sind dann die Ergebnisse dieser Überforderung. Das Gefühl, auf seine eigenen Emotionen kein Recht zu haben, da man die Tat ja weder selbst begangen noch erlebt hat, sorgt bei Angehörigen oft für Scham, welche leider häufig verhindert, dass sie sich an Beratungsstellen werden. Männer leiden zudem immer wieder darunter, die Tat nicht verhindert und das Opfer nicht beschützt zu haben.
 
-Es ist wichtig, zu verstehen, dass eine einzige Tat nicht nur das Leben von Täter*innen und Opfern auf den Kopf stellen, sondern diese sich auf das gesamte Familiensystem und Umfeld auswirken kann. Auf jedes Ihrer Gefühle haben Sie somit absolutes Anrecht. In meinem Institut findet jede Ihrer Emotionen den Platz, den Sie ihnen einräumen möchten und Sie finden die Ruhe und Zeit vor, die Sie für das Verarbeiten Ihrer Erlebnisse als Angehöriger benötigen. In der psychologischen Beratung finden Sie zudem Lösungen, wie Sie langfristig mit Ihren Erfahrungen umgehen können. Lesen Sie mehr über meine Philosophie am IFGE.
+Es ist wichtig, zu verstehen, dass eine einzige Tat nicht nur das Leben von Täter*innen und Opfern auf den Kopf stellen, sondern diese sich auf das gesamte Familiensystem und Umfeld auswirken kann. Auf jedes Ihrer Gefühle haben Sie somit absolutes Anrecht. In meinem Institut findet jede Ihrer Emotionen den Platz, den Sie ihnen einräumen möchten und Sie finden die Ruhe und Zeit vor, die Sie für das Verarbeiten Ihrer Erlebnisse als Angehöriger benötigen. In der psychosozialen Beratung finden Sie zudem Lösungen, wie Sie langfristig mit Ihren Erfahrungen umgehen können. Lesen Sie mehr über meine Philosophie am IFGE.
 
 Termine sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!
 

@@ -6,7 +6,7 @@ menu:
         identifier: planspiel
 draft: false
 weight: 10
-description: "Die eigene Berufung zum Beruf machen, damit den Schritt in die Selbstständigkeit wagen und eine eigene psychologische Praxis eröffnen: Diesen Traum haben viele, die die Ausbildung zur psychologischen Beratung absolvieren oder absolviert haben."
+description: "Die eigene Berufung zum Beruf machen, damit den Schritt in die Selbstständigkeit wagen und eine eigene psychologische Praxis eröffnen: Diesen Traum haben viele, die die Ausbildung zur psychosozialen Beratung absolvieren oder absolviert haben."
 og_image: "/img/planspiel1.jpg"
 rich_kurs: true
 ---
