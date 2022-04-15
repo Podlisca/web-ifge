@@ -17,7 +17,7 @@ Denn auch wenn für mich außer Frage steht, dass das digitale [Ausbildungsangeb
 
 Aufgrund der digitalen Unterrichtserfahrung sowie dank der datenschutzrechtlichen Weitsicht konnte mittels speziell verschlüsselter, absolut sicherer Technik nach dem Lock-down die psychosoziale Beratung nahtlos digital mit meinen Klient*innen weitergeführt werden. Hier finden Sie die praxisorientierten Erfahrungswerte, die meiner Meinung nach für die Videoberatung sprechen. 
 
-1.	Die digitale Videoberatung ermöglicht Menschen, die sich vielleicht inmitten eines psychologischen Beratungsprozesses bei Ihnen befinden und den Wohnort wechseln müssen, dass sie trotz dieser räumlichen Änderung ihre gewohnten Strukturen in der Beratung weiter erleben können. Gerade wenn sich ein Beratungsprozess in einer sehr wichtigen oder intensiven Phase befindet, kann es für Klient\*innen  ganz zentral sein, trotz räumlicher Distanz mit Ihnen digital „dranbleiben“ zu können.
+1.	Die digitale Videoberatung ermöglicht Menschen, die sich vielleicht inmitten eines psychosozialen Beratungsprozesses bei Ihnen befinden und den Wohnort wechseln müssen, dass sie trotz dieser räumlichen Änderung ihre gewohnten Strukturen in der Beratung weiter erleben können. Gerade wenn sich ein Beratungsprozess in einer sehr wichtigen oder intensiven Phase befindet, kann es für Klient\*innen  ganz zentral sein, trotz räumlicher Distanz mit Ihnen digital „dranbleiben“ zu können.
 
 2.	Ausnahmesituationen erfordern außergewöhnliche Maßnahmen, die mit einem sicheren Onlineberatungstool gewährleistet werden können. Das muss nicht der Lock-down-Extremfall sein, sondern kann auch eine besondere Situation in Form eines Liegegips meinen.
 
@@ -46,10 +46,6 @@ Auch wenn die Beratungsprozesse für einen gewissen Zeitraum online sehr gut lie
 {{< silvia >}}
 <br/>
 
-**Mehr zu diesem Thema finden Sie auch in folgenden Blogs:**
 
-* [WARUM „FREESTYLE“ NICHTS MIT AUTHENTISCHER PROZESSBEGLEITUNG ZU TUN HAT](https://www.ifge.at/blog/authentische-prozessbegleitung/)
-* [PSYCHOLOGISCHE BERATUNG: AUSBILDEN UND ARBEITEN AUF AUGENHÖHE](https://www.ifge.at/blog/ausbildung_psychologische_beratung/)
-* [ON- VS. OFFLINE – WAS DER ONLINERAUM (NICHT) KANN.](https://www.ifge.at/blog/on_vs_offline_onlinemodus/)
 
 <br/>

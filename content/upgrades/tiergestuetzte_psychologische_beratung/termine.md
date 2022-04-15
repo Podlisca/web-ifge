@@ -9,7 +9,7 @@ weight: 3
 ---
 
 
-# Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung
+# Ausbildung: Tiergestützte psychosoziale Beratung & systemische Tieraufstellung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

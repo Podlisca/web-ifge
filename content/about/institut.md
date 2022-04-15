@@ -90,15 +90,15 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/entwicklung_noe.jpg"title="Teamsupervision, Teamcoaching und Unterricht in Kleingruppen, um den bestmöglichen Lernerfolg für Sie zu erzielen. Am IFGE finden Sie eine Atmosphäre der Wertschätzung und Achtsamkeit vor und werden von sehr erfahrenen Referenten\*innen betreut. Denn: nur wenn Sie erfolgreich in ihrer psychologischen Praxis sind, ist auch das IFGE erfolgreich" >}}
-{{< image src="/img/lsb_info_noe1.jpg" title="Am IFGE wird von Beginn an das Berufsbild der Lebens- und Sozialberatung – psychologischen Beratung vorgestellt. Alle Möglichkeiten und Grenzen sowie Abgrenzung zu den anderen psychosozialen Berufsgruppen werden ebenso erörtert wie das Praktikum um als Lebens- und Sozialberater\*in  - psychosoziale Berater\*in  in freier Praxis erfolgreich tätig zu sein. Am IFGE erfahren Sie größtmögliche Unterstützung beim Erreichen des Gewerbescheins für das Gewerbe: Lebens- und Sozialberatung – psychosoziale Beratung.">}}
+{{< image src="/img/entwicklung_noe.jpg"title="Teamsupervision, Teamcoaching und Unterricht in Kleingruppen, um den bestmöglichen Lernerfolg für Sie zu erzielen. Am IFGE finden Sie eine Atmosphäre der Wertschätzung und Achtsamkeit vor und werden von sehr erfahrenen Referenten\*innen betreut. Denn: nur wenn Sie erfolgreich in ihrer psychosozialen Praxis sind, ist auch das IFGE erfolgreich" >}}
+{{< image src="/img/lsb_info_noe1.jpg" title="Am IFGE wird von Beginn an das Berufsbild der Lebens- und Sozialberatung – psychosozialen Beratung vorgestellt. Alle Möglichkeiten und Grenzen sowie Abgrenzung zu den anderen psychosozialen Berufsgruppen werden ebenso erörtert wie das Praktikum um als Lebens- und Sozialberater\*in  - psychosoziale Berater\*in  in freier Praxis erfolgreich tätig zu sein. Am IFGE erfahren Sie größtmögliche Unterstützung beim Erreichen des Gewerbescheins für das Gewerbe: Lebens- und Sozialberatung – psychosoziale Beratung.">}}
 {{% /small  %}}
 
 {{% large %}}
 So wie sich also Klient\*innen frei und wertschätzend am IFGE hin zu ihren Lösungen entwickeln können und so wie sich meine Schüler\*innen zu professionellen und erfolgreichen Berater\*innen entwickeln, hat sich auch die einst kleine Praxis mittlerweile zum renommierten Beratungs- und Ausbildungsinstitut an drei verschiedenen Einzugsgebieten Österreichs – in **Wien, Burgenland und Niederösterreich** – weiterentwickelt. Heute steht das IFGE als Ausbildungsinstitut für unerreichte fachliche Qualität, zukunftsweisende Unterrichtsmethoden, herzliche Professionalität und eine angenehme Lernatmosphäre, in der alle Schüler*innen individuell gefordert werden.
 
 
-Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei Wunsch am Wochenende in drei Bundesländern sorgt gleichzeitig dafür, dass durch Kurs- und Ortshopping jedem und jeder Interessierten die berufsbegleitende Ausbildung in der psychologischen Beratung – Lebens- und Sozialberatung leicht gemacht wird. Doch das Institut gilt heute nicht nur als Qualitätsmaß für die Profession künftiger Lebens- und Sozialberater\*innen, sondern steht auch für Vielfalt und Entwicklung im eigenen Berufsalltag. Daher finden am IFGE an allen Standorten immer wieder Zusatzausbildungen, Seminare und Upgrades statt, die angehenden und diplomierten Lebens- und Sozialberater\*innen Werkzeuge in die Hand geben, die es für eine professionelle und erfolgreiche Praxis braucht.
+Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei Wunsch am Wochenende in drei Bundesländern sorgt gleichzeitig dafür, dass durch Kurs- und Ortshopping jedem und jeder Interessierten die berufsbegleitende Ausbildung in der psychosozialen Beratung – Lebens- und Sozialberatung leicht gemacht wird. Doch das Institut gilt heute nicht nur als Qualitätsmaß für die Profession künftiger Lebens- und Sozialberater\*innen, sondern steht auch für Vielfalt und Entwicklung im eigenen Berufsalltag. Daher finden am IFGE an allen Standorten immer wieder Zusatzausbildungen, Seminare und Upgrades statt, die angehenden und diplomierten Lebens- und Sozialberater\*innen Werkzeuge in die Hand geben, die es für eine professionelle und erfolgreiche Praxis braucht.
 {{% /large %}}
 {{% /box %}}
 
@@ -120,17 +120,17 @@ Meine Philosophie hinsichtlich der [Ausbildungs-](/diplomlehrgaenge/) und [Selbs
 {{% small  %}}
 {{< image src="/img/impulspro.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychosoziale Berater\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychosoziale Berater\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/supervision.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als zertifizierte Supervisor\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als zertifizierte Supervisor\*in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/berufsverband.jpg" >}}
@@ -154,7 +154,7 @@ Der [Berufsverband für Tiergestützte psychosoziale Beratung](https://www.beruf
 {{% /small %}}
 {{% small %}}
 
-### Hunde & Katzen in der psychologischen Beratung
+### Hunde & Katzen in der psychosozialen Beratung
 {{< youtube cPN03jAzqJQ >}}
 {{% /small %}}
 </div> 

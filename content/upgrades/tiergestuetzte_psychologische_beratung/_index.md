@@ -1,19 +1,19 @@
 ﻿---
-title: "Tiergestützte psychologische Beratung"
+title: "Tiergestützte psychosoziale Beratung"
 menu: 
     main:
         parent: upgrade
         identifier: upgrade_tiergestuetzt
 draft: false
 weight: 7
-description: "Lebens- und SozialberaterInnen, Interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, Trainer, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung die gerne Tiere in die psychologische Beratung integrieren möchten. Einstieg bereits in der Grundausbildung (ab 2. Semester) möglich."
-og_title: "Ausbildung: Tiergestützte psychologische Beratung"
+description: "Lebens- und SozialberaterInnen, Interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, Trainer, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung die gerne Tiere in die psychosoziale Beratung integrieren möchten. Einstieg bereits in der Grundausbildung (ab 2. Semester) möglich."
+og_title: "Ausbildung: Tiergestützte psychosoziale Beratung"
 og_image: "/img/bv_wirkung.jpg"
 aliases: 
     - "/ausbildungsangebote/tiergestützte-psychologische-beratung/"
 rich_kurs: true
 rich_faq:
-    -   frage: "Was bedeutet tiergestüzte psychologische Beratung?"
+    -   frage: "Was bedeutet tiergestüzte psychosoziale Beratung?"
         antwort: "Tiergestützte Beratung beginnt dort, wo Gespräche und die Arbeit mit einem entsprechend ausgebildetem Tier einander ergänzen – es geht um den Beziehungsaufbau und die Prozessgestaltung im Beziehungsdreieck zwischen Klient/in, Tier und Berater/in. Neben der Gesprächsführung zwischen Berater/in und Klient/in werden Methoden eingesetzt, bei denen die Klienten/Klientinnen mit Tieren interagieren oder über Tiere kommunizieren. Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Menschen mit all ihren Stärken und Schwächen so annehmen wie sie sind, wieder gestärkt und es gelingt, wieder eine stärkere Verbindung zu sich selber aufbauen. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie unterstützen Klient*innen dabei, auch schwierige oder heikle Themen anzusprechen."
     -   frage: "Wie wirken Tiere in der psychologischen Beratung - Lebensberatung?"
         antwort: "Tiere unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind."
@@ -22,19 +22,19 @@ rich_faq:
     -   frage: "Wie arbeiten Tiere in der tiergestüzten Beratung?"
         antwort: "Klienten/Klientinnen erfahren in der Interaktion mit Tieren eine vertrauensvolle, nicht wertende oder urteilende Zuwendung. Das eigene Selbstvertrauen kann durch den Kontakt mit den Tieren, die die Menschen mit all ihren Stärken und Schwächen so annehmen wie sie sind - und dadurch, dass sie häufig positives Feedback geben - wieder gestärkt werden.Darüberhinaus geben Tiere ihre Emotionen direkt und unverfälscht wieder. Sie reagieren ehrlich und unmittelbar auf das Verhalten des Klienten/der Klientin und spiegeln den tatsächlichen Zustand ihres Gegenübers wider - wodurch innere Prozesse sichtbar werden können. Tiere unterstützen durch ihre Reaktion das Erlernen angemessener Emotionsäußerungen und senken das Aggressionspotenzial. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese respektieren zu lernen."
     -   frage: "Was ist der Nutzen einer tiergestützten Beratung im Freien?"
-        antwort: "Wenn die tiergestützte psychologische Beratung Outdoor stattfindet, gelingt es Tieren oft, den Menschen die Natur wieder näherzubringen. Weiters motivieren sie zur Bewegung, was positive Auswirkungen auf den Körper bzw. das Körperbewusstsein hat."
+        antwort: "Wenn die tiergestützte psychosoziale Beratung Outdoor stattfindet, gelingt es Tieren oft, den Menschen die Natur wieder näherzubringen. Weiters motivieren sie zur Bewegung, was positive Auswirkungen auf den Körper bzw. das Körperbewusstsein hat."
     -   frage: "Wofür eignet sich die tiergestützte (psychologische) Beratung?"
         antwort: "Prinzipiell können Tiere bei jedem Beratungsgespräch als wertvolle Stütze dienen. Ihr Einsatz bzw. ihre Begleitung eignet sich z.B. insbesondere bei mangelndem Selbstbewusstsein oder Lebensmut, Aggressionen, Anpassungsstörungen, Trauerbewältigung oder der Behandlung von Ängsten. Gerne werden Tiere durch ihre „Eisbrecher-Funktion“ auch in der Arbeit mit Kindern eingesetzt.Die Vierbeiner stellen eine hilfreiche Stütze im Beratungsprozess dar und können viele positive Gefühle in uns Menschen wecken – wie Fröhlichkeit, Sorglosigkeit und bedingungslose Liebe. Sie entpuppen sich oft als eine wundervolle Bereicherung im Leben oder wie Rupert Sheldrake sagt: „Die meisten von uns benötigen Tiere offenbar als Teil ihres Lebens - unsere menschliche Natur ist untrennbar mit der Natur des Tieres verbunden. Sind wir von ihr isoliert, fehlt uns etwas. Wir verlieren ein Teil unseres Erbes."
     -   frage: "Für wen ist die Ausbildung zur tiergestüzten Beratung interessant?"
-        antwort: "Die Fortbildung “Tiergestützte psychologische Beratung” am IFGE ist insbesondere für Lebens- und Sozialberater*innen - psychologische Berater*innen sowie Sozialarbeiter*innen, Betreuer*innen, Psycholog*innen, Pädagog*innen, interessant, die sich durch einen starken Bezug zu Tieren auszeichnen und die die positiven Effekte, die Vierbeiner auf uns Menschen haben, gerne in den Beratungsprozess einsetzen möchten."
+        antwort: "Die Fortbildung “Tiergestützte psychosoziale Beratung” am IFGE ist insbesondere für Lebens- und Sozialberater*innen - psychosoziale Berater*innen sowie Sozialarbeiter*innen, Betreuer*innen, Psycholog*innen, Pädagog*innen, interessant, die sich durch einen starken Bezug zu Tieren auszeichnen und die die positiven Effekte, die Vierbeiner auf uns Menschen haben, gerne in den Beratungsprozess einsetzen möchten."
     -   frage: "Was bewirken Tiere in der psychologischen Beratung beim Menschen"
         antwort: "Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: allein ihre Anwesenheit kann beruhigend wirken; es werden weniger Stresshormone ausgeschüttet. Weiters senken Streicheleinheiten den Blutdruck und stärken unser Immunsystem. Tiere können sehr entspannend wirken und eignen sich auch sehr gut als Tröster für traurige Momente. In der tiergestützten Beratung hat man die Möglichkeit, von diesen positiven Effekten zu profitieren."
     -   frage: "Auf welche Wirkung setzt die tiergestüzte Beratung?"
-        antwort: "Die tiergestützte psychologische Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können."
+        antwort: "Die tiergestützte psychosoziale Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können."
 
 ---
 
-# Ausbildung: Tiergestützte psychologische Beratung & systemische Tieraufstellung
+# Ausbildung: Tiergestützte psychosoziale Beratung & systemische Tieraufstellung
 {{< slogan >}}
 
 {{< line icon="icon/tiere.png" >}}
@@ -47,7 +47,7 @@ rich_faq:
 
 Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret in der [tiergestützten psychologischen Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/). Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
 
-In diesem Lehrgang bilden wir Menschen aus und nicht Tiere. Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. Der Lehrgang Tiergestützte psychologische Beratung richtet sich an [Lebens- und Sozialberater\*innen - psychologische Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten. Damit tiergestützte Beratung für Klient\*innen nachhaltig erfolgreiche Ergebnisse erzielt und auch dem Tier Freude bereitet, braucht es fundiertes Wissen, die richtigen Methoden und Anwendungskompetenz. Dies steht im Zentrum der Fortbildung. 
+In diesem Lehrgang bilden wir Menschen aus und nicht Tiere. Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. Der Lehrgang Tiergestützte psychosoziale Beratung richtet sich an [Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten. Damit tiergestützte Beratung für Klient\*innen nachhaltig erfolgreiche Ergebnisse erzielt und auch dem Tier Freude bereitet, braucht es fundiertes Wissen, die richtigen Methoden und Anwendungskompetenz. Dies steht im Zentrum der Fortbildung. 
 
 Schwerpunkt Tiere: Hund & Katze
 Schwerpunkt Kommunikation: Systemik & Hypnosystemik, Konfliktmanagement, gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
@@ -93,9 +93,9 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 {{% box more=1 blue=1 %}}
 {{< card-more link="" img="tiergestuetzt_2021_1.jpg" title="">}}
 
-#### WAS BEDEUTET TIERGESTÜTZTE PSYCHOLOGISCHE BERATUNG?
+#### WAS BEDEUTET TIERGESTÜTZTE PSYCHOSOZIALE BERATUNG?
 
-Die tiergestützte psychologische Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient\*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. 
+Die tiergestützte psychosoziale Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient\*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. 
 
 Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Menschen mit all ihren Stärken und Schwächen so annehmen wie sie sind, wieder gestärkt und es gelingt, wieder eine stärkere Verbindung zu sich selber aufbauen. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie unterstützen Klient\*innen dabei, auch schwierige oder heikle Themen anzusprechen. 
 
@@ -108,7 +108,7 @@ Wir beziehen in unseren Lehrgang bzw. in die Ausbildung sorgfältig ausgewählte
 
 #### WAS BIETET UNSER FORTBILDUNGSLEHRGANG?
 
-Der erfolgreiche Abschluss des Ausbildungslehrgang berechtigt diplomierte Lebens- und Sozialberater\*innen dazu, „Tiergestützte psychologische Beratung“ sowie „Tiergestützte Lebens- und Sozialberatung“ in Österreich anzubieten.
+Der erfolgreiche Abschluss des Ausbildungslehrgang berechtigt diplomierte Lebens- und Sozialberater\*innen dazu, „Tiergestützte psychosoziale Beratung“ sowie „Tiergestützte Lebens- und Sozialberatung“ in Österreich anzubieten.
 
 Sollten Sie sich derzeit noch in Ausbildung zum/zur diplomierten LSB befinden, ist die Erweiterung der tiergestützten Arbeit selbstverständlich ebenso mit „in Ausbildung unter Supervision“ anzuführen.
 

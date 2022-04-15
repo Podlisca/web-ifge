@@ -72,7 +72,7 @@ So können Sie die theoretisch erlernten Tools vor Ort in einem Seminarraum, der
 
 Darüber hinaus steht uns auch ein Garten zur Verfügung, in dem Übungen und Teamspiele in der freien Natur ausprobiert werden können und damit willkommene Abwechslung zum Frontalunterricht bieten.
 
-Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](/about/ueber_mich/) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychologische Beraterin, [Aufstellungsleiterin](/upgrades/aufstellungsarbeit/) und [Sexualberaterin](/upgrades/sexualberatung_traumaberatung/) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](/upgrades/supervisionsausbildung/) immer wieder mit namhaften Firmen zusammen. 
+Unterrichtet wird die Fortbildung von der Institutsinhaberin [Silvia Podlisca](/about/ueber_mich/) persönlich. Die erfahrene Lebens- und Sozialberaterin – psychosoziale Beraterin, [Aufstellungsleiterin](/upgrades/aufstellungsarbeit/) und [Sexualberaterin](/upgrades/sexualberatung_traumaberatung/) leitet seit Jahren Gruppen sowie Teams und arbeitet als [Supervisorin](/upgrades/supervisionsausbildung/) immer wieder mit namhaften Firmen zusammen. 
 
 Im Zuge des [Coaching-Unternehmens FCBP](www.fcbp.at) schult sie Führungskräfte, ist im Konflikt-Management tätig und leitet [Tagestrainings](https://www.fcbp.at/tagestrainings/) für AbteilungsleiterInnen gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/), der als fachliche Assistenz auch Ihre Ausbildung für psychologisches Teambuilding begleiten wird.
 {{% /small %}}

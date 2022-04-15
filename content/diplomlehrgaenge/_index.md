@@ -122,7 +122,7 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 #### Tiergestützte Ausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
 {{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
@@ -160,7 +160,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% /small %}}
 {{% small %}}
 
-### Hunde & Katzen in der psychologischen Beratung
+### Hunde & Katzen in der psychosozialen Beratung
 {{< youtube cPN03jAzqJQ >}}
 {{% /small %}}
 </div> 

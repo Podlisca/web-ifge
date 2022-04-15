@@ -16,9 +16,9 @@ rich_faq:
        - humanistisch-existentielle Orientierung
        - systemisch-soziodynamische Orientierung
        - verhaltensmodifizierende Orientierung"
-    -   frage: "Wie lange dauert die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychosoziale Beraterin?"
+    -   frage: "Wie lange dauert die Ausbildung zum Lebensberater- psychosozialen Berater, zur Lebensberaterin - psychosoziale Beraterin?"
         antwort: "Die Dauer der Ausbildung ist per Gesetz festgelegt und muss mindesten 5 Semester andauern und 584 Ausbildungsstunden beinhalten. Absolvieren kann man die Diplomausbildung bei zertifizierten Ausbildungsinstituten. Gesetzlich anerkannte Lehrgänge haben WKO Zertifizierungsnummer. Z. B. ZA-LSB 233.1/2012 (Zertifizierungsnummer des IFGE)."
-    -   frage: "Wie ist der Lehrplan für die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychosoziale Beraterin aufgeteilt?"
+    -   frage: "Wie ist der Lehrplan für die Ausbildung zum Lebensberater- psychosozialen Berater, zur Lebensberaterin - psychosoziale Beraterin aufgeteilt?"
         antwort: "Die 584 gesetzlich vorgeschrieben Ausbildungsstunden müssen wie folgt aufgeteilt werden:
         
         20 Stunden Einführung in die Lebensberatung und Sozialberatung psychosoziale Beratung
@@ -29,7 +29,7 @@ rich_faq:
         24 Stunden Recht
         16 Stunden Betriebswirtschaft
         16 Stunden Berufsethik und Berufsidentität."             
-    -   frage: "Wodurch unterscheiden sich die Ausbildungsinstitute für die Ausbildung zum psychologischen Berater /zur psychologischen Beraterin?"
+    -   frage: "Wodurch unterscheiden sich die Ausbildungsinstitute für die Ausbildung zum psychosozialen Berater /zur psychosozialen Beraterin?"
         antwort: "Die Ausbildungsinstitute geben bei der Zertifizierung bekannt, nach welcher Methodik sie die benötigten 240 Stunden (Methodik der Lebens- und Sozialberatung) unterrichtet werden. Zugelassen sind die 23 anerkannten psychotherapeutischen Methoden:
         
         Tiefenpsychologisch‐psychodynamische Orientierung -   Psychoanalytische Methoden:

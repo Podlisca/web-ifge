@@ -69,12 +69,12 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - EINZEL](/psychologische-beratung/einzelberatung/)
+#### [PSYCHOSOZIALE BERATUNG - EINZEL](/psychologische-beratung/einzelberatung/)
 {{< image src="/img/berufsbild_einzelberatung.jpg" title="Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Einzelselbsterfahrung, um Entlastung in schwierigen Lebenssituationen zu erhalten. Typische Themen sind Beziehungsschwierigkeiten, Trauer, Krisen, Traumata, Probleme in der Sexualität, Schwierigkeiten im Beruf, bei Konflikten mit der Familie (Eltern, Geschwister…). Selbstverständlich werden alle Themen streng vertraulich behandelt." >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - PAAR](/psychologische-beratung/paarberatung/)
+#### [PSYCHOSOZIALE BERATUNG - PAAR](/psychologische-beratung/paarberatung/)
 {{< image src="/img/berufsbild_paarberatung.jpg" title="Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Paarberatung, um Entlastung in schwierigen Lebenssituationen zu erhalten. Typische Themen sind ständige Streitereien / Konflikte in der Beziehung, Untreue, Seitensprung, Lustverlust, unterschiedliche sexuelle Neigungen und Lustempfinden, Lustverlust, Dreiecksbeziehungen, Trennung, Scheidung, unerfüllter Kinderwunsch. Selbstverständlich werden alle Themen streng vertraulich behandelt." >}}
 {{% /small  %}}
 

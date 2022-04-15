@@ -22,7 +22,7 @@ og_image: "/img/supervisionswoche.jpg"
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
-Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater\*in - psychologische Berater\*in eingereicht werden. 
+Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater\*in - psychosoziale Berater\*in eingereicht werden. 
 
 Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozialen Bereich arbeiten, offen. Es empfiehlt sich, mit der Methode des Aufstellens vertraut zu sein. 
 <br/>

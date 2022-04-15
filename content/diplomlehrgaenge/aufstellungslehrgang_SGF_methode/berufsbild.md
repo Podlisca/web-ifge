@@ -11,7 +11,7 @@ rich_faq:
     -   frage: "Wer ist psychologischer Berater oder psychosoziale Beraterin?"
         antwort: "Psychosoziale BeraterInnen sind all jene, die eine fünf Semester andauernde Ausbildung bei einem anerkannten Lehrinstitut mit Erfolg absolviert haben und parallel oder im Anschluss knapp 800 Stunden fachlicher Tätigkeit nachgegangen sind. Die psychosoziale Beratung – auch Lebens- und Sozialberatung – ist ein geschütztes Gewerbe, das der Wirtschaftskammer unterliegt. Diese sorgt für die Einhaltung von Qualitätsstandards in dem Berufsfeld."
     -   frage: "Wie sieht das Arbeitsfeld aus eines Lebens-und Sozialberaters aus?"
-        antwort: "Psychosoziale BeraterInnen arbeiten in unterschiedlichen psychosozialen Einrichtungen oder selbstständig in einer eigenen Praxis. Das Arbeitsfeld der psychologischen BeraterInnen ist ein sehr breites und reicht von der Einzelberatung bei belastenden Situationen oder bei Entscheidungsschwierigkeiten über Paar- und Sexualberatung bis hin zu Krisenintervention, Trauerbegleitung oder Coaching."
+        antwort: "Psychosoziale BeraterInnen arbeiten in unterschiedlichen psychosozialen Einrichtungen oder selbstständig in einer eigenen Praxis. Das Arbeitsfeld der psychosozialen BeraterInnen ist ein sehr breites und reicht von der Einzelberatung bei belastenden Situationen oder bei Entscheidungsschwierigkeiten über Paar- und Sexualberatung bis hin zu Krisenintervention, Trauerbegleitung oder Coaching."
     -   frage: "Wann entstehen psychische Krankheiten?"
         antwort: "Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen.Lebensberater*innen - psychosoziale Berater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt."
     -   frage: "Mit welchen Anliegen kann man die psychosoziale Beratung - Lebens- und Sozialberatung aufsuchen?"
@@ -44,7 +44,7 @@ Als Lebens- und Sozialberater\*in arbeiten Sie mit gesunden Menschen, die im All
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
 
-Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychologischen Beratung] zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychosoziale Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
+Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychosozialen Beratung] zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychosoziale Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -55,12 +55,12 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - EINZEL](/psychologische-beratung/einzelberatung/)
+#### [PSYCHOSOZIALE BERATUNG - EINZEL](/psychologische-beratung/einzelberatung/)
 {{< image src="/img/berufsbild_einzelberatung.jpg" title="Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Einzelselbsterfahrung, um Entlastung in schwierigen Lebenssituationen zu erhalten. Typische Themen sind Beziehungsschwierigkeiten, Trauer, Krisen, Traumata, Probleme in der Sexualität, Schwierigkeiten im Beruf, bei Konflikten mit der Familie (Eltern, Geschwister…). Selbstverständlich werden alle Themen streng vertraulich behandelt." >}}
 {{% /small  %}}
 
 {{% small  %}}
-#### [PSYCHOLOGISCHE BERATUNG - PAAR](/psychologische-beratung/paarberatung/)
+#### [PSYCHOSOZIALE BERATUNG - PAAR](/psychologische-beratung/paarberatung/)
 {{< image src="/img/berufsbild_paarberatung.jpg" title="Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Paarberatung, um Entlastung in schwierigen Lebenssituationen zu erhalten. Typische Themen sind ständige Streitereien / Konflikte in der Beziehung, Untreue, Seitensprung, Lustverlust, unterschiedliche sexuelle Neigungen und Lustempfinden, Lustverlust, Dreiecksbeziehungen, Trennung, Scheidung, unerfüllter Kinderwunsch. Selbstverständlich werden alle Themen streng vertraulich behandelt." >}}
 {{% /small  %}}
 
