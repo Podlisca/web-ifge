@@ -31,16 +31,16 @@
                     createList(data.filter(d => d.ort == "WIEN" && !d.isVormittag))
                 );
                 document.getElementById("bgld1").appendChild(
-                    createList(data.filter(d => d.ort == "PINKAFELD" && d.isVormittag))
+                    createList(data.filter(d => d.ort == "BURGENLAND" && d.isVormittag))
                 );
                 document.getElementById("bgld2").appendChild(
-                    createList(data.filter(d => d.ort == "PINKAFELD" && !d.isVormittag))
+                    createList(data.filter(d => d.ort == "BURGENLAND" && !d.isVormittag))
                 );
                 document.getElementById("noe1").appendChild(
-                    createList(data.filter(d => d.ort == "ST_POELTEN" && d.isVormittag))
+                    createList(data.filter(d => d.ort == "NOE" && d.isVormittag))
                 );
                 document.getElementById("noe2").appendChild(
-                    createList(data.filter(d => d.ort == "ST_POELTEN" && !d.isVormittag))
+                    createList(data.filter(d => d.ort == "NOE" && !d.isVormittag))
                 );
                 document.getElementById("online1").appendChild(
                     createList(data.filter(d => d.ort == "ONLINE" && d.isVormittag))
