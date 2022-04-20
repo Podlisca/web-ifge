@@ -9,7 +9,7 @@ weight: 1
 og_image: "/img/tiergestuetzt_2.jpg"
 ---
 
-# Ausbildung: Tiergestützte psychosoziale Beratung & systemische Tieraufstellung
+# Ausbildung: Tiergestütztes Coaching
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
@@ -18,9 +18,9 @@ og_image: "/img/tiergestuetzt_2.jpg"
 
 {{< image src="/img/tiergestuetzt_2.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 
 
-Bei dieser Fortbildung werden die Berater\*innen ausgebildet, Hunde und Katzen in die psychosoziale Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
+Bei dieser Ausbildung werden die Teilnehmer\*innen ausgebildet, Hunde, Katzen und Pferde in die Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
 
-Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden Tieren in Ihre Arbeit einfließen lassen können. Im Zuge der Fortbildung erfahren Sie, wie Sie beispielsweise Ihre eigenen Vierbeiner in der freien Praxis für Interventionen situativ bestmöglich einsetzen.
+Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden Tieren in Ihre Arbeit einfließen lassen können. Im Zuge der Ausbildung erfahren Sie, wie Sie beispielsweise Ihre eigenen Vierbeiner in der freien Praxis für Interventionen situativ bestmöglich einsetzen.
 
 {{< silvia >}}
 
@@ -37,6 +37,6 @@ Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden T
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+
 
 

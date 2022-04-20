@@ -83,7 +83,6 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 {{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
 {{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
 {{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
-{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" color="light-red" >}}
 
 
@@ -119,7 +118,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 ***
 {{% kursbox %}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
-{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/tiergestuetzte_psychologische_beratung" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
+{{< kurs titel="Tiergestützte psychosoziale Beratung" link="\online-ausbildungsangebote/tiergestuetztes_coaching" image="/img/kursuebersicht_tiergestuetzt.jpg" >}} 
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
 {{% /kursbox %}}

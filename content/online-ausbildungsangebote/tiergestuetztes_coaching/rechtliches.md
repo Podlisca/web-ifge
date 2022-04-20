@@ -8,7 +8,7 @@ draft: false
 weight: 4
 ---
 
-# Ausbildung: Tiergestützte psychosoziale Beratung & systemische Tieraufstellung
+# Ausbildung: Tiergestütztes Coaching
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

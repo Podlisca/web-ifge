@@ -47,7 +47,6 @@ description: "Diese Seite dient als Vorlage für neue Funktionen und ist nur sic
 ## Tiergestützte Ausbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestützte psychosoziale Beratung" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{< kurs titel="Erste Hilfe für Hunde" link="/upgrades/supervisionsausbildung" image="/img/20200620_IFGE_Pinkafeld_MG_0564.jpg" >}}
 {{% /kursbox %}}

@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-# Ausbildung: Tiergestützte psychosoziale Beratung & systemische Tieraufstellung
+# Ausbildung: Tiergestütztes Coaching
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -26,9 +26,9 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 
-Einmalzahlung: € 1.980,-
-Modulzahlung: € 450,- Anzahlung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
+Ausbildungkosten: € 2.980,-
+€ 980,- Anzahlung nach Anmeldung. Restzahlung über € 2.000,- 1 Monat vor Ausbildungsstart. 
 
 Die Ausbildung ist nur komplett buchbar.
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. 
