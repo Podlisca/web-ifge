@@ -26,23 +26,23 @@ weight: 4
 
 * Dipl. Lebens- und Sozialberater*in
 * Lebens- und Sozialberater*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten 
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
+* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Heilpraktiker\*innen, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
 
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 
-Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
+Voraussetzung hierfür ist die 100%ige Ausarbeitung der Workbooks, das Bestehen der Abschlussprüfung im Rahmen des Kurses sowie die komplette Bezahlung. 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Prüfung
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen des 7. Moduls sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+Der Lehrgang schließt mit einer Abschlussprüfung am Ende des 6. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
-Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+Voraussetzung hierfür ist die 100%ige Ausarbeitung der Workbooks, das Bestehen der Abschlussprüfung im Rahmen des Kurses sowie die komplette Bezahlung. 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung das erste Modul von € 450,- auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung das erste Modul von € 980,- auf das Konto:
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
@@ -50,10 +50,10 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck Fortbildung Tiere + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck Tiergestütztes Coaching + Ihren Namen an.
 
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 8 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 Wochen vor geplantem Beginn der Ausbildung bzw. 4 Wochen vor geplantem Beginn des jeweiligen Moduls. Bei Absage bis zu 6 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 4 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
