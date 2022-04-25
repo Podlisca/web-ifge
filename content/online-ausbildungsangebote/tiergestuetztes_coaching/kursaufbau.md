@@ -9,6 +9,7 @@ weight: 1
 ---
 
 # Ausbildung: Tiergestütztes Coaching
+#### Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -21,11 +22,24 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 
+## Organisatorisches 
+
+
+* Nach der Anmeldung erhalten Sie sofort ein Willkommensvideo und kleine Aufgaben zur Vorbereitung
+
+* Ab Start können Sie alle zwei Wochen an einer interaktiven Lehrveranstaltung teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre Fragen zum jeweiligen Turnus können vorab hochgeladen werden und wir gehen ganz gezielt auf die Fragen ein. Mit Ihrer Teilnahme stimmen Sie der Aufzeichnung zu.
+
+* Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Viedeos und Material frei geschalten (7 Turnuse). Nach Abschluss des Onlinekurses wird die Onlienprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Traningswoche in Pinkafeld buchen. Diese ist in den Ausbildugskosten nicht inkludiert und extra zu bezahlen. 
+
+***
 {{% box top-align=1 %}}
 {{% small  %}}
+
+
 #### Kick-off 
+#### Kursmarerial für eine Woche
 
 * Allgemeine Grundlagen in der Beratung
 * Setting: psychologische Beratung allgemein & online
@@ -42,6 +56,7 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 1
+#### Kursmarerial für drei Wochen
 
 * Kenne deine Tiere / Unterschiede – wie setzt Du dein Tier ein / Wichtige Regel
 * Bindung Mensch Tier - physiologische Effekte / Bonding / Oxytocin 
@@ -64,9 +79,9 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 2
+#### Kursmarerial für drei Wochen
 
-* Beratung / Bewegung m. Hunden
-* Pferd 
+* Inhalte folgen
 
 
 {{% /small  %}}
@@ -75,13 +90,16 @@ weight: 1
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 3
+#### Kursmarerial für drei Wochen
 
 * Systemische Tieraufstellung
+* weitere Inhalte folgen
 
 {{% /small  %}}
 
 {{% small  %}}
 #### Turnus 4
+#### Kursmarerial für drei Wochen
 
 * Inhalte folgen
 
@@ -90,8 +108,9 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 5
+#### Kursmarerial für drei Wochen
 
-* 
+* Inhalte folgen
 
 {{% /small  %}}
 
@@ -101,33 +120,34 @@ weight: 1
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 6
+#### Kursmarerial für drei Wochen
 
 * Systemische Tieraufstellung
+* weitere Inhalte folgen
+
+{{% /small  %}}
+
+
+{{% small  %}}
+
+#### Turnus 7
+#### Freischaltung der
+
+* Onlineprüfung
 
 {{% /small  %}}
 
 {{% small  %}}
-
-
-
-{{% /small  %}}
-
-{{% small  %}}
-
+#### Optional - Intensivtraining in Pinkafeld
+Optional - Intensivtraining in Pinkafeld
+Kosten: € 1.290,-
+max. 18 Teilnehner*\innen
 
 {{% /small  %}}
 
 {{% /box %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
-
-## INTERAKTIVE LEHRVERANSTALTUNGEN
-
-Alle zwei Wochen können Sie an interaktiven Lehrveranstaltungen teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. 
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
-
+***
 ## PRÜFUNG
 
 Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 6. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.

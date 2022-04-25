@@ -10,6 +10,7 @@ weight: 3
 
 
 # Ausbildung: Tiergestütztes Coaching
+#### Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

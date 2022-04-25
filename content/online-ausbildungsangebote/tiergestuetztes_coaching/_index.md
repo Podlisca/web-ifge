@@ -36,6 +36,7 @@ rich_faq:
 ---
 
 # Ausbildung: Tiergestütztes Coaching
+#### Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="icon/tiere.png" >}}

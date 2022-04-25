@@ -9,6 +9,7 @@ weight: 4
 ---
 
 # Ausbildung: Tiergestütztes Coaching
+#### Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -24,9 +25,7 @@ weight: 4
 ***
 ## Zugangsvoraussetzungen
 
-* Dipl. Lebens- und Sozialberater*in
-* Lebens- und Sozialberater*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten 
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Heilpraktiker\*innen, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
+* Die Ausbildung ist für alle offen
 
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 

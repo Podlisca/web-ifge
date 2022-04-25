@@ -10,6 +10,7 @@ og_image: "/img/tiergestuetzt_2.jpg"
 ---
 
 # Ausbildung: Tiergestütztes Coaching
+#### Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
