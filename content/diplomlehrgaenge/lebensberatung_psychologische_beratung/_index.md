@@ -90,7 +90,7 @@ WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 {{% /small %}}
 
-</div> 
+
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
