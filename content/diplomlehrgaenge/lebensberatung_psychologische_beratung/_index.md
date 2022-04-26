@@ -68,6 +68,15 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{< youtube nRfABr7Ln8w >}}
 
+***
+
+Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/termine/)** und hier zur  **[ANMELDUNG](https://www.ifge.at/anmeldung.php)** 
+***
+WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
+
+*entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
+
+
 {{% /small %}}
 
 {{% small %}}
@@ -78,17 +87,14 @@ Das alles gehört zu unserem Leben dazu. Aber nicht immer können und/oder wolle
 
 Umso wichtiger, dass es fachlich qualifizierte **Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen** gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
 
+Als **Lebens- und Sozialberater\*in – psychosoziale Berater\*in** arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch **keine krankhaften Störungen aufweisen**. 
+
+Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung und Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
+
 {{% /small %}}
+
 
 </div> 
-
-Als **Lebens- und Sozialberater\*in – psychosoziale Berater\*in** arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch **keine krankhaften Störungen aufweisen**. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
-
-WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
-
-*entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
-
-{{% /small %}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -106,6 +112,7 @@ WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
+
 #### Lernen am IFGE 
 
 Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
