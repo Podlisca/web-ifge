@@ -82,15 +82,13 @@ Umso wichtiger, dass es fachlich qualifizierte **Lebens- und Sozialberater\*inne
 
 </div> 
 
-Als **Lebens- und Sozialberater\*in – psychosoziale Berater\*in** arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber **noch keine krankhaften Störungen aufweisen**. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
+Als **Lebens- und Sozialberater\*in – psychosoziale Berater\*in** arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch **keine krankhaften Störungen aufweisen**. Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung/Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
 
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
 *entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
 
 {{% /small %}}
-
-
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
