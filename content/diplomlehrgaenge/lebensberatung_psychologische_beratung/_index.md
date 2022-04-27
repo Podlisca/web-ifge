@@ -130,7 +130,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 
 {{% /small  %}}
 {{% small  %}}
-#### AUSBILDUNGSPHILOSOPHIE AM IFGE
+#### AUSBILDUNGSPHILOSOPHIE 
 {{< youtube R0Iyo_175nY >}}
 
 {{% /small  %}}
