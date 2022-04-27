@@ -44,75 +44,8 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 ***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer\*innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
 
-<div id="termine">
-<div>
-<h4>Wien</h4>
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-</div>
 
-<div>
-<b>Vormittagstermine</b>
-<div id="wien1"></div>
-</div>
-
-<div>
-<b>Abendtermine</b>
-<div id="wien2"></div>
-</div>
-
-<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
-
-<div>
-<h4>Burgenland</h4>
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-</div>
-
-<div>
-<b>Vormittagstermine</b> 
-<div id="bgld1"></div>
-</div>
-
-<div>
-<b>Abendtermine</b>
-<div id="bgld2"></div>
-</div>
-
-<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
-
-<div>
-<h4>Niederösterreich</h4>
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-</div>
-
-<div>
-<b>Vormittagstermine</b>
-<div id="noe1"></div>
-</div>
-<div>
-<b>Abendtermine</b>
-<div id="noe2"></div>
-</div>
-
-<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
-
-<div>
-<h4>Online</h4>
-{{< slider content="/img/grundlagen_online.jpg,/img/philo_upgrades.jpg,/img/philo_upgrades1.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/yes.jpg,/img/raum_weis_1.jpg" >}}
-</div>
-<div>
-<b>Vormittagstermine</b>
-<div id="online1"></div>
-</div>
-
-<div>
-<b>Abendtermine</b>
-<div id="online2"></div>
-</div>
-
-<div>Hier geht es zur <a href="/anmeldung.php">Anmeldung</a></div>
-</div>
-
-{{< termine >}}
+{{< booking >}}
 
 <br>
 

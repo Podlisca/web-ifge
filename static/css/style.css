@@ -9,7 +9,7 @@
   --color-blue: #e6f4f4;
   --padding-main: 1em;
   --color-text: #444;
-  --large: 1024px;
+  --large: 1070px;
   --medium: 900px;
   --small: 700px;
 }
@@ -316,7 +316,7 @@ img {
   padding-bottom: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1070px) {
   .box {
     flex-wrap: wrap;
   }
