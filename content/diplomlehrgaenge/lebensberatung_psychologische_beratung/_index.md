@@ -74,7 +74,7 @@ Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT](https://www.ifge.
 ***
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
-*entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
+Ausbildung entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom 14. Februar 2003 (140. Verordnung für den “Befähigungsnachweis für das Gewerbe Lebens- und Sozialberatung”)
 
 
 {{% /small %}}

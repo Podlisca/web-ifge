@@ -41,7 +41,7 @@ weight: 3
 
 #### Start: 13. Mai 2022
 
-Wochenende: 13.05. bis 15.05.2022<br/>
+Wochenende: 07.10. bis 09.10.2022<br/>
 
 **Freitag** von 14:00 bis 20:00 Uhr<br/>
 **Samstag** von 09:00 bis 18:00 Uhr<br/>
