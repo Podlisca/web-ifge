@@ -50,8 +50,28 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 <br>
 
 
-**Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
+{{< line icon="icon/raueme.png" >}}
 
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+
+{{% /small  %}}
+{{% small  %}}
+#### Niederösterreich
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+
+{{% /small  %}}
+{{% /box %}}
+
+**Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
 
 ***Ich freue mich, Sie am IFGE oder in unserem digitalen Ausbildungsraum kennenzulernen!***
 

@@ -54,6 +54,9 @@ Mittlerweile wurden am IFGE hunderte Diplome und Zertifikate erarbeitet und zahl
 Lebensberatung, Lebens- und Sozialberatung, psychosoziale Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychosoziale Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Klangschalen
 
 Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender [Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen](/diplomlehrgaenge/lebensberatung_psychologische_beratung/). 
+
+{{< silvia >}}
+
 {{% /large %}}
 {{% /box %}}
 
