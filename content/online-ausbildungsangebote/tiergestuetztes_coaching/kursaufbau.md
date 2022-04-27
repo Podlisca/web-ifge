@@ -29,7 +29,7 @@ weight: 1
 
 * Nach der Anmeldung erhalten Sie sofort ein Willkommensvideo und kleine Aufgaben zur Vorbereitung
 
-* Ab Start können Sie alle zwei Wochen an einer interaktiven Lehrveranstaltung teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre Fragen zum jeweiligen Turnus können vorab hochgeladen werden und wir gehen ganz gezielt auf die Fragen ein. Mit Ihrer Teilnahme stimmen Sie der Aufzeichnung zu.
+* Ab Start können Sie alle zwei Wochen an einer [interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/termine/) teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre Fragen zum jeweiligen Turnus können vorab hochgeladen werden und wir gehen ganz gezielt auf die Fragen ein. Mit Ihrer Teilnahme stimmen Sie der Aufzeichnung zu.
 
 * Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Viedeos und Material frei geschalten (7 Turnuse). Nach Abschluss des Onlinekurses wird die Onlienprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Traningswoche in Pinkafeld buchen. Diese ist in den Ausbildugskosten nicht inkludiert und extra zu bezahlen. 
 
