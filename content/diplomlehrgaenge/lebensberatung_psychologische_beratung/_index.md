@@ -70,7 +70,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 ***
 
-Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/termine/)** und hier zur  **[ANMELDUNG](https://www.ifge.at/anmeldung.php)** 
+Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/termine/)** 
 ***
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 
