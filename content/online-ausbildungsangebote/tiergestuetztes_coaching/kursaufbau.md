@@ -33,6 +33,8 @@ weight: 1
 
 * Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Viedeos und Material frei geschalten (7 Turnuse). Nach Abschluss des Onlinekurses wird die Onlienprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Traningswoche in Pinkafeld buchen. Diese ist in den Ausbildugskosten nicht inkludiert und extra zu bezahlen. 
 
+* Nach bestandener Prüfunge bekommen Sie 1 Jahr Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt. Das Qualitätssiegel zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
+
 ***
 {{% box top-align=1 %}}
 {{% small  %}}
