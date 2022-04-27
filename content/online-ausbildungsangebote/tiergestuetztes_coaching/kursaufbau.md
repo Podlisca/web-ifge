@@ -137,6 +137,8 @@ weight: 1
 
 * Onlineprüfung
 
+Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Berufsverbands für tiergestützte psychologische Beratung](https://berufsverband-tiergestuetzteberatung.at/) kostenlos. 
+
 {{% /small  %}}
 
 {{% small  %}}
