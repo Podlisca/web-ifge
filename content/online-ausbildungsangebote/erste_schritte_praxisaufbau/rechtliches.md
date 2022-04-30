@@ -62,12 +62,20 @@ zu überweisen. Bitte geben Sie als Verwendungszweck "Zeig Dich - erste Schritte
 
 ## Allgemeine Geschäftsbedingungen / Ablauf
 
-Die Ausbildung ist nur komplett zu buchen.
- 
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen.
+Vereinbarung über den Zugang zu Bild-, Ton- und Videoaufnahmen von Onlinelehrgängen im Rahmen des IFGE
 
-Sie erhalten rechtzeitig eine E-Mail mit den Zugangsdaten für die Onlineschulung. 
+1.	Leistung
+Der Nutzer ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der Nutzer erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF zu Schulungszwecken. 
+2.	Zugang
+Der Nutzer erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
-Bitte sorgen Sie für eine stabile Internetverbindung sowie die Sicherstellung der technischen Voraussetzungen. Bei Internetausfall oder Verbindungsproblemen auf Ihrem Endgerät übernehmen wir keine Haftung und nehmen keine Rücküberweisungen des Webinarbeitrags vor. Weiters weisen wir darauf hin, dass Mittschnitt und Aufnahme des Webinars verboten sind.
+Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Nach Ablauf des Lehrgangs werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. In der Mediathek sind somit immer nur die Video - Aufzeichnungen des laufenden Lehrgangs abrufbar. 
+3.	Nutzungsbedingungen
+Die Nutzung gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
+Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
+Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
+Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
+Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
+
 {{% /small  %}}
 {{% /box %}}
