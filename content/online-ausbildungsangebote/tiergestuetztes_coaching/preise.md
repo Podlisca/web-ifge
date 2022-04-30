@@ -35,7 +35,7 @@ Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
 Restzahlung über € 1.520,- bis 03.09.2022<br/>
 Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.<br/>
 
-Alle Anmeldungen bis 10.50.2022 erhalten automatisch die Aktion
+Alle Anmeldungen bis 15.05.2022 erhalten automatisch die Aktion
 
 
 Die Ausbildung ist nur komplett buchbar.
