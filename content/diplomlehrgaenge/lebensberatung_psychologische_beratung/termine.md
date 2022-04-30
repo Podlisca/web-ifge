@@ -94,21 +94,6 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 </div>
 <div style="grid-area: w1">
 
-## LSB 19
-#### Start: 12. Februar 2022
-
-Samstags von 10:00 bis 16:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 19 herunterladen](/downloads/LSB_19_termine.pdf)
-
-</div>
-<div style="grid-area: w2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 21
 #### Start: 29. August 2022
 
@@ -118,14 +103,12 @@ Montags von 14:00 bis 20:00 Uhr
 
 [Termine LSB 21 herunterladen](/downloads/LSB_21_termine.pdf)
 
-{{% /small  %}}
-{{% /box %}}
 </div>
-
-<div style="grid-area: w3">
+<div style="grid-area: w2">
 
 ***
-
+{{% box blue=1 %}}
+{{% small  %}}
 ## LSB 23
 #### Start: 15. Februar 2023
 
@@ -138,15 +121,16 @@ Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
 [Termine LSB 23 herunterladen](/downloads/LSB_23_termine.pdf)
 
 
-Vormittagskurs: Ideal für Eltern!
+**Vormittagskurs: Ideal für Eltern!**
 
+{{% /small  %}}
+{{% /box %}}
 </div>
 
-<div style="grid-area: w4">
+<div style="grid-area: w3">
 
 ***
-{{% box blue=1 %}}
-{{% small  %}}
+
 ## LSB 25
 #### Start: 03. September 2024
 
@@ -155,6 +139,16 @@ Dienstags von 14:00 bis 20:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 25 herunterladen](/downloads/LSB_25_termine.pdf)
+
+</div>
+
+<div style="grid-area: w4">
+
+***
+{{% box blue=1 %}}
+{{% small  %}}
+
+
 
 {{% /small  %}}
 {{% /box %}}
@@ -169,21 +163,6 @@ Dienstags von 14:00 bis 20:00 Uhr
 </div>
 <div style="grid-area: b1">
 
-## LSB 18
-#### Start: 10. Februar 2022
-
-Donnerstags von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 18 herunterladen](/downloads/LSB_18_termine.pdf)
-
-</div>
-<div style="grid-area: b2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 22
 #### Start: 4. September 2023
 
@@ -193,14 +172,12 @@ Montags von 14:00 bis 20:00 Uhr
 
 [Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
 
-{{% /small  %}}
-{{% /box %}}
 </div>
-
-<div style="grid-area: b3">
+<div style="grid-area: b2">
 
 ***
-
+{{% box blue=1 %}}
+{{% small  %}}
 ## LSB 27
 #### Start: 30. August 2024
 
@@ -210,6 +187,15 @@ Einmalig: Sa und So von 09:00 bis 18:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 27 herunterladen](/downloads/LSB_27_termine.pdf)
+
+{{% /small  %}}
+{{% /box %}}
+</div>
+
+<div style="grid-area: b3">
+
+***
+
 
 </div>
 
@@ -281,6 +267,34 @@ Sonntags von 10:00 bis 16:00 Uhr
 ***
 {{% box blue=1 %}}
 {{% small  %}}
+
+
+{{% /small  %}}
+{{% /box %}}
+
+
+</div>
+</div>
+
+## Kooperationspartner
+{{% box %}}
+
+{{% small %}}
+{{< slider content="/img/redezeit/redezeit_logo.png,/img/redezeit/redezeit_1.jpg,/img//redezeit/redezeit_2.jpg,/img//redezeit/redezeit_3.jpg" >}}
+{{% /small %}}
+
+{{% large %}}
+### Weiterer Ausbildungstandort in Baden bei Wien
+
+**Redezeit e.U.**
+
+Pfarrgasse 4 Top 9<br>
+2500 Baden 
+
+[www.redezeit.at](https://www.redezeit.at)
+{{% /large %}}
+
+{{% large %}}
 ## LSB 28 Baden bei Wien 
 #### Start: 07. September 2024
 
@@ -289,13 +303,10 @@ Samstags von 10:00 bis 16:00 Uhr
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 28 herunterladen](/downloads/LSB_28_termine.pdf)
+{{% /large %}}
 
-{{% /small  %}}
 {{% /box %}}
 
-
-</div>
-</div>
 
 {{< line icon="icon/bus.png" >}}
 
