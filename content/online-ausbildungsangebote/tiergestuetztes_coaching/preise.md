@@ -26,11 +26,11 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-* **Ausbildungkosten:** € 2.980,-<br/>
+* **Ausbildungskosten:** € 2.980,-<br/>
 € 980,- Anzahlung nach Anmeldung. <br/>
 Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
 
-* **Einführungspreis: € 2.500,- / gültig bis 10.05.2022**
+* **Einführungspreis: € 2.500,- / gültig bis 10.05.2022**<br/>
 € 980,- Anzahlung nach Anmeldung. <br/>
 Restzahlung über € 1.520,- bis 03.09.2022<br/>
 Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.<br/>
