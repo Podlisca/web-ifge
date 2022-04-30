@@ -26,7 +26,8 @@ weight: 1
 
 ## Organisatorisches 
 
-
+* Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen sowie eine betreute Lerngruppe garantieren für individuelle und persönliche Betreuung
+* Wir bieten nur Real - Live Szenen - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung erhalten Sie sofort ein Willkommensvideo und kleine Aufgaben zur Vorbereitung
 
 * Ab Start können Sie alle zwei Wochen an einer [interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/termine/) teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre Fragen zum jeweiligen Turnus können vorab hochgeladen werden und wir gehen ganz gezielt auf die Fragen ein. Mit Ihrer Teilnahme stimmen Sie der Aufzeichnung zu.
