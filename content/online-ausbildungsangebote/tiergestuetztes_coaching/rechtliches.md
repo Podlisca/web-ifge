@@ -54,7 +54,7 @@ Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coachi
 ### 2.	Zugang
 Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
-Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu.  Nach Ablauf des Lehrgangs werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. In der Mediathek sind somit immer nur die Video - Aufzeichnungen des laufenden Lehrgangs abrufbar. 
+Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Diese Zustimmung kann nicht zurück genommen werden.  Nach Ablauf des Lehrgangs werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. In der Mediathek sind somit immer nur die Video - Aufzeichnungen des laufenden Lehrgangs abrufbar. 
 
 ### 3.	Nutzungsbedingungen
 Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
@@ -62,3 +62,6 @@ Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den L
 Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
 Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
 Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
+
+### 4. Garantie
+IFGE übernimmt keine Garantie dafür, dass der Kunde einen bestimmten wirtschaftlichen Erfolg erreicht.
