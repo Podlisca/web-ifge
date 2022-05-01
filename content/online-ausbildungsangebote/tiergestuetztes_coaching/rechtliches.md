@@ -8,8 +8,9 @@ draft: false
 weight: 4
 ---
 
-# Ausbildung: Tiergestütztes Coaching
-#### Schwerpunkt: Hunde, Katzen & Pferde
+# Onlineausbildung: Tiergestütztes Coaching 
+# LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
+## Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

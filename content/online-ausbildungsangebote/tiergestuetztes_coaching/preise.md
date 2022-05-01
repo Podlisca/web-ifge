@@ -8,8 +8,9 @@ draft: false
 weight: 2
 ---
 
-# Ausbildung: Tiergestütztes Coaching
-#### Schwerpunkt: Hunde, Katzen & Pferde
+# Onlineausbildung: Tiergestütztes Coaching 
+# LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
+## Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -34,6 +35,10 @@ Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
 € 980,- Anzahlung nach Anmeldung. <br/>
 Restzahlung über € 1.520,- bis 03.09.2022<br/>
 Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.<br/>
+
+* **Optional - Intensivtraining in Pinkafeld**  
+€ 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich
+Termin: folgt
 
 Alle Anmeldungen bis 15.05.2022 erhalten automatisch die Aktion
 

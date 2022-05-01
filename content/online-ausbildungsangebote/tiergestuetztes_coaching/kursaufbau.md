@@ -8,8 +8,9 @@ draft: false
 weight: 1
 ---
 
-# Ausbildung: Tiergestütztes Coaching
-#### Schwerpunkt: Hunde, Katzen & Pferde
+# Onlineausbildung: Tiergestütztes Coaching 
+# LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
+## Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -146,7 +147,7 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 #### Optional - Intensivtraining in Pinkafeld
 Optional - Intensivtraining in Pinkafeld
 Kosten: € 1.290,-
-max. 18 Teilnehner*\innen
+max. 18 Teilnehmer*\innen
 
 {{% /small  %}}
 

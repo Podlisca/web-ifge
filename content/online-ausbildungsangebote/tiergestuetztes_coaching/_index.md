@@ -35,8 +35,9 @@ rich_faq:
 
 ---
 
-# Ausbildung: Tiergestütztes Coaching
-#### Schwerpunkt: Hunde, Katzen & Pferde
+# Onlineausbildung: Tiergestütztes Coaching 
+# LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
+## Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="icon/tiere.png" >}}
