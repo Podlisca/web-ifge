@@ -129,29 +129,6 @@ Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
 
 <div style="grid-area: w3">
 
-***
-
-## LSB 25
-#### Start: 03. September 2024
-
-Dienstags von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 25 herunterladen](/downloads/LSB_25_termine.pdf)
-
-</div>
-
-<div style="grid-area: w4">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
-
-
-
-{{% /small  %}}
-{{% /box %}}
 </div>
 
 
@@ -176,32 +153,13 @@ Montags von 14:00 bis 20:00 Uhr
 <div style="grid-area: b2">
 
 ***
-{{% box blue=1 %}}
-{{% small  %}}
-## LSB 27
-#### Start: 30. August 2024
 
-Freitags von 14:00 bis 20:00 Uhr<br>
-Einmalig: Sa und So von 09:00 bis 18:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 27 herunterladen](/downloads/LSB_27_termine.pdf)
-
-{{% /small  %}}
-{{% /box %}}
-</div>
-
-<div style="grid-area: b3">
-
-***
 
 
 </div>
 
 <div style="grid-area: b4">
 
-***
 
 
 </div>
@@ -246,25 +204,7 @@ Donnerstags von 14:00 bis 20:00 Uhr
 
 <div style="grid-area: n3">
 
-***
 
-## LSB 26 St. Pölten
-#### Start: 8. September 2024
-
-Sonntags von 10:00 bis 16:00 Uhr
-<br>
-<br>
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 26 herunterladen](/downloads/LSB_26_termine.pdf)
-
-
-</div>
-
-<div style="grid-area: n4">
-
-***
 {{% box blue=1 %}}
 {{% small  %}}
 
@@ -275,37 +215,6 @@ Sonntags von 10:00 bis 16:00 Uhr
 
 </div>
 </div>
-
-## Kooperationspartner
-{{% box %}}
-
-{{% small %}}
-{{< slider content="/img/redezeit/redezeit_logo.png,/img/redezeit/redezeit_1.jpg,/img//redezeit/redezeit_2.jpg,/img//redezeit/redezeit_3.jpg" >}}
-{{% /small %}}
-
-{{% large %}}
-### Weiterer Ausbildungstandort in Baden bei Wien
-
-**Redezeit e.U.**
-
-Pfarrgasse 4 Top 9<br>
-2500 Baden 
-
-[www.redezeit.at](https://www.redezeit.at)
-{{% /large %}}
-
-{{% large %}}
-## LSB 28 Baden bei Wien 
-#### Start: 07. September 2024
-
-Samstags von 10:00 bis 16:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 28 herunterladen](/downloads/LSB_28_termine.pdf)
-{{% /large %}}
-
-{{% /box %}}
 
 
 {{< line icon="icon/bus.png" >}}
