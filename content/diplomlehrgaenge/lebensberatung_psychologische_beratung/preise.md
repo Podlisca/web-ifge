@@ -43,17 +43,17 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 inkl. 120 Std. Gruppenselbsterfahrung und **90 Stunden Gruppensupervision für die fachliche Tätigkeit**
 
-* Einmalzahlung: € 9.800,-<br/>
-**Einmalzahlung mit Frühbucherbonus\*: € 9.500,- \***
+* Einmalzahlung: € 10.500,-<br/>
+**Einmalzahlung mit Frühbucherbonus\*: € 9.900,- \***
 
-* Semesterzahlung: € 2.110,- pro Semester (Gesamtsumme € 10.550,-)<br/>
-**Semesterzahlung mit Frühbucherbonus: € 2.060,- pro Semester (Gesamtsumme: € 10.300,-)\***
+* Semesterzahlung: € 2.300,- pro Semester (Gesamtsumme € 11.500,-)<br/>
+**Semesterzahlung mit Frühbucherbonus: € 2.150,- pro Semester (Gesamtsumme: € 10.750,-)\***
 
-* Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 380,- beginnend mit Kursstart (Gesamtsumme: € 11.900,-)<br/>
-**Ratenzahlung mit Frühbucherbonus: € 360,- pro Rate (Gesamtsumme: € 11.300,-)\*** 
+* Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 390,- beginnend mit Kursstart (Gesamtsumme: € 12.200,-)<br/>
+**Ratenzahlung mit Frühbucherbonus: € 380,- pro Rate (Gesamtsumme: € 11.900,-)\*** 
 
 
-Für die Administration und die online Praktikumsübersicht & Praktikumsverwaltung ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 250,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden (€ 50,- pro Semester).
+Für die Administration und die online Praktikumsübersicht & Praktikumsverwaltung ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 300,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden (€ 60,- pro Semester).
 
 Sollten Sie bereits vor Ausbildungsbeginn mit dem Praktikum am IFGE beginnen, oder die Software über den Ausbildungszeitraum von 5 Semestern nützen wollen, sind pro Semester € 50,- zusätzlich für die Nutzung der Software zu bezahlen.
 
@@ -74,10 +74,10 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 
-* Sofort 1x Zahlung: € 9.300,- (gilt immer bis zu 3 Monate vor Kursstart)
+* Sofort 1x Zahlung: € 9.600,- 
 * Bildungsscheck von 100,-
 
-**GESAMTKOSTEN € 9.200,- (ohne IFGE Schulungssoftware)**
+**GESAMTKOSTEN € 9.500,- (ohne IFGE Schulungssoftware)**
 
 
 ## Frühbucherbonus
