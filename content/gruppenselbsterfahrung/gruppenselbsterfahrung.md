@@ -19,7 +19,9 @@ og_image: "/img/aufstellung_noe1.jpg"
 
 {{% box %}}
 {{% small  %}}
-**Intensivwoche 2020: in Wien: 08. - 12 August 2022 in Wien**
+**Intensivwoche 2022:** in Wien: 08. - 12 August 2022 in Wien<br/>
+
+**Intensivwoche 2023:** in Wien: 07. - 11 August 2022 in Wien
 {{% /small  %}}
 {{% small  %}}
 **geschlossene Gruppe in Wien: in Planung**
