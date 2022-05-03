@@ -55,7 +55,7 @@ inkl. 120 Std. Gruppenselbsterfahrung und **90 Stunden Gruppensupervision für d
 
 Für die Administration und die online Praktikumsübersicht & Praktikumsverwaltung ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 300,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden (€ 60,- pro Semester).
 
-Sollten Sie bereits vor Ausbildungsbeginn mit dem Praktikum am IFGE beginnen, oder die Software über den Ausbildungszeitraum von 5 Semestern nützen wollen, sind pro Semester € 50,- zusätzlich für die Nutzung der Software zu bezahlen.
+Sollten Sie bereits vor Ausbildungsbeginn mit dem Praktikum am IFGE beginnen, oder die Software über den Ausbildungszeitraum von 5 Semestern nützen wollen, sind pro Semester € 60,- zusätzlich für die Nutzung der Software zu bezahlen.
 
 Wenn Sie die Voraussetzungen für die **Förderkriterien des Wiener ArbeitnehmerInnen Förderungsfonds (waff)** erfüllen, wird die Ausbildung bis zu € 2.000,- gefördert. Weitere Infos hier: https://www.waff.at/foerderungen/
 
