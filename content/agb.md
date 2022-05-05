@@ -55,10 +55,7 @@ Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist o
 
 Seminar- und Kursgebühren, Onlienangebote sind nach Anmeldung auf das Konto:
 
-Silvia Podlisca - Institut für ganzheitliches Erleben e.U. / FN 395989m
-Bank Austria /IBAN: AT42 1200 0007 4443 4259 / BIC: BKAUATWW / zu überweisen.
-
-Nach Vereinbarung Ratenzahlung möglich. Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr.
+Die AGB entnehmen Sie bitte dem jeweiligen Angebot für welches Sie sich angemeldet haben.
 
 Durch Anfragen, Anmeldung, Beauftragung bzw. Terminvereinbarung stimmen Sie den allgemeinen Zahlungs- und Stornobedingungen des jeweiligen Angebots sowie den AGBs zu.
 
