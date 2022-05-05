@@ -36,13 +36,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**30.03.2022** 09:00 - 15:00 Uhr (ausgebucht)</br>
-**01.04.2022** 14:00 - 20:00 Uhr (ausgebucht)</br> 
-**08.04.2022** 14:00 - 20:00 Uh (ausgebucht)</br>
-**20.04.2022** 09:00 - 15:00 Uhr</br>
-**27.04.2022** 09:00 - 15:00 Uhr</br>
-**29.04.2022** 14:00 - 20:00 Uhr (ausgebucht)</br>
-**04.05.2022** 09:00 - 15:00 Uhr (ausgebucht)</br> 
 **06.05.2022** 14:00 - 20:00 Uhr</br>  
 **07.05.2022** 10:00 - 16:00 Uhr</br>
 **14.05.2022** 10:00 - 16:00 Uhr</br>
@@ -135,14 +128,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-
-**Dreitagesaufstellung: 25.03. - 27.03.2022**<br/>
-Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr<br>
-
-**Dreitagesaufstellung: 22.04. - 24.04.2022**<br/>
-Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr<br>
 
 **15.05.2022** 10:00 - 16:00 Uhr</br>
 **12.06.2022** 10:00 - 16:00 Uhr</br>
