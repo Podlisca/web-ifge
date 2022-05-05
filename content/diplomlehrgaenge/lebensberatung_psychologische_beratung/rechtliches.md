@@ -80,7 +80,8 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 W
 ## Allgemeine Geschäftsbedingungen
 
 
-Die Ausbildung ist nur komplett zu buchen und innerhalb von 5 Jahren (10 Semester) abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb von 5 Jahren abgeschlossen sein, ist mit einer Aufzahlung auf die aktuelle Lehrgangsgebühr zu rechnen. Ein kompletter Umstieg in eine andere Gruppe ist nur möglich, wenn nach Ausbildungsstart der gewünschten Gruppe, noch Plätze frei sind. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. 
+Die Ausbildung ist nur komplett zu buchen und innerhalb der vorgeschriebenen Zeit abzuschließen. Sollte die Ausbildung aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb der Ausbildungszeit abgeschlossen sein, können - solange noch Diplomlehrgänge am IFGE angeboten werden, diese kostenlos nachgeholt werden. Aufgrund der geänderten Ausbildungsverordnung starten die letzten Diplomlehrgänge 2023 am IFGE. Danach werden zusätzliche Unterrichtstage kostenpflichtig angeboten um den Abschluss, rechtzeitig für die Gewerbeanmeldung nach der Verordnung von 2003, zu erreichen. 
+Ein kompletter Umstieg in eine andere Gruppe ist nur möglich, wenn nach Ausbildungsstart der gewünschten Gruppe, noch Plätze frei sind. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen.
 
 Bei Zahlungsverzug von mehr als 10 Tagen bei Semesterzahlung oder Ratenzahlung wird automatisch der gesamte offene Restbetrag fällig. Der Lehrgang kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
 
