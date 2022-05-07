@@ -164,7 +164,8 @@ Voraussetzung hierfür ist die 100%-ige Ausarbeitung der 6 Workboks die im jewei
 
 ## Leitung
 
-* Silvia Podlisca
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * Marie Sophie Brandstetter 
+* [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
 

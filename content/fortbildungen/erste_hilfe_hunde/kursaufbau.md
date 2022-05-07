@@ -68,7 +68,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater/in
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Leitung
 
-* Dr. Josef Ferber
+* [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
 
 
