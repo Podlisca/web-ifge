@@ -36,8 +36,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**06.05.2022** 14:00 - 20:00 Uhr</br>  
-**07.05.2022** 10:00 - 16:00 Uhr</br>
 **14.05.2022** 10:00 - 16:00 Uhr</br>
 **28.05.2022** 10:00 - 16:00 Uhr</br>
 **03.06.2022** 14:00 - 20:00 Uhr</br>
