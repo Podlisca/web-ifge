@@ -43,7 +43,9 @@ Vereinbare dir ein persönliches Informationsgespräch um einen detaillierten Ei
 {{% small  %}}
 
 #### Nächste Informationsveranstaltungen Online 
-
+* 11.Juni 2022<br>18.00 Uhr - 19:30 Uhr
+* 04.Juli 2022<br>18.00 Uhr - 19:30 Uhr
+* 21.Juli 2022<br>18.00 Uhr - 19:30 Uhr
 * 10.September 2022<br>17.00 Uhr - 18:30 Uhr
 * 16.September 2022<br>10.00 Uhr - 11:30 Uhr
 * 24.September 2022<br>17.00 Uhr - 18:30 Uhr
