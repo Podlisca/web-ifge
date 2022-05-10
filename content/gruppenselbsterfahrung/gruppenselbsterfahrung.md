@@ -96,7 +96,7 @@ Hier geht es zur [ANMELDUNG](/anmeldung.php)
 {{% small  %}}
 ## ALLGEMEINE INFO INTENSIV SELBSTERFAHRUNGSWOCHE
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Seminargebühren von € 675,- Anzahlung auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Seminargebühren von € 675,- auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben
 Bank Austria
