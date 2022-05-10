@@ -89,7 +89,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**10.05.2022**  14:00 - 20:00 Uhr</br>
 **19.05.2022**  14:00 - 20:00 Uhr</br>
 **09.06.2022**  14:00 - 20:00 Uhr</br>
 **30.06.2022**  14:00 - 20:00 Uhr</br>
