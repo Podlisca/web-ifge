@@ -65,8 +65,8 @@ Leitung: <br/>
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**13.05.2022**<br/>
-von 16:00 bis 20:00 Uhr
+**19.06.2022**<br/>
+von 10:00 bis 14:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
