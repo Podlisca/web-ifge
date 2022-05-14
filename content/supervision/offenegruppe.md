@@ -83,7 +83,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 
 {{< card-more icon="icon/rahmenbed.png" title="Allgemeine Rahnmenbedingungen">}}
 Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf. 
-Preise: € 80,- für 4 Stunden / € 120,- für 6 Stunden/ € 160,- für 8 Stunden (inkl. 20 % Mwst.)
+Preise: € 80,- für 4,5 Stunden / € 120,- für 7 Stunden/ € 160,- für 9 Stunden (inkl. 20 % Mwst.) Eine Supervisionsstd. = 45 Minuten. Die Zahlung ist sofort nach Anmeldung fällig.
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen">}} 
@@ -95,7 +95,7 @@ Die Gruppe findet ab einer Mindestteilnehmeranzahl von 10 Personen statt und ist
 {{< /card-more >}}
 
 {{< card-more icon="icon/anerkennung.png" title="Anerkennung">}}
-Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt. Alle Teilnehmer\*innen erhalten eine Bestätigung über 8 Supervisionseinheiten.
+Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt. Alle Teilnehmer\*innen erhalten eine Bestätigung über die Supervisionseinheiten.
 {{< /card-more >}}
 
 {{% /box %}}
