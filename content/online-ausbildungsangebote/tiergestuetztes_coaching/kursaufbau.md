@@ -33,7 +33,7 @@ weight: 1
 
 * Ab Start können Sie alle zwei Wochen an einer [interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/termine/) teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre Fragen zum jeweiligen Turnus können vorab hochgeladen werden und wir gehen ganz gezielt auf die Fragen ein. In jeder interkativen Lehrveranstaltung wird ein Übungsfall vorgestellt. Dieser wird dann in der nächsten Lehrveranstaltung besprochen.
 
-* Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Videos und Material frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Traningswoche in Pinkafeld buchen. Diese ist in den Ausbildugskosten nicht inkludiert und extra zu bezahlen. 
+* Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Videos und Material frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Trainingswoche in Pinkafeld buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. 
 
 * Nach bestandener Prüfung bekommen Sie 1 Jahr Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt. Das Qualitätssiegel zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
 
