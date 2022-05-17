@@ -5,7 +5,7 @@ menu:
         parent: online
         identifier: grundlagen_psychosomatik
 draft: false
-weight: 3
+weight: 4
 description: "Die Psychosomatik ist ein hochgradig spannender Teilbereich der ganzheitlichen Gesundheit und kann in der psychologischen Beratung für Berater*innen sowie für deren Klient*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten emotionalen Dynamiken auf die Spur zu kommen."
 og_image: "/img/ambivalenz_2021_1.jpg"
 rich_kurs: true
