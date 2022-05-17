@@ -30,19 +30,15 @@ weight: 2
 * **Ausbildungskosten:** € 2.980,-<br/>
 € 980,- Anzahlung nach Anmeldung. <br/>
 Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
+Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.
 
-* **Einführungspreis: € 2.500,- / gültig bis 10.05.2022**<br/>
-€ 980,- Anzahlung nach Anmeldung. <br/>
-Restzahlung über € 1.520,- bis 03.09.2022<br/>
+* **Sofort 1x Zahlung: € 2.700,-** <br/>
+€ 2.700,- Zahlung sofort nach Anmeldung. <br/>
 Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.<br/>
 
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich
 Termin: folgt
 
-Alle Anmeldungen bis 15.05.2022 erhalten automatisch die Aktion
-
-
 Die Ausbildung ist nur komplett buchbar.
 
-In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. 
