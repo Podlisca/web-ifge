@@ -65,4 +65,4 @@ Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt un
 Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
 
 ### 4. Garantie
-IFGE übernimmt keine Garantie dafür, dass der Kunde einen bestimmten wirtschaftlichen Erfolg erreicht.
+IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
