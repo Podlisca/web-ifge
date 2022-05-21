@@ -46,7 +46,6 @@ weight: 1
 
 #### Kick-off 
 #### Kursmarerial für eine Woche
-
 * Allgemeine Grundlagen in der Beratung
 * Setting: psychologische Beratung allgemein & online
 * Setting: psychologische Beratung Hunde & Katzen
@@ -57,6 +56,7 @@ weight: 1
 * Auftragsklärung / Zielfindung
 * Beratungsverlauf & Bella
 * Beratungsgespräch / Sequenz 
+
 
 {{% /small  %}}
 

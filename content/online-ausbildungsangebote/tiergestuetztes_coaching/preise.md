@@ -38,7 +38,5 @@ Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.<br/>
 
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich
-Termin: folgt
-
-Die Ausbildung ist nur komplett buchbar.
+<br/> Zahlung bei Anmeldung
 
