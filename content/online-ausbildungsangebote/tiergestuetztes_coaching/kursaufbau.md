@@ -156,9 +156,7 @@ max. 18 Teilnehmer*\innen
 ***
 ## PRÜFUNG
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 6. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-
-Voraussetzung hierfür ist die 100%-ige Ausarbeitung der 6 Workboks die im jeweiligen Turnus zur Verfügung gestellt werden sowie die komplette Bezahlung.
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
