@@ -26,15 +26,14 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Informationsveranstaltung
+## nächster Start
+## 03.10.2022
 
 
-Vereinbare dir ein persönliches Informationsgespräch um einen detaillierten Eindruck  über die Ausbildung zu erhalten. Gemeinsam entscheiden wir, ob du für die Ausildung zum tiergestützten Coach in Frage kommst. Wenn es sich von beiden Seiten richtig anfühlt starten wir gemeinsam in die Ausbildung!
+**JETZT für kostenfreie Infobveranstaltung anmelden**
 
+Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist mein Geschenk an dich! Eine Teilnahme an der Ausbildung ist nur mit Teilnahme an der Infoveranstaltung möglich.
 
-**JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!**
-
-{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Terminübersicht
 
@@ -61,15 +60,10 @@ Vereinbare dir ein persönliches Informationsgespräch um einen detaillierten Ei
 
 * Start: 03. Oktober 2022
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-[Anmeldung](/anmeldung.php)
+
+***
+## [Anmeldung](/anmeldung.php)
+***
 
 {{% /small  %}}
 {{% small  %}}
