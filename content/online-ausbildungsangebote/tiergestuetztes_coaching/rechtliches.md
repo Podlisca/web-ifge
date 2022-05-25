@@ -33,7 +33,7 @@ Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus s
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
 
-Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung das erste Modul von € 980,- auf das Konto:
+Um Ihnen den Platz verbindlich zu reservieren, ist nach Anmeldung eine Anzahlung von € 980,- auf das Konto:
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m

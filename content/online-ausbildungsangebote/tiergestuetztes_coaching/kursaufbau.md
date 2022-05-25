@@ -35,6 +35,8 @@ weight: 1
 
 * Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Videos und Material frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Trainingswoche in Pinkafeld buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. 
 
+* Trainingsschwerpunkt der Intensivwoche: Systemische Tieraufstellung
+
 * Nach bestandener Prüfung bekommen Sie ein Jahr Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt. Das Qualitätssiegel zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Nach Absolvierung der Intensiv-Trainingswoche in Pinkafeld erhalten Sie drei Jahre Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt.Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
 
 ***
@@ -44,7 +46,6 @@ weight: 1
 
 #### Kick-off 
 #### Kursmarerial für eine Woche
-
 * Allgemeine Grundlagen in der Beratung
 * Setting: psychologische Beratung allgemein & online
 * Setting: psychologische Beratung Hunde & Katzen
@@ -55,6 +56,7 @@ weight: 1
 * Auftragsklärung / Zielfindung
 * Beratungsverlauf & Bella
 * Beratungsgespräch / Sequenz 
+
 
 {{% /small  %}}
 
@@ -156,9 +158,7 @@ max. 18 Teilnehmer*\innen
 ***
 ## PRÜFUNG
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 6. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-
-Voraussetzung hierfür ist die 100%-ige Ausarbeitung der 6 Workboks die im jeweiligen Turnus zur Verfügung gestellt werden sowie die komplette Bezahlung.
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
