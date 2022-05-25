@@ -109,10 +109,19 @@ Montags von 14:00 bis 20:00 Uhr
 ***
 {{% box blue=1 %}}
 {{% small  %}}
+## LSB 23
+#### Start: 15. Februar 2023
+
+Mittwochs von 09:30 bis 13:30 Uhr<br>
+Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
 
 
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 23 herunterladen](/downloads/LSB_23_termine.pdf)
 
 
+**Vormittagskurs: Ideal für Eltern!**
 
 {{% /small  %}}
 {{% /box %}}
@@ -180,7 +189,14 @@ Freitags von von 14:00 bis 20:00 Uhr
 {{% box blue=1 %}}
 {{% small  %}}
 
+## LSB 24 St. Pölten
+#### Start: 7. September 2023
 
+Donnerstags von 14:00 bis 20:00 Uhr
+
+[ANMELDUNG](/anmeldung.php)
+
+[Termine LSB 24 herunterladen](/downloads/LSB_24_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}
