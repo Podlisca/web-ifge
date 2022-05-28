@@ -35,7 +35,7 @@ weight: 1
 
 * Zum Starttermin erhalten Sie Lehrvideos & Material für eine Woche, danach werden alle drei Wochen neue Videos und Material frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine Intensiv-Trainingswoche in Pinkafeld buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. 
 
-* Trainingsschwerpunkt der Intensivwoche: Systemische Tieraufstellung
+* Trainingsschwerpunkt der Intensivwoche: alle Fragen zum Lehrstoff & viel praktisches Üben mit Hunden.
 
 * Nach bestandener Prüfung bekommen Sie ein Jahr Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt. Das Qualitätssiegel zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Nach Absolvierung der Intensiv-Trainingswoche in Pinkafeld erhalten Sie drei Jahre Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt.Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
 
@@ -45,7 +45,7 @@ weight: 1
 
 
 #### Kick-off 
-#### Kursmarerial für eine Woche
+#### Kursmaterial für eine Woche
 * Allgemeine Grundlagen in der Beratung
 * Setting: psychologische Beratung allgemein & online
 * Setting: psychologische Beratung Hunde & Katzen
@@ -62,7 +62,7 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 1
-#### Kursmarerial für drei Wochen
+#### Kursmaterial für drei Wochen
 
 * Kenne deine Tiere / Unterschiede – wie setzt Du dein Tier ein / Wichtige Regel
 * Bindung Mensch Tier - physiologische Effekte / Bonding / Oxytocin 
@@ -85,7 +85,7 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 2
-#### Kursmarerial für drei Wochen
+#### Kursmaterial für drei Wochen
 
 * Inhalte folgen
 
@@ -96,7 +96,7 @@ weight: 1
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 3
-#### Kursmarerial für drei Wochen
+#### Kursmaterial für drei Wochen
 
 * Systemische Tieraufstellung
 * weitere Inhalte folgen
@@ -105,7 +105,7 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 4
-#### Kursmarerial für drei Wochen
+#### Kursmaterial für drei Wochen
 
 * Inhalte folgen
 
@@ -114,7 +114,7 @@ weight: 1
 
 {{% small  %}}
 #### Turnus 5
-#### Kursmarerial für drei Wochen
+#### Kursmaterial für drei Wochen
 
 * Inhalte folgen
 
@@ -126,7 +126,7 @@ weight: 1
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 6
-#### Kursmarerial für drei Wochen
+#### Kursmaterial für drei Wochen
 
 * Systemische Tieraufstellung
 * weitere Inhalte folgen
@@ -147,6 +147,10 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 {{% small  %}}
 #### Optional - Intensivtraining in Pinkafeld
+
+* Alle Fragen zum Lehrstoff sind Willkommen
+* Beratungsgespräche üben
+
 Optional - Intensivtraining in Pinkafeld
 Kosten: € 1.290,-
 max. 18 Teilnehmer*\innen
