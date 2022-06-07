@@ -42,7 +42,6 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 {{% small  %}}
 
 #### Nächste Informationsveranstaltungen Online 
-* 11.Juni 2022<br>18.00 Uhr - 19:30 Uhr
 * 04.Juli 2022<br>18.00 Uhr - 19:30 Uhr
 * 21.Juli 2022<br>18.00 Uhr - 19:30 Uhr
 * 10.September 2022<br>17.00 Uhr - 18:30 Uhr
