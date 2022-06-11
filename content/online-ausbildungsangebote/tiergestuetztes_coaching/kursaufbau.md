@@ -40,7 +40,7 @@ weight: 1
 * Nach bestandener Prüfung bekommen Sie ein Jahr Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt. Das Qualitätssiegel zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Nach Absolvierung der Intensiv-Trainingswoche in Pinkafeld erhalten Sie drei Jahre Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt.Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
 
 ***
-**Jeder Theorieblock wird zuerst fachlich erklärt und danach erfolgt die Integration ins tiergestützte Coaching**
+**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert**
 ***
 
 {{% box top-align=1 %}}
@@ -127,8 +127,10 @@ weight: 1
 * Treppenstufenmodell der Aggression
 * Aggression / Frustration
 * Motivierende Gesprächsführung / Ambivalezbildung
+* Die Du-Evidenz & Biophiliehypothese
+* Biopsychosoziale Wirkungsfelder von tiergestützter Beratung
 * Beratungsgespräche / Videosequenzen
-* weitere Inhalte folgen
+
 
 {{% /small  %}}
 
@@ -139,6 +141,7 @@ weight: 1
 * Grundlagen der Systemische Aufstellungsarbeit
 * Systemische Tieraufstellung
 * Time Line mit Pferden
+* Pferdegestützte Interventionen - allgemein
 * Beratungsgespräche / Videosequenzen
 * weitere Inhalte folgen
 
@@ -151,6 +154,8 @@ weight: 1
 
 * Dreieckstheorie der Liebe nach Sternberg: 8 Arten der Liebe / Beziehungen
 * Investmentmodell von Rusbult
+* Das Tier geht in Pension
+* Ein tierischer Coach stirbt
 * Beratungsgespräche / Videosequenzen
 * weitere Inhalte folgen
 
@@ -174,6 +179,7 @@ weight: 1
 
 #### Turnus 7
 
+* Zusatzmaterialien je nach Wünschen der Teilnehmer\*innen 
 * Beratungsgespräche / Videosequenzen
 * **Freischaltung der Onlineprüfung**
 
