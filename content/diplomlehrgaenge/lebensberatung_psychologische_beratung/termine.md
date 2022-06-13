@@ -174,6 +174,10 @@ Montags von 14:00 bis 20:00 Uhr
 </div>
 <div style="grid-area: n1">
 
+Aufgrund der geänderten Ausbildungsverordnung werden in St. Pölten keine weiteren Kurse mehr angeboten.
+
+***
+
 </div>
 
 <div style="grid-area: n3">
