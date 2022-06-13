@@ -11,7 +11,7 @@ og_title: "Lsb Upgrade: Zertifizierter Lehrgang Supervision"
 og_image: "/img/index_sv_ausbildung.jpg"
 aliases: 
     - "/ausbildungsangebote/lsb-upgrade-supervisionslehrgang/"
-rich_kurs: true
+rich_kurs: false
 
 rich_faq:
     -   frage: "Was bedeutet Supervision?"
