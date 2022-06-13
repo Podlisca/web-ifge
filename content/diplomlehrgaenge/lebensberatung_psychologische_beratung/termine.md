@@ -174,32 +174,6 @@ Montags von 14:00 bis 20:00 Uhr
 </div>
 <div style="grid-area: n1">
 
-## LSB 20 St. Pölten
-#### Start: 09.September 2022
-
-Freitags von von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 20 herunterladen](/downloads/LSB_20_termine.pdf)
-</div>
-<div style="grid-area: n2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
-
-## LSB 24 St. Pölten
-#### Start: 7. September 2023
-
-Donnerstags von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 24 herunterladen](/downloads/LSB_24_termine.pdf)
-
-{{% /small  %}}
-{{% /box %}}
 </div>
 
 <div style="grid-area: n3">
