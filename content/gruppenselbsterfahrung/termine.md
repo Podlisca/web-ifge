@@ -87,9 +87,9 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 **30.06.2022**  14:00 - 20:00 Uhr</br>
 **06.09.2022**	14:00 - 20:00 Uhr</br>
-**29.09.2022**  14:00 - 20:00 Uhr</br>
 **13.10.2022**  14:00 - 20:00 Uhr</br>
 **17.11.2022**  14:00 - 20:00 Uhr</br>
+**24.11.2022**  14:00 - 20:00 Uhr</br>
 **22.11.2022**	14:00 - 20:00 Uhr</br>
 **18.12.2022**  14:00 - 20:00 Uhr</br>
 
