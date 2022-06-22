@@ -89,14 +89,13 @@ ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*i
 {{% /small  %}}
 {{% small  %}}
  #### Aufstellungsleiterin
-<br/>
+
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
 
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als [zertifizierte Aufstellungsleiter\*in](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung.html).
 {{% /small  %}}
 {{% small  %}}
 #### Supervisorin
-<br/>
 {{< image src="/img/supervision.jpg" >}}
 
 ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychosozialen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychosoziale Berater\*in sowie als [zertifizierte Supervisor\*in](https://www.ifge.at/supervision/philosophie.html).
