@@ -49,7 +49,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube 0Hwsfq_k73E >}}
+{{< youtube Ff0OHNdKnHo>}}
 
 {{% /small %}}
 
