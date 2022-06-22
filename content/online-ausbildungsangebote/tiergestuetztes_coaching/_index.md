@@ -51,6 +51,17 @@ rich_faq:
 
 {{< youtube Ff0OHNdKnHo>}}
 
+***
+
+Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/termine/)** 
+***
+Sie erfahren:
+* Welche großen Vorteile das Tiergestützte Coaching anderen Methoden gegenüber hat
+* Wie Sie prophylaktisch mit deinen Klient*innen an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
+* Welche positiven Einflüsse Tiere auf den Menschen haben
+* Wie sich die Ausbildung Tiergestütztes Coaching gestaltet und welche Möglichkeiten diese bietet
+
+
 {{% /small %}}
 
 {{% small %}}
@@ -58,15 +69,21 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 **In diesem Lehrgang bilden wir Menschen aus und nicht Tiere.** Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. 
 
+Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, Coach\*innen oder Berater\*innen die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten.  
+
+Damit tiergestütztes Coching für Klient\*innen nachhaltig erfolgreiche Ergebnisse erzielt und auch dem Tier Freude bereitet, braucht es fundiertes Wissen, die richtigen Methoden und Anwendungskompetenz. Dies steht im Zentrum der Ausbildung.
+
+***
+
+**Nächster Ausbildungsstart: 03.10.2022**
+* **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
+
+
+
 {{% /small %}}
 
+
 </div> 
-
-Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, Coach\*innen oder Berater\*innen die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten. **Damit tiergestütztes Coching für Klient\*innen nachhaltig erfolgreiche Ergebnisse erzielt und auch dem Tier Freude bereitet, braucht es fundiertes Wissen, die richtigen Methoden und Anwendungskompetenz. Dies steht im Zentrum der Ausbildung.** 
-
-Schwerpunkt Tiere: Hund, Katze & Pferd
-Schwerpunkt Kommunikation: Systemik & Hypnosystemik, Konfliktmanagement, gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Coachingtools
-
 
 {{% /floatbox %}}
 
