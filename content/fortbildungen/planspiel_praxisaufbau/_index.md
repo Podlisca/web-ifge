@@ -1,8 +1,8 @@
 ﻿---
-title: "ONLINE Ausbildung - Planspiel Praxisaufbau"
+title: "Planspiel Praxisaufbau"
 menu: 
     main:
-        parent: online
+        parent: fortb
         identifier: planspiel
 draft: false
 weight: 10
@@ -11,7 +11,7 @@ og_image: "/img/planspiel1.jpg"
 rich_kurs: true
 ---
 
-# ONLINE Ausbildung: 
+# Workshop: 
 # Das Einmaleins der Gründung: Planspiel zum erfolgreichen Aufbau Ihrer Praxis
 
 {{< slogan >}}

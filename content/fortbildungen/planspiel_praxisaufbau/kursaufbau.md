@@ -8,7 +8,7 @@ draft: false
 weight: 1
 ---
 
-# ONLINE Ausbildung: 
+# Workshop:  
 # Das Einmaleins der Gründung: Planspiel zum erfolgreichen Aufbau Ihrer Praxis
 
 {{% slogan %}}
@@ -38,6 +38,8 @@ Neben vielen anderen Fragen beantworten Sie mit professioneller Unterstützung d
 * Worum müssen Sie sich vor einer erfolgreichen Gründung kümmern?
 * Was ist optional?
 * Wie viel Geld müssen und können Sie investieren?
+* Wie funktioniert das mit dem Marketing? 
+* Wie gehe ich das Projekt Website vernünftig an?
 
 Gemeinsam mit Expert\*innen aus Wirtschaft und psychologischer Beratung sowie Coaching erarbeiten Sie die Überlegungen, die (vor der Gründung) benötigt werden und simulieren anhand dieser Daten Ihr (erstes) Geschäftsjahr.
 

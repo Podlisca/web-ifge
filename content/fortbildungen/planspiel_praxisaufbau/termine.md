@@ -2,13 +2,14 @@
 title: "Termine"
 menu: 
     main:
-        parent: coaching
-        identifier: coaching_termine
+        parent: planspiel
+        identifier: planspiel_termine
 draft: false
 weight: 3
 ---
 
-# Diplomlehrgang: Coaching
+# Workshop: 
+# Das Einmaleins der Gründung: Planspiel zum erfolgreichen Aufbau Ihrer Praxis
 
 {{< slogan >}}
 
@@ -22,100 +23,47 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/termin_kursplan.png" >}}
 
-# Termine
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
-
-{{< line icon="icon/termin_kursplan.png" >}}
-## Informationsveranstaltung
-
-
-Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
-
-Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
-
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
-
-{{< line icon="icon/termin_kursplan.png" >}}
+{{< line icon="icon/termine.png" >}}
 ## Nächste Kurse & Lehrpläne 
 
+Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
 
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
-
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-
-#### Start: derzeit nicht geplant
-
+#### Derzeit kein Kurs an diesem Standort geplant 
 
 {{% /small  %}}
 
 {{% small  %}}
 #### Burgenland
-
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
+#### Derzeit kein Kurs an diesem Standort geplant 
 
-#### Start: derzeit nicht geplant
 
 {{% /small  %}}
-
 {{% small  %}}
 
 #### Niederösterreich
-
 {{< slider content="/img/redezeit/redezeit_1.jpg,/img//redezeit/redezeit_2.jpg,/img//redezeit/redezeit_3.jpg,/img/redezeit/redezeit_logo.png" >}}
 
-#### 02. September 2023
+#### Start: 17. September 2022 in Baden 
 
-Standort: Redezeit/ Baden bei Wien 
+Standort: Redezeit / Baden  bei Wien
 
-**Seminarzeiten:** 
-Wochenendkurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr. 
+Wochenende: 17.09. bis 18.09.2022<br/>
+Wochenende: 24.09. bis 25.09.2022<br/>
 
-02.09.2023
-03.09.2023
-09.09.2023
-10.09.2023
-16.09.2023
-17.09.2023
-23.09.2023
-24.09.2023
-30.09.2023
-01.10.2023
-07.10.2023
-08.10.2023
-14.10.2023
-15.10.2023
-21.10.2023
-22.10.2023
-04.11.2023
-05.11.2023
-11.11.2023
-12.11.2023
-18.11.2023
-19.11.2023
-25.11.2023
-26.11.2023
-02.12.2023
-03.12.2023
-09.12.2023
-10.12.2023
-16.12.2023 
-<br> 
- 
-**Prüfung: 17.12.2023**<br/>
+**Samstag** von 09:00 bis 17:00 Uhr<br/>
+**Sonntag** von 09:00 bis 17:00 Uhr<br/>
 
-[ANMELDUNG](/anmeldung.php)
-
-[Termine herunterladen](/downloads/Diplomlehrgang_Coaching_Baden.pdf)
-
+[Anmeldung](/anmeldung.php)
 
 {{% /small  %}}
-
 {{% /box %}}
 
 {{< line icon="icon/bus.png" >}}
@@ -133,5 +81,10 @@ Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anme
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+
+
+
+
+
 
 

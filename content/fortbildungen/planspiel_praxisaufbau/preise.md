@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-# ONLINE Ausbildung: 
+# Workshop:  
 # Das Einmaleins der Gründung: Planspiel zum erfolgreichen Aufbau Ihrer Praxis
 
 {{< slogan >}}
