@@ -34,7 +34,6 @@ weight: 3
 
 Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist mein Geschenk an dich! Eine Teilnahme an der Ausbildung ist nur mit Teilnahme an der Infoveranstaltung möglich.
 
-
 ## Terminübersicht
 
 {{< booking_tiere >}}
