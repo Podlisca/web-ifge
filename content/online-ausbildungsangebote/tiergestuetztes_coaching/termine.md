@@ -37,22 +37,11 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 ## Terminübersicht
 
+{{< booking_tiere >}}
+
+***
 
 {{% box top-align=1 %}}
-{{% small  %}}
-
-#### Nächste Informationsveranstaltungen Online 
-* 04.Juli 2022<br>18.00 Uhr - 19:30 Uhr
-* 21.Juli 2022<br>18.00 Uhr - 19:30 Uhr
-* 10.September 2022<br>17.00 Uhr - 18:30 Uhr
-* 16.September 2022<br>10.00 Uhr - 11:30 Uhr
-* 24.September 2022<br>17.00 Uhr - 18:30 Uhr
-* 27.September 2022<br>18.30 Uhr - 20:00 Uhr
-
-[Anmeldung](/anmeldung.php)
-
-{{% /small  %}}
-
 {{% small  %}}
 
 #### Nächster Ausbildungsbeginn Online
@@ -63,19 +52,8 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 [Anmeldung](/anmeldung.php)
 
+{{%/small  %}}
 
-#### Intensivtraining in Pinkafeld
-
-* **Start:** 24.07. - 28.07.2023
-<br/>Mo. - Do. 09:00 bis 18:00 Uhr
-<br/>Fr. 09:00 bis 14:00 Uhr
-<br/>
-
-
-[Anmeldung](/anmeldung.php)
-
-
-{{% /small  %}}
 {{% small  %}}
 
 #### Interaktive Lehrveranstaltungen
@@ -90,6 +68,22 @@ Online von 18:30 Uhr - 20:00 Uhr
 20. Dezember 2022, 10. Jänner 2023
 
 {{% /small  %}}
+
+
+{{% small  %}}
+#### Intensivtraining in Pinkafeld
+
+* **Start:** 24.07. - 28.07.2023
+<br/>Mo. - Do. 09:00 bis 18:00 Uhr
+<br/>Fr. 09:00 bis 14:00 Uhr
+<br/>
+
+
+[Anmeldung](/anmeldung.php)
+
+
+{{% /small  %}}
+
 {{% /box %}}
 
 
