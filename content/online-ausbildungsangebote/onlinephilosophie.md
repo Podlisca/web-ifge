@@ -69,11 +69,11 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 {{< small >}}
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
+* [Tiergestütztes Coaching](/online-ausbildungsangebote/tiergestuetztes_coaching/)
 * [Umgang mit sexueller Belästigung & Stalking](/psychologische-beratung/spezialisierungen/stalking)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming)
 * [„Zeig’ dich!“: Praxis von Anfang an professionell gründen](/online-ausbildungsangebote/erste_schritte_praxisaufbau)
-* [Planspiel Praxisaufbau](/online-ausbildungsangebote/planspiel_praxisaufbau)
 {{< /small >}}
 {{< /box >}}
 

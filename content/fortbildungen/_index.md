@@ -62,6 +62,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 ## Unsere Ausbildungen im Überblick
 
 **Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
+
 ***
 #### Diplomausbildungen
 ***
@@ -77,13 +78,11 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 #### Upgrades
 ***
 {{% kursbox %}}
-{{< kurs titel="WKO-Zertifiziert: Aufstellungsarbeit" link="/upgrades/aufstellungsarbeit" image="/img/kursziel_upgrade_aufstellung.jpg" >}}
-{{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/upgrades/supervisionsausbildung" image="/img/kraftfeld.jpg" color="light-red" >}}
 {{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sv_supervision.jpg" >}}
 {{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
 {{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
 {{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
-{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" color="light-red" >}}
+{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
 
 
 {{% /kursbox %}}
@@ -98,6 +97,7 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
 {{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
 {{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg">}}
 
 
 {{% /kursbox %}}
@@ -110,14 +110,14 @@ Neben unserer jahrelangen Erfahrung im Bereich der [psychosozialen Selbsterfahru
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
 {{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
 {{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/online-ausbildungsangebote/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg">}}
 {{% /kursbox %}}
 
 ***
 #### Tiergestützte Ausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
 {{% /kursbox %}}
