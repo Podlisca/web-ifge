@@ -211,7 +211,7 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turn
 ## Leitung
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* Marie Sophie Brandstetter 
+* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
 
