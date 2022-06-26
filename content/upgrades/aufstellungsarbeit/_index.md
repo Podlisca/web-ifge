@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade
         identifier: upgrade_aufstellungsarbeit
-draft: false
+draft: true
 weight: 2
 description: "In unserer sehr praxisnahen Ausbildung zum/zur Aufstellungsleiter/in erhalten Sie neue Einsichten und Einblicke, lernen Verstrickungen zu erkennen und wie Sie Aufstellungen professionell und Ihren KundInnen dienlich leiten. Gleichzeitig bietet Ihnen unsere Fortbildung auch für Ihre Einzelgespräche unschätzbaren Mehrwert, da Sie am IFGE ebenso lernen werden, wie Sie dank der Arbeit im inneren Bild, mit Zetteln und vor allem auf dem SystemDimensionsBrett® die Dynamiken und Interventionsmöglichkeiten einer klassischen Familienaufstellung auch in der Einzelarbeit einsetzen können. Dadurch verfügen Sie in Zukunft über ein breites systemisches Methodenspektrum, mit dem Sie Ihre KlientInnen optimal begleiten und unterstützen können."
 og_title: "Fortbildungslehrgang: Aufstellungsarbeit"
