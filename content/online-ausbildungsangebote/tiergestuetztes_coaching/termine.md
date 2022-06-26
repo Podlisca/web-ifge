@@ -46,6 +46,9 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 #### Nächster Ausbildungsbeginn Online
 
 * **Start:** 03. Oktober 2022
+
+***
+
 <br/>
 
 
@@ -79,6 +82,7 @@ Online von 18:30 Uhr - 20:00 Uhr
 
 
 [Anmeldung](/anmeldung.php)
+
 
 
 {{% /small  %}}

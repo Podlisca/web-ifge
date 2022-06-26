@@ -29,10 +29,70 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 
 {{% /floatbox %}}
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+***
+#### Tiergestützte Ausbildungen
+***
+{{% kursbox %}}
+{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
+{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
+{{% /kursbox %}}
+
+***
+#### Diplomausbildungen
+***
+{{% kursbox %}}
+{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
+{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
+{{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
+{{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
+
+{{% /kursbox %}}
+
+***
+#### Upgrades
+***
+{{% kursbox %}}
+{{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sv_supervision.jpg" >}}
+{{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
+{{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
+{{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
+{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
+
+
+{{% /kursbox %}}
+
+***
+#### Fortbildungen
+***
+{{% kursbox %}}
+
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
+{{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
+{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
+{{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
+
+
+{{% /kursbox %}}
+
+***
+#### Online Ausbildungen & Trainings
+***
+{{% kursbox %}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
+{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
+{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
+{{% /kursbox %}}
 
 {{% floatbox %}}
+
+***
 ## Ansprechende Lernatmosphäre & fachliche Qualität – auch online!
+
 
 {{< image src="/img/philosophie_online1.jpg" title="Herzlichkeit, Ausbildung auf Augenhöhe und top Qualität stehen auch bei allen Onlineausbildungen, Onlineberatungen, Onlinesupervisionen an oberster Stelle. Gerade im Onlinemodus ist er emotionale Beziehungsaufbau enorm wichtig, um einen spannenden Unterricht zu gestalten. In Ihrer freien Praxis ist der emotionale Beziehungsaufbau Gradmesser Ihres Erfolges. Das Ziel ist, dass Sie Ihre positive Lernerfahrung in Ihre Arbeit als diplomierter Lebensberater\*in -psychologischen Berater\*in, Aufstellungsleiter\*in oder Supervisor\*in, Coach übertragen, und so noch ein Stück mehr erfolgreich sind."float="right" >}}
 
