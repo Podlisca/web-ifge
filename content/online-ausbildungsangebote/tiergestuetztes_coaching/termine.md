@@ -26,7 +26,7 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## nächster Start
+## nächster Kursstart
 ## 03.10.2022
 
 
@@ -34,7 +34,7 @@ weight: 3
 
 Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist mein Geschenk an dich! Eine Teilnahme an der Ausbildung ist nur mit Teilnahme an der Infoveranstaltung möglich.
 
-## Terminübersicht
+## Terminübersicht Infoveranstaltungen 
 
 {{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" >}}
 
@@ -63,11 +63,16 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 Online von 18:30 Uhr - 20:00 Uhr
 
 11. Oktober 2022, 18. Oktober 2022
-25. Oktober 2022, 01. November 2022
-08. November 2022, 15. November 2022
-22. November 2022, 29. November 2022
+25. Oktober 2022
+***
+01. November 2022, 08. November 2022, 
+15. November 2022. 22. November 2022, 
+29. November 2022
+***
 06. Dezember 2022, 13. Dezember 2022
-20. Dezember 2022, 10. Jänner 2023
+20. Dezember 2022,  
+***
+10. Jänner 2023
 
 {{% /small  %}}
 
