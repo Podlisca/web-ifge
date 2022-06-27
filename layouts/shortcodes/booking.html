@@ -29,8 +29,8 @@ Wenn es insgesamt keine Termine gibt wird das mit einer Textzeile im Widget ange
                 {{ end }}            
             ],
         {{ end }}
-    url_success: {{ default "/anmeldung/bestaetigung/" (.Get "success")}},
-    url_dsgvo: {{ default "/dsgvo.html" (.Get "dsgvo") }},
+    url_success: {{ default "https://lsb.ifge.at/danke/" (.Get "success")}},
+    url_dsgvo: {{ default "/datenschutz" (.Get "dsgvo") }},
     });
 
 </script>
