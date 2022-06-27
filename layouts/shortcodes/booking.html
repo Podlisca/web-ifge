@@ -1,5 +1,5 @@
 <!-- Produkte werden dynamisch über Shortcode Parameter konfiguriert -->
-{{$produkte := .Params }}
+{{$produkte := split (.Get "produkte") ","  }}
 
 <!--  IFGE booking widget start -->
 <link rel="stylesheet" href="https://booking.ifge.at/styles.css">
@@ -8,14 +8,14 @@
     window.lwrData = window.lwrData || [];
     function lwrPush() { lwrData.push(arguments) };
     lwrPush('config', {
-        {{ if $produkte }}
+        {{ if .Get "produkte" }}
             produkte: [
                 {{ range $produkte }}
                     "{{ . }}",
                 {{ end }}            
             ],
         {{ end }}
-    //url_success: '/success.html',
+    url_success: {{ .Get "success"}},
     //url_dsgvo: 'https://ifge.de/dsgvo.html',
     });
 
