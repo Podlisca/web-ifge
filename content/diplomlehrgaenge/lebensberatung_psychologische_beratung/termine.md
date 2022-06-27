@@ -47,7 +47,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 ***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer\*innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
 
 
-{{< booking success="/anmeldung/bestaetigung/">}}
+{{< booking >}}
 
 <br>
 

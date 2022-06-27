@@ -36,7 +36,7 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 ## Terminübersicht
 
-{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="/anmeldung/bestaetigung/" >}}
+{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" >}}
 
 ***
 

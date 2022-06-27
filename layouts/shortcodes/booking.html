@@ -1,4 +1,18 @@
-<!-- Produkte werden dynamisch über Shortcode Parameter konfiguriert -->
+{{/*  
+Beispielanwendung mit Parametern:
+
+{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online,Produkt 2" success="/danke.html" dsgvo="/dsgvo.html">}}
+
+Alle Parameter sind optional. Wenn nicht angegeben wird auf untenstehende Default-Werte zurückgegriffen bzw. im Falle der Produkte die über die API vorgesehen Defaults verwendet.
+Diese sind die Lsb-Infoveranstaltungen.
+
+Produkte müssen exakt mit Produktnamen und durch Komma getrennt angegeben werden. Kein Leerzeichen zwischen den Kommas (dieses zählt dann zum Produktnamen).
+Wenn ein Produktname nicht übereinstimmt wird dafür kein Ergebnis zurückgeliefert. 
+
+Wenn es insgesamt keine Termine gibt wird das mit einer Textzeile im Widget angezeigt: Derzeit keine Termine verfügbar.
+
+*/}}
+
 {{$produkte := split (.Get "produkte") ","  }}
 
 <!--  IFGE booking widget start -->
@@ -15,8 +29,8 @@
                 {{ end }}            
             ],
         {{ end }}
-    url_success: {{ .Get "success"}},
-    //url_dsgvo: 'https://ifge.de/dsgvo.html',
+    url_success: {{ default "/anmeldung/bestaetigung/" (.Get "success")}},
+    url_dsgvo: {{ default "/dsgvo.html" (.Get "dsgvo") }},
     });
 
 </script>
