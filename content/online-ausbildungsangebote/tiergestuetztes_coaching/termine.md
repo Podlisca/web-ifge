@@ -72,7 +72,7 @@ Online von 18:30 Uhr - 20:00 Uhr
 06. Dezember 2022, 13. Dezember 2022
 20. Dezember 2022,  
 ***
-10. Jänner 2023
+10. Jänner 2023, 24. Jänner 2023 **Prüfungsvorbereitung - 3 Stunden** (18:30 bis 21:30 Uhr)
 
 {{% /small  %}}
 
