@@ -34,7 +34,6 @@ Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.
 
 * **Sofort 1x Zahlung: € 2.700,-** <br/>
 € 2.700,- Zahlung sofort nach Anmeldung. <br/>
-Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.<br/>
 
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich
