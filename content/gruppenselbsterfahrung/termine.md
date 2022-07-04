@@ -36,8 +36,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**22.06.2022** 09:00 - 15:00 Uhr</br>
-**02.07.2022** 10:00 - 16:00 Uhr</br>
+
 **07.09.2022** 09:00 - 15:00 Uhr</br>
 **24.09.2022** 10:00 - 16:00 Uhr</br>
 **05.10.2022** 09:00 - 15:00 Uhr</br>
@@ -85,7 +84,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/ifge_pinkafeld.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**30.06.2022**  14:00 - 20:00 Uhr</br>
 **06.09.2022**	14:00 - 20:00 Uhr</br>
 **13.10.2022**  14:00 - 20:00 Uhr</br>
 **17.11.2022**  14:00 - 20:00 Uhr</br>
