@@ -61,22 +61,21 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 #### Interaktive Lehrveranstaltungen
 
 Online von 18:30 Uhr - 20:00 Uhr
+***
+##### Oktober
+11.10.2022 / 18.10.2022 / 25.10.2022
+***
+##### November
+01.11.2022 / 08.11.2022 / 15.11.2022 / 22.11.2022 / 29.11.2022
+***
+##### Dezember
+06.12.2022 / 13.12.2022 / 20.12.2022
+***
+##### Jänner
+10.01.2023<br/> 
+24.01.2023 **- Prüfungsvorbereitung**<br/>
+(18:30 bis 21:30 Uhr - 3 Stunden)
 
-11. Oktober 2022, 18. Oktober 2022
-25. Oktober 2022
-***
-01. November 2022, 08. November 2022, 
-15. November 2022. 22. November 2022, 
-29. November 2022
-***
-06. Dezember 2022, 13. Dezember 2022
-20. Dezember 2022,  
-***
-10. Jänner 2023
-***
-**Prüfungsvorbereitung - 3 Stunden**<br/>
-(18:30 bis 21:30 Uhr)<br/>
-**24. Jänner 2023** 
 
 
 {{% /small  %}}
