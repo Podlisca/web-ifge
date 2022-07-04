@@ -36,7 +36,7 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 ## Terminübersicht Infoveranstaltungen 
 
-{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://lsb.ifge.at/danke-tiergestuetztes-coaching/" >}}
+{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
 
 ***
 
