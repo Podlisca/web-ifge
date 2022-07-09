@@ -27,7 +27,7 @@ weight: 3
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ## nächster Kursstart
-## 03.10.2022
+## 01.11.2022
 
 
 **JETZT für kostenfreie Infobveranstaltung anmelden**
