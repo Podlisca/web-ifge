@@ -40,6 +40,8 @@ weight: 1
 * Nach bestandener Prüfung bekommen Sie ein Jahr Mitgliedschaft im **[Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at)** gratis geschenkt. Das **Qualitätssiegel** zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Nach Absolvierung der Intensiv-Trainingswoche in Pinkafeld erhalten Sie drei Jahre Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt.Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
 
 ***
+## Auszug Kursinhalte
+
 **Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert**
 ***
 
@@ -109,7 +111,7 @@ weight: 1
 * Besonderheiten Hund in der Beratung
 * Besonderheiten Katz in der Beratung
 * Beratungsgespräche / Videosequenzen
-* weitere Inhalte folgen
+
 
 {{% /small%}}
 {{% /box %}}

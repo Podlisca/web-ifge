@@ -30,7 +30,6 @@ weight: 2
 * **Ausbildungskosten:** € 2.980,-<br/>
 € 980,- Anzahlung nach Anmeldung. <br/>
 Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
-Die ersten Kursunterlagen werden am 03.09.2022 übermittelt.
 
 * **Sofort 1x Zahlung: € 2.700,-** <br/>
 € 2.700,- Zahlung sofort nach Anmeldung. <br/>

@@ -41,7 +41,7 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck Tiergestütztes Coaching + Ihren Namen an.
+zu überweisen. Bitte geben Sie als Verwendungszweck Onlineausbildung Tiergestütztes Coaching + Ihren Namen an.
 
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung ein Monat vor geplantem Beginn der Ausbildung. Bei Absage bis zu 6 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 4 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.

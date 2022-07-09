@@ -45,7 +45,7 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 #### Nächster Ausbildungsbeginn Online
 
-* **Start:** 03. Oktober 2022
+* **Start:** 01. November 2022
 
 ***
 
@@ -84,7 +84,7 @@ Online von 18:30 Uhr - 20:00 Uhr
 {{% small  %}}
 #### Intensivtraining in Pinkafeld
 
-* **Start:** 24.07. - 28.07.2023
+* **Start:** Termin folgt
 <br/>Mo. - Do. 09:00 bis 18:00 Uhr
 <br/>Fr. 09:00 bis 14:00 Uhr
 <br/>

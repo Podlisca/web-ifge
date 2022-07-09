@@ -65,20 +65,17 @@ Sie erfahren:
 {{% /small %}}
 
 {{% small %}}
+***
+
+# **Nächster Ausbildungsstart: 03.10.2022**
+* **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
+***
+
 Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret im tiergestützten Coaching. Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
 
 **In diesem Lehrgang bilden wir Menschen aus und nicht Tiere.** Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. 
 
 Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, Coach\*innen oder Berater\*innen die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten.  
-
-Damit tiergestütztes Coching für Klient\*innen nachhaltig erfolgreiche Ergebnisse erzielt und auch dem Tier Freude bereitet, braucht es fundiertes Wissen, die richtigen Methoden und Anwendungskompetenz. Dies steht im Zentrum der Ausbildung.
-
-***
-
-**Nächster Ausbildungsstart: 03.10.2022**
-* **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
-
-
 
 {{% /small %}}
 

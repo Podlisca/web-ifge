@@ -11,18 +11,17 @@ og_image: "/img/tiergestuetzt_2.jpg"
 
 # Onlineausbildung: Klangschalen-Pracitioner
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
 
 {{% floatbox %}}
 
-{{< image src="/img/tiergestuetzt_2.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 
+{{< image src="/img/ks_ausbildung_gruppe.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
 
-Bei dieser Ausbildung werden die Teilnehmer\*innen ausgebildet, Hunde, Katzen und Pferde in die Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
+Mit dieser Ausbildung erhalten Sie umfangreiches Wissen und tiefere Einsichten in mögliche Ursachen von Krankheit, Leid, Glück und Unglück. Sie können körperorientiert arbeiten und gewinnen wichtiges Know-how hinsichtlich des menschlichen Körpers inklusive seiner Organe sowie seiner Energiekreise. 
 
-Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden Tieren in Ihre Arbeit einfließen lassen können. Im Zuge der Ausbildung erfahren Sie, wie Sie beispielsweise Ihre eigenen Vierbeiner in der freien Praxis für Interventionen situativ bestmöglich einsetzen.
+Bauen Sie Ihre Intuition durch freies, kreatives Arbeiten aus und lernen Sie dieses wunderbare „Werkzeug“ kennen, das Ihnen persönliche sowie berufliche Weiterentwicklung bietet und gleichzeitig Ihre Arbeit mit KlientInnen auf wertvolle Weise unterstützt.
 
 {{< silvia >}}
 
