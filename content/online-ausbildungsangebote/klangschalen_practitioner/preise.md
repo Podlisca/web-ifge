@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-# Onlineausbildung: Klangschalen-Pracitioner
+# Onlineausbildung: Klangschalen-Practitioner
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 
 {{< slogan >}}

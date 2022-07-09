@@ -25,7 +25,7 @@ rich_faq:
 
 ---
 
-# Onlineausbildung: Klangschalen-Pracitioner
+# Onlineausbildung: Klangschalen-Practitioner
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 
 {{< slogan >}}
@@ -76,7 +76,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{% /floatbox %}}
 
 
-{{< line icon="noun_Information_478770-2.png" >}}
+
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -95,7 +95,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 #### Ideal auch für Berufseinsteigerinnen
 
-{{< image src="/img/hunde_garten.jpg" title="Klangschalen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
+{{< image src="/img/klangschale_2021_7.jpg" title="Klangschalen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
 
 In unseren Zellen haben wir jede unserer guten – aber auch jede unserer belastenden – Erfahrungen gespeichert. Nicht nur die persönlichen Erfahrungen sondern auch über die Ebene des kollektiven Bewusstseins, der sogenannten Familienseele, die unserer Vorfahren. Dieses Feld wird sehr genau von der Epienetik erforscht. Dieses kollektive Bewusstsein ist Teil jeder bzw. jedes Einzelnen von uns und steht sozusagen über dem persönlichen Erleben. So kommt es, dass wir persönlich oft Dinge wollen, diese sich aber nicht umsetzen lassen, da das Vorhaben nicht im Einklang mit der Familienseele steht.
 

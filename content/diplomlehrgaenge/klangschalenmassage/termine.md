@@ -4,7 +4,7 @@ menu:
     main:
         parent: klangschale
         identifier: klangschale_termine
-draft: false
+draft: true
 weight: 3
 ---
 

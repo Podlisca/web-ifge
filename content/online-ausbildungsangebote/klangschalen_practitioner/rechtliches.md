@@ -8,9 +8,9 @@ draft: false
 weight: 4
 ---
 
-# Onlineausbildung: Klangschalen-Pracitioner
+# Onlineausbildung: Klangschalen-Practitioner
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde, Katzen & Pferde
+
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

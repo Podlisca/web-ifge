@@ -9,9 +9,9 @@ weight: 3
 ---
 
 
-# Onlineausbildung: Klangschalen-Pracitioner
+# Onlineausbildung: Klangschalen-Practitioner
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde, Katzen & Pferde
+
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -45,14 +45,15 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 #### Nächster Ausbildungsbeginn Online
 
-* **Start:** 01. November 2022
+* **Start:** 01. November 2022 <br/>
 
+**[Anmeldung](/anmeldung.php)**
 ***
 
-<br/>
 
 
-[Anmeldung](/anmeldung.php)
+
+
 
 {{%/small  %}}
 

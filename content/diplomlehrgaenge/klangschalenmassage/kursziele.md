@@ -4,7 +4,7 @@ menu:
     main:
         parent: klangschale
         identifier: klangschale_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/klangschale_2021_4.jpg"
 ---
