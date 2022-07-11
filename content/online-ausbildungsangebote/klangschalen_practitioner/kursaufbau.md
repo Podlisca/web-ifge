@@ -30,7 +30,7 @@ weight: 1
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung erhalten Sie sofort ein **Willkommensvideo und kleine Aufgaben** zur Vorbereitung (Freischaltung zw. 3 bis 4 Werktagen).
 
-* Ab Start können Sie alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zum jeweiligen Turnus können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. In jeder interaktiven Lehrveranstaltung wird ein **Übungsfall vorgestellt**. Dieser wird dann in der nächsten Lehrveranstaltung besprochen. Zudem können **Themenwünsche bis zum Ende des 5 Moduls mitgeteilt werden**, die dann im 7. Modul individuell berücksichtigt werden.
+* Ab Start können Sie alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zum jeweiligen Turnus können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. In jeder interaktiven Lehrveranstaltung wird ein **Übungsfall vorgestellt**. Dieser wird dann in der nächsten Lehrveranstaltung besprochen. Zudem können **Themenwünsche bis zum Ende des 5 Moduls mitgeteilt werden**, die dann im 7. Modul individuell berücksichtigt werden.
 
 * Zum Starttermin erhalten Sie **Lehrvideos & Material** für eine Woche, danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine **Intensiv-Trainingswoche in Pinkafeld (Burgenland)** buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. 
 
@@ -39,7 +39,8 @@ weight: 1
 
 {{< line icon="icon/klangschale.png">}}
 
-## Auszug Kursinhalte
+## Auszug Kursinhalte 
+**Seite im Aufbau**
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -65,7 +66,7 @@ weight: 1
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* Eigenschaften von Haltern verschiedener Tierarten
+* Beratungsgespräche / Videosequenzen
 
 
 {{% /small%}}

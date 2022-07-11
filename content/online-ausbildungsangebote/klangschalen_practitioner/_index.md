@@ -43,9 +43,9 @@ rich_faq:
 
 ***
 
-Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG]()** 
+Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/termine/)** 
 ***
-* Welche großen Vorteile die ARbeit mit Klangschalen anderen Methoden gegenüber hat
+* Welche großen Vorteile die Arbeit mit Klangschalen anderen Methoden gegenüber hat
 * Wie Sie prophylaktisch mit deinen Klient*innen an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
 * Welche positiven Einflüsse Klangschalen auf den Menschen haben
 * Wie sich die Ausbildung zum/zur Klangschalen Practitioner gestaltet und welche Möglichkeiten diese bietet 
@@ -57,7 +57,7 @@ Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG]()**
 *** 
 
 # **Nächster Ausbildungsstart: 01.11.2022**
-* **100% ONLINE** & [individuelle, persönliche Betreuung]()
+* **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/kursaufbau/)
 
 ***
 

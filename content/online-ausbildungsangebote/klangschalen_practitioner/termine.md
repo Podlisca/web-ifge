@@ -60,21 +60,22 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 {{% small  %}}
 
 #### Interaktive Lehrveranstaltungen
+**Termine in Planung**
 
 Online von 18:30 Uhr - 20:00 Uhr
 ***
-##### Oktober
-11.10.2022 / 18.10.2022 / 25.10.2022
-***
+
 ##### November
-01.11.2022 / 08.11.2022 / 15.11.2022 / 22.11.2022 / 29.11.2022
+XX.11.2022 / XX.11.2022 / XX.11.2022 / XX.11.2022 / XX.11.2022
 ***
 ##### Dezember
-06.12.2022 / 13.12.2022 / 20.12.2022
+XX.12.2022 / XX.12.2022 / XX.12.2022
 ***
 ##### Jänner
-10.01.2023<br/> 
-24.01.2023 **- Prüfungsvorbereitung**<br/>
+XX.01.2023<br/> 
+
+
+XX.01.2023 **- Prüfungsvorbereitung**<br/>
 (18:30 bis 21:30 Uhr - 3 Stunden)
 
 
