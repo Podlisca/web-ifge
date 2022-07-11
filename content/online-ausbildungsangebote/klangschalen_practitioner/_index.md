@@ -4,7 +4,7 @@ menu:
     main:
         parent: online
         identifier: klangschalenpractitioner
-draft: true
+draft: false
 weight: 4
 description: "Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise, sowohl im gesamten Körper, als auch im gesamten Energiekörper aus und erreichen jede Faser und jede Zelle. In unseren Zellen haben wir jede Erfahrung, das Gute wie das Schwere, gespeichert."
 og_title: "Online-Ausbildung: Klangschalen-Practitioner"
@@ -39,17 +39,16 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube Ff0OHNdKnHo>}}
+{{< youtube nGD7YDKn2ek>}}
 
 ***
 
 Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG]()** 
 ***
-Sie erfahren:
-* 
-* 
-* 
-* 
+* Welche großen Vorteile die ARbeit mit Klangschalen anderen Methoden gegenüber hat
+* Wie Sie prophylaktisch mit deinen Klient*innen an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
+* Welche positiven Einflüsse Klangschalen auf den Menschen haben
+* Wie sich die Ausbildung zum/zur Klangschalen Practitioner gestaltet und welche Möglichkeiten diese bietet 
 
 
 {{% /small %}}
