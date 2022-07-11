@@ -62,7 +62,6 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 {{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
 {{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
 {{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
-{{< kurs titel="Diplomausbildung: Klangschalenmassage" link="/diplomlehrgaenge/klangschalenmassage/" image="/img/kursuebersicht_klangschale.jpg" >}}
 
 {{% /kursbox %}}
 
