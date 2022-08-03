@@ -60,22 +60,25 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 {{% small  %}}
 
 #### Interaktive Lehrveranstaltungen
-**Termine in Planung**
 
 Online von 18:30 Uhr - 20:00 Uhr
 ***
 
 ##### November
-XX.11.2022 / XX.11.2022 / XX.11.2022 / XX.11.2022 / XX.11.2022
+11.11.2022 / 18.11.2022 / 25.11.2022 
 ***
 ##### Dezember
-XX.12.2022 / XX.12.2022 / XX.12.2022
+02.12.2022 / 09.12.2022 / 16.12.2022
 ***
 ##### Jänner
-XX.01.2023<br/> 
+13.01.2023 / 20.01.2023 / 27.01.2023 /
+
+***
+##### Februar
+03.02.2023 / 10.02.2023 <br/> 
 
 
-XX.01.2023 **- Prüfungsvorbereitung**<br/>
+24.01.2023 **- Prüfungsvorbereitung**<br/>
 (18:30 bis 21:30 Uhr - 3 Stunden)
 
 
@@ -86,7 +89,7 @@ XX.01.2023 **- Prüfungsvorbereitung**<br/>
 {{% small  %}}
 #### Intensivtraining in Pinkafeld
 
-* **Start:** Termin folgt
+* **Start:** 17.07. bis 21.07.2023
 <br/>Mo. - Do. 09:00 bis 18:00 Uhr
 <br/>Fr. 09:00 bis 14:00 Uhr
 <br/>
