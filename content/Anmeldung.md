@@ -165,7 +165,7 @@ Mit Ihrer Anmeldung stimmen Sie den [AGB](/agb/) zu. Die [Widerrufsbelehrung](/w
         <option>Einmalzahlung</option>
         <option>Aktion: Sofort 1x Zahlung (Gültigkeit beachten)</option>
         <option>Semesterzahlung (nur bei Lsb Lehrgang möglich)</option>
-        <option>Ratenzahlung (nur bei Lsb Lehrgang möglich)</option>
+        <option>Ratenzahlung</option>
         <option>pro Seminar / pro Modul</option>
     </select>
     <label for="uid">UID Nummer</label>
