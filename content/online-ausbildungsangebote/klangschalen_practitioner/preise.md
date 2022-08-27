@@ -34,6 +34,10 @@ Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
 * **Sofort 1x Zahlung: € 2.700,-** <br/>
 € 2.700,- Zahlung sofort nach Anmeldung. <br/>
 
+* **Ratenzahlung: € 3.290,-** <br/>
+€ 290,- Zahlung sofort nach Anmeldung. <br/>
+3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
+
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich
 <br/> Zahlung bei Anmeldung
