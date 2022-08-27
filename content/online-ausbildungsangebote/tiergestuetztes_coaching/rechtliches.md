@@ -44,7 +44,9 @@ BIC: BKAUATWW
 zu überweisen. Bitte geben Sie als Verwendungszweck Onlineausbildung Tiergestütztes Coaching + Ihren Namen an.
 
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung ein Monat vor geplantem Beginn der Ausbildung. Bei Absage bis zu 6 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 4 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung ein Monat vor geplantem Beginn der Ausbildung. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird, der offenen Betrag gerichtlich eingefordert. 
+
+Bei Absage bis zu 6 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 4 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Lehrgangsgebühr zu bezahlen; danach die volle Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
@@ -66,3 +68,6 @@ Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer
 
 ### 4. Garantie
 IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
+
+### 4. Gerichtstand:
+Wien, Österreich
