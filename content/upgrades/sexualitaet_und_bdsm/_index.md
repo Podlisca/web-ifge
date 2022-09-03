@@ -9,9 +9,7 @@ weight: 7
 description: "Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern, wie unser neuer Kurs Sexualität & BDSM."
 og_image: "/img/upgrade_bdsm.jpg"
 rich_kurs: true
-rich_faq:
-    -   frage: "Frage?"
-        antwort: "Antwort"
+
 
 ---
 
