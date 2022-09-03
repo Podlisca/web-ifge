@@ -108,6 +108,8 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 #### Online Ausbildungen & Trainings
 ***
 {{% kursbox %}}
+{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/online-ausbildungsangebote/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
 {{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
