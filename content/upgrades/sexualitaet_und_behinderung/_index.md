@@ -10,9 +10,7 @@ description: "Sexualität, Alter & Behinderung ist eine optimale Weiterbildung f
 og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
 og_image: "/img/sex_alter.jpg"
 rich_kurs: true
-rich_faq:
-    -   frage: "Frage?"
-        antwort: "Antwort"
+
 
 ---
 
