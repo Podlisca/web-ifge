@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: absolventen
-draft: false
+draft: true 
 weight: 5
 aliases: 
     - "/absolvent-innen-des-ifge/index.html"

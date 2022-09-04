@@ -49,13 +49,9 @@ Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, tier
 
 Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist oder eine medizinische Behandlung ersetzt. Alle Angebote unterliegen strengster Vertraulichkeit!
 
-## Ausbildungen & Seminare:
-
-**Für alle Präsenzveranstaltungen gilt die 2,5 G Regel (Geimpft, Genesen, PCR Test).** Bitte den Nachweis mitführen - Danke!
-
 Seminar- und Kursgebühren, Onlienangebote sind nach Anmeldung auf das Konto:
 
-Die AGB entnehmen Sie bitte dem jeweiligen Angebot für welches Sie sich angemeldet haben.
+Die AGB für Kursangebote entnehmen Sie bitte dem jeweiligen Angebot für welches Sie sich angemeldet haben.
 
 Durch Anfragen, Anmeldung, Beauftragung bzw. Terminvereinbarung stimmen Sie den allgemeinen Zahlungs- und Stornobedingungen des jeweiligen Angebots sowie den AGBs zu.
 

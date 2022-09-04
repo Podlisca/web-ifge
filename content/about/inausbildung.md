@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: inausbildung
-draft: false
+draft: true
 weight: 6
 og_image: "/img/silvia_noe3.jpg"
 ---
