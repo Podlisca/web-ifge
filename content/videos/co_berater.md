@@ -1,5 +1,5 @@
 ---
-title: "Co Berater am IFGE Pluto & Sally"
+title: "Co Berater: Pluto & Sally"
 draft: false
 weight: 2
 type: blog
