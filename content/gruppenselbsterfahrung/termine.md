@@ -37,8 +37,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-**07.09.2022** 09:00 - 15:00 Uhr</br>
-**24.09.2022** 10:00 - 16:00 Uhr</br>
 **05.10.2022** 09:00 - 15:00 Uhr</br>
 **15.10.2022** 10:00 - 16:00 Uhr</br>
 **02.11.2022** 09:00 - 15:00 Uhr</br>
