@@ -1,0 +1,22 @@
+{{ define "main"}}
+
+<h1>VIDEOS</h1>
+
+{{- partial "slogan.html" -}}
+{{ $current := . }}
+<div class="line">
+    <hr />
+    <div>
+        <img src="/img/icon/video.png" alt="Videos" />
+    </div>
+</div>
+
+{{- partial "blog-style" . -}}
+
+<div class="post-container">
+    {{ range .Pages.Reverse }}
+        {{ .Render "summary"}}
+    {{ end }}
+</div>
+
+{{ end }}

@@ -1,0 +1,16 @@
+<article class="post video">
+    
+    {{ .Content }}
+
+    <header>
+        <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+    </header>
+    <main>
+        <div class="description">
+            {{ .Description }}
+        </div>
+        <footer>
+            <a href='{{ .Permalink }}'><nobr>Mehr →</nobr></a>
+        </footer>
+    </main>
+</article>

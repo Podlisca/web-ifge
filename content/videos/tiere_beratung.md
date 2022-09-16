@@ -2,7 +2,6 @@
 title: "Tiere in der Beratung"
 draft: false
 weight: 2
-type: blog
 description: "IFGE Institutsmops Pluto zeigt Ihnen recht eindrucksvoll wie Sie Hunde und Katzen in Ihrer psychologischen Beratung einsetzen können. Schauen Sie selbst!"
 rich_faq:
     -   frage: "Was ist tiergestützte psychosoziale Beratung?"
