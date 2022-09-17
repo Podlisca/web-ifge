@@ -46,12 +46,9 @@ rich_faq:
 
 
 
-
-
-
-
 ## Die SGF®-Methode. 
 ## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
+***
 
 <div class="box video">
 {{% small %}}
@@ -59,6 +56,8 @@ rich_faq:
 ## Was ist und kann die SGF®-Methode?
 
 {{< youtube fmXmn39H7Zs>}}
+
+</br>
 
 Mit mehr als 20 Jahren Erfahrung in den Bereichen [psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) und [psychosoziale Ausbildung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) ist [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) eine Expertin für systemische Familienaufstellung. Auf Basis bewährter und etablierter Ansätze, wie etwa der Aufstellung nach Bert Hellinger, hat sie eine eigene und mittlerweile patentierte Methode entwickelt: Die **SGF®-Methode**. **S**ystemisch-**G**anzheitliche-**F**amilienaufstellung nach Silvia Podlisca. 
 
