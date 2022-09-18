@@ -47,9 +47,22 @@ weight: 1
 
 #### Kick-off 
 #### Kursmaterial für eine Woche
-* Allgemeine Grundlagen in der Beratung
 
-* Beratungsgespräche / Videosequenzen
+* Allgemeine Grundlagen in der Beratung
+* Der ganzheitliche Blick
+* Grundwissen über Klangschalen
+* Grundhaltung Carl Rogers - das humanistisches Menschenbild 
+* Das Setting
+* Auftragsklärung in der Gesprächsführung
+* Methoden der wertschätzenden Gesprächsführung
+* Die ersten Interventionen im Gespräch
+* Dein Klangschalenset 
+* Die tibetische 8 / die tibetanische 8
+* Die ersten Schritte mit der Klangschale - Teil 1
+* Teil 2: Deine ersten Schritte mit der Klangschale
+* praktische Übung: Blinde Kuh
+* Praktische Übung: Blinde Kuh - die Auflösung
+* Wellnessbehandlung: Energie tanken mit den Klangschalen 
 
 
 {{% /small  %}}
@@ -58,13 +71,29 @@ weight: 1
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-
+* Intrinsische Motivation vs. extrinsische Motivation
+* Burn-Out & Stress
+* Weitere Gesprächsinterventionen 
+* Die 7 Hauptchakren im Überblick
+* Die 7 Chakren genau erklärt
+* Nebenchakras
+* Der Chakrenausgleich mit Klangschalen
+* TCM: 5 Elemente im Überblick 
+* Die acht Resilienzfaktoren
+* Rubikonmodell 
 * Beratungsgespräche / Videosequenzen
 
 {{% /small  %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
+
+* 
+* 
+* 
+* 
+* 
+* 
 
 * Beratungsgespräche / Videosequenzen
 
@@ -77,6 +106,12 @@ weight: 1
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
+* 
+* 
+* 
+* 
+* 
+* 
 
 * Beratungsgespräche / Videosequenzen
 
@@ -88,6 +123,20 @@ weight: 1
 #### Kursmaterial für drei Wochen
 
 * Grundlagen der Systemische Aufstellungsarbeit
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 
 
@@ -97,6 +146,13 @@ weight: 1
 #### Turnus 5
 #### Kursmaterial für drei Wochen
 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 * Dreieckstheorie der Liebe nach Sternberg: 8 Arten der Liebe / Beziehungen
 
 
@@ -110,13 +166,24 @@ weight: 1
 #### Turnus 6
 #### Kursmaterial für drei Wochen
 
-* Text
+* 
+* 
+* 
+* 
+* 
 * 
 
 {{% /small  %}}
 {{% small  %}}
 
 #### Turnus 7
+
+* 
+* 
+* 
+* 
+* 
+* 
 
 * Zusatzmaterialien je nach Wünschen der Teilnehmer\*innen 
 * Beratungsgespräche / Videosequenzen
