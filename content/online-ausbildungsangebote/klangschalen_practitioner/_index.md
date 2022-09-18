@@ -72,10 +72,32 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 </div> 
 
+***
+# Hier ein kleiner Einblick in die Ausbildung:
+
+
+<div class="box video">
+{{% small %}}
+
+### Das Setting in der Klangschalenmassage 
+{{< youtube sPhLf8V--eQ>}}
+{{% /small %}}
+{{% small %}}
+
+### Die ersten Schritte mit der Klangschale - Teil 1
+{{< youtube LSo7kDjptZ4>}}
+{{% /small %}}
+{{% small %}}
+
+### Wellnessbehandlung: Energie tanken mit den Klangschalen
+{{< youtube W_XoRIFVzKU>}}
+{{% /small %}}
+
+</div> 
+
 {{% /floatbox %}}
 
-
-
+{{< line icon="noun_Information_478770-2.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
