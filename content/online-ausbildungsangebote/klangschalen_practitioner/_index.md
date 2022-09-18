@@ -56,7 +56,7 @@ Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https
 {{% small %}}
 *** 
 
-# **Nächster Ausbildungsstart: 01.11.2022**
+# Nächster Ausbildungsstart: 01.11.2022
 * **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/kursaufbau/)
 
 ***
