@@ -74,7 +74,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 ***
 # Hier ein kleiner Einblick in die Ausbildung:
-
+#### In Summe umfasst die Ausbildung über 100 Lehrvideos
 
 <div class="box video">
 {{% small %}}
@@ -84,8 +84,8 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{% /small %}}
 {{% small %}}
 
-### Die ersten Schritte mit der Klangschale - Teil 1
-{{< youtube LSo7kDjptZ4>}}
+### Der Chakrenausgleich mit Klangschalen
+{{< youtube I3cO3959sGU>}}
 {{% /small %}}
 {{% small %}}
 

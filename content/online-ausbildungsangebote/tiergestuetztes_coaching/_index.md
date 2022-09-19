@@ -83,7 +83,7 @@ Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberat
 
 ***
 # Hier ein kleiner Einblick in die Ausbildung:
-
+#### In Summe umfasst die Ausbildung über 100 Lehrvideos
 
 <div class="box video">
 {{% small %}}
