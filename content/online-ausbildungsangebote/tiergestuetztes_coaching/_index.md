@@ -79,8 +79,31 @@ Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberat
 
 {{% /small %}}
 
+</div> 
+
+***
+# Hier ein kleiner Einblick in die Ausbildung:
+#### In Summe umfasst die Ausbildung über 100 Lehrvideos
+
+<div class="box video">
+{{% small %}}
+
+### Möglichkeit & Grenzen des Tiergestützten Coaching - Theorie
+{{< youtube 0PaEP6h_wQc>}}
+{{% /small %}}
+{{% small %}}
+
+### Klientengespräch Indoor mit Hund der Klientin 
+{{< youtube 1i4cXuwfH4w >}}
+{{% /small %}}
+{{% small %}}
+
+### Klientengespräch mit Katzen: Umgang beruflicher Erfolg
+{{< youtube 4DxIm-3wNWI>}}
+{{% /small %}}
 
 </div> 
+
 
 {{% /floatbox %}}
 

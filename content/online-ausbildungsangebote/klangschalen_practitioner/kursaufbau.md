@@ -30,9 +30,9 @@ weight: 1
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung erhalten Sie sofort ein **Willkommensvideo und kleine Aufgaben** zur Vorbereitung (Freischaltung zw. 3 bis 4 Werktagen).
 
-* Ab Start können Sie alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zum jeweiligen Turnus können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. In jeder interaktiven Lehrveranstaltung wird ein **Übungsfall vorgestellt**. Dieser wird dann in der nächsten Lehrveranstaltung besprochen. Zudem können **Themenwünsche bis zum Ende des 5 Moduls mitgeteilt werden**, die dann im 7. Modul individuell berücksichtigt werden.
+* Ab Start können Sie alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zum jeweiligen Turnus können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. In jeder interaktiven Lehrveranstaltung wird ein **Übungsfall vorgestellt**. Dieser wird dann in der nächsten Lehrveranstaltung besprochen. Zudem können **Themenwünsche bis zum Ende des 5 Moduls mitgeteilt werden**, die dann im 7. Modul individuell berücksichtigt werden. 
 
-* Zum Starttermin erhalten Sie **Lehrvideos & Material** für eine Woche, danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine **Intensiv-Trainingswoche in Pinkafeld (Burgenland)** buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. 
+* Zum Starttermin erhalten Sie **Lehrvideos & Material** für eine Woche, danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine **Intensiv-Trainingswoche in Pinkafeld (Burgenland)** buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. Sie haben **drei Jahre** Vollzugriff auf die Ausbildungsunterlagen.
 
 * Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.
 
@@ -40,16 +40,31 @@ weight: 1
 {{< line icon="icon/klangschale.png">}}
 
 ## Auszug Kursinhalte 
-**Seite im Aufbau**
+**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br> Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
 
 {{% box top-align=1 %}}
 {{% small  %}}
 
 #### Kick-off 
 #### Kursmaterial für eine Woche
-* Allgemeine Grundlagen in der Beratung
 
-* Beratungsgespräche / Videosequenzen
+* Allgemeine Grundlagen in der Beratung
+* Der ganzheitliche Blick
+* Grundwissen über Klangschalen
+* Grundhaltung Carl Rogers - das humanistisches Menschenbild 
+* Das Setting
+* Auftragsklärung in der Gesprächsführung
+* Methoden der wertschätzenden Gesprächsführung
+* Die ersten Interventionen im Gespräch
+* Dein Klangschalenset 
+* Die tibetische 8 / die tibetanische 8
+* Die Skalenfrage
+* Klangschalen und Ambiente
+* Die ersten Schritte mit der Klangschale - Teil 1
+* Teil 2: Deine ersten Schritte mit der Klangschale
+* praktische Übung: Blinde Kuh
+* Praktische Übung: Blinde Kuh - die Auflösung
+* Wellnessbehandlung: Energie tanken mit den Klangschalen 
 
 
 {{% /small  %}}
@@ -58,7 +73,17 @@ weight: 1
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-
+* Intrinsische Motivation vs. extrinsische Motivation
+* Burn-Out & Stress
+* Weitere Gesprächsinterventionen 
+* Die 7 Hauptchakren im Überblick
+* Die 7 Chakren genau erklärt
+* Nebenchakras
+* Der Chakrenausgleich mit Klangschalen
+* TCM: 5 Elemente im Überblick 
+* Rubikonmodell 
+* Die acht Resilienzfaktoren
+* Selbstfürsorge / Psychosomatik
 * Beratungsgespräche / Videosequenzen
 
 {{% /small  %}}
@@ -66,6 +91,14 @@ weight: 1
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
+* 5 Elemente / Vertiefung
+* Die 14 Hauptmeridiane im Überblick
+* Zentralgefäß
+* Gouverneursgefäß
+* Magenmeridian
+* Milzmeridian
+* Herzmeridian
+* Dünndarmeridian
 * Beratungsgespräche / Videosequenzen
 
 
@@ -77,7 +110,8 @@ weight: 1
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-
+* Die 14 Hauptmuskeln
+* Neurolymphatische Punkte
 * Beratungsgespräche / Videosequenzen
 
 
@@ -87,7 +121,9 @@ weight: 1
 #### Turnus 4
 #### Kursmaterial für drei Wochen
 
-* Grundlagen der Systemische Aufstellungsarbeit
+* Untermuskeln Magen/Milz/Dünndarm/Blase/Niere
+* Neurolymphatische Punkte 
+
 
 
 
@@ -97,6 +133,7 @@ weight: 1
 #### Turnus 5
 #### Kursmaterial für drei Wochen
 
+* Untermuskeln KS / 3fach Erwärmer / Gallenblase / Leber / Lunge / Dickdarm
 * Dreieckstheorie der Liebe nach Sternberg: 8 Arten der Liebe / Beziehungen
 
 
@@ -110,13 +147,15 @@ weight: 1
 #### Turnus 6
 #### Kursmaterial für drei Wochen
 
-* Text
-* 
+* Die Wirkung der Klangschale in Kombination mit Feng Shui
+* Häufige psychosomatische Erkrankungen
+
 
 {{% /small  %}}
 {{% small  %}}
 
 #### Turnus 7
+#### Zusatzmaterial
 
 * Zusatzmaterialien je nach Wünschen der Teilnehmer\*innen 
 * Beratungsgespräche / Videosequenzen
@@ -126,8 +165,8 @@ weight: 1
 {{% /small  %}}
 
 {{% small  %}}
-#### Optional - Intensivtraining in Pinkafeld
-
+#### Optional - 
+#### Intensivtraining in Pinkafeld
 * Alle Fragen zum Lehrstoff sind Willkommen
 * Beratungsgespräche üben
 

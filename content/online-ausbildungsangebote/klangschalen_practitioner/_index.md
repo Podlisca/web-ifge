@@ -8,7 +8,7 @@ draft: false
 weight: 4
 description: "Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise, sowohl im gesamten Körper, als auch im gesamten Energiekörper aus und erreichen jede Faser und jede Zelle. In unseren Zellen haben wir jede Erfahrung, das Gute wie das Schwere, gespeichert."
 og_title: "Online-Ausbildung: Klangschalen-Practitioner"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/ks_practitioner.jpg"
 rich_kurs: false
 rich_faq:
     -   frage: "Für wen ist die Ausbildung zur Klangschalenmassage interesannt?"
@@ -56,7 +56,7 @@ Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https
 {{% small %}}
 *** 
 
-# **Nächster Ausbildungsstart: 01.11.2022**
+# Nächster Ausbildungsstart: 01.11.2022
 * **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/kursaufbau/)
 
 ***
@@ -72,10 +72,32 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 </div> 
 
+***
+# Hier ein kleiner Einblick in die Ausbildung:
+#### In Summe umfasst die Ausbildung über 100 Lehrvideos
+
+<div class="box video">
+{{% small %}}
+
+### Das Setting in der Klangschalenmassage 
+{{< youtube sPhLf8V--eQ>}}
+{{% /small %}}
+{{% small %}}
+
+### Der Chakrenausgleich mit Klangschalen
+{{< youtube I3cO3959sGU>}}
+{{% /small %}}
+{{% small %}}
+
+### Wellnessbehandlung: Energie tanken mit den Klangschalen
+{{< youtube W_XoRIFVzKU>}}
+{{% /small %}}
+
+</div> 
+
 {{% /floatbox %}}
 
-
-
+{{< line icon="noun_Information_478770-2.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
