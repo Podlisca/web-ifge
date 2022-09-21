@@ -3,8 +3,7 @@ title: "Wissen und Lernen: Warum das so wichtig ist."
 draft: true
 tags: ["Bildung", "Psychohygiene"]
 weight: 132
-
-img: "beratung_2021.jpg"
+img: "bv_wirkung.jpg"
 og_image: "/img/beratung_2021.jpg"
 description: "Wissen schafft Möglichkeiten. So ist es. Das erleben wir in den Ausbildungen und Beratungen jeden Tag aufs Neue. Und deswegen schreiben wir im aktuellen Blog über Wissen und Lernen. Wir greifen gängige Aussagen auf, räumen mit Mythen auf und geben Anstoß uns mehr zuzutrauen."
 ---
