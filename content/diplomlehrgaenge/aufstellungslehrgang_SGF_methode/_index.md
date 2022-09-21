@@ -77,11 +77,15 @@ In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennen
  
 Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silvia Podlisca** nicht nur das kollektive System Familie, sondern auch individuelle Bedürfnisse, Sichtweisen und Erlebnisse. So können Probleme und Prozesse ganzheitlich verstanden und nachhaltige Lösungswege erarbeitet werden. 
 
+
+
+
+
+
 {{% /small %}}
 
 
 </div> 
-
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -94,6 +98,34 @@ Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silv
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
 
 {{% /iconmenu %}}
+
+*** 
+
+## SGF®-Methode: Familienaufstellung nach Silvia Podlisca.
+
+***
+{{% box more=1 blue=1 %}}
+
+{{< card-more icon="icon/gruppengroesse.png" title="SGF®-Methode: Was das ist und was es kann.">}}
+
+Wie der Name Systemisch-Ganzheitliche-Familienaufstellung verrät, ist das Besondere an der Methode deren Struktur und Ganzheitlichkeit. Menschliche Ängste, Krisen und Unsicherheiten können vom Individuum selbst ausgehen oder aber ihren Ursprung im sozialen Umfeld haben. Außerdem entstehen Konflikte häufig aus einem Spannungsfeld individueller und kollektiver Bedürfnisse und Werte. Etwa, wenn wir das Gefühl haben, den Erwartungen der Eltern nicht gerecht zu werden, unsere Familie zu enttäuschen oder gekränkt sind, weil unsere Familie nicht ausreichend greifbar ist bzw. war. Kurz: In Familien treffen individuelle Ansichten und Bedürfnisse auf familiäre bzw. kollektive Ansichten und Bedürfnisse. Daher müssen auch in der systemischen Aufstellung beide Blickwinkel Berücksichtigung finden. Und genau das passiert in der von Silvia Podlisca entwickelten Methode.
+{{< /card-more >}}
+
+{{< card-more icon="icon/sv_gruppe_geschlossen.png" title="Dynamiken erkennen. Verhalten verstehen.">}} 
+Wer in der psychosozialen Beratung tätig ist, wird zwangsläufig auch mit familiären Themen konfrontiert. Ganz einfach, weil jeder Mensch und damit alle Klient*innen eine familiäre Prägung und eine Herkunft haben. Daher ist die Fähigkeit systemische Grunddynamiken zu erkennen besonders relevant. Eine dieser Grunddynamiken ist beispielsweise die Nachfolge. Also das Phänomen, dass Kinder stets ihren Eltern folgen. Das hat sowohl biologische Gründe (z.B. Nahrung) als auch psychologische Gründe (z.B.  Bedürfnis nach Anerkennung, Liebe). Nicht immer sind aber Eltern in der Lage die Bedürfnisse der Kinder zu befriedigen, weil sie selbst seelische Wunden und nicht aufgearbeitete Themen aus der Vergangenheit mitbringen. Trotzdem folgen die Kinder den Eltern und erleben dabei Prägungen und Verletzungen. Wird kein Verständnis für dieses Muster geschaffen, können sich Krisen und Kränkungen über Generationen fortsetzen.  Mit der SGF®-Methode können solche Dynamiken erkannt, bewusst gemacht und verändert werden. Und das ist wichtig.
+{{< /card-more >}}
+
+{{< card-more icon="icon/sv_teambuilding.png" title="Es geht nicht um erzwungene Happy Ends.">}}
+Sondern um Verbesserung und Weiterentwicklung. 
+In Familien werden Verhaltensweisen und Verletzungen über Jahre und Jahrzehnte weitergegeben, weshalb eine systemische Familienaufstellung zum einen Zeit braucht und zum anderen nicht schlagartig zu einer Veränderung führt. Das wäre eine unrealistische und falsche Erwartung. Zumal Vergangenheit und damit auch Familiengeschichte nicht mehr verändert werden können. Vielmehr geht es darum besser zu verstehen und besser verstanden zu werden. Es geht also nicht um ein erzwungenes Happy End, sondern stets um Weiterentwicklung im Sinne einer Verbesserung der Gegenwart. Wer versteht, warum sich Vater und Mutter auf ihre Art verhalten haben, warum sie die Eltern waren, die sie waren, der kann auch sich selbst, seine Bedürfnisse, Sorgen und Themen besser verstehen. Die Erkenntnis, dass es Erfahrungen und Erlebnisse der Eltern sind und nicht die eigene Schuld, dass gewisse Situationen entstanden sind, ist wichtig und baut Enttäuschungen ab.
+{{< /card-more >}}
+
+{{< card-more icon="icon/gruppengroesse.png" title="Aufeinander zugehen. Sich annähern.">}}
+Wir können familiäre Vergangenheit nicht ändern, aber wir können uns damit versöhnen. Versöhnung und Verständnis sind zentrale Themen in der psychosozialen Beratung. Denn Ängste, Bedürfnisse, Krisen und Traumata haben ihren Ursprung häufig in der Vergangenheit, beeinflussen aber das Leben im Hier und Jetzt. Nur wer sich mit der Vergangenheit versöhnt, kann die Gegenwart glücklich leben und aktiv gestalten. Der Prozess des Versöhnens, des aufeinander Zugehens und Annäherns von Familienmitgliedern wird in der SGF®-Methode als Hinbewegung bezeichnet. Auch dazu bietet der Ansatz von Silvia Podlisca einen Leitfaden und eine Struktur. 
+{{< /card-more >}}
+
+{{% /box %}}
+
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
