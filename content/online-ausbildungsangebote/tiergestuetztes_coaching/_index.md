@@ -67,7 +67,7 @@ Sie erfahren:
 {{% small %}}
 ***
 
-# **Nächster Ausbildungsstart: 03.10.2022**
+# Nächster Ausbildungsstart: 03.10.2022
 * **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
 ***
 
@@ -93,7 +93,7 @@ Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberat
 {{% /small %}}
 {{% small %}}
 
-### Klientengespräch Indoor mit Hund der Klientin 
+### Klientengespräch mit Hund von Klientin: Trennung verarbeiten 
 {{< youtube 1i4cXuwfH4w >}}
 {{% /small %}}
 {{% small %}}
