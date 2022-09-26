@@ -92,13 +92,13 @@ Die Gruppe findet 10 mal jährlich jeden **ersten Mittwoch** im Monat von 16:00 
 {{% /small  %}}
 
 {{% small  %}}
-#### Wien - Gruppe 2
+#### Wien - Gruppe 2 
 {{< image src="/img/ifge_wien.jpg">}}
 
 #### Start: 18.01.2023
 Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2023:** 
+**Termine 2023 - ausgebucht** 
 
 {{< center >}}
 18.01.2023<br/>
