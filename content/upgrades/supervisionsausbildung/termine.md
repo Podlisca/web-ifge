@@ -52,8 +52,17 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{% small  %}}
 #### Wien
 
+
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
+#### Start: Termine folgen
+
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 #### Start: 10. September 2023
 
@@ -70,14 +79,6 @@ Sa., 06.01.24 / Sa., 13.01.24 / Sa., 20.01.24<br/>
 
 [Anmeldung](/anmeldung.php)
 
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-
-#### Termine folgen
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
