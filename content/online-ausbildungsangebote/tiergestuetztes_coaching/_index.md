@@ -67,7 +67,7 @@ Sie erfahren:
 {{% small %}}
 ***
 
-# Nächster Ausbildungsstart: 03.10.2022
+# Nächster Ausbildungsstart: 15.02.2023
 * **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
 ***
 

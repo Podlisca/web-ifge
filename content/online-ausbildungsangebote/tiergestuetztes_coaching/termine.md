@@ -27,7 +27,7 @@ weight: 3
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ## nächster Kursstart
-## 03.10.2022
+## 15.02.2023
 
 
 **JETZT für kostenfreie Infobveranstaltung anmelden**
@@ -45,9 +45,7 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 #### Nächster Ausbildungsbeginn Online
 
-* **Start:** 03. Oktober 2022
-
-***
+* **Start:** 15. Februar 2023
 
 <br/>
 
@@ -60,22 +58,12 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 #### Interaktive Lehrveranstaltungen
 
-Online von 18:30 Uhr - 20:00 Uhr
-***
-##### Oktober
-11.10.2022 / 18.10.2022 / 25.10.2022
-***
-##### November
-01.11.2022 / 08.11.2022 / 15.11.2022 / 22.11.2022 / 29.11.2022
-***
-##### Dezember
-06.12.2022 / 13.12.2022 / 20.12.2022
-***
-##### Jänner
-10.01.2023<br/> 
-24.01.2023 **- Prüfungsvorbereitung**<br/>
-(18:30 bis 21:30 Uhr - 3 Stunden)
+**ca. alle 10 Tage** <br/> 
+Termine werden bei Anmeldung bekannt gegeben
 
+Online von 18:30 Uhr - 20:00 Uhr
+
+<br/> 
 
 
 {{% /small  %}}
