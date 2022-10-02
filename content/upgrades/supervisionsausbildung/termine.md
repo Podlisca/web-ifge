@@ -55,23 +55,21 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-#### Start: 14. September 2023
+#### Start: 10. September 2023
 
-jeweils donnerstags von 09:00 bis 18:00 Uhr
+**Uhrzeiten:** von 09:00 bis 18:00 Uhr<br/>
+**Prüfungstag** von 09:00 bis 16:00 Uhr 
 
-14.09.23
-05.10.23
-12.10.23
-26.10.23
-02.11.23
-30.11.23
-14.12.23
-11.01.24
-25.01.24
-15.02.24
-29.02.24
-14.03.24
-28.03.24
+So., 10.09.23 / Sa., 16.09.23 <br/>
+Sa., 07.10.23 / Sa., 21.10.23 / So., 29.10.23<br/>
+So., 12.11.23 / Sa., 18.11.23 <br/>
+Sa., 09.12.23 / So., 17.12.23 / Sa., 23.12.23<br/>
+Sa., 06.01.24 / Sa., 13.01.24 / Sa., 20.01.24<br/>
+
+**Prüfungstag: 20.01.24**
+
+[Anmeldung](/anmeldung.php)
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -85,23 +83,9 @@ jeweils donnerstags von 09:00 bis 18:00 Uhr
 #### Niederösterreich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-#### Start: 18. September 2021 
-Aufgrund der derzeitigen COVID Maßnahmen ist der Kurs ausgebucht. Gerne können Sie sich auf die [Warteliste](/anmeldung.php) setzen lassen. Sollten sich die Maßnahmen lockern, werden noch drei weitere Plätze vergeben. 
+#### Start: Termine folgen
 
-Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 18:00 Uhr<br/>
-Prüfungstag von 09:00 bis 16:00 Uhr 
 
-**Modul 1:** 18.09. und 19.09.2021<br/>
-**Modul 2:** 02.10. und 03.10.2021<br/>
-**Modul 3:** 06.11. und 07.11.2021<br/>
-**Modul 4:** 04.12. und 05.12.2021<br/>
-**Modul 5:** 08.01. und 09.01.2022<br/>
-**Modul 6:** 19.02. und 20.02.2022<br/>
-
-Prüfung: 02.04. 2022
-
-[Warteliste](/anmeldung.php)
 
 {{% /small  %}}
 {{% /small  %}}
