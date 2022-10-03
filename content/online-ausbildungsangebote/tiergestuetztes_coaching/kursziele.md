@@ -6,7 +6,7 @@ menu:
         identifier: upgrade_tiergestuetzt_ziele
 draft: false
 weight: 1
-og_image: "/img/tiergestuetzt_2.jpg"
+og_image: "/img/tier_coaching_1.jpg"
 ---
 
 # Onlineausbildung: Tiergestütztes Coaching 
@@ -18,7 +18,7 @@ og_image: "/img/tiergestuetzt_2.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/tiergestuetzt_2.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 
+{{< image src="/img/tier_coaching_1.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 
 
 Bei dieser Ausbildung werden die Teilnehmer\*innen ausgebildet, Hunde, Katzen und Pferde in die Beratung, beziehungsweise in den Berufsalltag des Quellberufes (Pädagog\*innen, Sozialarbeiter\*innen…), zu integrieren.
 

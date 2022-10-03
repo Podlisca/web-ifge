@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 3
 description: "Hilft bei jeglicher Art von Mensch-Tier-Beziehungen/Schwierigkeiten. Tiere wollen häufig Menschen auf ihre persönlichen Muster oder Themen aufmerksam machen und nutzen dabei ihre Kommunikationsmöglichkeiten."
-og_image: "/img/tiergestuetzt.jpg"
+og_image: "/img/hunde_2023.jpg"
 ---
 
 # Systemische Tieraufstellung
@@ -16,7 +16,7 @@ og_image: "/img/tiergestuetzt.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/tiergestuetzt.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/hunde_2023.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Systemische Tieraufstellung kann sowohl in Einzelsitzungen als auch in Form von Gruppenseminaren die Lösung für die Probleme zwischen Mensch und Tier darstellen. 
 
@@ -87,16 +87,16 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 
 {{% box top-align=1 %}}
 {{% small  %}}
-{{< image src="/img/tieraufstellung_1.jpg" title="Tiere spiegeln uns sehr oft unsere Gefühle und aktuellen Themen wider." >}}
+{{< image src="/img/silvia_hunde.jpg" title="Tiere spiegeln uns sehr oft unsere Gefühle und aktuellen Themen wider." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/tieraufstellung_2.jpg" title="Als treue Begleiter versuchen Sie uns so auf etwas aufmerksam zu machen." >}}
+{{< image src="/img/rosa_2023.jpg" title="Als treue Begleiter versuchen Sie uns so auf etwas aufmerksam zu machen." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/tieraufstellung_3.jpg" title="Unsere geliebten Vierbeiner sind ein wichtiger Teil des Systems Familie." >}}
+{{< image src="/img/silvia_mausi.jpg" title="Unsere geliebten Vierbeiner sind ein wichtiger Teil des Systems Familie." >}}
 {{% /small  %}}
 {{% small  %}}
-{{< image src="/img/tieraufstellung_4.jpg" title="Eine Systemische Tieraufstellung kann Einblicke und Lösungen möglich machen." >}}
+{{< image src="/img/pluto_2023.jpg" title="Eine Systemische Tieraufstellung kann Einblicke und Lösungen möglich machen." >}}
 {{% /small  %}}
 {{% /box %}}
 

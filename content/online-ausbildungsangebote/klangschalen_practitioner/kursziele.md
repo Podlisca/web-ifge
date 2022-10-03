@@ -6,7 +6,7 @@ menu:
         identifier: klangschalenpractitioner_ziele
 draft: false
 weight: 1
-og_image: "/img/tiergestuetzt_2.jpg"
+og_image: "/img/ks_team.jpg"
 ---
 
 # Onlineausbildung: Klangschalen-Practitioner
@@ -17,7 +17,7 @@ og_image: "/img/tiergestuetzt_2.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/klangschale_2021_4.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
+{{< image src="/img/ks_team.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}
 
 Mit dieser Ausbildung erhalten Sie umfangreiches Wissen und tiefere Einsichten in mögliche Ursachen von Krankheit, Leid, Glück und Unglück. Sie können körperorientiert arbeiten und gewinnen wichtiges Know-how hinsichtlich des menschlichen Körpers inklusive seiner Organe sowie seiner Energiekreise. 
 
