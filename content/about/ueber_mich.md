@@ -8,7 +8,7 @@ draft: false
 weight: 1
 description: "Durch meine umfassenden Ausbildungen in der Lebensberatung - psychosozialen Beratung in unterschiedlichen Fachrichtungen sowie Schulungen in komplementär-medizinischen, psychosomatischen Bereich, ist es mir möglich - individuell und ganzheitlich - auf jeden Klienten und jede Klientin einzugehen."
 og_title: "Silvia Podlisca - Institutsleiterin"
-og_image: "/img/silvia_ueber_mich.jpg"
+og_image: "/img/uber_mich_2023.jpg"
 aliases:
   - "/über-mich/index.html"
 ---
@@ -22,7 +22,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_ueber_mich.jpg" float="left" title="Ich arbeite seit 2000 im psychosozialen Bereich und ich bin heute noch genau so begeistert und voller Leidenschaft bei meiner Berufung. Hierbei ist mir der Mix zwischen Lehrtätigkeit und die Arbeite in der psychosozialen Beratung sehr wichtig. Denn nur wer die Praxis gut kennt, kann diese erfolgreich weitervermitteln. Meine gesammelten Erfahrungen ließen selbstverständlich in allen Lehrgängen (Lebens- und Sozialberatung, Aufstellungsarbeit., Sexualberatung, Paarberatung, Coaching, Supervision) ein.">}}
+{{< image src="/img/uber_mich_2023.jpg" float="left" title="Ich arbeite seit 2000 im psychosozialen Bereich und ich bin heute noch genau so begeistert und voller Leidenschaft bei meiner Berufung. Hierbei ist mir der Mix zwischen Lehrtätigkeit und die Arbeite in der psychosozialen Beratung sehr wichtig. Denn nur wer die Praxis gut kennt, kann diese erfolgreich weitervermitteln. Meine gesammelten Erfahrungen ließen selbstverständlich in allen Lehrgängen (Lebens- und Sozialberatung, Aufstellungsarbeit., Sexualberatung, Paarberatung, Coaching, Supervision) ein.">}}
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 

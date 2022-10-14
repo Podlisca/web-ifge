@@ -5,7 +5,7 @@ menu:
         parent: lsb
 draft: false
 weight: 1
-og_image:  "/img/lsb_info_noe3.jpg"
+og_image:  "/img/unterricht_2022.jpg"
 rich_faq:
     -   frage: "Was lerne ich als Lebens-und Sozialberater - psychosoziale Berater?"
         antwort: "Die Grundausbildung am IFGE lehrt fachlichen Input rund um verschiedene Themenbereiche wie Systemische Beratung, Familienaufstellung, Krisenintervention und Sexualberatung. Darüber hinaus bietet sie aber auch ein extrem hohes Potential für die eigene persönliche Weiterentwicklung und stärkt die Beraterkompetenz. Die Themen, mit denen zukünftige Klient*innen zu Lebens- und Sozialberater*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen"
@@ -30,7 +30,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{% floatbox %}}
 
-{{< image src="/img/kursziele_2021_2.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
+{{< image src="/img/unterricht_2022.jpg"title="Aufklärung und Transparenz sind am IFGE großgeschrieben. Bereits am Informationsabend zur Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in klärt Silvia Podlisca sehr genau über die Lehrinhalte des Diplomlehrgangs auf wie auch über das benötigte Praktikum für die Arbeit in der freien Praxis." float="left">}} 
 
 Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung zum Beruf zu machen. Das bedeutet, dass am IFGE - in einer wertschätzenden, herzlichen Atmosphäre - fundierte Inhalte praxisorientiert und mit viel Zeit zum Üben unterrichtet werden. 
 
