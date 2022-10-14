@@ -82,7 +82,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{< line icon="icon/termin_kursplan.png" >}}
 ## Nächste Kurse & Lehrpläne 
-**Für alle Präsenzveranstaltungen gilt die 2,5 G Regel (Geimpft, Genesen, PCR Test).**  Bitte den Nachweis mitführen - Danke!
+**Aufgrund der geänderten Ausbildungsverordnung sind dies die letzten Kurse die am IFGE angeboten werden.**
 
 Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
 <div id="kurstermine">
@@ -94,34 +94,27 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 </div>
 <div style="grid-area: w1">
 
-## LSB 21
-#### Start: 29. August 2022
-
-Montags von 14:00 bis 20:00 Uhr
-
-[ANMELDUNG](/anmeldung.php)
-
-[Termine LSB 21 herunterladen](/downloads/LSB_21_termine.pdf)
-
-</div>
-<div style="grid-area: w2">
-
-***
-{{% box blue=1 %}}
-{{% small  %}}
 ## LSB 23
 #### Start: 15. Februar 2023
 
 Mittwochs von 09:30 bis 13:30 Uhr<br>
 Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
 
+**Vormittagskurs: Ideal für Eltern!**
 
 [ANMELDUNG](/anmeldung.php)
 
 [Termine LSB 23 herunterladen](/downloads/LSB_23_termine.pdf)
+</div>
+<div style="grid-area: w2">
 
 
-**Vormittagskurs: Ideal für Eltern!**
+{{% box blue=1 %}}
+{{% small  %}}
+
+
+
+
 
 {{% /small  %}}
 {{% /box %}}
@@ -152,7 +145,6 @@ Montags von 14:00 bis 20:00 Uhr
 </div>
 <div style="grid-area: b2">
 
-***
 
 
 
