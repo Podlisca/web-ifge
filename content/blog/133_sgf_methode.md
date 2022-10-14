@@ -3,8 +3,8 @@ title: "SGF®-Methode: Familienaufstellung nach Silvia Podlisca."
 draft: draft
 tags: ["Familie", "Pädagogik"]
 weight: 133
-img: "unterricht _2022_system.jpg"
-og_image: "/img/unterricht _2022_systemjpg"
+img: "sgf.jpg"
+og_image: "/img/sgf.jpg"
 description: "Kaum ein psychosoziales Format oder Setting kommt an familiären Themen vorbei. Kein Wunder, denn die Familie ist die erste soziale Gruppe, die wir als Menschen kennenlernen und von der wir maßgeblich beeinflusst und geprägt werden. Sowohl in positiver als auch in negativer Hinsicht. Mit jeder Menge Erfahrung, Kompetenz und Herzblut hat IFGE-Institutsleiterin Silvia Podlisca eine eigene Methode für systemische Familienaufstellungen entwickelt. Die SGF®-Methode und die stellen wir euch in den folgenden Zeilen vor."
 ---
 **Kaum ein psychosoziales Format oder Setting kommt an familiären Themen vorbei. Kein Wunder, denn die Familie ist die erste soziale Gruppe, die wir als Menschen kennenlernen und von der wir maßgeblich beeinflusst und geprägt werden. Sowohl in positiver als auch in negativer Hinsicht. Mit jeder Menge Erfahrung, Kompetenz und Herzblut hat IFGE-Institutsleiterin Silvia Podlisca eine eigene Methode für systemische Familienaufstellungen entwickelt. Die SGF®-Methode und die stellen wir euch in den folgenden Zeilen vor.**
