@@ -41,20 +41,33 @@ rich_faq:
 {{< slogan >}}
 
 
-
 {{< line icon="icon/tiere.png" >}}
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
 ***
 ###  Erfahre:
-* Welche großen Vorteile das Tiergestützte Coaching anderen Methoden gegenüber hat
-* Wie Sie prophylaktisch mit Ihren Klient*innen an deren Themen arbeiten, um psychischen Krankheiten vorzubeugen
-* Welche positiven Einflüsse Tiere auf den Menschen haben
-* Wie sich die Ausbildung Tiergestütztes Coaching gestaltet und welche Möglichkeiten diese bietet
+* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
+* Wie Sie **prophylaktisch** mit Ihren Klient*innen an deren Themen arbeiten, um **psychischen Krankheiten vorzubeugen**
+* Welche **positiven Einflüsse Tiere** auf den Menschen haben
+* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
 
-**100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
-***
+### DICH ERWARTET - Deine Vorteile auf einen Blick
+
+* **Deine Expertise auf dem nächsten Level**
+<br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
+* **Dein flexibler Ausbildungsweg**<br/>
+Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. Zudem hast du die Möglichkeit uns deine Themenwünsche bis zum Ende des 5 Moduls mitzuteilen, die dann individuell berücksichtigt werden.
+* **Deine beruflichen Möglichkeiten**<br/>
+Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
+* **Tierische Stimmung**<br/>
+Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
+
+* **100% ONLINE** & individuelle, persönliche Betreuung
+
+{{< line icon="icon/tiere.png" >}}
+## Online Infovideo ansehen & sofort starten
+
 <div class="box video">
 {{% small %}}
 
@@ -93,7 +106,16 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 **In diesem Lehrgang bilden wir Menschen aus und nicht Tiere.** Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. 
 
-Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, Coach\*innen oder Berater\*innen die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten.  
+### Was ist Tiergestütztes Coaching?
+* Hierbei handelt es sich um ein Behandlungsverfahren, bei welchem (Heim-) Tiere, zur Linderung verschiedenster Symptome, eingesetzt werden.
+* Tiergestütztes Coaching setzt auf die beruhigende und vertrauenerweckende Wirkung von Tieren.
+* In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit Klient*innen Lösungsperspektiven entwickelt.
+* Es ist möglich, die  körperlichen, kognitiven und emotionalen Funktionen wieder herzustellen und auch zu erhalten.
+* Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen.
+* Die Tiere spiegeln die Gefühlslage der Menschen wieder und so können die besten Strategien für die Klient*innen entwickelt werden.
+* Arbeiten im HIER und JETZT ohne Bewertung ohne Leistung zu erbringen.
+* Es ist eine zielgerichtete Intervention zur Verbesserung des allgemeinen Wohlergehens der Klient*innen. 
+* Es kann das Einbezogensein in die jeweiligen Lebenssituationen gefördert werden. Ein gutes Beispiel hierfür ist der Einsatz in Altersheimen.
 
 ***
 
