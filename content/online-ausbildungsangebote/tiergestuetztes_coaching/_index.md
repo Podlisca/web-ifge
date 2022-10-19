@@ -40,36 +40,54 @@ rich_faq:
 ## Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
-{{< line icon="icon/tiere.png" >}}
 
-{{% floatbox %}}
+
+{{< line icon="icon/tiere.png" >}}
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-<div class="box video">
-{{% small %}}
-
-{{< youtube Ff0OHNdKnHo>}}
-
 ***
-
-Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/termine/)** 
-***
-Sie erfahren:
+###  Erfahre:
 * Welche großen Vorteile das Tiergestützte Coaching anderen Methoden gegenüber hat
-* Wie Sie prophylaktisch mit deinen Klient*innen an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
+* Wie Sie prophylaktisch mit Ihren Klient*innen an deren Themen arbeiten, um psychischen Krankheiten vorzubeugen
 * Welche positiven Einflüsse Tiere auf den Menschen haben
 * Wie sich die Ausbildung Tiergestütztes Coaching gestaltet und welche Möglichkeiten diese bietet
 
+**100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
+***
+<div class="box video">
+{{% small %}}
 
+### Hier ein kleiner Einblick 
+{{< youtube Ff0OHNdKnHo>}}
+
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
+
+### Ausführliches Infovideo 
+{{< youtube WonAhSP6B8c>}}
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
+
+### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
+{{< image src="/img/kurs_kaufen_tiere1.jpg" >}}
+
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
 {{% /small %}}
 
-{{% small %}}
-***
+</div> 
 
-# Nächster Ausbildungsstart: 15.02.2023
-* **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/kursaufbau/)
-***
+
+
+## Tiere in der Beratung / im Coaching
 
 Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret im tiergestützten Coaching. Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
 
@@ -77,11 +95,10 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/), Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen sowie Pädagog\*innen, Coach\*innen oder Berater\*innen die sich durch einen starken Bezug zu Tieren auszeichnen und diese aktiv in ihre Arbeit einbeziehen möchten.  
 
-{{% /small %}}
-
-</div> 
-
 ***
+
+{{% floatbox %}}
+
 # Hier ein kleiner Einblick in die Ausbildung:
 #### In Summe umfasst die Ausbildung über 100 Lehrvideos
 
@@ -104,11 +121,8 @@ Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberat
 
 </div> 
 
-
-{{% /floatbox %}}
-
-
 {{< line icon="noun_Information_478770-2.png" >}}
+</div> 
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -125,6 +139,7 @@ Die Ausbildung tiergestütztes Coaching richtet sich an [Lebens- und Sozialberat
 {{% box blue=1 %}}
 {{% small %}}
 
+
 #### Ideal auch für Berufseinsteigerinnen
 
 {{< image src="/img/hunde_garten.jpg" title="Katzen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
@@ -136,45 +151,6 @@ Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen 
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="icon/tiere.png" >}}
 
-Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: allein ihre Anwesenheit kann beruhigend wirken; es werden weniger Stresshormone ausgeschüttet. Weiters senken Streicheleinheiten den Blutdruck und stärken unser Immunsystem. Tiere können sehr entspannend wirken und eignen sich auch sehr gut als Tröster für traurige Momente. In der tiergestützten Beratung hat man die Möglichkeit, von diesen positiven Effekten zu profitieren.
-
-{{< line icon="icon/tiere.png" >}}
-
-{{% box more=1 blue=1 %}}
-{{< card-more link="" img="tiergestuetzt_2021_1.jpg" title="">}}
-
-#### WAS BEDEUTET TIERGESTÜTZTE PSYCHOSOZIALE BERATUNG?
-
-Das tiergestützte Coaching setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient\*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. 
-
-Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Menschen mit all ihren Stärken und Schwächen so annehmen wie sie sind, wieder gestärkt und es gelingt, wieder eine stärkere Verbindung zu sich selber aufbauen. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie unterstützen Klient\*innen dabei, auch schwierige oder heikle Themen anzusprechen. 
-
-Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesünder wird. Tiere unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie zeigen uns durch ihre unbekümmerte  Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen. Tiere fordern ihre Menschen auch dazu auf, Aktivität zu zeigen sowie Verantwortung zu übernehmen.
-
-{{% /card-more %}}
-
-{{< card-more link="" img="tiergestützt_fortbildung_noe.jpg" title="">}}
-
-#### WAS BIETET UNSERE AUSBILDUNG?
-
-Der erfolgreiche Abschluss des Ausbildungslehrgang berechtigt diplomierte Lebens- und Sozialberater\*innen dazu, „Tiergestützte psychosoziale Beratung“ sowie „Tiergestützte Lebens- und Sozialberatung“ in Österreich anzubieten.
-
-Sollten Sie sich derzeit noch in Ausbildung zum/zur diplomierten LSB befinden, ist die Erweiterung der tiergestützten Arbeit selbstverständlich ebenso mit „in Ausbildung unter Supervision“ anzuführen.
-
-Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen und Pädagog\*innen, Heilpraktiker\*innen, Coaches welche den Lehrgang erfolgreich absolvieren, erhalten die Berechtigung zur „Tiergestützten Aktivität“ – etwa je nach Kernberuf z. B. „Tiergestützte Betreuung“, "Tiergestützte Pädagogik" oder „Tiergestützte Sozialarbeit“.
-
-* Kompetente Referent\*innen mit mehrjährigem Background aus der tiergestützten Beratung bzw. der Arbeit mit Tieren
-* Vertiefung der Theorie mit zahlreichen praxisnahen Übungssequenzen
-* Einen kurzweiligen Unterricht unter Einbeziehung entsprechend ausgebildeter Vierbeiner
-* Interaktive Lehrveranstaltungen (Live-Call über Webex Meeting) bieten Ihnen die Möglichkeit für direkte Fragestellungen und den Austauch mit anderen Kursteilnehmern
-* Umfangreiche, im Ausbildungspreis inbegriffene, Skripten
-* Sehr gute Organisation und Abwicklung durch mehrjährige Erfahrung in der Gestaltung sowie Durchführung von Ausbildungen
-* Verkürzen Sie sich die Wartezeit bis zum Ausbildungsstart: Sie erhalten nach der Zusage von Ihrem Ausbildungsplatz direkt die ersten Unterlagen um sich auf den Kursstart vorzubereiten. 
-
-{{% /card-more  %}}
-{{% /box %}}
-{{% /floatbox %}}
 
 

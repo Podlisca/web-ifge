@@ -26,15 +26,43 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## nächster Kursstart
-## 15.02.2023
+## Online Infovideo ansehen & sofort starten
 
+<div class="box video">
+{{% small %}}
 
-**JETZT für kostenfreie Infobveranstaltung anmelden**
+### Hier ein kleiner Einblick 
+{{< youtube Ff0OHNdKnHo>}}
 
-Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist mein Geschenk an dich! Eine Teilnahme an der Ausbildung ist nur mit Teilnahme an der Infoveranstaltung möglich.
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
 
-## Terminübersicht Infoveranstaltungen 
+### Ausführliches Infovideo 
+{{< youtube WonAhSP6B8c>}}
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
+
+### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
+{{< image src="/img/kurs_kaufen_tiere1.jpg" >}}
+
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+
+</div> 
+
+<br/>
+
+## ONLIne: Live - Infosveranstaltungen
+
+<br/>
 
 {{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
 
@@ -42,23 +70,15 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 {{% box top-align=1 %}}
 {{% small  %}}
-
-#### Nächster Ausbildungsbeginn Online
-
-* **Start:** 15. Februar 2023
-
-<br/>
-
-
-[Anmeldung](/anmeldung.php)
-
+#### Infovideo ansehen & los geht´s
+{{< youtube WonAhSP6B8c>}}
 {{%/small  %}}
 
 {{% small  %}}
 
 #### Interaktive Lehrveranstaltungen
 
-**ca. alle 10 Tage** <br/> 
+**ca. alle 14 Tage** <br/> 
 Termine werden bei Anmeldung bekannt gegeben
 
 Online von 18:30 Uhr - 20:00 Uhr
