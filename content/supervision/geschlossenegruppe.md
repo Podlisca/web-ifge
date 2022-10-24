@@ -124,7 +124,7 @@ Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00
 #### Burgenland
 {{< image src="/img/seminarraum1.jpg">}}
 
-#### Termin wird bekannt gegeben
+#### Termine folgen
 Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt. 
 
 **Termine 2023:** 
