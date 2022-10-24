@@ -124,27 +124,12 @@ Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00
 #### Burgenland
 {{< image src="/img/seminarraum1.jpg">}}
 
-#### Start: 11.01.2023
+#### Termin wird bekannt gegeben
 Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt. 
 
 **Termine 2023:** 
 
-{{< center >}}
-11.01.2023<br/>
-kein Termin im Febraur<br/>
-08.03.2023<br/>
-12.04.2023<br/>
-10.05.2023<br/>
-14.06.2023<br/>
-13.09.2023<br/>
-11.10.2023<br/>
-08.11.2023<br/>
-13.12.2023<br/>
-{{< /center >}}
 
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
-
-[Anmeldung](/anmeldung.php)
 {{% /small  %}}
 {{% small  %}}
 #### Niederösterreich
