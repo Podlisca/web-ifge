@@ -81,7 +81,7 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 {{% small %}}
 
 ### Ausführliches Infovideo 
-{{< youtube V5YQvtyvWrg>}}
+{{< youtube WonAhSP6B8c>}}
 ***
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 ***
@@ -89,7 +89,7 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube Ff0OHNdKnHo>}}
+{{< youtube V5YQvtyvWrg>}}
 ***
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 ***
