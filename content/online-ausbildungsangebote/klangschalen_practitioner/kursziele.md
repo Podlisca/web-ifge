@@ -21,9 +21,13 @@ og_image: "/img/ks_team.jpg"
 
 Mit dieser Ausbildung erhalten Sie umfangreiches Wissen und tiefere Einsichten in mögliche Ursachen von Krankheit, Leid, Glück und Unglück. Sie können körperorientiert arbeiten und gewinnen wichtiges Know-how hinsichtlich des menschlichen Körpers inklusive seiner Organe sowie seiner Energiekreise. 
 
-Bauen Sie Ihre Intuition durch freies, kreatives Arbeiten aus und lernen Sie dieses wunderbare „Werkzeug“ kennen, das Ihnen persönliche sowie berufliche Weiterentwicklung bietet und gleichzeitig Ihre Arbeit mit KlientInnen auf wertvolle Weise unterstützt.
+Bauen Sie Ihre Intuition durch freies, kreatives Arbeiten aus und lernen Sie dieses wunderbare „Werkzeug“ kennen, das Ihnen persönliche sowie berufliche Weiterentwicklung bietet und gleichzeitig Ihre Arbeit mit KlientInnen auf wertvolle Weise unterstützt. 
+
+<br/>
 
 {{< silvia >}}
+
+
 
 
 {{% /floatbox %}}
@@ -38,6 +42,16 @@ Bauen Sie Ihre Intuition durch freies, kreatives Arbeiten aus und lernen Sie die
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+{{< line icon="icon/klangschale.png">}}
 
+#### Wie arbeiten Sie als Klangschalen Practitioner?
+
+Bei einem mit Klangschalen unterstützten Beratungsprozess wird eine belastende Situation besprochen und genau dort, wo im Moment die größte Belastung ist, wird das Gespräch unterbrochen und ca. 20 Minuten mit den Klangschalen gearbeitet. Sie als Klient*in bleiben in dieser Zeit innerlich mit Ihrem Anliegen verbunden. Durch die Vibration und den Klang (der erst im Ohr entsteht und somit für jeden Menschen einzigartig ist) entsteht im Körper Bewegung, wodurch sich die Starre verändert und andere Blickwinkel sowie Einsichten möglich werden.
+
+Die Schwingungen der Klangschalen können lockern, was sich tief in unserem Körper festgesetzt hat. Wenn man manchmal mit Worten nicht weiterkommt, kann die Arbeit am Körper Themen lösen und in Gang bringen, die dann wieder mit anderen Behandlungsmethoden weiterverfolgt werden können.
+
+Ein Vorteil dieser Variante ist, dass Sie mit der größten Belastung umzugehen lernen, ohne in destruktive Verhaltensmuster zu fallen. Die Blockaden wandeln sich sogar Schritt für Schritt in Kraft um.
+
+Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die Klangschalenmassage zu stabilisieren. Hier bleiben Sie als Klient*in während der Klangschalenmassage innerlich mit der Lösung verbunden. Dies bewirkt, dass die gewünschte Veränderung verinnerlicht und im Körper verankert wird.
 
 

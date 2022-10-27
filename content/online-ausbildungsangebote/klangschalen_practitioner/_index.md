@@ -32,42 +32,77 @@ rich_faq:
 
 {{< line icon="icon/klangschale.png">}}
 
-{{% floatbox %}}
-
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
-<div class="box video">
-{{% small %}}
-
-{{< youtube glB9R-VuEqc>}}
-
 ***
-
-Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/termine/)** 
-***
+###  Erfahre:
 * Welche großen Vorteile die Arbeit mit Klangschalen anderen Methoden gegenüber hat
 * Wie Sie prophylaktisch mit deinen Klient*innen an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
 * Welche positiven Einflüsse Klangschalen auf den Menschen haben
 * Wie sich die Ausbildung zum/zur Klangschalen Practitioner gestaltet und welche Möglichkeiten diese bietet 
 
+### DICH ERWARTET - Deine Vorteile auf einen Blick
 
-{{% /small %}}
+* **Deine Expertise auf dem nächsten Level**
+<br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
+* **Dein flexibler Ausbildungsweg**<br/>
+Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
+* **Deine beruflichen Möglichkeiten**<br/>
+Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
 
+
+* **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
+
+{{< line icon="icon/klangschale.png">}}
+## Online Infovideo ansehen & sofort starten
+
+<div class="box video">
 {{% small %}}
-*** 
 
-# Nächster Ausbildungsstart: 01.11.2022
-* **100% ONLINE** & [individuelle, persönliche Betreuung](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/kursaufbau/)
+### Hier ein kleiner Einblick 
+{{< youtube glB9R-VuEqc>}}
 
 ***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
 
+### Ausführliches Infovideo 
+{{< youtube rZ8Z4oI0i6o>}}
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
+
+### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
+{{< youtube V5YQvtyvWrg>}}
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+
+</div> 
+
+
+### Was bewirken die Schwingungen der Klangschale? 
+
+* **Veränderungen auf Zellebene (Epigenetik)**<br/>
+Nutze die Ausbildung, um eine einzigartige Methode kennenzulernen, mit der du nachhaltige Veränderungen auf Zellebene erzeugen kannst. So lösen sich verankerte Glaubenssätze und neue können implementiert werden.
+* **Tiefgehende Befreiung von Schmerzen**<br/>
+Du lernst Gefühl, Verstand und Intuition auf eine neue Art und Weise miteinander zu verbinden. Du kannst Schmerzen und psychosomatische Beschwerden auf einer tieferen Ebene behandeln.
+* **Mehrwert für deine Klient*innen**<br/>
+Nutze die einzigartige Methode, um neue Tools zu erlernen, mit denen du effektiver und ganzheitlicher auf die Probleme deiner Klient*innen eingehen kannst. Du wirst deine Arbeit auf ein neues Level heben und einen größeren Impact schaffen.
+
+
+{{% floatbox %}}
 Klangschalenbehandlungen überzeugen durch ihre harmonisierende, wohltuende Wirkung. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt. Häufig wird die Klangschalenmassage im Wellnessbereich angewandt, zum Entspannen und Krafttanken. Dies ist jedoch nur ein ausgewählter Bereich und es wäre schade, die Arbeit darauf zu beschränken.
 
 Meine Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungsprozess oftmals große Wirkung zeigt. Insbesondere in der systemischen Arbeit, bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen?
 
 Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns.
-
-{{% /small %}}
+{{% floatbox %}}
 
 
 </div> 

@@ -57,13 +57,13 @@ rich_faq:
 * **Deine Expertise auf dem nächsten Level**
 <br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
 * **Dein flexibler Ausbildungsweg**<br/>
-Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. Zudem hast du die Möglichkeit uns deine Themenwünsche bis zum Ende des 5 Moduls mitzuteilen, die dann individuell berücksichtigt werden.
+Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
 * **Deine beruflichen Möglichkeiten**<br/>
 Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
 * **Tierische Stimmung**<br/>
 Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
 
-* **100% ONLINE** & individuelle, persönliche Betreuung
+* **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
 
 {{< line icon="icon/tiere.png" >}}
 ## Online Infovideo ansehen & sofort starten
