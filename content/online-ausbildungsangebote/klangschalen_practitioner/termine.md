@@ -49,7 +49,7 @@ weight: 3
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube b7-RhEMQIiQ>}}
+{{< youtube UyylWt2Vyd4>}}
 ***
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 ***
