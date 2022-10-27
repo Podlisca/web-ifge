@@ -63,7 +63,7 @@ Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandl
 * **Tierische Stimmung**<br/>
 Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
 
-* **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
+* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{< line icon="icon/tiere.png" >}}
 ## Online Infovideo ansehen & sofort starten

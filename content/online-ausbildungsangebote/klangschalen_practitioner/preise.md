@@ -27,12 +27,8 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-* **Ausbildungskosten:** € 2.980,-<br/>
-€ 980,- Anzahlung nach Anmeldung. <br/>
-Restzahlung über € 2.000,- ein Monat vor Ausbildungsstart. <br/>
-
-* **Sofort 1x Zahlung: € 2.700,-** <br/>
-€ 2.700,- Zahlung sofort nach Anmeldung. <br/>
+* **Ausbildungskosten:€ 2.980,-** <br/>
+Zahlung nach Anmeldung. <br/>
 
 * **Ratenzahlung: € 3.290,-** <br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>

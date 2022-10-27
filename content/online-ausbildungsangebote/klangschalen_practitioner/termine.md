@@ -24,17 +24,41 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
 
-## nächster Kursstart
-## 01.11.2022
+{{< line icon="icon/klangschale.png">}}
+## Online Infovideo ansehen & sofort starten
+
+<div class="box video">
+{{% small %}}
+
+### Hier ein kleiner Einblick 
+{{< youtube glB9R-VuEqc>}}
+
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
+
+### Ausführliches Infovideo 
+{{< youtube rZ8Z4oI0i6o>}}
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+{{% small %}}
+
+### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
+{{< youtube b7-RhEMQIiQ>}}
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
+{{% /small %}}
+
+</div> 
 
 
-**JETZT für kostenfreie Infobveranstaltung anmelden**
-
-Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist mein Geschenk an dich! Eine Teilnahme an der Ausbildung ist nur mit Teilnahme an der Infoveranstaltung möglich.
-
-## Terminübersicht Infoveranstaltungen 
+## ONLINE: LIVE - INFOSVERANSTALTUNGEN
 
 {{< booking produkte="Infoveranstaltung Klangschalen Practitioner Online" success="https://www.klangschalen-practitioner.ifge.at/danke/" >}}
 
@@ -45,14 +69,7 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 #### Nächster Ausbildungsbeginn Online
 
-* **Start:** 01. November 2022 <br/>
-
-**[Anmeldung](/anmeldung.php)**
-***
-
-
-
-
+{{< youtube rZ8Z4oI0i6o>}}<br/>
 
 
 {{%/small  %}}
@@ -61,35 +78,16 @@ Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. Es ist
 
 #### Interaktive Lehrveranstaltungen
 
+ca. alle 14 Tage
+Termine werden bei Anmeldung bekannt gegeben
+
 Online von 18:30 Uhr - 20:00 Uhr
-***
-
-##### November
-11.11.2022 / 18.11.2022 / 25.11.2022 
-***
-##### Dezember
-02.12.2022 / 09.12.2022 / 16.12.2022
-***
-##### Jänner
-13.01.2023 / 20.01.2023 / 27.01.2023 /
-
-***
-##### Februar
-03.02.2023 / 10.02.2023 <br/> 
-
-
-24.01.2023 **- Prüfungsvorbereitung**<br/>
-(18:30 bis 21:30 Uhr - 3 Stunden)
-
-
 
 {{% /small  %}}
-
-
 {{% small  %}}
 #### Intensivtraining in Pinkafeld
 
-* **Start:** 17.07. bis 21.07.2023
+**Start:** 17.07. bis 21.07.2023
 <br/>Mo. - Do. 09:00 bis 18:00 Uhr
 <br/>Fr. 09:00 bis 14:00 Uhr
 <br/>

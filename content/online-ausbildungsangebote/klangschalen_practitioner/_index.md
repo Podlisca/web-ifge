@@ -36,10 +36,10 @@ rich_faq:
 
 ***
 ###  Erfahre:
-* Welche großen Vorteile die Arbeit mit Klangschalen anderen Methoden gegenüber hat
-* Wie Sie prophylaktisch mit deinen Klient*innen an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
-* Welche positiven Einflüsse Klangschalen auf den Menschen haben
-* Wie sich die Ausbildung zum/zur Klangschalen Practitioner gestaltet und welche Möglichkeiten diese bietet 
+* Welche **großen Vorteile** die Arbeit mit Klangschalen anderen Methoden gegenüber hat
+* Wie Sie **prophylaktisch mit deinen Klient*innen** an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
+* Welche **positiven Einflüsse Klangschalen** auf den Menschen haben
+* Wie sich die **Ausbildung zum/zur Klangschalen Practitioner** gestaltet und welche Möglichkeiten diese bietet 
 
 ### DICH ERWARTET - Deine Vorteile auf einen Blick
 
@@ -77,7 +77,7 @@ Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandl
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube V5YQvtyvWrg>}}
+{{< youtube b7-RhEMQIiQ>}}
 ***
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 ***
@@ -94,12 +94,15 @@ Nutze die Ausbildung, um eine einzigartige Methode kennenzulernen, mit der du na
 Du lernst Gefühl, Verstand und Intuition auf eine neue Art und Weise miteinander zu verbinden. Du kannst Schmerzen und psychosomatische Beschwerden auf einer tieferen Ebene behandeln.
 * **Mehrwert für deine Klient*innen**<br/>
 Nutze die einzigartige Methode, um neue Tools zu erlernen, mit denen du effektiver und ganzheitlicher auf die Probleme deiner Klient*innen eingehen kannst. Du wirst deine Arbeit auf ein neues Level heben und einen größeren Impact schaffen.
+{{< line icon="icon/klangschale.png">}}
 
+
+## Entspannung & Weiterentwicklung
 
 {{% floatbox %}}
-Klangschalenbehandlungen überzeugen durch ihre harmonisierende, wohltuende Wirkung. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt. Häufig wird die Klangschalenmassage im Wellnessbereich angewandt, zum Entspannen und Krafttanken. Dies ist jedoch nur ein ausgewählter Bereich und es wäre schade, die Arbeit darauf zu beschränken.
+Klangschalenbehandlungen überzeugen durch ihre **harmonisierende, wohltuende Wirkung**. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt. Häufig wird die Klangschalenmassage im Wellnessbereich angewandt, zum Entspannen und Krafttanken. Dies ist jedoch nur ein ausgewählter Bereich und es wäre schade, die Arbeit darauf zu beschränken.
 
-Meine Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungsprozess oftmals große Wirkung zeigt. Insbesondere in der systemischen Arbeit, bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen?
+Silvia´s Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungsprozess oftmals große Wirkung zeigt. Insbesondere in der systemischen Arbeit, bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. **Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen?**
 
 Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns.
 {{% floatbox %}}
@@ -160,17 +163,6 @@ Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen 
 {{% /small %}}
 {{% /box %}}
 
-{{< line icon="icon/klangschale.png">}}
-
-#### Wie arbeiten Sie als Klangschalen Practitioner?
-
-Bei einem mit Klangschalen unterstützten Beratungsprozess wird eine belastende Situation besprochen und genau dort, wo im Moment die größte Belastung ist, wird das Gespräch unterbrochen und ca. 20 Minuten mit den Klangschalen gearbeitet. Sie als Klient*in bleiben in dieser Zeit innerlich mit Ihrem Anliegen verbunden. Durch die Vibration und den Klang (der erst im Ohr entsteht und somit für jeden Menschen einzigartig ist) entsteht im Körper Bewegung, wodurch sich die Starre verändert und andere Blickwinkel sowie Einsichten möglich werden.
-
-Die Schwingungen der Klangschalen können lockern, was sich tief in unserem Körper festgesetzt hat. Wenn man manchmal mit Worten nicht weiterkommt, kann die Arbeit am Körper Themen lösen und in Gang bringen, die dann wieder mit anderen Behandlungsmethoden weiterverfolgt werden können.
-
-Ein Vorteil dieser Variante ist, dass Sie mit der größten Belastung umzugehen lernen, ohne in destruktive Verhaltensmuster zu fallen. Die Blockaden wandeln sich sogar Schritt für Schritt in Kraft um.
-
-Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die Klangschalenmassage zu stabilisieren. Hier bleiben Sie als Klient*in während der Klangschalenmassage innerlich mit der Lösung verbunden. Dies bewirkt, dass die gewünschte Veränderung verinnerlicht und im Körper verankert wird.
 
 
 
