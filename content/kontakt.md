@@ -28,8 +28,6 @@ rich_logo: true
 Mariahilferstr. 76/4/39<br/>
 1070 Wien<br/>
 
-wien@ifge.at
-
 {{% /small %}}
 
 {{% small %}}
@@ -46,8 +44,6 @@ wien@ifge.at
 ### IFGE Burgenland
 Bruckgasse 1<br/>
 7423 Pinkafeld 
-
-bgld@ifge.at
 
 {{% /small %}}
 
@@ -68,7 +64,6 @@ bgld@ifge.at
 Schneckgasse 4 - 1<br/>
 3100 Sankt Pölten
 
-noe@ifge.at
 
 {{% /small %}}
 {{% /box %}}
@@ -83,18 +78,17 @@ Silvia Podlisca<br/>
 silvia.podlisca@ifge.at
 {{% /small %}}
 {{% small %}}
-### Büro 
-
-Dominique Karlovits<br/>
-+43 676 591 82 20<br/>
-office@ifge.at
-
-{{% /small %}}
-{{% small %}}
 ### Buchhaltung
 Antje Stimpfl<br/>
 +43 676 591 82 20<br/>
 buchhaltung@ifge.at
+
+{{% /small %}}
+{{% small %}}
+### Presse
+Katharina Freiler<br/>
++43 676 755 58 86<br/>
+presse@ifge.at 
 {{% /small %}}
 {{% /box %}}
 
@@ -121,14 +115,6 @@ Pfarrgasse 4 Top 9<br>
 
 
 {{% /box %}}
-
-{{< line icon="icon/politik.png" >}}
-
-
-
-### IFGE - PRESSE
-
-Für Presseanfragen wenden Sie sich bitte an Carina Fritz per E-Mail unter presse@ifge.at oder telefonisch unter +43 676 755 58 86. 
 
 
 {{< line icon="icon/bus.png" >}}
