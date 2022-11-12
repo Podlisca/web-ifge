@@ -36,12 +36,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-
-**05.10.2022** 09:00 - 15:00 Uhr</br>
-**15.10.2022** 10:00 - 16:00 Uhr</br>
-**02.11.2022** 09:00 - 15:00 Uhr</br>
-**04.11.2022** 14:00 - 20:00 Uhr</br>
-**05.11.2022** 10:00 - 16:00 Uhr</br>
 **25.11.2022** 14:00 - 20:00 Uhr</br>
 **09.12.2022** 14:00 - 20:00 Uhr</br>
 **21.12.2022** 09:00 - 15:00 Uhr</br>
@@ -96,8 +90,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**06.09.2022**	14:00 - 20:00 Uhr</br>
-**13.10.2022**  14:00 - 20:00 Uhr</br>
 **17.11.2022**  14:00 - 20:00 Uhr</br>
 **24.11.2022**  14:00 - 20:00 Uhr</br>
 **22.11.2022**	14:00 - 20:00 Uhr</br>
@@ -143,10 +135,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 **12.06.2022** 10:00 - 16:00 Uhr</br>
-
-**Dreitagesaufstellung: 07.10. - 09.10.2022**<br/>
-Fr. von 14:00 - 20:00 Uhr, <br/>
-Sa. u.So. von 09:00 - 18:00 Uhr 
 
 **20.11.2022**  10:00 - 16:00 Uhr</br>
 **16.04.2023**  10:00 - 16:00 Uhr</br>
