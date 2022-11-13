@@ -34,6 +34,8 @@ rich_faq:
 
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
+## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
+
 ***
 ###  Erfahre:
 * Welche **großen Vorteile** die Arbeit mit Klangschalen anderen Methoden gegenüber hat

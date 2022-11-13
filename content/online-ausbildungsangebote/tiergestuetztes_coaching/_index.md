@@ -44,6 +44,7 @@ rich_faq:
 {{< line icon="icon/tiere.png" >}}
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
+## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
 
 ***
 ###  Erfahre:
