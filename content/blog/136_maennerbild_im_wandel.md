@@ -1,5 +1,5 @@
 ---
-title: "Hart, aber einfühlsam. Karriere, aber hundert Prozent Vater. Männlich, aber mit weiblichen Zügen. Ein neues Männerbild?"
+title: "Hart, aber einfühlsam. Karriere, aber 100% Vater. Ein neues Männerbild?"
 draft: draft
 tags: ["Familie", "Pädagogik"]
 weight: 134
