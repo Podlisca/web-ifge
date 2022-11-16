@@ -65,8 +65,8 @@ Leitung: <br/>
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**01.10.2022**<br/>
-von 16:00 bis 20:00 Uhr
+**03.12.2022**<br/>
+von 14:00 bis 18:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
