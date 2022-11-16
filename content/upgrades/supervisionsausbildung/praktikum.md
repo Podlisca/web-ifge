@@ -27,7 +27,8 @@ weight: 5
 ## Praktikum
 
 
-PRAKTIKUM IM AUSMASS VON 100 STUNDEN
+### PRAKTIKUM IM AUSMASS VON 100 STUNDEN
+
 Zusätzlich zu den 100 Ausbildungsstunden ist für die Aufnahme in die [Supervisorenliste der WKO/Wirtschaftskammer](https://firmen.wko.at/suche_lebensberater-supervision/) ein Praktikum im Ausmaß von 100 Stunden im Bereich der Supervision erforderlich sowie 5 Einzelsupervisonsstunden (Bestätigung durch eine/n beim Fachverband eingetragene/n Supervisor\*in) vorgeschrieben.
 
 Das IFGE befindet sich in Kooperation mit zwei Kindergärten, die mehrere Häuser mit jeweils an die 50 Angestellten (darunter u.a. eine fachliche pädagogische Leitung, ausgebildete Pädagog\*innen, Assistent\*innen..) umfasst. Als besonderes Zuckerl für alle Schüler\*innen des Lehrgangs der Supervision am IFGE gibt es die Möglichkeit, die 100 erforderlichen Praktikumsstunden in diesen Kindergärten zu absolvieren (unentgeltlich). Näheres dazu sowie Tipps für das Praktikum enthält man im Zuge des Lehrgangs.
