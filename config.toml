@@ -76,3 +76,8 @@ og_image = "/img/startseite_handy.jpg"
         identifier = "psychologischeberatung"
         url = "#"
         weight = 9
+
+    [[menu.main]]
+        name = "Videos"
+        url = "https://www.youtube.com/user/IFGEpodlisca/videos"
+        weight = "10"

@@ -31,7 +31,9 @@
         </div>
       </div>
     {{ else if (eq .Page nil) }}
-      {{ . }}
+      <div>
+        <a href="{{ .URL }}" target="_blank">{{ .Name }}</a>
+      </div>
     {{ else }}
       <div>
         <a class="{{ if or (and (eq .Page.FirstSection.Name "BLOG") (eq $currentPage.CurrentSection.Name "BLOG")) (and (eq .Page.FirstSection.Name "VIDEOS") (eq $currentPage.CurrentSection.Name "VIDEOS")) ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}" 
