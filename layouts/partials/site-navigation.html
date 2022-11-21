@@ -5,7 +5,7 @@
   {{ $currentPage := . }}
   {{ range .Site.Menus.main }}
     {{ if .HasChildren }}
-      <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+      <div class="dropdown{{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }} {{ if eq .Identifier "onlineakademie" }} invert{{ end }}">
         <div class="mobile">
           <div class="has-dropdown">
             <a href="javascript:void(0);" onclick="toggleSubmenuMobile(this);">{{ .Name }} 

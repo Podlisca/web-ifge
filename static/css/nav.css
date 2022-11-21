@@ -54,6 +54,11 @@
   overflow: hidden;
 }
 
+.topnav .dropdown.invert {
+  background-color: var(--color-red);
+  color: var(--color-creme);
+}
+
 /* Style the dropdown button to fit inside the topnav */
 
 .dropdown .dropbtn {
