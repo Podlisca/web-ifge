@@ -54,7 +54,7 @@
   overflow: hidden;
 }
 
-.topnav .dropdown.invert {
+.topnav .invert {
   background-color: var(--color-red);
   color: var(--color-creme);
 }
@@ -96,7 +96,7 @@
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 
-.topnav:not(.show) a:hover, .dropdown:hover .dropbtn {
+.mobile .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: var(--color-creme);
   color: var(--color-red);
 }
