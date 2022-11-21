@@ -1,6 +1,6 @@
 import { enableProdMode } from '@angular/core';
 import { createCustomElement } from '@angular/elements';
-import { createApplication } from '@angular/platform-browser';
+import { bootstrapApplication, createApplication } from '@angular/platform-browser';
 import { AppComponent } from './app/app.component';
 
 import { environment } from './environments/environment';
@@ -8,6 +8,9 @@ import { environment } from './environments/environment';
 if (environment.production) {
   enableProdMode();
 }
+
+
+bootstrapApplication(AppComponent);
 
 // get a hand on the `ApplicationRef` to access its injector
 createApplication({ providers: [] }).then((appRef) => {
