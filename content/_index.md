@@ -143,7 +143,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 {{% small %}}
 
 ### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube R0Iyo_175nY >}}
+{{< youtube 17RcDuirOWs >}}
 {{% /small %}}
 {{% small %}}
 

@@ -73,7 +73,7 @@ Ab dem 5. Ausbildungssemester kann man sich als Berater\*in für unser Projekt m
 {{% /small  %}}
 {{% small  %}}
 #### AUSBILDUNGSPHILOSOPHIE AM IFGE
-{{< youtube R0Iyo_175nY >}}
+{{< youtube 17RcDuirOWs >}}
 
 {{% /small  %}}
 {{% /box %}}

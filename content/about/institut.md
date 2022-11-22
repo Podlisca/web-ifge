@@ -153,7 +153,7 @@ Der [Berufsverband für Tiergestützte psychosoziale Beratung](https://www.beruf
 {{% small %}}
 
 ### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube R0Iyo_175nY >}}
+{{< youtube 17RcDuirOWs >}}
 {{% /small %}}
 {{% small %}}
 
