@@ -51,7 +51,7 @@ Ob in der individuellen Beratung oder im Rahmen von Aufstellungen. Ob in Präsen
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychosoziale Beratung">}}
 
-Im Zentrum der psychosozialen Beratung am IFGE steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der Lebens- und Sozialberatung, die von Krisen über Sexualität bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient*innen arbeiten wir methodisch mit Einzelberatungen, systemischer Aufstellung oder Selbsterfahrung. 
+Im Zentrum der psychosozialen Beratung am IFGE steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der Lebens- und Sozialberatung, die von Krisen über Sexualität bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit Einzelberatungen, systemischer Aufstellung oder Selbsterfahrung. 
 
 Verschaffen Sie sich einen Überblick über unsere Beratungsangebote
 
@@ -68,7 +68,7 @@ Verschaffen Sie sich einen Überblick über unsere Präsenzausbildungen
 
 
 {{< card-more link="/supervision/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Live-Kurse">}}
-Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch Online-Live-Lehrgänge an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
+Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer\*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch Online-Live-Lehrgänge an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
 
 Verschaffen Sie sich einen Überblick über unsere Online-Live-Kurse
 
