@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE-Ausbildung: Klangschalen-Practitioner"
+title: "Klangschalen-Practitioner"
 menu: 
     main:
         parent: onlineakademie

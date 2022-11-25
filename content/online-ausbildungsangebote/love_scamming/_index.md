@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Umgang mit Love Scamming"
+title: "Umgang mit Love Scamming"
 menu: 
     main:
         parent: online

@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Große weite Welt - Kinder vor Gefahren (im Netz) schützen"
+title: "Große weite Welt - Kinder vor Gefahren (im Netz) schützen"
 menu: 
     main:
         parent: online

@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Zeig dich - Erste Schritte im Praxisaufbau"
+title: "Zeig dich - Erste Schritte im Praxisaufbau"
 menu: 
     main:
         parent: online

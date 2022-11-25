@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE-Ausbildung: Tiergestütztes Coaching"
+title: "Tiergestütztes Coaching"
 menu: 
     main:
         parent: onlineakademie

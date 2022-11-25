@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Grundlagen in der Onlineberatung & Onlinecoaching"
+title: "Grundlagen in der Onlineberatung & Onlinecoaching"
 menu: 
     main:
         parent: online

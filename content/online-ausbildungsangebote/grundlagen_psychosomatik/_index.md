@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Ganzheitlichkeit: Grundlagen Psychosomatik"
+title: "Ganzheitlichkeit: Grundlagen Psychosomatik"
 menu: 
     main:
         parent: online

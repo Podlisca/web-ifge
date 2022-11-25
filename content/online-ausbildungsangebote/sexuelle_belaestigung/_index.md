@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Umgang mit sexueller Belästigung und Stalking"
+title: "Umgang mit sexueller Belästigung und Stalking"
 menu: 
     main:
         parent: online

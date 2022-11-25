@@ -1,5 +1,5 @@
 ﻿---
-title: "ONLINE Ausbildung - Psychologisches Coaching"
+title: "Psychologisches Coaching"
 menu: 
     main:
         parent: online
