@@ -17,15 +17,12 @@ og_image: "/img/home_2021_1.jpg"
 {{% intro %}}
 
 {{< line icon="icon/beratung.png" >}}
-# Erleben Sie Silvia Podlisca...
+# Erleben Sie Silvia Podlisca.
+
+Ob in der individuellen Beratung oder im Rahmen von Aufstellungen. Ob in Präsenzkursen oder an der Online-Akademie. In der Arbeit mit Silvia Podlisca profitieren Sie von mehr als 20 Jahren Erfahrung im Bereich psychosoziale Ausbildung und Beratung.
 
 
 <div class="box video">
-{{% small %}}
-
-### im Präsenzunterricht
-{{< youtube fmXmn39H7Zs>}}
-{{% /small %}}
 {{% small %}}
 
 ### im Klientengespräch
@@ -33,8 +30,14 @@ og_image: "/img/home_2021_1.jpg"
 {{% /small %}}
 {{% small %}}
 
-### in der Onlineakademie
+### in der Online-Akademie
 {{< youtube b8tlo6e4M5M>}}
+{{% /small %}}
+{{% small %}}
+
+
+### im Präsenzunterricht
+{{< youtube fmXmn39H7Zs>}}
 {{% /small %}}
 
 </div> 
@@ -46,41 +49,37 @@ og_image: "/img/home_2021_1.jpg"
 {{% box blue=1 more=1 %}}
 
 
-{{< card-more link="/diplomlehrgaenge/" icon="icon/ausbildungsangebote.png" title="Diplomlehrgaenge">}}
+{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychosoziale Beratung">}}
 
-Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychosoziale BeraterInnen allumfassend ausgebildet. 
+Im Zentrum der psychosozialen Beratung am IFGE steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der Lebens- und Sozialberatung, die von Krisen über Sexualität bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient*innen arbeiten wir methodisch mit Einzelberatungen, systemischer Aufstellung oder Selbsterfahrung. 
 
-Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung. 
+Verschaffen Sie sich einen Überblick über unsere Beratungsangebote
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/diplomlehrgaenge/)
 {{% /card-more %}}
 
 
-{{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/online_ausbildungen.png" title="Online-Ausbildungen">}}
+{{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Präsenzkurse">}}
 
-Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. 
+Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den Diplomlehrgängen Lebens- und Sozialberatung – psychosoziale Beratung, Aufstellung nach der SGF®-Methode von Silvia Podlisca und Coaching, bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
 
-Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden. 
+Verschaffen Sie sich einen Überblick über unsere Präsenzausbildungen
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/online-ausbildungsangebote/onlinephilosophie/).
 {{< /card-more >}}
 
 
-{{< card-more link="/supervision/philosophie/" icon="icon/supervision.png" title="Supervision">}}
-Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
+{{< card-more link="/supervision/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Live-Kurse">}}
+Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch Online-Live-Lehrgänge an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
 
-Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen. 
+Verschaffen Sie sich einen Überblick über unsere Online-Live-Kurse
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/supervision/philosophie/)
 {{< /card-more >}}
 
 
-{{< card-more link="/gruppenselbsterfahrung/philosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Gruppenselbsterfahrung">}}
-Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. 
+{{< card-more link="/gruppenselbsterfahrung/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Akademie">}}
+Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die IFGE-Online-Akademie gegründet. Wie der Name schon verrät: Hier gibt es Ausbildungen, die zu 100% online und im Unterschied zu unseren Online-Live-Angeboten ganz ohne fixe Termine stattfinden. Der Vorteil: Weiterbilden, wann, wo und ganz wie Sie möchten. Über eine moderne Lernplattform können Sie auf mehr als 100 Lehrvideos mit Vorträgen, Praxisübungen und vielfältigen Lernmaterialien zugreifen. 
 
-Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet. Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt, Potenziale und Ressourcen entdeckt sowie das eigene Handeln reflektiert. 
+Verschaffen Sie sich einen Überblick über die Angebote der Online-Akademie
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/gruppenselbsterfahrung/philosophie/)
 {{< /card-more >}}
 
 {{% /box %}}
