@@ -1,24 +1,24 @@
 ﻿---
-title: "Erste Hilfe für Hunde & Katzen"
+title: "Der menschliche Körper – verständlich erklärt"
 menu: 
     main:
         parent: onlineakademie
 draft: true
 weight: 4
-description: "Erste Hilfe für Hunde & Katzen"
-og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
+description: "Der menschliche Körper – verständlich erklärt"
+og_title: "Ausbildung: Der menschliche Körper – verständlich erklärt"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
-        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
+    -   frage: "Wo kann ich lernen wie der menschliche Körper funktionert?"
+        antwort: "In der Online-Ausbildung Der menschliche Körper – verständlich erklärt lernen Sie auf einfache Art und Weise wie der Körper funktioniert."
 
 
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Der menschliche Körper – verständlich erklärt
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 

@@ -1,24 +1,24 @@
 ﻿---
-title: "Erste Hilfe für Hunde & Katzen"
+title: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
 menu: 
     main:
         parent: onlineakademie
 draft: true
 weight: 4
-description: "Erste Hilfe für Hunde & Katzen"
-og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
+description: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
+og_title: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
-        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
+    -   frage: "Gibt es eine weitere Variante von einem Systembrett?"
+        antwort: "Ja, gibt es. Schau dir die Möglichkeiten am SystemDimensionsbrett an."
 
 
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 
