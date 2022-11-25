@@ -57,7 +57,7 @@ og_image = "/img/startseite_handy.jpg"
         parent = "praesenz"
 
     [[menu.main]]
-        name = "Online-Ausbildungen"
+        name = "Online-Live-Format"
         identifier = "online"
         url = "#"
         weight = 5
