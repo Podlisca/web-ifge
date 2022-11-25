@@ -3,7 +3,6 @@ title: "Erste Hilfe für Hunde & Katzen"
 menu: 
     main:
         parent: onlineakademie
-        identifier: erste_hilfe_tiere
 draft: false
 weight: 4
 description: "Erste Hilfe für Hunde & Katzen"

@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: grundlagen_psychosomatik
-        identifier: grundlagen_psychosomatik_aufbau
 draft: false
 weight: 1
 ---

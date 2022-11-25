@@ -43,9 +43,9 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 #### Diplomausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
-{{< kurs titel="Diplomausbildung: Coaching" link="/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
+{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung" image="/img/unterricht_bgld.jpg" color="light-red" >}}
+{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
+{{< kurs titel="Diplomausbildung: Coaching" link="/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
 
 {{% /kursbox %}}
 
@@ -53,11 +53,11 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 #### Upgrades
 ***
 {{% kursbox %}}
-{{< kurs titel="Sexualberatung & Traumaberatung" link="/upgrades/sexualberatung_traumaberatung/" image="/img/sv_supervision.jpg" >}}
-{{< kurs titel="Sexualität & Paarberatung" link="/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
-{{< kurs titel="Sexualität, Alter & Behinderung" link="/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
-{{< kurs titel="Sexualität & BDSM" link="/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
-{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
+{{< kurs titel="Sexualberatung & Traumaberatung" link="/praesenz-ausbildungen/upgrades/sexualberatung_traumaberatung/" image="/img/sv_supervision.jpg" >}}
+{{< kurs titel="Sexualität & Paarberatung" link="/praesenz-ausbildungen/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
+{{< kurs titel="Sexualität, Alter & Behinderung" link="/praesenz-ausbildungen/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
+{{< kurs titel="Sexualität & BDSM" link="/praesenz-ausbildungen/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
+{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/praesenz-ausbildungen/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
 
 
 {{% /kursbox %}}
@@ -67,12 +67,12 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 ***
 {{% kursbox %}}
 
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
-{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
-{{< kurs titel="Historische & politische Aspekte in der Beratung" link="fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
-{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
-{{< kurs titel="Psychologisches Teambuilding" link="fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/praesenz-ausbildungen/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
+{{< kurs titel="Historische & politische Aspekte in der Beratung" link="/praesenz-ausbildungen/fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
+{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/praesenz-ausbildungen/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
+{{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
 
 
 {{% /kursbox %}}

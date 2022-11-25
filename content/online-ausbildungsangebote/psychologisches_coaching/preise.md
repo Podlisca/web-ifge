@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: onlinecoaching
-        identifier: onlinecoaching_preise
 draft: false
 weight: 2
 ---

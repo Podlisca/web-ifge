@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: zeig_dich
-        identifier: zeig_dich_termine
 draft: false
 weight: 3
 ---

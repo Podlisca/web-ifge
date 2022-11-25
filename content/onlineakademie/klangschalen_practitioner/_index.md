@@ -3,7 +3,6 @@ title: "ONLINE-Ausbildung: Klangschalen-Practitioner"
 menu: 
     main:
         parent: onlineakademie
-        identifier: klangschalenpractitioner
 draft: false
 weight: 3
 description: "Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise, sowohl im gesamten Körper, als auch im gesamten Energiekörper aus und erreichen jede Faser und jede Zelle. In unseren Zellen haben wir jede Erfahrung, das Gute wie das Schwere, gespeichert."

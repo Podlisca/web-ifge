@@ -30,22 +30,31 @@ og_image = "/img/startseite_handy.jpg"
         weight = 1
 
     [[menu.main]]
-        name = "Dipl. Ausbildungen"
-        identifier = "ausb"
+        name = "Präsenz-Ausbildungen"
+        identifier = "praesenz"
         url = "#"       
         weight = 2
+
+    [[menu.main]]
+        name = "Dipl. Ausbildungen"
+        identifier = "diplomlehrgaenge"
+        url = "#"       
+        weight = 3
+        parent = "praesenz"
 
     [[menu.main]]
         name = "Upgrades"
         identifier = "upgrade"
         url = "#"       
-        weight = 3
+        weight = 4
+        parent = "praesenz"
 
     [[menu.main]]
         name = "Fortbildungen"
         identifier = "fortb"
         url = "#"       
         weight = 4
+        parent = "praesenz"
 
     [[menu.main]]
         name = "Online-Ausbildungen"

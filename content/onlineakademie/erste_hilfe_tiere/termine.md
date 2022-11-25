@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: erste_hilfe_tiere
-        identifier: erste_hilfe_tiere_termine
 draft: false
 weight: 3
 ---

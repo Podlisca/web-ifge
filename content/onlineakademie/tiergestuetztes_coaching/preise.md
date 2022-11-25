@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: tiergestuetztes_coaching
-        identifier: tiergestuetzt_preise
 draft: false
 weight: 2
 ---

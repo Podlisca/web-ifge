@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: onlinecoaching
-        identifier: onlinecoaching_rechtliches
 draft: false
 weight: 4
 ---

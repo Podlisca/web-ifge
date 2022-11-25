@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: sexundstalking
-        identifier: sexundstalking_kursaufbau
 draft: false
 weight: 1
 ---

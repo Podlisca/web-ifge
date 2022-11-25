@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: lovescamming
-        identifier: lovescamming_ziele
 draft: false
 weight: 1
 og_image: "/img/love_scamming_ziel.jpg"

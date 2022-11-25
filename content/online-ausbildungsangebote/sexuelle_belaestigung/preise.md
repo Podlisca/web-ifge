@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: sexundstalking
-        identifier: sexundstalking_preise
 draft: false
 weight: 2
 ---

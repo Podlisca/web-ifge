@@ -25,8 +25,17 @@
         </div>
 
         <div class="dropdown-content">
-          {{ range .Children }}              
+          {{ range .Children }}    
+
+            {{ if gt (len .Children) 0 }}
+              {{ .Name }}
+              {{ range .Children }}
+                <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+              {{ end }}
+            {{ else }}
               <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+          
           {{ end }}
         </div>
       </div>

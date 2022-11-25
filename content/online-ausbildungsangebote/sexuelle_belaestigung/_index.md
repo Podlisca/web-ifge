@@ -3,7 +3,6 @@ title: "ONLINE Ausbildung - Umgang mit sexueller Belästigung und Stalking"
 menu: 
     main:
         parent: online
-        identifier: sexundstalking
 draft: false
 weight: 5
 description: "Welche Dynamiken sich bei Sexueller Belästigung zeigen, wer davon häufig betroffen ist, wie die unterschiedlichen Formen des Umgangs damit aussehen und vor allem, welche personellen, rechtlichen sowie emotionalen Konsequenzen dies für Ihre Auftraggeber*innen bedeuten kann, ist ausführlicher Inhalt dieser digitalen Fortbildung. Welche Dynamiken sich bei Sexueller Belästigung zeigen, wer davon häufig betroffen ist, wie die unterschiedlichen Formen des Umgangs damit aussehen und vor allem, welche personellen, rechtlichen sowie emotionalen Konsequenzen dies für Ihre Auftraggeber*innen bedeuten kann, ist ausführlicher Inhalt dieser digitalen Fortbildung."

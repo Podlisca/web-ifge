@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: fitandsafe
-        identifier: fitandsafe_ziele
 draft: false
 weight: 1
 og_image: "/img/kursziel_fit_safe_maedchen.jpg"

@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: grundlagen_psychosomatik
-        identifier: grundlagen_psychosomatik_rechtliches
 draft: false
 weight: 4
 ---

@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: erste_hilfe_tiere
-        identifier: erste_hilfe_tiere_rechtliches
 draft: false
 weight: 4
 ---

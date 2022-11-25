@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: erste_hilfe_tiere
-        identifier: erste_hilfe_tiere_preise
 draft: false
 weight: 2
 ---

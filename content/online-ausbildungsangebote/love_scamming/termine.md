@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: lovescamming
-        identifier: lovescamming_termine
 draft: false
 weight: 3
 ---

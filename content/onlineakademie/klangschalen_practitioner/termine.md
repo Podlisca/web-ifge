@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: klangschalenpractitioner
-        identifier: klangschalenpractitioner_termine
 draft: false
 weight: 3
 ---

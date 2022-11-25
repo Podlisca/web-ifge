@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: erste_hilfe_tiere
-        identifier: erste_hilfe_tiere_ziele
 draft: false
 weight: 1
 og_image: "/img/tier_coaching_1.jpg"
