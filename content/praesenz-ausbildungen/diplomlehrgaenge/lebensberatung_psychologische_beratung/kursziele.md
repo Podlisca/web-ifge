@@ -121,7 +121,7 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
 {{% /small  %}}
 {{% small  %}}
 #### AUSBILDUNGSPHILOSOPHIE AM IFGE
-{{< youtube R0Iyo_175nY >}}
+{{< youtube 17RcDuirOWs >}}
 
 {{% /small  %}}
 {{% /box %}}

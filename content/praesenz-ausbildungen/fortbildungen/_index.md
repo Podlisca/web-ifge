@@ -149,7 +149,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% small %}}
 
 ### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube R0Iyo_175nY >}}
+{{< youtube 17RcDuirOWs >}}
 {{% /small %}}
 {{% small %}}
 
