@@ -28,10 +28,12 @@
           {{ range .Children }}    
 
             {{ if gt (len .Children) 0 }}
-              {{ .Name }}
-              {{ range .Children }}
-                <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
-              {{ end }}
+              <div class="subtitle">{{ .Name }}</div>
+              <div class="subcontent">
+                {{ range .Children }}
+                  <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+              </div>
             {{ else }}
               <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
             {{ end }}
