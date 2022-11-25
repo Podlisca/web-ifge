@@ -90,7 +90,7 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube V5YQvtyvWrg>}}
+[![Bildbeschreibung](/img/tiergestuetztes_coaching.jpg)](https://www.ifge.at/anmeldung.php)
 ***
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 ***
