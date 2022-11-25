@@ -12,6 +12,7 @@ og_image: "/img/index_lsb.jpg"
 aliases: 
     - "/ausbildungsangebote/lebensberatung_psychologische_beratung.html"
     - "/ausbildungsangebote/diplomlehrgang-lebensberatung-psychologische-beratung/"
+    - "/diplomlehrgaenge/lebensberatung_psychologische_beratung/"
 rich_kurs: true
 
 rich_faq:

@@ -13,7 +13,7 @@ aliases:
 ---
 
 # Philosophie: Online Schulungen & Trainings 
-# Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+
 
 {{< line icon="icon/zitat.png" >}}
 
@@ -21,11 +21,9 @@ aliases:
 
 {{< image src="/img/onlienausbildung.jpg" float="left" title="" >}} 
 
-Wir wissen: Aus- und Weiterbildung ist dann erfolgreich, wenn sich Kurse gut in den Alltag integrieren lassen. 
+### Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
-Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir unterschiedliche Lerntypen sind. 
-
-Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
+Wir wissen: Aus- und Weiterbildung ist dann erfolgreich, wenn sich Kurse gut in den Alltag integrieren lassen. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir unterschiedliche Lerntypen sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
 
 Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.
 
@@ -33,9 +31,8 @@ Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.
 
 {{% /floatbox %}}
 
-***
 
-{{% box blue=1 %}}
+{{% box %}}
 {{% small  %}}
 ## Weiterbildung: Flexibel und individuell.
 
@@ -44,7 +41,7 @@ Die Kurse der IFGE-Online-Akademie finden zu 100% im digitalen Raum statt. Ganz 
 {{% /small  %}}
 {{% /box %}}
 
-***
+
 
 ## Digital, aber menschlich und persönlich.
 
@@ -67,12 +64,12 @@ An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzei
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
-# Verschaffen Sie sich einen Überblick über unsere Online-Kurse 
+## Verschaffen Sie sich einen Überblick über unsere Online-Kurse 
 
 
-***
+
 #### Online-Akademie: 100% Online-Format
-***
+
 {{% kursbox %}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
 {{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
@@ -80,7 +77,7 @@ An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzei
 
 ***
 #### Online-Live-Format
-***
+
 {{% kursbox %}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
@@ -89,7 +86,7 @@ An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzei
 {{% /kursbox %}}
 
 
-# Sie sind auch an unseren Präsenzausbildungen interessiert? Dann finden Sie hier einen Überblick:
+### Sie sind auch an unseren Präsenzausbildungen interessiert? Dann finden Sie [hier](praesenz-ausbildungen/) einen Überb[ick:]()
 
 
 

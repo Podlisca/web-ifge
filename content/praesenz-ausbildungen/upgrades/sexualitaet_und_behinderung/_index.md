@@ -6,6 +6,8 @@ menu:
         identifier: upgrade_sexualitaet_behinderung
 draft: false
 weight: 6
+aliases: 
+    - "/upgrades/sexualitaet_und_behinderung/"
 description: "Sexualität, Alter & Behinderung ist eine optimale Weiterbildung für alle, die mit Menschen mit körperlichen und/oder geistigen Beeinträchtigungen (zusammen-)arbeiten und an Sicherheit im Umgang mit sexuellen Themen gewinnen möchten. Sexuelle Bedürfnisse und Verhaltensweisen sind auch heute oftmals noch ein Tabu. Umso wichtiger, dass es Ausbildungen gibt, die sensibilisieren und Verständnis für Sexualität fördern."
 og_title: "Lsb Upgrade: Lehrgang Sexualität und Behinderung"
 og_image: "/img/sex_alter.jpg"

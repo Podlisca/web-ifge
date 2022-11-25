@@ -6,6 +6,8 @@ menu:
         identifier: sexual_und_paarberatung
 draft: false
 weight: 6
+aliases: 
+    - "/upgrades/sexual_und_paarberatung/"
 description: "Sexual- und Paarberatung ist ein Kurs für alle, die beruflich mit Paaren und Sexualität konfrontiert werden. Erarbeitet werden Wissen und Methoden, um Beziehungen und Sexualität aktiv zu stärken."
 og_image: "/img/upgrade_sex_paar1.jpg"
 rich_kurs: true

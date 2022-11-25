@@ -11,6 +11,7 @@ og_title: "Lsb Upgrade: Zertifizierter Lehrgang Supervision"
 og_image: "/img/index_sv_ausbildung.jpg"
 aliases: 
     - "/ausbildungsangebote/lsb-upgrade-supervisionslehrgang/"
+    - "/upgrades/supervisionsausbildung/"
 rich_kurs: false
 
 rich_faq:

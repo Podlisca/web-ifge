@@ -6,6 +6,8 @@ menu:
         identifier: hitlers_wien
 draft: false
 weight: 4
+aliases: 
+    - "/fortbildungen/erlebnistour_hitlers_wien/"
 description: "Sie möchten eine interaktive Fortbildung in Bewegung über Hitlers Vergangenheit in Wien? Dann sind Sie hier richtig: Die Erlebnistour durch Wien ist eine Stadtführung die Ihr Wissen in diesen Bereichen erweitert."
 og_title: "Erlebnistour durch Wien mit dem Themenschwerpunkt: Hitlers Wien - Jüdisches Wien"
 og_image: "/img/qualitaetsausbildungen.jpg"
