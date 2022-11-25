@@ -5,9 +5,9 @@ weight: 3
 ---
 
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Der menschliche Körper – verständlich erklärt
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

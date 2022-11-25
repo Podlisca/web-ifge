@@ -5,7 +5,7 @@ weight: 3
 ---
 
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}

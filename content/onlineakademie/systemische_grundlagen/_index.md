@@ -1,24 +1,24 @@
 ﻿---
-title: "Erste Hilfe für Hunde & Katzen"
+title: "Systemische Grundlagen Grundlagen & SGF Methode®"
 menu: 
     main:
         parent: onlineakademie
 draft: true
 weight: 4
-description: "Erste Hilfe für Hunde & Katzen"
-og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
+description: "Systemische Grundlagen Grundlagen & SGF Methode®"
+og_title: "Ausbildung: Systemische Grundlagen Grundlagen & SGF Methode®"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
-        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
+    -   frage: "Wo lerne ich Grundlagen der Systemik?"
+        antwort: "In der Online-Ausbildung Systemische Grundlagen Grundlagen & SGF Methode®."
 
 
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 

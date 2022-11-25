@@ -1,14 +1,13 @@
 ﻿---
 title: "Kursziele"
-menu: 
 draft: false
 weight: 1
 og_image: "/img/tier_coaching_1.jpg"
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}

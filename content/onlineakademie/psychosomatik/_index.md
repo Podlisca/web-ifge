@@ -1,24 +1,23 @@
 ﻿---
-title: "Erste Hilfe für Hunde & Katzen"
+title: "Ganzheitlich gesund - Grundlagen Psychosomatik"
 menu: 
     main:
         parent: onlineakademie
 draft: true
 weight: 4
-description: "Erste Hilfe für Hunde & Katzen"
-og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
+description: "Ganzheitlich gesund - Grundlagen Psychosomatik"
+og_title: "Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
-        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
-
+    -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
+        antwort: "In der Online-Ausbildung Ganzheitlich gesund - Grundlagen Psychosomatik findest du viele Informationen wie die Psyche den Körer beeinflusst."
 
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 

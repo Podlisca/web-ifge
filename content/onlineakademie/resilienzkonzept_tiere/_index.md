@@ -1,22 +1,22 @@
 ﻿---
-title: "Erste Hilfe für Hunde & Katzen"
+title: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
 menu: 
     main:
         parent: onlineakademie
 draft: true
 weight: 4
-description: "Erste Hilfe für Hunde & Katzen"
-og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
+description: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
+og_title: "Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
-        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
+    -   frage: "Wie kann ich Tiere in der Beratung einsetzen?"
+        antwort: "In der Online-Ausbildung Tiere als Resilienzkonzept in der psychosozialen Beratung lernen du wie du Tiere gut einsetzen kannst."
 
 
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}

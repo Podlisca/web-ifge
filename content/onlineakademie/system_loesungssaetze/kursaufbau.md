@@ -4,9 +4,9 @@ draft: false
 weight: 1
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt:  
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
