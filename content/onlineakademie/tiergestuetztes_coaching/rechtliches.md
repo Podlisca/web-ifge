@@ -2,7 +2,7 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: upgrade_tiergestuetzt
+        parent: tiergestuetztes_coaching
         identifier: tiergestuetzt_rechtliches
 draft: false
 weight: 4

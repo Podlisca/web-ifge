@@ -1,8 +1,8 @@
 ﻿---
-title: "Onlinephilosophie und Kursangebote"
+title: "Philosophie und Kursangebote Onlineakademie"
 menu: 
     main:
-        parent: "online"
+        parent: "onlineakademie"
 draft: false
 weight: 1
 description: "Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebe ttet und genützt werden. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln."
@@ -33,7 +33,7 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 #### Tiergestützte Ausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" >}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" color="light-red" >}}
@@ -81,13 +81,30 @@ Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFG
 #### Online Ausbildungen & Trainings
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/online-ausbildungsangebote/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
 {{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
 {{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
 {{% /kursbox %}}
+
+***
+#### Online-Akademie: Ausbildungen 100% Online
+***
+{{% kursbox %}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+{{% /kursbox %}}
+
+***
+#### Tiergestützte Ausbildungen
+***
+{{% kursbox %}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
+{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
+{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
+{{% /kursbox %}}
+
 
 {{% floatbox %}}
 
@@ -130,7 +147,7 @@ Doch abgesehen vom Wunsch nach konstanter Weiterentwicklung gibt es noch einen w
 {{< small >}}
 **Derzeit können die folgenden Kurse auch online absolviert werden:**
 
-* [Tiergestütztes Coaching](/online-ausbildungsangebote/tiergestuetztes_coaching/)
+* [Tiergestütztes Coaching](/onlineakademie/tiergestuetztes_coaching/)
 * [Umgang mit sexueller Belästigung & Stalking](/psychologische-beratung/spezialisierungen/stalking)
 * [Ganzheitlich gesund – Grundlagen der Psychosomatik](/online-ausbildungsangebote/grundlagen_psychosomatik)
 * [Umgang mit Love Scamming](/online-ausbildungsangebote/love_scamming)

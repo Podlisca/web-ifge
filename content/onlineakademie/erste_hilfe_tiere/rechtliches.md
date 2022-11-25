@@ -2,15 +2,15 @@
 title: "Rechtliches"
 menu: 
     main:
-        parent: klangschalenpractitioner
-        identifier: klangschalenpractitioner_rechtliches
+        parent: erste_hilfe_tiere
+        identifier: erste_hilfe_tiere_rechtliches
 draft: false
 weight: 4
 ---
 
-# Onlineausbildung: Klangschalen-Practitioner
+# Onlineausbildung: Erste Hilfe für Hunde & Katzen
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-
+## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -35,15 +35,18 @@ Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus s
 
 Um Ihnen den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
 
-Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m Bank Austria IBAN: AT42 1200 0007 4443 4259 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck “Onlineausbildung Klangschalen Practitioner + Ihren Namen” an.
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
 
-Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert.
-
-Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
+zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Tiergestütztes Coaching + Ihren Namen" an.
 
 
+Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen

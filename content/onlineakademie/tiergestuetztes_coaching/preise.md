@@ -2,7 +2,7 @@
 title: "Preise"
 menu: 
     main:
-        parent: upgrade_tiergestuetzt
+        parent: tiergestuetztes_coaching
         identifier: tiergestuetzt_preise
 draft: false
 weight: 2

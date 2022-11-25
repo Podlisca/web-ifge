@@ -2,16 +2,16 @@
 title: "Kursziele"
 menu: 
     main:
-        parent: upgrade_tiergestuetzt
-        identifier: upgrade_tiergestuetzt_ziele
+        parent: erste_hilfe_tiere
+        identifier: erste_hilfe_tiere_ziele
 draft: false
 weight: 1
 og_image: "/img/tier_coaching_1.jpg"
 ---
 
-# Onlineausbildung: Tiergestütztes Coaching 
+# Onlineausbildung: Erste Hilfe für Hunde & Katzen
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde, Katzen & Pferde
+## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}

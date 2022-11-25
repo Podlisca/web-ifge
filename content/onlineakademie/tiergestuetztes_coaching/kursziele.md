@@ -2,7 +2,7 @@
 title: "Kursziele"
 menu: 
     main:
-        parent: upgrade_tiergestuetzt
+        parent: tiergestuetztes_coaching
         identifier: upgrade_tiergestuetzt_ziele
 draft: false
 weight: 1

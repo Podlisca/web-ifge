@@ -28,8 +28,8 @@ Was wir schon immer im Präsenzformat gemacht haben, setzen wir selbstverständl
 ### Digitale Ausbildungen im Überblick.
 Am IFGE springen wir nicht auf jeden beliebigen Trend auf. Wir überlegen genau, denken kritisch durch und prüfen, bei welchen Angeboten die Vorteile eines digitalen Settings überwiegen. Aktuell können folgende zwei Kurse zu **100% online absolviert** werden:
 
-* [Tiergestütztes Coaching](https://www.ifge.at/online-ausbildungsangebote/tiergestuetztes_coaching/)
-* [Klangschalen-Practitioner](https://www.ifge.at/online-ausbildungsangebote/klangschalen_practitioner/) 
+* [Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)
+* [Klangschalen-Practitioner](https://www.ifge.at/onlineakademie/klangschalen_practitioner) 
 
 Folgende Kurse werden momentan noch in einem Online-Live-Setting abgehalten, allerdings in Zukunft Schritt für Schritt auf **100% Online-Kurse ohne fixe Gruppentermine** umgestellt:
 

@@ -108,8 +108,6 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 #### Online Ausbildungen & Trainings
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/online-ausbildungsangebote/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
 {{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
 {{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
@@ -117,10 +115,18 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 {{% /kursbox %}}
 
 ***
+#### Online-Akademie: Ausbildungen 100% Online
+***
+{{% kursbox %}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+{{% /kursbox %}}
+
+***
 #### Tiergestützte Ausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/online-ausbildungsangebote/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}

@@ -2,16 +2,16 @@
 title: "Termine"
 menu: 
     main:
-        parent: upgrade_tiergestuetzt
-        identifier: tiergestuetzt_termine
+        parent: erste_hilfe_tiere
+        identifier: erste_hilfe_tiere_termine
 draft: false
 weight: 3
 ---
 
 
-# Onlineausbildung: Tiergestütztes Coaching 
+# Onlineausbildung: Erste Hilfe für Hunde & Katzen
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde, Katzen & Pferde
+## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}

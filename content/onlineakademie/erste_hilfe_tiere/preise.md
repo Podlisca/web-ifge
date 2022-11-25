@@ -2,15 +2,15 @@
 title: "Preise"
 menu: 
     main:
-        parent: klangschalenpractitioner
-        identifier: klangschalenpractitioner_preise
+        parent: erste_hilfe_tiere
+        identifier: erste_hilfe_tiere_preise
 draft: false
 weight: 2
 ---
 
-# Onlineausbildung: Klangschalen-Practitioner
+# Onlineausbildung: Erste Hilfe für Hunde & Katzen
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-
+## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -41,7 +41,6 @@ Zahlung nach Anmeldung. <br/>
 
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
-**Spare € 322,50 mit der Weihnachtsaktion** <br/>
-Zahlung bei Anmeldung
+**Spare € 322,50 mit der Weihnachtsaktion**
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
