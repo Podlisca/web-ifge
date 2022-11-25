@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: klangschalenpractitioner
-        identifier: klangschalenpractitioner_rechtliches
 draft: false
 weight: 4
 ---

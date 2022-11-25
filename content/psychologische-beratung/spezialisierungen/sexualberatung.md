@@ -116,7 +116,7 @@ Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch a
 
 Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl. Lebens- und Sozialberater\*in. Sollten Sie sich für diese Ausbildung interessieren, folgen Sie dem angeführten Link.
 
-[Ausbildung Dipl. Lebens- und Sozialberater\*in](/diplomlehrgaenge/lebensberatung_psychologische_beratung/)
+[Ausbildung Dipl. Lebens- und Sozialberater\*in](/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/)
 
 
 {{% floatbox %}}

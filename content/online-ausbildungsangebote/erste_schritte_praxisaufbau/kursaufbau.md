@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: zeig_dich
-        identifier: zeig_dich_aufbau
 draft: false
 weight: 1
 ---

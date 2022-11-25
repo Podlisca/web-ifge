@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: klangschalenpractitioner
-        identifier: klangschalenpractitioner_preise
 draft: false
 weight: 2
 ---

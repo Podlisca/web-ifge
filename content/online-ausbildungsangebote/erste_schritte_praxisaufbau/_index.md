@@ -3,7 +3,6 @@ title: "ONLINE Ausbildung - Zeig dich - Erste Schritte im Praxisaufbau"
 menu: 
     main:
         parent: online
-        identifier: zeig_dich
 draft: false
 weight: 9
 og_image: "/img/zeig_dich.jpg"

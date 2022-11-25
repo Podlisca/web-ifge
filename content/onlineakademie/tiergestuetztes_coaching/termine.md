@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: tiergestuetztes_coaching
-        identifier: tiergestuetzt_termine
 draft: false
 weight: 3
 ---

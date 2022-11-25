@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: tiergestuetztes_coaching
-        identifier: upgrade_tiergestuetzt_ziele
 draft: false
 weight: 1
 og_image: "/img/tier_coaching_1.jpg"

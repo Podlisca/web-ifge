@@ -3,7 +3,6 @@ title: "ONLINE-Ausbildung: Tiergestütztes Coaching"
 menu: 
     main:
         parent: onlineakademie
-        identifier: tiergestuetztes_coaching
 weight: 2
 description: "Lebens- und SozialberaterInnen, Interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, Trainer, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung die gerne Tiere in die psychosoziale Beratung integrieren möchten. Einstieg bereits in der Grundausbildung (ab 2. Semester) möglich."
 og_title: "Ausbildung: Tiergestützte psychosoziale Beratung"
@@ -90,7 +89,7 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube V5YQvtyvWrg>}}
+[![Bildbeschreibung](/img/tiergestuetztes_coaching.jpg)](https://www.ifge.at/anmeldung.php)
 ***
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 ***

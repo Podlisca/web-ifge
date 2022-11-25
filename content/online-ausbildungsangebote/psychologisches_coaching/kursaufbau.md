@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: onlinecoaching
-        identifier: onlinecoaching_kursaufbau
 draft: false
 weight: 1
 ---

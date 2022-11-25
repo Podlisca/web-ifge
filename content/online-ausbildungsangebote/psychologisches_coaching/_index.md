@@ -3,7 +3,6 @@ title: "ONLINE Ausbildung - Psychologisches Coaching"
 menu: 
     main:
         parent: online
-        identifier: onlinecoaching
 draft: true
 weight: 7
 description: "Egal ob Sie MitarbeiterIn in einem Unternehmen sind oder Führungskraft – die Inhalte der Coaching-Ausbildung, können Ihnen persönlich und in Ihrer Tätigkeit einen Vorteil bringen und zielen darauf ab, dass Sie zukünftig auch Coachees in Prozessen begleiten können!"

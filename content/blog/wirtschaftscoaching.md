@@ -38,7 +38,7 @@ Ich bin fest davon überzeugt, dass FCBP nicht nur aufgrund der unternehmerisch 
 
 Auch Sie wollen unsere besondere, erfolgsbringende Form des Coachings in Anspruch nehmen? [Hier](https://www.fcbp.at/) erfahren Sie mehr darüber: www.fcbp.at
 
-Sie wollen selbst lernen, wie Sie unsere wertschätzende, wirtschaftlich fundierte und psychologisch umfassende Art des Coachings einsetzen können? Erste Grundlagen können Sie sich in der Online-Ausbildung [„Psychologisches Coaching“](https://www.ifge.at/diplomlehrgaenge/diplomausbildung_coaching/) aneignen.
+Sie wollen selbst lernen, wie Sie unsere wertschätzende, wirtschaftlich fundierte und psychologisch umfassende Art des Coachings einsetzen können? Erste Grundlagen können Sie sich in der Online-Ausbildung [„Psychologisches Coaching“](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/) aneignen.
 
 <br/>
 {{< silvia >}}

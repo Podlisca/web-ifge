@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: kinder_gefahrenschutz
-        identifier: kinder_gefahrenschutz_ziele
 draft: false
 weight: 1
 og_image: "/img/kinder_schuetzen_ziel.jpg"

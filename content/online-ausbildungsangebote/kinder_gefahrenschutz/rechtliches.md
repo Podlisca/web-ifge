@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: kinder_gefahrenschutz
-        identifier: kinder_gefahrenschutz_rechtliches
 draft: false
 weight: 4
 ---

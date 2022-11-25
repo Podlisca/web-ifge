@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: sexundstalking
-        identifier: sexundstalking_rechtliches
 draft: false
 weight: 4
 ---

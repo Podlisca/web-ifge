@@ -1,6 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
 draft: false
 weight: 1
 og_image: "/img/tier_coaching_1.jpg"

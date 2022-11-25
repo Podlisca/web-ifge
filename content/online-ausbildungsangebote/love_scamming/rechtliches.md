@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: lovescamming
-        identifier: lovescamming_rechtliches
 draft: false
 weight: 4
 ---

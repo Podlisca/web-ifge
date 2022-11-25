@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: sexundstalking
-        identifier: sexundstalking_termine
 draft: false
 weight: 3
 ---

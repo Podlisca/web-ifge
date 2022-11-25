@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: onlinecoaching
-        identifier: onlinecoaching_termine
 draft: false
 weight: 3
 ---

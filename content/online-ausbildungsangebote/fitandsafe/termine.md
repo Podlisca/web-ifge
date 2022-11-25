@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: fitandsafe
-        identifier: fitandsafe_termine
 draft: false
 weight: 3
 ---

@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: grundlagen_psychosomatik
-        identifier: grundlagen_psychosomatik_termine
 draft: false
 weight: 3
 ---

@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: onlinecoaching
-        identifier: onlinecoaching_ziele
 draft: false
 weight: 1
 og_image: "/img/onlinecoaching_ziel_noe.jpg"

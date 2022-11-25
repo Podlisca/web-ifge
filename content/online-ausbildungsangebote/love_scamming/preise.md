@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: lovescamming
-        identifier: lovescamming_preise
 draft: false
 weight: 2
 ---

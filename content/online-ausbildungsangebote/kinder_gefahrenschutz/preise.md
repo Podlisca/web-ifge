@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: kinder_gefahrenschutz
-        identifier: kinder_gefahrenschutz_preise
 draft: false
 weight: 2
 ---

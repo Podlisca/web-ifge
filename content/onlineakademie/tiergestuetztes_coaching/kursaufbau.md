@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: tiergestuetztes_coaching
-        identifier: tiergestuetzt_kursaufbau
 draft: false
 weight: 1
 ---

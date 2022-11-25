@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: grundlagen_psychosomatik
-        identifier: grundlagen_psychosomatik_preise
 draft: false
 weight: 2
 ---

@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: fitandsafe
-        identifier: fitandsafe_rechtliches
 draft: false
 weight: 4
 ---
