@@ -87,9 +87,12 @@ An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzei
 {{% /kursbox %}}
 
 
-### Sie sind auch an unseren Präsenzausbildungen interessiert? Dann finden Sie [hier](praesenz-ausbildungen/) einen Überb[ick:]()
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+## Unsere Ausbildungen im Überblick
+
+Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen).
 
 
 

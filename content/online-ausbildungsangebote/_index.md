@@ -81,16 +81,11 @@ Sie möchten von Vortragenden begleitet werden und in der Gruppe lernen? Wünsch
 {{% /kursbox %}}
 
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-#### Sie sind auch an unseren Präsenzausbildungen interessiert? Dann finden Sie hier einen Überblick:
+## Unsere Ausbildungen im Überblick
 
-
-
-
-
-
-
-
+Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen).
 
 
 
