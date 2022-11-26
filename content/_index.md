@@ -19,7 +19,7 @@ og_image: "/img/home_2021_1.jpg"
 {{< line icon="icon/beratung.png" >}}
 # Erleben Sie Silvia Podlisca.
 
-Ob in der individuellen Beratung oder im Rahmen von Aufstellungen. Ob in Präsenzkursen oder an der Online-Akademie. In der Arbeit mit Silvia Podlisca profitieren Sie von mehr als 20 Jahren Erfahrung im Bereich psychosoziale Ausbildung und Beratung.
+Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in [Präsenzkursen](https://ifge.at/praesenz-ausbildungen/) oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von mehr als **20 Jahren Erfahrung** im Bereich psychosoziale Ausbildung und Beratung.
 
 
 <div class="box video">
@@ -51,34 +51,34 @@ Ob in der individuellen Beratung oder im Rahmen von Aufstellungen. Ob in Präsen
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychosoziale Beratung">}}
 
-Im Zentrum der psychosozialen Beratung am IFGE steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der Lebens- und Sozialberatung, die von Krisen über Sexualität bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit Einzelberatungen, systemischer Aufstellung oder Selbsterfahrung. 
+Im Zentrum der [psychosozialen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) am [IFGE](https://ifge.at/about/institut/) steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der [Lebens- und Sozialberatung](https://ifge.at/psychologische-beratung/einzelberatung/)], die von [Krisen](https://ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/) über [Sexualität](https://ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit [Einzelberatungen](https://ifge.at/psychologische-beratung/systemische-einzelberatung/), [systemischer Aufstellung](https://ifge.at/gruppenselbsterfahrung/familienaufstellung/) oder [Selbsterfahrung](https://ifge.at/psychologische-beratung/einzelberatung/). 
 
-Verschaffen Sie sich einen Überblick über unsere Beratungsangebote
+[Verschaffen Sie sich einen Überblick über unsere Beratungsangebote](https://ifge.at/psychologische-beratung/berufsbild/)
 
 {{% /card-more %}}
 
 
 {{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Präsenzkurse">}}
 
-Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den Diplomlehrgängen Lebens- und Sozialberatung – psychosoziale Beratung, Aufstellung nach der SGF®-Methode von Silvia Podlisca und Coaching, bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
+Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den [Diplomlehrgängen Lebens- und Sozialberatung – psychosoziale Beratung](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/), [Aufstellung nach der SGF®-Methode](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) von Silvia Podlisca und [Coaching](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/), bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
 
-Verschaffen Sie sich einen Überblick über unsere Präsenzausbildungen
+[Verschaffen Sie sich einen Überblick über unsere Präsenzausbildungen](https://ifge.at/praesenz-ausbildungen/)
 
 {{< /card-more >}}
 
 
 {{< card-more link="/supervision/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Live-Kurse">}}
-Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer\*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch Online-Live-Lehrgänge an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
+Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer\*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch [Online-Live-Lehrgänge](https://ifge.at/online-ausbildungsangebote/) an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
 
-Verschaffen Sie sich einen Überblick über unsere Online-Live-Kurse
+[Verschaffen Sie sich einen Überblick über unsere Online-Live-Kurse](https://ifge.at/online-ausbildungsangebote/)
 
 {{< /card-more >}}
 
 
 {{< card-more link="/gruppenselbsterfahrung/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Akademie">}}
-Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die IFGE-Online-Akademie gegründet. Wie der Name schon verrät: Hier gibt es Ausbildungen, die zu 100% online und im Unterschied zu unseren Online-Live-Angeboten ganz ohne fixe Termine stattfinden. Der Vorteil: Weiterbilden, wann, wo und ganz wie Sie möchten. Über eine moderne Lernplattform können Sie auf mehr als 100 Lehrvideos mit Vorträgen, Praxisübungen und vielfältigen Lernmaterialien zugreifen. 
+Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die [IFGE-Online-Akademie](https://ifge.at/onlineakademie/) gegründet. Wie der Name schon verrät: Hier gibt es Ausbildungen, die zu 100% online und im Unterschied zu unseren Online-Live-Angeboten ganz ohne fixe Termine stattfinden. Der Vorteil: Weiterbilden, wann, wo und ganz wie Sie möchten. Über eine moderne Lernplattform können Sie auf mehr als 100 Lehrvideos mit Vorträgen, Praxisübungen und vielfältigen Lernmaterialien zugreifen. 
 
-Verschaffen Sie sich einen Überblick über die Angebote der Online-Akademie
+[Verschaffen Sie sich einen Überblick über die Angebote der Online-Akademie](https://ifge.at/onlineakademie/)
 
 {{< /card-more >}}
 
