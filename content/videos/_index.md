@@ -1,7 +1,7 @@
 ﻿---
 title: "VIDEOS"
 menu: main
-draft: false
+draft: true
 weight: 9
 ---
 

@@ -4,7 +4,7 @@ draft: false
 description: " Menschen bewegen, begleiten und bereichern.
 Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr und am Wochenende von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie Supervision und Aufstellungsarbeit, sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
 og_title: "IFGE - Silvia Podlisca"
-og_image: "/img/home_2021_1.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 ---
 
 # Herzlich Willkommen am IFGE
@@ -16,6 +16,32 @@ og_image: "/img/home_2021_1.jpg"
 
 {{% intro %}}
 
+{{< line icon="icon/beratung.png" >}}
+# Erleben Sie Silvia Podlisca.
+
+Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in [Präsenzkursen](https://ifge.at/praesenz-ausbildungen/) oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von mehr als **20 Jahren Erfahrung** im Bereich psychosoziale Ausbildung und Beratung.
+
+
+<div class="box video">
+{{% small %}}
+
+### im Klientengespräch
+{{< youtube 1i4cXuwfH4w >}}
+{{% /small %}}
+{{% small %}}
+
+### in der Online-Akademie
+{{< youtube b8tlo6e4M5M>}}
+{{% /small %}}
+{{% small %}}
+
+
+### im Präsenzunterricht
+{{< youtube fmXmn39H7Zs>}}
+{{% /small %}}
+
+</div> 
+
 *** 
 # Verschaffen Sie sich einen Überblick
 ***
@@ -23,89 +49,46 @@ og_image: "/img/home_2021_1.jpg"
 {{% box blue=1 more=1 %}}
 
 
-{{< card-more link="/diplomlehrgaenge/" icon="icon/ausbildungsangebote.png" title="Diplomlehrgaenge">}}
+{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychosoziale Beratung">}}
 
-Unter der Leitung von Silvia Podlisca werden am IFGE seit Jahren zukünftige psychosoziale BeraterInnen allumfassend ausgebildet. 
+Im Zentrum der [psychosozialen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) am [IFGE](https://ifge.at/about/institut/) steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der [Lebens- und Sozialberatung](https://ifge.at/psychologische-beratung/einzelberatung/)], die von [Krisen](https://ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/) über [Sexualität](https://ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit [Einzelberatungen](https://ifge.at/psychologische-beratung/systemische-einzelberatung/), [systemischer Aufstellung](https://ifge.at/gruppenselbsterfahrung/familienaufstellung/) oder [Selbsterfahrung](https://ifge.at/psychologische-beratung/einzelberatung/). 
 
-Im Institut können SchülerInnen und AbsolventInnen gleichsam eine Vielzahl an Zusatzausbildungen, Fortbildungen und Upgrades in Anspruch nehmen. Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der systemischen Familienaufstellung. 
+[Verschaffen Sie sich einen Überblick über unsere Beratungsangebote](https://ifge.at/psychologische-beratung/berufsbild/)
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/diplomlehrgaenge/)
 {{% /card-more %}}
 
 
-{{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/online_ausbildungen.png" title="Online-Ausbildungen">}}
+{{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Präsenzkurse">}}
 
-Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. 
+Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den [Diplomlehrgängen Lebens- und Sozialberatung – psychosoziale Beratung](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/), [Aufstellung nach der SGF®-Methode](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) von Silvia Podlisca und [Coaching](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/), bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
 
-Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden. 
+[Verschaffen Sie sich einen Überblick über unsere Präsenzausbildungen](https://ifge.at/praesenz-ausbildungen/)
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/online-ausbildungsangebote/onlinephilosophie/).
 {{< /card-more >}}
 
 
-{{< card-more link="/supervision/philosophie/" icon="icon/supervision.png" title="Supervision">}}
-Supervision - ob in Einzel- oder Gruppensetting -  ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann. 
+{{< card-more link="/supervision/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Live-Kurse">}}
+Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer\*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch [Online-Live-Lehrgänge](https://ifge.at/online-ausbildungsangebote/) an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
 
-Es werden zum einen Fragen und Themen aus dem Berufsalltag bearbeitet, reflektiert und geklärt. Zum anderen werden zukünftige alternative Handlungs- und Lösungsmöglichkeiten erarbeitet. Auch ist Supervision uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen. 
+[Verschaffen Sie sich einen Überblick über unsere Online-Live-Kurse](https://ifge.at/online-ausbildungsangebote/)
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/supervision/philosophie/)
 {{< /card-more >}}
 
 
-{{< card-more link="/gruppenselbsterfahrung/philosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Gruppenselbsterfahrung">}}
-Gruppendynamik kann sichtbar machen, was in Einzelsitzungen im Verborgenen bleibt, langfristige Begleitung fördert das noch mehr. 
+{{< card-more link="/gruppenselbsterfahrung/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Akademie">}}
+Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die [IFGE-Online-Akademie](https://ifge.at/onlineakademie/) gegründet. Wie der Name schon verrät: Hier gibt es Ausbildungen, die zu 100% online und im Unterschied zu unseren Online-Live-Angeboten ganz ohne fixe Termine stattfinden. Der Vorteil: Weiterbilden, wann, wo und ganz wie Sie möchten. Über eine moderne Lernplattform können Sie auf mehr als 100 Lehrvideos mit Vorträgen, Praxisübungen und vielfältigen Lernmaterialien zugreifen. 
 
-Im geschützten Rahmen werden behindernde Muster mit Rollenspielen, (Familien-) Aufstellungen, geführten Gesprächen, Glaubenssatz - Aufstellungen, und durch spielerisches Ausprobieren von Neuem aufgearbeitet. Dadurch werden (Familien-) Verstrickungen gelöst, Selbst- und Fremdwahrnehmung erfahren und entwickelt, Potenziale und Ressourcen entdeckt sowie das eigene Handeln reflektiert. 
+[Verschaffen Sie sich einen Überblick über die Angebote der Online-Akademie](https://ifge.at/onlineakademie/)
 
-[Verschaffen Sie sich einen Überblick über die zahlreichen Angebote](/gruppenselbsterfahrung/philosophie/)
 {{< /card-more >}}
 
 {{% /box %}}
 
-{{< line icon="icon/zertifikat.png" >}}
 
-# Diplomlehrgang Lebensberatung in Wien, Pinkafeld & St. Pölten  
-# Upgrades / Fortbildung / Supervision
 
-***
-{{% box more="true" %}}
-{{< card-more title="Qualitätsausbildungen" img="start_rahmen.jpg" alt="An drei Standorten, in Wien auf der Mariahilferstraße, im Burgenland in Pinkafeld sowie in Niederösterreich in Sankt Pölten, finden zahlreiche Angebote wie die Ausbildung zum/zur Dipl. Lebensbeater\*in – psychosozialen Berater\*in, Upgrades in Aufstellungsarbeit und Supervision, Fortbildung in tiergestützter Arbeit, Coaching, Fortbildungen in der Sexualberatung und Paarberatung statt.">}}
 
-**Wien – Burgenland – Niederösterreich:** 
-Am renommierten Ausbildungsinstitut IFGE finden Sie an allen drei Standorten die einzigen **WKO zertifizierten [Diplomlehrgänge zur Lebens- und Sozialberatung](/diplomlehrgaenge/lebensberatung_psychologische_beratung/)**, die einmal wöchentlich berufsbegleitend stattfinden. Berufsbegleitendes Lernen in wertschätzender und herzlicher Atmosphäre wird für Sie durch die Möglichkeit des Kurs-Hoppings so noch flexibler und angenehmer. Profitieren Sie davon, dass ein Großteil der Kurseinheiten und Upgrades Supervision und Aufstellungsarbeit von mir als erfahrene Institutsleiterin mit Enthusiasmus und Weitblick selbst unterrichtet wird. Gemeinsam mit meinem Expert\*innen- und [Referent\*innen-Team](/about/referenten-lsb/) verpflichte ich mich persönlich der hohen Qualität und Ihrem Lernerfolg. [Weitere Infos](/diplomlehrgaenge/)
-{{< /card-more >}}
 
-{{< card-more title="Berufsbild Lebensberatung" img="berufsbild_2021.jpg" alt="Wer Zuhören will, muss schweigen können. Aktives und empathisches Zuhören, Sicherheit und Ruhe ist die Grundlage jeder psychosozialen Beratung. Am IFGE finden Sie einen Ort wo es um Sie und Ihre Anliegen und Gefühlen geht – frei von Bewertungen, Absichten und Besserwisserei. Getragen von dieser Atmosphäre und einer ressourcenorientierter Gesprächsführung, finden Sie Lösungen, die immer in Ihnen schlummern, jedoch nicht wahrgenommen werden können.">}}
 
-Sie sind noch nicht ganz sicher, ob die [Ausbildung zur psychosozialen Beratung (Lebens- und Sozialberatung LSB)](diplomlehrgaenge/lebensberatung_psychologische_beratung/) für Sie genau das Richtige ist? Dann informieren Sie sich am besten vorab über die breitgefächerten Möglichkeiten, die Ihnen der Abschluss des Diplomlehrgangs bieten kann. Denn das Berufsbild der psychosozialen Berater\*innen – Lebens- und Sozialberater*innen ist ein besonders vielfältiges: [Hier](https://ifge.at/psychologische-beratung/berufsbild/) können Sie sich ein allumfassendes Bild über die zahlreichen spannenden und sinnstiftenden Tätigkeitsbereiche machen, die Ihnen nach Abschluss der Berufsausbildung sowohl im Angestelltenverhältnis als auch in der eigenen freien Praxis offen stehen. Denn die Lebens- und Sozialberatung bietet nicht nur zahlreiche Methoden, sondern auch eine große Bandbreite an Spezialisierungen. Zu weiteren umfassenden Informationen geht's [hier](https://ifge.at/psychologische-beratung/berufsbild/).
-{{< /card-more >}}
-
-{{< card-more title="Bildungsphilosophie" img="ausbildungsphilo_2021_1.jpg" alt="Am IFGE wird Ihnen, ab dem ersten Seminartag, die Rolle der psychosozialen Beraterin des psychosozialen Beraters nähergebracht. Schritt für Schritt wachsen Sie – durch theoretische Inputs und viel Üben in die neue Rolle hinein. Das gibt Ihnen die Sicherheit, damit Sie später mit Fachwissen und vielen praktischen Tools ausgestattet, in die Praxis starten können.">}}
-
-Es ist mir ein persönliches Anliegen, dazu beizutragen, den Berufsstand der Lebens- und Sozialberater\*innen – psychosozialen Berater\*innen auf einem sehr hohen sowie  professionellen Level zu halten und das qualitative Niveau der Berufsgruppe konstant weiterzuentwickeln. Daher __betrachte ich alle meine Schüler\*innen von Anfang an als angehende Kolleg\*innen und motiviere sie wertschätzend sowie individuell__ dabei, in ihrer zukünftigen Arbeit authentisch, professionell und erfolgreich zu agieren. Meine ständigen fachlichen Weiterentwicklungen, sowie die aller meiner [Referent\*innen](/about/referenten-lsb/), ermöglichen neueste Techniken des Unterrichts bei allen [Seminaren](/fortbildungen/), [Upgrades](/upgrades/) und [Ausbildungen](/diplomlehrgaenge/). Am IFGE finden Sie jene Ausbildungsqualität, die mir seit jeher ganz besonders am Herzen liegt. Kontaktieren Sie mich bei Fragen gerne persönlich.  
-{{< /card-more >}}
-{{% /box %}}
-
-{{% floatbox %}}
-
-{{< line icon="/icon/beratung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
-
-## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
-{{% /small %}}
-{{% /box %}}
-
-{{% box blue=1 %}}
-{{% small %}}
-{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="psychosoziale Beratung und Familienaufstellung mit Silvia Podlisca in Wien, Niederösterreich oder Burgenland." >}} 
-
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychosozialen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
- 
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
-{{% /small %}}
-{{% /box %}}
-{{% /floatbox %}}
 
 {{< line icon="icon/3_standorte.png" >}}
 
@@ -129,25 +112,3 @@ Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [E
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-#### Lernen am IFGE 
-
-Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
-
-<div class="box video">
-{{% small %}}
-
-### IFGE Software - Lehrgang und Praktikum leicht im Überblick
-{{< youtube hwxiCb0R620 >}}
-{{% /small %}}
-{{% small %}}
-
-### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube R0Iyo_175nY >}}
-{{% /small %}}
-{{% small %}}
-
-### Hunde & Katzen in der psychosozialen Beratung
-{{< youtube cPN03jAzqJQ >}}
-{{% /small %}}
-</div> 

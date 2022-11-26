@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursziele"
-menu: 
-    main:
-        parent: grundlagen_psychosomatik
-        identifier: grundlagen_psychosomatik_ziele
 draft: false
 weight: 1
 og_image: "/img/ks_2021.jpg"

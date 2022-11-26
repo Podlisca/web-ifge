@@ -1,9 +1,5 @@
 ﻿---
 title: "Termine"
-menu: 
-    main:
-        parent: kinder_gefahrenschutz
-        identifier: kinder_gefahrenschutz_termine
 draft: false
 weight: 3
 ---

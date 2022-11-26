@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: kinder_gefahrenschutz
-        identifier: kinder_gefahrenschutz_kursaufbau
 draft: false
 weight: 1
 ---

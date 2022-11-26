@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: fitandsafe
-        identifier: fitandsafe_kursaufbau
 draft: false
 weight: 1
 ---

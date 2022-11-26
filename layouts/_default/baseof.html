@@ -53,6 +53,13 @@
       <a href="/index.html">
         <img src="/img/logo.jpg" alt="IFGE Logo" class="logo"/>
       </a>
+      <div class="center-nav">
+        <div class="topnav">
+          <div class="invert">
+            <a href='{{ relref . "onlineakademie" }}'>Online-Akademie</a>
+          </div>
+        </div>
+      </div>
       <div>
         {{ partial "site-navigation" . }}      
       </div>
@@ -85,9 +92,9 @@
   {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "subscribe.html" }} {{ end }}  
 
   <script>
+    const x = document.getElementById("topnavRef");
 
-    function toggleResponsive() {
-      var x = document.getElementById("myTopnav");
+    function toggleResponsive() {      
       if (x.className === "topnav") {
         x.className += " show";        
       } else {

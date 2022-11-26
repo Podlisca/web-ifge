@@ -153,6 +153,15 @@ img.blog {
   }
 }
 
+header .cont > div.center-nav {
+  display: none;
+  align-self: center;
+}
+
+header .center-nav .topnav a {
+  display: block;
+}
+
 @media (max-width: 700px) {
   body {
     grid-template-columns: auto;
@@ -161,6 +170,9 @@ img.blog {
   header img.logo {
     width: 100px;
     width: 60px;
+  }
+  header .cont > div.center-nav {
+    display: block;
   }
   .box:not(.menu) {
     flex-direction: column;

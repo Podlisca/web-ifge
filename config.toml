@@ -19,7 +19,7 @@ unsafe = true
 rich_provider = "IFGE"
 SiteDescription = "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie \"Supervision\" und \"Aufstellungsarbeit\", sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
 og_site_name = "IFGE - Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!"
-og_image = "/img/startseite_handy.jpg"
+og_image = "/img/silvia_onlineakdademie.jpg"
 
 [menu]
 
@@ -30,43 +30,63 @@ og_image = "/img/startseite_handy.jpg"
         weight = 1
 
     [[menu.main]]
-        name = "Dipl. Ausbildungen"
-        identifier = "ausb"
+        name = "Präsenz-Ausbildungen"
+        identifier = "praesenz"
         url = "#"       
         weight = 2
+
+    [[menu.main]]
+        name = "Dipl. Ausbildungen"
+        identifier = "diplomlehrgaenge"
+        url = "#"       
+        weight = 1
+        parent = "praesenz"
 
     [[menu.main]]
         name = "Upgrades"
         identifier = "upgrade"
         url = "#"       
-        weight = 3
+        weight = 2
+        parent = "praesenz"
 
     [[menu.main]]
         name = "Fortbildungen"
         identifier = "fortb"
         url = "#"       
-        weight = 4
+        weight = 3
+        parent = "praesenz"
 
     [[menu.main]]
-        name = "Online-Ausbildungen"
+        name = "Online-Live-Format"
         identifier = "online"
         url = "#"
         weight = 5
     
     [[menu.main]]
+        name = "Online-Akademie"
+        identifier = "onlineakademie"
+        url = "#"
+        weight = 6
+
+    [[menu.main]]
         name = "Supervision"
         identifier = "supervision"
         url = "#"
-        weight = 6
+        weight = 12
     
     [[menu.main]]
         name = "Gruppenselbsterfahrung"
         identifier = "gruppenselbsterfahrung"
         url = "#"
-        weight = 7
+        weight = 11
 
     [[menu.main]]
         name = "Psychosoziale Beratung"
         identifier = "psychologischeberatung"
         url = "#"
-        weight = 8
+        weight = 10
+
+    [[menu.main]]
+        name = "Videos"
+        url = "https://www.youtube.com/user/IFGEpodlisca/videos"
+        weight = 13

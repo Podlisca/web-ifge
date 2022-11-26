@@ -1,11 +1,11 @@
-<nav class="topnav" id="myTopnav">  
+<nav class="topnav" id="topnavRef">  
   <div class="toggleResponsive">
     <a href="javascript:void(0);" class="icon" onclick="toggleResponsive()">&#9776;</a>    
   </div>
   {{ $currentPage := . }}
   {{ range .Site.Menus.main }}
     {{ if .HasChildren }}
-      <div class="dropdown {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+      <div class="dropdown{{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }} {{ if eq .Identifier "onlineakademie" }} invert{{ end }}">
         <div class="mobile">
           <div class="has-dropdown">
             <a href="javascript:void(0);" onclick="toggleSubmenuMobile(this);">{{ .Name }} 
@@ -25,10 +25,25 @@
         </div>
 
         <div class="dropdown-content">
-          {{ range .Children }}              
+          {{ range .Children }}    
+
+            {{ if gt (len .Children) 0 }}
+              <div class="subtitle">{{ .Name }}</div>
+              <div class="subcontent">
+                {{ range .Children }}
+                  <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+              </div>
+            {{ else }}
               <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+          
           {{ end }}
         </div>
+      </div>
+    {{ else if (eq .Page nil) }}
+      <div>
+        <a href="{{ .URL }}" target="_blank">{{ .Name }}</a>
       </div>
     {{ else }}
       <div>

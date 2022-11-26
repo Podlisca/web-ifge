@@ -13,7 +13,7 @@ og_image: "/img/system_zettel_bgld.jpg"
 **von Sonja Vorderdörfler** 
 <br/>
 
-Das IFGE wächst und wächst: An mittlerweile drei Standorten finden parallel bis zu sieben wöchentliche Lehrgänge für die Diplomausbildung zur [Lebens- und Sozialberatung – psychosoziale Beratung](https://www.ifge.at/diplomlehrgaenge/lebensberatung_psychologische_beratung/) – statt. Aber wie kommt es, dass sich das Institut für ganzheitliches Erleben in den vergangenen Jahren so stark vergrößert hat? So viel sei verraten: Es gibt darauf mehr als nur eine Antwort.
+Das IFGE wächst und wächst: An mittlerweile drei Standorten finden parallel bis zu sieben wöchentliche Lehrgänge für die Diplomausbildung zur [Lebens- und Sozialberatung – psychosoziale Beratung](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) – statt. Aber wie kommt es, dass sich das Institut für ganzheitliches Erleben in den vergangenen Jahren so stark vergrößert hat? So viel sei verraten: Es gibt darauf mehr als nur eine Antwort.
 
 
 ### Sie haben mit Ihrem Team derzeit alle unterrichtenden Hände voll zu tun. Wie erklären Sie Ihren Erfolg? 

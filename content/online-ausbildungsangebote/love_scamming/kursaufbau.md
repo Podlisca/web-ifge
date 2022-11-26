@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: lovescamming
-        identifier: lovescamming_kursaufbau
 draft: false
 weight: 1
 ---

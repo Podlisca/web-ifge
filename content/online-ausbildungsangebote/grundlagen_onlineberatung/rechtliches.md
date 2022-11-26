@@ -1,9 +1,5 @@
 ﻿---
 title: "Rechtliches"
-menu: 
-    main:
-        parent: online_grundlagen
-        identifier: online_grundlagen_rechtliches
 draft: false
 weight: 4
 ---

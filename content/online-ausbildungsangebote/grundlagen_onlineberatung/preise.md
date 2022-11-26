@@ -1,9 +1,5 @@
 ﻿---
 title: "Preise"
-menu: 
-    main:
-        parent: online_grundlagen
-        identifier: online_grundlagen_preise
 draft: false
 weight: 2
 ---

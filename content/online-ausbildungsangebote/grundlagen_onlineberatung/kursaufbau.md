@@ -1,9 +1,5 @@
 ﻿---
 title: "Kursaufbau"
-menu: 
-    main:
-        parent: online_grundlagen
-        identifier: online_grundlagen_aufbau
 draft: false
 weight: 1
 ---

@@ -64,25 +64,6 @@ All diese Emotionen meinen Angehörige oft, unterdrücken zu müssen, um die Kra
 Am IFGE biete ich Ihnen die Möglichkeit, Ihre Gefühle zuzulassen, um damit in Ihrem Alltag umgehen zu können. Vielleicht gibt es Wichtiges, das Sie noch besprechen oder erleben möchten. Die große Angst, die Sie um Ihre Angehörigen haben, müssen Sie vor mir nicht – wie vielleicht zu Hause vor den Kindern – verbergen. Sie darf sein und findet in verständnisvoller Atmosphäre Platz. Die Überforderung, die Sie möglicherweise verspüren, findet hier bei mir Raum und darf ausgesprochen werden – frei von Bewertungen meinerseits. Welche Gefühle Sie auch immer bewegen und belasten, hier müssen Sie sich nicht verstellen. Warten Sie nicht, bis Sie Ihre Grenzen erreicht haben, sondern sorgen Sie gut für sich – gerade dann, wenn Sie das Bedürfnis haben, auch für andere zu sorgen. Denn nur wenn es IHNEN gut geht, können Sie kraftvoll für die erkrankte Person da sein!
 {{% /floatbox %}}
 
-{{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
-{{% /small %}}
-{{% /box %}}
-
-{{% box blue=1 %}}
-{{% small %}}
-{{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen" >}} 
-
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
- 
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
-{{% /small %}}
-{{% /box %}}
-{{% /floatbox %}}
-
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen

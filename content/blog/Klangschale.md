@@ -50,7 +50,7 @@ Konkret bedeutet das aus meiner langjährigen Erfahrung heraus, dass sich in vie
 
 ### Sie möchten das volle Potenzial der Klangschale selbst in Ihr Portfolio aufnehmen?
 
-In Kombination mit der psychosozialen Komponente ist die Klangschalenmassage damit ein besonders kräftiges und auch wohltuendes Tool, um prozessorientiert Klient\*innen nachhaltig auf verschiedenen Ebenen zu unterstützen. Falls auch Sie lernen möchten, wie Sie die Klangschale über den Entspannungs- und Erholungsfaktor hinaus für Ihre Klient*innen einsetzen können, informieren Sie sich gerne [hier](http://localhost:1313/psychologische-beratung/klangschalenmassage/) über unsere in Kürze beginnende, einwöchige [Intensivausbildung zur Klangschalenmassage](https://www.ifge.at/diplomlehrgaenge/klangschalenmassage/termine/).
+In Kombination mit der psychosozialen Komponente ist die Klangschalenmassage damit ein besonders kräftiges und auch wohltuendes Tool, um prozessorientiert Klient\*innen nachhaltig auf verschiedenen Ebenen zu unterstützen. Falls auch Sie lernen möchten, wie Sie die Klangschale über den Entspannungs- und Erholungsfaktor hinaus für Ihre Klient*innen einsetzen können, informieren Sie sich gerne [hier](http://localhost:1313/psychologische-beratung/klangschalenmassage/) über unsere in Kürze beginnende, einwöchige [Intensivausbildung zur Klangschalenmassage](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/klangschalenmassage/termine/).
 
 
 
