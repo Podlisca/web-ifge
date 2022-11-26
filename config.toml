@@ -39,21 +39,21 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         name = "Dipl. Ausbildungen"
         identifier = "diplomlehrgaenge"
         url = "#"       
-        weight = 3
+        weight = 1
         parent = "praesenz"
 
     [[menu.main]]
         name = "Upgrades"
         identifier = "upgrade"
         url = "#"       
-        weight = 4
+        weight = 2
         parent = "praesenz"
 
     [[menu.main]]
         name = "Fortbildungen"
         identifier = "fortb"
         url = "#"       
-        weight = 4
+        weight = 3
         parent = "praesenz"
 
     [[menu.main]]
@@ -72,21 +72,21 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         name = "Supervision"
         identifier = "supervision"
         url = "#"
-        weight = 7
+        weight = 12
     
     [[menu.main]]
         name = "Gruppenselbsterfahrung"
         identifier = "gruppenselbsterfahrung"
         url = "#"
-        weight = 8
+        weight = 11
 
     [[menu.main]]
         name = "Psychosoziale Beratung"
         identifier = "psychologischeberatung"
         url = "#"
-        weight = 9
+        weight = 10
 
     [[menu.main]]
         name = "Videos"
         url = "https://www.youtube.com/user/IFGEpodlisca/videos"
-        weight = "10"
+        weight = 13
