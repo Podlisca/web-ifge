@@ -147,25 +147,6 @@ Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele
 
 {{% /floatbox %}}
 
-{{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
-{{% /small %}}
-{{% /box %}}
-
-{{% box blue=1 %}}
-{{% small %}}
-{{< image src="/img/einzelberatung_weis_noe.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen." >}} 
-
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
- 
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](https://ifge.at/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/).
-{{% /small %}}
-{{% /box %}}
-{{% /floatbox %}}
-
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen

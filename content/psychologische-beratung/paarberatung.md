@@ -106,26 +106,6 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 {{% /box %}}
 
 
-
-{{% floatbox %}}
-{{< line icon="/icon/beratung.png" >}}
-{{% box blue=1 %}}
-{{% small %}}
-## [Einzelselbsterfahrung mit Silvia Podlisca](/psychologische-beratung/einzelberatung/)
-{{% /small %}}
-{{% /box %}}
-
-{{% box blue=1 %}}
-{{% small %}}
-{{< image src="/img/einzel_noe5.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an." >}} 
-
-Durch die vermehrte Unterrichtstätigkeit von Frau Silvia Podlisca wurde der Arbeitsschwerpunkt der psychologischen Beratung auf [Gruppenselbsterfahrung](/gruppenselbsterfahrung/gruppenselbsterfahrung/) gelegt.  Es finden zahlreiche [Gruppen](/gruppenselbsterfahrung/termine/) (vormittags und nachmittags) sowie auch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) unter der Leitung von Frau Podlisca statt. Bei Fragen kontaktieren Sie bitte Frau [Silvia Podlisca](/about/ueber_mich/).
- 
-Selbstverständlich können wie gewohnt Termine mit Frau Silvia Podlisca für [Einzelstunden](/psychologische-beratung/einzelberatung/) vereinbart werden. **Termine für Einzelberatungen** sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/).
-{{% /small %}}
-{{% /box %}}
-{{% /floatbox %}}
-
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
 
