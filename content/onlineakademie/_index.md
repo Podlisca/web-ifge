@@ -19,15 +19,13 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/phil_onlinakademie1.jpg" float="left" title="" >}} 
+{{< image src="/img/silvia_onlineakdademie.jpg" float="left" title="" >}} 
 
 ## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
 Wir wissen: Aus- und Weiterbildung ist dann erfolgreich, wenn sich Kurse gut in den Alltag integrieren lassen. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir unterschiedliche Lerntypen sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
 
 Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.
-
-{{% silvia %}}
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
