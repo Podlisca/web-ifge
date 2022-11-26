@@ -82,7 +82,7 @@ Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandl
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 {{< youtube UyylWt2Vyd4>}}
 ***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+[![Bildbeschreibung](/img/kurs_kaufen_ks.png)](https://www.ifge.at/anmeldung.php)
 ***
 {{% /small %}}
 

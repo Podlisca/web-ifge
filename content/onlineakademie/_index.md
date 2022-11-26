@@ -19,7 +19,7 @@ aliases:
 
 {{% floatbox %}}
 
-{{< image src="/img/onlienausbildung.jpg" float="left" title="" >}} 
+{{< image src="/img/phil_onlinakademie.jpg" float="left" title="" >}} 
 
 ### Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
