@@ -21,13 +21,15 @@ aliases:
 
 {{< image src="/img/phil_onlinakademie1.jpg" float="left" title="" >}} 
 
-### Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
 Wir wissen: Aus- und Weiterbildung ist dann erfolgreich, wenn sich Kurse gut in den Alltag integrieren lassen. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir unterschiedliche Lerntypen sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
 
 Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.
 
 {{% silvia %}}
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% /floatbox %}}
 
@@ -46,7 +48,7 @@ Die Kurse der IFGE-Online-Akademie finden zu 100% im digitalen Raum statt. Ganz 
 ## Digital, aber menschlich und persönlich.
 
 {{% floatbox %}}
-{{< image src="/img/philosophie_online1.jpg" title="Bildbeschreibung"float="right" >}}
+{{< image src="/img/ks_online_philo.jpg" title="Bildbeschreibung"float="right" >}}
 
 An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzeitig liegen uns Menschlichkeit und Persönlichkeit am Herzen. Unseren Lehrgangsteilnehmer*innen stehen wir trotz 100%-Online-Lehrgänge für Fragen jederzeit zur Verfügung. Individuell planbare Beratungen und Coachings sind ebenfalls Teil der Kurse.
 
@@ -73,6 +75,7 @@ An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzei
 {{% kursbox %}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
 {{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+
 {{% /kursbox %}}
 
 ***
@@ -87,13 +90,6 @@ An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzei
 
 
 ### Sie sind auch an unseren Präsenzausbildungen interessiert? Dann finden Sie [hier](praesenz-ausbildungen/) einen Überb[ick:]()
-
-
-
-
-
-
-
 
 
 
