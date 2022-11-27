@@ -24,13 +24,24 @@ rich_logo: true
 
 {{< line icon="icon/silvia.png" >}}
 
-{{% floatbox %}} 
-{{< image src="/img/institut_bgld.jpg"title="´Silvia Podlisca leitet das zertifiziertes Ausbildungsinstitut für Lebens- und Sozialberatung - psychosoziale Beratung, Supervision, Aufstellungen mit viel Freude am Tun. Selbstverständlich arbeitet Silvia Podlisca nach wie vor in der freien Praxis und bietet psychosoziale Beratung, Krisenintervention, Familienaufstellungen, tiergestützte Beratung, Einzelsupervision und Coaching in Wien, Niederösterreich und Burgenland an." float="left" >}}
 
-Im April 2000 gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. 
+<div class="box video">
+{{% small %}}
 
-Durch die vermehrte Seminar- und Unterrichtstätigkeit sowie die Firmenbetreuung erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der Firmenname nochmals auf {{< red >}}**I**{{< /red >}}nstitut {{< red >}}**f**{{< /red >}}ür {{< red >}}**g**{{< /red >}}anzheitliches {{< red >}}**E**{{< /red >}}rleben (IFGE) –  Silvia Podlisca e.U. geändert. Mit der Bekanntheit des nunmehrigen IFGE – wo fortan {{< red >}}**I**{{< /red >}}ntuition, {{< red >}}**F**{{< /red >}}achwissen, {{< red >}}**G**{{< /red >}}efühl und {{< red >}}**E**{{< /red >}}rfolg vereint wurden – stieg die Nachfrage an Seminaren, Workshops und Zusatzausbildungen. So entschied ich mich, das IFGE gänzlich um den [Ausbildungsschwerpunkt](/praesenz-ausbildungen/diplomlehrgaenge/) zu erweitern.
-{{% /floatbox %}}
+{{< youtube 17RcDuirOWs>}}
+
+
+{{% /small %}}
+
+{{% small %}}
+Im **April 2000** gründete ich meine energetische Praxis in Wien mit dem Ziel, Menschen in schwierigen Situationen zu begleiten und zu unterstützen. Ich konzentriere mich bei meiner Arbeit auf Einzelpersonen, wie auch auf Teams und Gruppen. 
+
+Durch die **vermehrte Seminar- und Unterrichtstätigkeit** sowie die **Firmenbetreuung** erfolgte 2009 die Namensänderung auf Institut für ganzheitliches Erleben (IFGE) – Energetische Praxis – Silvia Podlisca e.U. Genau zehn Jahre später wurde der **Firmenname** nochmals auf **{{< red >}}I**{{< /red >}}nstitut {{< red >}}**f**{{< /red >}}ür {{< red >}}**g**{{< /red >}}anzheitliches {{< red >}}**E**{{< /red >}}rleben (IFGE) –  Silvia Podlisca e.U.  geändert. Kurz: **IFGE** – wo fortan {{< red >}}**I**{{< /red >}}ntuition, {{< red >}}**F**{{< /red >}}achwissen, {{< red >}}**G**{{< /red >}}efühl und {{< red >}}**E**{{< /red >}}rfolg vereint werden. 
+{{% /small %}}
+</div> 
+
+
+
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 

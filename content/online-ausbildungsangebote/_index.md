@@ -38,6 +38,7 @@ Ganz im Gegenteil: Es ist fester Bestandteil der IFGE-Philosophie immer wieder *
 {{% /small %}}
 
 </div> 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 ## Online-Live-Kurse: Was bedeutet das? Und was bringt es?
 
