@@ -66,10 +66,11 @@
     </div>
   </header>
 
-  <ifge-buchung></ifge-buchung>
-
-  <main>    
+  <main>
     <div class="cont">
+      <ifge-buchung veranstaltungen='{{ delimit $.Site.Data.anmeldung.kurse.Kurse ";" }}'></ifge-buchung>
+      <ifge-buchung veranstaltung='Roman 1' title="Jetzt kaufenb"></ifge-buchung>
+
       {{ block "main" . }}
       {{ end }}
       
