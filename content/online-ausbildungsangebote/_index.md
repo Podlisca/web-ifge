@@ -17,22 +17,36 @@ aliases:
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube 17RcDuirOWs>}}
+
+
+{{% /small %}}
+
+{{% small %}}
 # Wir machen Weiterbildung möglich: Unsere Online-Live-Lehrgänge.
+
+Als Institut mit mehr als **20 Jahren Erfahrung** ist es für uns selbstverständlich konstant mit der Zeit zu gehen. Selbstverständlich die Augen nicht vor Veränderung und Wandel zu verschließen. 
+
+Ganz im Gegenteil: Es ist fester Bestandteil der IFGE-Philosophie immer wieder **neue Impulse** zu setzen und neue Richtungen einzuschlagen. So bieten wir bereits seit einiger Zeit **Online-Live-Weiterbildungen** an.
+
+
+{{% /small %}}
+
+</div> 
+
+## Online-Live-Kurse: Was bedeutet das? Und was bringt es?
+
+Unsere Weiterbildungen im Online-Live-Format kombinieren die Vorteile von digitalen Settings mit den Vorteilen von Präsenzkursen.
+
+ Wir nutzen dabei sozusagen das Beste aus beiden Welten. Konkret bedeutet das, dass die Fortbildungen zu fixen Terminen im Gruppensetting stattfinden. Allerdings gänzlich im Online-Raum, weshalb Teilnehmer*innen örtlich flexibel sind. Moderne technische Systeme sowie Sicherheit in der Online-Welt sind für uns Voraussetzung für erfolgreiche digitale Weiterbildungen.
 
 
 {{% floatbox %}}
-
-{{< image src="/img/silvia_onlineakdademie.jpg" float="left" title="Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebettet und genützt werden." >}} 
-
-Als Institut mit mehr als 20 Jahren Erfahrung ist es für uns selbstverständlich konstant mit der Zeit zu gehen. Selbstverständlich die Augen nicht vor Veränderung und Wandel zu verschließen. 
-
-Ganz im Gegenteil: Es ist fester Bestandteil der IFGE-Philosophie immer wieder neue Impulse zu setzen und neue Richtungen einzuschlagen. So bieten wir bereits seit einiger Zeit Online-Live-Weiterbildungen an.
-
-
-### Online-Live-Kurse: Was bedeutet das? Und was bringt es?
-
-Unsere Weiterbildungen im Online-Live-Format kombinieren die Vorteile von digitalen Settings mit den Vorteilen von Präsenzkursen. Wir nutzen dabei sozusagen das Beste aus beiden Welten. Konkret bedeutet das, dass die Fortbildungen zu fixen Terminen im Gruppensetting stattfinden. Allerdings gänzlich im Online-Raum, weshalb Teilnehmer*innen örtlich flexibel sind. Moderne technische Systeme sowie Sicherheit in der Online-Welt sind für uns Voraussetzung für erfolgreiche digitale Weiterbildungen.
-
 
 
 ## Ein Format. Viele Vorteile.  

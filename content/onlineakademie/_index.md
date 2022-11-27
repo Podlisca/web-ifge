@@ -15,17 +15,29 @@ aliases:
 # Philosophie: Online Schulungen & Trainings 
 
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube 17RcDuirOWs>}}
+
+
+{{% /small %}}
+
+{{% small %}}
+## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
+
+**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+
+{{% /small %}}
+</div> 
+
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_onlineakdademie.jpg" float="left" title="" >}} 
-
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
-
-Wir wissen: Aus- und Weiterbildung ist dann erfolgreich, wenn sich Kurse gut in den Alltag integrieren lassen. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir unterschiedliche Lerntypen sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
-
-Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -36,7 +48,7 @@ Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.
 {{% small  %}}
 ## Weiterbildung: Flexibel und individuell.
 
-Die Kurse der IFGE-Online-Akademie finden zu 100% im digitalen Raum statt. Ganz ohne vorab fix eingeplante Termine. So wird Weiterbildung zu einem ganz neuen Erlebnis, flexibler und individueller als jemals zuvor. Teilnehmer*innen können rund um die Uhr auf mehr als 100 Lehrvideos zugreifen und so ganz nach persönlichen Bedürfnissen Neues lernen. Dabei setzen wir auf didaktische Vielfalt. Die Lehrvideos bieten nicht nur Vorträge, sondern auch zahlreiche praktische Übungen. 
+Die Kurse der **IFGE-Online-Akademie** finden zu **100% im digitalen Raum** statt. Ganz ohne vorab fix eingeplante Termine. So wird Weiterbildung zu einem ganz neuen Erlebnis, **flexibler und individueller** als jemals zuvor. Teilnehmer*innen können rund um die Uhr auf mehr als 100 Lehrvideos zugreifen und so ganz nach persönlichen Bedürfnissen **Neues lernen.** Dabei setzen wir auf **didaktische Vielfalt**. Die Lehrvideos bieten nicht nur Vorträge, sondern auch **zahlreiche praktische Übungen**. 
 
 {{% /small  %}}
 {{% /box %}}
@@ -48,7 +60,7 @@ Die Kurse der IFGE-Online-Akademie finden zu 100% im digitalen Raum statt. Ganz 
 {{% floatbox %}}
 {{< image src="/img/ks_online_philo.jpg" title="Bildbeschreibung"float="right" >}}
 
-An der IFGE-Online-Akademie nutzen wir die Vorteile digitaler Formate. Gleichzeitig liegen uns Menschlichkeit und Persönlichkeit am Herzen. Unseren Lehrgangsteilnehmer*innen stehen wir trotz 100%-Online-Lehrgänge für Fragen jederzeit zur Verfügung. Individuell planbare Beratungen und Coachings sind ebenfalls Teil der Kurse.
+An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleichzeitig liegen uns Menschlichkeit und Persönlichkeit am Herzen. Unseren Lehrgangsteilnehmer*innen stehen wir trotz **100%-Online-Lehrgänge** für Fragen jederzeit zur Verfügung. Individuell planbare Beratungen und Coachings sind ebenfalls Teil der Kurse.
 
 * 100%-Online-Weiterbildungen
 * Individuelles und flexibles Kursformat
