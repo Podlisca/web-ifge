@@ -51,19 +51,17 @@ weight: 1
 
 #### Kick-off 
 #### Kursmaterial für eine Woche
-* Allgemeine Grundlagen in der Beratung
-* Abgrenzung: psychosoziale Beratung / Coaching / Training / Therapie / Psychologie in Österreich
-* Setting: psychologische Beratung allgemein & online
+* Grundlagen der psychosozialen Beratung/Coaching
+* Das Setting: psychosoziale Beratung/Coaching
 * Setting: psychologische Beratung Hunde & Katzen
 * Setting: psychologische Beratung Pferde
-* Berufsbild / rechtliche Grundlagen
-* Historie Tiergestützte
-* Möglichkeiten & Grenzen
-* Auftragsklärung / Zielfindung
-* Beratungsverlauf & Bella & Plissit 
-* Schulz von Thun
-* Transaktionsanalyse
-* Beratungsgespräche / Videosequenzen
+* Historischer Hintergrund tiergestützter Interventionen
+* Psychosoziale Berufsbilder & deren Abgrenzungen
+* Online Setting - Coaching via E-Mail/Chat
+* Möglichkeiten & Grenzen des tiergestützten Coaching
+* Die Auftragsklärung & Vertrag
+* Praktische Übungen
+* Praktische Übung Auflösung
 
 
 {{% /small  %}}
@@ -147,6 +145,7 @@ weight: 1
 * Pferdegestützte Interventionen - allgemein
 * Beratungsgespräche / Videosequenzen
 * viele tierische Tipps und Tools
+* Test 
 
 
 {{% /small  %}}
@@ -217,4 +216,4 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turn
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}

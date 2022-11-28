@@ -75,6 +75,6 @@ Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen und Pädagog\*innen, He
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
 
 
