@@ -12,7 +12,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 
 {{< slogan >}}
 
-{{% banner img_position_x="90%" img_position_y="20%" alt="Silvia Podlisca" %}}
+{{% banner img_position_x="85%" img_position_y="20%" alt="Silvia Podlisca" %}}
 
 {{% intro %}}
 
