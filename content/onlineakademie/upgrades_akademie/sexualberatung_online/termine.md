@@ -5,9 +5,9 @@ weight: 3
 ---
 
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -22,11 +22,12 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
+## Seite im Aufbau
 
 <div class="box video">
 {{% small %}}
 
-{{< youtube IxSbDHtndzA>}}
+{{< youtube 17RcDuirOWs>}}
 
 
 {{% /small %}}
@@ -42,5 +43,5 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 </div> 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. (Start nach Zahlungseingang)" >}}

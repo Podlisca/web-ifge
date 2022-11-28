@@ -24,7 +24,7 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 * **Ausbildungskosten:€ 290,-** <br/>
-Zahlung nach Anmeldung. <br/>
+Zahlung sofort  <br/>
 
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)

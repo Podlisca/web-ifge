@@ -24,12 +24,11 @@ weight: 4
 
 * Die Ausbildung ist für alle offen
 
-Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
 
-Um Ihnen den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+Um Ihnen den Zugang frei zu schalten, ist nach Anmeldung die Zahlung sofort auf das Konto
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
@@ -37,23 +36,21 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Tiergestütztes Coaching + Ihren Namen" an.
+zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Erste Hilfe für Tiere + Ihren Namen" an.
 
 
-Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
+Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
 
-Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
 ### 1.	Leistung
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Onlineausbildung Erste Hilfe für Tiere“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 ### 2.	Zugang
-Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
-
-Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Diese Zustimmung kann nicht zurück genommen werden.  Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
+Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
 
 ### 3.	Nutzungsbedingungen
 Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
@@ -67,3 +64,5 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 
 ### 4. Gerichtstand:
 Wien, Österreich
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. (Start nach Zahlungseingang)" >}}
