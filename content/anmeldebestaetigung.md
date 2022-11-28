@@ -19,7 +19,7 @@ conversiontracker: true
 
 Vielen Dank für Ihre Anmeldung!
 
-In Kürze Erhalten Sie Ihre Anmeldebestätigung per E-Mail. 
+In Kürze erhalten Sie Ihre Anmeldebestätigung per E-Mail. 
 
 Bitte beachten Sie, dass dies noch keine verbindliche Platzreservierung darstellt.  
 Diese erhalten Sie von mir in einer weiteren E-Mail. 
