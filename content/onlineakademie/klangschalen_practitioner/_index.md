@@ -51,7 +51,7 @@ rich_faq:
 * **Dein flexibler Ausbildungsweg**<br/>
 Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
 * **Deine beruflichen Möglichkeiten**<br/>
-Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
+Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffnen sich dir neue berufliche Möglichkeiten. Nutze das neu erworbene Wissen privat oder baue dir ein neues Standbein in freier Praxis auf. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
