@@ -30,7 +30,12 @@ export class AppComponent implements AfterViewInit {
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
 
   @Input() text = "Kaufen";
-  @Input() aufstellungen = false;
+
+  private _aufstellungen = false;
+  get aufstellungen() { return this._aufstellungen; }
+  @Input() set aufstellungen(value: BooleanInput) {
+    this._aufstellungen = coerceBooleanProperty(value);
+  };
 
   private _expandable = true;
   get expandable() { return this._expandable; }
