@@ -54,13 +54,11 @@ export class AppComponent implements AfterViewInit {
     const scriptElement = this.loadJsScript(this.renderer, RECAPTCHA_API + "?render=" + this.recaptchaSiteKey);
     scriptElement.onload = () => {
 
-      this.form.nativeElement.addEventListener('submit', (event: any) => {
-        console.log("onsubmit");
+      this.form.nativeElement.addEventListener('submit', (event: any) => {        
         event.preventDefault();
         grecaptcha.ready(() => {
-          grecaptcha.execute('6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8', { action: 'submit' }).then((token: any) => {
-            this.recaptchaResponseField.nativeElement.value = token;
-            console.log(token)
+          grecaptcha.execute(this.recaptchaSiteKey, { action: 'submit' }).then((token: any) => {
+            this.recaptchaResponseField.nativeElement.value = token;            
             this.form.nativeElement.submit();
           });
         });

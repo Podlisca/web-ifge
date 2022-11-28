@@ -1,7 +1,6 @@
-import { enableProdMode, importProvidersFrom } from '@angular/core';
+import { enableProdMode } from '@angular/core';
 import { createCustomElement } from '@angular/elements';
 import { bootstrapApplication, createApplication } from '@angular/platform-browser';
-import { BrowserAnimationsModule, provideAnimations } from '@angular/platform-browser/animations';
 import { AppComponent } from './app/app.component';
 
 import { environment } from './environments/environment';
@@ -13,10 +12,10 @@ if (environment.production) {
 if (!environment.production) {
   console.log("ltw development")
   // for development mode only
-  bootstrapApplication(AppComponent, 
-  //   {
-  //   providers: provideAnimations()
-  // }
+  bootstrapApplication(AppComponent,
+    //   {
+    //   providers: provideAnimations()
+    // }
   );
 }
 else {
