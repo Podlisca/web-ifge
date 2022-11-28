@@ -23,15 +23,16 @@ aliases:
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 {{% float-images %}}
-{{< image src="/img/philo_upgrades1.jpg" >}}
+{{< youtube 17RcDuirOWs>}}
 {{< linebreak >}}
 {{< image src="/img/philo_upgrades2.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
 {{< linebreak >}}
 {{% /float-images %}}
+
 
 ## Menschen bilden, begleiten und bereichern
 
@@ -39,7 +40,7 @@ Das [Institut für ganzheitliches Erleben (IFGE)](https://www.ifge.at/about/inst
 
 Unter der Leitung von [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) werden am IFGE seit Jahren zukünftige [psychosoziale Berater\*innen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) allumfassend ausgebildet. Im Institut können Teilnehmer\*innen und Absolvent\*innen gleichsam eine Vielzahl an [Diplomausbildungen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/), [(Online)](https://www.ifge.at/online-ausbildungsangebote/onlinephilosophie/)[Fortbildungen](https://www.ifge.at/praesenz-ausbildungen/fortbildungen/) und [Upgrades](https://www.ifge.at/upgrades/) in Anspruch nehmen. 
 
-Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode: 
+Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
 
 **SGF®-Methode**
 **Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca**
@@ -50,8 +51,6 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 
 {{< silvia >}}
-
-{{% /floatbox %}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}

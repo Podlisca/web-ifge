@@ -27,79 +27,18 @@ weight: 3
 <div class="box video">
 {{% small %}}
 
-### Hier ein kleiner Einblick 
-{{< youtube Ff0OHNdKnHo>}}
+{{< youtube 17RcDuirOWs>}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
+
 {{% small %}}
+## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
-### Ausführliches Infovideo 
-{{< youtube WonAhSP6B8c>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
+
+**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+
 {{% /small %}}
-{{% small %}}
-
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< image src="/img/kurs_kaufen_tiere1.jpg" >}}
-
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
-{{% /small %}}
-
 </div> 
-
-<br/>
-
-## ONLIne: Live - Infosveranstaltungen
-
-<br/>
-
-{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
-
-***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Infovideo ansehen & los geht´s
-{{< youtube WonAhSP6B8c>}}
-{{%/small  %}}
-
-{{% small  %}}
-
-#### Interaktive Lehrveranstaltungen
-
-**ca. alle 14 Tage** <br/> 
-Termine werden bei Anmeldung bekannt gegeben
-
-Online von 18:30 Uhr - 20:00 Uhr
-
-<br/> 
-
-
-{{% /small  %}}
-
-
-{{% small  %}}
-#### Intensivtraining in Pinkafeld
-
-* **Start:** 24.07. - 28.07.2023
-<br/>Mo. - Do. 09:00 bis 18:00 Uhr
-<br/>Fr. 09:00 bis 14:00 Uhr
-<br/>
-
-
-[Anmeldung](/anmeldung.php)
-
-
-
-{{% /small  %}}
-
-{{% /box %}}
-
 

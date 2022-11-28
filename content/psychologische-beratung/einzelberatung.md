@@ -18,23 +18,25 @@ og_image: "/img/einzel_2023.jpg"
 
 {{< line icon="icon/beratung.png" >}}
 
-{{% floatbox %}}
+<div class="box video">
+{{% small %}}
 
-## Psychosoziale Beratung - der Weg in ein erfülltes Leben
-
-{{< image src="/img/einzel_2023.jpg" float="left" title="Wenn Lustlosigkeit, Sinnlosigkeit, Wut, Kummer, Trauer, Sorgen und Ängste Sie ständig begleiten oder Sie nur mehr funktionieren, kann Lebensberatung – psychosoziale Beratung Sie unterstützen und zu neuer Lebensfreude und Sinnfindung führen. Zum Unterschied zur Psychotherapie verzichtet die Lebensberatung – psychosoziale Beratung auf Diagnosen da der Mensch und menschliche Zustände nicht als Störung betrachtet werden, sondern als wertvolle Hinweise, die bereits den ersten Schritt in Richtung Lösung verbergen. Dies setzt voraus, dass Sie den Alltag noch meistern können oder bei Bedarf zusätzlich ihren Arzt des Vertrauens einbeziehen. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychosoziale Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin ist seit 2o Jahren im psychosozialen Bereich tätig und bieten in Wien, Niederösterreich und Burgenland psychosoziale Beratungen, Sexualberatung sowie Familienaufstellungen an." >}} 
-
-Die klassische Lebens- und Sozialberatung – auch psychosoziale Beratung genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, individuelle Lösungen für Ihre Herausforderungen zu finden.
-
-Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und genügend Zeit und Raum haben, in einem geschützten Rahmen zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. In meinen Beratungsräumen können Sie alle Ängste und Gefühle wie Ärger, Kränkungen, Enttäuschungen ... – aber auch alle euphorischen Gefühle – zuzulassen.
-<br/>
-Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
-<br/>
-<br/>
-{{< silvia >}}
+{{< youtube 17RcDuirOWs>}}
 
 
-{{% /floatbox %}}
+{{% /small %}}
+
+{{% small %}}
+### Psychosoziale Beratung - der Weg in ein erfülltes Leben
+
+
+Die klassische **Lebens- und Sozialberatung – auch psychosoziale Beratung** genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, **individuelle Lösungen** für Ihre Herausforderungen zu finden.
+
+Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und **genügend Zeit und Raum** haben, in einem **geschützten Rahmen** zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. 
+
+{{% /small %}}
+
+</div> 
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
