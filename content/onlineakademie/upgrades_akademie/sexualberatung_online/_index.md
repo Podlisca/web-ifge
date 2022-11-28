@@ -3,7 +3,7 @@ title: "Upgrade Sexualberatung Online"
 menu: 
     main:
         parent: upgrade_akademie
-        identifier: upgrade_sexualberatung
+        identifier: upgrade_sexualberatung_online
 draft: false
 weight: 4
 description: "Ihr Upgrade in der Sexualberatung im 100% Online-Format"
