@@ -30,30 +30,24 @@ weight: 3
 ### Hier ein kleiner Einblick 
 {{< youtube Ff0OHNdKnHo>}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 {{% small %}}
 
 ### Ausführliches Infovideo 
 {{< youtube WonAhSP6B8c>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 {{< image src="/img/kurs_kaufen_tiere1.jpg" >}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 
 </div> 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
 <br/>
 
 ## ONLIne: Live - Infosveranstaltungen
@@ -103,3 +97,4 @@ Online von 18:30 Uhr - 20:00 Uhr
 {{% /box %}}
 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
