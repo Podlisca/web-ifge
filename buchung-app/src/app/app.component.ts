@@ -1,8 +1,9 @@
-import { animate, style, transition, trigger } from '@angular/animations';
-import { CommonModule } from '@angular/common';
-import { Component, Input, ViewEncapsulation } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { BooleanInput, coerceBooleanProperty } from '@angular/cdk/coercion';
+import { CommonModule, DOCUMENT } from '@angular/common';
+import { AfterViewInit, Component, ElementRef, Inject, Input, Renderer2, ViewChild, ViewEncapsulation } from '@angular/core';
+
+const RECAPTCHA_API = 'https://www.google.com/recaptcha/api.js';
+declare let grecaptcha: any;
 
 @Component({
   selector: 'app-root',
@@ -11,33 +12,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
   styleUrls: ['./app.component.css'],
   encapsulation: ViewEncapsulation.ShadowDom,
   imports: [
-     CommonModule
+    CommonModule
   ],
-  animations: [
-    trigger(
-      'inOutAnimation',
-      [
-        transition(
-          ':enter',
-          [
-            style({ height: 0, opacity: 1 }),
-            animate('0.3s ease-out',
-              style({ height: 1000, opacity: 1 }))
-          ]
-        ),
-        transition(
-          ':leave',
-          [
-            style({ height: 800, opacity: 1 }),
-            animate('0.3s ease-in',
-              style({ height: 0, opacity: 1 }))
-          ]
-        )
-      ]
-    )
-  ]
 })
-export class AppComponent {
+export class AppComponent implements AfterViewInit {
 
   _veranstaltungen: string[] = [];
   @Input() set veranstaltungen(val: string) {
@@ -49,11 +27,57 @@ export class AppComponent {
     this._veranstaltungSelected = val;
   }
 
-  @Input() recaptchaSiteKey: string | undefined;
+  @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
 
-  @Input() title = "Kaufen";
+  @Input() text = "Kaufen";
   @Input() aufstellungen = false;
-  @Input() expandable = true;
+
+  private _expandable = true;
+  get expandable() { return this._expandable; }
+  @Input() set expandable(value: BooleanInput) {
+    this._expandable = coerceBooleanProperty(value);
+  }
 
   expanded = false;
+
+  @ViewChild('cform') form!: ElementRef
+  @ViewChild('recaptchaResponse') recaptchaResponseField!: ElementRef
+
+  recaptchaResponse: string = "";
+
+  constructor(
+    private renderer: Renderer2,
+    @Inject(DOCUMENT) private document: Document) {
+  }
+
+  ngAfterViewInit(): void {
+    const scriptElement = this.loadJsScript(this.renderer, RECAPTCHA_API + "?render=" + this.recaptchaSiteKey);
+    scriptElement.onload = () => {
+
+      this.form.nativeElement.addEventListener('submit', (event: any) => {
+        console.log("onsubmit");
+        event.preventDefault();
+        grecaptcha.ready(() => {
+          grecaptcha.execute('6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8', { action: 'submit' }).then((token: any) => {
+            this.recaptchaResponseField.nativeElement.value = token;
+            console.log(token)
+            this.form.nativeElement.submit();
+          });
+        });
+      });
+
+    }
+    scriptElement.onerror = () => {
+      console.log('Could not load the Google API Script!');
+    }
+  }
+
+  private loadJsScript(renderer: Renderer2, src: string): HTMLScriptElement {
+    const script = renderer.createElement('script');
+    script.type = 'text/javascript';
+    script.src = src;
+    renderer.appendChild(this.document.body, script);
+    return script;
+  }
+
 }

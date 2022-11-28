@@ -1,10 +1,10 @@
 <button class="button" style="width: 100%;" (click)="expanded = !expanded" *ngIf="expandable">
-    {{ title }}
+    {{ text }}
     <span style="font-size: 0.7rem;">{{ expanded ? '&#9650;' : '&#9660;'}}</span>
 </button>
 
-<div *ngIf="!expandable || expanded" [@inOutAnimation] style="margin-top: 1rem;">
-    <form method="post" action="anmeldung.php" id="cform">
+<div id="form-container" [class.show]="!expandable || expanded">
+    <form method="post" action="/anmeldung_neu.php" #cform>
         <div class=formular>
             <label for="anrede" class="required">Anrede</label>
             <div>
@@ -70,7 +70,7 @@
             <input type="checkbox" id="wdruf" name="Widerrufsbelehrung" value="ja" required>
             <label for="datenschutz" class="required">Es gilt die Datenschutzerklärung</label>
             <input type="checkbox" id="datenschutz" name="Datenschutzerklärung" value="ja" required>
-            <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+            <input type="hidden" name="recaptcha_response" #recaptchaResponse>
             <div></div>
             <input type="submit" class="button" value="Absenden">
         </div>

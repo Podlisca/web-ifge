@@ -13,15 +13,17 @@ if (environment.production) {
 if (!environment.production) {
   console.log("ltw development")
   // for development mode only
-  bootstrapApplication(AppComponent, {
-    providers: provideAnimations()
-  });
+  bootstrapApplication(AppComponent, 
+  //   {
+  //   providers: provideAnimations()
+  // }
+  );
 }
 else {
   // get a hand on the `ApplicationRef` to access its injector
   createApplication({
     providers: [
-      provideAnimations()
+      // provideAnimations()
     ]
   }).then((appRef) => {
     // create a constructor of a custom element

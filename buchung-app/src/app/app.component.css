@@ -48,3 +48,25 @@
 .button:hover {
     cursor: pointer;
 }
+
+#form-container {
+    display: none;
+    margin-top: 1rem;
+}
+
+#form-container.show {
+    display: block;
+}
+
+@media (max-width: 700px) {
+    .formular {
+        grid-template-columns: auto;
+        row-gap: 0.2em;
+    }
+
+    .formular label {
+        margin-top: 0.6em;
+        text-align: left;
+        padding: 2px;
+    }
+}
