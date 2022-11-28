@@ -76,17 +76,15 @@ weight: 1
 * Wichtige Begriffe im tiergestützten Coaching
 * Interventionsmöglichkeiten
 * Tierische Gesetze in Österreich
-* Erste Hilfe für Hund, Katze & Pferd Teil 1 
-* Erste Hilfe für Hund, Katze & Pferd Teil 2 
+* Erste Hilfe Hund, Katze & Pferd Teil 1 & 2 
 * Praktische Übung: Erste Hilfe am Tier
 * Hundegestütztes Setting: Outdoor
 * Hundegestützes Setting: Outdoor - Folgegespräch
 * Pferdegestütztes Setting: Selbstbewusstsein stärken
 * Pferdegestützte Time-Line
 * Kommunikation der Tiere
-* Kindchen Schema
+* Kindchenschema
 * Körpersprache Tieren
-* Beratungsgespräche / Videosequenzen
 
 {{% /small  %}}
 {{% small  %}}
@@ -106,10 +104,10 @@ weight: 1
 * Das Rubikonmodell
 * Triangualtion & Dyade
 * Die Transaktionsanalyse
-* Reflexionsübung: Deine Beziehung zum Tier
-* Besonderheiten Hund in der Beratung
-* Besonderheiten Katz in der Beratung
-* Beratungsgespräche / Videosequenzen
+* Reflexionsübung: Beziehung zum Tier
+* Das systemische Porträt
+* Tiergestützte Setting: Berufliches Thema
+* Hundegestütztes Setting: Outdoor-Thema Selbstwert
 
 
 {{% /small%}}
@@ -120,17 +118,19 @@ weight: 1
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* Konflikte entstehen im Kopf
-* Krisen im menschlichen Leben
-* Burnout und Stress
-* Boreout
-* Mobbing
-* Treppenstufenmodell der Aggression
-* Aggression / Frustration
-* Motivierende Gesprächsführung / Ambivalezbildung
-* Die Du-Evidenz & Biophiliehypothese
-* Biopsychosoziale Wirkungsfelder von tiergestützter Beratung
-* Beratungsgespräche / Videosequenzen
+* Systemische Grundlagen und Vertreter*innen
+* Rahmenbedingungen, Haltungen bei Aufstellungen
+* Die Phänomenologische Perspektive
+* Systemische Aufstellungsarbeit - Regeln
+* System. Aufstellungsarbeit - Dynamiken
+* Dynamiken: Nachfolge-Übernahme-Hinbewegung
+* Weitere systemische Interventionen
+* Grundlagen der systemischen Tieraufstellung
+* Klientengespräch: Gewitterangst
+* Hundegestütztes Setting: Folgegespräch
+* Tiergestützes Setting: Die Glaubenssatzaufstellung
+* Katzengestütztes Setting: Monodrama
+* Wieder was zum Schmunzeln
 
 
 {{% /small  %}}
@@ -139,13 +139,20 @@ weight: 1
 #### Turnus 4
 #### Kursmaterial für drei Wochen
 
-* Grundlagen der Systemische Aufstellungsarbeit
-* Systemische Tieraufstellung
-* Time Line mit Pferden
-* Pferdegestützte Interventionen - allgemein
-* Beratungsgespräche / Videosequenzen
-* viele tierische Tipps und Tools
-* Test 
+* Das Gehirn: 3-Speicher-Modell
+* Die sieben häufigsten Gedächtnisfehler
+* Problemlösungen
+* Die klassische & operante Konditionierung
+* Reizverarbeitung
+* Emotion/Bedürfnisse/Motivation
+* Konflikte und unerledigte Handlungen
+* Das Konzept der Lebenszufriedenheit
+* Gelernter Optimismus
+* Die 10 positiven Emotionen
+* Risikowahlmodell
+* Das Kindchenschema
+* Setting: Klientin mit eigenem Hund & das Innere Bild
+* Katzengestütztes Setting: Folgegespräch 
 
 
 {{% /small  %}}
@@ -154,13 +161,15 @@ weight: 1
 #### Turnus 5
 #### Kursmaterial für drei Wochen
 
-* Dreieckstheorie der Liebe nach Sternberg: 8 Arten der Liebe / Beziehungen
-* Investmentmodell von Rusbult
-* Das Tier geht in Pension
-* Ein tierischer Coach stirbt
-* Beratungsgespräche / Videosequenzen
-* viele tierische Tipps und Tools
-
+* Acht Arten der Liebe & Dreieckstheorie
+* Das Casio-Modell
+* Soziale Aufwärts- und Abwärtsvergleiche
+* Das Investmentmodell von Rusbult
+* Motivierende Gesprächsführung
+* Defizitdimensionen bei erlernter Hilfslosigkeit
+* Positive Emotionen stärken
+* Das tierische Team verändert sich
+* Tiergestütztes Setting: Trauer um verstorbenes Tier
 {{% /small  %}}
 
 {{% /box %}}
@@ -171,18 +180,34 @@ weight: 1
 #### Turnus 6
 #### Kursmaterial für drei Wochen
 
-* Erste Hilfe für Tiere
-* Gesetzt in Österreich
-* Beratungsgespräche / Videosequenzen
-* viele tierische Tipps und Tools
+* Entstehung von Konflikten
+* Konflikte & Konfliktfähigkeit
+* Kommunikationsstile nach Schulz von Thun
+* Kommunikationsstile nach Shelly Gable
+* Krisen im menschlichen Leben
+* Burnout und Stress
+* Das Boreout
+* Mobbing
+* Aggression & Frusttration
+* Das Treppenstufen-Modell der Aggression
+* Hundegestütztes Setting: Stressmanagement
+
+
+
+
 
 {{% /small  %}}
 {{% small  %}}
 
 #### Turnus 7
+#### Kursmaterial für drei Wochen
 
-* Zusatzmaterialien je nach Wünschen der Teilnehmer\*innen 
-* Beratungsgespräche / Videosequenzen
+* Die Du-Evidenz & Biophiliehypothese
+* Kognitive Dissonanz
+* Katzengestütztes Setting: Umgang mit berufl. Erfolg
+* Prozessreflexion - Gedanken zur tiergest. Arbeit
+* Noch was zum Schmunzeln
+* Glückwunsch du hast es geschafft
 * **Freischaltung der Onlineprüfung**
 
 Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Berufsverbands für tiergestützte psychologische Beratung](https://berufsverband-tiergestuetzteberatung.at/) kostenlos. 

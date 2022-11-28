@@ -47,23 +47,21 @@ weight: 1
 #### Kick-off 
 #### Kursmaterial für eine Woche
 
-* Allgemeine Grundlagen in der Beratung
 * Der ganzheitliche Blick
 * Grundwissen über Klangschalen
-* Grundhaltung Carl Rogers - das humanistisches Menschenbild 
+* Grundhaltung Carl Rogers - das humanistische Menschenbild
 * Das Setting
-* Auftragsklärung in der Gesprächsführung
-* Methoden der wertschätzenden Gesprächsführung
-* Die ersten Interventionen im Gespräch
-* Dein Klangschalenset 
-* Die tibetische 8 / die tibetanische 8
-* Die Skalenfrage
 * Klangschalen und Ambiente
-* Die ersten Schritte mit der Klangschale - Teil 1
-* Teil 2: Deine ersten Schritte mit der Klangschale
+* Die 7 Aura-Schichten
+* Der menschliche Körper - die Grundlagen
+* Dein Klangschalenset
+* Die tibetische/tibetanische 8
+* Singende Klangschalen
+* Erste Schritte mit der Klangschale Teil 1
+* Erste Schritte mit der Klangschale Teil 2
+* Wellnessbehandlung: Energie tanken
 * praktische Übung: Blinde Kuh
-* Praktische Übung: Blinde Kuh - die Auflösung
-* Wellnessbehandlung: Energie tanken mit den Klangschalen 
+* Praktische Übung: Blinde Kuh - die Auflösung 
 
 
 {{% /small  %}}
@@ -72,34 +70,40 @@ weight: 1
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* Intrinsische Motivation vs. extrinsische Motivation
-* Burn-Out & Stress
-* Weitere Gesprächsinterventionen 
-* Die 7 Hauptchakren im Überblick
-* Die 7 Chakren genau erklärt
-* Nebenchakras
-* Der Chakrenausgleich mit Klangschalen
-* TCM: 5 Elemente im Überblick 
-* Rubikonmodell 
+* Auftragsklärung in der Gesprächsführung
+* Die 4-Säulen der Empathie
 * Die acht Resilienzfaktoren
-* Selbstfürsorge / Psychosomatik
-* Beratungsgespräche / Videosequenzen
+* Der menschliche Körper - Organe & Psychosomatik
+* Grundwissen über Chakren
+* Chakren 1 bis 7 im Überblick
+* Feng Shui und Klangschalenmassage Teil 1 
+* Feng Shui und Klangschalenmassage Teil 2 
+* Selbstfürsorge und Psychosomatik
+* Der Chakren Ausgleich mit Klangschalen 
+* Marie-Sophie's erster Chakren Ausgleich
+* Sarah's erster Chakren Ausgleich
+* Erstgespräch: Auftragsklärung/Thema Verspannungen
 
 {{% /small  %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* 5 Elemente / Vertiefung
-* Die 14 Hauptmeridiane im Überblick
-* Zentralgefäß
-* Gouverneursgefäß
-* Magenmeridian
-* Milzmeridian
-* Herzmeridian
-* Dünndarmeridian
-* Beratungsgespräche / Videosequenzen
-
+* Work-Life-Balance
+* Stress
+* Burn-Out-7 Phasen, Symptome, Faktoren
+* Die 5 Elemente im Überblick
+* Feng Shui & Klangschalenmassage 3
+* Zentralgefäß & Gouverneursgefäß
+* Herz-, Dünndarmmeridian, Kreislaufsexus & 3-Fach-Erwärmer
+* Magen-, Milzmeridian (Element Erde)
+* Lungen-, Dickdarmmeridian (Metall)
+* Nieren-, Blasenmeridian (Wasser)
+* Leber-, Gallenblasenmeridian (Holz)
+* Der menschliche Körper Sexualkrankheiten 1, 2, 3
+* Die Meridiane & Klangschalenmassage
+* Schlafschwierigkeiten + Klangschalenmassage
+* Gespräch: Motivation zur Zielerreichung
 
 {{% /small%}}
 {{% /box %}}
@@ -109,9 +113,19 @@ weight: 1
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* Die 14 Hauptmuskeln
-* Neurolymphatische Punkte
-* Beratungsgespräche / Videosequenzen
+* 5 Elemente/Vertiefung
+* Kollektive Jung/Phänomenologie
+* Grundlagen systemischer Aufstellungsarbeit
+* Systemische Grunddynamiken
+* Psychosomatik aus system. kollektiver Sicht
+* Lebenslinie - Denken & Problemlösung
+* Feng Shui und Klangschalenmassage Teil 4
+* Die Organaufstellung
+* Der menschliche Körper - Verhütung
+* Der menschliche Körper - Schwangerschaft & Geburt
+* Gespräch: Blasenentzündung/Inneres Bild
+* Folgegespräch: Blasenentzündung
+* Wieder was zum Schmunzeln
 
 
 {{% /small  %}}
@@ -120,8 +134,18 @@ weight: 1
 #### Turnus 4
 #### Kursmaterial für drei Wochen
 
-* Untermuskeln Magen/Milz/Dünndarm/Blase/Niere
-* Neurolymphatische Punkte 
+* Muskeln & Neurolymphatische Punkte Hauptmuskeln
+* Die 14 Hauptmuskeln: Zentralgefäß & Gouverneursgefäß
+* Die 14 Hauptmuskeln: Magen & Milz (Element Erde)
+* Die 14 Hauptmuskeln: Herz, Dünndarm, Kreislaufsexus & 3-Fach-Erwärmer
+* Die 14 Hauptmuskeln: Lunge & Dickdarm (Element Metall)
+* Die 14 Hauptmuskeln: Niere & Blase (Element Wasser)
+* Die 14 Hauptmuskeln: Leber & Gallenblase (Element Holz)
+* Feng Shui und Klangmassage Teil 5
+* Der menschliche Körper - ZNS und Gehirn
+* Silvia: Die Arbeit mit Muskeln in der Klangschalenmassage
+* Marie-Sophie: Die Arbeit mit Muskeln in der KSM  
+
 
 
 
@@ -132,8 +156,16 @@ weight: 1
 #### Turnus 5
 #### Kursmaterial für drei Wochen
 
-* Untermuskeln KS / 3fach Erwärmer / Gallenblase / Leber / Lunge / Dickdarm
-* Dreieckstheorie der Liebe nach Sternberg: 8 Arten der Liebe / Beziehungen
+* Neurolymphatische Punkte
+* Untermuskeln: Magen & Milz (Element Erde)
+* Untermuskeln: Herz, Dünndam, Kreislaufsexus
+* Untermuskeln: Lunge & Dickdarm (Element Metall)
+* Untermuskeln: Niere & Blase (Element Wasser)
+* Untermuskeln: Leber & Gallenblase (Element Holz)
+* Feng Shui und Klangschalenmasssage Teil 6
+* Der menschliche Körper - häufige Krankheiten
+* Die Arbeit mit Muskeln in der KSM
+* System inneres Bild + KSM
 
 
 {{% /small  %}}
@@ -146,8 +178,16 @@ weight: 1
 #### Turnus 6
 #### Kursmaterial für drei Wochen
 
-* Die Wirkung der Klangschale in Kombination mit Feng Shui
-* Häufige psychosomatische Erkrankungen
+* Intrinsiche Motivation vs. extrinsische Motivation
+* häufige psychosomatische Erkrankungen
+* Feng Shui und Klangschalenmassage Teil 7
+* Das Rubikonmodell
+* Das Selbst und Selbstbild
+* Selbstwirksamkeit
+* Der menschliche Körper - psyschische Krankheiten Teil 1
+* Das Flow-Konzept
+* Fall: systemische Gesprächsführung
+
 
 
 {{% /small  %}}
@@ -156,8 +196,9 @@ weight: 1
 #### Turnus 7
 #### Zusatzmaterial
 
-* Zusatzmaterialien je nach Wünschen der Teilnehmer\*innen 
-* Beratungsgespräche / Videosequenzen
+* Feng Shui und Klangschalenmassage Teil 8 
+* Der menschliche Körpe - psychische Krankheiten Teil 2
+* Nochmals was zum Schmunzeln
 * **Freischaltung der Onlineprüfung**
 
 
