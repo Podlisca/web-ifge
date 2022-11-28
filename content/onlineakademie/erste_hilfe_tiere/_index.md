@@ -28,11 +28,9 @@ rich_faq:
 ## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
 
 ***
-###  Erfahre:
-* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
-* Wie Sie **prophylaktisch** mit Ihren Klient*innen an deren Themen arbeiten, um **psychischen Krankheiten vorzubeugen**
-* Welche **positiven Einflüsse Tiere** auf den Menschen haben
-* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
+Durch richtige Sofortmaßnahmen können Sie ihrem Tier helfen, Schmerzen lindern und vielleicht sogar das Leben retten. Unser Seminar „Erste Hilfe für Hunde“ soll Sicherheit geben, wie man in Gefahrensituationen sachkundig reagiert. Viele Notfälle sind vermeidbar, sollte es doch dazu kommen ist es wichtig Ruhe zu bewahren und durch eine gute Vorbereitung rasch, RICHTIG helfen - wie beim Menschen sind auch für unsere Vierbeiner oft gerade die ersten Minuten bei der Ersten Hilfe entscheidend.
+
+Mit den richtigen Erste-Hilfe-Maßnahmen wird die bestmögliche Voraussetzung für eine erfolgreiche anschließende tierärztliche Behandlung geschaffen.
 
 ### DICH ERWARTET - Deine Vorteile auf einen Blick
 

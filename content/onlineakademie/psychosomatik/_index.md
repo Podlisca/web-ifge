@@ -55,29 +55,23 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ### Hier ein kleiner Einblick 
 {{< youtube Ff0OHNdKnHo>}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
 {{% /small %}}
 {{% small %}}
 
 ### Ausführliches Infovideo 
 {{< youtube WonAhSP6B8c>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 {{< youtube V5YQvtyvWrg>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 
 </div> 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlagen der Psychosomatik (Start nach Zahlungseingang)" >}}
 
 
 ## Tiere in der Beratung / im Coaching

@@ -36,37 +36,26 @@ weight: 1
 {{% small  %}}
 #### Modul 1
 #### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Der Menschliche Körper - die Grundlagen
+* Organe & Psychosomatik
+* ZNS und Gehirn
+* Sexulakrankheiten Teil 1
+* Sexualkrankheiten Teil 2
+* Sexualkrankheiten Teil 3
+
+
+
 {{% /small  %}}
 
 {{% small  %}}
 #### Modul 2
 #### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Häufige Krankheiten
+* Schwangerschaft und Geburt
+* Der Menschliche Körper - Verhütung
+* Häufige psychische Krankheiten 1
+* Häufige psychische Krankheiten 2
+
 
 {{% /small%}}
 {{% /box %}}

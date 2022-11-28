@@ -51,19 +51,14 @@ weight: 1
 
 #### Kick-off 
 #### Kursmaterial für eine Woche
-* Allgemeine Grundlagen in der Beratung
-* Abgrenzung: psychosoziale Beratung / Coaching / Training / Therapie / Psychologie in Österreich
-* Setting: psychologische Beratung allgemein & online
-* Setting: psychologische Beratung Hunde & Katzen
-* Setting: psychologische Beratung Pferde
-* Berufsbild / rechtliche Grundlagen
-* Historie Tiergestützte
-* Möglichkeiten & Grenzen
-* Auftragsklärung / Zielfindung
-* Beratungsverlauf & Bella & Plissit 
-* Schulz von Thun
-* Transaktionsanalyse
-* Beratungsgespräche / Videosequenzen
+* Systemische Grundlagen und Vertreter*innen
+* Rahmenbedingungen, Haltung und Umgang bei Aufstellungen
+* Die Phänomenologische Perspektive
+* Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit
+* Systemische Aufstellungsarbeit - Dynamiken
+* Nachfolge - Übernahme - Hinbewegung
+* Weitere systemische Interventionen
+* Grundlagen der systemischen Tieraufstellung
 
 
 {{% /small  %}}
@@ -72,46 +67,17 @@ weight: 1
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* Kenne deine Tiere 
-* Wie setzt Du dein Tier ein 
-* Bindung Mensch Tier - physiologische Effekte / Bonding / Oxytocin
-* Phänomenologische Perspektive
-* Tiefenpsychologische: Jung
-* Gewaltfreie Kommunikation
-* Wichtige Begriffe in der tiergestützten psychologischen Beratung 
-* Beziehung Halter und Tier
-* Das Tier als Helfergestalt
-* Bedürfnispyramide
-* Konflikt & Konfliktfähigkeit
-* Triangulation & Dyaden
-* Interventionsmöglichkeiten
-* Kommunikation der Tiere
-* Kindchen Schema
-* Körpersprache Tieren
-* Beratungsgespräche / Videosequenzen
+* 
+* 
 
 {{% /small  %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* Eigenschaften von Haltern verschiedener Tierarten
-* Andere Seiten der Mensch Tier Beziehung
-* Das systemische Porträt
-* Klassische & operante Konditionierung
-* Reizverarbeitung
-* Bootom Up- / Top Down Prozesse
-* kognitive Dissonanz
-* Emotionstheorien
-* Grundlagen für einen empathischen Kontakt 
-* 4 Säulen der Empathie
-* Schachter & Singer
-* Soziale Vergleiche
-* Aufwärts- & Abwärtsvergleiche
-* Besonderheiten Pferd in der Beratung
-* Besonderheiten Hund in der Beratung
-* Besonderheiten Katz in der Beratung
-* Beratungsgespräche / Videosequenzen
+* 
+* 
+
 
 
 {{% /small%}}
@@ -122,17 +88,9 @@ weight: 1
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* Konflikte entstehen im Kopf
-* Krisen im menschlichen Leben
-* Burnout und Stress
-* Boreout
-* Mobbing
-* Treppenstufenmodell der Aggression
-* Aggression / Frustration
-* Motivierende Gesprächsführung / Ambivalezbildung
-* Die Du-Evidenz & Biophiliehypothese
-* Biopsychosoziale Wirkungsfelder von tiergestützter Beratung
-* Beratungsgespräche / Videosequenzen
+* 
+* 
+
 
 
 {{% /small  %}}
@@ -141,12 +99,9 @@ weight: 1
 #### Turnus 4
 #### Kursmaterial für drei Wochen
 
-* Grundlagen der Systemische Aufstellungsarbeit
-* Systemische Tieraufstellung
-* Time Line mit Pferden
-* Pferdegestützte Interventionen - allgemein
-* Beratungsgespräche / Videosequenzen
-* viele tierische Tipps und Tools
+* 
+* 
+* 
 
 
 {{% /small  %}}
@@ -155,12 +110,9 @@ weight: 1
 #### Turnus 5
 #### Kursmaterial für drei Wochen
 
-* Dreieckstheorie der Liebe nach Sternberg: 8 Arten der Liebe / Beziehungen
-* Investmentmodell von Rusbult
-* Das Tier geht in Pension
-* Ein tierischer Coach stirbt
-* Beratungsgespräche / Videosequenzen
-* viele tierische Tipps und Tools
+* 
+* 
+*
 
 {{% /small  %}}
 
@@ -172,10 +124,9 @@ weight: 1
 #### Turnus 6
 #### Kursmaterial für drei Wochen
 
-* Erste Hilfe für Tiere
-* Gesetzt in Österreich
-* Beratungsgespräche / Videosequenzen
-* viele tierische Tipps und Tools
+* 
+* 
+*
 
 {{% /small  %}}
 {{% small  %}}

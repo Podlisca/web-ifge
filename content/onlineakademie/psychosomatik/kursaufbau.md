@@ -42,44 +42,42 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 #### Willkommen
 #### Freischaltung nach Zahlungseingang
-* 
-* 
+* Silvia Podlisca stellt sich vor
+* Susanne - Gastreferentin für Medizin stellt sich vor
 
 {{% /small  %}}
 {{% small  %}}
 #### Modul 1
 #### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Der ganzheitliche Blick
+* Stress
+* Work-Life-Balance
+* Die 7 Auraschichten
+* Die 8 Resilienzfaktoren
+* Selbstfürsorge & Psychosomatik
+* Die 5 Elemente im Überblick
+* Zentralgefäß & Gouverneursgefäß
+* Herz-, Dünnndarmmeridian, Kreislaufsexus & 3-Fach-Erwärmer
+* Magen- & Milzmeridian
+* Lungen- & Dickdarmmeridian 
+
+ik
+
+
 {{% /small  %}}
 
 {{% small  %}}
 #### Modul 2
 #### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Der menschliche Körper - die Grundlagen
+* Der menschliche Körper - Organe & Psychosomatik
+* häufige psychosomatische Erkrankungen
+* Burn-Out - 7 Phasen
+* Burn-Out - Symptome
+* Burn-Out - Faktoren
+* Denken und Problemlösungen
+* Lebensqualität erhöhen & Lebenszufriedenheit
+
 
 {{% /small%}}
 {{% /box %}}

@@ -81,6 +81,7 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 
 </div> 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ### Was bewirken die Schwingungen der Klangschale? 
@@ -161,6 +162,7 @@ Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen 
 {{% /small %}}
 {{% /box %}}
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 
 
 
