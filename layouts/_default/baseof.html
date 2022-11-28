@@ -87,7 +87,11 @@
 
   {{ with .Params.disableScrollTop }} {{ else }} {{ partial "scroll-top.html" . }} {{ end }}
   
-  {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "subscribe.html" }} {{ end }}  
+  {{ with .Params.disableNewsletterPopup }} {{ else }} 
+    {{ partial "body-blackout.html" }} 
+    {{ partial "subscribe.html" }} 
+    {{ partial "videopopup.html" }} 
+  {{ end }}
 
   <script>
     const x = document.getElementById("topnavRef");

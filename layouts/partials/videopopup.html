@@ -1,0 +1,47 @@
+<style>
+    .iframe-embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        height: 100%;
+        width: 100%;
+        border: 0;
+    }
+
+    .iframe-embed-wrapper {
+        position: relative;
+        display: block;
+        height: 0;
+        padding: 0;
+        width: 60vw;
+        min-width: 350px;
+        overflow: hidden;
+    }
+
+    .iframe-embed-responsive-16by9 {
+        padding-bottom: 56.25%;
+    }
+</style>
+
+<div class="popup-modal shadow" style="max-width: 1200px; overflow-y: unset;" data-popup-modal="video">
+    <a href="javascript:void(0)" class="popup-modal__close"
+        style="right: 0; top: -70px; position: absolute; padding: 16px; margin: 10px; z-index: 99;">
+        <img src="/img/icon/close.svg">
+    </a>
+    <div class="popup-modal-body iframe-embed-wrapper iframe-embed-responsive-16by9">
+        <iframe class="iframe-embed" src="https://www.youtube.com/embed/17RcDuirOWs"
+            title="Lerne Silvia Podlisca und das IFGE kennen" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+    </div>
+</div>
+
+<script>
+    if (localStorage.getItem("visited") == null) {
+        window.setTimeout(() => {
+            document.querySelector('.popup-trigger[data-popup-trigger="video"]').click();
+            localStorage.setItem("visited", true);
+        }, 10000);
+    }
+</script>
