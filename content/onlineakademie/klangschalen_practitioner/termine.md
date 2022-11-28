@@ -30,29 +30,23 @@ weight: 3
 ### Hier ein kleiner Einblick 
 {{< youtube glB9R-VuEqc>}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
 {{% /small %}}
 {{% small %}}
 
 ### Ausführliches Infovideo 
 {{< youtube rZ8Z4oI0i6o>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 {{< youtube UyylWt2Vyd4>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 
 </div> 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 
 ## ONLINE: LIVE - INFOSVERANSTALTUNGEN
 
@@ -97,4 +91,4 @@ Online von 18:30 Uhr - 20:00 Uhr
 
 {{% /box %}}
 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}

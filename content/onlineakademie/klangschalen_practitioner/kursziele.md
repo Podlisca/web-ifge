@@ -50,4 +50,5 @@ Ein Vorteil dieser Variante ist, dass Sie mit der größten Belastung umzugehen 
 
 Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die Klangschalenmassage zu stabilisieren. Hier bleiben Sie als Klient*in während der Klangschalenmassage innerlich mit der Lösung verbunden. Dies bewirkt, dass die gewünschte Veränderung verinnerlicht und im Körper verankert wird.
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 

@@ -65,29 +65,23 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 ### Hier ein kleiner Einblick 
 {{< youtube glB9R-VuEqc>}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
 {{% /small %}}
 {{% small %}}
 
 ### Ausführliches Infovideo 
 {{< youtube rZ8Z4oI0i6o>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 [![Bildbeschreibung](/img/kurs_kaufen_ks.png)](https://www.ifge.at/anmeldung.php)
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 
 </div> 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ### Was bewirken die Schwingungen der Klangschale? 
 
@@ -135,10 +129,11 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{% /small %}}
 
 </div> 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< line icon="noun_Information_478770-2.png" >}}
 {{% /floatbox %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

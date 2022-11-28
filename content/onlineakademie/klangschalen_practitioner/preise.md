@@ -40,4 +40,4 @@ Zahlung nach Anmeldung. <br/>
 **Spare € 322,50 mit der Weihnachtsaktion** <br/>
 Zahlung bei Anmeldung
 
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
