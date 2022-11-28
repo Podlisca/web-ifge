@@ -53,15 +53,15 @@ weight: 1
 #### Kursmaterial für eine Woche
 * Grundlagen der psychosozialen Beratung/Coaching
 * Das Setting: psychosoziale Beratung/Coaching
-* Setting: psychologische Beratung Hunde & Katzen
-* Setting: psychologische Beratung Pferde
+* Das Setting: psychologische Beratung Hunde & Katzen
+* Das Setting: psychologische Beratung Pferde
 * Historischer Hintergrund tiergestützter Interventionen
 * Psychosoziale Berufsbilder & deren Abgrenzungen
 * Online Setting - Coaching via E-Mail/Chat
 * Möglichkeiten & Grenzen des tiergestützten Coaching
 * Die Auftragsklärung & Vertrag
 * Praktische Übungen
-* Praktische Übung Auflösung
+* Praktische Übungen Auflösung
 
 
 {{% /small  %}}
@@ -70,19 +70,19 @@ weight: 1
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* Kenne deine Tiere 
-* Wie setzt Du dein Tier ein 
-* Bindung Mensch Tier - physiologische Effekte / Bonding / Oxytocin
-* Phänomenologische Perspektive
-* Tiefenpsychologische: Jung
-* Gewaltfreie Kommunikation
-* Wichtige Begriffe in der tiergestützten psychologischen Beratung 
-* Beziehung Halter und Tier
-* Das Tier als Helfergestalt
-* Bedürfnispyramide
-* Konflikt & Konfliktfähigkeit
-* Triangulation & Dyaden
+* Beratungsverlauf - Bella & Plissit Prinzip 
+* Tiefenpsychologische Ansätze
+* Methoden der wertschätzenden Kommunikation
+* Wichtige Begriffe im tiergestützten Coaching
 * Interventionsmöglichkeiten
+* Tierische Gesetze in Österreich
+* Erste Hilfe für Hund, Katze & Pferd Teil 1 
+* Erste Hilfe für Hund, Katze & Pferd Teil 2 
+* Praktische Übung: Erste Hilfe am Tier
+* Hundegestütztes Setting: Outdoor
+* Hundegestützes Setting: Outdoor - Folgegespräch
+* Pferdegestütztes Setting: Selbstbewusstsein stärken
+* Pferdegestützte Time-Line
 * Kommunikation der Tiere
 * Kindchen Schema
 * Körpersprache Tieren
@@ -93,20 +93,20 @@ weight: 1
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* Eigenschaften von Haltern verschiedener Tierarten
-* Andere Seiten der Mensch Tier Beziehung
-* Das systemische Porträt
-* Klassische & operante Konditionierung
-* Reizverarbeitung
-* Bootom Up- / Top Down Prozesse
-* kognitive Dissonanz
-* Emotionstheorien
-* Grundlagen für einen empathischen Kontakt 
-* 4 Säulen der Empathie
-* Schachter & Singer
-* Soziale Vergleiche
-* Aufwärts- & Abwärtsvergleiche
-* Besonderheiten Pferd in der Beratung
+* Kommunikation der Tiere
+* Sicher arbeiten mit Pferden
+* Ungesunde Mensch-Tier-Beziehung
+* Persönlichkeit & Beratungsstil
+* 4-Säulen der Empathie
+* C. Roger's hinreichende Bedingungen
+* Die acht Resilienzfaktoren
+* Das Tier als Helfergestalt
+* Eigenschaften von Besitzer*innen unterschiedlicher Tierarten
+* Die Mensch-Tier-Bindung
+* Das Rubikonmodell
+* Triangualtion & Dyade
+* Die Transaktionsanalyse
+* Reflexionsübung: Deine Beziehung zum Tier
 * Besonderheiten Hund in der Beratung
 * Besonderheiten Katz in der Beratung
 * Beratungsgespräche / Videosequenzen
