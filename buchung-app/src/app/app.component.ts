@@ -52,6 +52,8 @@ export class AppComponent {
   @Input() recaptchaSiteKey: string | undefined;
 
   @Input() title = "Kaufen";
+  @Input() aufstellungen = false;
+  @Input() expandable = true;
 
   expanded = false;
 }

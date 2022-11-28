@@ -1,6 +1,9 @@
-<button class="button" style="width: 100%;" (click)="expanded = !expanded">{{ title }} <span style="font-size: 0.7rem;">{{ expanded ? '&#9650;' : '&#9660;'}}</span></button>
+<button class="button" style="width: 100%;" (click)="expanded = !expanded" *ngIf="expandable">
+    {{ title }}
+    <span style="font-size: 0.7rem;">{{ expanded ? '&#9650;' : '&#9660;'}}</span>
+</button>
 
-<div *ngIf="expanded" [@inOutAnimation] style="margin-top: 1rem;">
+<div *ngIf="!expandable || expanded" [@inOutAnimation] style="margin-top: 1rem;">
     <form method="post" action="anmeldung.php" id="cform">
         <div class=formular>
             <label for="anrede" class="required">Anrede</label>
@@ -28,12 +31,14 @@
             <select id="Veranstaltung" name="Veranstaltung" required *ngIf="!_veranstaltungSelected">
                 <option *ngFor="let v of _veranstaltungen" [value]="v">{{ v }}</option>
             </select>
-            <label for="aufst">nur bei Aufstellungen</label>
-            <select id="aufst" name="Nur bei Aufstellungen">
-                <option>-</option>
-                <option>Familienaufstellung - mit eigenem Anliegen</option>
-                <option>Familienaufstellung - teilnehmender Beobachter</option>
-            </select>
+            <ng-container *ngIf="aufstellungen">
+                <label for="aufst">nur bei Aufstellungen</label>
+                <select id="aufst" name="Nur bei Aufstellungen">
+                    <option>-</option>
+                    <option>Familienaufstellung - mit eigenem Anliegen</option>
+                    <option>Familienaufstellung - teilnehmender Beobachter</option>
+                </select>
+            </ng-container>
             <label for="zahlung">Zahlungsvariante</label>
             <select id="zahlung" name="Zahlung">
                 <option>-</option>

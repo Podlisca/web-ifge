@@ -46,7 +46,7 @@
 </head>
 
 <body>
-  <script src="/app/dist/ifge-buchung.js"></script>
+  <script src="/app/ifge-buchung.js"></script>
   {{ block "includes" . }}{{ end }}
   <header>    
     <div class="cont">
@@ -69,7 +69,7 @@
   <main>
     <div class="cont">
       <ifge-buchung veranstaltungen='{{ delimit $.Site.Data.anmeldung.kurse.Kurse ";" }}'></ifge-buchung>
-      <ifge-buchung veranstaltung='Roman 1' title="Jetzt kaufenb"></ifge-buchung>
+      <ifge-buchung veranstaltung='Roman 5' title="Antje Superkauf"></ifge-buchung>
 
       {{ block "main" . }}
       {{ end }}

@@ -9,7 +9,7 @@
     "test": "ng test",
     "el-build": "npm run el-build-task && npm run el-package-task",
     "el-build-task": "ng build app",
-    "el-package-task": "cat ./dist/app/{polyfills*,runtime*,main*}.js > ./dist/ifge-buchung.js"  
+    "el-package-task": "cat ./dist/app/{polyfills*,runtime*,main*}.js > ../static/app/ifge-buchung.js"  
   },
   "private": true,
   "dependencies": {
