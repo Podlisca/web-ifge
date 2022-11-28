@@ -23,6 +23,8 @@ weight: 1
 
 
 ## Organisatorisches 
+Der Onlinekurs „Ganzheitlich gesund - Grundlagen der Psychosomatik“ stellt sich aus Lehrseminaren der Onlineausbildung zum Klangschalen Practitioner zusammen.
+Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * **Start sofort nach Zahlungseingang**
 
@@ -31,30 +33,22 @@ weight: 1
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit Modul 1
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
-* 
 
 
 
 ***
-## Auszug Kursinhalte
-
-**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
-***
-
 {{% box top-align=1 %}}
 {{% small  %}}
 
 #### Willkommen
-#### 
+#### Freischaltung nach Zahlungseingang
 * 
 * 
-
-
 
 {{% /small  %}}
-
+{{% small  %}}
 #### Modul 1
-#### Kursmaterial für drei Woche
+#### Kursmaterial für drei Wochen
 * 
 * 
 * 
@@ -68,8 +62,6 @@ weight: 1
 * 
 * 
 * 
-
-
 {{% /small  %}}
 
 {{% small  %}}
@@ -89,21 +81,27 @@ weight: 1
 * 
 * 
 
+{{% /small%}}
+{{% /box %}}
+{{% box top-align=1 %}}
+{{% small  %}}
+
+## PRÜFUNG
+
+Der Lehrgang schließt ohne Prüfung ab.
 
 {{% /small  %}}
 
-
-***
-## PRÜFUNG
-
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
+{{% small  %}}
 ## Leitung
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
-* [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
+
+{{% /small  %}}
+
+{{% small  %}}
+## Zertifikat
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
 
 

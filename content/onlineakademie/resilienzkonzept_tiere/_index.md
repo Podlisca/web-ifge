@@ -24,105 +24,34 @@ rich_faq:
 
 {{< line icon="icon/tiere.png" >}}
 
+
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube 4DxIm-3wNWI>}}
+
+
+{{% /small %}}
+
+{{% small %}}
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
-## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
 
-***
-###  Erfahre:
-* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
-* Wie Sie **prophylaktisch** mit Ihren Klient*innen an deren Themen arbeiten, um **psychischen Krankheiten vorzubeugen**
-* Welche **positiven Einflüsse Tiere** auf den Menschen haben
-* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
+Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. Die tiergestützte psychosoziale Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren.
 
-### DICH ERWARTET - Deine Vorteile auf einen Blick
+Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. 
 
-* **Deine Expertise auf dem nächsten Level**
-<br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
-* **Dein flexibler Ausbildungsweg**<br/>
-Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
-* **Deine beruflichen Möglichkeiten**<br/>
-Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
-* **Tierische Stimmung**<br/>
-Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
+{{% /small %}}
+</div> 
+
+
+Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Menschen mit all ihren Stärken und Schwächen so annehmen wie sie sind, wieder gestärkt und es gelingt, wieder eine stärkere Verbindung zu sich selber aufbauen. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie unterstützen KlientInnen dabei, auch schwierige oder heikle Themen anzusprechen.
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-{{< line icon="icon/tiere.png" >}}
-## Online Infovideo ansehen & sofort starten
 
-<div class="box video">
-{{% small %}}
-
-### Hier ein kleiner Einblick 
-{{< youtube Ff0OHNdKnHo>}}
-
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
-{{% /small %}}
-{{% small %}}
-
-### Ausführliches Infovideo 
-{{< youtube WonAhSP6B8c>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
-{{% /small %}}
-{{% small %}}
-
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube V5YQvtyvWrg>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
-{{% /small %}}
-
-</div> 
-
-
-
-## Tiere in der Beratung / im Coaching
-
-Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret im tiergestützten Coaching. Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
-
-**In diesem Lehrgang bilden wir Menschen aus und nicht Tiere.** Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. 
-
-### Was ist Tiergestütztes Coaching?
-* Hierbei handelt es sich um ein Behandlungsverfahren, bei welchem (Heim-) Tiere, zur Linderung verschiedenster Symptome, eingesetzt werden.
-* Tiergestütztes Coaching setzt auf die beruhigende und vertrauenerweckende Wirkung von Tieren.
-* In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit Klient*innen Lösungsperspektiven entwickelt.
-* Es ist möglich, die  körperlichen, kognitiven und emotionalen Funktionen wieder herzustellen und auch zu erhalten.
-* Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen.
-* Die Tiere spiegeln die Gefühlslage der Menschen wieder und so können die besten Strategien für die Klient*innen entwickelt werden.
-* Arbeiten im HIER und JETZT ohne Bewertung ohne Leistung zu erbringen.
-* Es ist eine zielgerichtete Intervention zur Verbesserung des allgemeinen Wohlergehens der Klient*innen. 
-* Es kann das Einbezogensein in die jeweiligen Lebenssituationen gefördert werden. Ein gutes Beispiel hierfür ist der Einsatz in Altersheimen.
-
-***
 
 {{% floatbox %}}
-
-# Hier ein kleiner Einblick in die Ausbildung:
-#### In Summe umfasst die Ausbildung über 100 Lehrvideos
-
-<div class="box video">
-{{% small %}}
-
-### Möglichkeit & Grenzen des Tiergestützten Coaching - Theorie
-{{< youtube 0PaEP6h_wQc>}}
-{{% /small %}}
-{{% small %}}
-
-### Klientengespräch mit Hund von Klientin: Trennung verarbeiten 
-{{< youtube 1i4cXuwfH4w >}}
-{{% /small %}}
-{{% small %}}
-
-### Klientengespräch mit Katzen: Umgang beruflicher Erfolg
-{{< youtube 4DxIm-3wNWI>}}
-{{% /small %}}
-
-</div> 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 </div> 
