@@ -26,7 +26,7 @@
             <label for="Email" class="required">Email</label>
             <input type="Email" id="Email" name="Email" required>
             <label for="Veranstaltung" class="required">Veranstaltung</label>
-            <input id="Veranstaltung" name="Veranstaltung" required *ngIf="_veranstaltungSelected" disabled
+            <input id="Veranstaltung" name="Veranstaltung" required *ngIf="_veranstaltungSelected" readonly
                 [value]="_veranstaltungSelected">
             <select id="Veranstaltung" name="Veranstaltung" required *ngIf="!_veranstaltungSelected">
                 <option *ngFor="let v of _veranstaltungen" [value]="v">{{ v }}</option>
