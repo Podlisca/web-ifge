@@ -1,6 +1,6 @@
-<button class="button" (click)="expanded = !expanded">{{ title }}</button>
+<button class="button" style="width: 100%;" (click)="expanded = !expanded">{{ title }} <span style="font-size: 0.7rem;">{{ expanded ? '&#9650;' : '&#9660;'}}</span></button>
 
-<div *ngIf="expanded" [@inOutAnimation]>
+<div *ngIf="expanded" [@inOutAnimation] style="margin-top: 1rem;">
     <form method="post" action="anmeldung.php" id="cform">
         <div class=formular>
             <label for="anrede" class="required">Anrede</label>

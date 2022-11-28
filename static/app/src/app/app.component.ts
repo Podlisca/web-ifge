@@ -22,13 +22,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
           [
             style({ height: 0, opacity: 1 }),
             animate('0.3s ease-out',
-              style({ height: 400, opacity: 1 }))
+              style({ height: 1000, opacity: 1 }))
           ]
         ),
         transition(
           ':leave',
           [
-            style({ height: 400, opacity: 1 }),
+            style({ height: 800, opacity: 1 }),
             animate('0.3s ease-in',
               style({ height: 0, opacity: 1 }))
           ]
