@@ -22,12 +22,11 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Online Infovideo ansehen & sofort starten
 
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube IxSbDHtndzA>}}
 
 
 {{% /small %}}
@@ -35,11 +34,13 @@ weight: 3
 {{% small %}}
 ## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
-**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du schon los starten. Du willst noch schneller los legen - kein Problem! Mit einer **Sofortüberweisung** hast Du den Zugang noch am gleichen Tag.
+
 
 {{% /small %}}
 </div> 
 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. (Start nach Zahlungseingang)" >}}
