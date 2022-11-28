@@ -68,8 +68,8 @@ disableScrollTop: true
                 $feld_email = "Email";
                 $feld_veranstaltung = "Veranstaltung";
                 
-                //$empfaenger = "silvia.podlisca@ifge.at, wien@ifge.at, buchhaltung@ifge.at";
-                $empfaenger = "admin@leichtware.at";
+                $empfaenger = "silvia.podlisca@ifge.at, wien@ifge.at, buchhaltung@ifge.at";
+                //$empfaenger = "admin@leichtware.at";
                 $betreff = "Anmeldung IFGE ";
                 
                 $url_ok = "https://www.ifge.at/anmeldung/bestaetigung/"; //Zielseite, wenn E-Mail erfolgreich versendet wurde              
