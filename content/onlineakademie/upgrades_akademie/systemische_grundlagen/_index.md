@@ -1,24 +1,25 @@
 ﻿---
-title: "Systemische Grundlagen Grundlagen & SGF Methode®"
+title: "Upgrade Sexualberatung Online"
 menu: 
     main:
-        parent: onlineakademie
-draft: true
+        parent: upgrade_akademie
+        identifier: upgrade_sexualberatung
+draft: false
 weight: 4
-description: "Systemische Grundlagen Grundlagen & SGF Methode®"
-og_title: "Ausbildung: Systemische Grundlagen Grundlagen & SGF Methode®"
+description: "Ihr Upgrade in der Sexualberatung im 100% Online-Format"
+og_title: "Ihr Upgrade in der Sexualberatung im 100% Online-Format"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich Grundlagen der Systemik?"
-        antwort: "In der Online-Ausbildung Systemische Grundlagen Grundlagen & SGF Methode®."
+    -   frage: "Wo lerne ich Vertiefendes Wissen in der Sexualberatung?"
+        antwort: "In der Online-Ausbildung Sexualberatung."
 
 
 ---
 
-# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
+# Onlineausbildung: Upgrade Sexualberatung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Sexualberatung
 {{< slogan >}}
 
 

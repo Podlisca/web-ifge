@@ -91,8 +91,8 @@ Sie möchten von Vortragenden begleitet werden und in der Gruppe lernen? Wünsch
 
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
 

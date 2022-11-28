@@ -1,8 +1,8 @@
 ﻿---
-title: "Ausbildungsphilosophie und Kursangebote"
+title: "Upgrades"
 name: ausbildung
 draft: false
-weight: 1
+weight: 3
 description: "Es ist mir ein persönliches Anliegen, dass meine Schülerinnen und Schüler in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen. Machen Sie sich ein Bild davon!"
 og_title: "Ausbildungsphilosophie am IFGE"
 og_image: "/img/silvia_noe_blaue_bank.jpg"
@@ -102,7 +102,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 #### Tiergestützte Ausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
 {{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}

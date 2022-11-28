@@ -30,7 +30,7 @@ weight: 1
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
 * Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
-* Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. 
+* Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. 
 
 * Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.
 

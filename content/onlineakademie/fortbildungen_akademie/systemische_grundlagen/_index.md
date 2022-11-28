@@ -1,24 +1,25 @@
 ﻿---
-title: "Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze"
+title: "Systemische Grundlagen Grundlagen & SGF Methode®"
 menu: 
     main:
-        parent: onlineakademie
+        parent: fortbildungen_akademie
+        identifier: systemische_grundlagen
 draft: true
 weight: 4
-description: "Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze"
-og_title: "Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze"
+description: "Systemische Grundlagen Grundlagen & SGF Methode®"
+og_title: "Ausbildung: Systemische Grundlagen Grundlagen & SGF Methode®"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Welche Lösungssätze werden in der Familienaufstellung verwendet?"
-        antwort: "Eine Übersicht findest du in unserer Ausbildung"
+    -   frage: "Wo lerne ich Grundlagen der Systemik?"
+        antwort: "In der Online-Ausbildung Systemische Grundlagen Grundlagen & SGF Methode®."
 
 
 ---
 
-# Onlineausbildung: Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze
+# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt:  
+## Schwerpunkt: 
 {{< slogan >}}
 
 

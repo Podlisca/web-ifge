@@ -32,7 +32,7 @@ weight: 1
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
 * Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung können Sie optional eine **Intensiv-Trainingswoche in Pinkafeld (Burgenland)** buchen. Diese ist in den Ausbildungskosten nicht inkludiert und extra zu bezahlen. 
-* Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. In jeder interaktiven Lehrveranstaltung wird ein **Übungsfall vorgestellt**. Dieser wird dann in der nächsten Lehrveranstaltung besprochen. Sie haben **drei Jahre** Vollzugriff auf die Ausbildungsunterlagen inklusive interaktiven Lehrveranstaltungen.
+* Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. In jeder interaktiven Lehrveranstaltung wird ein **Übungsfall vorgestellt**. Dieser wird dann in der nächsten Lehrveranstaltung besprochen. Sie haben **drei Jahre** Vollzugriff auf die Ausbildungsunterlagen inklusive interaktiven Lehrveranstaltungen.
 
 
 

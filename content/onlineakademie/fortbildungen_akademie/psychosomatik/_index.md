@@ -1,24 +1,24 @@
 ﻿---
-title: "Erste Hilfe für Hunde & Katzen"
+title: "Ganzheitlich gesund - Grundlagen Psychosomatik"
 menu: 
     main:
-        parent: onlineakademie
-draft: true
+        parent: fortbildungen_akademie
+        identifier: psychosomatik
+draft: false
 weight: 4
-description: "Erste Hilfe für Hunde & Katzen"
-og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
+description: "Ganzheitlich gesund - Grundlagen Psychosomatik"
+og_title: "Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
-        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
-
+    -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
+        antwort: "In der Online-Ausbildung Ganzheitlich gesund - Grundlagen Psychosomatik findest du viele Informationen wie die Psyche den Körer beeinflusst."
 
 ---
 
-# Onlineausbildung: Erste Hilfe für Hunde & Katzen
+# Onlineausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde & Katzen 
+## Schwerpunkt: 
 {{< slogan >}}
 
 
@@ -28,9 +28,11 @@ rich_faq:
 ## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
 
 ***
-Durch richtige Sofortmaßnahmen können Sie ihrem Tier helfen, Schmerzen lindern und vielleicht sogar das Leben retten. Unser Seminar „Erste Hilfe für Hunde“ soll Sicherheit geben, wie man in Gefahrensituationen sachkundig reagiert. Viele Notfälle sind vermeidbar, sollte es doch dazu kommen ist es wichtig Ruhe zu bewahren und durch eine gute Vorbereitung rasch, RICHTIG helfen - wie beim Menschen sind auch für unsere Vierbeiner oft gerade die ersten Minuten bei der Ersten Hilfe entscheidend.
-
-Mit den richtigen Erste-Hilfe-Maßnahmen wird die bestmögliche Voraussetzung für eine erfolgreiche anschließende tierärztliche Behandlung geschaffen.
+###  Erfahre:
+* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
+* Wie Sie **prophylaktisch** mit Ihren Klient*innen an deren Themen arbeiten, um **psychischen Krankheiten vorzubeugen**
+* Welche **positiven Einflüsse Tiere** auf den Menschen haben
+* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
 
 ### DICH ERWARTET - Deine Vorteile auf einen Blick
 
@@ -54,29 +56,23 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ### Hier ein kleiner Einblick 
 {{< youtube Ff0OHNdKnHo>}}
 
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
 {{% /small %}}
 {{% small %}}
 
 ### Ausführliches Infovideo 
 {{< youtube WonAhSP6B8c>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 {{< youtube V5YQvtyvWrg>}}
-***
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
-***
+
 {{% /small %}}
 
 </div> 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlagen der Psychosomatik (Start nach Zahlungseingang)" >}}
 
 
 ## Tiere in der Beratung / im Coaching

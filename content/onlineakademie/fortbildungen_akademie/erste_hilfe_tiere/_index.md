@@ -1,24 +1,25 @@
 ﻿---
-title: "Der menschliche Körper – verständlich erklärt"
+title: "Erste Hilfe für Hunde & Katzen"
 menu: 
     main:
-        parent: onlineakademie
-draft: true
+        parent: fortbildungen_akademie
+        identifier: erstehilfe
+draft: false
 weight: 4
-description: "Der menschliche Körper – verständlich erklärt"
-og_title: "Ausbildung: Der menschliche Körper – verständlich erklärt"
+description: "Erste Hilfe für Hunde & Katzen"
+og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Wo kann ich lernen wie der menschliche Körper funktionert?"
-        antwort: "In der Online-Ausbildung Der menschliche Körper – verständlich erklärt lernen Sie auf einfache Art und Weise wie der Körper funktioniert."
+    -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"
+        antwort: "In der Online-Ausbildung Erste Hilfe für Hund eund Katzen lernen Sie wie Sie Ihr Tier richtig reanimieren können."
 
 
 ---
 
-# Onlineausbildung: Der menschliche Körper – verständlich erklärt
+# Onlineausbildung: Erste Hilfe für Hunde & Katzen
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
 
@@ -28,11 +29,9 @@ rich_faq:
 ## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
 
 ***
-###  Erfahre:
-* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
-* Wie Sie **prophylaktisch** mit Ihren Klient*innen an deren Themen arbeiten, um **psychischen Krankheiten vorzubeugen**
-* Welche **positiven Einflüsse Tiere** auf den Menschen haben
-* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
+Durch richtige Sofortmaßnahmen können Sie ihrem Tier helfen, Schmerzen lindern und vielleicht sogar das Leben retten. Unser Seminar „Erste Hilfe für Hunde“ soll Sicherheit geben, wie man in Gefahrensituationen sachkundig reagiert. Viele Notfälle sind vermeidbar, sollte es doch dazu kommen ist es wichtig Ruhe zu bewahren und durch eine gute Vorbereitung rasch, RICHTIG helfen - wie beim Menschen sind auch für unsere Vierbeiner oft gerade die ersten Minuten bei der Ersten Hilfe entscheidend.
+
+Mit den richtigen Erste-Hilfe-Maßnahmen wird die bestmögliche Voraussetzung für eine erfolgreiche anschließende tierärztliche Behandlung geschaffen.
 
 ### DICH ERWARTET - Deine Vorteile auf einen Blick
 

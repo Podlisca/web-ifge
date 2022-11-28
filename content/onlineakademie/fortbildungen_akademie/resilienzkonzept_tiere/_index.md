@@ -2,7 +2,8 @@
 title: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
 menu: 
     main:
-        parent: onlineakademie
+        parent: fortbildungen_akademie
+        identifier: resilienzkonzept_tiere
 draft: true
 weight: 4
 description: "Tiere als Resilienzkonzept in der psychosozialen Beratung"

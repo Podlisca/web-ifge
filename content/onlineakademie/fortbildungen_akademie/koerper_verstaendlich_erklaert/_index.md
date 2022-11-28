@@ -1,21 +1,23 @@
 ﻿---
-title: "Ganzheitlich gesund - Grundlagen Psychosomatik"
+title: "Der menschliche Körper – verständlich erklärt"
 menu: 
     main:
-        parent: onlineakademie
+        parent: fortbildungen_akademie
+        identifier: koerper_erklaert
 draft: true
 weight: 4
-description: "Ganzheitlich gesund - Grundlagen Psychosomatik"
-og_title: "Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik"
+description: "Der menschliche Körper – verständlich erklärt"
+og_title: "Ausbildung: Der menschliche Körper – verständlich erklärt"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
-        antwort: "In der Online-Ausbildung Ganzheitlich gesund - Grundlagen Psychosomatik findest du viele Informationen wie die Psyche den Körer beeinflusst."
+    -   frage: "Wo kann ich lernen wie der menschliche Körper funktionert?"
+        antwort: "In der Online-Ausbildung Der menschliche Körper – verständlich erklärt lernen Sie auf einfache Art und Weise wie der Körper funktioniert."
+
 
 ---
 
-# Onlineausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik
+# Onlineausbildung: Der menschliche Körper – verständlich erklärt
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
@@ -55,23 +57,29 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ### Hier ein kleiner Einblick 
 {{< youtube Ff0OHNdKnHo>}}
 
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
 {{% /small %}}
 {{% small %}}
 
 ### Ausführliches Infovideo 
 {{< youtube WonAhSP6B8c>}}
-
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
 {{% /small %}}
 {{% small %}}
 
 ### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
 {{< youtube V5YQvtyvWrg>}}
-
+***
+## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+***
 {{% /small %}}
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlagen der Psychosomatik (Start nach Zahlungseingang)" >}}
 
 
 ## Tiere in der Beratung / im Coaching

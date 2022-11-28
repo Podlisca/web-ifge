@@ -2,7 +2,8 @@
 title: "Philosophie und Kursangebote Onlineakademie"
 menu: 
     main:
-        parent: "onlineakademie"
+        parent: onlineakademie
+        identifier: onlineakademie-ausbildungsphilosophie
 draft: false
 weight: 1
 description: "Die Kurse der IFGE-Online-Akademie finden zu 100% im digitalen Raum statt. Ganz ohne vorab fix eingeplante Termine. So wird Weiterbildung zu einem ganz neuen Erlebnis, flexibler und individueller als jemals zuvor. Teilnehmer*innen können rund um die Uhr auf mehr als 100 Lehrvideos zugreifen und so ganz nach persönlichen Bedürfnissen Neues lernen. Dabei setzen wir auf didaktische Vielfalt. Die Lehrvideos bieten nicht nur Vorträge, sondern auch zahlreiche praktische Übungen. "
@@ -83,8 +84,8 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 #### Online-Akademie: 100% Online-Format
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
 
 {{% /kursbox %}}
 
