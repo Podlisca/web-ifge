@@ -5,7 +5,7 @@ menu:
         parent: fortbildungen_akademie
         identifier: koerper_erklaert
 draft: true
-weight: 4
+weight: 9gu
 description: "Der menschliche Körper – verständlich erklärt"
 og_title: "Ausbildung: Der menschliche Körper – verständlich erklärt"
 og_image: "/img/bv_wirkung.jpg"

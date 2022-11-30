@@ -5,7 +5,7 @@ menu:
         parent: fortbildungen_akademie
         identifier: systemdimensionsbrett
 draft: true
-weight: 4
+weight: 7
 description: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
 og_title: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
 og_image: "/img/bv_wirkung.jpg"

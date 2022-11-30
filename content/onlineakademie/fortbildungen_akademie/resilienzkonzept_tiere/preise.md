@@ -24,7 +24,7 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-* **Ausbildungskosten:€ 290,-** <br/>
+* **Ausbildungskosten:€ 490,-** <br/>
 Zahlung nach Anmeldung. <br/>
 
 

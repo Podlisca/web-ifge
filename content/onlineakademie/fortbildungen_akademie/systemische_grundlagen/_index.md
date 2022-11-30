@@ -5,7 +5,7 @@ menu:
         parent: fortbildungen_akademie
         identifier: systemische_grundlagen
 draft: true
-weight: 4
+weight: 5
 description: "Systemische Grundlagen Grundlagen & SGF Methode®"
 og_title: "Ausbildung: Systemische Grundlagen Grundlagen & SGF Methode®"
 og_image: "/img/bv_wirkung.jpg"

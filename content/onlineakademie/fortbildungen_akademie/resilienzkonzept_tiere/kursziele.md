@@ -12,15 +12,28 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{< line icon="icon/zitat.png" >}}
 
-{{% floatbox %}}
+<div class="box video">
+{{% small %}}
 
-{{< image src="/img/tier_coaching_1.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 
+{{< youtube 4DxIm-3wNWI>}}
 
-Dieser Workshop bietet einen kurzen Einblick über den Einsatz von Hunden und Katzen in der tiergestützten psychosozialen Beratung.
 
-Das bedeutet, dass Sie lernen, WIE sie die besonderen Wirkungen von anwesenden Tieren in Ihre Arbeit einfließen lassen können. Im Zuge der Ausbildung erfahren Sie, wie Sie beispielsweise Ihre eigenen Vierbeiner in der freien Praxis für Interventionen situativ bestmöglich einsetzen.
+{{% /small %}}
 
-{{< silvia >}}
+{{% small %}}
+## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
+
+Dieser Workshop bietet einen **kurzen Einblick** über den Einsatz von Hunden, Katzen & Pferden in der [tiergestützte psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/).
+
+Das bedeutet, dass Du lernst, WIE du die **besonderen Wirkungen** von anwesenden Tieren in deine **Arbeit einfließen** lassen können. Im Zuge der Ausbildung erfährst Du, wie Du beispielsweise deine eigenen **Vierbeiner in der freien Praxis** für Interventionen situativ bestmöglich einsetzt.
+
+
+
+{{% /small %}}
+</div> 
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
+
 
 
 

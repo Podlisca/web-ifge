@@ -38,6 +38,10 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du schon los starten. Du willst noch schneller los legen - kein Problem! Mit einer **Sofortüberweisung** hast Du den Zugang noch am gleichen Tag.
 
+**Viel Freude bei deiner Onlineausbildung**
+
+{{< silvia >}}
+
 
 {{% /small %}}
 </div> 

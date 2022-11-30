@@ -4,8 +4,8 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: resilienzkonzept_tiere
-draft: true
-weight: 4
+draft: false
+weight: 8
 description: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
 og_title: "Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung"
 og_image: "/img/bv_wirkung.jpg"
@@ -38,9 +38,9 @@ rich_faq:
 {{% small %}}
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. Die tiergestützte psychosoziale Beratung setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren.
+Es gibt bereits zahlreiche Studien, die beweisen, dass **Tiere** Menschen in ihrem **Wachstum und ihrer Entwicklung** fördern können. Die [tiergestützte psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/) setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren.
 
-Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. 
+Durch das Beobachten und den Umgang von Tieren wird Raum für die **Weiterentwicklung** der eigenen Persönlichkeit gegeben und dafür, im Erleben **Neues zu erlernen**. 
 
 {{% /small %}}
 </div> 
@@ -53,10 +53,12 @@ Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Mensc
 
 Der Onlinekurs ist entnommen aus der Onlineausbildung “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Solltest Du danach die Onlineausbildung “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)" kaufen, erhältst Du natürlich den Kaufpreis hierfür dieser Ausbildung natürlich abgezogen.
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
+
 {{% floatbox %}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
-</div> 
+
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -67,5 +69,4 @@ Der Onlinekurs ist entnommen aus der Onlineausbildung “[Tiergestütztes Coachi
 {{% /iconmenu %}}
 
 
-{{% floatbox %}}
 {{% floatbox %}}

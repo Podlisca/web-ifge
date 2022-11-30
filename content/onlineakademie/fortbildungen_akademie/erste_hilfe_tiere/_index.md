@@ -5,7 +5,7 @@ menu:
         parent: fortbildungen_akademie
         identifier: erstehilfe
 draft: false
-weight: 4
+weight: 10
 description: "Erste Hilfe für Hunde & Katzen"
 og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
 og_image: "/img/bv_wirkung.jpg"

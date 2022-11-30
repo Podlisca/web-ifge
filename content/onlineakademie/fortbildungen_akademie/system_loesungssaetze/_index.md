@@ -5,7 +5,7 @@ menu:
         parent: fortbildungen_akademie
         identifier: loesungssaetze
 draft: true
-weight: 4
+weight: 6
 description: "Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze"
 og_title: "Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze"
 og_image: "/img/bv_wirkung.jpg"

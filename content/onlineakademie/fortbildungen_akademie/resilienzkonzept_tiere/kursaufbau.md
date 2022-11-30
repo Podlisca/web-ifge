@@ -23,84 +23,62 @@ weight: 1
 
 
 ## Organisatorisches 
-Der Onlinekurs „Ganzheitlich gesund - Grundlagen der Psychosomatik“ stellt sich aus Lehrseminaren der Onlineausbildung zum Klangschalen Practitioner zusammen.
-Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
+Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ stellt sich aus Lehrseminaren der Onlineausbildung zum [Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) zusammen.
+
 
 * **Start sofort nach Zahlungseingang**
 
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
-* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit Modul 1
-* Modul 2 wird drei Wochen nach Modul 1 frei geschalten
+
 
 
 
 ***
 {{% box top-align=1 %}}
 {{% small  %}}
-
-#### Willkommen
-#### Freischaltung nach Zahlungseingang
-* 
-* 
-
-{{% /small  %}}
-{{% small  %}}
+###
 #### Modul 1
-#### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-{{% /small  %}}
 
-{{% small  %}}
-#### Modul 2
-#### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Das tiergestützte Setting
+* Unterschied: Therapiehund / Hunde in der psychosozialen Beratung
+* Bindung Mensch Tier - physiologische Effekte
+* Das Tier als Helfergestalt (Hunde & Katzen)
+* Grenzen der Tiere und Grenzen der tiergestützten psychosozialen Beratung
+* Beziehung Halter und Tier
+* rechtliche Grundlagen (Tierschutzgesetz) um in der Praxis arbeiten zu dürfen
 
-{{% /small%}}
-{{% /box %}}
-{{% box top-align=1 %}}
-{{% small  %}}
 
-## PRÜFUNG
-
-Der Lehrgang schließt ohne Prüfung ab.
 
 {{% /small  %}}
-
 {{% small  %}}
-## Leitung
-
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
-
+## Modul 2
+* Inhalte folgen
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 {{% /small  %}}
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
-s
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
+
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+
+{{% /small%}}
+{{% /box %}}
+
+## Leitung & Prüfung
+
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+
+{{% box top-align=1 %}}
+{{% small  %}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
