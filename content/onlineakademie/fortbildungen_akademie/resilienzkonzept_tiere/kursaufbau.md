@@ -33,7 +33,7 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit Modul 1
 
 
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
 
 ***
 {{% box top-align=1 %}}

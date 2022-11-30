@@ -25,7 +25,7 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 * **Ausbildungskosten:€ 490,-** <br/>
-Zahlung nach Anmeldung. <br/>
+Zahlung sofort. <br/>
 
 
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
