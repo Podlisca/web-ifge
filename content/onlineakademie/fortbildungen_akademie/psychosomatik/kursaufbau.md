@@ -45,27 +45,33 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ###
 #### Modul 1
 
-* Das tiergestützte Setting
-* Unterschied: Therapiehund / Hunde in der psychosozialen Beratung
-* Bindung Mensch Tier - physiologische Effekte
-* Das Tier als Helfergestalt (Hunde & Katzen)
-* Grenzen der Tiere und Grenzen der tiergestützten psychosozialen Beratung
-* Beziehung Halter und Tier
-* rechtliche Grundlagen (Tierschutzgesetz) um in der Praxis arbeiten zu dürfen
-
+* Der ganzheitliche Blick
+* Stress
+* Work-Life-Balance
+* Die 7 Aura-Schichten
+* Die acht Resilienzfaktoren
+* Selbstfürsorge & Psychosomatik
+* Die 5 Elemente im Überblick
+* Zentralgefäß & Gouverneursgefäß
+* Herz-, Dünndarmmeridian
+* Kreislaufsexus & 3-Fach-Erwärmer
+* Nieren- & Blasenmeridian 
+* Maggen- & Milzmeridian
+* Lungen- & Dickdarmmeridian
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
-* Inhalte folgen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Der menschliche Körper - Die Grundlagen
+* Organe & Psychosomatik
+* Häufige psychosomatische Erkrankungen
+* Burn-Out 7-Phasen
+* Burn-Out Symptome
+* Burn-Out Faktoren
+* Denken und Problemlösungen
+* Lebensqualität erhöhen
+
 {{% /small  %}}
 
 {{% small  %}}
