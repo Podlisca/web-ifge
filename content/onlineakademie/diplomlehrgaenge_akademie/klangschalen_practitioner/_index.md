@@ -131,6 +131,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{% /small %}}
 
 </div> 
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% /floatbox %}}

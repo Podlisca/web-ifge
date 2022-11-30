@@ -25,7 +25,7 @@ rich_faq:
 
 {{< line icon="icon/beratung.png" >}}
 
-## Seite im Aufbau
+## Besonderheit Sexualberatung
 
 <div class="box video">
 {{% small %}}
@@ -36,14 +36,20 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
+**Sexualität** ist ein wichtiger Bestandteil für die **menschliche Gesundheit**. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, **ungesunde Bewältigungsversuche**. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Genau deshalb braucht es **gut ausgebildete Experten\*innen** um Klient\*innen zu unterstützen. 
 
-**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+In dieser Onlineausbildung erhaltst Du spannende Einblick und erlernst die wichtigsten Grundlagen um Sicherheit mit dem Thema Sexualität in der [psychosozialen Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) zu erhalten.
+
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
+
+
+
+Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und ["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst die Körperebenen ebenfalls zu berücksichtigen. 
+
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 

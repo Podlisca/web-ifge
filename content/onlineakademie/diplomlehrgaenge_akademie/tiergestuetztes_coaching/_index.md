@@ -136,11 +136,12 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 {{< youtube 4DxIm-3wNWI>}}
 {{% /small %}}
 
+
 </div> 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
 {{< line icon="noun_Information_478770-2.png" >}}
-</div> 
+
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

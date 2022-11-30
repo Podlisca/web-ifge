@@ -39,12 +39,14 @@ weight: 1
 
 **Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
 
+Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und ["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/).
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
 
-#### Kick-off 
-#### Kursmaterial für eine Woche
+#### Turnus 1
+#### Kursmaterial für drei Wochen
 * 
 * 
 
@@ -52,7 +54,7 @@ weight: 1
 {{% /small  %}}
 
 {{% small  %}}
-#### Turnus 1
+#### Turnus 2
 #### Kursmaterial für drei Wochen
 
 * 
@@ -60,7 +62,7 @@ weight: 1
 
 {{% /small  %}}
 {{% small  %}}
-#### Turnus 2
+#### Turnus 3
 #### Kursmaterial für drei Wochen
 
 * 
@@ -73,23 +75,20 @@ weight: 1
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Turnus 3
-#### Kursmaterial für drei Wochen
-
-* 
-* 
-
-
-
-{{% /small  %}}
-
-{{% small  %}}
 #### Turnus 4
 #### Kursmaterial für drei Wochen
 
 * 
 * 
-* 
+
+
+
+{{% /small  %}}
+
+{{% small  %}}
+#### PRÜFUNG
+
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
 {{% /small  %}}
@@ -97,9 +96,12 @@ weight: 1
 {{% small  %}}
 
 
-## PRÜFUNG
+## Leitung
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
+* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+
 
 
 
@@ -111,11 +113,6 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 4. Turn
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
 
-## Leitung
-
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 
 
