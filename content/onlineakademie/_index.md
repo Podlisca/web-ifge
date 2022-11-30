@@ -86,6 +86,10 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{% kursbox %}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
 {{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+{{< kurs titel="Upgrade Sexualberatung Online" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/bv_wirkung.jpg" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/silvia_klangschale.jpg" >}}
+{{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/silvia_klangschale.jpg" color="light-red" >}}
 
 {{% /kursbox %}}
 

@@ -1,5 +1,5 @@
 ﻿---
-title: "Upgrades"
+title: "Upgrades in Präsenz"
 name: ausbildung
 draft: false
 weight: 3
@@ -14,15 +14,16 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 {{% float-images %}}
-{{< image src="/img/philo_upgrades1.jpg" >}}
+{{< youtube 17RcDuirOWs>}}
 {{< linebreak >}}
 {{< image src="/img/philo_upgrades2.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
 {{< linebreak >}}
 {{% /float-images %}}
+
 
 ## Menschen bilden, begleiten und bereichern
 
@@ -30,7 +31,7 @@ Das [Institut für ganzheitliches Erleben (IFGE)](https://www.ifge.at/about/inst
 
 Unter der Leitung von [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) werden am IFGE seit Jahren zukünftige [psychosoziale Berater\*innen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) allumfassend ausgebildet. Im Institut können Teilnehmer\*innen und Absolvent\*innen gleichsam eine Vielzahl an [Diplomausbildungen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/), [(Online)](https://www.ifge.at/online-ausbildungsangebote/onlinephilosophie/)[Fortbildungen](https://www.ifge.at/praesenz-ausbildungen/fortbildungen/) und [Upgrades](https://www.ifge.at/upgrades/) in Anspruch nehmen. 
 
-Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode: 
+Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
 
 **SGF®-Methode**
 **Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca**
@@ -42,7 +43,6 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 {{< silvia >}}
 
-{{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -83,31 +83,16 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="/praesenz-ausbildungen/fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
 {{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/praesenz-ausbildungen/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
 {{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau" image="/img/planspiel_praxisaufbau.jpg">}}
+{{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
 
 
 {{% /kursbox %}}
 
-***
-#### Online Ausbildungen & Trainings
-***
-{{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
-{{% /kursbox %}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-***
-#### Tiergestützte Ausbildungen
-***
-{{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
-{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
-{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
-{{% /kursbox %}}
+## Unsere Ausbildungen im Überblick
 
+Wenn Sie sich auch für Online-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unser [Online-Live-Format](/online-ausbildungsangebote) oder in die [Online-Akademie](/onlineakademie).
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -136,11 +121,11 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% small %}}
 
 ### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube 17RcDuirOWs >}}
+{{< youtube R0Iyo_175nY >}}
 {{% /small %}}
 {{% small %}}
 
-### Hunde & Katzen in der psychologischen Beratung
+### Hunde & Katzen in der psychosozialen Beratung
 {{< youtube cPN03jAzqJQ >}}
 {{% /small %}}
 </div> 

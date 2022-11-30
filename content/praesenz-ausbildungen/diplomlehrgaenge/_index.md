@@ -1,9 +1,6 @@
 ﻿---
-title: "Ausbildungsphilosophie und Kursangebote"
+title: "Diplomausbildungen in Präsenz"
 name: ausbildung
-menu: 
-    main:
-        parent: diplomlehrgaenge
 draft: false
 weight: 1
 description: "Es ist mir ein persönliches Anliegen, dass meine Schülerinnen und Schüler in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen. Machen Sie sich ein Bild davon!"
@@ -14,49 +11,40 @@ aliases:
     - "/ausbildungsangebote/"
 ---
 
+
 # Ausbildungsphilosophie am IFGE 
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 {{% floatbox %}}
 {{% float-images %}}
 {{< youtube 17RcDuirOWs>}}
 {{< linebreak >}}
-{{< image src="/img/philo_noe_ausbildung.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
+{{< image src="/img/philo_upgrades2.jpg" title="Das IFGE steht für Beratung und Ausbildung auf Augenhöhe und bietet neben modernsten Unterrichtsmaterialien eine gemütliche und lernfreundliche Umgebung. Augenhöhe im Unterricht hat für mich auf mehreren Ebenen eine Bedeutung. Einerseits geht es natürlich darum, den wertschätzenden Umgang mit Klient\*innen auf Augenhöhe nachhaltig zu vermitteln, es geht aber auch darum, dass ich meine SchülerInnen vom ersten Tag an als angehende KollegInnen betrachte. " >}}
 {{< linebreak >}}
 {{% /float-images %}}
 
+
 ## Menschen bilden, begleiten und bereichern
 
-In meinem Institut (IFGE) habe ich es mir zum Ziel gesetzt, dass
-{{% box %}}
-* Herzlichkeit,
-* Schulung in systemischer- und personenzentrierter Gesprächsführung sowie gewaltfreier, Kommunikation,
-* Achtsamkeit, Wertschätzung und arbeiten auf Augenhöhe,
-* Kompetenz - sowohl im komplementär-medizinischen, psychosomatischen wie im beraterischen Bereich,
-* flexible, individuelle und persönliche Betreuung in Kleingruppen 
-{{% /box %}}
+Das [Institut für ganzheitliches Erleben (IFGE)](https://www.ifge.at/about/institut/) zählt zu den qualitativsten Beratungs- sowie Ausbildungszentren im Bereich der psychosozialen Arbeit in Wien und eröffnete 2019 in Pinkafeld die erste Zweigstelle und 2020 die Zweite in Sankt Pölten. [Zentral gelegen](https://www.ifge.at/kontakt/), an einer der besten Adressen der Stadt in der Mariahilfer Straße, am Hauptplatz in Pinkafeld und in der Schneckgasse in Sankt Pölten, vereint das Institut seit vielen Jahren Intuition, Fachwissen, Gefühl und Erfolg.
 
-an erster Stelle stehen. Es ist mir ein persönliches Anliegen, dass meine Teilnehmer\*innen in ihrer Arbeit authentisch, professionell und erfolgreich agieren. Daher achte ich besonders auf die unvergleichliche Qualität meiner Lehrgänge, Seminare und Zusatzausbildungen.
+Unter der Leitung von [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) werden am IFGE seit Jahren zukünftige [psychosoziale Berater\*innen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) allumfassend ausgebildet. Im Institut können Teilnehmer\*innen und Absolvent\*innen gleichsam eine Vielzahl an [Diplomausbildungen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/), [(Online)](https://www.ifge.at/online-ausbildungsangebote/onlinephilosophie/)[Fortbildungen](https://www.ifge.at/praesenz-ausbildungen/fortbildungen/) und [Upgrades](https://www.ifge.at/upgrades/) in Anspruch nehmen. 
 
-Neben der Herzlichkeit, die einen wesentlichen Teil meiner Arbeit begleitet, ermöglichen ständige fachliche Weiterentwicklungen aller Referent\*innen und neueste Unterrichtstechniken, wie das Smartboard, wodurch erarbeitete Unterrichtsmaterialien auf PCs, Smartphones und Tablets der Teilnehmer\*innen gesendet werden, jene Ausbildungsqualität, die mir als Institutsleiterin sehr am Herzen liegt. 
-<br/>
-<br/>
-<br/>
-Nach über **22 Jahren intensivster Beschäftigung mit Familienaufstellungen**, entwickelte ich, basierend auf den Grundlagen von Bert Hellinger, meine **eigene Aufstellungsmethode**:
+Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
 
-#  SGF®-Methode
-## Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca
+**SGF®-Methode**
+**Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca**
 
 Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles, höchst persönliches Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht. Eine Methode mit Herz, Weitblick und Wertschätzung für Familien – wo jeder Mensch das gleiche Recht hat gesehen, gehört und anerkannt zu werden.	
 
-<br/>
-{{< silvia >}}
+Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psychologischen Beratung mit Hunden und Katzen](https://www.ifge.at/psychologische-beratung/familienaufstellungen/).
 
-{{% /floatbox %}}
+
+{{< silvia >}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -103,34 +91,11 @@ Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles,
 
 {{% /kursbox %}}
 
-***
-#### Online Ausbildungen & Trainings
-***
-{{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
-{{% /kursbox %}}
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-***
-#### Online-Akademie: Ausbildungen 100% Online
-***
-{{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
-{{% /kursbox %}}
+## Unsere Ausbildungen im Überblick
 
-***
-#### Tiergestützte Ausbildungen
-***
-{{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/" image="/img/coaching_tiergestuetzt.jpg" color="light-red" >}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/tiere_als_resilienzkonzept/" image="/img/bv_wirkung.jpg" >}}
-{{< kurs titel="Erste Hilfe für Hunde" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_hunde/" image="/img/erste_hilfe_hunde.jpg" color="light-red" >}}
-{{< kurs titel="Erste Hilfe für Katzen" link="https://www.berufsverband-tiergestuetzteberatung.at/kurse/erste_hilfe_katzen/" image="/img/kursuebersicht_eh_katzen.jpg" >}}
-{{% /kursbox %}}
-
+Wenn Sie sich auch für Online-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unser [Online-Live-Format](/online-ausbildungsangebote) oder in die [Online-Akademie](/onlineakademie).
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -159,7 +124,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% small %}}
 
 ### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube 17RcDuirOWs >}}
+{{< youtube R0Iyo_175nY >}}
 {{% /small %}}
 {{% small %}}
 
