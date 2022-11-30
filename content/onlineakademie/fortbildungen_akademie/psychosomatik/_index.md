@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: psychosomatik
-draft: true
+draft: false
 weight: 4
 description: "Ganzheitlich gesund - Grundlagen Psychosomatik"
 og_title: "Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik"
