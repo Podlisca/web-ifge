@@ -23,8 +23,10 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-* **Ausbildungskosten:€ 290,-** <br/>
+* **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort  <br/>
 
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}

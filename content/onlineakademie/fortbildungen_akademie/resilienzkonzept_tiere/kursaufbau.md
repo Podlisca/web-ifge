@@ -31,7 +31,7 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit Modul 1
-
+* Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
 
@@ -73,7 +73,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /small%}}
 {{% /box %}}
 
-## Leitung & Prüfung
+## Leitung 
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)

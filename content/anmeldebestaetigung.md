@@ -17,7 +17,7 @@ conversiontracker: true
 
 {{< image src="/img/silvia_onlineakdademie.jpg" float="left" title="Ich bedanke mich für Ihre Anmeldung und freue mich Sie am IFGE begrüßen zu dürfen." >}}
 
-Vielen Dank für Ihre Buchung! Sobald die Kurskosten am IFGE Konto eingelangt ist, ist die Buchung verbindlich und der Seminarplatz fix für Sie reserviert. Bei Kauf eines Onlinekurs wird der Zugang umgehend frei geschalten. 
+Vielen Dank für Ihre Buchung! Sobald die Kurskosten am IFGE Konto eingelangt sind, ist die Buchung verbindlich und der Seminarplatz fix für Sie reserviert. Bei Kauf eines Onlinekurs wird der Zugang umgehend frei geschalten. 
 
 Die Bankdaten:
 

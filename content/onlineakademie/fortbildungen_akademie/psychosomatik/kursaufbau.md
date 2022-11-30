@@ -23,7 +23,8 @@ weight: 1
 
 
 ## Organisatorisches 
-Der Onlinekurs „Ganzheitlich gesund - Grundlagen der Psychosomatik“ stellt sich aus Lehrseminaren der Onlineausbildung zum Klangschalen Practitioner zusammen.
+Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+
 Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * **Start sofort nach Zahlungseingang**
@@ -35,71 +36,53 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
 
 ***
+
 {{% box top-align=1 %}}
 {{% small  %}}
-
-#### Willkommen
-#### Freischaltung nach Zahlungseingang
-* Silvia Podlisca stellt sich vor
-* Susanne - Gastreferentin für Medizin stellt sich vor
-
-{{% /small  %}}
-{{% small  %}}
+###
 #### Modul 1
-#### Kursmaterial für drei Wochen
-* Der ganzheitliche Blick
-* Stress
-* Work-Life-Balance
-* Die 7 Auraschichten
-* Die 8 Resilienzfaktoren
-* Selbstfürsorge & Psychosomatik
-* Die 5 Elemente im Überblick
-* Zentralgefäß & Gouverneursgefäß
-* Herz-, Dünnndarmmeridian, Kreislaufsexus & 3-Fach-Erwärmer
-* Magen- & Milzmeridian
-* Lungen- & Dickdarmmeridian 
 
-ik
+* Das tiergestützte Setting
+* Unterschied: Therapiehund / Hunde in der psychosozialen Beratung
+* Bindung Mensch Tier - physiologische Effekte
+* Das Tier als Helfergestalt (Hunde & Katzen)
+* Grenzen der Tiere und Grenzen der tiergestützten psychosozialen Beratung
+* Beziehung Halter und Tier
+* rechtliche Grundlagen (Tierschutzgesetz) um in der Praxis arbeiten zu dürfen
+
 
 
 {{% /small  %}}
-
 {{% small  %}}
-#### Modul 2
-#### Kursmaterial für drei Wochen
-* Der menschliche Körper - die Grundlagen
-* Der menschliche Körper - Organe & Psychosomatik
-* häufige psychosomatische Erkrankungen
-* Burn-Out - 7 Phasen
-* Burn-Out - Symptome
-* Burn-Out - Faktoren
-* Denken und Problemlösungen
-* Lebensqualität erhöhen & Lebenszufriedenheit
-
-
-{{% /small%}}
-{{% /box %}}
-{{% box top-align=1 %}}
-{{% small  %}}
-
-## PRÜFUNG
-
-Der Lehrgang schließt ohne Prüfung ab.
-
-{{% /small  %}}
-
-{{% small  %}}
-## Leitung
-
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
-
+## Modul 2
+* Inhalte folgen
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 {{% /small  %}}
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
 
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
+{{% /small%}}
+{{% /box %}}
+
+## Leitung 
+
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+
+{{% box top-align=1 %}}
+{{% small  %}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
