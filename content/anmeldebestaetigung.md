@@ -7,7 +7,7 @@ conversiontracker: true
 ---
 
 
-# Vielen Dank für Ihre Anmeldung
+# Herzlichen Dank 
 
 {{< slogan >}}
 
@@ -15,14 +15,20 @@ conversiontracker: true
 
 {{% floatbox %}}
 
-{{< image src="/img/silvia_noe3.jpg" float="left" title="Ich bedanke mich für Ihre Anmeldung und freue mich Sie am IFGE begrüßen zu dürfen." >}}
+{{< image src="/img/silvia_onlineakdademie.jpg" float="left" title="Ich bedanke mich für Ihre Anmeldung und freue mich Sie am IFGE begrüßen zu dürfen." >}}
 
-Vielen Dank für Ihre Anmeldung!
+Vielen Dank für Ihre Buchung! Sobald die Kurskosten am IFGE Konto eingelangt ist, ist die Buchung verbindlich und der Seminarplatz fix für Sie reserviert. Bei Kauf eines Onlinekurs wird der Zugang umgehend frei geschalten. 
 
-In Kürze erhalten Sie Ihre Anmeldebestätigung per E-Mail. 
+Die Bankdaten:
 
-Bitte beachten Sie, dass dies noch keine verbindliche Platzreservierung darstellt.  
-Diese erhalten Sie von mir in einer weiteren E-Mail. 
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+Laufend auf Silvia Podlisca – IFGE
+
+Die Rechnung wird separat von der Buchhaltung zugestellt. Bei Fragen oder Wünsche bitte jederzeit melden.
+
 
 Herzliche Grüße
 
