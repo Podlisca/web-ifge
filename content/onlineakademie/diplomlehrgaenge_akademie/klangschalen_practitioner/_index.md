@@ -81,6 +81,7 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 {{% /small %}}
 
 </div> 
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -104,11 +105,11 @@ Klangschalenbehandlungen überzeugen durch ihre **harmonisierende, wohltuende Wi
 Silvia´s Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungsprozess oftmals große Wirkung zeigt. Insbesondere in der systemischen Arbeit, bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. **Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen?**
 
 Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns.
+
 {{% floatbox %}}
 
 
-</div> 
-
+s
 ***
 # Hier ein kleiner Einblick in die Ausbildung:
 #### In Summe umfasst die Ausbildung über 100 Lehrvideos
