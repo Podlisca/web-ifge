@@ -35,7 +35,7 @@ rich_faq:
 {{% small %}}
 ## Ganzheitlich Gesund - wenn Köper, Geist und Seele im Einklang sind
 
-Die **Psychosomatik** ist ein hochgradig spannender Teilbereich der **ganzheitlichen Gesundheit** und kann in der psychologischen Beratung für Berater*innen sowie für deren Klient\*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten **emotionalen Dynamiken** auf die Spur zu kommen.
+Die **Psychosomatik** ist ein hochgradig spannender Teilbereich der **ganzheitlichen Gesundheit** und kann in der **psychosozialen Beratung** für Berater\*innen sowie für deren Klient\*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten **emotionalen Dynamiken** auf die Spur zu kommen.
 
 „Das geht mir an die Nieren.“
 „Ich hab die Nase voll.“
@@ -45,6 +45,7 @@ Die **Psychosomatik** ist ein hochgradig spannender Teilbereich der **ganzheitli
 {{% /small %}}
 </div> 
 
+Schon diese Beispiele des Volksmundes zeigen die untrennbare **Verbindung von Körper und Geist**. Diese und andere **psychosomatische Aussprüche** sind bereits ein wesentlicher Hinweis darauf, wie sehr seelische Themen sich auf der Körperebene zeigen können, wenn sie nicht oder unzureichend beachtet wurden. Der medizinische Teilbereich der Psychosomatik beschäftigt sich wissenschaftlich mit den Phänomenen, die traditionelle Heilverfahren seit jeher ganzheitlich im Blick haben: Dazu gehört die **Auswirkung von seelischem Erleben und emotionalen Belastungen** auf den Körper und auf das Entstehen von Krankheiten.
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
