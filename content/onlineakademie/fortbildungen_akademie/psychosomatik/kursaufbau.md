@@ -70,6 +70,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Burn-Out Symptome
 * Burn-Out Faktoren
 * Denken und Problemlösungen
+* Die sieben häufigsten Gedächtnisfehler nach Schacter 
 * Lebensqualität erhöhen
 * gelernter Optimismus
 * Zehn positive Emotionen nach Barbara Fredrickson
