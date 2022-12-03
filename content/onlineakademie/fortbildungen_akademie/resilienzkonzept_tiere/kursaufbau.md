@@ -82,6 +82,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+* [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
 {{% box top-align=1 %}}
 {{% small  %}}
