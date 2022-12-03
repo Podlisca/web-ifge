@@ -60,6 +60,8 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 * Kindchenschema
 * Das Tier als Helfergestalt (Hunde & Katzen)
 * Interventionsmöglichkeiten
+* gelernter Optimismus
+* Zehn positive Emotionen nach Barbara Fredrickson
 * Das tierische Team verändert sich
 * Grundlagen der systemischen Tieraufstellung
 * Hundegestütztes Setting: Outdoor
