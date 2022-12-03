@@ -33,6 +33,7 @@ weight: 1
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten das **Kick-off** mit den  Willkommensvideos und den ersten kleinen Aufgaben **Material für eine Woche** 
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (4 Turnusse). 
 * Drei Wochen nach Turnus 4 wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhelten Sie ein Zertifikat über die Teilnahme. 
+* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 

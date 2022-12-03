@@ -40,28 +40,33 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 {{% small  %}}
 ###
 #### Modul 1
-
+* Das Team stellt sich vor
+* Grundlagen der psychosozialen Beratung/Coaching
+* Das Setting: psychosoziale Beratung/Coaching
+* Das Setting: psychologische Beratung Hunde & Katzen
+* Das Setting: psychologische Beratung Pferde
 * Das tiergestützte Setting
 * Unterschied: Therapiehund / Hunde in der psychosozialen Beratung
-* Bindung Mensch Tier - physiologische Effekte
-* Das Tier als Helfergestalt (Hunde & Katzen)
+* Wichtige Begriffe im tiergestützten Coaching
 * Grenzen der Tiere und Grenzen der tiergestützten psychosozialen Beratung
-* Beziehung Halter und Tier
 * rechtliche Grundlagen (Tierschutzgesetz) um in der Praxis arbeiten zu dürfen
-
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
-* Inhalte folgen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Bindung Mensch Tier - physiologische Effekte
+* Beziehung Halter und Tier
+* Kindchenschema
+* Das Tier als Helfergestalt (Hunde & Katzen)
+* Interventionsmöglichkeiten
+* Das tierische Team verändert sich
+* Grundlagen der systemischen Tieraufstellung
+* Hundegestütztes Setting: Outdoor
+* Hundegestützes Setting: Outdoor - Folgegespräch
+* Klientengespräch: Gewitterangst
+* Hundegestütztes Setting: Folgegespräch
+
 {{% /small  %}}
 
 {{% small  %}}
