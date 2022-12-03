@@ -22,7 +22,7 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Seite im Aufbau
+
 
 <div class="box video">
 {{% small %}}
@@ -33,11 +33,12 @@ weight: 3
 {{% /small %}}
 
 {{% small %}}
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+## Du kannst ab 15. Februar 2023 starten
+### danach ist ein Einstieg jederzeit möglich
 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
-Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du schon los starten. Du willst noch schneller los legen - kein Problem! Mit einer **Sofortüberweisung** hast Du den Zugang noch am gleichen Tag.
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **15. Februar 2023**  los starten. 
 
 
 {{% /small %}}

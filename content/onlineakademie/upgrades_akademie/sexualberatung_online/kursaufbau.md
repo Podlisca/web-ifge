@@ -24,18 +24,19 @@ weight: 1
 
 ## Organisatorisches 
 
+
+
 * **Start sofort nach Zahlungseingang**
 * Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
-* Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
-* **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
+* Nach der Anmeldung & Überweisung der (An)Zahlung starten das **Kick-off** mit den  Willkommensvideos und den ersten kleinen Aufgaben **Material für eine Woche** 
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (4 Turnusse). 
-* Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhelten Sie ein Zertifikat über die Teilnahme. 
+* Drei Wochen nach Turnus 4 wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhelten Sie ein Zertifikat über die Teilnahme. 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 
-## Auszug Kursinhalte - Seite im Aufbau
+## Auszug Kursinhalte 
 
 **Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
 
@@ -45,55 +46,79 @@ Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütz
 {{% box top-align=1 %}}
 {{% small  %}}
 
-#### Turnus 1
+#### Kick-off 
 #### Kursmaterial für drei Wochen
-* 
-* 
+* Das Team stellt sich vor
+* Grundlegendes in der Sexualberatung
+* PLISSIT - Beratermodell in Sexualberatung
+* Haltung des Beraters / der Bearterin in der Sexualberatung
+* Erste Übungen zur Selbstreflektion 
+* Übung: Der/die  Klient\*in führt
 
 
 {{% /small  %}}
 
+{{% small  %}}
+#### Turnus 1
+#### Kursmaterial für drei Wochen
+
+* Sexualität und Sprache
+* Umgang mit Stille in der Beratung
+* Sexuelle Identitäten und Orientierungen
+* LGBTIQ
+* Lust-Verlust & Lust Gewinnung
+* Erlaubnis gebende Interventionen zur Lustfindung
+
+{{% /small  %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* 
-* 
-
-{{% /small  %}}
-{{% small  %}}
-#### Turnus 3
-#### Kursmaterial für drei Wochen
-
-* 
-* 
-
-
+* Grundlagen der Paarberatung
+* Auftragsklärung
+* Unterschiede Paarberatung/Sexualberatung
+* Phantasien, Wünsche, Bedürfnisse
+* Machtspiele in Beziehungen
+* Sexuelle Gesundheit in einer Beziehung
 
 {{% /small%}}
 {{% /box %}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Turnus 4
+#### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* 
-* 
-
-
+* Abweichende Neigungen und Paraphilien
+* BDSM Basis 
+* Neosexualität
+* Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
+* Fetische, Paraphilien, Sexualstörungen 
+* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
 
 {{% /small  %}}
 
 {{% small  %}}
+####  Modul 4
+#### Kursmaterial für drei Wochen
+
+* Täter- & Opferhaltungen
+* Ausstieg aus Täter- & Opferhaltungen
+* Sexuelle Gewalt: Opfer und Täterarbeit
+* Sexualität und Alter
+* Sexualität un Behinderung
+
+{{% /small  %}}
+
+{{% small  %}}
+
 #### PRÜFUNG
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-
-
+Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
 {{% /small  %}}
 
-{{% small  %}}
+{{% /box %}}
+
 
 
 ## Leitung
@@ -101,14 +126,6 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 4. Turn
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
-
-
-
-
-{{% /small  %}}
-
-{{% /box %}}
-
 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}

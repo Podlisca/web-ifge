@@ -22,15 +22,20 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-## Seite im Aufbau
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+## Besonderheit: Sexualberatung
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
 
-**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+Durch die **100% Onleinausbildung** „Besonderheit - Sexualberatung“  erhälst Du nicht nur eigene Sicherheit in diesem Themenkomplex, sondern vor allem **spezifisches Know-how** in der Beratung von Einzelpersonen und Paaren, deren Anliegen sich um den breit gefächerten Bereich der Sexualität drehen.
+
+Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardunterricht weit hinaus und bietet die Festigung sowie eine **wesentliche Vertiefung** des Fachwissens in diesem Themengebiet
+
 
 {{% /small %}}
 </div> 
+
+Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und ["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst die Körperebenen ebenfalls zu berücksichtigen. 
+
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
