@@ -71,6 +71,10 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Burn-Out Faktoren
 * Denken und Problemlösungen
 * Lebensqualität erhöhen
+* gelernter Optimismus
+* Zehn positive Emotionen nach Barbara Fredrickson
+
+
 
 {{% /small  %}}
 
