@@ -39,8 +39,6 @@ weight: 1
 
 ## Auszug Kursinhalte 
 
-**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
-
 Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und ["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/).
 
 
@@ -55,6 +53,7 @@ Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütz
 * Haltung des Beraters / der Bearterin in der Sexualberatung
 * Erste Übungen zur Selbstreflektion 
 * Übung: Der/die  Klient\*in führt
+* 2 Klientengespäche 
 
 
 {{% /small  %}}
@@ -69,6 +68,8 @@ Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütz
 * LGBTIQ
 * Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
+* 2 Klientengespäche 
+
 
 {{% /small  %}}
 {{% small  %}}
@@ -81,6 +82,8 @@ Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütz
 * Phantasien, Wünsche, Bedürfnisse
 * Machtspiele in Beziehungen
 * Sexuelle Gesundheit in einer Beziehung
+* 2 Klientengespäche 
+
 
 {{% /small%}}
 {{% /box %}}
@@ -96,6 +99,8 @@ Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütz
 * Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
 * Fetische, Paraphilien, Sexualstörungen 
 * Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
+* 2 Klientengespäche 
+
 
 {{% /small  %}}
 
@@ -108,6 +113,8 @@ Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütz
 * Sexuelle Gewalt: Opfer und Täterarbeit
 * Sexualität und Alter
 * Sexualität un Behinderung
+* 2 Klientengespäche 
+
 
 {{% /small  %}}
 
