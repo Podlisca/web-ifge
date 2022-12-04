@@ -20,17 +20,33 @@ aliases:
 
 {{< line icon="icon/silvia.png" >}}
 
-{{% floatbox %}}
+{{% small %}}
 
-{{< image src="/img/uber_mich_2023.jpg" float="left" title="Ich arbeite seit 2000 im psychosozialen Bereich und ich bin heute noch genau so begeistert und voller Leidenschaft bei meiner Berufung. Hierbei ist mir der Mix zwischen Lehrtätigkeit und die Arbeite in der psychosozialen Beratung sehr wichtig. Denn nur wer die Praxis gut kennt, kann diese erfolgreich weitervermitteln. Meine gesammelten Erfahrungen ließen selbstverständlich in allen Lehrgängen (Lebens- und Sozialberatung, Aufstellungsarbeit., Sexualberatung, Paarberatung, Coaching, Supervision) ein.">}}
+<div class="box video">
+{{% small %}}
+
+{{< youtube 17RcDuirOWs>}}
+
+
+{{% /small %}}
+
+{{% small %}}
+
 
 Ich bin am 20.03.1974 in Wien geboren und verbrachte meine Kindheit und Ju­gend­zeit sowohl in Wien wie auch im Burgenland (Buchschachen). Schon seit frühester Kindheit haben mich die Gespräche der Erwachsenen interessiert und besonders spannend war für mich immer, dass Menschen in ihren verschiedensten Belastungssituationen immer wieder das Gleiche erzählen. 
 
 Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategien zur Problemlösung anwenden und dabei hoffen, diesmal damit nun doch eine Änderung herbeiführen zu können. Die Argumente, die ich schon als Kind hörte, wurden heftiger und heftiger, mir fiel jedoch auf, dass die Probleme dadurch gleichzeitig immer nur größer und größer wurden.
 
+{{% /small %}}
+</div> 
+
+{{% floatbox %}}
 Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit betrachtet habe. Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“.
 
-{{% /floatbox %}}
+{{< line icon="icon/familienaufstellung.png" >}}
+
+## Meine Vision 
+
 
 {{% box blue=1 margin=1 %}}
 {{% large %}}
