@@ -18,10 +18,15 @@ aliases:
 
 ## Wir vermitteln Wissen mit Spaß, Leidenschaft und persönlichem Engagement!
 
-{{% floatbox %}}
+<div class="box video">
+{{% small %}}
 
-{{< image src="/img/teamfoto.jpg"title="Das gesamte IFGE Team steht für Freude am Tun. Jeder Referent, jede Referentin bemüht sich, Sie in ihrer Ausbildung zu unterstützen. Wofür auch immer Sie sich am IFGE entscheiden – wir freuen uns auf Sie und geben unser Bestes." float="left" >}}
+{{< youtube 17RcDuirOWs>}}
 
+
+{{% /small %}}
+
+{{% small %}}
 Das IFGE-Team wächst stetig - aufgrund der Teamgröße konnten nicht alle Referent*innen am gleichen Fototermin vor Ort sein.
 
 Alle Ausbildungen beinhalten Schulungen in:
@@ -33,24 +38,24 @@ Alle Ausbildungen beinhalten Schulungen in:
 
 {{% /box %}}
 
-Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchsten Ausbildungsstandard zu garantieren!
+{{% /small %}}
+</div> 
 
+Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchsten Ausbildungsstandard zu garantieren! <br/>
+<br/>
 {{% silvia %}}
 
-Um die hohe Qualität weiterhin zu sichern, durchläuft jede\*r Trainer\*in  eine 2,5 jährige interne Ausbildung um anschließend am IFGE unterrichten zu können.
-
-{{% /floatbox %}}
-
  {{< line icon="icon/silvia.png" >}}
-
+## Büro
 {{% box blue=1 %}}
 {{% small  %}}
 
-#### Dominique Karlovits
 
+
+#### Maureen Brunner
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/karlovits.jpg"title="Dominique Karlovits betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
+{{< image src="/img/seminarraum.jpg"title="Maureen betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
 {{% /small  %}}
 {{% small %}}
 
