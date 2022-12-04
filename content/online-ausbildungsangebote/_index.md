@@ -85,25 +85,13 @@ Sie möchten von Vortragenden begleitet werden und in der Gruppe lernen? Wünsch
 {{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/online-fortbildungen/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
-***
-
-#### Online-Akademie: 100% Online-Format
-
-
-{{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
-{{% /kursbox %}}
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-## Unsere Ausbildungen im Überblick
+## Möchten Sie lieber in einem anderen Format an einer Ausbildunge teilnehmen? 
 
-Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen).
-
-
-
+Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen). Vielleicht interessieren Sie auch unsere 100% Online Format? Mehr dazu finden Sie in unserer [Kursübersicht](/onlineakademie).
 
 
 
