@@ -11,20 +11,28 @@ og_image: "/img/ks_team.jpg"
 
 {{< line icon="icon/zitat.png" >}}
 
-{{% floatbox %}}
+<div class="box video">
+{{% small %}}
 
-{{< image src="/img/ks_team.jpg" title="fotobeschreibung"float="left">}}
+{{< youtube b8tlo6e4M5M>}}
 
-Mit dieser Ausbildung erhalten Sie umfangreiches Wissen.
 
-<br/>
+{{% /small %}}
+
+{{% small %}}
+
+Weitere Infos folgen. Sieh dir in der Zwischenzeit das praktische Video an.
 
 {{< silvia >}}
 
+{{% /small %}}
+</div> 
 
 
 
-{{% /floatbox %}}
+
+
+
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -36,11 +44,10 @@ Mit dieser Ausbildung erhalten Sie umfangreiches Wissen.
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/klangschale.png">}}
+{{< line icon="icon/familienaufstellung.png">}}
 
 #### Weitere Infos folgen!
 
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
