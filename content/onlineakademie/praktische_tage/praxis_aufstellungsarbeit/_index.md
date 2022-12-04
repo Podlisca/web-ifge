@@ -1,13 +1,13 @@
 ﻿---
-title: "Aufstellungsarbeit nach der SGF®-Methode - Intensivtraining"
+title: "Praktische Tage im Präsenzunterricht"
 menu: 
     main:
         parent: praktische_tage_akademie
-        identifier: praxis_aufstellungsarbeit
+        identifier: praktische_tage
 draft: false
 weight: 5
-description: "Aufstellungsarbeit nach der SGF®-Methode - Intensivtraining"
-og_title: "Aufstellungsarbeit nach der SGF®-Methode - Intensivtraining"
+description: "Praktische Tage im Präsenzunterricht"
+og_title: "Praktische Tage im Präsenzunterricht"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
@@ -16,39 +16,28 @@ rich_faq:
 
 ---
 
-# Intensivtraining: Aufstellungsarbeit nach der SGF®-Methode 
-# WENDE DEIN THEORETISCHES WISSEN IN DER PRAXIS AN 
-{{< slogan >}}
+# Philosophie: Praktische Tage im Präsenzunterricht
 
 
-{{< line icon="icon/psychosomatik.png" >}}
-
-<div class="box video">
-{{% small %}}
-
-{{< youtube 17RcDuirOWs>}}
 
 
-{{% /small %}}
+{{< line icon="icon/raueme.png" >}}
 
-{{% small %}}
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-## Seite ist im Aufbau<br> -<br> wir bitten um etwas Geduld 
+{{% /small  %}}
 
-{{% /small %}}
-</div> 
-
-
-{{< line icon="icon/psychosomatik.png" >}}
-{{% floatbox %}}
-
-{{% iconmenu %}}
-{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
-{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
-{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
-{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
-{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
-{{% /iconmenu %}}
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
+{{% /small  %}}
+{{% small  %}}
+#### Niederösterreich
+{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+ 
 
