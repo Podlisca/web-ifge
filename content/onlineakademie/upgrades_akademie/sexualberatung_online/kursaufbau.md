@@ -34,6 +34,7 @@ weight: 1
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (4 Turnusse). 
 * Drei Wochen nach Turnus 4 wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhelten Sie ein Zertifikat über die Teilnahme. 
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
+* Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 

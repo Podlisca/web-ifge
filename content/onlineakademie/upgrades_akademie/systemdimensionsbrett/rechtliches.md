@@ -37,20 +37,20 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Besonderheit Sexualberatung + Ihren Namen" an.
+zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung B Familienaufstellung - SGF Methode® & SystemDimensionsbrett. + Ihren Namen" an.
 
 
 Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
 ### 1.	Leistung
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Besonderheit Sexualberatung“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Familienaufstellung - SGF Methode® & SystemDimensionsbrett.“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 ### 2.	Zugang
 Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
@@ -70,4 +70,4 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
