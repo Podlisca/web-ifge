@@ -5,7 +5,7 @@ weight: 3
 ---
 
 
-# Onlineausbildung: Familienaufstellung - SFG Methode® - Lösungssätze
+# Onlineausbildung: Familienaufstellung - SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt:  
 {{< slogan >}}
