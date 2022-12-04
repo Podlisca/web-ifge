@@ -2,7 +2,7 @@
 title: "Schulungs- und Supervisionswoche"
 menu: 
     main:
-        parent: "supervision"
+        parent: "gruppensetting"
         identifier: "supervisionswoche"
 draft: false
 weight: 5

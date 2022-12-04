@@ -19,7 +19,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 {{< line icon="icon/beratung.png" >}}
 # Erleben Sie Silvia Podlisca.
 
-Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in [Präsenzkursen](https://ifge.at/praesenz-ausbildungen/) oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von mehr als **20 Jahren Erfahrung** im Bereich psychosoziale Ausbildung und Beratung.
+Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in [Präsenzkursen](https://ifge.at/praesenz-ausbildungen/) oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von mehr als **20 Jahren Erfahrung** im Bereich psychosoziale Ausbildung und Beratung.
 
 
 <div class="box video">
@@ -51,7 +51,7 @@ Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/beruf
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychosoziale Beratung">}}
 
-Im Zentrum der [psychosozialen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) am [IFGE](https://ifge.at/about/institut/) steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der [Lebens- und Sozialberatung](https://ifge.at/psychologische-beratung/einzelberatung/)], die von [Krisen](https://ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/) über [Sexualität](https://ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit [Einzelberatungen](https://ifge.at/psychologische-beratung/systemische-einzelberatung/), [systemischer Aufstellung](https://ifge.at/gruppenselbsterfahrung/familienaufstellung/) oder [Selbsterfahrung](https://ifge.at/psychologische-beratung/einzelberatung/). 
+Im Zentrum der [psychosozialen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) am [IFGE](https://ifge.at/about/institut/) steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der [Lebens- und Sozialberatung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/einzelberatung/)], die von [Krisen](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/spezialisierungen/krisenberatung/) über [Sexualität](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/spezialisierungen/sexualberatung/) bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit [Einzelberatungen](https://ifge.at/psychologische-beratung/systemische-einzelberatung/), [systemischer Aufstellung](https://ifge.at/gruppenselbsterfahrung/familienaufstellung/) oder [Selbsterfahrung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/einzelberatung/). 
 
 [Verschaffen Sie sich einen Überblick über unsere Beratungsangebote](https://ifge.at/psychologische-beratung/berufsbild/)
 

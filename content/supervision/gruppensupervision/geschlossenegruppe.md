@@ -2,7 +2,7 @@
 title: "Geschlossene Supervisionsgruppe"
 menu: 
     main:
-        parent: "supervision"
+        parent: "gruppensetting"
         identifier: "geschlossenegruppe"
 draft: false
 weight: 3
