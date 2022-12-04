@@ -1,23 +1,23 @@
 ﻿---
-title: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
+title: "Systemische Grundlagen Grundlagen & SGF Methode®"
 menu: 
     main:
-        parent: fortbildungen_akademie
-        identifier: systemdimensionsbrett
-draft: true
-weight: 7
-description: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
-og_title: "Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett"
+        parent: upgrade_akademie
+        identifier: systemische_grundlagen
+draft: false
+weight: 5
+description: "Systemische Grundlagen Grundlagen & SGF Methode®"
+og_title: "Ausbildung: Systemische Grundlagen Grundlagen & SGF Methode®"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Gibt es eine weitere Variante von einem Systembrett?"
-        antwort: "Ja, gibt es. Schau dir die Möglichkeiten am SystemDimensionsbrett an."
+    -   frage: "Wo lerne ich Grundlagen der Systemik?"
+        antwort: "In der Online-Ausbildung Systemische Grundlagen Grundlagen & SGF Methode®."
 
 
 ---
 
-# Onlineausbildung: Systemische Aufstellungsarbeit: SGF Methode® - SystemDimensionsbrett
+# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
