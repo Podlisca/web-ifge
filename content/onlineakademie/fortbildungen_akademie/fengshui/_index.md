@@ -23,7 +23,7 @@ rich_faq:
 
 
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/feng_shui.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -48,9 +48,9 @@ rich_faq:
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/feng_shui.png" >}}
 {{% floatbox %}}
 
 {{% iconmenu %}}

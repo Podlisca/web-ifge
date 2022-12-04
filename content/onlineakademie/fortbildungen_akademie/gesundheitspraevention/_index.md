@@ -22,7 +22,7 @@ rich_faq:
 {{< slogan >}}
 
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/gesundheit.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -47,9 +47,9 @@ rich_faq:
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}
 
 {{% iconmenu %}}

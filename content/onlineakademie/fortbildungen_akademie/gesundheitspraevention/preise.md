@@ -26,7 +26,10 @@ weight: 2
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort  <br/>
 
+* **Praktische Tage in Präsenz**  
+Kosten pro Tag: € 290,- <br/>
+max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
 
-## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}

@@ -27,5 +27,10 @@ weight: 2
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort. <br/>
 
+* **Praktische Tage in Präsenz**  
+Kosten pro Tag: € 290,- <br/>
+max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
+
+## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}

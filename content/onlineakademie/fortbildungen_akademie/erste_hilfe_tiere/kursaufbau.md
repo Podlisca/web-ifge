@@ -9,7 +9,7 @@ weight: 1
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/tiere.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -19,7 +19,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/tiere.png" >}}
 
 
 ## Organisatorisches 
