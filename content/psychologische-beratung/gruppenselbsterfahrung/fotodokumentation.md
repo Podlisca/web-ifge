@@ -1,11 +1,9 @@
 ﻿---
-title: "Fotodokumentation" 
-menu: 
-    main:
-        parent: gruppenselbsterfahrung
-        identifier: fotodokumentation
+title: "Fotodokumentation"
 draft: false
 weight: 5
+aliases:
+    - ""
 og_image: "/img/aufstllung_noe3.jpg"
 description: "Die Bilder auf dieser Seite wurden gestellt, um Ihnen einen Einblick in meine Arbeit zu ermöglichen bzw. damit Sie sich einen Eindruck verschaffen können."
 ---

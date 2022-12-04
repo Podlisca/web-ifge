@@ -6,6 +6,8 @@ menu:
         identifier: "supervisionswoche"
 draft: false
 weight: 5
+aliases:
+    - "/supervision/supervisionswoche/"
 description: "Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen."
 og_image: "/img/supervisionswoche.jpg"
 ---

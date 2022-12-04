@@ -2,9 +2,11 @@
 title: "Termine Familienaufstellung"
 menu: 
     main:
-        parent: gruppenselbsterfahrung
+        parent: psychologischeberatung_gruppe
         identifier: termine
 draft: false
+aliases:
+    - "/gruppenselbsterfahrung/termine/"
 weight: 6
 ---
 # Termine

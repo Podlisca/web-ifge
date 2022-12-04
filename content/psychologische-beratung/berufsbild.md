@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung
         identifier: beratung_berufsbild
 draft: false
-weight: 10
+weight: 1
 description: "Sucht hat für Betroffene immer mit einem speziellen Thema zu tun, das schon im Wort selbst liegt: Mit der Suche"
 og_image: "/img/lsb_info_noe.jpg"
 

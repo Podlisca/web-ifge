@@ -2,7 +2,7 @@
 title: "Krisenberatung"
 menu:
     main:
-        parent: psychologischeberatung
+        parent: psychologischeberatung_einzel
         identifier: krisenberatung
 draft: false
 weight: 8

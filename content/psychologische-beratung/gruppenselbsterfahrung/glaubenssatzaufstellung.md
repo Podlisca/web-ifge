@@ -2,10 +2,12 @@
 title: "Glaubenssatzaufstellung"
 menu: 
     main:
-        parent: gruppenselbsterfahrung
+        parent: psychologischeberatung_gruppe
         identifier: glaubenssatzaufstellung
 draft: false
 weight: 3
+aliases:
+    - "/gruppenselbsterfahrung/glaubenssatzaufstellung/"
 description: "Glaubenssatzaufstellung - neue wirksame Realitäten erschaffen! In einer Glaubenssatzaufstellung wird immer darauf geachtet, dass Ihr neuer Weg und Ihre Weiterentwicklung ein Gewinn für alle Familienmitglieder ist."
 og_image: "/img/glaubenssatz1.jpg"
 ---
