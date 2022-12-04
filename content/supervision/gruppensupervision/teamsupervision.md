@@ -2,7 +2,7 @@
 title: "Teamsupervision / Teambuilding"
 menu: 
     main:
-        parent: "supervision"
+        parent: "gruppensetting"
         identifier: "teamsupervision"
 draft: false
 weight: 7

@@ -1,9 +1,9 @@
 ﻿---
-title: "Offene Supervisionstage"
+title: "Online Supervisionstage"
 menu: 
     main:
-        parent: "supervision"
-        identifier: "offenegruppe"
+        parent: "onlinesupervision"
+        identifier: "onlinesupervisionstag"
 draft: false
 weight: 4
 description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
@@ -12,7 +12,7 @@ og_image: "/img/unterricht _2022_system.jpg"
 ---
 
 
-# Offene Supervisionstage 
+# Online Supervisionstage 
 # Wien - Burgenland - Niederösterreich
 
 {{< slogan >}}
@@ -34,7 +34,6 @@ In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sich
 {{< line icon="icon/termine.png" >}}
 
 ## Termine
-**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 
 {{% box top-align=1 %}}

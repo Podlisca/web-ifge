@@ -2,7 +2,7 @@
 title: "Einzelsupervision"
 menu: 
     main:
-        parent: "supervision"
+        parent: "einzelsetting"
         identifier: "einzelsupervision"
 draft: false
 weight: 2
