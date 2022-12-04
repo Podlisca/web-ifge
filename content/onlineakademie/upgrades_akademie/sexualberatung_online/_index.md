@@ -1,5 +1,5 @@
 ﻿---
-title: "Upgrade Sexualberatung Online"
+title: "Besonderheit Sexualberatung"
 menu: 
     main:
         parent: upgrade_akademie

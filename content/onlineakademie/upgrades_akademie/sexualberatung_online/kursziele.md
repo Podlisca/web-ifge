@@ -5,7 +5,7 @@ weight: 1
 og_image: "/img/tier_coaching_1.jpg"
 ---
 
-# Onlineausbildung: Besonderheit Sexualberatung
+# Onlineausbildung: Upgrade Sexualberatung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Sexualberatung
 {{< slogan >}}

@@ -4,9 +4,9 @@ draft: false
 weight: 4
 ---
 
-# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
+# Onlineausbildung: Upgrade Sexualberatung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Sexualberatung
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
