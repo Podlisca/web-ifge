@@ -21,32 +21,33 @@ weight: 3
 {{% /iconmenu %}}
 
 
-{{< line icon="icon/klangschale.png">}}
+{{< line icon="icon/familienaufstellung.png">}}
 ## Online Infovideo ansehen & sofort starten
-
+# **Videos folgen**
 <div class="box video">
 {{% small %}}
 
-### Hier ein kleiner Einblick 
-{{< youtube glB9R-VuEqc>}}
+### Lerne Silvia Podlisca und das IFGE kennen
+{{< youtube 17RcDuirOWs>}}
 
 {{% /small %}}
 {{% small %}}
 
-### Ausführliches Infovideo 
-{{< youtube rZ8Z4oI0i6o>}}
+### Lerne Silvia Podlisca und das IFGE kennen
+{{< youtube 17RcDuirOWs>}}
 
 {{% /small %}}
 {{% small %}}
 
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube UyylWt2Vyd4>}}
+### Lerne Silvia Podlisca und das IFGE kennen
+{{< youtube 17RcDuirOWs>}}
 
 {{% /small %}}
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
+
 
 ## ONLINE: LIVE - INFOSVERANSTALTUNGEN
 
@@ -59,7 +60,7 @@ weight: 3
 
 #### Nächster Ausbildungsbeginn Online
 
-{{< youtube rZ8Z4oI0i6o>}}<br/>
+{{< youtube 17RcDuirOWs>}}<br/>
 
 
 {{%/small  %}}
@@ -75,13 +76,9 @@ Online von 18:30 Uhr - 20:00 Uhr
 
 {{% /small  %}}
 {{% small  %}}
-#### Intensivtraining in Pinkafeld
+#### Praktische Tage
 
-**Start:** 17.07. bis 21.07.2023
-<br/>Mo. - Do. 09:00 bis 18:00 Uhr
-<br/>Fr. 09:00 bis 14:00 Uhr
-<br/>
-
+**[Hier geht es zu den Terminen & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 [Anmeldung](/anmeldung.php)
 
@@ -91,4 +88,4 @@ Online von 18:30 Uhr - 20:00 Uhr
 
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}

@@ -23,22 +23,19 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-### Weihnachtsaktion - 25%
-Aktion gültig bis 24.12.2022
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
-**Spare € 745,- mit der Weihnachtsaktion**<br/>
 
 * **Ratenzahlung: € 3.290,-** <br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>
 3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
-**keine Weihnachtsaktion möglich**<br/>
 
-* **Optional - Intensivtraining in Pinkafeld**  
-€ 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
+* **Praktische Tage**  
+Kosten pro Tag: € 290,- <br/>
+max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
 
-**Spare € 322,50 mit der Weihnachtsaktion** <br/>
-Zahlung bei Anmeldung
+## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}

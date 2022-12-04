@@ -26,21 +26,24 @@ weight: 1
 * **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
-* Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **13 Willkommensvideos und den ersten kleinen Aufgaben** 
+* Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
 * Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
 * Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. 
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
-* Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.
+* Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben.
 
 
 ***
 ## Auszug Kursinhalte
 
-**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
-***
+**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit klassichen Interventionen kombiniert.** 
+Du erhältst auch Tools aus den Onlineausbildungen ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tools auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+
+Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -128,13 +131,15 @@ weight: 1
 
 {{% small  %}}
 #### Optional - 
-#### Intensivtraining in Pinkafeld
+#### Praktische Tage
 * Alle Fragen zum Lehrstoff sind Willkommen
 * Beratungsgespräche üben
 
-Optional - Intensivtraining in Pinkafeld
-Kosten: € 1.290,-
-max. 18 Teilnehmer*\innen
+Optional - pro Tag 
+Kosten: € 290,-
+max. 18 Teilnehmer*\innen 
+
+**[Hier geht es zu den Terminen & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)**
 
 {{% /small  %}}
 
@@ -152,6 +157,5 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turn
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
