@@ -629,11 +629,14 @@ main ul li:nth-child(even) {
 .float-image-cont {
   float: left;
   padding-right: var(--padding-main);
+  width: 394px;
+  max-width: 100%;
 }
 
-.float-image-cont>div {
-  width: 394px !important;
-  max-width: 394 !important;
+@media (max-width: 700px) {
+  .float-image-cont {
+    width: 100%;
+  }
 }
 
 .floatbox ul {
