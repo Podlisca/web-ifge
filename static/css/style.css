@@ -631,6 +631,11 @@ main ul li:nth-child(even) {
   padding-right: var(--padding-main);
 }
 
+.float-image-cont>div {
+  width: 394px !important;
+  max-width: 394 !important;
+}
+
 .floatbox ul {
   padding-left: 2em;
 }
