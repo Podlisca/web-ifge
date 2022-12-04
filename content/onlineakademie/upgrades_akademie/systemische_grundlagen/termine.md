@@ -5,7 +5,7 @@ weight: 3
 ---
 
 
-# Onlineausbildung: Systemische Grundlagen Grundlagen & SGF Methode®
+# Onlineausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
@@ -22,7 +22,7 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Online Infovideo ansehen & sofort starten
+
 
 <div class="box video">
 {{% small %}}
@@ -33,15 +33,16 @@ weight: 3
 {{% /small %}}
 
 {{% small %}}
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+## Starttermin folgt
+### danach ist ein Einstieg jederzeit möglich
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
-**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **15. Februar 2023**  los starten. 
+
 
 {{% /small %}}
 </div> 
 
-
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 
