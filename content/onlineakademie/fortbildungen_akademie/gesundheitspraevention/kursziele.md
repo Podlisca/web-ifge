@@ -22,10 +22,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Die fachlichen Inhalte **verbinden** teils **uraltes, traditionelles Heilwissen** aus allen Teilen der Welt mit evidenzbasierten Informationen aus der modernen Anatomie, **Medizin und Psychologie**. Denn gerade körperliche Beschwerden, die medizinisch mehrfach abgeklärt wurden und für die keinerlei organische Ursachen gefunden werden können, belasten Menschen oft in besonderem Maße. Viele davon besprechen diese Belastung in der [psychosozialen Beratung.](https://www.ifge.at/psychologische-beratung/einzelberatung/)
-
-In dieser digitalen Fortbildung betrachten wir die **Psychosomatik** s aus verschiedenen Blickwinkeln und beleuchten eine Vielzahl an körperorientierten Gesundheitsbetrachtungen, die sich mit der psychischen Ebene verbinden.
-
+Mehr informationen folgen. 
 
 
 {{% /small %}}

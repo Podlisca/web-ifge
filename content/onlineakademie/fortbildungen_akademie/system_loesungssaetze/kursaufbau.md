@@ -4,10 +4,11 @@ draft: false
 weight: 1
 ---
 
-# Onlineausbildung: Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze
+# Onlineausbildung: Familienaufstellung - SFG Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt:  
 {{< slogan >}}
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
@@ -23,7 +24,8 @@ weight: 1
 
 
 ## Organisatorisches 
-Der Onlinekurs „Ganzheitlich gesund - Grundlagen der Psychosomatik“ stellt sich aus Lehrseminaren der Onlineausbildung zum Klangschalen Practitioner zusammen.
+
+
 Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * **Start sofort nach Zahlungseingang**
@@ -35,72 +37,43 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
 
 ***
+
 {{% box top-align=1 %}}
 {{% small  %}}
-
-#### Willkommen
-#### Freischaltung nach Zahlungseingang
-* 
-* 
-
-{{% /small  %}}
-{{% small  %}}
+###
 #### Modul 1
-#### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-{{% /small  %}}
 
-{{% small  %}}
-#### Modul 2
-#### Kursmaterial für drei Wochen
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* folgt
 
-{{% /small%}}
-{{% /box %}}
-{{% box top-align=1 %}}
-{{% small  %}}
-
-## PRÜFUNG
-
-Der Lehrgang schließt ohne Prüfung ab.
 
 {{% /small  %}}
-
 {{% small  %}}
-## Leitung
+## Modul 2
 
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+* folgt
+
+
 
 {{% /small  %}}
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
 
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+
+{{% /small%}}
+{{% /box %}}
+
+## Leitung 
+
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
+
+{{% box top-align=1 %}}
+{{% small  %}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}

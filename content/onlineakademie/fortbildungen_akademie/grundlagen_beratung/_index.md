@@ -1,14 +1,27 @@
 ﻿---
-title: "Kursziele"
+title: "Grundlegendes in der psychosozialen Beratung/im Coaching"
+menu: 
+    main:
+        parent: fortbildungen_akademie
+        identifier: grundlagen_beratung
 draft: false
-weight: 1
-og_image: "/img/tier_coaching_1.jpg"
+weight: 2
+description: "Grundlegendes in der psychosozialen Beratung/im Coaching"
+og_title: "Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching"
+og_image: "/img/bv_wirkung.jpg"
+rich_kurs: true
+rich_faq:
+    -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
+        antwort: "In der Online-Ausbildung Ganzheitlich gesund - Grundlagen Psychosomatik findest du viele Informationen wie die Psyche den Körer beeinflusst."
+
 ---
 
-# Onlineausbildung: Bindung und ihre Folgen für Erwachsene
+# Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
+
+
 
 {{< line icon="icon/psychosomatik.png" >}}
 
@@ -21,16 +34,24 @@ og_image: "/img/tier_coaching_1.jpg"
 {{% /small %}}
 
 {{% small %}}
+## Inhalt folgt 
 
-Mehr informationen folgen. 
 
 
 {{% /small %}}
 </div> 
 
+
+
+
+* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
+
+
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
+{{% floatbox %}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -39,7 +60,6 @@ Mehr informationen folgen.
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
-
 
 
 

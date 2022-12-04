@@ -4,8 +4,8 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: bindungsfolgen
-draft: true
-weight: 4
+draft: false
+weight: 7
 description: "Bindung und ihre Folgen für Erwachsene"
 og_title: "Ausbildung: Bindung und ihre Folgen für Erwachsene"
 og_image: "/img/bv_wirkung.jpg"
@@ -33,24 +33,19 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-## Ganzheitlich Gesund - wenn Köper, Geist und Seele im Einklang sind
+## Inhalt folgt 
 
-Die **Psychosomatik** ist ein hochgradig spannender Teilbereich der **ganzheitlichen Gesundheit** und kann in der **psychosozialen Beratung** für Berater\*innen sowie für deren Klient\*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten **emotionalen Dynamiken** auf die Spur zu kommen.
 
-„Das geht mir an die Nieren.“
-„Ich hab die Nase voll.“
-„Das schlägt mir auf den Magen.“
-„Ich möchte aus der Haut fahren.“
 
 {{% /small %}}
 </div> 
 
-Schon diese Beispiele des Volksmundes zeigen die untrennbare **Verbindung von Körper und Geist**. Diese und andere **psychosomatische Aussprüche** sind bereits ein wesentlicher Hinweis darauf, wie sehr seelische Themen sich auf der Körperebene zeigen können, wenn sie nicht oder unzureichend beachtet wurden. Der medizinische Teilbereich der Psychosomatik beschäftigt sich wissenschaftlich mit den Phänomenen, die traditionelle Heilverfahren seit jeher ganzheitlich im Blick haben: Dazu gehört die **Auswirkung von seelischem Erleben und emotionalen Belastungen** auf den Körper und auf das Entstehen von Krankheiten.
+
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
 

@@ -5,7 +5,7 @@ menu:
         parent: fortbildungen_akademie
         identifier: resilienzkonzept_tiere
 draft: false
-weight: 8
+weight: 7
 description: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
 og_title: "Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung"
 og_image: "/img/bv_wirkung.jpg"

@@ -4,10 +4,11 @@ draft: false
 weight: 2
 ---
 
-# Onlineausbildung: FengShui
+# Onlineausbildung: FengShui im psychosozialem Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

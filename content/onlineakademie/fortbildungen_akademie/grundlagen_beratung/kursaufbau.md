@@ -4,10 +4,11 @@ draft: false
 weight: 1
 ---
 
-# Onlineausbildung: Grundlagen in der psychosozialen Beratung/im Coaching
+# Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
@@ -23,7 +24,7 @@ weight: 1
 
 
 ## Organisatorisches 
-Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+
 
 Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
@@ -45,35 +46,14 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ###
 #### Modul 1
 
-* Der ganzheitliche Blick
-* Stress
-* Work-Life-Balance
-* Die 7 Aura-Schichten
-* Die acht Resilienzfaktoren
-* Selbstfürsorge & Psychosomatik
-* Die 5 Elemente im Überblick
-* Zentralgefäß & Gouverneursgefäß
-* Herz-, Dünndarmmeridian
-* Kreislaufsexus & 3-Fach-Erwärmer
-* Nieren- & Blasenmeridian 
-* Maggen- & Milzmeridian
-* Lungen- & Dickdarmmeridian
+* folgt
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
-* Der menschliche Körper - Die Grundlagen
-* Organe & Psychosomatik
-* Häufige psychosomatische Erkrankungen
-* Burn-Out 7-Phasen
-* Burn-Out Symptome
-* Burn-Out Faktoren
-* Denken und Problemlösungen
-* Die sieben häufigsten Gedächtnisfehler nach Schacter 
-* Lebensqualität erhöhen
-* gelernter Optimismus
-* Zehn positive Emotionen nach Barbara Fredrickson
+
+* folgt
 
 
 
@@ -91,7 +71,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 ## Leitung 
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+
 
 {{% box top-align=1 %}}
 {{% small  %}}

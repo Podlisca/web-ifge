@@ -4,10 +4,11 @@ draft: false
 weight: 2
 ---
 
-# Onlineausbildung: Systemische Aufstellungsarbeit: SGF Methode® - Lösungssätze
+# Onlineausbildung: Familienaufstellung - SFG Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt:  
 {{< slogan >}}
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
@@ -23,20 +24,10 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-### Weihnachtsaktion - 25%
-Aktion gültig bis 24.12.2022
+* **Ausbildungskosten:€ 490,-** <br/>
+Zahlung sofort  <br/>
 
-* **Ausbildungskosten:€ 2.980,-** <br/>
-Zahlung nach Anmeldung. <br/>
-**Spare € 745,- mit der Weihnachtsaktion**<br/>
-
-* **Ratenzahlung: € 3.290,-** <br/>
-€ 290,- Zahlung sofort nach Anmeldung. <br/>
-3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
-**keine Weihnachtsaktion möglich**<br/>
-
-* **Optional - Intensivtraining in Pinkafeld**  
-€ 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
-**Spare € 322,50 mit der Weihnachtsaktion**
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
