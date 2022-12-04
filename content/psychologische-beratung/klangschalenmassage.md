@@ -2,10 +2,12 @@
 title: "Klangschalenmassage"
 menu:
     main:
-        parent: psychologischeberatung
+        parent: psychologischeberatung_einzel
         identifier: klangschalenmassage
 draft: false
 weight: 9
+aliases:
+    - "/psychologische-beratung/klangschalenmassage/"
 description: "Klangschalenbehandlungen überzeugen durch ihre harmonisierende, wohltuende Wirkung. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt"
 og_image: "/img/ks_2021_1.jpg"
 aliases:

@@ -6,6 +6,8 @@ menu:
         identifier: "teamsupervision"
 draft: false
 weight: 7
+aliases:
+    - "/supervision/teamsupervision/"
 description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
 og_title: "Teambuilding und Supervision"
 og_image: "/img/teambuilding.jpg"

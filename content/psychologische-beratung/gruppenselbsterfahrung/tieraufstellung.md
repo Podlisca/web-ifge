@@ -2,10 +2,12 @@
 title: "Systemische Tieraufstellung"
 menu: 
     main:
-        parent: gruppenselbsterfahrung
+        parent: psychologischeberatung_gruppe
         identifier: tieraufstellung
 draft: false
 weight: 3
+aliases:
+    - "/gruppenselbsterfahrung/tieraufstellung/"
 description: "Hilft bei jeglicher Art von Mensch-Tier-Beziehungen/Schwierigkeiten. Tiere wollen häufig Menschen auf ihre persönlichen Muster oder Themen aufmerksam machen und nutzen dabei ihre Kommunikationsmöglichkeiten."
 og_image: "/img/hunde_2023.jpg"
 ---
