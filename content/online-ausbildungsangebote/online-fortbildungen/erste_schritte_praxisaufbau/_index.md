@@ -2,9 +2,12 @@
 title: "Zeig dich - Erste Schritte im Praxisaufbau"
 menu: 
     main:
-        parent: online
+        parent: online-fortbildungen
+        identifier: zeigdich
 draft: false
 weight: 9
+aliases: 
+    - "/online-ausbildungsangebote/erste_schritte_praxisaufbau/"
 og_image: "/img/zeig_dich.jpg"
 description: "Die beste Ausbildung nützt nichts, wenn nach dem Schritt in die Selbstständigkeit die Klient*innen ausbleiben. Doch wie kommt man eigentlich an die ersten eigenen Klient*innen? Dafür müssen Sie sichtbar werden. „Zeig’ dich!“ ist die Devise – aber bitte professionell. Bevor der erste Klient oder die erste Klientin also die eigene Praxis betritt, gibt es zahlreiche Schritte, die es für eine erfolgreiche und vor allem professionelle Gründung braucht. Und das sind gar nicht wenige."
 og_image: "/img/zeig_dich.jpg"

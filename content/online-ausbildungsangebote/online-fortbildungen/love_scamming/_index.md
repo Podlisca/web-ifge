@@ -2,9 +2,12 @@
 title: "Umgang mit Love Scamming"
 menu: 
     main:
-        parent: online
+        parent: online-fortbildungen
+        identifier: love_scamming
 draft: false
 weight: 6
+aliases: 
+    - "/online-ausbildungsangebote/love_scamming/"
 description: "Love Scamming – oder auch Romance Scamming genannt – ist eine der Formen des Internetbetruges, die Betroffene am nachhaltigsten erschüttern. Als eine Art digitale Form der Heiratsschwindler treiben Love Scammer ihr Unwesen nicht nur auf Singleplattformen, sondern auch in Sozialen Medien wie Facebook und Co."
 og_image: "/img/umgang_love_scamming.jpg"
 rich_kurs: true

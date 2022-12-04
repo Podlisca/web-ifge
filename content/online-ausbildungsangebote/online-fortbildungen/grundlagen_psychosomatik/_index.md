@@ -2,9 +2,12 @@
 title: "Ganzheitlichkeit: Grundlagen Psychosomatik"
 menu: 
     main:
-        parent: online
+        parent: online-fortbildungen
+        identifier: psychosomatik_online
 draft: false
 weight: 5
+aliases: 
+    - "/online-ausbildungsangebote/grundlagen_psychosomatik/"
 description: "Die Psychosomatik ist ein hochgradig spannender Teilbereich der ganzheitlichen Gesundheit und kann in der psychologischen Beratung für Berater*innen sowie für deren Klient*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten emotionalen Dynamiken auf die Spur zu kommen."
 og_image: "/img/ambivalenz_2021_1.jpg"
 rich_kurs: true

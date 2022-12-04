@@ -2,7 +2,8 @@
 title: "Große weite Welt - Kinder vor Gefahren (im Netz) schützen"
 menu: 
     main:
-        parent: online
+        parent: online-fortbildungen
+        identifier: kinder_gefahrenschutz
 draft: true
 weight: 7
 description: "In diesem digitalen Seminar erhält genau diese Sorge insofern besondere Betrachtung, als dass die Lebenswelt von Kindern, Jugendlichen und jungen Erwachsenen nachgezeichnet wird. Dadurch erhalten Sie einen weitreichenden Einblick in die Vorstellungen und Wünsche Ihrer Kinder, die außerhalb des familiären Gefüges und der elterlichen Kontrolle für sie zentrale Themen sein können."

@@ -93,10 +93,10 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 #### Online-Live-Format
 
 {{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/online-fortbildungen/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
+{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/online-fortbildungen/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
+{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/online-fortbildungen/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
+{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/online-fortbildungen/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
 

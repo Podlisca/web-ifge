@@ -3,7 +3,7 @@ title: "Gesundheit & Prävention"
 menu: 
     main:
         parent: fortbildungen_akademie
-        identifier: praevention
+        identifier: gesundheitspraevention
 draft: true
 weight: 4
 description: "Gesundheit & Prävention"

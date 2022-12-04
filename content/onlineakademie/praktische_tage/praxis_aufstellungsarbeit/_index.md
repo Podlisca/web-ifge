@@ -16,7 +16,7 @@ rich_faq:
 
 ---
 
-# Philosophie: Praktische Tage im Präsenzunterricht
+# Termine folgen
 
 
 
