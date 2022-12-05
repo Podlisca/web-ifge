@@ -50,7 +50,7 @@ rich_faq:
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="icon/feng_shui.png" >}}
+{{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}
 
 {{% iconmenu %}}
