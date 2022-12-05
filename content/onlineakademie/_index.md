@@ -92,7 +92,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 #### Upgrades
 
 {{% kursbox %}}
-{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_besonderheit_sex.jpg" color="light-red" >}}
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
 {{< kurs titel="Grundlagen Aufstellungsarbeit & SGF METHODE®" link="/onlineakademie/upgrades_akademie/systemische_grundlagen" image="/img/onlineakademie_philo_8.jpg" >}}
 {{< kurs titel="Familienaufstellung - SGF Methode® & SystemDimensionsbrett" link="/onlineakademie/upgrades_akademie/systemdimensionsbrett" image="/img/onlineakademie_philo_7.jpg" color="light-red" >}}
 {{% /kursbox %}}
