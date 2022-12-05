@@ -46,14 +46,19 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ###
 #### Modul 1
 
-* folgt
+* Deine Referentin Margit Knor stellt sich vor
+* Was ist Feng Shui und wie kannst Du das alte Wissen in der Praxis anwenden
+* Feng Shui und Formenschule 
+* Feng Shui und die Bedeutung der vier Tiere
+* Feng Shui und die  5 Elemente
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
 
-* folgt
+* Feng Shui und deine GUA Zahl (Geburtsdatumg) berrechnen 
+* weiter Inhalte folgen
 
 
 
