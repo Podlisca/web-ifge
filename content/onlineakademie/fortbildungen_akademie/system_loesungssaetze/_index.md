@@ -8,7 +8,7 @@ draft: false
 weight: 3
 description: "Familienaufstellung - SGF Methode® - Lösungssätze"
 og_title: "Familienaufstellung - SGF Methode® - Lösungssätze"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Welche Lösungssätze werden in der Familienaufstellung verwendet?"

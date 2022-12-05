@@ -8,7 +8,7 @@ draft: false
 weight: 8
 description: "FengShui im psychosozialem Setting"
 og_title: "Ausbildung: FengShui im psychosozialem Setting"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
