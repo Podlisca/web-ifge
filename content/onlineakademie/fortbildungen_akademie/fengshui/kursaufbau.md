@@ -48,9 +48,10 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 * Deine Referentin Margit Knor stellt sich vor
 * Was ist Feng Shui und wie kannst Du das alte Wissen in der Praxis anwenden
-* Feng Shui und Formenschule 
+* Feng Shui und die Formenschule 
 * Feng Shui und die Bedeutung der vier Tiere
-* Feng Shui und die  5 Elemente
+* Feng Shui und die  5 Elemente - Teil 1
+* Feng Shui und die  5 Elemente - Teil 2
 
 
 {{% /small  %}}
