@@ -55,7 +55,7 @@ Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchst
 #### Maureen Brunner
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/seminarraum.jpg"title="Maureen betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
+{{< image src="/img/maureen.jpg"title="Maureen betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
 {{% /small  %}}
 {{% small %}}
 
