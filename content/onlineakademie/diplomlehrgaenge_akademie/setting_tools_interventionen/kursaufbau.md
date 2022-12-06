@@ -48,8 +48,11 @@ weight: 1
 #### Kick-off 
 #### Kursmaterial für eine Woche
 
-* folgt
-
+* Grundhaltung Carl Rogers - das humanistische Menschenbild
+* praktische Übung: der/die Klientin führt
+* praktische Übung: der/die Klientin führt - Auflösung
+* Erstgespräch: Auftragsklärung/Thema Verspannungen
+* Auftragsklärung und Gesprächsführung
 
 
 {{% /small  %}}
@@ -58,8 +61,8 @@ weight: 1
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* folgt
-
+* Thema: Schlafschwierigkeiten und Klangschalenmassage
+* Gespräch: Motivation zur Zielerreichung mit der Klangschale
 
 {{% /small  %}}
 {{% small  %}}
