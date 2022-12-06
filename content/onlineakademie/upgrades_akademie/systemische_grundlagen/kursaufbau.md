@@ -35,19 +35,24 @@ weight: 1
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (4 Turnusse). 
 * Drei Wochen nach Turnus 4 wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhelten Sie ein Zertifikat über die Teilnahme. 
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
+* Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
 
 ## Auszug Kursinhalte 
 
-Inhalte folgen - Seite im Aufbau. 
 
 {{% box top-align=1 %}}
 {{% small  %}}
 
 #### Kick-off 
 #### Kursmaterial für drei Wochen
-* folgt
+* Systemische Grundlagen und Vetreter*innen
+* Rahmenbedingungen, Haltung und Umgang bei Aufstellungen
+* Die Phänomenologische Perspektive 
+* Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit
+
 
 
 {{% /small  %}}
@@ -56,7 +61,15 @@ Inhalte folgen - Seite im Aufbau.
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* folgt
+* Systemische Aufstellungsarbeit - Dynamiken 
+* Die systemischen Dynamiken: Nachfolge - Übernahme - Hinbewegung
+* Dynamik - Nachfolge: Klientin folgt Mutter nach
+* Dynamik - Nachfolge: Klientin folgt Geschwisterkind nach
+* Dynamik Übernahme: Klientin "übernimmt" Nachfolge der Mutter
+* Dynamik: Abgang
+* Dynamik: Abtreibung
+* Dynamik: Kind verstorben
+* Weitere systemische Interventionen 
 
 
 {{% /small  %}}
@@ -64,7 +77,16 @@ Inhalte folgen - Seite im Aufbau.
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* folgt
+* Anfangsmeditation - fachlich erklärt
+* Anfangsmeditation - praktisch erklärt
+* Ahnenreihe 
+* Paardynamik - aus systemisch kollektiver Sicht
+* Trennung verkraften
+* Scheidung verkraften - Eltern bleiben
+* Anhaftung der Toten
+* Abschlussmeditation
+* frühe Unterbrochenen Hinbewegung
+* Systemische Gewichtung erkennen
 
 
 {{% /small%}}
@@ -75,7 +97,12 @@ Inhalte folgen - Seite im Aufbau.
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* folgt
+* Adoption
+* Verlust eines Organs
+* Körperaufstellungen
+* Kraftbad
+* Schweres Schicksal annehmen
+* künstliche Befrüchtung
 
 
 {{% /small  %}}
@@ -84,7 +111,11 @@ Inhalte folgen - Seite im Aufbau.
 ####  Modul 4
 #### Kursmaterial für drei Wochen
 
-* folgt
+* Schicksalsgemeinschaft: Opfer - Täter 
+* Krieg - Vergewaltigung
+* Opfer & Täter - 2.Weltkrieg 
+* Engelsmacherin
+
 
 
 {{% /small  %}}
@@ -107,7 +138,8 @@ Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Pr�
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
+
 
 
 

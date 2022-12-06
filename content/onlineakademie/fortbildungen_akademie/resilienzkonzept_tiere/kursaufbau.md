@@ -32,6 +32,8 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit Modul 1
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
+* Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
+
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
 

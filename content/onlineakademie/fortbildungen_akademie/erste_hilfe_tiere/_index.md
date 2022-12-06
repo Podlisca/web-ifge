@@ -8,7 +8,7 @@ draft: false
 weight: 10
 description: "Erste Hilfe für Hunde & Katzen"
 og_title: "Ausbildung: Erste Hilfe für Hunde & Katzen"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Wo lerne ich meinen Hund oder meine Katze zu reanimieren?"

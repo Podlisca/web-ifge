@@ -25,7 +25,8 @@ weight: 4
 * Die Ausbildung ist für alle offen
 
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
@@ -34,18 +35,20 @@ Um Ihnen den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ra
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m Bank Austria IBAN: AT42 1200 0007 4443 4259 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck “Onlineausbildung Klangschalen Practitioner + Ihren Namen” an.
+zu überweisen. Bitte geben Sie als Verwendungszweck “Onlineausbildung Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching + Ihren Namen” an.
 
 Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert.
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
+
 {{< line icon="noun_Information_478770-2.png" >}}
+
 ## Allgemeine Geschäftsbedingungen
 
 ### 1.	Leistung
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 ### 2.	Zugang
 Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
@@ -65,4 +68,4 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}s

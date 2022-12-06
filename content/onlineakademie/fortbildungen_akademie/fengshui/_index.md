@@ -8,7 +8,7 @@ draft: false
 weight: 8
 description: "FengShui im psychosozialem Setting"
 og_title: "Ausbildung: FengShui im psychosozialem Setting"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
@@ -23,7 +23,7 @@ rich_faq:
 
 
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/feng_shui.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -48,9 +48,9 @@ rich_faq:
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}
 
 {{% iconmenu %}}

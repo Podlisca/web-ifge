@@ -2,10 +2,12 @@
 title: "Einzelberatung"
 menu:
     main:
-        parent: psychologischeberatung
+        parent: psychologischeberatung_einzel
         identifier: beratung
 draft: false
 weight: 2
+aliases:
+    - "/psychologische-beratung/einzelberatung/"
 description: "Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten."
 og_title: "Lebensberatung und Sozialberatung"
 og_image: "/img/einzel_2023.jpg"

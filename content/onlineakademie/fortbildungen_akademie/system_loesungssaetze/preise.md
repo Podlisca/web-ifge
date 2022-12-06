@@ -4,7 +4,7 @@ draft: false
 weight: 2
 ---
 
-# Onlineausbildung: Familienaufstellung - SFG Methode® - Lösungssätze
+# Onlineausbildung: Familienaufstellung - SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt:  
 {{< slogan >}}
@@ -27,6 +27,11 @@ weight: 2
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort  <br/>
 
+* **Praktische Tage in Präsenz**  
+Kosten pro Tag: € 290,- <br/>
+max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
+
+## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 

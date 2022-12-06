@@ -8,7 +8,7 @@ draft: false
 weight: 7
 description: "Bindung und ihre Folgen für Erwachsene"
 og_title: "Ausbildung: Bindung und ihre Folgen für Erwachsene"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
@@ -47,7 +47,7 @@ rich_faq:
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 {{% floatbox %}}

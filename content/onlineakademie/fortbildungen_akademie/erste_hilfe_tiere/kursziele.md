@@ -10,7 +10,7 @@ og_image: "/img/tier_coaching_1.jpg"
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/tiere.png" >}}
 
 {{% floatbox %}}
 

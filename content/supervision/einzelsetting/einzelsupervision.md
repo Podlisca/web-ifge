@@ -2,10 +2,12 @@
 title: "Einzelsupervision"
 menu: 
     main:
-        parent: "supervision"
+        parent: "einzelsetting"
         identifier: "einzelsupervision"
 draft: false
 weight: 2
+aliases:
+    - "/supervision/einzelsupervision/"
 description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
 og_image: "/img/einzelsupervision_noe.jpg"
 ---

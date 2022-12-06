@@ -20,7 +20,7 @@ weight: 1
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/feng_shui.png" >}}
 
 
 ## Organisatorisches 
@@ -37,7 +37,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
 
 ***
 
@@ -46,14 +46,20 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ###
 #### Modul 1
 
-* folgt
+* Deine Referentin Margit Knor stellt sich vor
+* Was ist Feng Shui und wie kannst Du das alte Wissen in der Praxis anwenden
+* Feng Shui und die Formenschule 
+* Feng Shui und die Bedeutung der vier Tiere
+* Feng Shui und die  5 Elemente - Teil 1
+* Feng Shui und die  5 Elemente - Teil 2
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
 
-* folgt
+* Feng Shui und deine GUA Zahl (Geburtsdatumg) berrechnen 
+* weiter Inhalte folgen
 
 
 
@@ -70,10 +76,9 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ## Leitung 
 
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
+* [Margit Knor](/about/referenten-lsb/#margit-knor)
 
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}

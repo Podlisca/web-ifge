@@ -77,39 +77,49 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
-## Verschaffen Sie sich einen Überblick über unsere Online-Kurse 
+## Verschaffen Sie sich einen Überblick über unsere Online-Kurse im 100% Online-Format
 
 
 
-#### Online-Akademie: 100% Online-Format
+#### Diplomausbildungen
 
 {{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
-{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_besonderheit_sex.jpg" >}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_psychosomatik.jpg" color="light-red" >}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_tiere_resilienz.jpg" >}}
-{{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/onlineakademie_erst_hilfe_tiere.jpg" color="light-red" >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/onlineakademie_philo_2.jpg" color="light-red" >}}
+{{< kurs titel="Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/setting_tools_interventionen" image="/img/onlineakademie_philo_13.jpg" >}}
+{{% /kursbox %}}
+
+#### Upgrades
+
+{{% kursbox %}}
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
+{{< kurs titel="Grundlagen Aufstellungsarbeit & SGF METHODE®" link="/onlineakademie/upgrades_akademie/systemische_grundlagen" image="/img/onlineakademie_philo_8.jpg" >}}
+{{< kurs titel="Familienaufstellung - SGF Methode® & SystemDimensionsbrett" link="/onlineakademie/upgrades_akademie/systemdimensionsbrett" image="/img/onlineakademie_philo_7.jpg" color="light-red" >}}
+{{% /kursbox %}}
+
+#### FortbildungenSGF Methode®
+
+{{% kursbox %}}
+{{< kurs titel="Grundlegendes in der psychosozialen Beratung/im Coaching" link="/onlineakademie/fortbildungen_akademie/grundlagen_beratung" image="/img/onlineakademie_philo_12.jpg" >}}
+{{< kurs titel="Familienaufstellung - SGF Methode® - Lösungssätze" link="/onlineakademie/fortbildungen_akademie/system_loesungssaetze" image="/img/onlineakademie_philo_6.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_philo_4.jpg" >}}
+{{< kurs titel="Gesundheit und Prävention" link="/onlineakademie/fortbildungen_akademie/gesundheitspraevention" image="/img/onlineakademie_philo_11.jpg" color="light-red" >}}
+{{< kurs titel="Bindung und ihre Folgen für Erwachsene" link="/onlineakademie/fortbildungen_akademie/bindung_und_folgen" image="/img/onlineakademie_philo_15.jpg" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_philo_1.jpg" color="light-red" >}}
+{{< kurs titel="FengShui im psychosozialem Setting" link="/onlineakademie/fortbildungen_akademie/fengshui" image="/img/onlineakademie_philo_10.jpg" >}}
+{{< kurs titel="Der menschliche Körper - verständlich erklärt" link="/onlineakademie/fortbildungen_akademie/koerper_verstaendlich_erklaert" image="/img/onlineakademie_philo_5.jpg" color="light-red" >}}
+{{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/onlineakademie_philo_3.jpg" >}}
 
 {{% /kursbox %}}
 
-***
-#### Online-Live-Format
-
-{{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/online-fortbildungen/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/online-fortbildungen/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/online-fortbildungen/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/online-fortbildungen/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
-{{% /kursbox %}}
 
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-## Unsere Ausbildungen im Überblick
+## Möchten Sie lieber in einem anderen Format an einer Ausbildunge teilnehmen? 
 
-Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen).
+Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen). Vielleicht interessieren Sie auch unsere Online-Live-Formate. Mehr dazu finden Sie in unserer [Kursübersicht](/online-ausbildungsangebote).
 
 
 

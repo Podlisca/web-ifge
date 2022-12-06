@@ -1,14 +1,14 @@
 ﻿---
-title: "Familienaufstellung - SFG Methode® - Lösungssätze"
+title: "Familienaufstellung - SGF Methode® - Lösungssätze"
 menu: 
     main:
         parent: fortbildungen_akademie
         identifier: loesungssaetze
 draft: false
 weight: 3
-description: "Familienaufstellung - SFG Methode® - Lösungssätze"
-og_title: "Familienaufstellung - SFG Methode® - Lösungssätze"
-og_image: "/img/bv_wirkung.jpg"
+description: "Familienaufstellung - SGF Methode® - Lösungssätze"
+og_title: "Familienaufstellung - SGF Methode® - Lösungssätze"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Welche Lösungssätze werden in der Familienaufstellung verwendet?"
@@ -17,7 +17,7 @@ rich_faq:
 
 ---
 
-# Onlineausbildung: Familienaufstellung - SFG Methode® - Lösungssätze
+# Onlineausbildung: Familienaufstellung - SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt:  
 {{< slogan >}}

@@ -75,16 +75,24 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         weight = 12
     
     [[menu.main]]
-        name = "Gruppenselbsterfahrung"
-        identifier = "gruppenselbsterfahrung"
-        url = "#"
-        weight = 11
-
-    [[menu.main]]
         name = "Psychosoziale Beratung"
         identifier = "psychologischeberatung"
         url = "#"
         weight = 10
+    
+    [[menu.main]]
+        name = "Einzelsetting"
+        identifier = "psychologischeberatung_einzel"
+        url = "#"
+        weight = 10
+        parent = "psychologischeberatung"
+    
+    [[menu.main]]
+        name = "Gruppensetting"
+        identifier = "psychologischeberatung_gruppe"
+        url = "#"
+        weight = 12
+        parent = "psychologischeberatung"
 
     [[menu.main]]
         name = "Videos"

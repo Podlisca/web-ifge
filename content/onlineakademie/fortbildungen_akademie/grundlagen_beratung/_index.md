@@ -8,7 +8,7 @@ draft: false
 weight: 2
 description: "Grundlegendes in der psychosozialen Beratung/im Coaching"
 og_title: "Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
