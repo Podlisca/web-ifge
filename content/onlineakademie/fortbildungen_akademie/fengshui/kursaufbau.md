@@ -51,7 +51,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Feng Shui und die Formenschule 
 * Feng Shui und die Bedeutung der vier Tiere
 * Feng Shui und die  5 Elemente - Teil 1
-* Feng Shui und die  5 Elemente - Teil 2
+
 
 
 {{% /small  %}}
