@@ -52,8 +52,11 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 #### Kick-off 
 #### Kursmaterial für eine Woche
 
-* folgt
-
+* Grundhaltung Carl Rogers - das humanistische Menschenbild
+* praktische Übung: der/die Klientin führt
+* praktische Übung: der/die Klientin führt - Auflösung
+* Erstgespräch: Auftragsklärung/Thema Verspannungen
+* Auftragsklärung und Gesprächsführung
 
 
 {{% /small  %}}
@@ -62,8 +65,8 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* folgt
-
+* Thema: Schlafschwierigkeiten und Klangschalenmassage
+* Gespräch: Motivation zur Zielerreichung mit der Klangschale
 
 {{% /small  %}}
 {{% small  %}}
