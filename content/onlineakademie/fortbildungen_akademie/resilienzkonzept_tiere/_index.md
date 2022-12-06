@@ -51,7 +51,7 @@ Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Mensc
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-Der Onlinekurs ist entnommen aus der Onlineausbildung [“iergestütztes Coaching„](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/). Solltest Du danach die Onlineausbildung [“Tiergestütztes Coaching„](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/) kaufen, erhältst Du natürlich den Kaufpreis hierfür dieser Ausbildung natürlich abgezogen.
+Der Onlinekurs ist entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/). Solltest Du danach die Onlineausbildung [“Tiergestütztes Coaching„](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/) kaufen, erhältst Du natürlich den Kaufpreis hierfür dieser Ausbildung natürlich abgezogen.
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
 
