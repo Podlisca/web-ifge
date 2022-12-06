@@ -93,9 +93,13 @@ Meine vielen unterschiedlichen Ausbildungen und Fachrichtungen haben mich gelehr
 
 
   {{< line icon="icon/zertifikat.png" >}}
+
  #### Eingetragene Expertin
-***
+
+
 <br/>
+
+{{% /floatbox %}}
 {{% box top-align=1 %}}
 {{% small  %}}
  #### psychosoziale Beraterin
@@ -121,9 +125,11 @@ ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in
 {{< image src="/img/berufsverband.jpg" >}}
 
 Der [Berufsverband für Tiergestützte psychosoziale Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
+
 {{% /small  %}}
 {{% /box %}}
 
+{{% /floatbox %}}
 {{< line icon="icon/raueme.png" >}}
 
 {{% box top-align=1 %}}
