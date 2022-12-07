@@ -123,7 +123,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
 {{% /small %}}
-</div> 
+
 
 
 

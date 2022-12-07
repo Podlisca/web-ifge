@@ -198,8 +198,9 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 **Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+
 {{% /small %}}
-</div> 
+{{% /small %}}
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -226,7 +227,6 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 
 {{% /small  %}}
 {{% /box %}}
-
 
 
 
