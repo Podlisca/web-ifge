@@ -25,48 +25,54 @@ rich_faq:
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Schwerpunkgt: Familienaustellung">}}
 
-**Nächster Termin & Ort:** </br>
-24.12.2022 - IFGE Wien
 
-{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+**Nächster Termin** </br>
+folgt
 
-Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+**Veranstaltungsort** </br>
+IFGE Wien
+
+**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+
 
 {{% /card-more %}}
 
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: Sexualberatung">}}
 
-**Dein nächster Termin:** </br>
-24.12.2022 - IFGE Wien
+**Nächster Termin** </br>
+folgt
 
-{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+**Veranstaltungsort** </br>
+IFGE Wien
 
-Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
 
 {{< /card-more >}}
 
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/tiere_schwarz.png" title="Schwerpunkgt: Tiergestützte Beratung">}}
 
-**Dein nächster Termin:** </br>
-24.12.2022 - IFGE Wien
+**Nächster Termin** </br>
+folgt
 
-{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+**Veranstaltungsort** </br>
+IFGE Wien
 
-Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
 
 {{< /card-more >}}
 
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: klassische Beratung">}}
 
-**Dein nächster Termin:** </br>
-24.12.2022 - IFGE Wien
+**Nächster Termin** </br>
+folgt
 
-{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+**Veranstaltungsort** </br>
+IFGE Wien
 
-Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
 
 {{< /card-more >}}
 
