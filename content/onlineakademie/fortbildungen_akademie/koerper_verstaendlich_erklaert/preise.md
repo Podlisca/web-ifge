@@ -30,4 +30,4 @@ Zahlung sofort  <br/>
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. (Start nach Zahlungseingang)" >}}

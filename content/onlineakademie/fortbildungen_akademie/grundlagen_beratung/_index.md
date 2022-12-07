@@ -16,14 +16,16 @@ rich_faq:
 
 ---
 
-# Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
+# Onlineausbildung: * **Optional: Praktische Tage in Präsenz**  
+Kosten pro Tag: € 290,- <br/>
+max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
 
 
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/beratung.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -48,9 +50,9 @@ rich_faq:
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/beratung.png" >}}
 {{% floatbox %}}
 
 {{% iconmenu %}}

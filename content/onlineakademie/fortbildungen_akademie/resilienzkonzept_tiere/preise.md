@@ -27,7 +27,7 @@ weight: 2
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort. <br/>
 
-* **Praktische Tage in Präsenz**  
+* **<optional: Praktische Tage in Präsenz**  
 Kosten pro Tag: € 290,- <br/>
 max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
 

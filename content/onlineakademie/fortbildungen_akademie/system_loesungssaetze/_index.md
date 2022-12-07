@@ -24,7 +24,7 @@ rich_faq:
 
 
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/aufstellung.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -49,9 +49,9 @@ rich_faq:
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/aufstellung.png" >}}
 {{% floatbox %}}
 
 {{% iconmenu %}}

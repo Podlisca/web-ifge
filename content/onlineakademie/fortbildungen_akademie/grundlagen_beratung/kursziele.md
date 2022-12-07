@@ -10,7 +10,7 @@ og_image: "/img/tier_coaching_1.jpg"
 ## Schwerpunkt: 
 {{< slogan >}}
 
-{{< line icon="icon/psychosomatik.png" >}}
+{{< line icon="icon/beratung.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -28,7 +28,7 @@ Mehr informationen folgen.
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 
