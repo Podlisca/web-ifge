@@ -47,6 +47,9 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ###
 #### Modul 1
 
+* Das humanistische Menschenbild
+* Das Setting
+* Beratungsverlauf - Bella & Plissit Prinzip
 * Der ganzheitliche Blick
 * Stress
 * Work-Life-Balance
