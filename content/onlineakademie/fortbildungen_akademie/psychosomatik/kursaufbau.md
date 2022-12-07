@@ -51,6 +51,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Das Setting
 * Beratungsverlauf - Bella & Plissit Prinzip
 * Der ganzheitliche Blick
+* Auftragsklärung in der Gesprächsführung
 * Stress
 * Work-Life-Balance
 * Die 7 Aura-Schichten
