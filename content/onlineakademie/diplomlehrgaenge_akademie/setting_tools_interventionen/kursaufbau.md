@@ -53,6 +53,7 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 #### Kursmaterial für eine Woche
 
 * Grundhaltung Carl Rogers - das humanistische Menschenbild
+* Das Setting
 * praktische Übung: der/die Klientin führt
 * praktische Übung: der/die Klientin führt - Auflösung
 * Erstgespräch: Auftragsklärung/Thema Verspannungen
@@ -65,16 +66,36 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
+* Beratungsverlauf - Bella & Plissit Prinzip
+* Tiefenpsychologische Ansätze
+* Interventionsmöglichkeiten
+* Methoden der wertschätzenden Kommunikation
 * Thema: Schlafschwierigkeiten und Klangschalenmassage
 * Gespräch: Motivation zur Zielerreichung mit der Klangschale
+* Praktische Übung
+* Hundegestütztes Setting: Outdoor
+* Hundegestütztes Setting: Outdoor Folgegespräch
+* Pferdegestütztes Setting: Selbstbewusstsein stärken
+* Pferdegestütztes Setting: Time-Line
+* Tiergestütztes Setting: Berufliches Thema
+* Hundegestütztes Setting: Outdoor- Thema Selbstwert
 
 {{% /small  %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* folgt
-
+* Das Gehirn: 3-Speicher-Modell
+* Reizverarbeitung
+* Die sieben häufigsten Gedächtnisfehler
+* Problemlösung: lautes Denken/Introspektion
+* Emotion/Bedürfnisse/Motivation
+* Die klassische & operante Konditionierung
+* Konflikte und unerledigte Handlungen
+* Risikowahlmodell nach Atkinson
+* Das Konzept der Lebenszufriedenheit
+* Gelernter Optimismus
+* Die 10 positiven Emotionen nach Fredrickson
 
 {{% /small%}}
 {{% /box %}}
@@ -84,7 +105,18 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* folgt
+* Kommunikation nach Schulz von Thun
+* 8 Arten der Liebe & Dreieckstheorie
+* Das Casio Modell
+* Soziale Aufwärts & Abwärtsvergleiche
+* Motivierende Gesprächsführung
+* Das Investmentmodell von Rusbult
+* Das tierische Team verändert sich
+* Hundegestützes Setting: Klientin mit eigenem Hund & das innere Bild
+* Denken & Problemlösung: Tool Lebenslinie
+* 5 Elemente/Vertiefung
+* Tiergestütztes Setting: Trauer um ein verstorbenes Tier
+* Silvia & Margit: Positive Emotionen stärken
 
 
 {{% /small  %}}
@@ -93,7 +125,12 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 #### Turnus 4
 #### Kursmaterial für drei Wochen
 
-* folgt
+* Klientengespräch: Blasenentzündung/Tools: inneres Bild + Klangschalenmassage
+* Folgegespräch: Blasenentzündung
+* Katzengestütztes Setting: Umgang beruflicher Erfolg
+* Hundegestütztes Setting: Outdoor - Thema Stressmanagement
+* Prozessreflexion - Gedanken der Klientin zur tiergestützten Arbeit
+* Was zum Schmunzeln
 
 
 
