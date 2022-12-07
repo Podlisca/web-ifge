@@ -18,6 +18,22 @@ rich_faq:
 {{< line icon="icon/beratung.png" >}}
 # Seite im Aufbau
 
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube 17RcDuirOWs>}}
+
+
+{{% /small %}}
+
+{{% small %}}
+## Inhalt folgt 
+
+
+
+{{% /small %}}
+</div> 
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 more=1 %}}
@@ -27,10 +43,15 @@ rich_faq:
 
 
 **Nächster Termin** </br>
-folgt
+folgt </br>
+von 09:00 bis 18:00 Uhr
 
-**Veranstaltungsort** </br>
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
+**Veranstaltungsort:** </br>
 IFGE Wien
+
+**Kosten:** € 290,-  </br>
 
 **Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
 
@@ -41,10 +62,15 @@ IFGE Wien
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: Sexualberatung">}}
 
 **Nächster Termin** </br>
-folgt
+folgt </br>
+von 09:00 bis 18:00 Uhr
 
-**Veranstaltungsort** </br>
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
+**Veranstaltungsort:** </br>
 IFGE Wien
+
+**Kosten:** € 290,-  </br>
 
 **Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
 
@@ -54,23 +80,34 @@ IFGE Wien
 {{< card-more link="/diplomlehrgaenge/" icon="icon/tiere_schwarz.png" title="Schwerpunkgt: Tiergestützte Beratung">}}
 
 **Nächster Termin** </br>
-folgt
+folgt </br>
+von 09:00 bis 18:00 Uhr
 
-**Veranstaltungsort** </br>
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
+**Veranstaltungsort:** </br>
 IFGE Wien
 
+**Kosten:** € 290,-  </br>
+
 **Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+
 
 {{< /card-more >}}
 
 
-{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: klassische Beratung">}}
+{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: klassische Beratung & Krisenberatung">}}
 
 **Nächster Termin** </br>
-folgt
+folgt </br>
+von 09:00 bis 18:00 Uhr
 
-**Veranstaltungsort** </br>
+**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+
+**Veranstaltungsort:** </br>
 IFGE Wien
+
+**Kosten:** € 290,-  </br>
 
 **Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
 
@@ -82,7 +119,7 @@ IFGE Wien
 
 ## Kosten & Zahlungsbedingungen
 
-Um Dir den Platz verbindlich zu reservieren, ist nach Anmeldung die Kursgebühr € 290,- auf das Konto:
+Um den Platz verbindlich zu reservieren, ist nach Anmeldung die Kursgebühr € 290,- auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben
 Bank Austria
