@@ -15,9 +15,89 @@ rich_faq:
         antwort: "In der Online-Ausbildung Ganzheitlich gesund - Grundlagen Psychosomatik findest du viele Informationen wie die Psyche den Körer beeinflusst."
 
 ---
+{{< line icon="icon/beratung.png" >}}
+# Seite im Aufbau
 
-# Termine folgen
+{{< line icon="noun_Information_478770-2.png" >}}
 
+{{% box blue=1 more=1 %}}
+
+
+{{< card-more link="/diplomlehrgaenge/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Schwerpunkgt: Familienaustellung">}}
+
+**Nächster Termin & Ort:** </br>
+24.12.2022 - IFGE Wien
+
+{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+
+Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+
+{{% /card-more %}}
+
+
+{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: Sexualberatung">}}
+
+**Dein nächster Termin:** </br>
+24.12.2022 - IFGE Wien
+
+{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+
+Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+
+{{< /card-more >}}
+
+
+{{< card-more link="/diplomlehrgaenge/" icon="icon/tiere_schwarz.png" title="Schwerpunkgt: Tiergestützte Beratung">}}
+
+**Dein nächster Termin:** </br>
+24.12.2022 - IFGE Wien
+
+{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+
+Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+
+{{< /card-more >}}
+
+
+{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: klassische Beratung">}}
+
+**Dein nächster Termin:** </br>
+24.12.2022 - IFGE Wien
+
+{{< buchung-vorauswahl text="Anmelden" veranstaltung="Praktische Tage: TEXT. (Start nach Zahlungseingang)" >}}
+
+Gruppengröße: mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+
+{{< /card-more >}}
+
+{{% /box %}}
+
+{{< line icon="noun_Information_478770-2.png" >}}
+
+## Kosten & Zahlungsbedingungen
+
+Um Dir den Platz verbindlich zu reservieren, ist nach Anmeldung die Kursgebühr € 290,- auf das Konto:
+
+Silvia Podlisca - Institut für ganzheitliches Erleben
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW zu überweisen.
+
+Bitte geben Sie als Verwendungszweck "Praktische Tage + Ihren Namen" an.
+
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. 
+
+## Anerkennung
+
+Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
+
+## Allgemeine Geschäftsbedingungen
+
+Bei Absage bis zu zwei Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis einer Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen.
+
+Gerichtsstand ist das zuständige Gericht in Wien.
 
 
 
