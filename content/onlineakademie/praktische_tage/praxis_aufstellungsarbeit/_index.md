@@ -4,12 +4,12 @@ menu:
     main:
         parent: praktische_tage_akademie
         identifier: praktische_tage
-draft: true
+draft: false
 weight: 5
 description: "Praktische Tage im Präsenzunterricht"
 og_title: "Praktische Tage im Präsenzunterricht"
 og_image: "/img/silvia_onlineakdademie.jpg"
-rich_kurs: true
+rich_kurs: false
 rich_faq:
     -   frage: "Welche Auswirkungen hat die Psyche auf den Körper?"
         antwort: "In der Online-Ausbildung Ganzheitlich gesund - Grundlagen Psychosomatik findest du viele Informationen wie die Psyche den Körer beeinflusst."
