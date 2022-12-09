@@ -9,7 +9,7 @@ weight: 3
 description: "Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching"
 og_title: "Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching"
 og_image: "/img/ks_practitioner.jpg"
-rich_kurs: true
+rich_kurs: false
 rich_faq:
     -   frage: "Für wen ist diese Ausbildung interesannt?"
         antwort: "Die Ausbildung alle diplomierten und sich in Ausbildung befindlichen Lebens- und SozialberaterInnen interessant, die ihre Methodenkompetenz um ein ergänzen möchten"
