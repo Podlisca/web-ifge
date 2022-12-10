@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: gesundheitspraevention
-draft: true
+draft: false
 weight: 5
 description: "Gesundheit & Prävention"
 og_title: "Ausbildung: Gesundheit & Prävention"

@@ -9,7 +9,7 @@ weight: 9
 description: "Der menschliche Körper – verständlich erklärt"
 og_title: "Ausbildung: Der menschliche Körper – verständlich erklärt"
 og_image: "/img/silvia_onlineakdademie.jpg"
-rich_kurs: true
+rich_kurs: false
 rich_faq:
     -   frage: "Wo kann ich lernen wie der menschliche Körper funktionert?"
         antwort: "In der Online-Ausbildung Der menschliche Körper – verständlich erklärt lernen Sie auf einfache Art und Weise wie der Körper funktioniert."

@@ -4,7 +4,7 @@ menu:
     main:
         parent: praktische_tage_akademie
         identifier: praktische_tage
-draft: true
+draft: false 
 weight: 5
 description: "Praktische Tage im Präsenzunterricht"
 og_title: "Praktische Tage im Präsenzunterricht"

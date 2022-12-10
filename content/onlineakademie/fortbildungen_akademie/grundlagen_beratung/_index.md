@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: grundlagen_beratung
-draft: true
+draft: false
 weight: 2
 description: "Grundlegendes in der psychosozialen Beratung/im Coaching"
 og_title: "Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching"

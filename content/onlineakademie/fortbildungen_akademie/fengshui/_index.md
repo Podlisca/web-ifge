@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: fengshui
-draft: true
+draft: false
 weight: 8
 description: "FengShui im psychosozialem Setting"
 og_title: "Ausbildung: FengShui im psychosozialem Setting"

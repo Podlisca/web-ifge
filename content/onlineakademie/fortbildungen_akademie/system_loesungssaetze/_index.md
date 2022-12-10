@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: loesungssaetze
-draft: true
+draft: false 
 weight: 3
 description: "Familienaufstellung - SGF Methode® - Lösungssätze"
 og_title: "Familienaufstellung - SGF Methode® - Lösungssätze"

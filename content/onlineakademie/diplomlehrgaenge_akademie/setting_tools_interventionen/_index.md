@@ -4,7 +4,7 @@ menu:
     main:
         parent: diplomlehrgaenge_akademie
         identifier: setting_tools_interventionen
-draft: true
+draft: false
 weight: 3
 description: "Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching"
 og_title: "Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching"
