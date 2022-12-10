@@ -81,7 +81,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 
 
-#### Diplomausbildungen 
+#### Diplomausbildungen
 
 {{% kursbox %}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
