@@ -83,20 +83,29 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 #### Online-Akademie: 100% Online-Format
 
-{{% kursbox %}}
-{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/tiergestuetztes_coaching.jpg" >}}
-{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/silvia_klangschale.jpg" color="light-red" >}}
+#### Diplomausbildungen
 
+{{% kursbox %}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/onlineakademie_philo_2.jpg" color="light-red" >}}
 {{% /kursbox %}}
 
-***
-#### Online-Live-Format
+#### Upgrades
 
 {{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/online-fortbildungen/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/online-fortbildungen/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/online-fortbildungen/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/online-fortbildungen/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
+{{< kurs titel="Grundlagen Aufstellungsarbeit & SGF METHODE®" link="/onlineakademie/upgrades_akademie/systemische_grundlagen" image="/img/onlineakademie_philo_8.jpg" >}}
+{{% /kursbox %}}
+
+#### FortbildungenSGF Methode®
+
+{{% kursbox %}}
+{{< kurs titel="Familienaufstellung - SGF Methode® - Lösungssätze" link="/onlineakademie/fortbildungen_akademie/system_loesungssaetze" image="/img/onlineakademie_philo_6.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_philo_4.jpg" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_philo_1.jpg" color="light-red" >}}
+{{< kurs titel="Der menschliche Körper - verständlich erklärt" link="/onlineakademie/fortbildungen_akademie/koerper_verstaendlich_erklaert" image="/img/onlineakademie_philo_5.jpg" >}}
+{{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/onlineakademie_philo_3.jpg" color="light-red" >}}
+
 {{% /kursbox %}}
 
 
@@ -105,7 +114,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 ## Unsere Ausbildungen im Überblick
 
-Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen).
+Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen). Vielleicht interessieren Sie auch unsere Online-Live-Formate. Mehr dazu finden Sie in unserer [Kursübersicht](/online-ausbildungsangebote).
 
 
 

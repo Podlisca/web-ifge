@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: koerper_erklaert
-draft: true
+draft: false
 weight: 9
 description: "Der menschliche Körper – verständlich erklärt"
 og_title: "Ausbildung: Der menschliche Körper – verständlich erklärt"

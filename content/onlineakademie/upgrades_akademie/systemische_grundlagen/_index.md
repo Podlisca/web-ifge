@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_akademie
         identifier: systemische_grundlagen
-draft: true
+draft: false
 weight: 5
 description: "Grundlagen Aufstellungsarbeit & SGF Methode®"
 og_title: "Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®"
