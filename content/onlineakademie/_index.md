@@ -117,7 +117,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-## Möchten Sie lieber in einem anderen Format an einer Ausbildunge teilnehmen? 
+## Möchten Sie lieber in einem anderen Format an einer Ausbildunge teilnehmen
 
 Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen). Vielleicht interessieren Sie auch unsere Online-Live-Formate. Mehr dazu finden Sie in unserer [Kursübersicht](/online-ausbildungsangebote).
 

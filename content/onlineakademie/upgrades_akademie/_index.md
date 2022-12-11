@@ -27,7 +27,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 {{% /small %}}
 
 {{% small %}}
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
+## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie
 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
 
