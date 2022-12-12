@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortbildungen_akademie
         identifier: bindungsfolgen
-draft: false
+draft: true
 weight: 7
 description: "Bindung und ihre Folgen für Erwachsene"
 og_title: "Ausbildung: Bindung und ihre Folgen für Erwachsene"
