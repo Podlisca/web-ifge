@@ -38,8 +38,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**21.12.2022** 09:00 - 15:00 Uhr</br>
-
 **07.01.2023** 10:00 - 16:00 Uhr</br>
 **01.02.2023** 09:00 - 15:00 Uhr</br>
 **03.02.2023** 14:00 - 20:00 Uhr</br>
@@ -89,8 +87,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{% small  %}}
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
-
-**18.12.2022**  14:00 - 20:00 Uhr</br>
 
 **14.02.2023**	14:00 - 20:00 Uhr</br>
 **02.03.2023**	14:00 - 20:00 Uhr</br>
