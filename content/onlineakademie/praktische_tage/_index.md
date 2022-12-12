@@ -14,8 +14,11 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 ---
 
 
-## Seite im Aufbau
-***
+## Praktische Tage: Wissen aktiv anwenden.
+Neu erlerntes Wissen ist vor allem dann wunderbar, wenn wir es aktiv anwenden und einsetzen können. Wenn wir feststellen, dass sich das Lernen und Lesen gelohnt hat, weil wir Inhalte verstanden und konkret in der Praxis umsetzen können. Damit Sie das Wissen aus den IFGE-Ausbildungen durch praktische Anwendung festigen können, bieten wir Ihnen die Möglichkeit praktischer Tage im Präsenzunterricht.
+
+Ganz gleich, welchen Kurs der IFGE-Online-Akademie Sie absolviert haben, in den Praxistagen besuchen Sie einen unserer Institutsstandorte in Wien, Niederösterreich oder dem Burgenland, um erworbenes Wissen zu Methoden und Tools aktiv anzuwenden. Dabei profitieren Sie von einem geschützten Raum sowie der Begleitung durch erfahrene Expert\*innen.
+
 
 #### Diplomausbildungen
 
