@@ -22,9 +22,9 @@ og_image: "/img/ks_team.jpg"
 {{% small %}}
 
 
-Im Mittelpunkt der Diplomausbildung stehen Methoden und Instrumente in der Beratung/im Coaching. Sie erlernen und erarbeiten, wie Sie in der Zusammenarbeit mit Klient\*innen die richtigen Impulse setzen und in welchen Momenten welche Interventionen sinnvoll sind. So sind Sie in der Lage, Menschen individuell und zielorientiert zu unterstützen.
+Im **Mittelpunkt** der Diplomausbildung stehen **Methoden und Instrumente** in der Beratung/im Coaching. Sie **erlernen und erarbeiten**, wie Sie in der Zusammenarbeit mit Klient\*innen die **richtigen Impulse** setzen und in welchen Momenten **welche Interventionen sinnvoll** sind. So sind Sie in der Lage, Menschen individuell und zielorientiert zu unterstützen.
 
-Zudem erschließen Sie im Online-Kurs Wissen rund um Beratungssettings und -rahmen. Da es im Beratungs- und Coachingbereich am Ende immer auch um die Kommunikation zwischen Menschen geht, stehen auch Inhalte zur Gesprächsführung am Programm.
+Zudem erschließen Sie im Online-Kurs **Wissen rund um Beratungssettings und -rahmen**. Da es im Beratungs- und Coachingbereich am Ende immer auch um die **Kommunikation** zwischen Menschen geht, stehen auch Inhalte zur **Gesprächsführung** am Programm.
 
 {{< silvia >}}
 
