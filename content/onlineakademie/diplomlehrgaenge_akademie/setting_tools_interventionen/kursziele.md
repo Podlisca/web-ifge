@@ -10,28 +10,28 @@ og_image: "/img/ks_team.jpg"
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
-
+#### Menschen gezielt unterstützen.
 <div class="box video">
 {{% small %}}
 
-{{< youtube b8tlo6e4M5M>}}
+{{< youtube fmXmn39H7Zs>}}
 
 
 {{% /small %}}
 
 {{% small %}}
 
-Weitere Infos folgen. Sieh dir in der Zwischenzeit das praktische Video an.
+
+Im Mittelpunkt der Diplomausbildung stehen Methoden und Instrumente in der Beratung/im Coaching. Sie erlernen und erarbeiten, wie Sie in der Zusammenarbeit mit Klient\*innen die richtigen Impulse setzen und in welchen Momenten welche Interventionen sinnvoll sind. So sind Sie in der Lage, Menschen individuell und zielorientiert zu unterstützen.
+
+Zudem erschließen Sie im Online-Kurs Wissen rund um Beratungssettings und -rahmen. Da es im Beratungs- und Coachingbereich am Ende immer auch um die Kommunikation zwischen Menschen geht, stehen auch Inhalte zur Gesprächsführung am Programm.
 
 {{< silvia >}}
 
 {{% /small %}}
 </div> 
 
-
-
-
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -44,10 +44,9 @@ Weitere Infos folgen. Sieh dir in der Zwischenzeit das praktische Video an.
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/familienaufstellung.png">}}
-
-#### Weitere Infos folgen!
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
+
+
+
 

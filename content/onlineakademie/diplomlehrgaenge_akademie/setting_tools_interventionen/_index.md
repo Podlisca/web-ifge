@@ -4,7 +4,7 @@ menu:
     main:
         parent: diplomlehrgaenge_akademie
         identifier: setting_tools_interventionen
-draft: true
+draft: false 
 weight: 3
 description: "Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching"
 og_title: "Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching"
@@ -23,44 +23,66 @@ rich_faq:
 
 {{< line icon="icon/familienaufstellung.png">}}
 
-## Seite im Aufbau
+#### Setting, Tools, Interventionen und Gesprächsführung
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube 17RcDuirOWs>}}
+
+{{% /small %}}
+
+{{% small %}}
+
+**Erfahre**
+* Welche Instrumente und Methoden in Beratung und Coaching eingesetzt werden können, um Menschen gezielt zu unterstützen
+* Wie ein geeigneter Beratungs-/Coachingsrahmen gestaltet wird
+* Worauf es bei Gesprächsführung und Kommunikation mit Klient*innen ankommt
+* Wie lösungsorientiert Interventionen und Impulse gesetzt werden
+
+Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen. So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+
+{{% /small %}}
+
+</div> 
 
 
+## DICH ERWARTET - Deine Vorteile auf einen Blick
 
-***
-###  Erfahre:
-* Informationen folgen
-
-
-### DICH ERWARTET - Deine Vorteile auf einen Blick
-
-* **Deine Expertise auf dem nächsten Level**
-<br/>* Informationen folgen
+* Deine Expertise auf dem nächsten Level
+* Mehr Kompetenz und Wissen 
+Die Arbeit als psychosoziale Berater\*innen oder Coaches erfordert Wissen aus vielen Bereichen. Durch aktuelles, fundiertes Fachwissen zu Kommunikation, Instrumenten und Settings können Sie Menschen noch gezielter beraten und begleiten.
+* Methoden am Puls der Zeit
+Wie Menschen und Gesellschaften verändert sich auch die psychosoziale Beratung laufend. Mit dieser Diplomausbildung bleiben Sie up-to-date.
+* Ihr flexibler Ausbildungsweg
+Der Kurs findet zu 100% online statt, ganz ohne fest eingeplante Termine. So können Sie sich weiterbilden, wann, wie und wo Sie möchten.
+* Neue berufliche Chancen
+Immer mehr Menschen möchten im Rahmen psychosozialer Beratung oder Coaching an ihren Themen arbeiten oder sich persönlich weiterentwickeln. Die Ausbildung eröffnet Ihnen neue berufliche Richtungen.
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
 
 {{< line icon="icon/familienaufstellung.png">}}
 
-## Online Infovideo ansehen & sofort starten
-# **Videos folgen**
+## Video ansehen & sofort starten
+
 <div class="box video">
 {{% small %}}
 
-### Lerne Silvia Podlisca und das IFGE kennen
-{{< youtube 17RcDuirOWs>}}
+### Übung - Thema: Coachingvereinbarung, Nähe & Distanz
+{{< youtube b8tlo6e4M5M>}}
 
 {{% /small %}}
 {{% small %}}
 
-### Lerne Silvia Podlisca und das IFGE kennen
-{{< youtube 17RcDuirOWs>}}
+### Das professionelle Setting bei der Klangschalenmassage
+{{< youtube sPhLf8V--eQ>}}
 
 {{% /small %}}
 {{% small %}}
 
-### Lerne Silvia Podlisca und das IFGE kennen
-{{< youtube 17RcDuirOWs>}}
+### Klientengespräch: Trennung verarbeiten (inneres Bild)
+{{< youtube 1i4cXuwfH4w>}}
 
 {{% /small %}}
 
@@ -68,16 +90,10 @@ rich_faq:
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
-{{< line icon="noun_Information_478770-2.png" >}}
 
-
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
-
-
 
 
 {{% iconmenu %}}
@@ -88,23 +104,6 @@ rich_faq:
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/familienaufstellung.png">}}
-
-
-{{% floatbox %}}
-{{% box blue=1 %}}
-{{% small %}}
-
-#### Ideal auch für Berufseinsteigerinnen
-
-{{< image src="/img/system_zettel1_bgld.jpg" title="Klangschalen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
-
-Infos folgen 
-
-{{% /small %}}
-{{% /box %}}
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 
 
 
