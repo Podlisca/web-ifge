@@ -86,6 +86,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{% kursbox %}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
 {{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/onlineakademie_philo_2.jpg" color="light-red" >}}
+{{< kurs titel="Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/setting_tools_interventionen" image="/img/onlineakademie_philo_13.jpg" >}}
 {{% /kursbox %}}
 
 #### Upgrades
