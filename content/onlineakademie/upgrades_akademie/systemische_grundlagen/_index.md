@@ -26,26 +26,32 @@ rich_faq:
 
 {{< line icon="icon/beratung.png" >}}
 
-## Seite im Aufbau
+## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube fmXmn39H7Zs>}}
 
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 
 {{% small %}}
+So unterschiedlich Menschen auch sind, wir haben alle eines gemeinsam: Unser Leben, unsere Bedürfnisse und damit unser Wohlbefinden wird maßgeblich durch unser Umfeld beeinflusst. Konkret durch Systeme, etwa in Beruf, Beziehungen oder Familie. Nicht selten erwachsen Ängste, Konflikte und Krisen aus (vergangenen) sozialen Strukturen. 
+
+Einer der besten Zugänge soziale Systeme und ihre Auswirkungen besser zu verstehen sind Aufstellungen. So werden Rollen deutlich, Barrieren spürbar und Dynamiken erkennbar. Dies wiederum hilft Menschen ihre Bedürfnisse, Persönlichkeit und Sorgen besser zu verstehen und Lösungswege zu erarbeiten.
 
 
 
-**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
 
 
+Diese Online-Ausbildung vermittelt Ihnen nicht nur Grundlagen der psychosozialen Aufstellungsarbeit, sondern gewährt auch Einblicke in die SGF Methode®, die systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca. Sie erhalten also jede Menge Wissen zu Ansätzen, Methoden und Impulsen im Kontext systemischer Aufstellungen. Da es sich um eine Weiterbildung der Online-Akademie handelt, findet der Kurs zu 100% online statt.
+
+Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel Tiergestütztes Coaching oder Klangschalen-Practitioner. So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 
 
