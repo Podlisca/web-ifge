@@ -11,6 +11,7 @@ og_image: "/img/tier_coaching_1.jpg"
 {{< slogan >}}
 
 {{< line icon="icon/aufstellung.png" >}}
+#### Einblicke & Erfahrungen zur SGF-Methode®.
 
 <div class="box video">
 {{% small %}}
@@ -22,7 +23,11 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Mehr informationen folgen. 
+Ziel der Fortbildung, die zu **100% online** und **ohne fixe Termine** stattfindet, ist die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) (**S**ystemisch-**G**anzheitliche-**F**amilienaufstellung nach Silvia Podlisca) kennenzulernen. 
+
+In **zahlreichen Lehrvideos sowie Praxisübungen** zeigen wir Ihnen, wie diese Art der Aufstellung funktioniert, worauf bei **Intervention zu achten ist** und wie **Lösungswege erarbeitet** werden. Damit bietet der Kurs psychosozialen Berater\*innen die Möglichkeit, ihre **Methodenkompetenz zu erweitern** und am Puls der Zeit zu bleiben. 
+
+Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilnehmer\*innen jederzeit [**individuelle Beratungstermine**](https://www.ifge.at/kontakt/) vereinbaren. 
 
 
 {{% /small %}}

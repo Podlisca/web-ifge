@@ -40,6 +40,9 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **15. Februar 2023**  los starten. 
 
+**Viel Freude bei deiner Onlineausbildung**
+
+{{< silvia >}}
 
 {{% /small %}}
 </div> 

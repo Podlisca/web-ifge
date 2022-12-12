@@ -23,7 +23,7 @@ og_image: "/img/tier_coaching_1.jpg"
 {{% small %}}
 
 ## Systemische Aufstellungen: Grundlagen & Methoden. 
-Die Weiterbildung stärkt Kompetenz, Wissen und Sicherheit im Bereich psychosozialer Aufstellungen. Im Anschluss sind Teilnehmer*innen in der Lage, soziale Systeme, ihre Strukturen und Auswirkungen noch besser zu erfassen und noch gezielter Interventionen zu setzen. Inhalt des Upgrades ist auch die SGF Methode®. Dabei handelt es sich um eine systemisch ganzheitliche Form der Familienaufstellung, die von Institutsleiterin Silvia Podlisca entwickelt und mittlerweile auch patentiert wurde.
+Die Weiterbildung **stärkt Kompetenz, Wissen und Sicherheit** im Bereich psychosozialer Aufstellungen. Im Anschluss sind Teilnehmer\*innen in der Lage, soziale Systeme, ihre **Strukturen und Auswirkungen** noch besser zu erfassen und noch gezielter Interventionen zu setzen. Inhalt des Upgrades ist auch die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/). Dabei handelt es sich um eine systemisch ganzheitliche Form der Familienaufstellung, die von Institutsleiterin [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) entwickelt und mittlerweile auch patentiert wurde.
 
 
 

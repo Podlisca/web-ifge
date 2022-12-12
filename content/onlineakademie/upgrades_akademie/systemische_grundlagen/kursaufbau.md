@@ -52,7 +52,8 @@ weight: 1
 * Rahmenbedingungen, Haltung und Umgang bei Aufstellungen
 * Die Phänomenologische Perspektive 
 * Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit
-
+* Theorie erklärt: Reglen & Grundlagen für die Aufstellungsarbeit
+* Theorie erklärt: Dynamiken 
 
 
 {{% /small  %}}
@@ -69,7 +70,6 @@ weight: 1
 * Dynamik: Abgang
 * Dynamik: Abtreibung
 * Dynamik: Kind verstorben
-* Weitere systemische Interventionen 
 
 
 {{% /small  %}}

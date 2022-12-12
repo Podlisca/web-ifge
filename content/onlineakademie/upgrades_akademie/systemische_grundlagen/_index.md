@@ -38,9 +38,9 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-So unterschiedlich Menschen auch sind, wir haben alle eines gemeinsam: Unser Leben, unsere Bedürfnisse und damit unser Wohlbefinden wird maßgeblich durch unser Umfeld beeinflusst. Konkret durch Systeme, etwa in Beruf, Beziehungen oder Familie. Nicht selten erwachsen Ängste, Konflikte und Krisen aus (vergangenen) sozialen Strukturen. 
+So **unterschiedlich Menschen** auch sind, wir haben alle eines gemeinsam: Unser Leben, unsere Bedürfnisse und damit unser Wohlbefinden wird maßgeblich durch unser **Umfeld beeinflusst**. Konkret durch **Systeme**, etwa in Beruf, Beziehungen oder Familie. Nicht selten erwachsen Ängste, Konflikte und Krisen aus (vergangenen) sozialen Strukturen. 
 
-Einer der besten Zugänge soziale Systeme und ihre Auswirkungen besser zu verstehen sind Aufstellungen. So werden Rollen deutlich, Barrieren spürbar und Dynamiken erkennbar. Dies wiederum hilft Menschen ihre Bedürfnisse, Persönlichkeit und Sorgen besser zu verstehen und Lösungswege zu erarbeiten.
+Einer der besten Zugänge soziale **Systeme und ihre Auswirkungen** besser zu **verstehen** sind **[Aufstellungen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/)**. So werden Rollen deutlich, Barrieren spürbar und Dynamiken erkennbar. Dies wiederum hilft Menschen ihre Bedürfnisse, Persönlichkeit und Sorgen besser zu verstehen und Lösungswege zu erarbeiten.
 
 
 
@@ -49,9 +49,9 @@ Einer der besten Zugänge soziale Systeme und ihre Auswirkungen besser zu verste
 </div> 
 
 
-Diese Online-Ausbildung vermittelt Ihnen nicht nur Grundlagen der psychosozialen Aufstellungsarbeit, sondern gewährt auch Einblicke in die SGF Methode®, die systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca. Sie erhalten also jede Menge Wissen zu Ansätzen, Methoden und Impulsen im Kontext systemischer Aufstellungen. Da es sich um eine Weiterbildung der Online-Akademie handelt, findet der Kurs zu 100% online statt.
+Diese **100% Online-Ausbildung** vermittelt Ihnen nicht nur Grundlagen der psychosozialen [**Aufstellungsarbeit**](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/), sondern gewährt auch Einblicke in die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/), die **systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca**. Sie erhalten also jede Menge Wissen zu Ansätzen, Methoden und Impulsen im Kontext systemischer Aufstellungen. Da es sich um eine Weiterbildung der [**Online-Akademie**](https://www.ifge.at/onlineakademie/) handelt, findet der Kurs zu **100% online** statt.
 
-Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel Tiergestütztes Coaching oder Klangschalen-Practitioner. So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+Am [IFGE](https://www.ifge.at/about/institut/) blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos **anderer Online-Ausbildungen**, wie zum Beispiel [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) oder [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 
 
