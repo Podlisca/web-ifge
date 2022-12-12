@@ -35,12 +35,12 @@ rich_faq:
 {{% small %}}
 
 **Erfahre**
-* Welche Instrumente und Methoden in Beratung und Coaching eingesetzt werden können, um Menschen gezielt zu unterstützen
+* Welche **Instrumente und Methoden** in Beratung und Coaching eingesetzt werden können, um Menschen **gezielt zu unterstützen**
 * Wie ein geeigneter Beratungs-/Coachingsrahmen gestaltet wird
-* Worauf es bei Gesprächsführung und Kommunikation mit Klient*innen ankommt
-* Wie lösungsorientiert Interventionen und Impulse gesetzt werden
+* Worauf es bei **Gesprächsführung und Kommunikation** mit Klient\*innen ankommt
+* Wie **lösungsorientiert Interventionen** und **Impulse** gesetzt werden
 
-Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen. So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+Am [IFGE](https://www.ifge.at/about/institut/) blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet bietet **das Beste** aus den Onlineausbildungen: **anderer Online-Ausbildungen**, wie zum Beispiel [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) oder [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und **[**Besonderheit Sexualberautng**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/). So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 {{% /small %}}
 
@@ -49,14 +49,14 @@ Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Die
 
 ## DICH ERWARTET - Deine Vorteile auf einen Blick
 
-* Deine Expertise auf dem nächsten Level
+* Deine **Expertise** auf dem **nächsten Level**
 * Mehr Kompetenz und Wissen 
-Die Arbeit als psychosoziale Berater\*innen oder Coaches erfordert Wissen aus vielen Bereichen. Durch aktuelles, fundiertes Fachwissen zu Kommunikation, Instrumenten und Settings können Sie Menschen noch gezielter beraten und begleiten.
-* Methoden am Puls der Zeit
-Wie Menschen und Gesellschaften verändert sich auch die psychosoziale Beratung laufend. Mit dieser Diplomausbildung bleiben Sie up-to-date.
+Die Arbeit als psychosoziale Berater\*innen oder Coaches erfordert **Wissen aus vielen Bereichen**. Durch aktuelles, **fundiertes Fachwissen** zu Kommunikation, Instrumenten und Settings können Sie Menschen noch gezielter beraten und begleiten.
+* Methoden am **Puls der Zeit**
+Wie Menschen und Gesellschaften verändert sich auch die psychosoziale Beratung laufend. Mit dieser **Diplomausbildung bleiben Sie up-to-date**.
 * Ihr flexibler Ausbildungsweg
-Der Kurs findet zu 100% online statt, ganz ohne fest eingeplante Termine. So können Sie sich weiterbilden, wann, wie und wo Sie möchten.
-* Neue berufliche Chancen
+Der Kurs findet zu **100% online** statt, ganz ohne fest eingeplante Termine. So können Sie sich weiterbilden, wann, wie und wo Sie möchten.
+* Neue **berufliche Chancen**
 Immer mehr Menschen möchten im Rahmen psychosozialer Beratung oder Coaching an ihren Themen arbeiten oder sich persönlich weiterentwickeln. Die Ausbildung eröffnet Ihnen neue berufliche Richtungen.
 
 
