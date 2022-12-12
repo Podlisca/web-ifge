@@ -24,7 +24,7 @@ rich_faq:
 
 {{< youtube 17RcDuirOWs>}}
 
-### Ziel: Wissen in die Praxis umsetzen.
+#### Ziel: Wissen in die Praxis umsetzen.
 {{% /small %}}
 
 {{% small %}}
