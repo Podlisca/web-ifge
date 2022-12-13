@@ -62,6 +62,7 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 {{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
+cd ..
 
 
 
