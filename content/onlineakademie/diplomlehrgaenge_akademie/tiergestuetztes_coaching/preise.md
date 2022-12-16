@@ -37,6 +37,7 @@ Zahlung nach Anmeldung. <br/>
 
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
+
 **Spare € 322,50 mit der Weihnachtsaktion**
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
