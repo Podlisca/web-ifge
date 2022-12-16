@@ -83,8 +83,7 @@ Online von 18:30 Uhr - 20:00 Uhr
 <br/>
 
 
-[Anmeldung](/anmeldung.php)
-
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Klangschale in Pinkafeld" >}}
 
 
 {{% /small  %}}

@@ -87,8 +87,8 @@ Online von 18:30 Uhr - 20:00 Uhr
 <br/>Fr. 09:00 bis 14:00 Uhr
 <br/>
 
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Tiere in Pinkafeld" >}}
 
-[Anmeldung](/anmeldung.php)
 
 
 
