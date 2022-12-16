@@ -99,7 +99,7 @@ Prüfung: 25.01.2024
 
 [Termine herunterladen](/downloads/termine_bdsm2023.pdf)
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /small  %}}
 {{% /box %}}
@@ -118,7 +118,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 **Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.

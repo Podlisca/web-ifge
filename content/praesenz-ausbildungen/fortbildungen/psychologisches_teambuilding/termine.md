@@ -59,7 +59,7 @@ Sonntag von 09:00 bis 17:00 Uhr<br/>
 **Modul 2:** 25.06. und 26.06.2022<br/>
 
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /small  %}}
 {{% small  %}}
@@ -81,7 +81,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 **Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.

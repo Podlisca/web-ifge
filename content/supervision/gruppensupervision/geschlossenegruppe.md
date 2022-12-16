@@ -92,7 +92,7 @@ Die Gruppe findet 10 mal jährlich jeden **ersten Mittwoch** im Monat von 16:00 
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 
 {{% small  %}}
@@ -119,7 +119,7 @@ Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 
 {{% small  %}}
@@ -158,7 +158,7 @@ kein Termin im Jänner<br/>
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 {{% /box %}}
 

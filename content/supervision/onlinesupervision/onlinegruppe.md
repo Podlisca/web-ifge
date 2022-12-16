@@ -46,7 +46,7 @@ von 16:30 bis 20:30 Uhr
 Leitung: <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 
 {{% small  %}}
@@ -57,7 +57,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 <br/>
  
 Leitung: <br/>
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 
 {{% small  %}}
@@ -69,7 +69,7 @@ von 14:00 bis 18:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 
 {{% /small  %}}

@@ -79,7 +79,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 
 {{% /small  %}}
@@ -114,10 +114,9 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **25.04.2024**	14:00 - 20:00 Uhr</br>
 **15.05.2024**	09:30	13:30 Uhr</br>
 **22.05.2024**	09:30	13:30 Uhr</br>
-**02.06.2024**	09:00	18:00 Uhr</br>	
 **20.06.2024**	14:00 - 20:00 Uhr</br>
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
 
@@ -141,7 +140,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **28.01.2024**  10:00 - 16:00 Uhr</br>
 
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 
 
@@ -179,7 +178,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 **Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.

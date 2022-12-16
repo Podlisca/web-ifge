@@ -53,7 +53,7 @@ Ein Einstieg in die Gruppenselbsterfahrung während dieser Zeit ist nicht mögli
 
 <br/>
 
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
+Hier geht es zur [Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /card-more %}}
 {{< card-more icon="icon/termin_kursplan.png" title="Geschlossene Selbsterfahrungsgruppe in Wien: in Planung">}}
@@ -79,7 +79,7 @@ Ein Einstieg in die Selbsterfahrungsgruppe während der Zeit ist nicht möglich.
 Mindestteilnehmer\*innenzahl: 8 / Höchstteilnehmer\*innenzahl: 14
 <br/>
 
-Hier geht es zur [ANMELDUNG](/anmeldung.php)
+Hier geht es zur [Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{< line icon="icon/referenten.png" >}}
 {{% box blue=1 %}}

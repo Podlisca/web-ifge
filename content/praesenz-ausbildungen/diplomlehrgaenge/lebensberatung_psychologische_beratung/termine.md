@@ -102,7 +102,7 @@ Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
 
 **Vormittagskurs: Ideal für Eltern!**
 
-[ANMELDUNG](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 [Termine LSB 23 herunterladen](/downloads/LSB_23_termine.pdf)
 </div>
@@ -138,7 +138,7 @@ Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
 
 Montags von 14:00 bis 20:00 Uhr
 
-[ANMELDUNG](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 
 [Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
 
@@ -197,7 +197,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 
 
 **Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](/anmeldung.php)
+Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /small %}}
 {{% /small %}}

@@ -32,7 +32,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 1: 10.12.2022** von 10:00 bis 16:00 Uhr <br/>
 **Modul 2: 14.12.2022** von 10:00 bis 16:00 Uhr <br/>
 
-[Anmeldung](/anmeldung.php)
+[Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small %}}
 {{% /box %}}
 

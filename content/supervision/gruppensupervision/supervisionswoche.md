@@ -55,7 +55,7 @@ Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-### [Anmeldung](/anmeldung.php)
+### [Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /small  %}}
 
@@ -69,7 +69,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-### [Anmeldung](/anmeldung.php)
+### [Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 {{% small  %}}
 
@@ -84,7 +84,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-### [Anmeldung](/anmeldung.php)
+### [Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /small  %}}
 {{% /box %}}
