@@ -25,6 +25,7 @@ rich_faq:
 
 {{< line icon="icon/tiere.png" >}}
 
+Tiere stärken Menschen: Tiere als Resilienzkonzept in der psychosozialen Beratung.
 
 
 <div class="box video">
@@ -36,22 +37,19 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-Es gibt bereits zahlreiche Studien, die beweisen, dass **Tiere** Menschen in ihrem **Wachstum und ihrer Entwicklung** fördern können. Die [tiergestützte psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/) setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren.
+Die **positive Wirkung von Tieren** auf Menschen wird durch zahlreiche **wissenschaftliche Studien belegt**. Hunde, Katzen, Pferde und Co fördern nicht nur Entspannung, Wohlbefinden und Zufriedenheit, sondern auch **Selbstvertrauen und damit Persönlichkeitsentwicklung**. 
 
-Durch das Beobachten und den Umgang von Tieren wird Raum für die **Weiterentwicklung** der eigenen Persönlichkeit gegeben und dafür, im Erleben **Neues zu erlernen**. 
+Die **Gründe** dafür sind **vielfältig**. Etwa, weil Tiere bescheidener, emphatischer und wertfreier als Menschen sind. Aufgrund dieser Eigenschaften und Effekte fördern **Tiere** auch die **Resilienz** und damit die **Belastbarkeit und psychische Stärke** von Menschen. 
+
+Die Fortbildung findet zu **100% online** statt. Dabei werden Inhalte durch **modern gestaltete Videos**, digitale Lernmaterialen sowie **Praxisübungen** vermittelt.
 
 {{% /small %}}
 </div> 
 
+Wer diesen Kurs bucht, hat ganze **drei Jahre vollen Zugriff** auf die Lernplattform. Inhaltlich erarbeitest du, **wie Tiere Menschen** in ihrer Persönlichkeit, in ihrem Selbstvertrauen und daher in ihrer Fähigkeit Krisen zu bewältigen **unterstützen**. 
 
-Das eigene Selbstvertrauen wird in der Interaktion mit den Tieren, die die Menschen mit all ihren Stärken und Schwächen so annehmen wie sie sind, wieder gestärkt und es gelingt, wieder eine stärkere Verbindung zu sich selber aufbauen. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie unterstützen KlientInnen dabei, auch schwierige oder heikle Themen anzusprechen.
-
-
-* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
-
-Der Onlinekurs ist entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/). Solltest Du danach die Onlineausbildung [“Tiergestütztes Coaching„](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/) kaufen, erhältst Du natürlich den Kaufpreis hierfür dieser Ausbildung natürlich abgezogen.
+Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
 

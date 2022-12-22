@@ -29,6 +29,7 @@ Die Weiterbildung **stärkt Kompetenz, Wissen und Sicherheit** im Bereich psycho
 Inhalt des Upgrades ist auch die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/). Dabei handelt es sich um eine systemisch ganzheitliche Form der Familienaufstellung, die von Institutsleiterin [**Silvia Podlisca**](https://www.ifge.at/about/ueber_mich/) entwickelt und mittlerweile auch patentiert wurde.
 
 {{< silvia >}}
+
 {{% /small %}}
 </div> 
 

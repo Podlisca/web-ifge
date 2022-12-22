@@ -10,7 +10,8 @@ og_image: "/img/tier_coaching_1.jpg"
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
 
-{{< line icon="icon/zitat.png" >}}
+{{< line icon="icon/tiere.png" >}}
+## Die Kraft der Tiere nutzen.
 
 <div class="box video">
 {{% small %}}
@@ -21,13 +22,12 @@ og_image: "/img/tier_coaching_1.jpg"
 {{% /small %}}
 
 {{% small %}}
-## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-Dieser Workshop bietet einen **kurzen Einblick** über den Einsatz von Hunden, Katzen & Pferden in der [tiergestützte psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/).
+Die **Weiterbildung** bietet dir **Einblicke** in den **Einsatz von Hund, Katze und Pferd** in der psychosozialen Beratung. Du lernst zu verstehen, welche Eigenschaften **Tiere** zu **wertvollen Co-Coaches** machen und welche **positive Wirkung** die Anwesenheit von Tieren auf Menschen hat. 
 
-Das bedeutet, dass Du lernst, WIE du die **besonderen Wirkungen** von anwesenden Tieren in deine **Arbeit einfließen** lassen können. Im Zuge der Ausbildung erfährst Du, wie Du beispielsweise deine eigenen **Vierbeiner in der freien Praxis** für Interventionen situativ bestmöglich einsetzt.
+Bei diesem Online-Kurs handelt es sich um eine Fortbildung. Wer sich noch **intensiver mit Tieren** in der **psychosozialen Beratung** auseinandersetzen möchte, sollte die Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) absolvieren. 
 
-
+{{< silvia >}}
 
 {{% /small %}}
 </div> 
