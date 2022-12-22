@@ -36,7 +36,7 @@ Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardu
 Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und ["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst die Körperebenen ebenfalls zu berücksichtigen. 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 

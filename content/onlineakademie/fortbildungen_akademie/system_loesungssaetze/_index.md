@@ -57,7 +57,7 @@ Am [IFGE](https://www.ifge.at/about/institut/) blicken wir gerne über den Telle
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VOERBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/aufstellung.png" >}}
 {{% floatbox %}}

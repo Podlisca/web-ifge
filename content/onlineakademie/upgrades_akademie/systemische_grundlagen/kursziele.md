@@ -33,7 +33,7 @@ Die Weiterbildung **stärkt Kompetenz, Wissen und Sicherheit** im Bereich psycho
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
