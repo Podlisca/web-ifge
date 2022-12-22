@@ -13,11 +13,58 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 ---
 
+## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
-## Praktische Tage: Wissen aktiv anwenden.
-Neu erlerntes Wissen ist vor allem dann wunderbar, wenn wir es aktiv anwenden und einsetzen können. Wenn wir feststellen, dass sich das Lernen und Lesen gelohnt hat, weil wir Inhalte verstanden und konkret in der Praxis umsetzen können. Damit Sie das Wissen aus den IFGE-Ausbildungen durch praktische Anwendung festigen können, bieten wir Ihnen die Möglichkeit praktischer Tage im Präsenzunterricht.
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. Denn Tatsache ist, dass wir **unterschiedliche Lerntypen** sind. Manche lernen gerne morgens, andere abends oder nachts. Manche lernen schneller, andere brauchen mehr Zeit. 
 
-Ganz gleich, welchen Kurs der IFGE-Online-Akademie Sie absolviert haben, in den Praxistagen besuchen Sie einen unserer Institutsstandorte in Wien, Niederösterreich oder dem Burgenland, um erworbenes Wissen zu Methoden und Tools aktiv anzuwenden. Dabei profitieren Sie von einem geschützten Raum sowie der Begleitung durch erfahrene Expert\*innen.
+**Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.**
+
+
+</div> 
+
+
+{{% floatbox %}}
+
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+{{% /floatbox %}}
+
+
+{{% box %}}
+{{% small  %}}
+## Weiterbildung: Flexibel und individuell.
+
+Die Kurse der **IFGE-Online-Akademie** finden zu **100% im digitalen Raum** statt. Ganz ohne vorab fix eingeplante Termine. So wird Weiterbildung zu einem ganz neuen Erlebnis, **flexibler und individueller** als jemals zuvor. Teilnehmer*innen können rund um die Uhr auf mehr als 100 Lehrvideos zugreifen und so ganz nach persönlichen Bedürfnissen **Neues lernen.** Dabei setzen wir auf **didaktische Vielfalt**. Die Lehrvideos bieten nicht nur Vorträge, sondern auch **zahlreiche praktische Übungen**. 
+
+{{% /small  %}}
+{{% /box %}}
+
+
+
+## Digital, aber menschlich und persönlich.
+
+{{% floatbox %}}
+{{< image src="/img/ks_online_philo.jpg" title="Bildbeschreibung"float="right" >}}
+
+An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleichzeitig liegen uns Menschlichkeit und Persönlichkeit am Herzen. Unseren Lehrgangsteilnehmer*innen stehen wir trotz **100%-Online-Lehrgänge** für Fragen jederzeit zur Verfügung. Individuell planbare Beratungen und Coachings sind ebenfalls Teil der Kurse.
+
+* 100%-Online-Weiterbildungen
+* Individuelles und flexibles Kursformat
+* 3 Jahre Zugriff auf mehr als 100 Lehrvideos
+* Mordernste digitale und technische Methoden
+* Fortbildung ganz nach eigenen Bedürfnissen
+* Persönliche Beratung
+* Eröffnung neuer beruflicher Perspektiven 
+
+{{% /floatbox %}}
+
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+
+## Verschaffen Sie sich einen Überblick über unsere Online-Kurse im 100% Online-Format
+
 
 
 #### Diplomausbildungen

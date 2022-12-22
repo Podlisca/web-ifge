@@ -24,19 +24,22 @@ rich_faq:
 
 {{< youtube 17RcDuirOWs>}}
 
-#### Ziel: Wissen in die Praxis umsetzen.
 {{% /small %}}
 
 {{% small %}}
+**Neu erlerntes Wissen** ist vor allem dann wunderbar, wenn wir es **aktiv anwenden und einsetzen** können. Wenn wir feststellen, dass sich das Lernen und Lesen gelohnt hat, weil wir Inhalte verstanden und konkret in der Praxis umsetzen können. Damit Du das Wissen aus den IFGE-Ausbildungen durch **praktische Anwendung** festigen kannst, bieten wir dir die Möglichkeit **praktischer Tage im Präsenzunterricht**.
 
-**Neu erlerntes Wissen** ist vor allem dann wunderbar, wenn wir es **aktiv anwenden und einsetzen** können. Wenn wir feststellen, dass sich das Lernen und Lesen gelohnt hat, weil wir Inhalte verstanden und konkret in der Praxis umsetzen können. Damit Sie das Wissen aus den IFGE-Ausbildungen durch **praktische Anwendung** festigen können, bieten wir Ihnen die Möglichkeit praktischer Tage im Präsenzunterricht.
-
-Ganz gleich, welchen Kurs der [**IFGE-Online-Akademie**](https://www.ifge.at/onlineakademie/) Sie absolviert haben, in den Praxistagen besuchen Sie einen unserer Institutsstandorte in Wien, Niederösterreich oder dem Burgenland, um erworbenes **Wissen zu Methoden und Tools** aktiv anzuwenden. Dabei profitieren Sie von einem **geschützten Raum** sowie der **Begleitung durch erfahrene Expert\*innen.**
-
-
+Ganz gleich, welchen Kurs der [**IFGE-Online-Akademie**](https://www.ifge.at/onlineakademie/) du absolviert hast, in den **Praxistagen** besuchst du einen unserer Institutsstandorte in Wien, Niederösterreich oder dem Burgenland, um erworbenes **Wissen zu Methoden und Tools** aktiv anzuwenden. Dabei profitierst Du von einem **geschützten Raum** sowie der **Begleitung durch erfahrene Expert\*innen.**
 
 {{% /small %}}
 </div> 
+
+## Unser Auftrag: Wissen in die Praxis umsetzen.
+
+Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den Kursen der **Online-Akademie**. Durch die **konkrete Nutzung** von **Wissen** im Beratungs- oder Coachingsetting tauchen häufig **Fragen oder Herausforderungen** auf. Diese können **sofort diskutiert und besprochen** werden. 
+
+**Eine Online-Ausbildung in Kombination mit praktischen Tagen im Präsenzunterricht bereitet dich ideal auf die reale Praxis vor.**
+
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 more=1 %}}

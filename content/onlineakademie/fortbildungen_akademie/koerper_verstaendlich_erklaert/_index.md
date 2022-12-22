@@ -25,22 +25,25 @@ rich_faq:
 
 {{< line icon="icon/gesundheit.png" >}}
 
+## Komplexes System verständlich erklärt: Der menschliche Körper im Überblick.
+
 <div class="box video">
 {{% small %}}
 
 {{< youtube 17RcDuirOWs>}}
 
+Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) - 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 
 {{% small %}}
 
-Gelenke, Knochen, Muskeln, Organe, Venen und Co sind in einem ständigen Wechselspiel und machen unseren **Körper mit all seinen Funktionen** zu einem Ganzen. Klingt komplex? Das ist es auch. Ziel dieser Ausbildung ist es, den **menschlichen Körper** sowie seine **Elemente und Funktionen** verständlich zu erklären. 
+**Psychosoziale Beratung und Coaching** setzt, wie der Name verrät, primär bei der **menschlichen Psyche** an. Bei individuellen Bedürfnissen, persönlichen Herausforderungen und menschlichen Konflikten. Doch der **Mensch ist ein komplexes System**, ein **Wechsel- und Zusammenspiel aus Körper, Seele und Geist**. Und daher wäre es zu einfach gedacht, die Psyche isoliert, nur für sich zu betrachten. Umso wichtiger, dass psychosoziale Berater\*innen und generell Menschen, die für und mit Menschen arbeiten, den **menschlichen Körper in Grundzügen** verstehen. 
 
-Das **erweitert** nicht nur Ihr **Allgemeinwissen**, sondern vor allem auch das Verständnis für den Zusammenhang von Körper, Seele und Geist. Das Kursangebot richtet sich nicht nur an **psychosoziale Berater\*innen**, sondern an viele weitere Berufsgruppen, wie etwa **Energetiker\*innen, Kinesiolog\*innen** oder **Klangschalen-Anwender*innen**.
+Im Rahmen dieser **digitalen Weiterbildung** wird der **menschliche Körper einfach und verständlich erklärt**. Dein Nutzen liegt in einem **tieferen Verständnis** für **Wechselbeziehungen** und **Zusammenhänge**. Der Kurs ist Teil der IFGE-Online-Akademie. Das bedeutet, dass Inhalte zu **100% online** und daher örtlich und zeitlich flexibel erarbeitet werden können. 
 
-Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)
+
 {{% /small %}}
 </div> 
 

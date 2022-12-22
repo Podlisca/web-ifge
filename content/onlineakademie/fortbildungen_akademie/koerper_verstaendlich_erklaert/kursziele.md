@@ -12,6 +12,8 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{< line icon="icon/psychosomatik.png" >}}
 
+## Der menschliche Körper verständlich erklärt.
+
 <div class="box video">
 {{% small %}}
 
@@ -22,8 +24,11 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Mehr informationen folgen. 
+**Gelenke, Knochen, Muskeln, Organe, Venen und Co** sind in einem ständigen Wechselspiel und machen unseren **Körper mit all seinen Funktionen** zu einem Ganzen. Klingt komplex? Das ist es auch. Ziel dieser Ausbildung ist es, den **menschlichen Körper** sowie seine **Elemente und Funktionen** verständlich zu erklären. 
 
+Das **erweitert** nicht nur Ihr **Allgemeinwissen**, sondern vor allem auch das Verständnis für den Zusammenhang von Körper, Seele und Geist. Das Kursangebot richtet sich nicht nur an **psychosoziale Berater\*innen**, sondern an viele weitere Berufsgruppen, wie etwa **Energetiker\*innen, Kinesiolog\*innen** oder **Klangschalen-Anwender*innen**.
+
+Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)
 
 {{% /small %}}
 </div> 
