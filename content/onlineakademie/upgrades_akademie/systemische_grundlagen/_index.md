@@ -33,7 +33,6 @@ rich_faq:
 
 {{< youtube fmXmn39H7Zs>}}
 
-**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 
@@ -43,15 +42,15 @@ So **unterschiedlich Menschen** auch sind, wir haben alle eines gemeinsam: Unser
 Einer der besten Zugänge soziale **Systeme und ihre Auswirkungen** besser zu **verstehen** sind **[Aufstellungen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/)**. So werden Rollen deutlich, Barrieren spürbar und Dynamiken erkennbar. Dies wiederum hilft Menschen ihre Bedürfnisse, Persönlichkeit und Sorgen besser zu verstehen und Lösungswege zu erarbeiten.
 
 
-
-
 {{% /small %}}
 </div> 
 
 
-Diese **100% Online-Ausbildung** vermittelt Ihnen nicht nur Grundlagen der psychosozialen [**Aufstellungsarbeit**](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/), sondern gewährt auch Einblicke in die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/), die **systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca**. Sie erhalten also jede Menge Wissen zu Ansätzen, Methoden und Impulsen im Kontext systemischer Aufstellungen. Da es sich um eine Weiterbildung der [**Online-Akademie**](https://www.ifge.at/onlineakademie/) handelt, findet der Kurs zu **100% online** statt.
+Diese **100% Online-Ausbildung** vermittelt dir nicht nur Grundlagen der psychosozialen [**Aufstellungsarbeit**](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/), sondern gewährt auch Einblicke in die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/), die **systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca**. Du erhältst also jede Menge Wissen zu Ansätzen, Methoden und Impulsen im Kontext systemischer Aufstellungen. Da es sich um eine Weiterbildung der [**Online-Akademie**](https://www.ifge.at/onlineakademie/) handelt, findet der Kurs zu **100% online** statt.
 
-Am [IFGE](https://www.ifge.at/about/institut/) blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos **anderer Online-Ausbildungen**, wie zum Beispiel [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) oder [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+Die **Besonderheit** dieser Ausbildung ist, dass **jede Dynamik von Silvia Podlisca im Detail erklärt** wird. Im Anschluss werden in einer **Diskussionsrunde Fragen** und Herausforderungen thematisiert. **{{< red >}}So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit bereichert.{{< /red >}}**
+
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberautng**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 
 

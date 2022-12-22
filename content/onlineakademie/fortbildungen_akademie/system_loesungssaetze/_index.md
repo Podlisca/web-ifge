@@ -50,12 +50,9 @@ rich_faq:
 
 Eine Grenze vieler Aufstellungsansätze ist, dass diese nicht alle Ebenen, also individuelles und kollektives Erleben von Ereignissen oder Situationen, berücksichtigen. Und genau das ist der große Vorteil der [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) nach Silvia Podlisca. Wie der Name **Systemisch-Ganzheitliche-Familienaufstellung** bereits ankündigt, handelt es sich um eine **umfassende Aufstellungsmethode**. Dabei wird **sowohl individuelles Erleben** (z.B. Tochter), **als auch kollektives Erleben** (z.B.Großmutter) berücksichtigt. Durch den **Blick** für das **große Ganze** kann **tiefergreifend** an Themen und gezielt an **Lösungswegen** gearbeitet werden. In dieser Online-Fortbildung lernen Sie die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/), deren Zugang zur **Aufstellung sowie Lösungsansätze** kennen.
 
-Am [IFGE](https://www.ifge.at/about/institut/) blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos **anderer Online-Ausbildungen**, wie zum Beispiel [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) oder [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). So profitieren Sie im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+Die **Lösungssätze** wurden von **Silvia Podlisca** laufend **weiterentwickelt und verfeinert**. So können Lösungen, etwa neue Verhaltensmuster, **im Einklang mit familiären Systemen** gefunden werden, wodurch eine **dauerhafte Umsetzung in der Realität** gefördert wird.
 
-
-
-
-
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberautng**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 {{< buchung-vorauswahl text="KURS VOERBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
 

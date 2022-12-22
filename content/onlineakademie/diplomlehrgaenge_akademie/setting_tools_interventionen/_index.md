@@ -23,7 +23,7 @@ rich_faq:
 
 {{< line icon="icon/familienaufstellung.png">}}
 
-#### Setting, Tools, Interventionen und Gesprächsführung
+## Menschen beraten & coachen: Grundlagen, Instrumente & Rahmen. 
 
 <div class="box video">
 {{% small %}}
@@ -63,7 +63,7 @@ Immer mehr Menschen möchten im Rahmen psychosozialer Beratung oder Coaching an 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
 
-Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberautng**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberautng**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 {{< line icon="icon/familienaufstellung.png">}}
 
@@ -97,10 +97,12 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 ## Beratung & Coaching: Settings, Tools & Gesprächsführung.
 Sprechen und zuhören. **Fragen stellen und Antworten bieten**. Impulse geben und Interventionen setzen. **Einen wertschätzenden Rahmen schaffen und einander auf Augenhöhe begegnen**. Das alles sind **zentrale Komponenten** der Arbeit mit und für Menschen. Insbesondere für Berater\*innen und Coaches, die Menschen in unterschiedlichen Situationen und bei unterschiedlichen Themen begleiten. Damit Beratung und Coaching Wirkung zeigt, braucht es **Kompetenz** und Wissen in vielen Bereichen, wie etwa **Gesprächsführung oder Psychologie**. Und genau das bietet dir dieser Online-Diplomlehrgang.
-**Seit mehr als 20 Jahren bewegen, begleiten und bereichern wir Menschen mit psychosozialer Beratung sowie hochwertigen Aus- und Weiterbildungen**. 
+**Seit mehr als 20 Jahren bewegen, begleiten und bereichern wir Menschen mit psychosozialer Beratung sowie hochwertigen Aus- und Weiterbildungen**. Dieser Kurs bündelt sozusagen 20 Jahre Erfahrung und bietet dir das Beste aus allen Angeboten. 
 
-### Dieser Kurs bündelt sozusagen 20 Jahre Erfahrung und bietet dir das Beste aus allen Angeboten. 
 
+### Ein buntes Programm: Welche Inhalte auf dich warten.
+
+* Du erarbeitest und verstehst, wie **emotionaler Beziehungsaufbau gelingt**. 
 * Du lernst das **vielfältige Spektrum an Beratungs- und Coachingsettings** kennen.
 * Wir zeigen dir, mit welchen **Instrumenten und Tools du Interventionen** setzen kannst.
 * Du erfährst, worauf es bei **Beratung und Coaching von Menschen ankommt** und welche **Faktoren** auf das Setting **Einfluss** nehmen.

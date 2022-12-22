@@ -26,7 +26,7 @@ weight: 1
 ## Organisatorisches 
 
 * **Start sofort nach Zahlungseingang**
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
@@ -39,7 +39,7 @@ weight: 1
 * Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. 
 
-Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) sowie Videos anderer IFGE Online-Ausbildungen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) und [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) sowie Videos anderer IFGE Online-Ausbildungen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 {{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
 

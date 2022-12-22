@@ -46,15 +46,27 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ###
 #### Modul 1
 
-* folgt
-
+* Grundlagen & systemisch - kollektive Regeln
+* Hinbewegung, Versöhnung Vater / Mutter / Eltern
+* Verlorene / abgetriebene / abgegangene Kinder
+* Schweres Schicksal / Zustimmung / Integration ins Leben
+* Partnerschaft: Mann / Frau /gleichgeschlechtliche Liebe / Elternschaft
+* Frühere PartnerInnen / neue Partnerschaften
+* Trennung von Partner*in
+* Trauer um Eltern
+* Geschwister
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
 
-* folgt
-
+* Kind wird von einer anderen Person mitaufgezogen
+* Adoption / Plegeeltern
+* Krieg / Vergewaltigung im Krieg (Kriegsrecht)
+* sexuelle Gewallt: Vergewaltigung / Missbrauch / Stalking
+* Mögliche Dynamiken bei Essstörungen
+* Leben / Schicksal / Tod
+* Seelenanteile / Abspaltung / erstarrte Welten
 
 
 {{% /small  %}}

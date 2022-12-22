@@ -12,6 +12,8 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{< line icon="icon/zitat.png" >}}
 
+## Kompetenz & Sicherheit im Umgang mit dem Thema Sexualität.
+
 <div class="box video">
 {{% small %}}
 
@@ -22,18 +24,15 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-## Besonderheit: Sexualberatung
+Ziel der Ausbildung ist die Kompetenz und Sicherheit im Umgang mit dem Thema **Sexualität zu fördern und zu stärken**. Denn nicht nur für Klient\*innen ist es manchmal schwer sensible Aspekte anzusprechen. Auch für **Berater*innen kann es herausfordernd** sein, **gezielte Fragen** zu stellen und **Impulse zu setzen**. 
 
-
-Durch die **100% Onleinausbildung** „Besonderheit - Sexualberatung“  erhälst Du nicht nur eigene Sicherheit in diesem Themenkomplex, sondern vor allem **spezifisches Know-how** in der Beratung von Einzelpersonen und Paaren, deren Anliegen sich um den breit gefächerten Bereich der Sexualität drehen.
-
-Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardunterricht weit hinaus und bietet die Festigung sowie eine **wesentliche Vertiefung** des Fachwissens in diesem Themengebiet
+**Ziel des Kurses**, der zur Gänze im **Online-Setting** stattfindet, ist zudem **Wissen** und **Sensibilität** für die **Bedeutung der Sexualität** für das menschliche **Wohlbefinden** sowie für die **psychische und physische Gesundheit** zu fördern.
 
 
 {{% /small %}}
 </div> 
 
-Der Onlinekurs ist teilweise entnommen aus der Onlineausbildung [“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und ["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst die Körperebenen ebenfalls zu berücksichtigen. 
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)** oder **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 
 {{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
