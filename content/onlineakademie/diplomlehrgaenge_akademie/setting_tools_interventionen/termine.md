@@ -23,38 +23,59 @@ weight: 3
 
 {{< line icon="icon/familienaufstellung.png">}}
 ## Online Infovideo ansehen & sofort starten
-
-## Video ansehen & sofort starten
-
+# **Videos folgen**
 <div class="box video">
 {{% small %}}
 
-### Übung - Thema: Coachingvereinbarung, Nähe & Distanz
-{{< youtube b8tlo6e4M5M>}}
+### Lerne Silvia Podlisca und das IFGE kennen
+{{< youtube 17RcDuirOWs>}}
 
 {{% /small %}}
 {{% small %}}
 
-### Das professionelle Setting bei der Klangschalenmassage
-{{< youtube sPhLf8V--eQ>}}
+### Lerne Silvia Podlisca und das IFGE kennen
+{{< youtube 17RcDuirOWs>}}
 
 {{% /small %}}
 {{% small %}}
 
-### Klientengespräch: Trennung verarbeiten (inneres Bild)
-{{< youtube 1i4cXuwfH4w>}}
+### Lerne Silvia Podlisca und das IFGE kennen
+{{< youtube 17RcDuirOWs>}}
 
 {{% /small %}}
 
 </div> 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
 
+## ONLINE: LIVE - INFOSVERANSTALTUNGEN
 
+{{< booking produkte="Infoveranstaltung Klangschalen Practitioner Online" success="https://www.klangschalen-practitioner.ifge.at/danke/" >}}
 
 ***
 
+{{% box top-align=1 %}}
+{{% small  %}}
 
+#### Nächster Ausbildungsbeginn Online
+
+{{< youtube 17RcDuirOWs>}}<br/>
+
+
+{{%/small  %}}
+
+{{% small  %}}
+
+#### Interaktive Lehrveranstaltungen
+
+ca. alle 14 Tage
+Termine werden bei Anmeldung bekannt gegeben
+
+Online von 18:30 Uhr - 20:00 Uhr
+
+{{% /small  %}}
+{{% small  %}}
 #### Praktische Tage
 
 **[Hier geht es zu den Terminen & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
@@ -63,5 +84,8 @@ weight: 3
 
 
 
+{{% /small  %}}
+
+{{% /box %}}
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
