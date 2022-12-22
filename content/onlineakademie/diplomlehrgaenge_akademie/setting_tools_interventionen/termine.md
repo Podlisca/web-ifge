@@ -22,8 +22,6 @@ weight: 3
 
 
 {{< line icon="icon/familienaufstellung.png">}}
-## Online Infovideo ansehen & sofort starten
-
 ## Video ansehen & sofort starten
 
 <div class="box video">
@@ -49,10 +47,9 @@ weight: 3
 </div> 
 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
 
 
-
-***
 
 
 #### Praktische Tage
@@ -60,8 +57,3 @@ weight: 3
 **[Hier geht es zu den Terminen & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
-
-
-
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
