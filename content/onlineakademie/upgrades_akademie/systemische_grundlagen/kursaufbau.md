@@ -25,18 +25,21 @@ weight: 1
 
 ## Organisatorisches 
 
-
-
 * **Start sofort nach Zahlungseingang**
+* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
-* Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
-* Nach der Anmeldung & Überweisung der (An)Zahlung starten das **Kick-off** mit den  Willkommensvideos und den ersten kleinen Aufgaben **Material für eine Woche** 
+* Nach der Anmeldung & Überweisung der (An)Zahlung startest Du sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
+* **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (4 Turnusse). 
-* Drei Wochen nach Turnus 4 wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhelten Sie ein Zertifikat über die Teilnahme. 
-* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
-* Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
+* Nach Abschluss des Onlinekurses wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhältst Du das IFGE Zertifikat
+* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
+* Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
+Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. 
+
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)und [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) sowie Videos anderer IFGE Online-Ausbildungen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 {{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
 

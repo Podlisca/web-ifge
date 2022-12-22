@@ -49,7 +49,7 @@ rich_faq:
 ***
 ###  Erfahre:
 * Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
-* Wie Sie **prophylaktisch** mit Ihren Klient*innen an deren Themen arbeiten, um **psychischen Krankheiten vorzubeugen**
+* Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
 * Welche **positiven Einflüsse Tiere** auf den Menschen haben
 * Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
 

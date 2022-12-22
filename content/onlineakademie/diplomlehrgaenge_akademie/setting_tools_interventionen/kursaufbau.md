@@ -24,13 +24,13 @@ weight: 1
 
 * **Start sofort nach Zahlungseingang**
 * **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
-* Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
+* Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
+* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
-* Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
+* Nach der Anmeldung & Überweisung der (An)Zahlung startest Du sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
-* Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
-* Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. 
+* Nach Abschluss des Onlinekurses wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhältst Du das IFGE Zertifikat
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
@@ -41,7 +41,8 @@ Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert.
 ## Auszug Kursinhalte
 
 **Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit klassichen Interventionen kombiniert.** 
-Du erhältst auch Tools aus den Onlineausbildungen ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tools auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+
+Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberautng**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
 

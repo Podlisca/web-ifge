@@ -67,7 +67,7 @@ Leitung: <br/>
 #### Online Gruppensupervision
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**03.12.2022**<br/>
+**011.01.2023**<br/>
 von 14:00 bis 18:00 Uhr
 <br/> 
 <br/> 
