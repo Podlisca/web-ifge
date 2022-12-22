@@ -11,6 +11,7 @@ og_image: "/img/tier_coaching_1.jpg"
 {{< slogan >}}
 
 {{< line icon="icon/tiere.png" >}}
+## Rasch, richtig & ruhig reagieren: Erste Hilfe für Hund & Katze.
 
 {{% floatbox %}}
 
@@ -23,9 +24,10 @@ og_image: "/img/tier_coaching_1.jpg"
 {{% /small %}}
 
 {{% small %}}
-## Weiterbildung am Puls der Zeit: Die IFGE-Online-Akademie.
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren lassen**. Wenn Wissen entsprechend persönlicher Bedürfnisse und individuellem Lebensstil erschlossen werden kann. **Und genau deswegen haben wir die IFGE-Online-Akademie gegründet.** Ziel dieses Kurses ist es, dass die Kursteilnehmer in Notfallsituationen Ruhe bewahren und abschätzen lernen, wie rasch eine tierärztliche Behandlung notwendig ist.
+Inhaltlich liegt der **Schwerpunkt der Ausbildung auf zwei Themen**. Einerseits erlernst du, wie **Not- und Unfälle** bei Hunden und Katzen **vermieden werden**. Zweitens vermitteln wir dir **fundiertes Erste-Hilfe-Wissen für Tiere**. So bist du in der Lage in kritischen Situationen ruhig zu bleiben und richtig zu reagieren. 
+
+Und das ist wichtig, denn wie beim Menschen, **zählen** auch bei Tieren bei Unfällen häufig die **ersten Minuten und Maßnahmen**. Organisatorisch findet der **Erste-Hilfe-Kurs zu 100% online** statt. Du profitierst von **innovativen Videos** und **praxisorientierten Lernunterlagen**, auf die du ganze **drei Jahre** zugreifen kannst. 
 
 
 {{% /small %}}

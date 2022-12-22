@@ -24,6 +24,7 @@ rich_faq:
 
 
 {{< line icon="icon/tiere.png" >}}
+## Rasch, richtig & ruhig reagieren: Erste Hilfe für Hund & Katze.
 
 <div class="box video">
 {{% small %}}
@@ -35,19 +36,21 @@ rich_faq:
 
 {{% small %}}
 
-## Erste Hilfe für Tiere. In Notfallsituationen Ruhe bewahren 
+**Notfälle, Unfälle, Zwischenfälle**. Ob wir wollen oder nicht, auch das ist **Teil des Lebens**. Nicht nur des menschlichen, sondern auch des **tierischen Lebens**. Genauso wie wir Menschen, können sich auch **Hunde und Katzen** plötzlich **verletzen** oder **akut unter Schmerzen** leiden. 
 
-Durch **richtige Sofortmaßnahmen** können Sie ihrem Tier helfen, Schmerzen lindern und vielleicht sogar das **Leben retten**.
+Um **langfristige gesundheitliche** Folgen und Schäden zu vermeiden, ist es wichtig, dass **möglichst rasch**, **richtig und ruhig reagiert** wird. Das Problem: Obwohl viele Menschen Tiere besitzen oder mit ihnen arbeiten, weiß kaum einer, wie **Erste Hilfe für Hund und Katze** aussieht.
 
-Unser Seminar „Erste Hilfe für Tiere soll **Sicherheit geben**,** wie man in Gefahrensituationen sachkundig reagiert. Viele Notfälle sind vermeidbar, sollte es doch dazu kommen ist es wichtig Ruhe zu bewahren und durch eine gute Vorbereitung rasch, RICHTIG helfen - wie beim Menschen sind auch für unsere Vierbeiner oft gerade die **ersten Minuten** bei der Ersten Hilfe **entscheidend**.
+Diese Fortbildung der [IFGE-Online-Akademie](https://www.ifge.at/onlineakademie/) findet zu **100% im digitalen Raum** ohne fixe Gruppentermine statt. 
 
 {{% /small %}}
 </div> 
-Mit den richtigen Erste-Hilfe-Maßnahmen wird die bestmögliche Voraussetzung für eine erfolgreiche anschließende tierärztliche Behandlung geschaffen.
 
-Der Onlinekurs ist entnommen aus der Onlineausbildung “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. 
+#### So machen wir diesen wichtigen Kurs möglichst vielen Menschen zugänglich und bieten maximale Flexibilität.
 
-* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
+Unsere **erfahrenen Referent\*innen** zeigen dir in Form von Lehrvideos, Lernmaterialen und Praxisübungen nicht nur **Erste-Hilfe-Maßnahmen für Tiere**, sondern erklären auch, wie **Gefahrensituationen vermeidbar** sind. 
+
+Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
+
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. (Start nach Zahlungseingang)" >}}
 
