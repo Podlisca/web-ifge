@@ -4,7 +4,7 @@ menu:
     main:
         parent: "gruppensetting"
         identifier: "offenegruppe"
-draft: true
+draft: false
 aliases:
     - "/supervision/offenegruppe/"
 weight: 4
