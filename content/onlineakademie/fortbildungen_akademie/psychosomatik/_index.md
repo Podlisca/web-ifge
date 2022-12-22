@@ -29,28 +29,23 @@ rich_faq:
 
 {{< youtube z1IFkodr0hQ>}}
 
-**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 {{% /small %}}
 
 {{% small %}}
 
-Die **Psychosomatik** ist ein hochgradig spannender Teilbereich der **ganzheitlichen Gesundheit** und kann in der **psychosozialen Beratung** für Berater\*innen sowie für deren Klient\*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten **emotionalen Dynamiken** auf die Spur zu kommen.
+Menschen fühlen sich dann am **wohlsten, wenn Körper, Geist und Seele im Einklang** sind. So ist es. Denn am Ende bilden diese **drei Elemente eine Einheit**, wirken miteinander, aber eben auch aufeinander. 
 
-„Das geht mir an die Nieren.“
-„Ich hab die Nase voll.“
-„Das schlägt mir auf den Magen.“
-„Ich möchte aus der Haut fahren.“
+Mit der Wirkung der **menschlichen Psyche auf die menschliche Gesundheit** setzt sich auch die **Psychosomatik auseinander**. Konkret geht es um die Frage, wie sich seelische Belastungen in körperlichen Reaktionen widerspiegeln bzw. zu diesen führen. 
 
-Schon diese Beispiele des Volksmundes zeigen die untrennbare **Verbindung von Körper und Geist**. Diese und andere **psychosomatische Aussprüche** sind bereits ein wesentlicher Hinweis darauf, wie sehr seelische Themen sich auf der Körperebene zeigen können, wenn sie nicht oder unzureichend beachtet wurden.
-
+Der Kurs unterstützt **psychosoziale Berater\*innen** das **Zusammenspiel**von Körper, Seele und Geist noch **besser zu erfassen**. 
 {{% /small %}}
-</div> 
+</div>  
 
- Der medizinische Teilbereich der Psychosomatik beschäftigt sich wissenschaftlich mit den Phänomenen, die traditionelle Heilverfahren seit jeher ganzheitlich im Blick haben: Dazu gehört die **Auswirkung von seelischem Erleben und emotionalen Belastungen** auf den Körper und auf das Entstehen von Krankheiten.
+In weiterer Folge können Ängste, Bedürfnisse und Herausforderungen von **Klient\*innen** noch **ganzheitlicher verstanden** werden, wodurch wiederum gezielter Lösungswege erarbeitet werden können. Durch ein **tieferes Verständnis** im Bereich der **Psychosomatik** können Menschen gestärkt und so das Auftreten von **Krankheiten vermieden** werden. 
 
+Bei dieser Fortbildung profitierst du nicht nur von fundierten und relevanten Inhalten, sondern insbesondere auch von einer flexiblen und modernen Organisation. Der Kurs findet, wie alle anderen Kurse der [**Online-Akademie**](https://www.ifge.at/onlineakademie/), zu **100% online** statt. So kannst du dich wann, wie und wo du möchtest weiterbilden. Wir gewähren dir ganze **drei Jahre Vollzugriff** auf die Lernplattform. 
 
-
-Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangschalen-Practitioner](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) zusammen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
 

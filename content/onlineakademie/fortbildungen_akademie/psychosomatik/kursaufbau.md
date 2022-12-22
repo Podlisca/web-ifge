@@ -23,7 +23,7 @@ weight: 1
 
 
 ## Organisatorisches 
-Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und “[Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/tiergestuetztes_coaching/)„. Somit erhältst Du zusätzlich zu den klassischen Tool auch tiergestützte Impust und lernst wie Theorie praktisch umgesetzt wird. Solltest Du danach eine der beiden Ausbildungen kaufen, erhältst Du natürlich den Kaufpreis dieser Ausbildung natürlich abgezogen.
+Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangschalen-Practitioner](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) zusammen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
@@ -34,7 +34,6 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit Modul 1
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
-* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 

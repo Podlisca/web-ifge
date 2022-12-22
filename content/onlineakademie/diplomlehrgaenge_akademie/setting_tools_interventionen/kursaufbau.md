@@ -33,9 +33,7 @@ weight: 1
 * Nach Abschluss des Onlinekurses wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhältst Du das IFGE Zertifikat
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
-* Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
-Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. 
-
+* Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 ***
 ## Auszug Kursinhalte
