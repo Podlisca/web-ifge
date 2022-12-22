@@ -23,49 +23,49 @@ og_image: "/img/unterricht _2022_system.jpg"
 
 {{< image src="/img/unterricht _2022_system.jpg" float="left" title="Gruppensupervision mit immer wechselnden Teilnehmer\*innen bieten besonders viel Abwechslung und Bewegung im eigenen Beraterprozess. Zudem ermöglicht eine offene Supervisionsgruppe die Teilnahme immer dann, wenn Sie auch eine Fall haben welchen Sie supervidieren lassen möchten. Solange Sie in Ausbildung zur Lebensberater\*in -psychologischen Berater\*in sind ist es auch eine Möglichkeit noch fehlende Stunden für das Praktikum zu absolvieren. " >}} 
 
-Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in allen Ausbildungsstadien und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
+Der **laufende Einstieg** in die **offene Supervisionsgruppe** ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in **allen Ausbildungsstadien** und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
 
-Der Vorteil einer offenen Gruppe liegt nicht nur in der spannenden Dynamik einer sich ständig neu zusammengesetzten Teilnehmer\*innenschaft, sondern ermöglicht vor allem, auch akute Themen im gruppensupervisorischen Kontext zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der erfahrenen psychologischen Berater\*innen, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
+Der Vorteil einer **offenen Gruppe** liegt nicht nur in der spannenden Dynamik einer sich ständig **neu zusammengesetzten Teilnehmer\*innenschaft**, sondern ermöglicht vor allem, auch akute **Themen im gruppensupervisorischen Kontext** zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der **erfahrenen psychologischen Berater\*innen**, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
 
-In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
+In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen**, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
 
 {{% /floatbox %}}
 
 {{< line icon="icon/termine.png" >}}
 
-## Termine
-
+## Nächsten Termine: ONLINE SUPERVISIONSTAGE
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Wien  
+#### Jänner 2023 
 {{< image src="/img/ifge_wien.jpg">}}
 
-**05.11.2022**<br/>
-von 16:30 bis 20:30 Uhr
-Leitung: <br/> 
+**11.01.2023**<br/>
+von 16:00 bis 20:00 Uhr
+<br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 [Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 
 {{% small  %}}
-#### Burgenland
+#### Februar 2023
 {{< image src="/img/seminarraum1.jpg">}}
 
-**in Planung**<br/>
+**21.02.2023**<br/>
+von 14:00 bis 18:00 Uhr
 <br/>
  
-Leitung: <br/>
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 [Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 
 {{% small  %}}
-#### Online Gruppensupervision
+#### März 2023
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**03.12.2022**<br/>
-von 14:00 bis 18:00 Uhr
+**08.03.2023**<br/>
+von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>

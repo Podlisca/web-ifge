@@ -4,7 +4,7 @@ menu:
     main:
         parent: "gruppensetting"
         identifier: "offenegruppe"
-draft: false
+draft: true
 aliases:
     - "/supervision/offenegruppe/"
 weight: 4
@@ -25,11 +25,11 @@ og_image: "/img/unterricht _2022_system.jpg"
 
 {{< image src="/img/unterricht _2022_system.jpg" float="left" title="Gruppensupervision mit immer wechselnden Teilnehmer\*innen bieten besonders viel Abwechslung und Bewegung im eigenen Beraterprozess. Zudem ermöglicht eine offene Supervisionsgruppe die Teilnahme immer dann, wenn Sie auch eine Fall haben welchen Sie supervidieren lassen möchten. Solange Sie in Ausbildung zur Lebensberater\*in -psychologischen Berater\*in sind ist es auch eine Möglichkeit noch fehlende Stunden für das Praktikum zu absolvieren. " >}} 
 
-Der laufende Einstieg in die offene Supervisionsgruppe ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in allen Ausbildungsstadien und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
+Der **laufende Einstieg** in die **offene Supervisionsgruppe** ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in **allen Ausbildungsstadien** und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
 
-Der Vorteil einer offenen Gruppe liegt nicht nur in der spannenden Dynamik einer sich ständig neu zusammengesetzten Teilnehmer\*innenschaft, sondern ermöglicht vor allem, auch akute Themen im gruppensupervisorischen Kontext zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der erfahrenen psychologischen Berater\*innen, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
+Der Vorteil einer **offenen Gruppe** liegt nicht nur in der spannenden Dynamik einer sich ständig **neu zusammengesetzten Teilnehmer\*innenschaft**, sondern ermöglicht vor allem, auch akute **Themen im gruppensupervisorischen Kontext** zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der **erfahrenen psychologischen Berater\*innen**, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
 
-In der offenen Supervisionsgruppe profitieren Sie von den unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
+In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen**, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
 
 {{% /floatbox %}}
 
