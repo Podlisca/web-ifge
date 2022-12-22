@@ -23,6 +23,9 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
+* **Einführungspreis: bei Vorbestellung bis 31.01.2023: {{< red >}}€1.250,-{{< /red >}}** <br/>
+Zahlung nach Anmeldung. <br/>
+
 * **Ausbildungskosten:€ 1.490,-** <br/>
 Zahlung nach Anmeldung. <br/>
 
@@ -37,4 +40,4 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 
 ## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
