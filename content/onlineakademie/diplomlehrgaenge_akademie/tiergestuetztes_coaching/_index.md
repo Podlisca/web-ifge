@@ -115,7 +115,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 {{% floatbox %}}
 
 # Hier ein kleiner Einblick in die Ausbildung:
-#### In Summe umfasst die Ausbildung über 100 Lehrvideos
+#### In Summe umfasst die Ausbildung über 130 Lehrvideos
 
 <div class="box video">
 {{% small %}}

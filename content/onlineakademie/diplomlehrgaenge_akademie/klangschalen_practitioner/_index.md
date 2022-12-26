@@ -109,7 +109,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 s
 ***
 # Hier ein kleiner Einblick in die Ausbildung:
-#### In Summe umfasst die Ausbildung über 100 Lehrvideos
+#### In Summe umfasst die Ausbildung über 130 Lehrvideos
 
 <div class="box video">
 {{% small %}}
