@@ -47,8 +47,7 @@ weight: 3
 {{% /small %}}
 
 </div> 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
-<br/>
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}<br/>
 
 ## ONLIne: Live - Infosveranstaltungen
 

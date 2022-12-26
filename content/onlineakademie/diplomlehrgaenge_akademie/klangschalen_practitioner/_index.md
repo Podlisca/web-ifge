@@ -36,8 +36,6 @@ rich_faq:
 
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
-## Nutze jetzt die Weihnachtsaktion und Spare über € 1.000,-
-
 ***
 ###  Erfahre:
 * Welche **großen Vorteile** die Arbeit mit Klangschalen anderen Methoden gegenüber hat
@@ -82,8 +80,7 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ### Was bewirken die Schwingungen der Klangschale? 
@@ -133,8 +130,7 @@ s
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}{{< line icon="noun_Information_478770-2.png" >}}
 {{% /floatbox %}}
 
 
@@ -165,8 +161,7 @@ Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen 
 {{% /small %}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 
 
 
