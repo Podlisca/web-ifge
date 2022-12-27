@@ -48,18 +48,26 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 {{% box top-align=1 %}}
 {{% small  %}}
 
-#### Kick-off 
-#### Kursmaterial für drei Wochen
+#### Willkommen
+#### Kursmaterial für drei Tage
+* Das Team stellt sich vor
 * Systemische Grundlagen und Vetreter*innen
 * Rahmenbedingungen, Haltung und Umgang bei Aufstellungen
 * Die Phänomenologische Perspektive 
-* Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit
-* Theorie erklärt: Reglen & Grundlagen für die Aufstellungsarbeit
-* Theorie erklärt: Dynamiken 
-
+* Bonusmaterial aus anderen Onlineausbildungen 
+#### 
 
 {{% /small  %}}
 
+{{% small  %}}
+#### Kick-off 
+#### Kursmaterial für eine Woche
+* Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit
+* Theorie erklärt: Reglen & Grundlagen für die Aufstellungsarbeit
+* Theorie erklärt: Dynamiken 
+* Bonusmaterial aus anderen Onlineausbildungen 
+
+{{% /small  %}}
 {{% small  %}}
 #### Turnus 1
 #### Kursmaterial für drei Wochen
@@ -71,10 +79,13 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Dynamik Übernahme: Klientin "übernimmt" Nachfolge der Mutter
 * Dynamik: Abgang
 * Dynamik: Abtreibung
-* Dynamik: Kind verstorben
+* Dynamik: Kind verstorbe
+* Bonusmaterial aus anderen Onlineausbildungen 
 
+{{% /small%}}
+{{% /box %}}
 
-{{% /small  %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
@@ -89,12 +100,10 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Abschlussmeditation
 * frühe Unterbrochenen Hinbewegung
 * Systemische Gewichtung erkennen
+* Bonusmaterial aus anderen Onlineausbildungen 
 
+{{% /small  %}}
 
-{{% /small%}}
-{{% /box %}}
-
-{{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 3
 #### Kursmaterial für drei Wochen
@@ -105,12 +114,14 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Kraftbad
 * Schweres Schicksal annehmen
 * künstliche Befrüchtung
+* Bonusmaterial aus anderen Onlineausbildungen 
 
 
 {{% /small  %}}
 
 {{% small  %}}
-####  Modul 4
+
+#### Modul 4
 #### Kursmaterial für drei Wochen
 
 * Schicksalsgemeinschaft: Opfer - Täter 
@@ -118,23 +129,15 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Opfer & Täter - 2.Weltkrieg 
 * Engelsmacherin
 
-
-
-{{% /small  %}}
-
-{{% small  %}}
-
-#### PRÜFUNG
-
-Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
 {{% /small  %}}
 
 {{% /box %}}
 
 
 
-## Leitung
+## Prüfung & Leitung
 
+Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)

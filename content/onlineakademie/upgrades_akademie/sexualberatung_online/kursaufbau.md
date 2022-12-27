@@ -48,33 +48,45 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 {{% box top-align=1 %}}
 {{% small  %}}
 
-#### Kick-off 
-#### Kursmaterial für drei Wochen
+#### Willkommen
+#### Kursmaterial für drei Tage
 * Das Team stellt sich vor
-* Grundlegendes in der Sexualberatung
-* PLISSIT - Beratermodell in Sexualberatung
-* Haltung des Beraters / der Bearterin in der Sexualberatung
+* Besonderheit Sexualberatung
+* Grundlagen für ein befriedigendes Sexualleben
 * Erste Übungen zur Selbstreflektion 
 * Übung: Der/die  Klient\*in führt
-* 2 Klientengespäche 
-
+* Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
+{{% small  %}}
+#### Kick-off 
+#### Kursmaterial für eine Woche
+* Sprache in der Sexualberatung
+* PLISSIT - Beratermodell in Sexualberatung
+* Haltung des Beraters / der Bearterin in der Sexualberatung
+* Umgang mit Stille in der Beratung
+* Weitere Übungen zur Selbstreflektion 
+* Übung: Der/die  Klient\*in führt
+* 2 Klientengespäche 
+* Bonusmaterial aus anderen Onlineausbildungen 
 
+{{% /small  %}}
 {{% small  %}}
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
 * Sexualität und Sprache
-* Umgang mit Stille in der Beratung
 * Sexuelle Identitäten und Orientierungen
 * LGBTIQ
 * Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
 * 2 Klientengespäche 
+* Bonusmaterial aus anderen Onlineausbildungen 
 
+{{% /small%}}
+{{% /box %}}
 
-{{% /small  %}}
+{{% box top-align=1 %}}
 {{% small  %}}
 #### Turnus 2
 #### Kursmaterial für drei Wochen
@@ -86,14 +98,12 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Machtspiele in Beziehungen
 * Sexuelle Gesundheit in einer Beziehung
 * 2 Klientengespäche 
+* Bonusmaterial aus anderen Onlineausbildungen 
 
+{{% /small  %}}
 
-{{% /small%}}
-{{% /box %}}
-
-{{% box top-align=1 %}}
 {{% small  %}}
-#### Turnus 3
+####  Turnus 3
 #### Kursmaterial für drei Wochen
 
 * Abweichende Neigungen und Paraphilien
@@ -103,12 +113,13 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Fetische, Paraphilien, Sexualstörungen 
 * Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
 * 2 Klientengespäche 
-
+* Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
 
 {{% small  %}}
-####  Modul 4
+
+#### Modul 4
 #### Kursmaterial für drei Wochen
 
 * Täter- & Opferhaltungen
@@ -117,23 +128,19 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Sexualität und Alter
 * Sexualität un Behinderung
 * 2 Klientengespäche 
+* Bonusmaterial aus anderen Onlineausbildungen 
 
-
-{{% /small  %}}
-
-{{% small  %}}
-
-#### PRÜFUNG
-
-Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
 {{% /small  %}}
 
 {{% /box %}}
 
 
 
-## Leitung
+## Prüfung & Leitung
 
+Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
+
+### Leitung:
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
