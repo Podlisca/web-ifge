@@ -52,4 +52,3 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 [Anmeldung](https://www.ifge.at/anmeldung/)
 =======
 {{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
->>>>>>> parent of b581434 (Revert "Kurse vorbestellen - Aktionen")
