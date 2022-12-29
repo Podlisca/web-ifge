@@ -74,10 +74,8 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 
-* Sofort 1x Zahlung: € 9.600,- 
-* Bildungsscheck von 100,-
 
-**GESAMTKOSTEN € 9.500,- (ohne IFGE Schulungssoftware)**
+* Bildungsscheck von 100,-
 
 
 ## Frühbucherbonus
