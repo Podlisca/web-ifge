@@ -53,8 +53,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Das Team stellt sich vor
 * Besonderheit Sexualberatung
 * Grundlagen für ein befriedigendes Sexualleben
-* Erste Übungen zur Selbstreflektion 
-* Übung: Der/die  Klient\*in führt
+* Erste Übungen zur Selbstreflexion* Übung: Der/die  Klient\*in führt
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
@@ -65,8 +64,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * PLISSIT - Beratermodell in Sexualberatung
 * Haltung des Beraters / der Bearterin in der Sexualberatung
 * Umgang mit Stille in der Beratung
-* Weitere Übungen zur Selbstreflektion 
-* Übung: Der/die  Klient\*in führt
+* Weitere Übungen zur Selbstreflexion* Übung: Der/die  Klient\*in führt
 * 2 Klientengespäche 
 * Bonusmaterial aus anderen Onlineausbildungen 
 
