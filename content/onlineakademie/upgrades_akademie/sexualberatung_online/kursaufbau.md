@@ -124,7 +124,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Ausstieg aus Täter- & Opferhaltungen
 * Sexuelle Gewalt: Opfer und Täterarbeit
 * Sexualität und Alter
-* Sexualität un Behinderung
+* Sexualität und Behinderung
 * 2 Klientengespäche 
 * Bonusmaterial aus anderen Onlineausbildungen 
 
