@@ -50,7 +50,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 **Nächster Termin** </br>
 folgt </br>
-von 09:00 bis 18:00 Uhr
+von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
@@ -69,7 +69,7 @@ IFGE Wien
 
 **Nächster Termin** </br>
 folgt </br>
-von 09:00 bis 18:00 Uhr
+von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
@@ -87,7 +87,7 @@ IFGE Wien
 
 **Nächster Termin** </br>
 folgt </br>
-von 09:00 bis 18:00 Uhr
+von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
@@ -106,7 +106,7 @@ IFGE Wien
 
 **Nächster Termin** </br>
 folgt </br>
-von 09:00 bis 18:00 Uhr
+von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
