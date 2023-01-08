@@ -48,8 +48,8 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Schwerpunkgt: Familienaustellung">}}
 
 
-**Nächster Termin** </br>
-11.03.2023 </br>
+## Nächster Termin </br>
+**11.03.2023** </br>
 von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
@@ -67,8 +67,8 @@ IFGE St. Pölten
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: Sexualberatung">}}
 
-**Nächster Termin** </br>
-06.05.2023</br>
+## Nächster Termin </br>
+**06.05.2023**</br>
 von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
@@ -85,7 +85,7 @@ IFGE Burgenland
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/tiere_schwarz.png" title="Schwerpunkgt: Tiergestützte Beratung">}}
 
-**Nächster Termin** </br>
+## Nächster Termin </br>
 folgt </br>
 von 10:00 bis 17:00 Uhr
 
@@ -104,7 +104,7 @@ IFGE Wien
 
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: klassische Beratung & Krisenberatung">}}
 
-**Nächster Termin** </br>
+## Nächster Termin </br>
 folgt </br>
 von 10:00 bis 17:00 Uhr
 
