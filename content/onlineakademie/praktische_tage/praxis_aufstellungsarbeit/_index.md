@@ -49,13 +49,13 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 
 **Nächster Termin** </br>
-folgt </br>
+11.03.2023 </br>
 von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 **Veranstaltungsort:** </br>
-IFGE Wien
+IFGE St. Pölten
 
 **Kosten:** € 290,-  </br>
 
@@ -68,13 +68,13 @@ IFGE Wien
 {{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: Sexualberatung">}}
 
 **Nächster Termin** </br>
-folgt </br>
+06.05.2023</br>
 von 10:00 bis 17:00 Uhr
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 **Veranstaltungsort:** </br>
-IFGE Wien
+IFGE Burgenland
 
 **Kosten:** € 290,-  </br>
 
