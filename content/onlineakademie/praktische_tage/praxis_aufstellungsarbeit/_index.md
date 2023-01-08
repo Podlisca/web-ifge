@@ -42,84 +42,67 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-{{% box blue=1 more=1 %}}
+# Termine: Praktische Tage:
 
-
-{{< card-more link="/diplomlehrgaenge/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Schwerpunkgt: Familienaustellung">}}
-
-
-## Nächster Termin </br>
+{{% box top-align=1 %}}
+{{% small  %}}
+### Schwerpunkgt: Familienaustellung
 **11.03.2023** </br>
 von 10:00 bis 17:00 Uhr
+
+**Kosten:** € 290,-  </br>
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 **Veranstaltungsort:** </br>
 IFGE St. Pölten
 
-**Kosten:** € 290,-  </br>
+**Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
 
-**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+{{< buchung-vorauswahl text="Kurs buchen" veranstaltung="Kurs buchen Praktische Tage: 11.03.23 Schwerpunkkt: Familienaufstellung" >}}
 
+{{% /small  %}}
 
-{{% /card-more %}}
-
-
-{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: Sexualberatung">}}
-
-## Nächster Termin </br>
+{{% small  %}}
+### Schwerpunkt: Sexual- & Paarberatung
 **06.05.2023**</br>
 von 10:00 bis 17:00 Uhr
+
+**Kosten:** € 290,-  </br>
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 **Veranstaltungsort:** </br>
 IFGE Burgenland
 
-**Kosten:** € 290,-  </br>
+**Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
 
-**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+{{< buchung-vorauswahl text="Kurs buchen" veranstaltung="Kurs buchen Praktische Tage: 06.05.23 Schwerpunkkt: Sexual- & Paarberatung" >}}
+{{% /small  %}}
 
-{{< /card-more >}}
+{{% small  %}}
+### Schwerpunkgt: klassische Beratung & Krisenberatung
 
-
-{{< card-more link="/diplomlehrgaenge/" icon="icon/tiere_schwarz.png" title="Schwerpunkgt: Tiergestützte Beratung">}}
-
-## Nächster Termin </br>
-folgt </br>
+**Termin folgt**</br>
 von 10:00 bis 17:00 Uhr
+
+**Kosten:** € 290,-  </br>
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 **Veranstaltungsort:** </br>
 IFGE Wien
 
-**Kosten:** € 290,-  </br>
+**Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
 
-**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
+{{< buchung-vorauswahl text="Kurs buchen" veranstaltung="----" >}}
 
-
-{{< /card-more >}}
-
-
-{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Schwerpunkgt: klassische Beratung & Krisenberatung">}}
-
-## Nächster Termin </br>
-folgt </br>
-von 10:00 bis 17:00 Uhr
-
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
-**Veranstaltungsort:** </br>
-IFGE Wien
-
-**Kosten:** € 290,-  </br>
-
-**Gruppengröße:** mindestens 4 Teilnehmer\*innen - maximal 12 Teilnehmer\*innen
-
-{{< /card-more >}}
-
+{{% /small  %}}
 {{% /box %}}
+
+
+
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
