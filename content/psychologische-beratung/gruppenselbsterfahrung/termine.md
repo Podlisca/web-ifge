@@ -43,7 +43,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **03.02.2023** 14:00 - 20:00 Uhr</br>
 **04.03.2023** 10:00 - 16:00 Uhr</br>
 **15.03.2023** 09:30 - 13:30 Uhr</br>
-**24.03.2023** 14:00 - 20:00 Uhr</br>
 **14.04.2023** 14:00 - 20:00 Uhr</br>
 **21.04.2023** 14:00 - 20:00 Uhr</br>
 **22.04.2023** 10:00 - 16:00 Uhr</br>
