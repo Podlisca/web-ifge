@@ -47,14 +47,4 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 </div> 
 
-<<<<<<< HEAD
-Sexualb{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}eratung 
-
-#### Praktische Tage
-
-**[Hier geht es zu den Terminen & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-=======
-Sexualb{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}eratung 
->>>>>>> parent of b581434 (Revert "Kurse vorbestellen - Aktionen")
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}

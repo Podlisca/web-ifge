@@ -36,4 +36,4 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 ## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 
-Sexualb{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}eratung 
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
