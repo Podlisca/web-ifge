@@ -53,6 +53,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Das Team stellt sich vor
 * Besonderheit Sexualberatung
 * Grundlagen für ein befriedigendes Sexualleben
+* Erste Gedanken zur Haltung des Beraters / der Beraterin in der Sexualberatung
+* Themen in der Sexualberatung
 * Erste Übungen zur Selbstreflexion* Übung: Der/die  Klient\*in führt
 * Bonusmaterial aus anderen Onlineausbildungen 
 
@@ -65,6 +67,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Haltung des Beraters / der Bearterin in der Sexualberatung
 * Umgang mit Stille in der Beratung
 * Weitere Übungen zur Selbstreflexion* Übung: Der/die  Klient\*in führt
+* Wichtige Begriffe in der Sexualberatung
 * 2 Klientengespäche 
 * Bonusmaterial aus anderen Onlineausbildungen 
 
@@ -73,13 +76,14 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* Sexualität und Sprache
 * Sexuelle Identitäten und Orientierungen
 * LGBTIQ
 * Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
+* Sexuelle Phantasien, Wünsche und Bedürfnisse
 * 2 Klientengespäche 
 * Bonusmaterial aus anderen Onlineausbildungen 
+
 
 {{% /small%}}
 {{% /box %}}

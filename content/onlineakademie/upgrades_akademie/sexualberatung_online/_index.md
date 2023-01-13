@@ -17,7 +17,7 @@ rich_faq:
 
 ---
 
-# Onlineausbildung: Upgrade Sexualberatung
+# Onlineausbildung: Besonderheit Sexualberatung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Sexualberatung
 {{< slogan >}}
