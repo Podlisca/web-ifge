@@ -46,7 +46,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{% box top-align=1 %}}
 {{% small  %}}
-### Schwerpunkgt: Familienaustellung
+### Schwerpunkt: Familienaufstellung
 **11.03.2023** </br>
 von 10:00 bis 17:00 Uhr
 
