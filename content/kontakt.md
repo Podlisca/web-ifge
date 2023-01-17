@@ -85,10 +85,10 @@ buchhaltung@ifge.at
 
 {{% /small %}}
 {{% small %}}
-### Presse
-Katharina Freiler<br/>
-+43 676 755 58 86<br/>
-presse@ifge.at 
+### Büro
+Maureen Brunner<br/>
++43 699 111 66 024<br/>
+office@ifge.at 
 {{% /small %}}
 {{% /box %}}
 
