@@ -87,7 +87,7 @@ buchhaltung@ifge.at
 {{% small %}}
 ### Büro
 Maureen Brunner<br/>
-+43 699 111 66 024<br/>
+Anfragen bitte per Mail<br/>
 office@ifge.at 
 {{% /small %}}
 {{% /box %}}
