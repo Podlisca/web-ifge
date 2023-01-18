@@ -3,7 +3,7 @@ title: "Hinter den Kulissen: Menschen und Team hinter dem IFGE."
 draft: draft
 tags: ["Online", "Digitalisierung", "Arbeitswelt", "Bildung", "Selbstständigkeit"]
 weight: 138
-img: "blog_138.jpg"
+img: "christoph.jpg"
 og_image: "/img/rueckblick.jpg"
 description: "Kurse werden geplant und durchgeführt. Drehbücher werden entwickelt und Videos gedreht. Info-Sessions werden abgehalten und Fragen beantwortet. An der Website wird gefeilt und Social Media Plattformen werden betreut. Rechnungen werden gestellt und Zahlen im Auge behalten. Ideen werden gesammelt und Texte getippt. Damit ein Institut wie das IFGE läuft und funktioniert, muss viel passieren. Und dafür braucht es schlaue Köpfe, kreative Geister und starke Persönlichkeiten. In diesem Blog werfen wir einen Blick hinter die IFGE-Kulissen, konkret in die Welt der Worte und Texte."
 
