@@ -38,7 +38,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**07.01.2023** 10:00 - 16:00 Uhr</br>
 **01.02.2023** 09:00 - 15:00 Uhr</br>
 **03.02.2023** 14:00 - 20:00 Uhr</br>
 **04.03.2023** 10:00 - 16:00 Uhr</br>
