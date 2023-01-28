@@ -48,7 +48,6 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-### 22.08. - 26.08.2022<br/>
 ### 21.08. - 25.08.2023<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
@@ -63,7 +62,6 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-### 25.07. - 29.07.2022<br/>
 ### 31.07. - 04.08.2023<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
@@ -77,7 +75,6 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Niederösterereich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-### 11.07. - 15.07.2022<br/>
 ### 10.07. - 14.07.2023 <br/>
 
 

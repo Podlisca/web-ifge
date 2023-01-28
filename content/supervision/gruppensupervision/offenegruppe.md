@@ -41,38 +41,40 @@ In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Si
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Wien  
-{{< image src="/img/ifge_wien.jpg">}}
-
-**05.11.2022**<br/>
-von 16:30 bis 20:30 Uhr
-Leitung: <br/> 
-<br/> 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-[Anmeldung](https://www.ifge.at/anmeldung/)
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< image src="/img/seminarraum1.jpg">}}
-
-**in Planung**<br/>
-<br/>
- 
-Leitung: <br/>
-[Anmeldung](https://www.ifge.at/anmeldung/)
-{{% /small  %}}
-
-{{% small  %}}
-#### Online Gruppensupervision
+#### Online: Jänner 2023 
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**011.01.2023**<br/>
-von 14:00 bis 18:00 Uhr
+**11.01.2023**<br/>
+von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 [Anmeldung](https://www.ifge.at/anmeldung/)
+{{% /small  %}}
+
+{{% small  %}}
+#### Online: Februar 2023
+{{< image src="/img/onlineunterricht.jpg">}}
+
+**21.02.2023**<br/>
+von 14:00 bis 18:00 Uhr
+<br/>
+ 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
+[Anmeldung](https://www.ifge.at/anmeldung/)
+{{% /small  %}}
+
+{{% small  %}}
+#### Online: März 2023
+{{< image src="/img/onlineunterricht.jpg">}}
+
+**08.03.2023**<br/>
+von 16:00 bis 20:00 Uhr
+<br/> 
+<br/> 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
+[Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 
 {{% /small  %}}
