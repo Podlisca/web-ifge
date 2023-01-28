@@ -79,7 +79,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Dynamik Übernahme: Klientin "übernimmt" Nachfolge der Mutter
 * Dynamik: Abgang
 * Dynamik: Abtreibung
-* Dynamik: Kind verstorbe
+* Dynamik: Kind verstorben
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small%}}
