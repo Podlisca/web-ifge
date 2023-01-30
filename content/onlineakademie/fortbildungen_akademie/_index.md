@@ -96,7 +96,10 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{% kursbox %}}
 {{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
 {{< kurs titel="Grundlagen Aufstellungsarbeit & SGF METHODE®" link="/onlineakademie/upgrades_akademie/systemische_grundlagen" image="/img/onlineakademie_philo_8.jpg" >}}
+{{< kurs titel="Onlineausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett" link="/onlineakademie/upgrades_akademie/systemdimensionsbrett" image="/img/onlineakademie_philo_7.jpg" color="light-red" >}}
 {{% /kursbox %}}
+
+
 
 #### FortbildungenSGF Methode®
 
@@ -105,10 +108,12 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_philo_4.jpg" >}}
 {{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_philo_1.jpg" color="light-red" >}}
 {{< kurs titel="Der menschliche Körper - verständlich erklärt" link="/onlineakademie/fortbildungen_akademie/koerper_verstaendlich_erklaert" image="/img/onlineakademie_philo_5.jpg" >}}
+{{< kurs titel="Bindung und ihre Folgen für Erwachsene" link="/onlineakademie/fortbildungen_akademie/bindung_und_folgen" image="/img/onlineakademie_philo_15.jpg" color="light-red" >}}
+{{< kurs titel="Grundlegendes in der psychosozialen Beratung/im Coaching" link="/onlineakademie/fortbildungen_akademie/grundlagen_beratung" image="/img/onlineakademie_philo_12.jpg" >}}
+{{< kurs titel="FengShui im psychosozialem Setting" link="/onlineakademie/fortbildungen_akademie/fengshui" image="/img/onlineakademie_philo_10.jpg" color="light-red" >}}
+{{< kurs titel="Gesundheit und Prävention" link="/onlineakademie/fortbildungen_akademie/gesundheitspraevention" image="/img/onlineakademie_philo_11.jpg" >}}
 {{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/onlineakademie_philo_3.jpg" color="light-red" >}}
-
 {{% /kursbox %}}
-
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
