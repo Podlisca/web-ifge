@@ -44,14 +44,18 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 #### Modul 1
 * Das Team stellt sich vor
 * Grundlagen der psychosozialen Beratung/Coaching
+* Beratungsverlauf - Bella & Plissit-Prinzip
 * Das Setting: psychosoziale Beratung/Coaching
 * Das Setting: psychologische Beratung Hunde & Katzen
 * Das Setting: psychologische Beratung Pferde
-* Das tiergestützte Setting
-* Unterschied: Therapiehund / Hunde in der psychosozialen Beratung
-* Wichtige Begriffe im tiergestützten Coaching
-* Grenzen der Tiere und Grenzen der tiergestützten psychosozialen Beratung
-* rechtliche Grundlagen (Tierschutzgesetz) um in der Praxis arbeiten zu dürfen
+* Historischer Hintergrund tiergestützter Interventionen
+* Psychosoziale Berufsbilder & deren Abgrenzungen
+* Online Setting - Coaching via E-Mail/Chat
+* Möglichkeiten & Grenzen des tiergestützten psychosozialen Coachings
+* Die Auftragsklärung & Vertrag
+* praktische Übungen - Thema: Coachingvereinbarung, Nähe & Distanz
+* praktische Übunge: Blinde Kuh
+* praktische Übungen Blinde Kuh - die Auflösung
 
 
 {{% /small  %}}
