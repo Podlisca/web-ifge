@@ -41,7 +41,6 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
-Zahlungseingang)" >}}
 ***
 
 {{% box top-align=1 %}}

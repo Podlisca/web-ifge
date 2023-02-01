@@ -42,7 +42,6 @@ zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Gesundhei
 Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
 
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
-Zahlungseingang)" >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
