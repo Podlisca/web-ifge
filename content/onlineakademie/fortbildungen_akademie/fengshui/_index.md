@@ -35,16 +35,16 @@ rich_faq:
 
 {{% small %}}
 
-Studien belegen den Einfluss von Umfeld und Umgebung auf den Menschen. So beeinflussen etwa Geräusche, Gerüche oder die Raumgestaltung das Stresslevel, das Wohlbefinden oder die Zufriedenheit von Menschen. 
+Studien belegen den Einfluss von **Umfeld und Umgebung** auf den Menschen. So **beeinflussen** etwa Geräusche, Gerüche oder die **Raumgestaltung** das Stresslevel, das Wohlbefinden oder die Zufriedenheit von Menschen. 
 
-Für Beratung und Coaching bedeutet das, dass auch Atmosphäre und Räumlichkeiten nicht außer Acht gelassen werden dürfen. Und genau hier kommt Feng-Shui ins Spiel, also die Lehre der harmonischen Lebens- und Wohnraumgestaltung.
+Für **Beratung und Coaching** bedeutet das, dass auch **Atmosphäre und Räumlichkeiten** nicht außer Acht gelassen werden dürfen. Und genau hier kommt **Feng-Shui** ins Spiel, also die **Lehre der harmonischen Lebens- und Wohnraumgestaltung**.
 
-Diese Fortbildung der IFGE-Online-Akademie zeigt dir, wie du als Berater*in oder Coach ein Umfeld, das Entspannung und Wohlfühlen fördert, schaffen. 
+Diese Fortbildung der **IFGE-Online-Akademie** zeigt dir, wie du als Berater\*in oder Coach ein Umfeld, das **Entspannung und Wohlfühlen** fördert, schaffen. 
 
 {{% /small %}}
 </div> 
 
-Du erfährst, wie Raumelemente, wie Einrichtung, Farben und Formen, auf Menschen wirken. Damit ist diese Ausbildung für alle Bereiche der psychosozialen Arbeit von Bedeutung, von der Aufstellungsarbeit über die Paarberatung bis hin zur Supervision. Denn eines steht fest: Von einer beruhigenden Raumgestaltung profitieren nicht nur Klient*innen, sondern letztlich auch du. 
+Du erfährst, wie **Raumelemente, wie Einrichtung, Farben und Formen**, auf Menschen **wirken**. Damit ist diese Ausbildung für alle Bereiche der psychosozialen **Arbeit von Bedeutung**, von der Aufstellungsarbeit über die Paarberatung bis hin zur Supervision. Denn eines steht fest: Von einer **beruhigenden Raumgestaltung** profitieren nicht nur Klient\*innen, sondern letztlich auch du. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**

@@ -7,7 +7,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Der menschliche Körper – verständlich erklärt
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Der menschliche Körper im Überblick.
 {{< slogan >}}
 
 {{< line icon="icon/psychosomatik.png" >}}

@@ -7,7 +7,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: FengShui im psychosozialem Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Mit Feng-Shui einen harmonischen Rahmen schaffen.
 {{< slogan >}}
 
 {{< line icon="icon/feng_shui.png" >}}
@@ -24,9 +24,9 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Ziel der Online-Fortbildungen ist Teilnehmer*innen das Konzept Feng-Shui näher zu bringen. Einerseits erhältst du Grundlagenwissen zur Lehre der Lebens- und Wohnraumgestaltung. Andererseits erarbeitest du, wie du deine eigenen Beratungssettings durch eine harmonische Umgebung verbessern können. 
+Ziel der Online-Fortbildungen ist Teilnehmer\*innen das **Konzept Feng-Shui** näher zu bringen. Einerseits erhältst du **Grundlagenwissen** zur Lehre der **Lebens- und Wohnraumgestaltung**. Andererseits erarbeitest du, wie du deine **eigenen Beratungssettings** durch eine harmonische Umgebung **verbessern können**. 
 
-Der Vorteil des Kurses ist, dass dieser zu 100% digital und ohne fest eingeplante Termine stattfindet. So kannst du Inhalte und Wissen ganz nach deinen Bedürfnissen, wann, wie und wo du möchtest erschließen. Klingt gut und interessant? Dann buche diesen Kurs.
+Der **Vorteil** des Kurses ist, dass dieser zu **100% digital** und ohne fest eingeplante Termine stattfindet. So kannst du Inhalte und Wissen ganz nach **deinen Bedürfnissen**, wann, wie und wo du möchtest erschließen. Klingt gut und interessant? Dann buche diesen Kurs.
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 

@@ -6,7 +6,7 @@ weight: 1
 
 # Onlineausbildung: FengShui im psychosozialem Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Mit Feng-Shui einen harmonischen Rahmen schaffen.
 {{< slogan >}}
 
 

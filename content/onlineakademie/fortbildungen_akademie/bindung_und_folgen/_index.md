@@ -36,16 +36,16 @@ rich_faq:
 
 {{% small %}}
 
-Als Mensch sind wir Teil zahlreicher sozialer Systeme. Wir haben Eltern und werden in eine Familie geboren. Wir gehen in den Kindergarten und später in die Schule. Wir bauen Freundschaften auf und verlieben uns möglicherweise. 
+Als Mensch sind wir **Teil zahlreicher sozialer Systeme**. Wir haben Eltern und werden in eine **Familie geboren**. Wir gehen in den Kindergarten und später in die Schule. Wir bauen Freundschaften auf und verlieben uns möglicherweise. 
 
-Dass wir Teil sozialer Beziehungen sind bedeutet automatisch auch, dass wir mit Bindung konfrontiert werden. Ob positiv oder negativ, ob bewusst oder unbewusst. Umso wichtiger, dass psychosoziale Berater*innen Bindung, Bindungsmechanismen und deren Folgen für Menschen verstehen.
+Dass wir **Teil sozialer Beziehungen** sind bedeutet automatisch auch, dass wir mit **Bindung konfrontiert** werden. Ob positiv oder negativ, ob bewusst oder unbewusst. Umso wichtiger, dass psychosoziale Berater\*innen **Bindung, Bindungsmechanismen** und deren **Folgen** für Menschen verstehen.
 
 Im Zentrum der Online-Fortbildung steht das Thema menschliche Bindung sowie deren Folgen für Erwachsene.
 
 {{% /small %}}
 </div> 
 
- Bei diesem Kurs bieten wir dir maximale Flexibilität und Individualität. Denn die Inhalte werden zu 100% digital über eine Lernplattform mit Videos, Unterlagen und Übungen erschlossen. Für persönliche Betreuung und Fragen stehen wir dir aber jederzeit gerne zur Verfügung. Wer den Kurs kauft, kann drei Jahre auf die Lernplattform zugreifen.
+Bei diesem Kurs bieten wir dir **maximale Flexibilität und Individualität**. Denn die Inhalte werden zu **100% digital** über eine Lernplattform mit Videos, **Unterlagen und Übungen** erschlossen. Für **persönliche Betreuung und Fragen** stehen wir dir aber jederzeit gerne zur Verfügung. Wer den Kurs kauft, kann drei Jahre auf die Lernplattform zugreifen.
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**

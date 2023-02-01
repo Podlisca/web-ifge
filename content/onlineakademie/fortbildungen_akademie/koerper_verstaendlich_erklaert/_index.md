@@ -19,7 +19,7 @@ rich_faq:
 
 # Onlineausbildung: Der menschliche Körper – verständlich erklärt
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Der menschliche Körper im Überblick.
 {{< slogan >}}
 
 
