@@ -45,53 +45,41 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-***
-###  Erfahre:
-* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
-* Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
-* Welche **positiven Einflüsse Tiere** auf den Menschen haben
-* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
+{{% floatbox %}}
+{{% float-images %}}
+{{< youtube YNRC_J33d3Q>}}
+{{< linebreak >}}
+{{< youtube wX25M4NU1XU>}}
+{{< linebreak >}}
+{{% /float-images %}}
 
-### DICH ERWARTET - Deine Vorteile auf einen Blick
+#### Erfahre:
+Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
 
-* **Deine Expertise auf dem nächsten Level**
-<br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
-* **Dein flexibler Ausbildungsweg**<br/>
+Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
+
+Welche **positiven Einflüsse Tiere** auf den Menschen haben
+
+Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
+
+#### Deine Expertise auf dem nächsten Level
+Du wirst dich **persönlich sowie fachlich** hervorragend entwickeln und deine **Expertise** auf ein **neues Level** bringen, sodass du noch effizienter auf deine Klient\*innen eingehen und sie nachhaltiger begleiten kannst.
+
+**Dein flexibler Ausbildungsweg**
 Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
-* **Deine beruflichen Möglichkeiten**<br/>
+
+</br>
+
+**Deine beruflichen Möglichkeiten**
 Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
-* **Tierische Stimmung**<br/>
-Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
 
-* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
+**Tierische Stimmung**
+Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient\*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
 
-{{< line icon="icon/tiere.png" >}}
-## Online Infovideo ansehen & sofort starten
-
-<div class="box video">
-{{% small %}}
-
-### Hier ein kleiner Einblick 
-{{< youtube Ff0OHNdKnHo>}}
-
-
-{{% /small %}}
-{{% small %}}
-
-### Ausführliches Infovideo 
-{{< youtube WonAhSP6B8c>}}
-
-{{% /small %}}
-{{% small %}}
-
-### [Sofort Starten - Kurs kaufen](/anmeldung)
-[![Bildbeschreibung](/img/kurs_kaufen_tiere1.jpg)](/anmeldung)
-
-{{% /small %}}
-
-</div> 
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
+{{< line icon="icon/tiere.png" >}}
 
 ## Tiere in der Beratung / im Coaching
 
@@ -110,8 +98,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 * Es ist eine zielgerichtete Intervention zur Verbesserung des allgemeinen Wohlergehens der Klient*innen. 
 * Es kann das Einbezogensein in die jeweiligen Lebenssituationen gefördert werden. Ein gutes Beispiel hierfür ist der Einsatz in Altersheimen.
 
-***
-
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
 {{% floatbox %}}
 
 # Hier ein kleiner Einblick in die Ausbildung:
