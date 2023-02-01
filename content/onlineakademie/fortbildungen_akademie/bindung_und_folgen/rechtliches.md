@@ -41,7 +41,7 @@ zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Bindung u
 
 Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
@@ -65,4 +65,4 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}

@@ -6,7 +6,7 @@ weight: 1
 
 # Onlineausbildung: Bindung und ihre Folgen für Erwachsene
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Soziale Bindung besser verstehen.
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -37,7 +37,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
 
 ***
 
@@ -76,4 +76,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}

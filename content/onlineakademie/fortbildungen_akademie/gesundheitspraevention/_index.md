@@ -18,11 +18,12 @@ rich_faq:
 
 # Onlineausbildung: Gesundheit & Prävention
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Gesundheit & Prävention 
 {{< slogan >}}
 
-
 {{< line icon="icon/gesundheit.png" >}}
+
+## Vorausdenken & Vorausschauen: Gesundheit & Prävention.
 
 <div class="box video">
 {{% small %}}
@@ -33,22 +34,29 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-## Inhalt folgt 
+
+Das **österreichische Gesundheitssystem** ist **primär reaktiv**. Das bedeutet, dass sich die Mehrheit der Angebote auf die Behandlung physischer und psychischer **Krankheiten konzentriert**. 
+
+In der **psychosozialen Beratung** steht hingegen die Arbeit mit Menschen ohne Krankheitssymptomen im Vordergrund. Ziel ist vielmehr an Bedürfnissen, Konflikten und Sorgen zu arbeiten **bevor Krankheiten überhaupt auftreten**. Damit hat psychosoziale Arbeit einen wichtigen präventiven Charakter. 
+
+**Fokus dieser Ausbildung sind die Themen Gesundheit und Prävention.**
 
 
 
 {{% /small %}}
 </div> 
 
+Wann sprechen wir von **Gesundheit**, wann von **Krankheit**? Was bedeutet überhaupt **Prävention** und wie kann psychosoziale Beratung gesundheitlichen Problemen **vorbeugen**? 
 
+Diese und ähnliche **Fragen** stehen im Zentrum der **Fortbildung**,** die übrigens zu **100% online stattfindet**. So ermöglichen wir unseren Teilnehmer\*innen sich ganz nach **eigenen Bedürfnissen** und im **eigenen Tempo** weiterzubilden. Konkret wird der Kurs über eine Lernplattform durchgeführt. Hier findest du alle **notwendigen Lehrvideos und Lernmaterialen**. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
+Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ "Besonderheit Sexualberatung"](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
-
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
+Zahlungseingang)" >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}
 

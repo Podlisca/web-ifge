@@ -6,7 +6,7 @@ weight: 1
 
 # Onlineausbildung: Familienaufstellung - SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt:  
+## Schwerpunkt: Familienstrukturen verstehen. Persönlichkeitsentwicklung fördern.
 {{< slogan >}}
 
 

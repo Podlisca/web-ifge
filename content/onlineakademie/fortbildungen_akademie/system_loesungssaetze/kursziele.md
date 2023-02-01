@@ -7,7 +7,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Familienaufstellung - SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt:  
+## Schwerpunkt:  Familienstrukturen verstehen. Persönlichkeitsentwicklung fördern.
 {{< slogan >}}
 
 {{< line icon="icon/aufstellung.png" >}}

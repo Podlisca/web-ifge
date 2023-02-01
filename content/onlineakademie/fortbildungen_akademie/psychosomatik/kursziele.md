@@ -7,7 +7,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: DAS ZUSAMMENSPIEL VON KÖRPER, SEELE & GEIST BESSER VERSTEHEN.
 {{< slogan >}}
 
 {{< line icon="icon/psychosomatik.png" >}}

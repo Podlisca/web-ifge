@@ -7,7 +7,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}

@@ -18,12 +18,12 @@ rich_faq:
 
 # Onlineausbildung: FengShui im psychosozialem Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Mit Feng-Shui einen harmonischen Rahmen schaffen.
 {{< slogan >}}
 
-
-
 {{< line icon="icon/feng_shui.png" >}}
+
+## Weil Umfeld & Umgebung zählen: Feng-Shui für Beratung & Coaching.
 
 <div class="box video">
 {{% small %}}
@@ -34,21 +34,24 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-## Inhalt folgt 
 
+Studien belegen den Einfluss von Umfeld und Umgebung auf den Menschen. So beeinflussen etwa Geräusche, Gerüche oder die Raumgestaltung das Stresslevel, das Wohlbefinden oder die Zufriedenheit von Menschen. 
 
+Für Beratung und Coaching bedeutet das, dass auch Atmosphäre und Räumlichkeiten nicht außer Acht gelassen werden dürfen. Und genau hier kommt Feng-Shui ins Spiel, also die Lehre der harmonischen Lebens- und Wohnraumgestaltung.
+
+Diese Fortbildung der IFGE-Online-Akademie zeigt dir, wie du als Berater*in oder Coach ein Umfeld, das Entspannung und Wohlfühlen fördert, schaffen. 
 
 {{% /small %}}
 </div> 
 
-
+Du erfährst, wie Raumelemente, wie Einrichtung, Farben und Formen, auf Menschen wirken. Damit ist diese Ausbildung für alle Bereiche der psychosozialen Arbeit von Bedeutung, von der Aufstellungsarbeit über die Paarberatung bis hin zur Supervision. Denn eines steht fest: Von einer beruhigenden Raumgestaltung profitieren nicht nur Klient*innen, sondern letztlich auch du. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
+Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „FengShui im psychosozialem Setting“** selbstverständlich **abgezogen**.
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}

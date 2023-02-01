@@ -7,11 +7,11 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Dimensionen des Lebens begreifen. Soziale Dynamiken bewusstmachen.  
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
-
+## Kompetenz und Methoden rund um Aufstellungen erweitern.
 <div class="box video">
 {{% small %}}
 
@@ -21,8 +21,6 @@ og_image: "/img/tier_coaching_1.jpg"
 {{% /small %}}
 
 {{% small %}}
-
-## Kompetenz und Methoden rund um Aufstellungen erweitern.
 
 Teilnehmer\*innen dieser Weiterbildung erwartet ein abwechslungsreiches Programm. Die Inhalte werden in Form von Lernunterlagen, Onlinevideos und Übungen erarbeitet. Thematisch steht die Familienaufstellung nach der SGF-Methode® von Silvia Podlisca sowie deren Anwendung mittels System-Dimensionsbrett im Zentrum. 
 
@@ -34,7 +32,7 @@ So bietet der Kurs psychosozialen Berater\*innen die Möglichkeit Kompetenz und 
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 

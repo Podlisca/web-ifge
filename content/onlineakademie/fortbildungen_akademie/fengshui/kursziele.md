@@ -12,6 +12,8 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{< line icon="icon/feng_shui.png" >}}
 
+## Mit Feng-Shui einen harmonischen Rahmen schaffen.
+
 <div class="box video">
 {{% small %}}
 
@@ -22,13 +24,16 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Mehr informationen folgen. 
+Ziel der Online-Fortbildungen ist Teilnehmer*innen das Konzept Feng-Shui näher zu bringen. Einerseits erhältst du Grundlagenwissen zur Lehre der Lebens- und Wohnraumgestaltung. Andererseits erarbeitest du, wie du deine eigenen Beratungssettings durch eine harmonische Umgebung verbessern können. 
 
+Der Vorteil des Kurses ist, dass dieser zu 100% digital und ohne fest eingeplante Termine stattfindet. So kannst du Inhalte und Wissen ganz nach deinen Bedürfnissen, wann, wie und wo du möchtest erschließen. Klingt gut und interessant? Dann buche diesen Kurs.
+
+* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/feng_shui.png" >}}
 

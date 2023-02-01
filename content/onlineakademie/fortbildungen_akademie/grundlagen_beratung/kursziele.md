@@ -7,11 +7,11 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Grundlegendes in psychosozialer Beratung & Coaching.
 {{< slogan >}}
 
 {{< line icon="icon/beratung.png" >}}
-
+## Grundlegendes in psychosozialer Beratung & Coaching.
 <div class="box video">
 {{% small %}}
 
@@ -22,13 +22,16 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Mehr informationen folgen. 
+Im **Fokus** der Fortbildung stehen **Grundlagen und Grundsätze** von Beratung. Durch Lehrvideos, Lernunterlagen und praktische Übungen werden grundlegende Themen, wie **Methoden oder Kommunikation** in Beratung und Coaching erschlossen. 
 
+Damit richtet sich die **Online-Fortbildung** nicht nur an psychosoziale Berater\*innen, sondern an alle, die für und mit Menschen arbeiten. Im Anschluss an die Weiterbildung bist du in der Lage, **Menschen noch gezielter zu beraten, zu betreuen und zu begleiten**. 
+
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 

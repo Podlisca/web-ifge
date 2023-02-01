@@ -19,7 +19,8 @@ rich_faq:
 
 # Onlineausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Familienaufstellung: SGF-Methode® und System-Dimensionsbrett
+## Schwerpunkt: Dimensionen des Lebens begreifen. Soziale Dynamiken bewusstmachen.  
+
 {{< slogan >}}
 
 
@@ -50,9 +51,9 @@ Systemische Aufstellungen können entweder mit realen Menschen oder mit Figuren 
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ Besonderheit Sexualberatung](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
+Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ "Besonderheit Sexualberatung"](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
 
 
 

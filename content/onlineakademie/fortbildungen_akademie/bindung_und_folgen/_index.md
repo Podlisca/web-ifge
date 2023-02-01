@@ -18,11 +18,13 @@ rich_faq:
 
 # Onlineausbildung: Bindung und ihre Folgen für Erwachsene
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Soziale Bindung besser verstehen.
 {{< slogan >}}
 
 
 {{< line icon="icon/psychosomatik.png" >}}
+
+## Kein Leben ohne Bindung: Bindung & ihre Folgen für Erwachsene.
 
 <div class="box video">
 {{% small %}}
@@ -33,21 +35,24 @@ rich_faq:
 {{% /small %}}
 
 {{% small %}}
-## Inhalt folgt 
 
+Als Mensch sind wir Teil zahlreicher sozialer Systeme. Wir haben Eltern und werden in eine Familie geboren. Wir gehen in den Kindergarten und später in die Schule. Wir bauen Freundschaften auf und verlieben uns möglicherweise. 
 
+Dass wir Teil sozialer Beziehungen sind bedeutet automatisch auch, dass wir mit Bindung konfrontiert werden. Ob positiv oder negativ, ob bewusst oder unbewusst. Umso wichtiger, dass psychosoziale Berater*innen Bindung, Bindungsmechanismen und deren Folgen für Menschen verstehen.
+
+Im Zentrum der Online-Fortbildung steht das Thema menschliche Bindung sowie deren Folgen für Erwachsene.
 
 {{% /small %}}
 </div> 
 
-
+ Bei diesem Kurs bieten wir dir maximale Flexibilität und Individualität. Denn die Inhalte werden zu 100% digital über eine Lernplattform mit Videos, Unterlagen und Übungen erschlossen. Für persönliche Betreuung und Fragen stehen wir dir aber jederzeit gerne zur Verfügung. Wer den Kurs kauft, kann drei Jahre auf die Lernplattform zugreifen.
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
+Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ "Besonderheit Sexualberatung"](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 {{% floatbox %}}

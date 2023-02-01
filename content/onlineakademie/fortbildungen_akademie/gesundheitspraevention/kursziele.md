@@ -7,10 +7,11 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Gesundheit & Prävention
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Mehr Wissen zu Gesundheit & Prävention.
 {{< slogan >}}
 
 {{< line icon="icon/gesundheit.png" >}}
+# Mehr Wissen zu Gesundheit & Prävention.
 
 <div class="box video">
 {{% small %}}
@@ -22,14 +23,17 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Mehr informationen folgen. 
+Wer diese Online-Fortbildung besucht, erweitert und ergänzt Kompetenz und Wissen im Bereich menschlicher Gesundheit. Und das ist wichtig, denn am Ende geht es in allen psychosozialen Settings, ob Business-, Lebens-, Paar- oder Sexualberatung, um Menschen und ihr Wohlbefinden. 
 
+Ein Schwerpunkt der Weiterbildung ist das Themengebiet Prävention und damit die Frage, wie Gesundheit, Wohlbefinden und Zufriedenheit gefördert werden können, um Krankheit zu vermeiden. 
+
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
-
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
+Zahlungseingang)" >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 
 

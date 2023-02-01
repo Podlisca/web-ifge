@@ -18,7 +18,7 @@ rich_faq:
 
 # Onlineausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: DAS ZUSAMMENSPIEL VON KÖRPER, SEELE & GEIST BESSER VERSTEHEN.
 {{< slogan >}}
 
 

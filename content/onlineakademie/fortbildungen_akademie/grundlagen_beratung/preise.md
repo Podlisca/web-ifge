@@ -35,4 +35,4 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. (Start nach Zahlungseingang)" >}}

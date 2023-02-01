@@ -7,10 +7,12 @@ og_image: "/img/tier_coaching_1.jpg"
 
 # Onlineausbildung: Bindung und ihre Folgen für Erwachsene
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Schwerpunkt: Soziale Bindung besser verstehen.
 {{< slogan >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
+
+## Soziale Bindung besser verstehen.
 
 <div class="box video">
 {{% small %}}
@@ -22,13 +24,16 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Mehr informationen folgen. 
+In dieser Online-Ausbildung festigst und vertiefst du dein Wissen rund um menschliche Beziehungen und Bindung. Wir erarbeiten, was Bindung ist und welche positiven und negativen Folgen Bindung mit sich bringen kann. 
 
+Der Schwerpunkt liegt dabei auf erwachsenen Menschen. Durch dieses Verständnis kannst du Klient*innen besser verstehen und gezielter begleiten. Impulse und Interventionen, etwa in der Aufstellungsarbeit, können noch lösungsorientierter gesetzt werden. 
+
+* **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. (Start nach Zahlungseingang)" >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 
