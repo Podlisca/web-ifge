@@ -19,13 +19,13 @@ rich_faq:
 
 # Onlineausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: 
+## Familienaufstellung: SGF-Methode® und System-Dimensionsbrett
 {{< slogan >}}
 
 
 {{< line icon="icon/beratung.png" >}}
 
-## Seite im Aufbau
+## Dimensionen des Lebens begreifen. Soziale Dynamiken bewusstmachen.  
 
 <div class="box video">
 {{% small %}}
@@ -37,16 +37,20 @@ rich_faq:
 
 {{% small %}}
 
+Burnout, Lebenskrise, Sucht oder Trauer. Ängste, Familienkonflikte, Sexualität oder Traumata. 
 
+Aufstellungen bewähren sich bei vielen psychosozialen Themen, da sie Rollen, Barrieren und Dynamiken aufzeigen und bewusstmachen. Eine Herausforderung in der Aufstellungspraxis ist die Komplexität sozialer Prozesse, die sich aus dem Zusammenleben unterschiedlicher Menschen und Generationen sowie ihrer Bedürfnisse und Werte ergibt. Umso wichtiger, dass Aufstellungen unterschiedliche Dimensionen des Lebens sowie eine individuelle und kollektive Wahrnehmungsebene berücksichtigen. 
+Und genau das ermöglicht die SGF-Methode® nach Silvia Podlisca.
 
-**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
 
+Systemische Aufstellungen können entweder mit realen Menschen oder mit Figuren auf einem Aufstellungsbrett durchgeführt werden. Zweiteres steht im Zentrum dieser IFGE-Online-Weiterbildung. Konkret geht es um die Anwendung der SGF-Methode® mittels System-Dimensionsbrett. Durch die Mehrdimensionalität werden unterschiedliche Perspektiven, Standpunkte und Zeitebenen in die Aufstellung integriert, weshalb Wechselwirkungen und Zusammenhänge besser aufgedeckt werden können. Das Upgrade bietet dir maximale Flexibilität und Individualität, da der Kurs zu 100% digital und ohne fixe Gruppentermine stattfindet. Du hast ganze drei Jahre Vollzugriff auf die Lehrvideos sowie Lernmaterialen und kannst dich daher ganz nach deinen Bedürfnissen weiterbilden.
 
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-
+Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ Besonderheit Sexualberatung](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
 
