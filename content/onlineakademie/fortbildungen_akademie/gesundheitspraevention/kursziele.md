@@ -23,9 +23,9 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Wer diese Online-Fortbildung besucht, erweitert und ergänzt Kompetenz und Wissen im Bereich menschlicher Gesundheit. Und das ist wichtig, denn am Ende geht es in allen psychosozialen Settings, ob Business-, Lebens-, Paar- oder Sexualberatung, um Menschen und ihr Wohlbefinden. 
+Wer diese Online-Fortbildung besucht, **erweitert und ergänzt Kompetenz** und Wissen im Bereich **menschlicher Gesundheit**. Und das ist wichtig, denn am Ende geht es in allen **psychosozialen Settings**, ob Business-, Lebens-, Paar- oder Sexualberatung, um Menschen und ihr Wohlbefinden. 
 
-Ein Schwerpunkt der Weiterbildung ist das Themengebiet Prävention und damit die Frage, wie Gesundheit, Wohlbefinden und Zufriedenheit gefördert werden können, um Krankheit zu vermeiden. 
+Ein Schwerpunkt der Weiterbildung ist das **Themengebiet Prävention** und damit die Frage, **wie Gesundheit, Wohlbefinden und Zufriedenheit gefördert** werden können, um Krankheit zu vermeiden. 
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
