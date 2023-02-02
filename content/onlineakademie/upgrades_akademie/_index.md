@@ -21,7 +21,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube d3lgsax0poI>}}
 
 
 {{% /small %}}
