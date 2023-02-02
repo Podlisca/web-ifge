@@ -36,12 +36,24 @@ rich_faq:
 
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
-***
+<div class="box video">
+{{% small %}}
+
+{{< youtube qpCG3-DFpLc>}}
+
+
+{{% /small %}}
+
+{{% small %}}
+
 ###  Erfahre:
 * Welche **großen Vorteile** die Arbeit mit Klangschalen anderen Methoden gegenüber hat
 * Wie Sie **prophylaktisch mit deinen Klient*innen** an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
 * Welche **positiven Einflüsse Klangschalen** auf den Menschen haben
 * Wie sich die **Ausbildung zum/zur Klangschalen Practitioner** gestaltet und welche Möglichkeiten diese bietet 
+
+{{% /small %}}
+</div> 
 
 ### DICH ERWARTET - Deine Vorteile auf einen Blick
 
@@ -55,33 +67,9 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 
 * **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
 
-{{< line icon="icon/klangschale.png">}}
-## Online Infovideo ansehen & sofort starten
-
-<div class="box video">
-{{% small %}}
-
-### Hier ein kleiner Einblick 
-{{< youtube glB9R-VuEqc>}}
-
-{{% /small %}}
-{{% small %}}
-
-### Ausführliches Infovideo 
-{{< youtube rZ8Z4oI0i6o>}}
-
-{{% /small %}}
-{{% small %}}
-
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-[![Bildbeschreibung](/img/kurs_kaufen_ks.png)](https://www.ifge.at/anmeldung.php)
-
-{{% /small %}}
-
-</div> 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
-{{< line icon="noun_Information_478770-2.png" >}}
+
 
 ### Was bewirken die Schwingungen der Klangschale? 
 
@@ -91,8 +79,8 @@ Nutze die Ausbildung, um eine einzigartige Methode kennenzulernen, mit der du na
 Du lernst Gefühl, Verstand und Intuition auf eine neue Art und Weise miteinander zu verbinden. Du kannst Schmerzen und psychosomatische Beschwerden auf einer tieferen Ebene behandeln.
 * **Mehrwert für deine Klient*innen**<br/>
 Nutze die einzigartige Methode, um neue Tools zu erlernen, mit denen du effektiver und ganzheitlicher auf die Probleme deiner Klient*innen eingehen kannst. Du wirst deine Arbeit auf ein neues Level heben und einen größeren Impact schaffen.
-{{< line icon="icon/klangschale.png">}}
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
 
 ## Entspannung & Weiterentwicklung
 
@@ -105,8 +93,6 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 {{% floatbox %}}
 
-
-s
 ***
 # Hier ein kleiner Einblick in die Ausbildung:
 #### In Summe umfasst die Ausbildung über 130 Lehrvideos
