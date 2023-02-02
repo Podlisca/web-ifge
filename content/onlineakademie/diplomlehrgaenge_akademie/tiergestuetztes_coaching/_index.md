@@ -49,7 +49,7 @@ rich_faq:
 {{% float-images %}}
 {{< youtube YNRC_J33d3Q>}}
 {{< linebreak >}}
-{{< youtube wX25M4NU1XU>}}
+{{< youtube 5zAwhMLKe5c>}}
 {{< linebreak >}}
 {{% /float-images %}}
 
