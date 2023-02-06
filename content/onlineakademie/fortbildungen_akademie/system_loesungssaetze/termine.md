@@ -33,7 +33,7 @@ weight: 3
 {{% /small %}}
 
 {{% small %}}
-## Du kannst ab 15. Februar 2023 starten
+## Du kannst ab 15. März 2023 starten
 ### danach ist ein Einstieg jederzeit möglich
 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
