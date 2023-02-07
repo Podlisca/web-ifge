@@ -38,8 +38,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**01.02.2023** 09:00 - 15:00 Uhr</br>
-**03.02.2023** 14:00 - 20:00 Uhr</br>
 **04.03.2023** 10:00 - 16:00 Uhr</br>
 **15.03.2023** 09:30 - 13:30 Uhr</br>
 **14.04.2023** 14:00 - 20:00 Uhr</br>
@@ -123,9 +121,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{% small  %}}
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-**12.06.2022** 10:00 - 16:00 Uhr</br>
-
 
 
 **16.04.2023**  10:00 - 16:00 Uhr</br>
