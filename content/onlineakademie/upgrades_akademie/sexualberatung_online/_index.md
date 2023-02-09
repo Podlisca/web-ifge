@@ -8,7 +8,7 @@ draft: false
 weight: 4
 description: "Ihr Upgrade in der Sexualberatung im 100% Online-Format"
 og_title: "Ihr Upgrade in der Sexualberatung im 100% Online-Format"
-og_image: "/img/bv_wirkung.jpg"
+og_image: "/img/intro_sex.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Wo lerne ich Vertiefendes Wissen in der Sexualberatung?"
@@ -29,7 +29,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube Ha_EK-nIHT8>}}
 
 
 {{% /small %}}

@@ -23,8 +23,6 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
-* **Einführungspreis: bei Vorbestellung bis 31.01.2023: {{< red >}}€ 1.250,-{{< /red >}}** <br/>
-Zahlung nach Anmeldung. <br/>
 
 * **Ausbildungskosten:€ 1.490,-** <br/>
 Zahlung nach Anmeldung. <br/>

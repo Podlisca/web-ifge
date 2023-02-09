@@ -66,7 +66,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 * 100%-Online-Weiterbildungen
 * Individuelles und flexibles Kursformat
 * 3 Jahre Zugriff auf mehr als 100 Lehrvideos
-* Mordernste digitale und technische Methoden
+* modernste digitale und technische Methoden
 * Fortbildung ganz nach eigenen Bedürfnissen
 * Persönliche Beratung
 * Eröffnung neuer beruflicher Perspektiven 

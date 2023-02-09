@@ -60,7 +60,7 @@ Sie möchten von Vortragenden begleitet werden und in der Gruppe lernen? Wünsch
 
 * Weiterbildung im Gruppensetting im digitalen Raum
 * Mehr Flexibilität und Individualität 
-* Mordernste digitale und technische Methoden
+* modernste digitale und technische Methoden
 * Persönliche Beratung
 * Eröffnung neuer beruflicher Perspektiven 
 

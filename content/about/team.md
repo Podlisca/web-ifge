@@ -53,12 +53,17 @@ Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchst
 
 
 #### Maureen Brunner
-{{% box %}}
-{{% small  %}}
-{{< image src="/img/maureen.jpg"title="Maureen betreut das Büro und steht für alle Fragen rund um die diverse Ausbildung für Sie zur Verfügung.">}}
-{{% /small  %}}
+
+
+<div class="box video">
 {{% small %}}
 
+{{< youtube 46jMojsNVs4>}}
+
+
+{{% /small %}}
+
+{{% small %}}
 * Assistentin der Geschäftsleitung
 * Back-Office-Managerin
 * Verantwortliche für alle Praktika im Zuge der Ausbildung zur Dipl. Lebensberatung - psychosoziale Beratung
@@ -66,6 +71,17 @@ Wir befinden uns selbst laufend auf Fort- und Weiterbildung um Ihnen den höchst
 Am IFGE in Wien, Burgenland und Sankt Poelten bilde ich mich nicht nur aus und weiter, ich erledige auch alle anfallenden Arbeiten mit Herz und bin eine kompetente und einfühlsame Ansprechpartnerin für das Team und die Kursteilnehmer*innen.
 
 Mit meinem Organisationstalent übernehme ich alle anstehenden Aufgaben stets freundlich, wertschätzend und vielseitig.
+
+{{% /small %}}
+</div> 
+
+{{% box %}}
+{{% small  %}}
+
+{{% /small  %}}
+{{% small %}}
+
+
 {{% /small %}}
 {{% /box %}}
 
