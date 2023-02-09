@@ -11,6 +11,8 @@ og_title: "Online-Ausbildung: Klangschalen-Practitioner"
 og_image: "/img/ks_practitioner.jpg"
 aliases: 
     - "/online-ausbildungsangebote/klangschalen_practitioner/"
+    - "/onlineakademie/klangschalen_practitioner"
+    - "/ausbildungsangebote/klangschalenmassage/"
 rich_kurs: false
 rich_faq:
     -   frage: "Für wen ist die Ausbildung zur Klangschalenmassage interesannt?"

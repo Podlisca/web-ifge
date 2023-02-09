@@ -10,7 +10,8 @@ og_title: "Ausbildung: Tiergestützte psychosoziale Beratung"
 og_image: "/img/bv_wirkung.jpg"
 draft: false
 aliases: 
-    - "/ausbildungsangebote/tiergestützte-psychologische-beratung/"
+    - "/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/"
+    - "/onlineakademie/tiergestuetztes_coaching/"
     - "/upgrades/tiergestuetzte_psychologische_beratung/"
 rich_kurs: true
 rich_faq:
