@@ -22,43 +22,18 @@ weight: 3
 
 
 {{< line icon="icon/klangschale.png">}}
-## Online Infovideo ansehen & sofort starten
+## Du kannst sofort starten
+
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
+
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **los starten**. Gerne kannst Du dich auch zur **Infoveranstaltung** anmelden oder mich telefonisch unter +43 676 610 89 36 kontaktieren.
 
 <div class="box video">
 {{% small %}}
 
-### Hier ein kleiner Einblick 
-{{< youtube glB9R-VuEqc>}}
+#### Kursaufbau
 
-{{% /small %}}
-{{% small %}}
-
-### Ausführliches Infovideo 
-{{< youtube rZ8Z4oI0i6o>}}
-
-{{% /small %}}
-{{% small %}}
-
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< youtube UyylWt2Vyd4>}}
-
-{{% /small %}}
-
-</div> 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
-## ONLINE: LIVE - INFOSVERANSTALTUNGEN
-
-{{< booking produkte="Infoveranstaltung Klangschalen Practitioner Online" success="https://www.klangschalen-practitioner.ifge.at/danke/" >}}
-
-***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-
-#### Nächster Ausbildungsbeginn Online
-
-{{< youtube rZ8Z4oI0i6o>}}<br/>
+{{< youtube qpCG3-DFpLc>}}<br/>
 
 
 {{%/small  %}}
@@ -85,8 +60,15 @@ Online von 18:30 Uhr - 20:00 Uhr
 {{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Klangschale in Pinkafeld" >}}
 
 
-{{% /small  %}}
+{{% /small %}}
 
-{{% /box %}}
+</div> 
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+## ONLINE: LIVE - INFOSVERANSTALTUNGEN
+
+{{< booking produkte="Infoveranstaltung Klangschalen Practitioner Online" success="https://www.klangschalen-practitioner.ifge.at/danke/" >}}
+
+
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}

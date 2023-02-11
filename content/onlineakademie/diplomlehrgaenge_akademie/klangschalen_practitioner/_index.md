@@ -75,7 +75,7 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 
 ### Was bewirken die Schwingungen der Klangschale? 
 
-* **Veränderungen auf Zellebene (Epigenetik)**<br/>
+* **Veränderungen auf Zellebene (Epigenetik)** <br/>
 Nutze die Ausbildung, um eine einzigartige Methode kennenzulernen, mit der du nachhaltige Veränderungen auf Zellebene erzeugen kannst. So lösen sich verankerte Glaubenssätze und neue können implementiert werden.
 * **Tiefgehende Befreiung von Schmerzen**<br/>
 Du lernst Gefühl, Verstand und Intuition auf eine neue Art und Weise miteinander zu verbinden. Du kannst Schmerzen und psychosomatische Beschwerden auf einer tieferen Ebene behandeln.
