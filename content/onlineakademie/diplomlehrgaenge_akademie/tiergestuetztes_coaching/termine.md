@@ -58,45 +58,10 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 {{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
 
-***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Kursaufbau
-{{< youtube 5zAwhMLKe5c>}}
-{{%/small  %}}
-
-{{% small  %}}
-
-#### Interaktive Lehrveranstaltungen
-
-**ca. alle 14 Tage** <br/> 
-Termine werden bei Anmeldung bekannt gegeben
-
-Online von 18:30 Uhr - 20:00 Uhr
-
-<br/> 
-
-
-{{% /small  %}}
-
-
-{{% small  %}}
-#### Intensivtraining in Pinkafeld
-
-* **Start:** 24.07. - 28.07.2023
-<br/>Mo. - Do. 09:00 bis 18:00 Uhr
-<br/>Fr. 09:00 bis 14:00 Uhr
-<br/>
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Tiere in Pinkafeld" >}}
 
 
 
 
-{{% /small  %}}
-
-{{% /box %}}
 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
