@@ -22,34 +22,28 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Du kannst sofort starten
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
-
-Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **los starten**. Gerne kannst Du dich auch zur **Infoveranstaltung** anmelden oder mich telefonisch unter +43 676 610 89 36 kontaktieren.
 
 <div class="box video">
 {{% small %}}
 
-### Die Onlineakkademie
-{{< youtube d3lgsax0poI>}}
+{{< youtube qpCG3-DFpLc>}}
+
 
 {{% /small %}}
+
 {{% small %}}
 
-### Kursinhalt
-{{< youtube YNRC_J33d3Q>}}
+###  Erfahre:
+* Welche **großen Vorteile** die Arbeit mit Klangschalen anderen Methoden gegenüber hat
+* Wie Sie **prophylaktisch mit deinen Klient*innen** an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
+* Welche **positiven Einflüsse Klangschalen** auf den Menschen haben
+* Wie sich die **Ausbildung zum/zur Klangschalen Practitioner** gestaltet und welche Möglichkeiten diese bietet 
 
 {{% /small %}}
-{{% small %}}
-
-### Kursaufbau
-{{< youtube 5zAwhMLKe5c>}}
-
-
-{{% /small %}}
-
 </div> 
+
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}<br/>
 
 ## ONLIne: Live - Infosveranstaltungen
@@ -58,45 +52,6 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 {{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
 
-***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Kursaufbau
-{{< youtube 5zAwhMLKe5c>}}
-{{%/small  %}}
-
-{{% small  %}}
-
-#### Interaktive Lehrveranstaltungen
-
-**ca. alle 14 Tage** <br/> 
-Termine werden bei Anmeldung bekannt gegeben
-
-Online von 18:30 Uhr - 20:00 Uhr
-
-<br/> 
-
-
-{{% /small  %}}
-
-
-{{% small  %}}
-#### Intensivtraining in Pinkafeld
-
-* **Start:** 24.07. - 28.07.2023
-<br/>Mo. - Do. 09:00 bis 18:00 Uhr
-<br/>Fr. 09:00 bis 14:00 Uhr
-<br/>
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Tiere in Pinkafeld" >}}
-
-
-
-
-{{% /small  %}}
-
-{{% /box %}}
 
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
