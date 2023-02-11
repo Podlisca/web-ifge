@@ -22,26 +22,29 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Online Infovideo ansehen & sofort starten
+## Du kannst sofort starten
+
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
+
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **los starten**. Gerne kannst Du dich auch zur **Infoveranstaltung** anmelden oder mich telefonisch unter +43 676 610 89 36 kontaktieren.
 
 <div class="box video">
 {{% small %}}
 
-### Hier ein kleiner Einblick 
-{{< youtube Ff0OHNdKnHo>}}
-
-
-{{% /small %}}
-{{% small %}}
-
-### Ausführliches Infovideo 
-{{< youtube WonAhSP6B8c>}}
+### Die Onlineakkademie
+{{< youtube d3lgsax0poI>}}
 
 {{% /small %}}
 {{% small %}}
 
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< image src="/img/kurs_kaufen_tiere1.jpg" >}}
+### Kursinhalt
+{{< youtube YNRC_J33d3Q>}}
+
+{{% /small %}}
+{{% small %}}
+
+### Kursaufbau
+{{< youtube 5zAwhMLKe5c>}}
 
 
 {{% /small %}}
@@ -59,8 +62,8 @@ weight: 3
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Infovideo ansehen & los geht´s
-{{< youtube WonAhSP6B8c>}}
+#### Kursaufbau
+{{< youtube 5zAwhMLKe5c>}}
 {{%/small  %}}
 
 {{% small  %}}
