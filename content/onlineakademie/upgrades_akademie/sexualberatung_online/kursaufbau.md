@@ -54,7 +54,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Der Ablauf & deine Lerngruppe
 * Besonderheit Sexualberatung
 * Themen in der Sexualberatung
-* Erste Übungen zur Selbstreflexion-Intimität & Nähe
+* Übungen zur Selbstreflexion-Intimität & Nähe
 * Unterschied: psychosoziale Beratung/Paarberatung/Sexual-Paarberatung Teil 1
 * Unterschied: psychosoziale Beratung/Paarberatung/Sexual-Paarberatung Teil 2
 * Praktische Übung: Der/die Klient*in führt
