@@ -51,25 +51,33 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Willkommen
 #### Kursmaterial für drei Tage
 * Das Team stellt sich vor
+* Der Ablauf & deine Lerngruppe
 * Besonderheit Sexualberatung
-* Grundlagen für ein befriedigendes Sexualleben
-* Erste Gedanken zur Haltung des Beraters / der Beraterin in der Sexualberatung
 * Themen in der Sexualberatung
-* Erste Übungen zur Selbstreflexion* Übung: Der/die  Klient\*in führt
+* Erste Übungen zur Selbstreflexion-Intimität & Nähe
+* Unterschied: psychosoziale Beratung/Paarberatung/Sexual-Paarberatung Teil 1
+* Unterschied: psychosoziale Beratung/Paarberatung/Sexual-Paarberatung Teil 2
+* Praktische Übung: Der/die Klient*in führt
+* Praktische Übung: Der/die Klient*in führt-die Auflösung
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
 {{% small  %}}
 #### Kick-off 
 #### Kursmaterial für eine Woche
+* Haltung des Beraters/der Beraterin in der Sexualberatung Teil 1
+* Haltung des Beraters/der Beraterin in der Sexualberatung Vertiefung
 * Sprache in der Sexualberatung
 * PLISSIT - Beratermodell in Sexualberatung
-* Haltung des Beraters / der Bearterin in der Sexualberatung
-* Umgang mit Stille in der Beratung
-* Weitere Übungen zur Selbstreflexion* Übung: Der/die  Klient\*in führt
 * Wichtige Begriffe in der Sexualberatung
-* 2 Klientengespäche 
-* Bonusmaterial aus anderen Onlineausbildungen 
+* Grundlagen für ein befriedigendes Sexualleben
+* Reflexionsübung: Umgang mit Haltung und Absicht in der Beratung
+* Bonusmaterial: Tiefenpsychologische Ansätze
+* Bonusmaterial: Auftragsklärung in der Gesprächsführung
+* Bonusmaterial: Beratungsverlauf - Bella & Plissit Prinzip
+* Achtsame Kommunikation: Tool Schachbrett
+* Klientengespräch: ausbleibender Orgasmus (Tool: Sexuallandkarte)
+* Klientengespräch: ausbleibender Orgasmus (Tool: Glaubenssätze/Feuerschale)
 
 {{% /small  %}}
 {{% small  %}}
@@ -81,8 +89,13 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
 * Sexuelle Phantasien, Wünsche und Bedürfnisse
-* 2 Klientengespäche 
-* Bonusmaterial aus anderen Onlineausbildungen 
+* Bonusmaterial: Methoden der wertschätzenden Kommunikation
+* Bonusmaterial: Die acht Resilienzfaktoren
+* Bonusmaterial: Interventionsmöglichkeiten
+* Beratungsgespräch 
+* Beratungsgespräch Lustverlust
+* Tool: Gemeinsamkeit & Nähe
+* Tool: Lust & Lustverlust
 
 
 {{% /small%}}
@@ -99,7 +112,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
 * Fetische, Paraphilien, Sexualstörungen 
 * Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
-* 2 Klientengespäche 
+* Grenzen der Sexualberatung
+* Klientengespräch - BDSM ausprobieren
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
@@ -111,11 +125,16 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Grundlagen der Paarberatung
 * Auftragsklärung
 * Unterschiede Paarberatung/Sexualberatung
-* Phantasien, Wünsche, Bedürfnisse
+* Unterschiede Phantasien, Wünsche, Bedürfnisse in der Paarberatung
 * Machtspiele in Beziehungen
-* Sexuelle Gesundheit in einer Beziehung
-* 2 Klientengespäche 
-* Bonusmaterial aus anderen Onlineausbildungen 
+* Der menschliche Körper - Sexualkrankheiten Teil 1
+* Der menschliche Körper - Sexualkrankheiten Teil 2
+* Der menschliche Körper - Sexualkrankheiten Teil 3
+* Der menschliche Körper - Verhütung
+* Der menschliche Körper - Schwangerschaft und Geburt
+* Bonusmaterial aus anderen Onlineausbildungen
+* Paarberatung: Tool: über Sex sprechen
+* Paarberatung: nicht jeder Auftrag eignet sich für die Paar-Sexualberatung 
 
 
 
@@ -131,7 +150,10 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Sexuelle Gewalt: Opfer und Täterarbeit
 * Sexualität und Alter
 * Sexualität und Behinderung
-* 2 Klientengespäche 
+* Klientengespräch: Opferbewältigung
+* Klientengespräch: Täter Präventionsarbeit
+* Klientengespräch: Sexualität und Behinderung
+* Klientengespräch: Sexualität und Alter
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
