@@ -37,8 +37,9 @@ weight: 3
 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
-Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **15. Februar 2023**  los starten. 
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du los starten. 
 
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
