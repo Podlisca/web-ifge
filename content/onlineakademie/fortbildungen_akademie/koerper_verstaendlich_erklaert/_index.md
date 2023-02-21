@@ -30,7 +30,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube vMsAbkVYY8I}}
+{{< youtube vMsAbkVYY8I>}}
 
 Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) - 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
