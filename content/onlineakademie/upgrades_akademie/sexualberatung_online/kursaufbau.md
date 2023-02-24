@@ -106,22 +106,6 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* Abweichende Neigungen und Paraphilien
-* BDSM Basis 
-* Neosexualität
-* Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
-* Fetische, Paraphilien, Sexualstörungen 
-* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
-* Grenzen der Sexualberatung
-* Klientengespräch - BDSM ausprobieren
-* Bonusmaterial aus anderen Onlineausbildungen 
-
-{{% /small  %}}
-
-{{% small  %}}
-####  Turnus 3
-#### Kursmaterial für drei Wochen
-
 * Grundlagen der Paarberatung
 * Auftragsklärung
 * Unterschiede Paarberatung/Sexualberatung
@@ -136,6 +120,22 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Paarberatung: Tool: über Sex sprechen
 * Paarberatung: nicht jeder Auftrag eignet sich für die Paar-Sexualberatung 
 
+
+{{% /small  %}}
+
+{{% small  %}}
+####  Turnus 3
+#### Kursmaterial für drei Wochen
+
+* Abweichende Neigungen und Paraphilien
+* BDSM Basis 
+* Neosexualität
+* Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
+* Fetische, Paraphilien, Sexualstörungen 
+* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
+* Grenzen der Sexualberatung
+* Klientengespräch - BDSM ausprobieren
+* Bonusmaterial aus anderen Onlineausbildungen 
 
 
 {{% /small  %}}
