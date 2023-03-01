@@ -48,7 +48,7 @@ In der **psychosozialen Beratung** steht hingegen die Arbeit mit Menschen ohne K
 
 Wann sprechen wir von **Gesundheit**, wann von **Krankheit**? Was bedeutet überhaupt **Prävention** und wie kann psychosoziale Beratung gesundheitlichen Problemen **vorbeugen**? 
 
-Diese und ähnliche **Fragen** stehen im Zentrum der **Fortbildung**,** die übrigens zu **100% online stattfindet**. So ermöglichen wir unseren Teilnehmer\*innen sich ganz nach **eigenen Bedürfnissen** und im **eigenen Tempo** weiterzubilden. Konkret wird der Kurs über eine Lernplattform durchgeführt. Hier findest du alle **notwendigen Lehrvideos und Lernmaterialen**. 
+Diese und ähnliche **Fragen** stehen im Zentrum der **Fortbildung**, die übrigens zu **100% online stattfindet**. So ermöglichen wir unseren Teilnehmer\*innen sich ganz nach **eigenen Bedürfnissen** und im **eigenen Tempo** weiterzubilden. Konkret wird der Kurs über eine Lernplattform durchgeführt. Hier findest du alle **notwendigen Lehrvideos und Lernmaterialen**. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
