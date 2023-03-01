@@ -27,6 +27,7 @@ weight: 2
 * **Märzaktion -50%** <br/>
 Jetzt nur **€ 1.490,-** statt € 2.980,- <br/>
 Zahlung nach Anmeldung. **Aktionscode_Märzaktion_2023**<br/>
+Aktion gültig bis 31.03.2023
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
