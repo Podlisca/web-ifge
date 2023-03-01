@@ -13,7 +13,8 @@ rich_kurs: true
 rich_faq:
     -   frage: "Wo lerne ich Grundlagen der Systemik?"
         antwort: "In der Online-Ausbildung Systemische Grundlagen Grundlagen & SGF Methode®."
-
+aliases: 
+    - "/online-ausbildungsangebote/klangschalen_practitioner/"
 
 ---
 
