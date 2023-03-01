@@ -66,7 +66,6 @@ weight: 1
 
 
 {{% /small  %}}
-
 {{% small  %}}
 #### Turnus 1
 #### Kursmaterial für drei Wochen
