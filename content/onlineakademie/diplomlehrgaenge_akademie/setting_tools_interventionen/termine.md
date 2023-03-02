@@ -12,6 +12,31 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube 17RcDuirOWs>}}
+
+
+{{% /small %}}
+
+{{% small %}}
+## Starte jetzt!
+
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
+
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du los starten. 
+
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
+
+{{% /small %}}
+</div> 
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
+
+***
+
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
@@ -22,33 +47,6 @@ weight: 3
 
 
 {{< line icon="icon/familienaufstellung.png">}}
-## Video ansehen & sofort starten
-
-<div class="box video">
-{{% small %}}
-
-### Übung - Thema: Coachingvereinbarung, Nähe & Distanz
-{{< youtube b8tlo6e4M5M>}}
-
-{{% /small %}}
-{{% small %}}
-
-### Das professionelle Setting bei der Klangschalenmassage
-{{< youtube sPhLf8V--eQ>}}
-
-{{% /small %}}
-{{% small %}}
-
-### Klientengespräch: Trennung verarbeiten (inneres Bild)
-{{< youtube 1i4cXuwfH4w>}}
-
-{{% /small %}}
-
-</div> 
-
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
-
 
 
 
