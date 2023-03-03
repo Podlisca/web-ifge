@@ -138,7 +138,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Fetische, Paraphilien, Sexualstörungen 
 * Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
 * Grenzen der Sexualberatung
-* Klientengespräch - BDSM ausprobieren
+* Klientengespräch - BDSM - Partner überzeugt nicht als Dom
+* Klientengespräch Mann der Klientin will zu einer Domina (Ethikvertrag)
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 
@@ -158,6 +159,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Klientengespräch: Täter Präventionsarbeit
 * Klientengespräch: Sexualität und Behinderung
 * Klientengespräch: Sexualität und Alter
+* Klientengespräch: Frau hat heimlich Sexvideos gemacht und droht 
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
