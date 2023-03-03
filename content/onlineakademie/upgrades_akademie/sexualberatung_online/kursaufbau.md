@@ -92,8 +92,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Bonusmaterial: Methoden der wertschätzenden Kommunikation
 * Bonusmaterial: Die acht Resilienzfaktoren
 * Bonusmaterial: Interventionsmöglichkeiten
-* Beratungsgespräch 
-* Beratungsgespräch Lustverlust
+* Beratungsgespräch mit Silvia: arabische Frau / lesbische Vorlieben
+* Beratungsgespräch mit Antje: Lustverlust
 * Tool: Gemeinsamkeit & Nähe
 * Tool: Lust & Lustverlust
 
@@ -107,18 +107,22 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Kursmaterial für drei Wochen
 
 * Grundlagen der Paarberatung
-* Auftragsklärung
-* Unterschiede Paarberatung/Sexualberatung
-* Unterschiede Phantasien, Wünsche, Bedürfnisse in der Paarberatung
-* Machtspiele in Beziehungen
+* Auftragsklärung & Triangulation
+* Clement - klassische Paardynamik & Macht in der Beziehung
+* Differenzierungsmodell nach David Schnarch
+* Ideale sexuelle Profil & gemeinsames sexuelles Profil
+* Umgang mit Untreue
+* Wenn aus Paaren Eltern werden
+* Zweite Liebe
 * Der menschliche Körper - Sexualkrankheiten Teil 1
 * Der menschliche Körper - Sexualkrankheiten Teil 2
 * Der menschliche Körper - Sexualkrankheiten Teil 3
 * Der menschliche Körper - Verhütung
 * Der menschliche Körper - Schwangerschaft und Geburt
 * Bonusmaterial aus anderen Onlineausbildungen
-* Paarberatung: Tool: über Sex sprechen
-* Paarberatung: nicht jeder Auftrag eignet sich für die Paar-Sexualberatung 
+* Paarberatung mit Silvia - Tool: über Sex sprechen (Bildsprache) 
+* Paarberatung mit Antje - nicht jeder Auftrag eignet sich für die Paar-Sexualberatung
+* Einzelberatung mit Silvia: Lustverlust nach der Geburt
 
 
 {{% /small  %}}
