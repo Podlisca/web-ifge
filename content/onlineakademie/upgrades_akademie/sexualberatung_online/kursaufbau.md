@@ -135,6 +135,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Bonusmaterial aus anderen Onlineausbildungen
 * Paarberatung: Tool: über Sex sprechen
 * Paarberatung: nicht jeder Auftrag eignet sich für die Paar-Sexualberatung 
+* Klientengespräch: Klientengespräch mit Silvia: BDSM - Partner überzeugt nicht als Dom
+* Klientengespräch: Mann der Klientin will zu einer Domina (Ethikvertrag)
 
 
 
@@ -154,6 +156,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Klientengespräch: Täter Präventionsarbeit
 * Klientengespräch: Sexualität und Behinderung
 * Klientengespräch: Sexualität und Alter
+* Klientengespräch: Frau hat heimlich Sexvideos gemacht und droht 
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
