@@ -26,7 +26,7 @@ weight: 3
 {{< line icon="icon/termine.png" >}}
 
 # Termine
-**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
+****  
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
