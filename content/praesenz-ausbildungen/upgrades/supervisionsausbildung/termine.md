@@ -23,10 +23,7 @@ weight: 3
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/termine.png" >}}
 
-# Termine
-****  
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
