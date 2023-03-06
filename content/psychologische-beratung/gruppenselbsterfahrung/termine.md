@@ -40,8 +40,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 **15.03.2023** 09:30 - 13:30 Uhr</br>
 **14.04.2023** 14:00 - 20:00 Uhr</br>
-**21.04.2023** 14:00 - 20:00 Uhr</br>
-**22.04.2023** 10:00 - 16:00 Uhr</br>
 **20.05.2023** 10:00 - 16:00 Uhr</br>
 **31.05.2023** 09:30 - 13:30 Uhr</br>
 **17.06.2023** 10:00 - 16:00 Uhr</br>
@@ -120,7 +118,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 
-**16.04.2023**  10:00 - 16:00 Uhr</br>
 **07.05.2023**  10:00 - 16:00 Uhr</br>
 **14.05.2023**  10:00 - 16:00 Uhr</br>
 **04.06.2023**  10:00 - 16:00 Uhr</br>
