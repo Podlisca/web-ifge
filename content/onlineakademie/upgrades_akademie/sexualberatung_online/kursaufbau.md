@@ -108,6 +108,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 * Grundlagen der Paarberatung
 * Auftragsklärung & Triangulation
+* 8 Arten der Liebe & Dreiecks Theorie
 * Clement - klassische Paardynamik & Macht in der Beziehung
 * Differenzierungsmodell nach David Schnarch
 * Ideale sexuelle Profil & gemeinsames sexuelles Profil
