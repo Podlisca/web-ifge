@@ -51,7 +51,7 @@ Du erfährst, wie **Raumelemente, wie Einrichtung, Farben und Formen**, auf Mens
 
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „FengShui im psychosozialem Setting“** selbstverständlich **abgezogen**.
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}
