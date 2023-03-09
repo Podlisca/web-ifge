@@ -35,7 +35,7 @@ Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m Bank Aust
 
 zu überweisen. Bitte geben Sie als Verwendungszweck “Onlineausbildung Klangschalen Practitioner + Ihren Namen” an.
 
-Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert.
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung oder der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert.
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. 
 
