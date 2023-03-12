@@ -63,6 +63,13 @@ Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer
 ### 4. Garantie
 IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
 
+### INTENSIVTRAINING IN PINKAFELD
+Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen.
+
+Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
+
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+
 ### 4. Gerichtstand:
 Wien, Österreich
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
