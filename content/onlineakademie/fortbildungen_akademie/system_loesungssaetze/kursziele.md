@@ -34,7 +34,7 @@ Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilne
 </div> 
 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
 
 {{< line icon="icon/aufstellung.png" >}}
 

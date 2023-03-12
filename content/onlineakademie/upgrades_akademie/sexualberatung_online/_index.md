@@ -57,7 +57,7 @@ Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Die
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. " >}}
 
 
 

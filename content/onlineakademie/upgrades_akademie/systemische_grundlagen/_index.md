@@ -54,7 +54,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
 
 
 

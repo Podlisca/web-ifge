@@ -33,7 +33,7 @@ Der **Vorteil** des Kurses ist, dass dieser zu **100% digital** und ohne fest ei
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
 
 {{< line icon="icon/feng_shui.png" >}}
 

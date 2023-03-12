@@ -32,7 +32,7 @@ So bietet der Kurs psychosozialen Berater\*innen die Möglichkeit **Kompetenz un
 
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. " >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
