@@ -7,7 +7,7 @@ weight: 3
 
 # Onlineausbildung: Familienaufstellung - SGF Methode® - Lösungssätze
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt:  
+## Schwerpunkt: Familienstrukturen verstehen. Persönlichkeitsentwicklung fördern.
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -33,8 +33,7 @@ weight: 3
 {{% /small %}}
 
 {{% small %}}
-## Du kannst ab 15. März 2023 starten
-### danach ist ein Einstieg jederzeit möglich
+## Sarte Jetzt!
 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
@@ -47,4 +46,4 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
