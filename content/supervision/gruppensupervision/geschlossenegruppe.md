@@ -20,7 +20,7 @@ og_image: "/img/supervisionsgruppe_bgld.jpg"
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-## Gruppensupervision - Vier neue Gruppen starten Januar 2023
+## Gruppensupervision - Zwei neue Gruppen starten Januar 2024
 
 
 {{% floatbox %}}
@@ -60,105 +60,70 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 
 
 {{< line icon="icon/termine.png" >}}
-## Gruppensupervision - drei unter der Leitung von Silvia Podlisca - Institutsleiterin 
-## Vier neue Gruppen starten Januar 2023
-**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
+## Gruppensupervision - unter der Leitung von Silvia Podlisca - Institutsleiterin 
 
-***
+****  
+
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Wien - Gruppe 1 
+#### Wien - Gruppe 
 {{< image src="/img/ifge_wien.jpg">}}
 
-#### Start: 04.01.2023 
-Die Gruppe findet 10 mal jährlich jeden **ersten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
-
-
-**Termine 2023:** 
-
-{{< center >}}
-04.01.2023<br/>
-01.02.2023<br/>
-01.03.2023<br/>
-05.04.2023<br/>
-03.05.2023<br/>
-07.06.2023<br/>
-06.09.2023<br/>
-04.10.2023<br/>
-01.11.2023<br/>
-06.12.2023<br/>
-{{< /center >}}
-
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-{{% /small  %}}
-
-{{% small  %}}
-#### Wien - Gruppe 2 
-{{< image src="/img/ifge_wien.jpg">}}
-
-#### Start: 18.01.2023
+#### Start: 17.01.2024
 Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2023 - ausgebucht** 
+**Termine 2024:**
 
 {{< center >}}
-18.01.2023<br/>
-15.02.2023<br/>
-15.03.2023<br/>
-19.04.2023<br/>
-17.05.2023<br/>
-21.06.2023<br/>
-20.09.2023<br/>
-18.10.2023<br/>
-15.11.2023<br/>
-20.12.2023<br/>
+17.01.2024<br/>
+21.02.2024<br/>
+20.03.2024<br/>
+17.04.2024<br/>
+15.05.2024<br/>
+19.06.2024<br/>
+18.09.2024<br/>
+16.10.2024<br/>
+20.11.2024<br/>
+18.12.2024<br/>
 {{< /center >}}
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Wien 2024 " >}}
+
 {{% /small  %}}
+
 
 {{% small  %}}
 #### Burgenland
 {{< image src="/img/seminarraum1.jpg">}}
 
-#### Termine folgen
-Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt. 
 
-**Termine folgen** 
+#### Start: 10.01.2024
+Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt.<br/>
 
-
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< image src="/img/raum_noe_weis.jpg">}}
-
-
-#### Start: 22.02.2023
-Die Gruppe findet 9 mal jährlich jeden **vierten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt.<br/>
-
-**Termine 2023:**
+**Termine 2024:**
 
 {{< center >}}
-kein Termin im Jänner<br/>
-22.02.2023<br/>
-22.03.2023<br/>
-26.04.2023<br/>
-24.05.2023<br/>
-28.06.2023<br/>
-27.09.2023<br/>
-25.10.2023<br/>
-22.11.2023<br/>
-27.12.2023<br/>
+
+10.01.2024<br/>
+14.02.2024<br/>
+13.03.2024<br/>
+10.04.2024<br/>
+08.05.2024<br/>
+12.06.2024<br/>
+11.09.2024<br/>
+09.10.2024<br/>
+13.11.2024<br/>
+11.12.2024<br/>
 {{< /center >}}
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Burgenland 2024 " >}}
+
 {{% /small  %}}
 {{% /box %}}
 

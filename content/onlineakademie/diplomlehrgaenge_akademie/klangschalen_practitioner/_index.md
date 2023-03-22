@@ -70,7 +70,7 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 * **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
 
 
 ### Was bewirken die Schwingungen der Klangschale? 
@@ -82,7 +82,7 @@ Du lernst Gefühl, Verstand und Intuition auf eine neue Art und Weise miteinande
 * **Mehrwert für deine Klient*innen**<br/>
 Nutze die einzigartige Methode, um neue Tools zu erlernen, mit denen du effektiver und ganzheitlicher auf die Probleme deiner Klient*innen eingehen kannst. Du wirst deine Arbeit auf ein neues Level heben und einen größeren Impact schaffen.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
 
 ## Entspannung & Weiterentwicklung
 
@@ -118,7 +118,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}{{< line icon="noun_Information_478770-2.png" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}{{< line icon="noun_Information_478770-2.png" >}}
 {{% /floatbox %}}
 
 
@@ -149,7 +149,7 @@ Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen 
 {{% /small %}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
 
 
 

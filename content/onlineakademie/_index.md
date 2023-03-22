@@ -99,7 +99,7 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 
 
-#### FortbildungenSGF Methode®
+#### Fortbildungen
 
 {{% kursbox %}}
 {{< kurs titel="Familienaufstellung - SGF Methode® - Lösungssätze" link="/onlineakademie/fortbildungen_akademie/system_loesungssaetze" image="/img/onlineakademie_philo_6.jpg" color="light-red" >}}
