@@ -32,7 +32,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube fmXmn39H7Zs>}}
+{{< youtube 1nP1c0HLxVY>}}
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre ollzugriff**
 
