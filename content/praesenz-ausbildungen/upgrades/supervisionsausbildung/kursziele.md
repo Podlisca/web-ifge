@@ -24,6 +24,8 @@ Die ausgewählten Inhalte des LSB-Upgrades reichen von den Grundlagen der Lehrsu
 
 {{% silvia %}}
 
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}

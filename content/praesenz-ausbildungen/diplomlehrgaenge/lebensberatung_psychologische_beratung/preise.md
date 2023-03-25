@@ -63,6 +63,8 @@ Die Ausbildung zum LSB ist als Berufsausbildung im Sinne des §6 Abs. 1 Z 11 lit
 
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
 {{< line icon="icon/aktion.png" >}}
 ## AKTIONEN FÜR alle Standorte
 
@@ -123,3 +125,5 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 
 {{% /small  %}}
 {{% /box %}} 
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}

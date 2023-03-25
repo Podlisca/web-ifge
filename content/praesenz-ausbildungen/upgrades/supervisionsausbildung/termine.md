@@ -74,7 +74,7 @@ Sa., 06.01.24 / Sa., 13.01.24 / Sa., 20.01.24<br/>
 
 **Prüfungstag: 20.01.24**
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
 
 {{% /small  %}}
 {{% small  %}}

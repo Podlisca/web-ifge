@@ -109,7 +109,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
 
 {{% /small  %}}
 

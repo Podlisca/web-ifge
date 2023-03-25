@@ -94,17 +94,9 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 </div>
 <div style="grid-area: w1">
 
-## LSB 23
-#### Start: 15. Februar 2023
+Aufgrund der geänderten Ausbildungsverordnung werden in Wien keine weiteren Kurse mehr angeboten.
 
-Mittwochs von 09:30 bis 13:30 Uhr<br>
-Vereinzelnd: Sonntag ganztags, ab 09:00 Uhr
-
-**Vormittagskurs: Ideal für Eltern!**
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
-[Termine LSB 23 herunterladen](/downloads/LSB_23_termine.pdf)
+***
 </div>
 <div style="grid-area: w2">
 
