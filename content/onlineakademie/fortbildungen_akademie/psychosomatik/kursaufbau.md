@@ -50,11 +50,11 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 * Das humanistische Menschenbild
 * Das Setting
 * Beratungsverlauf - Bella & Plissit Prinzip
-* Der ganzheitliche Blick
 * Auftragsklärung in der Gesprächsführung
+* Der ganzheitliche Blick
+* Die 7 Aura-Schichten
 * Stress
 * Work-Life-Balance
-* Die 7 Aura-Schichten
 * Die acht Resilienzfaktoren
 * Selbstfürsorge & Psychosomatik
 * Die 5 Elemente im Überblick
@@ -64,23 +64,26 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 * Nieren- & Blasenmeridian 
 * Maggen- & Milzmeridian
 * Lungen- & Dickdarmmeridian
+* Der menschliche Körper - die Grundlagen
+* Der menschliche Körper - Organe & Psychosomatik
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
-* Der menschliche Körper - Die Grundlagen
-* Organe & Psychosomatik
-* Häufige psychosomatische Erkrankungen
-* Burn-Out 7-Phasen
-* Burn-Out Symptome
+* 5 Elemente/Vertiefung
+* Burn-Out 7-Phasen 
+* Burn-Out Symptome 
 * Burn-Out Faktoren
-* Denken und Problemlösungen
-* Die sieben häufigsten Gedächtnisfehler nach Schacter 
-* Lebensqualität erhöhen
-* gelernter Optimismus
-* Zehn positive Emotionen nach Barbara Fredrickson
-
+* Das Gehirn: 3 Speicher Modell
+* Reizverarbeitung
+* Die sieben häufigsten Gedächtnisfehler nach Schacter
+* Problemlösung: lautes Denken/Introspektion
+* Denken & Problemlösung: Tool Lebenslinie
+* Das Rubikonmodell
+* Das Konzept der Lebenszufriedenheit
+* Gelernter Optimismus
+* Die 10 positiven Emotionen nach Fredrickson
 
 
 {{% /small  %}}
