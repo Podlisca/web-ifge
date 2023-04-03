@@ -79,7 +79,7 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 16 Weiterbildungsstunden bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
