@@ -57,7 +57,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 ## Unsere Ausbildungen im Überblick
 
-**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
+****  
 
 ***
 #### Diplomausbildungen

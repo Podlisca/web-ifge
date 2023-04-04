@@ -39,7 +39,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. " >}}
 
 ***
 
@@ -65,7 +65,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 ## Zertifikat
 Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
 
-Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. Für deine fachliche Fortbildung werden dir 16 Weiterbildungsstunden bestätigt. 
 
 {{% /small%}}
 {{% /box %}}
@@ -78,4 +78,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. " >}}

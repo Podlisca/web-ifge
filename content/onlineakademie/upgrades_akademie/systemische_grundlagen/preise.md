@@ -37,4 +37,4 @@ Kosten pro Tag: € 290,- <br/>
 max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
 
 ## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}

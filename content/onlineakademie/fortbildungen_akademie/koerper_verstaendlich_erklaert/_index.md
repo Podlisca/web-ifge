@@ -30,7 +30,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube vMsAbkVYY8I>}}
 
 Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) - 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
@@ -55,7 +55,7 @@ Im Rahmen dieser **digitalen Weiterbildung** wird der **menschliche Körper einf
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}

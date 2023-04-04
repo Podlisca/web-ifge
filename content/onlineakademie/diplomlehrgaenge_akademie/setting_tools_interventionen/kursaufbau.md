@@ -23,14 +23,14 @@ weight: 1
 ## Organisatorisches 
 
 * **Start sofort nach Zahlungseingang**
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Videos**
 * Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
-* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
+
 * Nach der Anmeldung & Überweisung der (An)Zahlung startest Du sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
-* Nach Abschluss des Onlinekurses wird die **Onlineprüfung** frei geschalten. Nach Bestehen der Prüfung erhältst Du das IFGE Zertifikat
+* Sobald Du alle Videos abgeschlossen hast erhälst Du eine IFGE Bestätigung über die **fachliche Fortbildung**
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
@@ -48,8 +48,7 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 {{% box top-align=1 %}}
 {{% small  %}}
 
-#### Kick-off 
-#### Kursmaterial für eine Woche
+#### Auszug: allgemeine Beratung & Tiergestütztes Coaching
 
 * Grundhaltung Carl Rogers - das humanistische Menschenbild
 * Das Setting
@@ -57,91 +56,73 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 * praktische Übung: der/die Klientin führt - Auflösung
 * Erstgespräch: Auftragsklärung/Thema Verspannungen
 * Auftragsklärung und Gesprächsführung
-
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Turnus 1
-#### Kursmaterial für drei Wochen
-
-* Beratungsverlauf - Bella & Plissit Prinzip
-* Tiefenpsychologische Ansätze
-* Interventionsmöglichkeiten
-* Methoden der wertschätzenden Kommunikation
-* Thema: Schlafschwierigkeiten und Klangschalenmassage
-* Gespräch: Motivation zur Zielerreichung mit der Klangschale
-* Praktische Übung
+* Pferdegestütztes Setting - Thema: achtsamer Umgang mit Grenzen / Pferd Mia
 * Hundegestütztes Setting: Outdoor
-* Hundegestütztes Setting: Outdoor Folgegespräch
-* Pferdegestütztes Setting: Selbstbewusstsein stärken
-* Pferdegestütztes Setting: Time-Line
-* Tiergestütztes Setting: Berufliches Thema
-* Hundegestütztes Setting: Outdoor- Thema Selbstwert
+* Tiergestütztes Setting: die Glaubenssatzaufstellung
+* ...
+
 
 {{% /small  %}}
 {{% small  %}}
-#### Turnus 2
-#### Kursmaterial für drei Wochen
 
-* Das Gehirn: 3-Speicher-Modell
-* Reizverarbeitung
-* Die sieben häufigsten Gedächtnisfehler
-* Problemlösung: lautes Denken/Introspektion
-* Emotion/Bedürfnisse/Motivation
-* Die klassische & operante Konditionierung
-* Konflikte und unerledigte Handlungen
-* Risikowahlmodell nach Atkinson
-* Das Konzept der Lebenszufriedenheit
-* Gelernter Optimismus
-* Die 10 positiven Emotionen nach Fredrickson
+#### Auszug: Sexualberatung
+
+* Unterschied: psychosoziale Beratung/Paarberatung/Sexual-Paarberatung
+* Erlaubnis gebende Interventionen zur Lustfindung
+* Reflexionsübung: Umgang mit Haltung und Absicht in der Beratung
+* Achtsame Kommunikation: Tool Schachbrett
+* Klientengespräch: ausbleibender Orgasmus (Tool: Sexuallandkarte)
+* Klientengespräch: ausbleibender Orgasmus (Tool: Glaubenssätze/Feuerschale)
+* Klientengespräch: Lustverlust
+* Klientengespräch: arabische Frau / lesbische Vorlieben
+* ...
+
+{{% /small  %}}
+{{% small  %}}
+
+#### Auszug Klangschalen Practitioner
+
+* Klientengespräch: Wellnessbehandlung: Energie tanken mit den Klangschalen 
+* Klientengespräch: Erstgespräch: Auftragsklärung / Thema Verspannungen 
+* Übung: Marie-Sophie´s erster Chakren Ausgleich
+* Die ersten Schritte mit der Klangschale - Teil 1 
+* Die ersten Schritte mit der Klangschale - Teil 2
+* Schlafschwierigkeiten + Klangschalenmassage
+* Klientengespräch: Motivation zur Zielerreichung mit der Klangschale
+* Klientengespräch: Blasenentzündung / Tools: inneres Bild + Klangschalenmassage
+* ...
 
 {{% /small%}}
 {{% /box %}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Turnus 3
-#### Kursmaterial für drei Wochen
+#### Zertifikat
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 96 Weiterbildungsstunden bestätigt. 
 
-* Kommunikation nach Schulz von Thun
-* 8 Arten der Liebe & Dreieckstheorie
-* Das Casio Modell
-* Soziale Aufwärts & Abwärtsvergleiche
-* Motivierende Gesprächsführung
-* Das Investmentmodell von Rusbult
-* Das tierische Team verändert sich
-* Hundegestützes Setting: Klientin mit eigenem Hund & das innere Bild
-* Denken & Problemlösung: Tool Lebenslinie
-* 5 Elemente/Vertiefung
-* Tiergestütztes Setting: Trauer um ein verstorbenes Tier
-* Silvia & Margit: Positive Emotionen stärken
-
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Turnus 4
-#### Kursmaterial für drei Wochen
-
-* Klientengespräch: Blasenentzündung/Tools: inneres Bild + Klangschalenmassage
-* Folgegespräch: Blasenentzündung
-* Katzengestütztes Setting: Umgang beruflicher Erfolg
-* Hundegestütztes Setting: Outdoor - Thema Stressmanagement
-* Prozessreflexion - Gedanken der Klientin zur tiergestützten Arbeit
-* Was zum Schmunzeln
-
-
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
 
 
 {{% /small  %}}
 
 {{% small  %}}
-#### Turnus 5
-#### Kursmaterial für drei Wochen
+#### Leitung
 
-* folgt
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+* [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
+* [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
+* [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
+* [Ursula Zingl](/about/referenten-lsb/#antje-stimpfl)
+
+
+
+{{% /small  %}}
+
+{{% small  %}}
+#### praktischen Tage
+
+**Neu erlerntes Wissen** ist vor allem dann wunderbar, wenn wir es **aktiv anwenden und einsetzen** können. Wenn wir feststellen, dass sich das Lernen und Lesen gelohnt hat, weil wir Inhalte verstanden und konkret in der Praxis umsetzen können. Damit Du das Wissen aus den IFGE-Ausbildungen durch **praktische Anwendung** festigen kannst, bieten wir dir die Möglichkeit **[praktischer Tage im Präsenzunterricht](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)**.
 
 
 {{% /small  %}}
@@ -151,51 +132,11 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Turnus 6
-#### Kursmaterial für drei Wochen
-
-* folgt
 
 
 
-{{% /small  %}}
-{{% small  %}}
-
-#### Turnus 7
-#### Zusatzmaterial
-
-* folgt
 
 
-{{% /small  %}}
 
-{{% small  %}}
-#### Optional - 
-#### Praktische Tage
-* Alle Fragen zum Lehrstoff sind Willkommen
-* Beratungsgespräche üben
-
-Optional - pro Tag 
-Kosten: € 290,-
-max. 18 Teilnehmer*\innen 
-
-**[Hier geht es zu den Terminen & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)**
-
-{{% /small  %}}
-
-{{% /box %}}
-
-***
-## PRÜFUNG
-
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
-## Leitung
-
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching " >}}
 

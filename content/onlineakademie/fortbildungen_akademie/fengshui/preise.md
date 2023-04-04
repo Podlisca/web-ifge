@@ -30,4 +30,4 @@ Zahlung sofort  <br/>
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}

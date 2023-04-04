@@ -30,7 +30,7 @@ weight: 1
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
 * Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
-* Ab Start können Sie alle ca. alle zwei Wochen an einer **[interaktiven Lehrveranstaltung](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/termine/)** teilnehmen. Diese werden aufgezeichnet und Ihnen in unserem Portal zur Verfügung gestellt. Ihre **Fragen** zu den Lehrinhalten können vorab **hochgeladen** werden und wir **gehen ganz gezielt auf die Fragen ein**. 
+* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung 
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.
@@ -66,7 +66,6 @@ weight: 1
 
 
 {{% /small  %}}
-
 {{% small  %}}
 #### Turnus 1
 #### Kursmaterial für drei Wochen
@@ -220,9 +219,9 @@ max. 18 Teilnehmer*\innen
 {{% /box %}}
 
 ***
-## PRÜFUNG
+## PRÜFUNG & Teilnahmebestätigung
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 96 Weiterbildungsstunden bestätigt. 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
@@ -232,4 +231,4 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turn
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}

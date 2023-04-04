@@ -32,7 +32,7 @@ Und das ist wichtig, denn wie beim Menschen, **zählen** auch bei Tieren bei Unf
 
 {{% /small %}}
 </div> 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. " >}}
 
 
 

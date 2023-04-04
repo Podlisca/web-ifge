@@ -37,7 +37,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
 
 ***
 
@@ -67,7 +67,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 16 Weiterbildungsstunden bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
@@ -81,4 +81,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}

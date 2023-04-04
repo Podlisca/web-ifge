@@ -38,6 +38,8 @@ Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung 
 
 {{% silvia %}}
 
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -69,6 +71,8 @@ Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder 
 Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*innen kommen, sind abwechslungs- und facettenreich – mittels dieser Ausbildung lernt man mit verschiedensten Anliegen umzugehen.
 
 {{% /floatbox %}}
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
@@ -104,6 +108,8 @@ Aufgrund des unvergleichlichen Qualitätsanspruchs, der an das Institut gestellt
 Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in der Organisation und Abwicklung sehr gut aufgestellt. Dies umfasst kostenlose bzw. in der Ausbildung inbegriffene, sehr umfassende Skripten. Weiters werden an den Seminartagen in den Pausen gratis Brot, Aufstriche, Obst, Gemüse sowie Kuchen & Süßes angeboten.
 {{% /card-more  %}}
 {{% /box %}}
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
 
  {{< line icon="icon/zertifikat.png" >}}
  

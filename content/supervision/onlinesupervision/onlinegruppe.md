@@ -37,11 +37,11 @@ In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Si
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Jänner 2023 
-{{< image src="/img/ifge_wien.jpg">}}
+#### Online: April 2023 
+{{< image src="/img/onlineunterricht.jpg">}}
 
-**11.01.2023**<br/>
-von 16:00 bis 20:00 Uhr
+**14.04.2023**<br/>
+von 14:00 bis 18:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
@@ -49,10 +49,10 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 {{% /small  %}}
 
 {{% small  %}}
-#### Februar 2023
-{{< image src="/img/seminarraum1.jpg">}}
+#### Online: Mai 2023
+{{< image src="/img/onlineunterricht.jpg">}}
 
-**21.02.2023**<br/>
+**25.05.2023**<br/>
 von 14:00 bis 18:00 Uhr
 <br/>
  
@@ -61,11 +61,11 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 {{% /small  %}}
 
 {{% small  %}}
-#### März 2023
+#### Online: Juni 2023
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**08.03.2023**<br/>
-von 16:00 bis 20:00 Uhr
+**24.06.2023**<br/>
+von 14:00 bis 18:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>

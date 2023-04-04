@@ -22,32 +22,35 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-## Online Infovideo ansehen & sofort starten
+## Du kannst sofort starten
+
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
+
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **los starten**. Gerne kannst Du dich auch zur **Infoveranstaltung** anmelden oder mich telefonisch unter +43 676 610 89 36 kontaktieren.
 
 <div class="box video">
 {{% small %}}
 
-### Hier ein kleiner Einblick 
-{{< youtube Ff0OHNdKnHo>}}
-
-
-{{% /small %}}
-{{% small %}}
-
-### Ausführliches Infovideo 
-{{< youtube WonAhSP6B8c>}}
+### Die Onlineakkademie
+{{< youtube d3lgsax0poI>}}
 
 {{% /small %}}
 {{% small %}}
 
-### [Sofort Starten - Kurs kaufen](https://www.ifge.at/anmeldung.php)
-{{< image src="/img/kurs_kaufen_tiere1.jpg" >}}
+### Kursinhalt
+{{< youtube YNRC_J33d3Q>}}
+
+{{% /small %}}
+{{% small %}}
+
+### Kursaufbau
+{{< youtube 5zAwhMLKe5c>}}
 
 
 {{% /small %}}
 
 </div> 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}<br/>
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}<br/>
 
 ## ONLIne: Live - Infosveranstaltungen
 
@@ -55,45 +58,10 @@ weight: 3
 
 {{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
 
-***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Infovideo ansehen & los geht´s
-{{< youtube WonAhSP6B8c>}}
-{{%/small  %}}
-
-{{% small  %}}
-
-#### Interaktive Lehrveranstaltungen
-
-**ca. alle 14 Tage** <br/> 
-Termine werden bei Anmeldung bekannt gegeben
-
-Online von 18:30 Uhr - 20:00 Uhr
-
-<br/> 
-
-
-{{% /small  %}}
-
-
-{{% small  %}}
-#### Intensivtraining in Pinkafeld
-
-* **Start:** 24.07. - 28.07.2023
-<br/>Mo. - Do. 09:00 bis 18:00 Uhr
-<br/>Fr. 09:00 bis 14:00 Uhr
-<br/>
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Tiere in Pinkafeld" >}}
 
 
 
 
-{{% /small  %}}
-
-{{% /box %}}
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching " >}}

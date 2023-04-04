@@ -32,7 +32,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube fmXmn39H7Zs>}}
+{{< youtube 1nP1c0HLxVY>}}
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre ollzugriff**
 
@@ -54,7 +54,7 @@ Die **Lösungssätze** wurden von **Silvia Podlisca** laufend **weiterentwickelt
 
 Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberatung **](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
 
 {{< line icon="icon/aufstellung.png" >}}
 {{% floatbox %}}

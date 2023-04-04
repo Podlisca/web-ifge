@@ -90,3 +90,4 @@ Der Gesetzgeber sieht vor, dass für den Erhalt des Gewerbescheins für die frei
 Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfassen. Genaue Informationen finden Sie [hier](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/praktikum/).
 {{% /small  %}}
 {{% /box %}}
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}

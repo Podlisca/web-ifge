@@ -230,9 +230,9 @@ max. 18 Teilnehmer*\innen
 {{% /box %}}
 
 ***
-## PRÜFUNG
+## PRÜFUNG & Teilnahmebestätigung
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 96 Weiterbildungsstunden bestätigt. 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
@@ -242,4 +242,4 @@ Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turn
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}

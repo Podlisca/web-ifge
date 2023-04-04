@@ -114,6 +114,8 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
 
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+
 {{< line icon="icon/beratung.png" >}}
 
 ## Methoden der Ausbildung 
@@ -135,6 +137,8 @@ Die Vermittlung der Lehrinhalte erfolgt leicht verständlich und praxisorientier
 **[Lehrplan Seminarhinhalte herunterladen](/downloads/LSB_AGENDA_2018.pdf)**
 
 **Nach positivem Abschluss sind Sie berechtigt Familienaufstellungen in Österreich zu leiten!**
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 

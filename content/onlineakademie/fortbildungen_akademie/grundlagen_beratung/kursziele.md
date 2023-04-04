@@ -31,7 +31,7 @@ Damit richtet sich die **Online-Fortbildung** nicht nur an psychosoziale Berater
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. " >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 

@@ -35,7 +35,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 {{< line icon="icon/termine.png" >}}
 
 ## Nächste Kurse & Lehrpläne 
-**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
+****  
 
 {{% box top-align=1 %}}
 {{% small  %}}

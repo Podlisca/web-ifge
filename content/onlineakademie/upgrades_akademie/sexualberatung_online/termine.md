@@ -33,13 +33,13 @@ weight: 3
 {{% /small %}}
 
 {{% small %}}
-## Du kannst ab 15. Februar 2023 starten
-### danach ist ein Einstieg jederzeit möglich
+## Starte jetzt!
 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
-Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **15. Februar 2023**  los starten. 
+Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du los starten. 
 
+**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 {{% /small %}}
 </div> 
@@ -51,4 +51,4 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
 =======
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. " >}}

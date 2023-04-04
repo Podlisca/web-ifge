@@ -41,12 +41,14 @@ rich_faq:
 
 Langfristiges **Verschweigen und Verdrängen** sexueller Themen kann allerdings die psychische und physische **Gesundheit beeinträchtigen**. Umso wichtiger, dass psychosoziale Berater\*innen, Betreuer\*innen, Pädagog\*innen und andere relevante Berufsgruppen in der Lage sind **Betroffene hier mit den richtigen Fragen und Methoden zu begleiten**. 
 
-Dieser Kurs der [IFGE-Online-Akademie](https://www.ifge.at/onlineakademie/) fördert deine **Sicherheit und Kompetenz** im Umgang mit dem Thema Sexualität. 
+
 
 
 
 {{% /small %}}
 </div> 
+
+Dieser Kurs der [IFGE-Online-Akademie](https://www.ifge.at/onlineakademie/) fördert deine **Sicherheit und Kompetenz** im Umgang mit dem Thema Sexualität. 
 
 Du erhältst **Wissen und Werkzeuge**, wie sensible Themen gezielt angesprochen und bearbeitet werden können. Dabei bieten wir dir maximale Flexibilität und Individualität, da der Kurs, wie alle Angebote der Online-Akademie, zu **100% digital** und ohne fixe Gruppentermine stattfindet. Du hast ganze **drei Jahre Vollzugriff** auf die Lehrvideos sowie Lernmaterialen und kannst dich daher ganz nach deinen Bedürfnissen weiterbilden.
 
@@ -55,7 +57,7 @@ Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Die
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. " >}}
 
 
 

@@ -35,7 +35,7 @@ Ziel der Ausbildung ist die Kompetenz und Sicherheit im Umgang mit dem Thema **S
 Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)** oder **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Besonderheit Sexualberatung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. " >}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 

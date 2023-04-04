@@ -60,6 +60,9 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - [psychologischen Beratung] zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychosoziale Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
 
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
@@ -89,6 +92,8 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 {{% /small  %}}
 
 {{% /box %}}
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
@@ -160,4 +165,4 @@ Hier finden Sie vertiefende Informationen über:
 {{% /box %}}
 
 
-
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}

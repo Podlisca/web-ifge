@@ -23,10 +23,7 @@ weight: 3
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/termine.png" >}}
 
-# Termine
-**Für Präsenzveranstaltungen beachten Sie bitte die derzeit gültigen Corona Regeln für Veranstaltungen (bis maximal 12 Personen) des jeweiligen Bundesland - Danke.**  
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -77,7 +74,7 @@ Sa., 06.01.24 / Sa., 13.01.24 / Sa., 20.01.24<br/>
 
 **Prüfungstag: 20.01.24**
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
 
 {{% /small  %}}
 {{% small  %}}

@@ -35,7 +35,7 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
 
 ***
 {{% box top-align=1 %}}
@@ -79,7 +79,7 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 16 Weiterbildungsstunden bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
@@ -95,4 +95,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}

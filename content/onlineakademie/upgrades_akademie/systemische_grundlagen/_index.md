@@ -32,7 +32,7 @@ aliases:
 <div class="box video">
 {{% small %}}
 
-{{< youtube fmXmn39H7Zs>}}
+{{< youtube MS-sgE4LpLs>}}
 
 
 {{% /small %}}
@@ -55,7 +55,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
 
 
 

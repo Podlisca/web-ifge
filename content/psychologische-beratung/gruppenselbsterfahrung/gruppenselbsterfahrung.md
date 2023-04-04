@@ -21,7 +21,6 @@ og_image: "/img/aufstellung_noe1.jpg"
 
 {{% box %}}
 {{% small  %}}
-**Intensivwoche 2022:** in Wien: 08. - 12 August 2022 in Wien<br/>
 
 **Intensivwoche 2023:** in Wien: 07. - 11 August 2023 in Wien
 {{% /small  %}}
@@ -43,7 +42,7 @@ Das Ziel ist, Ihre persönlichen Handlungsmöglichkeiten und Ihr Potenzial im Al
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more icon="icon/termin_kursplan.png" title="Intensiv Selbsterfahrungswoche in Wien: 08. - 12 August 2022 in Wien">}}
+{{< card-more icon="icon/termin_kursplan.png" title="Intensiv Selbsterfahrungswoche in Wien: 07. - 11 August 2023 in Wien">}}
 
 Mo. - Do. von 09:00 bis 18.00 Uhr 
 Fr. von 09:00 bis 14:00 Uhr

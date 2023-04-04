@@ -31,7 +31,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube kX3PmCsX9I4>}}
 
 
 {{% /small %}}
@@ -56,7 +56,7 @@ Das Upgrade bietet dir **maximale Flexibilität und Individualität**, da der Ku
 
 Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ "Besonderheit Sexualberatung"](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. " >}}
 
 
 

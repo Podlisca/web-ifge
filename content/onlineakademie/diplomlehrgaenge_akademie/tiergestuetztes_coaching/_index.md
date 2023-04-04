@@ -79,7 +79,7 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
 {{< line icon="icon/tiere.png" >}}
 
 ## Tiere in der Beratung / im Coaching
@@ -99,7 +99,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 * Es ist eine zielgerichtete Intervention zur Verbesserung des allgemeinen Wohlergehens der Klient*innen. 
 * Es kann das Einbezogensein in die jeweiligen Lebenssituationen gefördert werden. Ein gutes Beispiel hierfür ist der Einsatz in Altersheimen.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
 {{% floatbox %}}
 
 # Hier ein kleiner Einblick in die Ausbildung:
@@ -125,7 +125,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching (Start nach Zahlungseingang)" >}}{{< line icon="noun_Information_478770-2.png" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}{{< line icon="noun_Information_478770-2.png" >}}
 
 
 {{% iconmenu %}}

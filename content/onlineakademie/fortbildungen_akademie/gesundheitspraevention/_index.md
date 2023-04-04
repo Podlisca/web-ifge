@@ -48,14 +48,14 @@ In der **psychosozialen Beratung** steht hingegen die Arbeit mit Menschen ohne K
 
 Wann sprechen wir von **Gesundheit**, wann von **Krankheit**? Was bedeutet überhaupt **Prävention** und wie kann psychosoziale Beratung gesundheitlichen Problemen **vorbeugen**? 
 
-Diese und ähnliche **Fragen** stehen im Zentrum der **Fortbildung**,** die übrigens zu **100% online stattfindet**. So ermöglichen wir unseren Teilnehmer\*innen sich ganz nach **eigenen Bedürfnissen** und im **eigenen Tempo** weiterzubilden. Konkret wird der Kurs über eine Lernplattform durchgeführt. Hier findest du alle **notwendigen Lehrvideos und Lernmaterialen**. 
+Diese und ähnliche **Fragen** stehen im Zentrum der **Fortbildung**, die übrigens zu **100% online stattfindet**. So ermöglichen wir unseren Teilnehmer\*innen sich ganz nach **eigenen Bedürfnissen** und im **eigenen Tempo** weiterzubilden. Konkret wird der Kurs über eine Lernplattform durchgeführt. Hier findest du alle **notwendigen Lehrvideos und Lernmaterialen**. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
 Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ "Besonderheit Sexualberatung"](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. " >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% floatbox %}}
 

@@ -38,7 +38,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangschalen-Practitioner](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) zusammen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. " >}}
 
 ***
 
@@ -50,11 +50,11 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 * Das humanistische Menschenbild
 * Das Setting
 * Beratungsverlauf - Bella & Plissit Prinzip
-* Der ganzheitliche Blick
 * Auftragsklärung in der Gesprächsführung
+* Der ganzheitliche Blick
+* Die 7 Aura-Schichten
 * Stress
 * Work-Life-Balance
-* Die 7 Aura-Schichten
 * Die acht Resilienzfaktoren
 * Selbstfürsorge & Psychosomatik
 * Die 5 Elemente im Überblick
@@ -64,30 +64,33 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 * Nieren- & Blasenmeridian 
 * Maggen- & Milzmeridian
 * Lungen- & Dickdarmmeridian
+* Der menschliche Körper - die Grundlagen
+* Der menschliche Körper - Organe & Psychosomatik
 
 
 {{% /small  %}}
 {{% small  %}}
 ## Modul 2
-* Der menschliche Körper - Die Grundlagen
-* Organe & Psychosomatik
-* Häufige psychosomatische Erkrankungen
-* Burn-Out 7-Phasen
-* Burn-Out Symptome
+* 5 Elemente/Vertiefung
+* Burn-Out 7-Phasen 
+* Burn-Out Symptome 
 * Burn-Out Faktoren
-* Denken und Problemlösungen
-* Die sieben häufigsten Gedächtnisfehler nach Schacter 
-* Lebensqualität erhöhen
-* gelernter Optimismus
-* Zehn positive Emotionen nach Barbara Fredrickson
-
+* Das Gehirn: 3 Speicher Modell
+* Reizverarbeitung
+* Die sieben häufigsten Gedächtnisfehler nach Schacter
+* Problemlösung: lautes Denken/Introspektion
+* Denken & Problemlösung: Tool Lebenslinie
+* Das Rubikonmodell
+* Das Konzept der Lebenszufriedenheit
+* Gelernter Optimismus
+* Die 10 positiven Emotionen nach Fredrickson
 
 
 {{% /small  %}}
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. 
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 16 Weiterbildungsstunden bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
@@ -102,4 +105,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% box top-align=1 %}}
 {{% small  %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. " >}}

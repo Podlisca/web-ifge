@@ -38,7 +38,7 @@ weight: 1
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. " >}}
 
 ## Auszug Kursinhalte 
 
@@ -93,9 +93,10 @@ Inhalte folgen - Seite im Aufbau.
 
 {{% small  %}}
 
-#### PRÜFUNG
+#### PRÜFUNG & Teilnahmebestätigung
 
 Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 64 Weiterbildungsstunden bestätigt. 
 {{% /small  %}}
 
 {{% /box %}}
@@ -109,7 +110,7 @@ Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Pr�
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. " >}}
 
 
 

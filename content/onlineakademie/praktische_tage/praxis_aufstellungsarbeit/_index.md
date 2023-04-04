@@ -22,7 +22,7 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-{{< youtube 17RcDuirOWs>}}
+{{< youtube dbTm3-gYVFs>}}
 
 {{% /small %}}
 
@@ -48,7 +48,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{% small  %}}
 ### Schwerpunkt: Familienaufstellung
 **11.03.2023** </br>
-von 10:00 bis 17:00 Uhr
+von 10:00 bis 17:00 Uhr - ausgebucht
 
 **Kosten:** € 290,-  </br>
 
@@ -59,7 +59,7 @@ IFGE St. Pölten
 
 **Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
 
-{{< buchung-vorauswahl text="Kurs buchen" veranstaltung="Kurs buchen Praktische Tage: 11.03.23 Schwerpunkkt: Familienaufstellung" >}}
+{{< buchung-vorauswahl text="Ausgebucht" veranstaltung="Kurs buchen Praktische Tage: 11.03.23 Schwerpunkkt: Familienaufstellung" >}}
 
 {{% /small  %}}
 

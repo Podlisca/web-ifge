@@ -40,11 +40,11 @@ BIC: BKAUATWW
 zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung B Familienaufstellung - SGF Methode® & SystemDimensionsbrett. + Ihren Namen" an.
 
 
-Erst nach Zahlungseingang wird der Zugang frei geschaltet. Sollte es bei der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung oder der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
 
-Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  Bei Kurskauf ohne Zahlung wird eine Bearbeitungsgebühr von € 50,- verrechnet.
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
@@ -70,4 +70,4 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. (Start nach Zahlungseingang)" >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Familienaufstellung - SGF Methode® & SystemDimensionsbrett. " >}}
