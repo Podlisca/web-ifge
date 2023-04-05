@@ -232,7 +232,7 @@ max. 18 Teilnehmer*\innen
 ***
 ## PRÜFUNG & Teilnahmebestätigung
 
-Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 96 Weiterbildungsstunden bestätigt. 
+Der Lehrgang schließt mit einer Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **96 Weiterbildungsstunden** bestätigt. 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

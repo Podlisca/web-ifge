@@ -137,7 +137,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 ## Prüfung 
 Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir 64 Weiterbildungsstunden bestätigt. 
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
 
 ## Leitung
 
