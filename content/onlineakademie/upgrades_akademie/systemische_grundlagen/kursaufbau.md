@@ -42,7 +42,14 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 {{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
 
+
+***
+
 ## Auszug Kursinhalte 
+
+Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter\*innen **Feedback über das Erlebte**. Anschließend folgt eine **Fachdiskussion** mit Fragen von den Teilnehmer\*innen und den Antworten von Silvia. 
+
+***
 
 
 {{% box top-align=1 %}}
@@ -51,9 +58,10 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Willkommen
 #### Kursmaterial für drei Tage
 * Das Team stellt sich vor
-* Systemische Grundlagen und Vetreter*innen
-* Rahmenbedingungen, Haltung und Umgang bei Aufstellungen
+* Systemische Grundlagen und Vertreter*innen
+* Rahmenbedingungen, Haltungen und Umgang bei Aufstellungen
 * Die Phänomenologische Perspektive 
+* Grundhaltung Carl Rogers - das humanistische Menschenbild
 * Bonusmaterial aus anderen Onlineausbildungen 
 #### 
 
@@ -65,22 +73,25 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit
 * Theorie erklärt: Reglen & Grundlagen für die Aufstellungsarbeit
 * Theorie erklärt: Dynamiken 
-* Bonusmaterial aus anderen Onlineausbildungen 
+* Bonusmaterial aus anderen Onlineausbildungen
+* Spielerisches Lernen - Dynamiken erkennen Lösungssätze zuordnen
+* Auswahl Stellvertreter*innen 
+
 
 {{% /small  %}}
 {{% small  %}}
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
-* Systemische Aufstellungsarbeit - Dynamiken 
-* Die systemischen Dynamiken: Nachfolge - Übernahme - Hinbewegung
-* Dynamik - Nachfolge: Klientin folgt Mutter nach
-* Dynamik - Nachfolge: Klientin folgt Geschwisterkind nach
-* Dynamik Übernahme: Klientin "übernimmt" Nachfolge der Mutter
+* Dynamik - Nachfolge: Klientin folgt Mutter nach & Persönliches (eigene Abtreibung) inkl. Fachdiskussion
+* Dynamik - Nachfolge: Klientin folgt Geschwisterkind nach - inkl. Fachdiskussion
+* Dynamik - Übernahme: Klientin "übernimmt" Nachfolge der Mutter - inkl. Fachdiskussion
 * Dynamik: Abgang
 * Dynamik: Abtreibung
-* Dynamik: Kind verstorben
+* Dynamik: Kind verstorben Teil 1
+* Dynamik: Kind verstorben Teil 2
 * Bonusmaterial aus anderen Onlineausbildungen 
+* Weitere systemische Interventionen
 
 {{% /small%}}
 {{% /box %}}
@@ -90,16 +101,17 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* Anfangsmeditation - fachlich erklärt
-* Anfangsmeditation - praktisch erklärt
-* Ahnenreihe 
+* Anfangsmeditation - fachlich erklärt 
+* Anfangsmeditation - praktisch erklärt (inkl. Fachdiskussion)
 * Paardynamik - aus systemisch kollektiver Sicht
 * Trennung verkraften
-* Scheidung verkraften - Eltern bleiben
-* Anhaftung der Toten
+* Scheidung verkraften - Eltern bleiben - neue Liebe
+* Fachdiskussion über Beziehungen & Trennungen
+* Ein Elternteil verstirbt
+* frühe Unterbrochenen Hinbewegung & Ärzteteam entlassen
+* Geburtskanal & zur Entscheidung stehen
+* Kraftbad
 * Abschlussmeditation
-* frühe Unterbrochenen Hinbewegung
-* Systemische Gewichtung erkennen
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 {{% /small  %}}
@@ -108,12 +120,17 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Turnus 3
 #### Kursmaterial für drei Wochen
 
-* Adoption
-* Verlust eines Organs
-* Körperaufstellungen
-* Kraftbad
+* Unerfüllter Kinderwunsch & künstliche Befruchtung - Theorie
+* Unerfüllter Kinderwunsch & künstliche Befruchtung - Praxis
+* Unerfüllter Kinderwunsch & künstliche Befruchtung - Elternschaft annehmen
+* Fachdiskussion: Unerfüllter Kinderwunsch & künstliche Befruchtung
+* Adoption - Theorie
+* Adoption - Praxis inkl. schamanischem Ritual
+* Fachdiskussion Adoption & schamanisches Ritual - Praxis
+* Verlust eines Organs - Praxis
+* Psychosomatik - Körperaufstellungen (kollektive Aufarbeitung)
+* Fachdiskussion: Psychosomatik - Körperaufstellungen & persönliche Aufarbeitung
 * Schweres Schicksal annehmen
-* künstliche Befrüchtung
 * Bonusmaterial aus anderen Onlineausbildungen 
 
 
@@ -124,10 +141,17 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Modul 4
 #### Kursmaterial für drei Wochen
 
-* Schicksalsgemeinschaft: Opfer - Täter 
+* Systemische Gewichtung erkennen
+* Schicksalsgemeinschaft Täter - Opfer
+* Sexuelle Gewalt: Vergewaltigung
+* Häusliche Gewalt
+* Fachdiskussion: Vergewaltigung & häusliche Gewalt
+* Wichtige Tipps vor der ersten Aufstellung
 * Krieg - Vergewaltigung
 * Opfer & Täter - 2.Weltkrieg 
 * Engelsmacherin
+* Sexuelle Gewalt: Vergewaltigung - Kind
+* Ahnenreihe
 
 {{% /small  %}}
 
