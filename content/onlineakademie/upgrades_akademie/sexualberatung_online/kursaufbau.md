@@ -84,11 +84,10 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Turnus 1
 #### Kursmaterial für drei Wochen
 
+* LGBTIQIA+
 * Sexuelle Identitäten und Orientierungen
-* LGBTIQ
 * Lust-Verlust & Lust Gewinnung
 * Erlaubnis gebende Interventionen zur Lustfindung
-* Sexuelle Phantasien, Wünsche und Bedürfnisse
 * Bonusmaterial: Methoden der wertschätzenden Kommunikation
 * Bonusmaterial: Die acht Resilienzfaktoren
 * Bonusmaterial: Interventionsmöglichkeiten
@@ -106,15 +105,14 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Turnus 2
 #### Kursmaterial für drei Wochen
 
-* Grundlagen der Paarberatung
+* Grundlagen der Paarberatung Teil 1
+* Grundlagen der Paarberatung Teil 2
 * Auftragsklärung & Triangulation
 * 8 Arten der Liebe & Dreiecks Theorie
 * Clement - klassische Paardynamik & Macht in der Beziehung
 * Differenzierungsmodell nach David Schnarch
 * Ideale sexuelle Profil & gemeinsames sexuelles Profil
 * Umgang mit Untreue
-* Wenn aus Paaren Eltern werden
-* Zweite Liebe
 * Der menschliche Körper - Sexualkrankheiten Teil 1
 * Der menschliche Körper - Sexualkrankheiten Teil 2
 * Der menschliche Körper - Sexualkrankheiten Teil 3
@@ -132,16 +130,17 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 ####  Turnus 3
 #### Kursmaterial für drei Wochen
 
-* Abweichende Neigungen und Paraphilien
-* BDSM Basis 
-* Neosexualität
+* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10/ICD 11
+* Perversion & Neosexualität
+* Abweichende Neigungen und Paraphilien & Neosexualität
+* BDSM Basis
 * Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
-* Fetische, Paraphilien, Sexualstörungen 
-* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10
-* Grenzen der Sexualberatung
+* BDSM - Tools erstes Mal
+* Bonusmaterial aus anderen Onlineausbildungen 
+* Klientengespräch - BDSM - ausprobieren
 * Klientengespräch - BDSM - Partner überzeugt nicht als Dom
 * Klientengespräch Mann der Klientin will zu einer Domina (Ethikvertrag)
-* Bonusmaterial aus anderen Onlineausbildungen 
+
 
 {{% /small  %}}
 
@@ -175,16 +174,16 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 #### Kursmaterial für drei Wochen
 
 * Täter- & Opferhaltungen
-* Ausstieg aus Täter- & Opferhaltungen
 * Sexuelle Gewalt: Opfer und Täterarbeit
+* Sexuelle Belästigung & Stalking am Arbeitsplatz
 * Sexualität und Alter
 * Sexualität und Behinderung
-* Klientengespräch: Opferbewältigung
-* Klientengespräch: Täter Präventionsarbeit
-* Klientengespräch: Sexualität und Behinderung
-* Klientengespräch: Sexualität und Alter
-* Klientengespräch: Frau hat heimlich Sexvideos gemacht und droht 
 * Bonusmaterial aus anderen Onlineausbildungen 
+* Klientengespräch: Umgang sexuelle Belästigung am Arbeitsplatz
+* Klientengespräch: Sexualität und Alter
+* Klientengespräch: Frau hat heimlich Sexvideos gemacht und droht
+* Klientengespräch: 8-jähriger Sohn hat Porno in der Schule angesehen
+
 
 {{% /small  %}}
 
