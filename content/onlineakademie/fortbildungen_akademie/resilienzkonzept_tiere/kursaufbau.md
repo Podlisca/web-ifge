@@ -26,7 +26,7 @@ weight: 1
 Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ stellt sich aus Lehrseminaren der Onlineausbildung zum [Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) zusammen.
 
 
-* **Start sofort nach Zahlungseingang**
+
 
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen

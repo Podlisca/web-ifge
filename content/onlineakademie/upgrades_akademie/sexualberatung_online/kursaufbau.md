@@ -24,7 +24,7 @@ weight: 1
 
 ## Organisatorisches 
 
-* **Start sofort nach Zahlungseingang**
+
 * **Ausführliche Online-Vorlesungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung

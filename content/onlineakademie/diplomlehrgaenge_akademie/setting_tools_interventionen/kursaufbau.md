@@ -22,7 +22,7 @@ weight: 1
 
 ## Organisatorisches 
 
-* **Start sofort nach Zahlungseingang**
+
 * **Ausführliche Online-Videos**
 * Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen

@@ -27,7 +27,7 @@ weight: 1
 
 
 
-* **Start sofort nach Zahlungseingang**
+
 * Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
