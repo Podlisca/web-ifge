@@ -47,7 +47,7 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
 
 #### Praktische Tage
 

@@ -35,7 +35,7 @@ Inhalt des Upgrades ist auch die [**SGF Methode®**](https://www.ifge.at/praesen
 
 
 
-{{< buchung-vorauswahl text="KURS VORBESTELLEN" veranstaltung="KURS VORBESTELLEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
