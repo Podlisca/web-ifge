@@ -40,7 +40,7 @@ BIC: BKAUATWW
 zu überweisen. Bitte geben Sie als Verwendungszweck "Familienaufstellung - SGF Methode® - Lösungssätze + Ihren Namen" an.
 
 
-Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen.  
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten geschaut werden.  
 
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
 
