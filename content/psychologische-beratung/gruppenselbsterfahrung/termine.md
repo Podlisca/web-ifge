@@ -38,8 +38,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-**15.03.2023** 09:30 - 13:30 Uhr</br>
-**14.04.2023** 14:00 - 20:00 Uhr</br>
+#### Eintagesseminare
+
 **20.05.2023** 10:00 - 16:00 Uhr</br>
 **31.05.2023** 09:30 - 13:30 Uhr</br>
 **18.06.2023** 09:00 - 18:00 Uhr</br>
@@ -80,8 +80,16 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
 
-**13.04.2023**	14:00 - 20:00 Uhr</br>
-**15.03.2023**	09:30	13:30 Uhr</br>
+#### Dreitages Seminar
+
+**Freitag, 18.08.2023** von 14:00 bis 20:00 Uhr</br>
+**Samstag, 19.08.2023** von 10:00 bis 18:00 Uhr</br>
+**Sonntag, 20.08.2023** von 10:00 bis 17:00 Uhr</br>
+
+Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
+
+#### Eintagesseminare
+
 **18.05.2023**	14:00 - 20:00 Uhr</br>
 **31.05.2023**	09:30	13:30 Uhr</br>
 **01.06.2023**	14:00 - 20:00 Uhr</br>
@@ -114,6 +122,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Niederösterreich
 {{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
+#### Eintagesseminare
 
 **07.05.2023**  10:00 - 16:00 Uhr</br>
 **14.05.2023**  10:00 - 16:00 Uhr</br>
@@ -157,9 +166,9 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{% small  %}}
 **Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
-Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 

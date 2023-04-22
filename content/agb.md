@@ -43,7 +43,7 @@ Das Honorar ist vorab zu überweisen. Bankdaten: Bank Austria IBAN: AT42 1200 00
 
 Einzelstunden müssen mind. 48 Stunden vorher telefonisch, per E-Mail, WhatsApp oder SMS abgesagt werden. Anderenfalls werden diese voll verrechnet.
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig.
+Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise entnehmen Sie bitte dem Angebot.
 
 Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) – Silvia Podlisca e.U nicht für Verletzungen oder Schäden jeglicher Art - weder bei Mensch noch bei Tier. Die Institutskatzen halten sich bei Veranstaltungen im Unterrichts-/Seminarraum in Wien auf.
 
@@ -83,6 +83,3 @@ Auf Wunsch des Der Klient/Die Klientin Silvia Podlisca von der Verschwiegenheit 
 
 Eine Entbindung von Silvia Podlisca von der Verschwiegenheitspflicht bedeutet jedoch nicht, dass Silvia Podlisca zur Auskunftserteilung auch verpflichtet ist.
 
-9 Besonderheit:
-
-In den Räumlichkeiten in Wien halten sich die Institutskatzen auf, in Ausbildungspausen auch fallweise die Institutshunde. Die Tiere werden in die psychosozialen Beratungen auf Wunsch einbezogen.

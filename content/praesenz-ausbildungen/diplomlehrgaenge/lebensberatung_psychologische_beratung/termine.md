@@ -73,7 +73,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 {{% /small  %}}
 {{% /box %}}
 
-**Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **5 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
+**Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **3 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
 
 ***Ich freue mich, Sie am IFGE oder in unserem digitalen Ausbildungsraum kennenzulernen!***
 
@@ -185,9 +185,9 @@ Aufgrund der geänderten Ausbildungsverordnung werden in St. Pölten keine weite
 {{% small  %}}
 **Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
-Sollten Sie in Pinkafeld übernachten wollen: das Stadthotel Pinkafeld ist in 5 Gehminuten erreichbar.
+Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 5 Gehminuten vom Bahnhof erreichbar.
+**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
