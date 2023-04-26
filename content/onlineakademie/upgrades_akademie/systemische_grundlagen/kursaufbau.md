@@ -112,7 +112,7 @@ Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter\*innen **Feedback über 
 * Geburtskanal & zur Entscheidung stehen
 * Kraftbad
 * Abschlussmeditation
-* Bonusmaterial aus anderen Onlineausbildungen 
+* Bonusmaterial: Tiefenpsychologische Ansätze 
 
 {{% /small  %}}
 
@@ -131,7 +131,9 @@ Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter\*innen **Feedback über 
 * Psychosomatik - Körperaufstellungen (kollektive Aufarbeitung)
 * Fachdiskussion: Psychosomatik - Körperaufstellungen & persönliche Aufarbeitung
 * Schweres Schicksal annehmen
-* Bonusmaterial aus anderen Onlineausbildungen 
+* Bonusmaterial: Die Glaubensatzaufstellung
+* Bonusmaterial: Klientengespräch: Gewitterangst / Tool: Systemische Tieraufstellung
+* Hundegestütztes Setting: Folgegespräch zum Thema Gewitterangst
 
 
 {{% /small  %}}
@@ -152,6 +154,11 @@ Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter\*innen **Feedback über 
 * Engelsmacherin
 * Sexuelle Gewalt: Vergewaltigung - Kind
 * Ahnenreihe
+* Lebensthemen aufstellen
+* Bonusmaterial: 8 Arten der Liebe & Dreieckstheorie
+* Bonusmaterial: Denken & Problemlösung: Tool Lebenslinie
+* Bonusmaterial: Bonusmaterial: Hilfreiche Fragestellungen
+
 
 {{% /small  %}}
 
