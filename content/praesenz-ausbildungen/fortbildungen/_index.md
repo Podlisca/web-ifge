@@ -17,9 +17,9 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-****  
 
-***
+
+
 #### Diplomausbildungen
 ***
 {{% kursbox %}}

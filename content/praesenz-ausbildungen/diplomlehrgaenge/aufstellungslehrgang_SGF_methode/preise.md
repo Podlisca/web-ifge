@@ -37,7 +37,7 @@ weight: 2
 
 * Monatliche Raten: 500,- Anzahlung / 9 Raten a € 500,- (Gesamt 5.000,-)
 
-
+**Die Ausbildung ist nur komplett buchbar.**
 
 <br/>
 

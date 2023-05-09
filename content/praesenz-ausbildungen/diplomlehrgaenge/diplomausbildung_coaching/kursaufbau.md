@@ -27,7 +27,7 @@ weight: 1
 
 ### Seminarinhalte
 
-240 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+240 Ausbildungsstunden mit max. 15 Teilnehmer*innen
 
 * Coaching im beruflichen Kontext
 * Themen im Coaching
@@ -52,7 +52,7 @@ Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwes
 ***
 
 ## BESTÄTIGUNG
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine Bestätigung über 240 Stunden fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
@@ -60,8 +60,9 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 ## Leitung
 
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
-* Michalea Böhm
 
 
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}
 

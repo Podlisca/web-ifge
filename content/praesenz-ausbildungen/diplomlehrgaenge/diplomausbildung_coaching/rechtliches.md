@@ -72,3 +72,5 @@ Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet o
 
 {{% /small  %}}
 {{% /box %}}
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}

@@ -24,114 +24,52 @@ weight: 3
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-# Termine
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
+#### Termine am IFGE Burgenland (Pinkafeld)
 
-{{< line icon="icon/termin_kursplan.png" >}}
-## Informationsveranstaltung
+{{% floatbox %}}
 
-
-Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
-
-Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
-
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
-
-{{< line icon="icon/termin_kursplan.png" >}}
-## Nächste Kurse & Lehrpläne 
+{{< image src="/img/seminarraum1.jpg" title="Coachingausbildungen gibt es mittlerweile wie Sand am Meer – weshalb soll ich als diplomierter Lebensberater\*in -psychosozialen Berater\*in, Aufstellungsleiter\*in oder Supervisor\*in auch noch eine Coachingausbildung absolvieren? Die Diplomausbildung Coaching am IFGE bietet einen enorm hohen Praxisbezug und Sie lernen jeden einzelnen Schritt, welchen Sie als Coach gemeinsam mit Ihrem Coachee setzen, psychologisch zu betrachten. Dies verhindert, dass das Tempo die Lösung verhindert und gleichzeitig lernen Sie wie Sie mit Ihrem Coachee beim Prozess und der Lösung bleiben können auch ohne jahrelange Aufarbeitung der emotionalen Hindernisgründe."float="left " >}}
 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
 
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+#### Start: 14. September 2024
 
+**ca. alle 2 Wochen samstags von 09:00 bis 18:00 Uhr**
 
-#### Start: derzeit nicht geplant
-
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-
-#### Start: derzeit nicht geplant
-
-{{% /small  %}}
-
-{{% small  %}}
-
-#### Niederösterreich
-
-{{< slider content="/img/redezeit/redezeit_1.jpg,/img//redezeit/redezeit_2.jpg,/img//redezeit/redezeit_3.jpg,/img/redezeit/redezeit_logo.png" >}}
-
-#### 02. September 2023
-
-Standort: Redezeit/ Baden bei Wien 
-
-**Seminarzeiten:** 
-Wochenendkurs, Samstag und Sonntag von 09:00 bis 18:00 Uhr. 
-
-02.09.2023
-03.09.2023
-09.09.2023
-10.09.2023
-16.09.2023
-17.09.2023
-23.09.2023
-24.09.2023
-30.09.2023
-01.10.2023
-07.10.2023
-08.10.2023
-14.10.2023
-15.10.2023
-21.10.2023
-22.10.2023
-04.11.2023
-05.11.2023
-11.11.2023
-12.11.2023
-18.11.2023
-19.11.2023
-25.11.2023
-26.11.2023
-02.12.2023
-03.12.2023
-09.12.2023
-10.12.2023
-16.12.2023 
-<br> 
- 
-**Prüfung: 17.12.2023**<br/>
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
-[Termine herunterladen](/downloads/Diplomlehrgang_Coaching_Baden.pdf)
+14.09.24 /	
+28.09.24 /	
+12.10.24 /	
+26.10.24 /	
+09.11.24 /	
+23.11.24 /	
+07.12.24 /	
+21.12.24 /	
+18.01.25 /	
+01.02.25 /	
+15.02.25 /	
+01.03.25 /	
+15.03.25 /	
+29.03.25 /	
+12.04.25 /	
+26.04.25 /	
+10.05.25 /	
+24.05.25 /	
+07.06.25 /	
+21.06.25 /	
+13.09.25 /	
+27.09.25 /	
+11.10.25 /	
+25.10.25 /	
+15.11.25 /	
+29.11.25 /	
+13.12.25 /
+10.01.26 /
+24.01.26 /
+31.01.26 /
 
 
-{{% /small  %}}
 
-{{% /box %}}
-
-{{< line icon="icon/bus.png" >}}
-
-{{% box blue=1 %}}
-{{% small  %}}
-**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
-
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
-
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
-
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
+[**Termine herunterladen**](coachinglehrgang_termine_2024)
 
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
-
-
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}

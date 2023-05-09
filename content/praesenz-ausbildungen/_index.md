@@ -57,9 +57,9 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 ## Unsere Ausbildungen im Überblick
 
-****  
 
-***
+
+
 #### Diplomausbildungen
 ***
 {{% kursbox %}}
