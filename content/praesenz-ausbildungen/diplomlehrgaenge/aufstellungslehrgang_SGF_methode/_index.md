@@ -80,16 +80,15 @@ In beiden Fällen unterstützt eine Familienaufstellung uns selbst besser kennen
 Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silvia Podlisca** nicht nur das kollektive System Familie, sondern auch individuelle Bedürfnisse, Sichtweisen und Erlebnisse. So können Probleme und Prozesse ganzheitlich verstanden und nachhaltige Lösungswege erarbeitet werden. 
 
 
-
-
-
-
 {{% /small %}}
 
 
 </div> 
 
-{{< line icon="icon/info_tuerkis.png" >}}
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
+
+{{< line icon="icon/diplomlehrgang.png" >}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
@@ -101,12 +100,14 @@ Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silv
 
 {{% /iconmenu %}}
 
-*** 
+***
+
+
 
 ## SGF®-Methode: Familienaufstellung nach Silvia Podlisca.
 
 ***
-{{% box more=1 blue=1 %}}
+{{% box more=1 =1 %}}
 
 {{< card-more icon="icon/gruppengroesse.png" title="SGF®-Methode: Was das ist und was es kann.">}}
 
@@ -128,11 +129,5 @@ Wir können familiäre Vergangenheit nicht ändern, aber wir können uns damit v
 
 {{% /box %}}
 
-
-
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-#### Lernen am IFGE - auch unter Covid
-
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen integrierte Lüftungssysteme oder Luftfilter für zusätzliche Sicherheit. 
-
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
 

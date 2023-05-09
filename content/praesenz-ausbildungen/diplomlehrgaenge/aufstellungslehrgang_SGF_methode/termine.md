@@ -11,6 +11,64 @@ weight: 3
 # Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca
 {{< slogan >}}
 
+
+***
+## Die SGF®-Methode. 
+## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
+
+{{< line icon="icon/termine.png" >}}
+
+#### Termine am IFGE Burgenland (Pinkafeld)
+
+{{% floatbox %}}
+
+{{< image src="/img/seminarraum1.jpg" title="Coachingausbildungen gibt es mittlerweile wie Sand am Meer – weshalb soll ich als diplomierter Lebensberater\*in -psychosozialen Berater\*in, Aufstellungsleiter\*in oder Supervisor\*in auch noch eine Coachingausbildung absolvieren? Die Diplomausbildung Coaching am IFGE bietet einen enorm hohen Praxisbezug und Sie lernen jeden einzelnen Schritt, welchen Sie als Coach gemeinsam mit Ihrem Coachee setzen, psychologisch zu betrachten. Dies verhindert, dass das Tempo die Lösung verhindert und gleichzeitig lernen Sie wie Sie mit Ihrem Coachee beim Prozess und der Lösung bleiben können auch ohne jahrelange Aufarbeitung der emotionalen Hindernisgründe."float="left " >}}
+
+
+
+#### Start: 07. September 2024
+
+**ca. alle 2 Wochen samstags von 09:00 bis 18:00 Uhr**
+
+07.09.24 /
+21.09.24 /
+05.10.24 /
+19.10.24 /
+02.11.24 /
+16.11.24 /
+30.11.24 /
+14.12.24 /
+11.01.25 /
+25.01.25 /
+08.02.25 /
+22.02.25 /
+08.03.25 /
+22.03.25 /
+05.04.25 /
+26.04.25 /
+10.05.25 /
+24.05.25 /
+14.06.25 /
+28.06.25 /
+06.09.25 /
+20.09.25 /
+04.10.25 /
+18.10.25 /
+25.10.25 /
+08.11.25 /
+22.11.25 /
+06.12.25 /
+13.12.25 /
+20.12.25 Prüfungstag
+
+
+
+[**Termine herunterladen**](termine_sgf_lehrgang_2024)
+
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
+
+
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% iconmenu %}}
@@ -22,93 +80,10 @@ weight: 3
 {{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
 {{% /iconmenu %}}
 
-***
-## Die SGF®-Methode. 
-## Systemisch-Ganzheitliche-Familienaufstellung nach Silvia Podlisca.
-
-{{< line icon="icon/termine.png" >}}
-
-#### Termine
-
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
-
 {{< line icon="icon/silvia.png" >}}
 
 ## Der erste Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
-***
 
-{{% box top-align=1 %}}
-{{% small %}}
-#### Wien
-
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-#### Termine folgen
-
-
-
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-#### Start: 29. August 2023
-
-**immer dienstags von 09:00 bis 18:00 Uhr**
-
-29.08.23
-05.09.23
-12.09.23
-19.09.23
-26.09.23
-03.10.23
-10.10.23
-17.10.23
-24.10.23
-07.11.23
-14.11.23
-21.11.23
-28.11.23
-05.12.23
-12.12.23
-19.12.23
-09.01.24
-16.01.24
-23.01.24
-30.01.24
-06.02.24
-13.02.24
-20.02.24
-27.02.24
-05.03.24
-12.03.24
-19.03.24
-02.04.24
-09.04.24
-16.04.24 - Prüfung
-
-[Termine herunterladen](/downloads/termine_sgf.pdf)
-
-Hier geht es zur [Anmeldung](https://www.ifge.at/anmeldung/)
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Niederösterreich
-
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-#### Termine folgen
-
-
-
-
-{{% /small  %}}
-
-{{% /box %}}
 
 
 {{< line icon="icon/bus.png" >}}
@@ -122,7 +97,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 **Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
-{{% /small %}}
+
 
 
 

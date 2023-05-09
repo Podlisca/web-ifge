@@ -22,7 +22,7 @@ weight: 1
 {{< line icon="icon/info_tuerkis.png" >}}
 
 ## AUFBAU DES LEHRGANGS 
-6 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
+6 Ausbildungsstunden mit max. 15 TeilnehmerInnen.
 
 ### Seminarinhalte
 

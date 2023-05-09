@@ -37,17 +37,11 @@ weight: 2
 
 * Monatliche Raten: 500,- Anzahlung / 9 Raten a € 500,- (Gesamt 5.000,-)
 
-**AKTION bei Anmeldung bis 31.05.2022 – Einführungspreis**
 
-* Einmalzahlung: 500,- Anzahlung / € 3.500,- Restzahlung ein Monat vor Beginn<br/>
-
-* Modulzahlung: 500,- Anzahlung / 3 Zahlungen a 1.250,- immer ein Monat vor Beginn (Gesamt 4.700,-)<br/>
-
-* Monatliche Raten: 500,- Anzahlung / 9 Raten a € 450,- (Gesamt 4.550,-)
 
 <br/>
 
 Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
 

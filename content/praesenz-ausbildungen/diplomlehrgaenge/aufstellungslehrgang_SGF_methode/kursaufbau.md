@@ -93,7 +93,7 @@ rich_faq:
 
 Die Vermittlung der Lehrinhalte erfolgt anhand von Praxisfällen. 100%iges praxisorientiertes Erarbeiten des Lernstoffes anhand von Aufstellungen und Fallbesprechungen. 
 
-240 Ausbildungsstunden auf 2 bis max. 3 Semester mit **max. 12 Teilnehmer*innen.**
+240 Ausbildungsstunden auf 2 bis max. 3 Semester mit **max. 15 Teilnehmer*innen.**
 
 ***
 
@@ -108,12 +108,12 @@ Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwes
 ***
 
 ## BESTÄTIGUNG
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine Bestätigung über **240 Stunden fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 
-
+{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
 
 
 

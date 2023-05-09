@@ -36,9 +36,8 @@ weight: 4
 
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Diplom des Institut für ganzheitliches Erleben ab. 
 
-Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
-
-Mind. 8 TeilnehmerInnen / Max. 12 TeilnehmerInnen
+Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. 
+Mind. 8 TeilnehmerInnen / Max. 15 TeilnehmerInnen
 
 {{< line icon="icon/test_2.png" >}}
 {{% box blue=1 %}}

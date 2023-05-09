@@ -21,7 +21,7 @@ weight: 1
 
 
 ## AUFBAU DES LEHRGANGS 
-6 Ausbildungsstunden mit max. 12 TeilnehmerInnen.
+6 Ausbildungsstunden mit max. 15 TeilnehmerInnen.
 
 {{< line icon="icon/test.png" >}}
 
