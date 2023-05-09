@@ -86,7 +86,10 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **Samstag, 19.08.2023** von 10:00 bis 18:00 Uhr</br>
 **Sonntag, 20.08.2023** von 10:00 bis 17:00 Uhr</br>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8a40b7ef8dc5768028813a5dd027123e9ff804bb
 **Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
 **Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
 **Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
@@ -134,6 +137,10 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 **19.11.2023**  10:00 - 16:00 Uhr</br>
 **10.12.2023**  10:00 - 16:00 Uhr</br>
 
+
+**Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
+**Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
+**Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
 
