@@ -63,7 +63,7 @@ weight: 3
 
 
 
-[Termine herunterladen](termine_sgf_lehrgang_2024)
+[Termine herunterladen](/downloads/termine_sgf_lehrgang_2024)
 
 {{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
 

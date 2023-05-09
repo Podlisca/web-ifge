@@ -86,6 +86,11 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **Samstag, 19.08.2023** von 10:00 bis 18:00 Uhr</br>
 **Sonntag, 20.08.2023** von 10:00 bis 17:00 Uhr</br>
 
+
+**Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
+**Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
+**Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
+
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
 #### Eintagesseminare
@@ -124,8 +129,6 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 
 #### Eintagesseminare
 
-**07.05.2023**  10:00 - 16:00 Uhr</br>
-**14.05.2023**  10:00 - 16:00 Uhr</br>
 **04.06.2023**  10:00 - 16:00 Uhr</br>
 **15.10.2023**  10:00 - 16:00 Uhr</br>
 **19.11.2023**  10:00 - 16:00 Uhr</br>
