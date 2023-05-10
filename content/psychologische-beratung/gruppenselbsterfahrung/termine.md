@@ -40,6 +40,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 #### Eintagesseminare
 
+**12.05.2023** 10:00 - 16:00 Uhr</br>
 **20.05.2023** 10:00 - 16:00 Uhr</br>
 **31.05.2023** 09:30 - 13:30 Uhr</br>
 **18.06.2023** 09:00 - 18:00 Uhr</br>
