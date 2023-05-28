@@ -75,13 +75,10 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Niederösterereich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
-### 10.07. - 14.07.2023 <br/>
+### keine weiteren Termine <br/>
 
 
-Mo. - Do. 09:00 bis 18:00 Uhr<br/>
-Fr. 09:00 bis 14:00 Uhr<br/>
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-### [Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 {{% /small  %}}
 {{% /box %}}
