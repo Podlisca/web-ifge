@@ -33,13 +33,13 @@ weight: 3
 {{% /small %}}
 
 {{% small %}}
-## Du kannst sofort starten!
+## KURS VORBESRELLEN!
 
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
+Dieser Kurs ist gerade im Entstehen - bitte noch ein wenig Geduld.
 
-Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du schon los starten. Du willst noch schneller los legen - kein Problem! Mit einer **Sofortüberweisung** hast Du den Zugang noch am gleichen Tag.
+Gerne kannst Du diesen VORBESTELLEN. Die (An)Zahlung wird erst bei Kursstart fällig.
 
-**Viel Freude bei deiner Onlineausbildung**
+Herzlichst 
 
 {{< silvia >}}
 
