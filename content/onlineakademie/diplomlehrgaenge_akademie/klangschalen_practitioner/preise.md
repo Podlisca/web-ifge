@@ -23,13 +23,19 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
+## Sommeraktion bis 31.08.2023 
+**Spare jetzt € 450,-** auf die Onlineausbildung
+
+### Dein Aktionscode: **#SOMMERAKTION2023**
+
+Einfach den Aktionscode in das vorgesehene Feld beim Kauf eingeben und die **€ 450,-** werden dir automatisch abgezogen. Bei der Ratenzahlung retuziert sich die montaliche Rate auf € 510,- (statt € 600,-)
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
 
 * **Ratenzahlung: € 3.290,-** <br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>
-3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
+3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600,- €.<br/>
 
 * **Optional - Intensivtraining in Pinkafeld**  
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>

@@ -23,7 +23,7 @@ weight: 1
 
 
 ## Organisatorisches 
-
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
 
 * **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 

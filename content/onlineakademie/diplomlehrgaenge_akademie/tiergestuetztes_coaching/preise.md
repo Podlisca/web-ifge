@@ -23,6 +23,13 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
+## Sommeraktion bis 31.08.2023 
+**Spare jetzt € 450,-** auf die Onlineausbildung
+
+### Dein Aktionscode: **#SOMMERAKTION2023**
+
+Einfach den Aktionscode in das vorgesehene Feld beim Kauf eingeben und die **€ 450,-** werden dir automatisch abgezogen. Bei der Ratenzahlung retuziert sich die montaliche Rate auf € 510,- (statt € 600,-)
+
 * **Ausbildungskosten:€ 2.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
 

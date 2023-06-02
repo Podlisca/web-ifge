@@ -10,7 +10,7 @@ og_image: "/img/ks_team.jpg"
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
-
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
 {{% floatbox %}}
 
 {{< image src="/img/ks_team.jpg" title="Die Schwingungen der Klangschalen breiten sich im menschlichen Körper aufgrund des hohen Wassergehaltes sehr leicht und angenehm aus. Am IFGE lernen Sie die Klangschalenmassagen in den psychosozialen Beratungsprozess lösungsorientiert einzubauen. In der Ausbildung für Klangschalenmasse liegt der Focus auf eine losungsorientierte Gesprächsführung und auf körperorientierte Lösung der Blockaden"float="left">}}

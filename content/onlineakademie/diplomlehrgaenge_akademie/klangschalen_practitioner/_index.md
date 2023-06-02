@@ -38,6 +38,8 @@ rich_faq:
 
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
+
 <div class="box video">
 {{% small %}}
 

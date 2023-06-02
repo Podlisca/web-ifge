@@ -11,7 +11,7 @@ og_image: "/img/tier_coaching_1.jpg"
 {{< slogan >}}
 
 {{< line icon="icon/zitat.png" >}}
-
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
 {{% floatbox %}}
 
 {{< image src="/img/tier_coaching_1.jpg" title="Hunde in der psychologischen Beratung eignen sich besonders gut, da diese sowohl in der Praxis wie in der freien Natur eingesetzt werden können. Am IFGE lernen Sie WIE sie ihren eigenen Hund oder auch den Hund von Kunden\*innen zieldienlich einsetzen." float="left">}} 

@@ -23,7 +23,7 @@ weight: 3
 
 {{< line icon="icon/klangschale.png">}}
 ## Du kannst sofort starten
-
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
 Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du ab **los starten**. Gerne kannst Du dich auch zur **Infoveranstaltung** anmelden oder mich telefonisch unter +43 676 610 89 36 kontaktieren.
