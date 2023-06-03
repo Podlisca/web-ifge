@@ -1,6 +1,11 @@
 ---
 title: "Sexualberatung"
+menu:
+    main:
+        parent: psychologischeberatung_einzel
+        identifier: sexualberatung
 draft: false
+weight: 6
 description: "Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit."
 og_title: "Ausbildungsphilosophie am IFGE"
 og_image: "/img/wien_silvia.jpg"
@@ -30,28 +35,28 @@ og_image: "/img/wien_silvia.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/wien_silvia.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sex_wunsche1.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Sexuelle Gesundheit und sexuelles Wohl­ergehen haben einen großen Einfluss auf das allgemeine Wohl­befinden und sind für die meisten Menschen ebenso wichtig wie die Gesundheit.
+**Sexuelle Gesundheit** und **sexuelles Wohl­ergehen** haben einen großen Einfluss auf das **allgemeine Wohl­befinden** und sind für die meisten Menschen ebenso **wichtig** wie die **Gesundheit**.
 
-Ängste und Hemmungen, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, belastende Vorlieben oder Neigungen sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. 
+**Ängste und Hemmungen**, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, **belastende Vorlieben oder Neigungen** sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. 
 
-Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
+**Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität**. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
 
 {{< image src="/img/beratung_angehoerige_noe.jpg" float="right" title="Bildbeschreibung" >}}
 
-Mein besonderes Augenmerk in der Sexualberatung richte ich dabei seit Jahren ebenso auf Teilbereiche der Sexualität, die von Betroffenen oftmals als besonders belastend erlebt werden, die jedoch trotzdem häufig an den Rand des gesellschaftlichen Bewusstseins gedrängt werden. 
+Mein **besonderes Augenmerk** in der Sexualberatung richte ich dabei seit Jahren ebenso auf **Teilbereiche der Sexualität**, die von Betroffenen **oftmals als besonders belastend** erlebt werden, die jedoch trotzdem häufig an den Rand des **gesellschaftlichen Bewusstseins** gedrängt werden. 
 
-Dazu gehören etwa die zahlreichen Diskrepanzen, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. Sexualität im Alter findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
+Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. **Sexualität im Alter** findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
 
-Gerade wenn es um spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geht, fragen sich viele Menschen, ob Ihr Denken und Handeln „noch normal“ ist. Am IFGE vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für belebende sexuelle Höhenflüge sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
+Gerade wenn es um **spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geh**t, fragen sich viele Menschen, ob Ihr Denken und Handeln **„noch normal“ ist**. Am [IFGE](https://ifge.at/about/ueber_mich/) vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für **belebende sexuelle Höhenflüge** sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
 
-{{< image src="/img/bgld_perversion.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/sex_wuensche_2023.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Ein weiterer wichtiger Teil der Sexualberatung findet leider auch bei professionellen Berater*innen wenig bewusste Beachtung: Der Umgang mit belastenden Phantasien und Wünschen. Die Angst, die eigenen Phantasien nicht unter Kontrolle zu haben und vielleicht sogar zum Täter / Stalker zu werden, kann das eigene sexuelle Erleben empfindlich belasten. 
-Das Ausleben einer befriedigenden Sexualität ist des Weiteren für Opfer von sexueller Gewalt in vielen Fällen ohne psychologische Unterstützung schwer möglich. Manche Opfer können etwa nur mehr durch das Phantasieerleben von passiven Gewaltszenen Lust empfinden. Wie auch bei aktiven Gewaltphantasien ist hier besonders zu betonen, dass es sich bei sexuell gewalttätigen Phantasien in erster Linie um Gedankenkonstrukte handelt, die eben nicht real sind, welche die KlientInnen aber umso heftiger verunsichern können. 
+Ein weiterer wichtiger Teil der **Sexualberatung** findet leider auch bei professionellen Berater\*innen wenig bewusste Beachtung: Der **Umgang mit belastenden Phantasien und Wünschen**. Die Angst, die eigenen Phantasien nicht unter Kontrolle zu haben und vielleicht sogar zum Täter / Stalker zu werden, kann das eigene sexuelle Erleben empfindlich belasten. 
+Das Ausleben einer **befriedigenden Sexualität** ist des Weiteren für Opfer von sexueller Gewalt in vielen Fällen ohne psychologische Unterstützung schwer möglich. Manche Opfer können etwa nur mehr durch das Phantasieerleben von passiven Gewaltszenen Lust empfinden. Wie auch bei aktiven Gewaltphantasien ist hier besonders zu betonen, dass es sich bei **sexuell gewalttätigen Phantasien in erster Linie um Gedankenkonstrukte** handelt, die eben nicht real sind, welche die KlientInnen aber umso heftiger verunsichern können. 
 
-Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen offen zu halten, um betroffene KlientInnen dabei zu unterstützen, selbst schauen und ihren individuellen Lösungsweg finden zu können. Eigene Bedürfnisse und Wünsche kennenzulernen, Erlebnisse zu verarbeiten, Freude am eigenen Körper und der Lust (wieder) finden, lernen die eigenen Grenzen und die des Partners/der Partnerin wahrzunehmen und zu achten, über Sexualität sprechen lernen, Respekt und Wertschätzung für sich und die Sexualpartner*innen zu entwickeln, sind häufige Themen in einer Sexualberatung.
+Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen offen zu halten, um betroffene Klient\*innen dabei zu unterstützen, selbst schauen und ihren **individuellen Lösungsweg** finden zu können. Eigene Bedürfnisse und Wünsche kennenzulernen, Erlebnisse zu verarbeiten, Freude am eigenen Körper und der **Lust (wieder) finden**, lernen die eigenen Grenzen und die des Partners/der Partnerin wahrzunehmen und zu achten, über Sexualität sprechen lernen, Respekt und Wertschätzung für sich und die Sexualpartner\*innen zu entwickeln, sind häufige Themen in einer Sexualberatung.
 
 {{% /floatbox %}}
 
@@ -74,49 +79,6 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 * Kinderlosigkeit
 * Verhütung
 * Sexualität und Alter
-
-{{< line icon="icon/sexualberatung.png" >}}
-
-### Speziell für Jugendliche
-## ...WEIL ES MANCHMAL VERWIRREND IST, ERWACHSEN ZU WERDEN
-
-<div class="box video">
-{{% small %}}
-
-### Aufklärung
-das erst Mal
-{{< youtube tcWXcaB1o_U >}}
-{{% /small %}}
-{{% small %}}
-{{% /small %}}
-{{% small %}}
-{{% /small %}}
-</div> 
-
-
-{{< line icon="icon/sexualberatung.png" >}}
-
-### DER VERHÜTUNGSKOFFER
-
-Hier kannst Du Dich über viele Verhütungsmethoden informieren und diese auch angreifen.
-
-{{% box top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/verhuetungskoffer_1.jpg" title="Verhütungsmethoden im Überblick: vom Kondom über Vaginalring, Antibabypille, Hormonpflaster u.v.m." >}}
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/verhuetungskoffer_2.jpg" title="Das Anschauungsmaterial bietet eine Übersicht über die verschiedenen hormonellen, natürlichen, mechanischen etc. Alternativen." >}}
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/verhuetungskoffer_3.jpg" title="Hier lernst Du den richtigen Gebrauch mit Kondomen." >}}
-{{% /small  %}}
-{{% /box %}}
-
-Sexualberatung ist auch einer meiner Schwerpunkte in der Ausbildung zum/zur Dipl. Lebens- und Sozialberater\*in. Sollten Sie sich für diese Ausbildung interessieren, folgen Sie dem angeführten Link.
-
-[Ausbildung Dipl. Lebens- und Sozialberater\*in](/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/)
 
 
 
