@@ -39,7 +39,7 @@ BIC: BKAUATWW
 zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Bindung und ihre Folgen für Erwachsene + Ihren Namen" an.
 
 
-Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten geschaut werden.  
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Jede Löschung eines Gerätes oder eines Browsers ist mit € 25,- (inkl. 20% Ust.) verbunden.   
 
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. " >}}
 
