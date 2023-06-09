@@ -68,7 +68,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 #### Online: Juni 2023
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**24.06.2023**<br/>
+**08.06.2023**<br/>
 von 14:00 bis 18:00 Uhr
 <br/> 
 <br/> 
