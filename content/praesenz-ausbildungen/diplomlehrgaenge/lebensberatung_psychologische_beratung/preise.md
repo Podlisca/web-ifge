@@ -80,11 +80,6 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 * Bildungsscheck von € 250,-
 
 
-## Frühbucherbonus
-
-*Der Frühbucherbonus gilt immer bis zu 4 Monate vor Kursstart
-
-
 
 {{% /small  %}}
 {{% /box %}}
