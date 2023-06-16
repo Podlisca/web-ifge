@@ -106,7 +106,7 @@ office@ifge.at
 
 **Redezeit e.U.**
 
-Pfarrgasse 4 Top 9<br>
+Kaiser Franz Joseph-Ring 23<br>
 2500 Baden 
 
 [www.redezeit.at](https://www.redezeit.at)
