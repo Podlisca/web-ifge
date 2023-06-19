@@ -12,6 +12,7 @@
 
   {{ if hugo.IsProduction }}
     {{ partial "analytics" . }}
+    {{ partial "cookiebot" . }}
   {{ end }}
   
   <meta name="twitter:title" content="{{ .Params.Title }}"/>

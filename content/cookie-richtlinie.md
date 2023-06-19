@@ -43,3 +43,5 @@ Je nach Verwendungszweck und Funktion unterteilen wir die von der Website verwen
 Der Nutzer kann seinen Webbrowser so einstellen, dass das Speichern von Cookies auf seinem Endgerät generell verhindert wird beziehungsweise er jedes Mal gefragt wird, ob er mit dem Setzen von Cookies einverstanden ist. Einmal gesetzte Cookies kann der Nutzer jederzeit wieder löschen. Wie das Ganze funktioniert, wird in Hilfe-Funktion des jeweiligen Webbrowsers beschrieben.
 
 Eine generelle Deaktivierung von Cookies kann gegebenenfalls zu Funktionseinschränkungen dieser Website führen.
+
+{{< cookiebot_dsgvo >}}
