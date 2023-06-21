@@ -7,9 +7,13 @@
   <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width,minimum-scale=1">
-  
+  <meta name="viewport" content="width=device-width,minimum-scale=1">  
   <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
+
+  {{ if hugo.IsProduction }}
+    {{ partial "analytics" . }}
+    {{ partial "cookiebot" . }}
+  {{ end }}
   
   <meta name="twitter:title" content="{{ .Params.Title }}"/>
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription}}">
@@ -39,10 +43,6 @@
   {{- $nav := resources.Get "/css/nav.css" -}}
   {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
   <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}"/>
-
-  {{ if hugo.IsProduction }}
-    {{ partial "etracker" . }}
-  {{ end }}
 </head>
 
 <body>
