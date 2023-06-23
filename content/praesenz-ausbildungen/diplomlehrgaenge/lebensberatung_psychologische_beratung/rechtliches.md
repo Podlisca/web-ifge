@@ -121,7 +121,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-Termine folgen 
+[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}

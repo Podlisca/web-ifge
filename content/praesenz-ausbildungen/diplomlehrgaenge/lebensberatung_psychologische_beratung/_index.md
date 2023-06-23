@@ -126,7 +126,7 @@ Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-Termine folgen 
+[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}

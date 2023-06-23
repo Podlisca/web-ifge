@@ -80,7 +80,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-Termine folgen 
+[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
 
 {{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 

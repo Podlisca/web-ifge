@@ -102,7 +102,7 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-Termine folgen 
+[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}
@@ -196,7 +196,7 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-Termine folgen 
+[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
 
 {{% /small  %}}
 {{% /box %}}

@@ -62,7 +62,7 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-#### Termine folgen 
+#### [Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
 
 {{% /small  %}}
 {{% small  %}}
