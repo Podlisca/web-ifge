@@ -44,13 +44,13 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 inkl. 120 Std. Gruppenselbsterfahrung und **90 Stunden Gruppensupervision für die fachliche Tätigkeit**
 
 * Einmalzahlung: € 10.500,-<br/>
-**Einmalzahlung mit Frühbucherbonus\*: € 9.900,- \***
+
 
 * Semesterzahlung: € 2.300,- pro Semester (Gesamtsumme € 11.500,-)<br/>
-**Semesterzahlung mit Frühbucherbonus: € 2.150,- pro Semester (Gesamtsumme: € 10.750,-)\***
+
 
 * Ratenzahlung: € 500,- Anzahlung bei Anmeldung plus 30 monatliche Raten à € 390,- beginnend mit Kursstart (Gesamtsumme: € 12.200,-)<br/>
-**Ratenzahlung mit Frühbucherbonus: € 380,- pro Rate (Gesamtsumme: € 11.900,-)\*** 
+
 
 
 Für die Administration und die online Praktikumsübersicht & Praktikumsverwaltung ist einmalig, für die gesamte Ausbildungszeit, eine Summe von € 300,- zu bezahlen. Gerne kann die Summe auf die 5 Semester aufgeteilt werden (€ 60,- pro Semester).
@@ -71,18 +71,13 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 {{% box blue=1 %}}
 {{% small  %}}
 
-## An den Infoabenden erhältlich:
+## Nur an den Infoabenden erhältlich:
 
 {{% box blue=1 top-align=1 %}}
 {{% small  %}}
 
 
-* Bildungsscheck von 100,-
-
-
-## Frühbucherbonus
-
-*Der Frühbucherbonus gilt immer bis zu 4 Monate vor Kursstart
+* Bildungsscheck von € 250,-
 
 
 

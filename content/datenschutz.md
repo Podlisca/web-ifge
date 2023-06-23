@@ -199,3 +199,5 @@ Zum Schutz Ihrer Anfragen per Internetformular verwenden wir den Dienst reCAPTCH
 
 ### Abschließend ein Danke
 Entwickelt von den Legal Tech Spezialisten von Willing & Able, die auch das System für das digitale [Verarbeitungsverzeichnis](https://abletorecords.com/) entwickelt haben. Die Texte des Datenschutzerklärungs-Generators wurden von [Prof. Dr. h.c. Heiko Jonny Maniero](https://dg-datenschutz.de/) und Rechtsanwalt [Christian Solmecke](https://www.wbs-law.de/) erstellt und publiziert
+
+{{< cookiebot_dsgvo >}}

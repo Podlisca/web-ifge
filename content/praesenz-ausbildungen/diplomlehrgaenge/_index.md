@@ -19,7 +19,7 @@ aliases:
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-****  
+
 
 ***
 #### Diplomausbildungen
