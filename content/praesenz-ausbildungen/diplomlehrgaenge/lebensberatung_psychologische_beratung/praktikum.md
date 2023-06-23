@@ -49,7 +49,42 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 * mindestens 100 nachgewiesene Supervisionseinheiten (10 Einzel- und 90 Gruppensupervision), davon mindestens 10 Einzelsupervisionseinheiten
 * **Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten!** Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren\*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor\*innen](/about/ifge_supervisoren/) die die Voraussetzungen erfüllen.
 
- 
+ {{< line icon="icon/termin_kursplan.png" >}}
+
+## Termine & Anmeldung
+***
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Burgenland - LSB 22
+#### Start: 4. September 2023
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+
+
+**immer montags von 14:00 bis 20:00 Uhr**
+
+[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
+
+
+{{% /small  %}}
+
+
+{{% small  %}}
+
+#### Wien - LSB 24
+#### Start: 09. Februar 2024 
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+
+**immer freitags von 14:00 bis 20:00 Uhr**
+
+Termine folgen 
+
+{{% /small  %}}
+{{% /box %}}
+
+***
 
 **Darüber hinaus sind folgende Tätigkeiten bis zum angeführten Höchstausmaß als fachliche Tätigkeit voll anzurechnen:**
 
@@ -62,7 +97,8 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesgesetzblatt § 3 und § 4 Abs. 2) absolvierte Einzelselbsterfahrung im Ausmaß von **mindestens 30 Stunden nachzuweisen**. [Hier finden Sie eine Liste von Berater*innen die die Voraussetzungen erfüllen](/about/ifge_selbsterfahrung/).
 
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+
+
 {{< line icon="icon/beratung.png" >}}
 
 ## Praktikumsplätze für psychosoziale Beratungen ab dem 5. Ausbildungssemester 
@@ -98,3 +134,38 @@ Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](https://www
 **Wenn Sie Fragen zur fachlichen Tätigkeit haben, helfe ich Ihnen sehr gerne weiter.** 
 
 {{< silvia >}}
+
+{{< line icon="icon/termin_kursplan.png" >}}
+
+## Termine & Anmeldung
+***
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Burgenland - LSB 22
+#### Start: 4. September 2023
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+
+
+**immer montags von 14:00 bis 20:00 Uhr**
+
+[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
+
+
+{{% /small  %}}
+
+
+{{% small  %}}
+
+#### Wien - LSB 24
+#### Start: 09. Februar 2024 
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+
+**immer freitags von 14:00 bis 20:00 Uhr**
+
+Termine folgen 
+
+{{% /small  %}}
+{{% /box %}}

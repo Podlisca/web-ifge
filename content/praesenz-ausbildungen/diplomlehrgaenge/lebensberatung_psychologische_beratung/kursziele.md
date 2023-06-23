@@ -38,7 +38,7 @@ Ich habe es mir zu Ziel gesetzt, Menschen dabei zu unterstützen, ihre Berufung 
 
 {{% silvia %}}
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+
 
 {{% /floatbox %}}
 
@@ -72,7 +72,40 @@ Die Themen, mit denen zukünftige Klient\*innen zu Lebens- und Sozialberater\*in
 
 {{% /floatbox %}}
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+{{< line icon="icon/termin_kursplan.png" >}}
+
+## Termine & Anmeldung
+***
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Burgenland - LSB 22
+#### Start: 4. September 2023
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+
+
+**immer montags von 14:00 bis 20:00 Uhr**
+
+[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
+
+
+{{% /small  %}}
+
+
+{{% small  %}}
+
+#### Wien - LSB 24
+#### Start: 09. Februar 2024 
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+
+**immer freitags von 14:00 bis 20:00 Uhr**
+
+Termine folgen 
+
+{{% /small  %}}
+{{% /box %}}
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
@@ -109,7 +142,7 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
 {{% /card-more  %}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Lebensberatung: 04.09.2023 in Pinkafeld" >}}
+
 
  {{< line icon="icon/zertifikat.png" >}}
  
@@ -133,7 +166,40 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
 {{% /box %}}
 
 
+{{< line icon="icon/termin_kursplan.png" >}}
 
+## Termine & Anmeldung
+***
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Burgenland - LSB 22
+#### Start: 4. September 2023
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+
+
+**immer montags von 14:00 bis 20:00 Uhr**
+
+[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
+
+
+{{% /small  %}}
+
+
+{{% small  %}}
+
+#### Wien - LSB 24
+#### Start: 09. Februar 2024 
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+
+**immer freitags von 14:00 bis 20:00 Uhr**
+
+Termine folgen 
+
+{{% /small  %}}
+{{% /box %}}
 
 
 
