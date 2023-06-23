@@ -61,17 +61,17 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{% /small  %}}
 
+
 {{% small  %}}
-#### Burgenland
+
+#### Burgenland 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 {{% /small  %}}
 {{% /box %}}
+
+
 
 **Kurs Hopping**: erleichtert Ihnen Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen nachzuholen oder schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Hier finden Sie die aktuellen Fahrpläne. Die Zweigstelle in Niederösterreich ist in **3 Gehminuten vom Haupbahnhof St. Pölten** erreichbar. Seitens der Kursleitung kann es zu Traineränderungen kommen. **Ab einer verbindlichen Anmeldung können Sie bereits mit dem Praktikum (bis zu 400 Stunden) am IFGE beginnen.**
 
@@ -84,99 +84,42 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 ## Nächste Kurse & Lehrpläne 
 **Aufgrund der geänderten Ausbildungsverordnung sind dies die letzten Kurse die am IFGE angeboten werden.**
 
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
-<div id="kurstermine">
-<div style="grid-area: wh">
-
-#### Wien
-
-***
-</div>
-<div style="grid-area: w1">
-
-Aufgrund der geänderten Ausbildungsverordnung werden in Wien keine weiteren Kurse mehr angeboten.
-
-***
-</div>
-<div style="grid-area: w2">
+Die Ausbildung findet zu **100% in Präsenz** statt. 
 
 
-{{% box blue=1 %}}
+
+{{% box top-align=1 %}}
 {{% small  %}}
 
+#### Wien - LSB 24
+{{< image src="/img/ifge_wien.jpg">}}
 
+#### Start: 09. Februar 2024
 
+**immer freitags von 14:00 bis 20:00 Uhr**
 
+Termine folgen 
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
 {{% /small  %}}
-{{% /box %}}
-</div>
-
-<div style="grid-area: w3">
-
-</div>
 
 
-<div style="grid-area: bh">
+{{% small  %}}
 
-#### Burgenland
-***
+#### Burgenland - LSB 22
+{{< image src="/img/seminarraum1.jpg">}}
 
-</div>
-<div style="grid-area: b1">
-
-## LSB 22
 #### Start: 4. September 2023
 
-Montags von 14:00 bis 20:00 Uhr
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
+**immer montags von 14:00 bis 20:00 Uhr**
 
 [Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
 
-</div>
-<div style="grid-area: b2">
-
-
-
-
-</div>
-
-<div style="grid-area: b4">
-
-
-
-</div>
-
-
-
-<div style="grid-area: nh">
-
-#### Niederösterreich
-***
-
-</div>
-<div style="grid-area: n1">
-
-Aufgrund der geänderten Ausbildungsverordnung werden in St. Pölten keine weiteren Kurse mehr angeboten.
-
-***
-
-</div>
-
-<div style="grid-area: n3">
-
-
-{{% box blue=1 %}}
-{{% small  %}}
-
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 {{% /small  %}}
 {{% /box %}}
-
-
-</div>
-</div>
 
 
 {{< line icon="icon/bus.png" >}}
