@@ -73,6 +73,22 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 {{% box top-align=1 %}}
 {{% small  %}}
 
+#### Burgenland - LSB 22
+{{< image src="/img/seminarraum1.jpg">}}
+
+#### Start: 4. September 2023
+
+**immer montags von 14:00 bis 20:00 Uhr**
+
+[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
+
+{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+
+{{% /small  %}}
+
+
+{{% small  %}}
+
 #### Wien - LSB 24
 {{< image src="/img/ifge_wien.jpg">}}
 
@@ -84,21 +100,6 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 
 {{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
-{{% /small  %}}
-
-
-{{% small  %}}
-
-#### Burgenland - LSB 22
-{{< image src="/img/seminarraum1.jpg">}}
-
-#### Start: 4. September 2023
-
-**immer montags von 14:00 bis 20:00 Uhr**
-
-[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
-
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 {{% /small  %}}
 {{% /box %}}
