@@ -196,7 +196,7 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
+[Termine LSB 24 herunterladen](/downloads/lsb_feb_2024.pdf)
 
 {{% /small  %}}
 {{% /box %}}

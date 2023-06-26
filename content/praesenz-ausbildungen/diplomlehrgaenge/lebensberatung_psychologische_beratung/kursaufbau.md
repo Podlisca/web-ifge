@@ -167,7 +167,7 @@ Die Vermittlung der Lehrinhalte erfolgt leicht verständlich und praxisorientier
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
-[Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
+[Termine LSB 24 herunterladen](/downloads/lsb_feb_2024.pdf)
 
 {{% /small  %}}
 {{% /box %}}
