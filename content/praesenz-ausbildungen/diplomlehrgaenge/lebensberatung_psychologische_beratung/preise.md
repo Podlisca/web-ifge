@@ -99,7 +99,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 #### Burgenland - LSB 22
 #### Start: 4. September 2023
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 
 **immer montags von 14:00 bis 20:00 Uhr**
@@ -115,7 +115,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
@@ -168,7 +168,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 #### Burgenland - LSB 22
 #### Start: 4. September 2023
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 
 **immer montags von 14:00 bis 20:00 Uhr**
@@ -184,7 +184,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 

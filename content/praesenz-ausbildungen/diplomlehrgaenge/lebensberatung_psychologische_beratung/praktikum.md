@@ -59,7 +59,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 #### Burgenland - LSB 22
 #### Start: 4. September 2023
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 
 **immer montags von 14:00 bis 20:00 Uhr**
@@ -75,7 +75,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
@@ -145,7 +145,7 @@ Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](https://www
 #### Burgenland - LSB 22
 #### Start: 4. September 2023
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 
 **immer montags von 14:00 bis 20:00 Uhr**
@@ -161,7 +161,7 @@ Den kompletten Gesetzestext finden Sie unter: [www.lebensberater.at](https://www
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 

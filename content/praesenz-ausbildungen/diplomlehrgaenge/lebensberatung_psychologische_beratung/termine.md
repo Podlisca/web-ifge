@@ -82,7 +82,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 
 [Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
 
 {{% /small  %}}
 
@@ -98,7 +98,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 
 [Termine LSB 24 herunterladen](/downloads/lsb_feb_2024.pdf)
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
 
 
 {{% /small  %}}

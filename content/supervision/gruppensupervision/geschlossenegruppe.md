@@ -91,7 +91,7 @@ Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Wien 2024 " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Wien 2024 " >}}
 
 {{% /small  %}}
 
@@ -122,7 +122,7 @@ Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-{{< buchung-vorauswahl text="Anmeldundg" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Burgenland 2024 " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Burgenland 2024 " >}}
 
 {{% /small  %}}
 {{% /box %}}
