@@ -163,7 +163,7 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer\*innen ist a
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/3_Standorte.png" >}}
+{{< line icon="icon/3_standorte.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
