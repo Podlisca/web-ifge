@@ -71,9 +71,9 @@
       {{ block "main" . }}
       {{ end }}
       
-      <!--{{ if ne .Type "blog"}}
+      {{ if ne .Type "blog"}}
         {{ partial "insta-feed.html" . }}
-      {{ end}} -->
+      {{ end}}
 
     </div>
     {{ partial "floating-button.html" "bottom" }}
