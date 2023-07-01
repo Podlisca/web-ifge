@@ -24,9 +24,11 @@ rich_logo: true
 <iframe ="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=IFGE+Wien&amp;maptype=roadmap" allowfullscreen="true">
 </iframe>
 
-### IFGE Wien
-Mariahilferstr. 76/4/39<br/>
-1070 Wien<br/>
+#### IFGE Wien - neue Adresse
+#### ab 21. August 2023 <br/>
+
+Hollandstraße 12/9<br/>
+1020 Wien<br/>
 
 {{% /small %}}
 
