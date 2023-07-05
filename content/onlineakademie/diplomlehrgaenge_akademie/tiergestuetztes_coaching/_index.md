@@ -228,8 +228,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 {{< line icon="icon/tiere.png" >}}
 
 
-{{% box more=1 blue=1 %}}
-{{< card-more icon="icon/storno.png" title="Allgemeine Geschäftsbedingungen" >}}
+### Allgemeine Geschäftsbedingungen
 
 **1.	Leistung**
 Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
@@ -266,8 +265,6 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 **6. Gerichtstand:**
 Wien, Österreich
 
-{{< /card-more >}}
-{{% /box %}}
 
 
 
