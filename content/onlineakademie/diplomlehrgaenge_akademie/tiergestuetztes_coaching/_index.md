@@ -37,8 +37,7 @@ rich_faq:
 ---
 
 # Onlineausbildung: Tiergestütztes Coaching 
-# LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Hunde, Katzen & Pferde
+# Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
 
@@ -46,44 +45,167 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** -  **Dein Aktionscode:** #SOMMERAKTION2023
 
-### Dein Aktionscode: **#SOMMERAKTION2023**
+<div class="box video">
+{{% small %}}
 
-{{% floatbox %}}
-{{% float-images %}}
+### Was ist Tiergestütztes Coaching?
+
 {{< youtube YNRC_J33d3Q>}}
-{{< linebreak >}}
-{{< youtube 5zAwhMLKe5c>}}
-{{< linebreak >}}
-{{% /float-images %}}
+##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
 
-#### Erfahre:
-Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
+{{% /small %}}
 
-Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
+{{% small %}}
 
-Welche **positiven Einflüsse Tiere** auf den Menschen haben
+####  Erfahre in über 145 Lehrvideos:
+* Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
 
-Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
-
-#### Deine Expertise auf dem nächsten Level
-Du wirst dich **persönlich sowie fachlich** hervorragend entwickeln und deine **Expertise** auf ein **neues Level** bringen, sodass du noch effizienter auf deine Klient\*innen eingehen und sie nachhaltiger begleiten kannst.
+* Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
+* Welche **positiven Einflüsse Tiere** auf den Menschen haben
+* Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
 
 **Dein flexibler Ausbildungsweg**
-Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
+Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. Du hast 3 Jahre Zugriff auf alle Videos. 
 
-</br>
+{{% /small %}}
+</div> 
 
-**Deine beruflichen Möglichkeiten**
+
+<div class="box video">
+{{% small %}}
+
+### Aufbau der Onlineausbildung
+
+{{< youtube 5zAwhMLKe5c>}}
+
+##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
+{{% /small %}}
+
+{{% small %}}
+#### Deine Expertise auf dem nächsten Level
+
+* Du wirst dich **persönlich sowie fachlich** hervorragend entwickeln und deine **Expertise** auf ein **neues Level** bringen, sodass du noch effizienter auf deine Klient\*innen eingehen und sie nachhaltiger begleiten kannst.
+
+
+* **Deine beruflichen Möglichkeiten**
 Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
 
-**Tierische Stimmung**
+* **Tierische Stimmung**
 Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient\*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
 
-**100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
+{{% /small %}}
+</div> 
+
+{{< line icon="icon/tiere.png" >}}
+
+# Hier drei kostenlose Lehrvideos für dich:
+##### (um die Videos sehen zu können, müssen die Cookies aktiviert sein)
+
+<div class="box video">
+{{% small %}}
+
+### Möglichkeit & Grenzen des Tiergestützten Coaching - Theorie
+{{< youtube 0PaEP6h_wQc>}}
+{{% /small %}}
+{{% small %}}
+
+### Klientengespräch mit Hund von Klientin: Trennung verarbeiten 
+{{< youtube 1i4cXuwfH4w >}}
+{{% /small %}}
+{{% small %}}
+
+### Klientengespräch mit Katzen: Umgang beruflicher Erfolg
+{{< youtube 4DxIm-3wNWI>}}
+{{% /small %}}
+
+</div> 
+
+## Du kannst sofort starten
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+
+***
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
+***
+
+
+
+{{% box more=1 blue=1 %}}
+{{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
+
+**Sommeraktion bis 31.08.2023** 
+**Spare jetzt € 450,-** 
+
+Einfach den Aktionscode in das vorgesehene Feld beim Kauf eingeben und die **€ 450,-** werden dir automatisch abgezogen. Bei der Ratenzahlung retuziert sich die montaliche Rate auf € 510,- (statt € 600,-)
+**Dein Aktionscode: #SOMMERAKTION2023**
+
+
+
+* **Ausbildungskosten:€ 2.980,-** <br/>
+Zahlung nach Anmeldung. <br/>
+
+
+* **Ratenzahlung: € 3.290,-** <br/>
+€ 290,- Zahlung sofort nach Anmeldung. <br/>
+3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
+
+
+* **Optional - Intensivtraining in Pinkafeld**  
+€ 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
+
+{{< /card-more >}}
+
+
+{{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+
+
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+zu überweisen. Bitte als Verwendungszweck "Onlineausbildung Tiergestütztes Coaching + Ihren Namen" angeben.
+
+
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung oder der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
+Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
+{{< /card-more >}}
+
+
+{{< card-more icon="icon/storno.png" title="Prüfung" >}}
+
+Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **96 Weiterbildungsstunden** bestätigt. 
+
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+
+Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Berufsverbands für tiergestützte psychologische Beratung](https://berufsverband-tiergestuetzteberatung.at/) kostenlos. 
+
+{{< /card-more >}}
+{{% /box %}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+
+####  Du bist noch unsicher? 
+Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mich telefonisch unter **+43 676 610 89 36** kontaktieren.
+
+
+
+<br/>
+
+{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
+
+
+
 {{< line icon="icon/tiere.png" >}}
 
 ## Tiere in der Beratung / im Coaching
@@ -103,61 +225,53 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 * Es ist eine zielgerichtete Intervention zur Verbesserung des allgemeinen Wohlergehens der Klient*innen. 
 * Es kann das Einbezogensein in die jeweiligen Lebenssituationen gefördert werden. Ein gutes Beispiel hierfür ist der Einsatz in Altersheimen.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
-{{% floatbox %}}
-
-# Hier ein kleiner Einblick in die Ausbildung:
-#### In Summe umfasst die Ausbildung über 145 Lehrvideos
-
-<div class="box video">
-{{% small %}}
-
-### Möglichkeit & Grenzen des Tiergestützten Coaching - Theorie
-{{< youtube 0PaEP6h_wQc>}}
-{{% /small %}}
-{{% small %}}
-
-### Klientengespräch mit Hund von Klientin: Trennung verarbeiten 
-{{< youtube 1i4cXuwfH4w >}}
-{{% /small %}}
-{{% small %}}
-
-### Klientengespräch mit Katzen: Umgang beruflicher Erfolg
-{{< youtube 4DxIm-3wNWI>}}
-{{% /small %}}
-
-
-</div> 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}{{< line icon="noun_Information_478770-2.png" >}}
-
-
-{{% iconmenu %}}
-{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
-{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
-{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
-{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
-{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
-{{% /iconmenu %}}
-
 {{< line icon="icon/tiere.png" >}}
 
 
-{{% floatbox %}}
-{{% box blue=1 %}}
-{{% small %}}
+{{% box more=1 blue=1 %}}
+{{< card-more icon="icon/storno.png" title="Allgemeine Geschäftsbedingungen" >}}
+
+**1.	Leistung**
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+
+**2.	Zugang** 
+* Die Ausbildung ist für alle offen
+
+Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-#### Ideal auch für Berufseinsteigerinnen
+Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
-{{< image src="/img/hunde_garten.jpg" title="Katzen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
-Hinweis: Sollten Sie an der Ausübung von tiergestützter Arbeit in bestimmten öffentlichen Einrichtungen interessiert sein, beachten Sie bitte, dass einige Institutionen neben der fundierten Schulung, welche die Berater\*innen am [IFGE](/about/institut/) erhalten, eventuell eine zusätzliche [Therapiehunde-Ausbildung](https://www.hundezentrum-wien.com/hundeschule/therapiehundeausbildung/) (3 Module + 4 Praxiseinheiten) voraussetzen. Bitte informieren Sie sich bei den betreffenden Institutionen vorab, ob Qualifikationen **von Ihrem Tier** erwartet werden, wenn Sie nicht in der freien Praxis praktizieren. Oftmals wird die IFGE Ausbildung voll anerkannt! 
+Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Diese Zustimmung kann nicht zurück genommen werden.  Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
 
-Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen wird Ihnen das benötigte Wissen von unseren Experten vermittelt, dass Sie benötigen um erfolgreich mit Tieren in der Beratung zu arbeiten. 
+**3.	Nutzungsbedingungen**
+Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
+Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
+Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
+Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
+Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
 
-{{% /small %}}
+**4. Garantie**
+IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
+
+**5. Storno Intensivwoche Pinkafeld**
+Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen.
+
+Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
+
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+
+**6. Gerichtstand:**
+Wien, Österreich
+
+{{< /card-more >}}
 {{% /box %}}
+
+
+
+
 
 
 
