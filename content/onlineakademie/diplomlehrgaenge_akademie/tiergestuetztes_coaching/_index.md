@@ -45,7 +45,7 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** -  **Dein Aktionscode:** #SOMMERAKTION2023
+
 
 <div class="box video">
 {{% small %}}
