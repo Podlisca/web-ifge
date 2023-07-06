@@ -63,12 +63,13 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 
 {{< line icon="icon/termin_kursplan.png" >}}
-## Termine & Anmeldung
+
+## Kursermine & Anmeldung
 **Aufgrund der geänderten Ausbildungsverordnung sind dies die letzten Kurse die am IFGE angeboten werden.**
 
 Die Ausbildung findet zu **100% in Präsenz** statt. 
 
-
+***
 
 {{% box top-align=1 %}}
 {{% small  %}}
