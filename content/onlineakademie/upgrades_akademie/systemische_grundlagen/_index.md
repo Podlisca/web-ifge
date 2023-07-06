@@ -51,12 +51,12 @@ Einer der besten Zugänge soziale **Systeme und ihre Auswirkungen** besser zu **
 
 Diese **100% Online-Ausbildung** vermittelt dir 
 
-* Grundlagen der psychosozialen [**Aufstellungsarbeit**](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/), sondern gewährt auch Einblicke in die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/), die **systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca**. 
-* Du erhältstjede **Menge Wissen zu Ansätzen, Methoden und Impulsen** im Kontext systemischer Aufstellungen. 
+* Grundlagen der psychosozialen [**Aufstellungsarbeit**](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/), gewähren dir Einblicke in die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/), die **systemisch ganzheitliche Familienaufstellung nach Silvia Podlisca**
+* Du erhältstjede **Menge Wissen zu Ansätzen, Methoden und Impulsen** im Kontext **systemischer Aufstellungen**
 
-* Die **Besonderheit** dieser Ausbildung ist, dass **jede Dynamik von Silvia Podlisca im Detail erklärt** wird. 
+* Die **Besonderheit** dieser Ausbildung ist, dass **jede Dynamik von Silvia Podlisca im Detail erklärt** wird
 * Im Anschluss werden in einer **Diskussionsrunde Fragen** und Herausforderungen thematisiert.<br/> 
-So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit bereichert.
+So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit bereichert
 
 {{< line icon="icon/beratung.png" >}}
 
