@@ -162,7 +162,7 @@ Zahlung nach Anmeldung. <br/>
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskauf die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
@@ -453,7 +453,9 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 **6. Gerichtstand:**
 Wien, Österreich
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
 
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 
 

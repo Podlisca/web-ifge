@@ -19,7 +19,6 @@ aliases:
 ---
 
 # Onlineausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®
-# LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 {{< slogan >}}
 
@@ -32,22 +31,26 @@ aliases:
 <div class="box video">
 {{% small %}}
 
+### Was macht die SGF Methode® so besonders?
 {{< youtube SPpsVyp5aLI>}}
 ##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
 
 {{% /small %}}
 
 {{% small %}}
-So **unterschiedlich Menschen** auch sind, wir haben alle eines gemeinsam: Unser Leben, unsere Bedürfnisse und damit unser Wohlbefinden wird maßgeblich durch unser **Umfeld beeinflusst**. Konkret durch **Systeme**, etwa in Beruf, Beziehungen oder Familie. Nicht selten erwachsen Ängste, Konflikte und Krisen aus (vergangenen) sozialen Strukturen. 
 
-Einer der besten Zugänge soziale **Systeme und ihre Auswirkungen** besser zu **verstehen** sind **[Aufstellungen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/)**. So werden Rollen deutlich, Barrieren spürbar und Dynamiken erkennbar. Dies wiederum hilft Menschen ihre Bedürfnisse, Persönlichkeit und Sorgen besser zu verstehen und Lösungswege zu erarbeiten.
+#### Lerne aus über 90 Lehrvideos 
+
+* So **unterschiedlich Menschen** auch sind, wir haben alle eines gemeinsam: Unser Leben, unsere Bedürfnisse und damit unser Wohlbefinden wird maßgeblich durch unser **Umfeld beeinflusst**. Konkret durch **Systeme**, etwa in Beruf, Beziehungen oder Familie. Nicht selten erwachsen Ängste, Konflikte und Krisen aus (vergangenen) sozialen Strukturen
+
+* Einer der besten Zugänge soziale **Systeme und ihre Auswirkungen** besser zu **verstehen** sind **Aufstellungen**. So werden Rollen deutlich, Barrieren spürbar und Dynamiken erkennbar. Dies wiederum hilft Menschen ihre Bedürfnisse, Persönlichkeit und Sorgen besser zu verstehen und Lösungswege zu erarbeiten.
 
 
 {{% /small %}}
 </div> 
 
   
-## Du erhältst über 90 Lehrvideos - für deinen Erfolg
+### Erhalte 
 
 Diese **100% Online-Ausbildung** vermittelt dir 
 
@@ -85,7 +88,7 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -112,7 +115,7 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskaufdie Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
@@ -141,7 +144,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -252,7 +255,7 @@ Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter\*innen **Feedback über 
 
 {{< card-more  title="Prüfung" >}}
 
-Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
+Der Lehrgang schließt mit **Online-Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
 Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
@@ -261,7 +264,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode®. " >}}
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -296,3 +299,7 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 
 **6. Gerichtstand:**
 Wien, Österreich
+
+{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " >}}
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
