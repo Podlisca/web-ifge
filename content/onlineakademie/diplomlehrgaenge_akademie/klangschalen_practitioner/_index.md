@@ -38,68 +38,47 @@ rich_faq:
 
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
-#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
+
 
 <div class="box video">
 {{% small %}}
+### Infos Rund um die Onlineausbildung
 
 {{< youtube qpCG3-DFpLc>}}
 
-
+##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
 {{% /small %}}
 
 {{% small %}}
 
-###  Erfahre:
+####  Erfahre in über 135 Lehrvideos:
 * Welche **großen Vorteile** die Arbeit mit Klangschalen anderen Methoden gegenüber hat
+
 * Wie Sie **prophylaktisch mit deinen Klient*innen** an ihren Themen arbeitest, um psychischen Krankheiten vorzubeugen
 * Welche **positiven Einflüsse Klangschalen** auf den Menschen haben
 * Wie sich die **Ausbildung zum/zur Klangschalen Practitioner** gestaltet und welche Möglichkeiten diese bietet 
+* Du hast **3 Jahre Zugriff** auf alle Lehrvideos. 
+
 
 {{% /small %}}
 </div> 
-
-### DICH ERWARTET - Deine Vorteile auf einen Blick
-
-* **Deine Expertise auf dem nächsten Level**
-<br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
-* **Dein flexibler Ausbildungsweg**<br/>
-Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
-* **Deine beruflichen Möglichkeiten**<br/>
-Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffnen sich dir neue berufliche Möglichkeiten. Nutze das erworbene Wissen privat oder baue dir ein neues Standbein in freier Praxis auf. 
-
-
-* **100% ONLINE** & individuelle, persönliche Betreuung - **3 Jahre Vollzugriff**
-
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
 
 
 ### Was bewirken die Schwingungen der Klangschale? 
 
 * **Veränderungen auf Zellebene (Epigenetik)** <br/>
 Nutze die Ausbildung, um eine einzigartige Methode kennenzulernen, mit der du nachhaltige Veränderungen auf Zellebene erzeugen kannst. So lösen sich verankerte Glaubenssätze und neue können implementiert werden.
+
 * **Tiefgehende Befreiung von Schmerzen**<br/>
 Du lernst Gefühl, Verstand und Intuition auf eine neue Art und Weise miteinander zu verbinden. Du kannst Schmerzen und psychosomatische Beschwerden auf einer tieferen Ebene behandeln.
 * **Mehrwert für deine Klient*innen**<br/>
 Nutze die einzigartige Methode, um neue Tools zu erlernen, mit denen du effektiver und ganzheitlicher auf die Probleme deiner Klient*innen eingehen kannst. Du wirst deine Arbeit auf ein neues Level heben und einen größeren Impact schaffen.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
 
-## Entspannung & Weiterentwicklung
+{{< line icon="icon/klangschale.png">}}
 
-{{% floatbox %}}
-Klangschalenbehandlungen überzeugen durch ihre **harmonisierende, wohltuende Wirkung**. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt. Häufig wird die Klangschalenmassage im Wellnessbereich angewandt, zum Entspannen und Krafttanken. Dies ist jedoch nur ein ausgewählter Bereich und es wäre schade, die Arbeit darauf zu beschränken.
-
-Silvia´s Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungsprozess oftmals große Wirkung zeigt. Insbesondere in der systemischen Arbeit, bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. **Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen?**
-
-Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns.
-
-{{% floatbox %}}
-
-***
-# Hier ein kleiner Einblick in die Ausbildung:
-#### In Summe umfasst die Ausbildung über 130 Lehrvideos
+# Hier drei kostenlose Lehrvideos für dich:
+##### (um die Videos sehen zu können, müssen die Cookies aktiviert sein)
 
 <div class="box video">
 {{% small %}}
@@ -120,39 +99,339 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}{{< line icon="noun_Information_478770-2.png" >}}
-{{% /floatbox %}}
+#### DICH ERWARTET - Deine Vorteile auf einen Blick
 
-
-
-{{% iconmenu %}}
-{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
-{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
-{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
-{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
-{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
-{{% /iconmenu %}}
+* **Deine Expertise auf dem nächsten Level**
+<br/>Du wirst dich persönlich sowie fachlich hervorragend entwickeln und deine Expertise auf ein neues Level bringen, sodass du noch effizienter auf deine Klient*innen eingehen und sie nachhaltiger begleiten kannst.
+* **Dein flexibler Ausbildungsweg**<br/>
+Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. 
+* **Deine beruflichen Möglichkeiten**<br/>
+Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffnen sich dir neue berufliche Möglichkeiten. Nutze das erworbene Wissen privat oder baue dir ein neues Standbein in freier Praxis auf. 
 
 {{< line icon="icon/klangschale.png">}}
 
+## Du kannst sofort starten
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{% floatbox %}}
-{{% box blue=1 %}}
-{{% small %}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Onlineausbildung: Klangschalen Practitioner" >}}
 
-#### Ideal auch für Berufseinsteigerinnen
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
-{{< image src="/img/klangschale_2021_7.jpg" title="Klangschalen in der psychologischen Beratung haben eine fast magische Wirkung auf Klienten\*innen.  Sie kommen oftmals sehr schnell tief in den Kontakt mit den Katzen und wie von selbst ergibt sich ein tiefer Zugang zu sich selbst." float="right" >}}
+***
+#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
+***
 
-In unseren Zellen haben wir jede unserer guten – aber auch jede unserer belastenden – Erfahrungen gespeichert. Nicht nur die persönlichen Erfahrungen sondern auch über die Ebene des kollektiven Bewusstseins, der sogenannten Familienseele, die unserer Vorfahren. Dieses Feld wird sehr genau von der Epienetik erforscht. Dieses kollektive Bewusstsein ist Teil jeder bzw. jedes Einzelnen von uns und steht sozusagen über dem persönlichen Erleben. So kommt es, dass wir persönlich oft Dinge wollen, diese sich aber nicht umsetzen lassen, da das Vorhaben nicht im Einklang mit der Familienseele steht.
 
-Durch ausführliche Online-Vorlesungen und den Interaktiven Lehrveranstaltungen wird Ihnen das benötigte Wissen von unseren Experten vermittelt, dass Sie benötigen um erfolgreich mit Klangschalen in der Beratung zu arbeiten. 
+{{% box more=1 blue=1 %}}
+{{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-{{% /small %}}
+**Sommeraktion bis 31.08.2023** 
+**Spare jetzt € 450,-** 
+
+Einfach den Aktionscode in das vorgesehene Feld beim Kauf eingeben und die **€ 450,-** werden dir automatisch abgezogen. Bei der Ratenzahlung retuziert sich die montaliche Rate auf € 510,- (statt € 600,-)
+**Dein Aktionscode: #SOMMERAKTION2023**
+
+
+
+* **Ausbildungskosten:€ 2.980,-** <br/>
+Zahlung nach Anmeldung. <br/>
+
+
+* **Ratenzahlung: € 3.290,-** <br/>
+€ 290,- Zahlung sofort nach Anmeldung. <br/>
+3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
+
+
+* **Optional - Intensivtraining in Pinkafeld**  
+€ 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
+
+{{< /card-more >}}
+
+
+{{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+
+
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+zu überweisen. Bitte als Verwendungszweck "Onlineausbildung Klangschalen + Deinen Namen" angeben.
+
+
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung oder der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
+Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
+{{< /card-more >}}
+
+
+{{< card-more icon="icon/storno.png" title="Prüfung" >}}
+
+Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **96 Weiterbildungsstunden** bestätigt. 
+
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+
+
+{{< /card-more >}}
 {{% /box %}}
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
 
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
+####  Du bist noch unsicher? 
+Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mich telefonisch unter **+43 676 610 89 36** kontaktieren.
+
+
+{{< booking produkte="Infoveranstaltung Klangschalen Practitioner Online" success="https://www.klangschalen-practitioner.ifge.at/danke/" >}}
+
+{{< line icon="icon/klangschale.png">}}
+
+## Entspannung & Weiterentwicklung
+
+{{% floatbox %}}
+Klangschalenbehandlungen überzeugen durch ihre **harmonisierende, wohltuende Wirkung**. Sie werden bei der Bewältigung von Stress sowie unterstützend bei der Behandlung körperlicher und seelischer Symptome eingesetzt. Häufig wird die Klangschalenmassage im Wellnessbereich angewandt, zum Entspannen und Krafttanken. Dies ist jedoch nur ein ausgewählter Bereich und es wäre schade, die Arbeit darauf zu beschränken.
+
+Silvia´s Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungsprozess oftmals große Wirkung zeigt. Insbesondere in der systemischen Arbeit, bei der oftmals deutlich wird, wie sich Blockaden und schwere Erlebnisse über Generationen ziehen, ohne bewusst wahrgenommen zu werden. **Doch wie kann hier nun die Methode der Klangschalenbehandlung unterstützen?**
+
+Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns.
+
+{{% floatbox %}}
+
+{{< line icon="icon/klangschale.png">}}
+
+
+## Kursaufbau & Lehrinhalte
+
+
+* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
+* Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
+* Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **13 Willkommensvideos und den ersten kleinen Aufgaben** 
+* **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
+*  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
+* Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
+* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung 
+* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
+
+* Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.
+
+
+{{< line icon="icon/klangschale.png">}}
+
+**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
+***
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Kick-off" >}}
+
+ **Kursmaterial für eine Woche**
+
+* Der ganzheitliche Blick
+* Grundwissen über Klangschalen
+* Das humanistische Menschenbild
+* Das Setting
+* Klangschalen und Ambiente
+* Die 7 Aura-Schichten
+* Der menschliche Körper - die Grundlagen
+* Dein Klangschalenset
+* Die tibetische/tibetanische 8
+* Singende Klangschalen
+* Erste Schritte mit der Klangschale Teil 1
+* Erste Schritte mit der Klangschale Teil 2
+* Wellnessbehandlung: Energie tanken
+* praktische Übung: Blinde Kuh
+* Praktische Übung: Blinde Kuh - die Auflösung 
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 1" >}}
+**Kursmaterial für 3 Wochen**
+
+* Auftragsklärung in der Gesprächsführung
+* Die 4-Säulen der Empathie
+* Die acht Resilienzfaktoren
+* Der menschliche Körper - Organe & Psychosomatik
+* Grundwissen über Chakren
+* Chakren 1 bis 7 im Überblick
+* Feng Shui und Klangschalenmassage Teil 1 
+* Feng Shui und Klangschalenmassage Teil 2 
+* Selbstfürsorge und Psychosomatik
+* Der Chakren Ausgleich mit Klangschalen 
+* Marie-Sophie's erster Chakren Ausgleich
+* Sarah's erster Chakren Ausgleich
+* Erstgespräch: Auftragsklärung/Thema Verspannungen
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 2" >}}
+
+**Kursmaterial für 3 Wochen**
+
+* Work-Life-Balance
+* Stress
+* Burn-Out-7 Phasen, Symptome, Faktoren
+* Die 5 Elemente im Überblick
+* Feng Shui & Klangschalenmassage 3
+* Zentralgefäß & Gouverneursgefäß
+* Herz-, Dünndarmmeridian, Kreislaufsexus & 3-Fach-Erwärmer
+* Magen-, Milzmeridian (Element Erde)
+* Lungen-, Dickdarmmeridian (Metall)
+* Nieren-, Blasenmeridian (Wasser)
+* Leber-, Gallenblasenmeridian (Holz)
+* Der menschliche Körper Sexualkrankheiten 1, 2, 3
+* Die Meridiane & Klangschalenmassage
+* Schlafschwierigkeiten + Klangschalenmassage
+* Gespräch: Motivation zur Zielerreichung
+{{< /card-more >}}
+{{% /box %}}
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Turnus 3" >}}
+**Kursmaterial für 3 Wochen**
+
+
+* 5 Elemente/Vertiefung
+* Kollektive Jung/Phänomenologie
+* Grundlagen systemischer Aufstellungsarbeit
+* Systemische Grunddynamiken
+* Psychosomatik aus system. kollektiver Sicht
+* Lebenslinie - Denken & Problemlösung
+* Feng Shui und Klangschalenmassage Teil 4
+* Die Organaufstellung
+* Der menschliche Körper - Verhütung
+* Der menschliche Körper - Schwangerschaft & Geburt
+* Gespräch: Blasenentzündung/Inneres Bild
+* Folgegespräch: Blasenentzündung
+* Wieder was zum Schmunzeln
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 4" >}}
+**Kursmaterial für 3 Wochen**
+
+* Muskeln & Neurolymphatische Punkte Hauptmuskeln
+* Die 14 Hauptmuskeln: Zentralgefäß & Gouverneursgefäß
+* Die 14 Hauptmuskeln: Magen & Milz (Element Erde)
+* Die 14 Hauptmuskeln: Herz, Dünndarm, Kreislaufsexus & 3-Fach-Erwärmer
+* Die 14 Hauptmuskeln: Lunge & Dickdarm (Element Metall)
+* Die 14 Hauptmuskeln: Niere & Blase (Element Wasser)
+* Die 14 Hauptmuskeln: Leber & Gallenblase (Element Holz)
+* Feng Shui und Klangmassage Teil 5
+* Der menschliche Körper - ZNS und Gehirn
+* Silvia: Die Arbeit mit Muskeln in der Klangschalenmassage
+* Marie-Sophie: Die Arbeit mit Muskeln in der KSM  
+
+{{< /card-more >}}
+
+{{< card-more  title="Turnus 5" >}}
+**Kursmaterial für 3 Wochen**
+
+* Intrinsische Motivation vs. extrinsische Motivation
+* Flourishing nach Diener
+* Selbstwirksamkeit
+* Achtsamkeit fördern
+* Das Flow Konzept
+* Das Selbst und Selbstbild
+* Das Konzept der Lebenszufriedenheit
+* Häufige psychische Krankheiten- Teil 1
+* Zielfindung
+* hilfreiche Tools: Ziele erreichen 
+* Feng Shui - Gua Zahl berechnen Teil 7
+* Gesprächsführung:  das innere Bild verändern
+
+
+{{< /card-more >}}
+{{% /box %}}
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Turnus 6" >}}
+**Kursmaterial für 3 Wochen**
+
+* Neurolymphatische Punkte
+* Untermuskeln: Magen & Milz (Element Erde)
+* Untermuskeln: Herz, Dünndam, Kreislaufsexus
+* Untermuskeln: Lunge & Dickdarm (Element Metall)
+* Untermuskeln: Niere & Blase (Element Wasser)
+* Untermuskeln: Leber & Gallenblase (Element Holz)
+* Feng Shui - Gua Zahl anwenden  Teil 8
+* Der menschliche Körper - häufige Krankheiten
+* Die Arbeit mit Muskeln in der KSM
+* System inneres Bild + KSM
+* Klientengespräch: systemische Gesprächsführung
+* Klientengespräch: ein Kind verloren 
+
+{{< /card-more >}}
+
+{{< card-more  title="Turnus 7" >}}
+**Kursmaterial für 3 Wochen**
+
+* Embodiment – Wechselwirkung zwischen Körper und Psyche
+* Wie die Verbindung zwischen Körper und Geist verloren gehen kann
+* Selbstaufmerksamkeit als Voraussetzung für Selbstreflexion
+* Selbstwertschätzung und Selbstkongruenz
+* Feng Shui Teil 9
+* Feng Shui Teil 10
+* Häufige psychische Krankheiten- Teil 2
+* Bonusmaterial: Tool - wie der Perspektivenwechsel gelingen kann
+* Bonusmaterial: Pferdegestütztes Setting - Thema: achtsamer Umgang mit Grenzen / 
+* Marie-Sophie erhält Klangschalenmassage 
+* Resümee Sarah 
+* Nochmals was zum Schmunzeln
+* **Freischaltung der Onlineprüfung**
+
+
+{{< /card-more >}}
+
+{{< card-more  title="Intensivwoche" >}}
+**Kursmaterial für 3 Wochen**
+#### Optional - 
+#### Intensivtraining in Pinkafeld
+* Alle Fragen zum Lehrstoff sind Willkommen
+* Beratungsgespräche üben
+
+{{< /card-more >}}
+{{% /box %}}
+
+{{< line icon="icon/klangschale.png">}}
+
+### Allgemeine Geschäftsbedingungen
+
+**1.	Leistung**
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Klangschalen Practitioner“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+
+**2.	Zugang** 
+* Die Ausbildung ist für alle offen
+
+Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+
+
+Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
+
+Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Diese Zustimmung kann nicht zurück genommen werden.  Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
+
+**3.	Nutzungsbedingungen**
+Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
+Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
+Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
+Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
+Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
+
+**4. Garantie**
+IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
+
+**5. Storno Intensivwoche Pinkafeld**
+Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen.
+
+Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
+
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+
+**6. Gerichtstand:**
+Wien, Österreich
 
 

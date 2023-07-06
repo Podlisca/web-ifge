@@ -67,7 +67,7 @@ rich_faq:
 * Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
 
 **Dein flexibler Ausbildungsweg**
-Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. Du hast 3 Jahre Zugriff auf alle Videos. 
+Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen die Woche üben und ausprobieren kannst. Du hast **3 Jahre Zugriff** auf alle Videos. 
 
 {{% /small %}}
 </div> 
@@ -170,7 +170,7 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte als Verwendungszweck "Onlineausbildung Tiergestütztes Coaching + Ihren Namen" angeben.
+zu überweisen. Bitte als Verwendungszweck "Onlineausbildung Tiergestütztes Coaching + Deinen Namen" angeben.
 
 
 Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung oder der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
@@ -227,7 +227,184 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 {{< line icon="icon/tiere.png" >}}
 
+## Kursaufbau & Lehrinhalte
 
+**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
+***
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Kick-off" >}}
+
+ **Kursmaterial für eine Woche**
+
+* Grundlagen der psychosozialen Beratung/Coaching
+* Das Setting: psychosoziale Beratung/Coaching
+* Das Setting: psychologische Beratung Hunde & Katzen
+* Das Setting: psychologische Beratung Pferde
+* Historischer Hintergrund tiergestützter Interventionen
+* Psychosoziale Berufsbilder & deren Abgrenzungen
+* Online Setting - Coaching via E-Mail/Chat
+* Möglichkeiten & Grenzen des tiergestützten Coaching
+* Die Auftragsklärung & Vertrag
+* Praktische Übungen
+* Praktische Übungen Auflösung
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 1" >}}
+**Kursmaterial für 3 Wochen**
+
+* Beratungsverlauf - Bella & Plissit Prinzip 
+* Tiefenpsychologische Ansätze
+* Methoden der wertschätzenden Kommunikation
+* Wichtige Begriffe im tiergestützten Coaching
+* Interventionsmöglichkeiten
+* Tierische Gesetze in Österreich
+* Erste Hilfe Hund, Katze & Pferd Teil 1 & 2 
+* Praktische Übung: Erste Hilfe am Tier
+* Hundegestütztes Setting: Outdoor
+* Hundegestützes Setting: Outdoor - Folgegespräch
+* Pferdegestütztes Setting: Selbstbewusstsein stärken
+* Pferdegestützte Time-Line
+* Kommunikation der Tiere
+* Kindchenschema
+* Körpersprache Tieren
+
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 2" >}}
+
+**Kursmaterial für 3 Wochen**
+
+* Kommunikation der Tiere
+* Sicher arbeiten mit Pferden
+* Ungesunde Mensch-Tier-Beziehung
+* Persönlichkeit & Beratungsstil
+* 4-Säulen der Empathie
+* C. Roger's hinreichende Bedingungen
+* Die acht Resilienzfaktoren
+* Das Tier als Helfergestalt
+* Eigenschaften von Besitzer*innen unterschiedlicher Tierarten
+* Die Mensch-Tier-Bindung
+* Das Rubikonmodell
+* Triangualtion & Dyade
+* Die Transaktionsanalyse
+* Reflexionsübung: Beziehung zum Tier
+* Das systemische Porträt
+* Tiergestützte Setting: Berufliches Thema
+* Hundegestütztes Setting: Outdoor-Thema Selbstwert
+{{< /card-more >}}
+{{% /box %}}
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Turnus 3" >}}
+**Kursmaterial für 3 Wochen**
+
+* Systemische Grundlagen und Vertreter*innen
+* Rahmenbedingungen, Haltungen bei Aufstellungen
+* Die Phänomenologische Perspektive
+* Systemische Aufstellungsarbeit - Regeln
+* System. Aufstellungsarbeit - Dynamiken
+* Dynamiken: Nachfolge-Übernahme-Hinbewegung
+* Weitere systemische Interventionen
+* Grundlagen der systemischen Tieraufstellung
+* Klientengespräch: Gewitterangst
+* Hundegestütztes Setting: Folgegespräch
+* Tiergestützes Setting: Die Glaubenssatzaufstellung
+* Katzengestütztes Setting: Monodrama
+* Wieder was zum Schmunzeln
+
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 4" >}}
+**Kursmaterial für 3 Wochen**
+
+* Das Gehirn: 3-Speicher-Modell
+* Die sieben häufigsten Gedächtnisfehler
+* Problemlösungen
+* Die klassische & operante Konditionierung
+* Reizverarbeitung
+* Emotion/Bedürfnisse/Motivation
+* Konflikte und unerledigte Handlungen
+* Das Konzept der Lebenszufriedenheit
+* Gelernter Optimismus
+* Die 10 positiven Emotionen
+* Risikowahlmodell
+* Das Kindchenschema
+* Setting: Klientin mit eigenem Hund & das Innere Bild
+* Katzengestütztes Setting: Folgegespräch 
+
+
+{{< /card-more >}}
+
+{{< card-more  title="Turnus 5" >}}
+**Kursmaterial für 3 Wochen**
+
+* Acht Arten der Liebe & Dreieckstheorie
+* Das Casio-Modell
+* Soziale Aufwärts- und Abwärtsvergleiche
+* Das Investmentmodell von Rusbult
+* Motivierende Gesprächsführung
+* Defizitdimensionen bei erlernter Hilfslosigkeit
+* Positive Emotionen stärken
+* Das tierische Team verändert sich
+* Tiergestütztes Setting: Trauer um verstorbenes Tier
+
+
+{{< /card-more >}}
+{{% /box %}}
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Turnus 6" >}}
+**Kursmaterial für 3 Wochen**
+
+* Entstehung von Konflikten
+* Konflikte & Konfliktfähigkeit
+* Kommunikationsstile nach Schulz von Thun
+* Kommunikationsstile nach Shelly Gable
+* Krisen im menschlichen Leben
+* Burnout und Stress
+* Das Boreout
+* Mobbing
+* Aggression & Frusttration
+* Das Treppenstufen-Modell der Aggression
+* Hundegestütztes Setting: Stressmanagement
+
+{{< /card-more >}}
+
+{{< card-more  title="Turnus 7" >}}
+**Kursmaterial für 3 Wochen**
+
+* Die Du-Evidenz & Biophiliehypothese
+* Kognitive Dissonanz
+* Katzengestütztes Setting: Umgang mit berufl. Erfolg
+* Prozessreflexion - Gedanken zur tiergest. Arbeit
+* Noch was zum Schmunzeln
+* Glückwunsch du hast es geschafft
+* **Freischaltung der Onlineprüfung**
+
+Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Berufsverbands für tiergestützte psychologische Beratung](https://berufsverband-tiergestuetzteberatung.at/) kostenlos. 
+
+
+{{< /card-more >}}
+
+{{< card-more  title="Intensivwoche" >}}
+**Kursmaterial für 3 Wochen**
+#### Optional - 
+#### Intensivtraining in Pinkafeld
+* Alle Fragen zum Lehrstoff sind Willkommen
+* Beratungsgespräche üben
+
+{{< /card-more >}}
+{{% /box %}}
+
+
+
+
+
+{{< line icon="icon/tiere.png" >}}
 ### Allgemeine Geschäftsbedingungen
 
 **1.	Leistung**
