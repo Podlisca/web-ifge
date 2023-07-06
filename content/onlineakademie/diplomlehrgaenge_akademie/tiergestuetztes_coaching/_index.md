@@ -229,7 +229,16 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 ## Kursaufbau & Lehrinhalte
 
-**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
+**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** 
+
+* Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
+
+* **3 Tage danach** startet das Kick off
+* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **3 Jahre Vollzugriff** auf alle Lehrmaterialien
+ 
+
+Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
 ***
 
 {{% box more=1 blue=1 %}}
@@ -401,7 +410,9 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{% /box %}}
 
 
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
 
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 
 {{< line icon="icon/tiere.png" >}}

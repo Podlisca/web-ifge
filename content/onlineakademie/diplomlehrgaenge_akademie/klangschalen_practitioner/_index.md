@@ -205,23 +205,18 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 ## Kursaufbau & Lehrinhalte
 
+**Sarah und Marie Sophie** lernen vor laufender Kamera die Methode der Klangschalenmassage. So kannst Du gut mitlernen.
 
+* Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
+* **3 Tage danach** startet das Kick off
 * **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
-* Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
-* Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
-* Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **13 Willkommensvideos und den ersten kleinen Aufgaben** 
-* **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
-*  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
-* Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
-* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung 
-* Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
+* **3 Jahre Vollzugriff** auf alle Lehrmaterialien
+ 
 
 * Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.
 
 
-{{< line icon="icon/klangschale.png">}}
 
-**Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** </br>Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen verschoben werden. 
 ***
 
 {{% box more=1 blue=1 %}}
@@ -394,6 +389,10 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 {{< /card-more >}}
 {{% /box %}}
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Onlineausbildung: Klangschalen Practitioner" >}}
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
 
 {{< line icon="icon/klangschale.png">}}
 
