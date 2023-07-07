@@ -444,7 +444,7 @@ Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer
 IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
 
 **5. Storno Intensivwoche Pinkafeld**
-Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen.
+Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 

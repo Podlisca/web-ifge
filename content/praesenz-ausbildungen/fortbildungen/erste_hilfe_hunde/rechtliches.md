@@ -40,7 +40,7 @@ zu überweisen.
 
 Bitte geben Sie als Verwendungszweck Erste Hilfe Tiere + Ihren Namen an. Erst nach Zahlungseingang ist der Platz für Sie fix reserviert.
 
-Bei Absage bis zu 8 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen..
+Bei Absage bis zu 8 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
 
 
 {{< line icon="noun_Information_478770-2.png" >}}

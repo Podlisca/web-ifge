@@ -102,7 +102,7 @@ Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*i
 {{% small  %}}
 ### ALLGEMEINE GESCHÄFTSBEDINGUNGEN
 
-Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen.
+Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten. 
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
