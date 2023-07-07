@@ -187,3 +187,4 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 {{% /small  %}}
 {{% /box %}}
 
+Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
