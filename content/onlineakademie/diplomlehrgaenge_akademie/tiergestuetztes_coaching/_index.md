@@ -234,7 +234,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 
 * **3 Tage danach** startet das Kick off
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
 * **3 Jahre Vollzugriff** auf alle Lehrmaterialien
  
 

@@ -23,14 +23,14 @@ weight: 1
 ## Organisatorisches 
 #### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
 
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **13 Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**
 *  danach werden **alle drei Wochen neue Videos und Material** frei geschalten (7 Turnusse). 
 * Nach Abschluss des Onlinekurses wird die Onlineprüfung frei geschalten. Nach Bestehen der Prüfung erhalten Sie das IFGE Zertifikat
-* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung 
+* Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung 
 * Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
 * Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben.

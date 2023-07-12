@@ -26,9 +26,9 @@ weight: 1
 ## Organisatorisches 
 
 
-* **Ausführliche Online-Vorlesungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen** sowie Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
 * Du erhältst **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
-* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung startest Du sofort mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off mit Videos & Material für **eine Woche**

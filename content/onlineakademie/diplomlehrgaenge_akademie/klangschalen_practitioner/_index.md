@@ -209,7 +209,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
 * **3 Jahre Vollzugriff** auf alle Lehrmaterialien
  
 

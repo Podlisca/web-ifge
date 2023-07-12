@@ -28,7 +28,7 @@ weight: 1
 
 
 
-* Eine **betreute Lerngruppe** garantieren individuelle und persönliche Betreuung
+* Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten das **Kick-off** mit den  Willkommensvideos und den ersten kleinen Aufgaben **Material für eine Woche** 
