@@ -32,27 +32,23 @@ weight: 3
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
-#### 19.06.2022  
-von 10:00 bis 16:00 Uhr
-
-**genauer Treffpunkt wird noch bekannt gegeben**
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-#### Keine Termine zu diesem Thema verfügbar. 
-
 
 {{% /small  %}}
 {{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+#### Treffpunkt: 
 
+**IFGE Wien, 1020 Hollandstr. 12/9, 1020 Wien** 
 
+* Teil 1 - 23.09.2023 - Jüdisches Wien
+* Teil 2 - 14.10.2023 - Hitlers Wien
 
-#### Keine Termine zu diesem Thema verfügbar. 
+jeweils von **10:00 bis ca. 12:30** Uhr mit max. 15 Teilnehmer\*innen
+
+**Hinweis:** Die Tour findet zu Fuss und fallweise werden auch die öffentlichen Verkehrsmittel benützt. Bitte an den **Fahrschein** denken. 
+
+Die Termine können nur zusammen gebucht werden
+
+{{< buchung-vorauswahl text="Tour buchen" veranstaltung="Tour kaufen: Erlebnistour: Hitlers Wien / Jüdisches Wien " >}}
 
 {{% /small  %}}
 {{% /box %}}

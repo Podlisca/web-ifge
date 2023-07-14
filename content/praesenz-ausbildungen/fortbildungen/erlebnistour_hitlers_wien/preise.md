@@ -26,5 +26,22 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 
-* Einmalzahlung: € 85,00
+* **Einmalzahlung: € 85,00**
+
+
+Um Ihnen den Platz verbindlich zu reservieren, ist nach Anmeldung der Kursbetrag sofort auf das Konto:
+
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+
+
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+zu überweisen. Bitte geben Sie als Verwendungszweck Ausbildung: "Erlebnistour Jüdisches Wien / Hitlers Wien" + Ihren Namen an.
+
+
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 8 Wochen vor Seminarbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten. 
+
+{{< buchung-vorauswahl text="Tour buchen" veranstaltung="Tour kaufen: Erlebnistour: Hitlers Wien / Jüdisches Wien " >}}
 

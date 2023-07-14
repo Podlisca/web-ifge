@@ -24,7 +24,7 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/ar_on_ tour_1.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
+{{< image src="/img/ziel_erlebnis.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
 ## Erlebnistour durch Wien
 
@@ -34,6 +34,8 @@ Wer [Systeme, Strukturen und Menschen](https://www.ifge.at/gruppenselbsterfahrun
 
 Im Rahmen der Erlebnistour „Jüdisches Wien“ & „Hitlers Wien“ begeben wir uns auf die [Spuren der Vergangenheit](https://www.ifge.at/praesenz-ausbildungen/fortbildungen/historische_politische_aspekte/), betrachten historische Geschehnisse und Schauplätze aus unterschiedlichen Perspektiven und stärken so unser systemisches Verständnis vom großen Ganzen.  
 
+
+{{< buchung-vorauswahl text="Tour buchen" veranstaltung="Tour kaufen: Erlebnistour: Hitlers Wien / Jüdisches Wien " >}}
 
 {{% /floatbox %}}
 
