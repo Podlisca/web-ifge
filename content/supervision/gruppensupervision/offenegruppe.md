@@ -35,45 +35,49 @@ In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Si
 
 {{< line icon="icon/termine.png" >}}
 
-## Termine
-****  
-
-
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Online: April 2023 
-{{< image src="/img/onlineunterricht.jpg">}}
+#### Termine IFGE Wien: 
+{{< image src="/img/ifge_wien.jpg">}}
 
-**14.04.2023**<br/>
-von 14:00 bis 18:00 Uhr
+**23.09.2023**<br/>
+von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-[Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 23.09.2023" >}}
+
+***
+
+**11.11.2023**<br/>
+von 16:00 bis 20:00 Uhr
+<br/> 
+<br/> 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 11.11.2023" >}}
+
 {{% /small  %}}
 
 {{% small  %}}
-#### Online: Mai 2023
+#### Termine Online: 
 {{< image src="/img/onlineunterricht.jpg">}}
 
-**25.05.2023**<br/>
+**13.10.2023**<br/>
+von 16:00 bis 20:00 Uhr
+<br/>
+<br/> 
+Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 13.10.2023" >}}
+
+***
+
+**15.12.2023**<br/>
 von 14:00 bis 18:00 Uhr
 <br/>
- 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-[Anmeldung](https://www.ifge.at/anmeldung/)
-{{% /small  %}}
-
-{{% small  %}}
-#### Online: Juni 2023
-{{< image src="/img/onlineunterricht.jpg">}}
-
-**08.06.2023**<br/>
-von 14:00 bis 18:00 Uhr
-<br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-[Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 15.12.2023" >}}
+
 
 
 
