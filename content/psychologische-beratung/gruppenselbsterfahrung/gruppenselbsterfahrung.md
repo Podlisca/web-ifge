@@ -104,9 +104,9 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW zu überweisen.
 
-Bitte geben Sie als Verwendungszweck LSB + Ihren Namen an.
+Bitte geben Sie als Verwendungszweck Intensiv Selbsterfahrungswoche + Ihren Namen an.
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Seminargebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. 
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 12 Wochen vor dem geplanten Lehrgangsbeginn entsteht keine Stornogebühr. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Seminargebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
 
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
