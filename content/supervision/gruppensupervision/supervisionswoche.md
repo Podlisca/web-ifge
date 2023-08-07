@@ -33,12 +33,11 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{< silvia >}}
 
 {{% /floatbox %}}
-{{< line icon="/icon/info_tuerkis.png" >}}
+{{< line icon="/icon/termine.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
-## Termine
-****  
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -48,13 +47,13 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychosozial
 {{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
 
 
-### 21.08. - 25.08.2023<br/>
+### 26.08. - 30.08.2024<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-### [Anmeldung](https://www.ifge.at/anmeldung/)
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervision - Intensivwoche Wien 2024" >}}
 
 {{% /small  %}}
 
@@ -62,21 +61,11 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-### 31.07. - 04.08.2023<br/>
+### Termin folgt<br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-### [Anmeldung](https://www.ifge.at/anmeldung/)
-{{% /small  %}}
-{{% small  %}}
-
-
-#### Niederösterereich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-### keine weiteren Termine <br/>
-
 
 
 
