@@ -1,7 +1,7 @@
 ---
 title: "Onlinesupervision"
 name: onlinesupervision
-draft: false
+draft: true
 menu: 
     main:
         parent: supervision

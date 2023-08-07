@@ -4,7 +4,7 @@ menu:
     main:
         parent: "onlinesupervision"
         identifier: "onlinesupervisionstag"
-draft: false
+draft: true
 weight: 4
 description: "Supervision ist eine Form der Beratung, die in beruflichen Angelegenheiten begleitend und unterstützend in Anspruch genommen werden kann."
 og_title: "Offene Gruppensupervision"
