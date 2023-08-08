@@ -45,7 +45,7 @@ von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 23.09.2023" >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 23.09.2023" >}}
 
 ***
 
@@ -54,7 +54,7 @@ von 16:00 bis 20:00 Uhr
 <br/> 
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 11.11.2023" >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 11.11.2023" >}}
 
 {{% /small  %}}
 
@@ -67,7 +67,7 @@ von 16:00 bis 20:00 Uhr
 <br/>
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 13.10.2023" >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 13.10.2023" >}}
 
 ***
 
@@ -76,7 +76,7 @@ von 14:00 bis 18:00 Uhr
 <br/>
 <br/> 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supvervisionstag: 15.12.2023" >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 15.12.2023" >}}
 
 
 
