@@ -24,8 +24,7 @@ rich_logo: true
 <iframe ="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=IFGE+Wien&amp;maptype=roadmap" allowfullscreen="true">
 </iframe>
 
-#### IFGE Wien - neue Adresse
-#### ab 21. August 2023 <br/>
+## IFGE Wien 
 
 Hollandstraße 12/9<br/>
 1020 Wien<br/>
