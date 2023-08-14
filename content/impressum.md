@@ -25,8 +25,8 @@ Kontakt:<br/>
 Silvia Podlisca<br/>
 
 Anschrift:<br/>
-1070 Wien,<br/>
-Mariahilfer Straße 76/4 Top 39<br/>
+1020 Wien,<br/>
+Hollandstraße 12/9<br/>
  
 
 Tel: +43 (0)676-610 89 36<br/>
