@@ -48,8 +48,8 @@ Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten 
 ### 2. Name und Anschrift des für die Verarbeitung Verantwortlichen
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
 Institut für ganzheitliches Erleben (IFGE) - Silvia Podlisca e.U.
-Mariahilferstr. 76/4/39
-1070 Wien
+Hollandstraße 12/9
+1020Wien
 Österreich
 Tel.: +43 676 610 89 36
 E-Mail: silvia.podlisca@ifge.at

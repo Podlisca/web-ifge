@@ -12,7 +12,7 @@ weight: 2
 # Allgemeine Geschäftsbedingungen
 ***
 Frau Silvia Podlisca - IFGE
-Mariahilferstraße 76/4Top 39, 0676 10 89 36, silvia.podlisca@ifge.at
+Hollandstraße 12/9, 1020 Wien -  0676 10 89 36 - silvia.podlisca@ifge.at
 
 ## Beratungsvereinbarung
 
@@ -26,9 +26,9 @@ Silvia Podlisca arbeitet mit der Sorgfalt eines ordentlichen Lebens- und Sozialb
 2 Datenschutz
 
 Ich stimme zu, dass meine personenbezogenen Daten, nämlich Name, Adresse, E-Mail, Telefon, Geburtsdatum, zum Zwecke der Durchführung der Beratung,Onlienberatung, Onlinetrainings, Onlineausbildung, Onlinesupervision, Ausbildung, Koordinieren von Terminen, Durchführung des Rechnungswesens und der Buchhaltung, Supervision, Nachweis der Berufsausübung gegenüber der Gewerbebehörde, etc… verarbeitet werden. Mir ist bekannt, dass meine Daten für einen Zeitraum von mindestens 7 Jahren nach Beendigung der Beratung/Ausbildung/Supervision vom Verantwortlichen gespeichert werden. Sollten im Zuge der Zusammenarbeit sensible Daten dokumentiert werden, geschieht dies ausschließlich analog und pseudonymisiert. Diese werden gemäß Art 21 DSGVO aufbewahrt.
-Verantwortlicher der Datenverarbeitung ist IFGE, 1070 Wien, Mariahilferstraße 76/4/39
+Verantwortlicher der Datenverarbeitung ist IFGE, 1020Wien, Mariahilferstraße 76/4/39
 
-Diese Einwilligung kann ich jederzeit gemäß Art 21 DSGVO mittels Brief an IFGE, Mariahilferstraße. 76/4/39, 1070 Wien oder E-Mail an silvia.podlisca@ifge.at widerrufen, sodass die Verarbeitung meiner Daten ab dem Zeitpunkt des Zugangs meines Widerrufs nichtmehr zulässig ist. Die Rechtmäßigkeit der Verarbeitung meiner Daten bis zum Widerruf bleibt vom Widerruf unberührt.
+Diese Einwilligung kann ich jederzeit gemäß Art 21 DSGVO mittels Brief an IFGE, Mariahilferstraße. 76/4/39, 1020Wien oder E-Mail an silvia.podlisca@ifge.at widerrufen, sodass die Verarbeitung meiner Daten ab dem Zeitpunkt des Zugangs meines Widerrufs nichtmehr zulässig ist. Die Rechtmäßigkeit der Verarbeitung meiner Daten bis zum Widerruf bleibt vom Widerruf unberührt.
 Über meine Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragung und Beschwerde bei der Datenschutzbehörde wurde ich informiert.
  
 

@@ -23,7 +23,7 @@ entnehmen Sie bitte dem jeweiligen Angebot für welches Sie sich angemeldet habe
 2. Ihr Vertragspartner:
 
 
-Institut für ganzheitliches Erleben (IFGE) Energetische Praxis – Silvia Podlisca e.U., Mariahilferstraße 76/4/39, 1070 Wien, Tel: 0676 610 89 36, E-Mail: silvia.podlisca@ifge.at
+Institut für ganzheitliches Erleben (IFGE) Energetische Praxis – Silvia Podlisca e.U., Mariahilferstraße 76/4/39, 1020Wien, Tel: 0676 610 89 36, E-Mail: silvia.podlisca@ifge.at
 
 
 
