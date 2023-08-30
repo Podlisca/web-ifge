@@ -4,7 +4,7 @@ menu:
     main:
         parent: IFGE
         identifier: team
-draft: false
+draft: true
 weight: 3
 aliases:
     - "/about/team.html"
