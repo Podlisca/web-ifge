@@ -129,21 +129,13 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
-***
-#### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
+
 ***
 
 
 
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
-
-**Sommeraktion bis 31.08.2023** 
-**Spare jetzt € 450,-** 
-
-Einfach den Aktionscode in das vorgesehene Feld beim Kauf eingeben und die **€ 450,-** werden dir automatisch abgezogen. Bei der Ratenzahlung retuziert sich die montaliche Rate auf € 510,- (statt € 600,-)
-**Dein Aktionscode: #SOMMERAKTION2023**
-
 
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
