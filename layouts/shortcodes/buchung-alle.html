@@ -1,1 +1,6 @@
-<ifge-buchung veranstaltungen='{{ delimit $.Site.Data.anmeldung.kurse.Kurse ";" }}' expandable="false" aufstellungen="true"></ifge-buchung>
+{{ $value := 0 }}
+{{ if .Get "value" }}
+{{ $value = .Get "value" }}
+{{ end }}
+
+<ifge-buchung veranstaltungen='{{ delimit $.Site.Data.anmeldung.kurse.Kurse ";" }}' expandable="false" aufstellungen="true" onsubmit="console.log({{ $value }}); gtag_report_conversion({{ $value }});"></ifge-buchung>

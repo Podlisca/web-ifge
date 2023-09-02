@@ -1,6 +1,6 @@
 import { BooleanInput, coerceBooleanProperty } from '@angular/cdk/coercion';
 import { CommonModule, DOCUMENT } from '@angular/common';
-import { AfterViewInit, Component, ElementRef, Inject, Input, Renderer2, ViewChild, ViewEncapsulation } from '@angular/core';
+import { AfterViewInit, Component, ElementRef, EventEmitter, Inject, Input, Output, Renderer2, ViewChild, ViewEncapsulation } from '@angular/core';
 
 const RECAPTCHA_API = 'https://www.google.com/recaptcha/api.js';
 declare let grecaptcha: any;
@@ -30,6 +30,8 @@ export class AppComponent implements AfterViewInit {
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
 
   @Input() text = "Kaufen";
+
+  @Output('submit') anmeldung = new EventEmitter<void>();
 
   private _aufstellungen = false;
   get aufstellungen() { return this._aufstellungen; }
@@ -64,6 +66,9 @@ export class AppComponent implements AfterViewInit {
         grecaptcha.ready(() => {
           grecaptcha.execute(this.recaptchaSiteKey, { action: 'submit' }).then((token: any) => {
             this.recaptchaResponseField.nativeElement.value = token;
+            // emit callback hook
+            this.anmeldung.emit();
+
             this.form.nativeElement.submit();
           });
         });
