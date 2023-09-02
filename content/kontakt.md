@@ -129,6 +129,9 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
+{{% /small  %}}
+{{% /box  %}}
+
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.

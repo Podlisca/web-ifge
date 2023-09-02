@@ -13,8 +13,6 @@ og_image: "/img/tier_coaching_1.jpg"
 {{< line icon="icon/tiere.png" >}}
 ## Rasch, richtig & ruhig reagieren: Erste Hilfe für Hund & Katze.
 
-{{% floatbox %}}
-
 <div class="box video">
 {{% small %}}
 

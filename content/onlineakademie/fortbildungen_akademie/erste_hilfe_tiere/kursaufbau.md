@@ -78,7 +78,5 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 {{% /small%}}
 {{% /box %}}
-{{% box top-align=1 %}}
-{{% small  %}}
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. " >}}

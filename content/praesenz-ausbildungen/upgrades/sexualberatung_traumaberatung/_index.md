@@ -68,7 +68,7 @@ Da am IFGE die systemische Sichtweise auf Probleme aller Art ein zentraler Teil 
 Die Vertiefung des Wissens im Bereich der [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/) in Verbindung mit der [Systemik](/psychologische-beratung/systemische-einzelberatung/) bedeutet, dass sich die Ausbildungsinhalte in Zukunft verstärkt auf das Arbeiten mit erstarrten Welten, Abspaltungen oder dissoziierten Anteile konzentriert.
 
 Diese Interventionstechniken sind gerade in der Arbeit mit [Opfern sexueller Gewalt](/psychologische-beratung/spezialisierungen/opferberatung/) von äußerst zentraler Bedeutung. Die Opferarbeit benötigt ein enormes Fingerspitzengefühl und unterscheidet sich teilweise deutlich von klassischer Sexualberatung. Mit aus diesem Grund wird der psychologischen Beratung von Opfern sexueller Gewalt oder Missbrauch besonderes fachliches Augenmerk geschenkt. Gleichzeitig bietet die Fortbildung sehr wichtige, vertiefende Einblicke in die Präventionsarbeit: Wie sieht die professionelle psychosoziale Arbeit mit [(potenziellen) Sexualstraftäter\*innen](/psychologische-beratung/spezialisierungen/taeterberatung/) aus? Auf welche Hinweise gilt es hier als Berater*in geschult zu sein? Wie sieht die Rechtslange aus? Wodurch unterscheidet sich die Täter\*innen-Arbeit für BeraterInnen in erheblichem Maße von der gewohnten Art zu arbeiten?
-
+{{% /floatbox %}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

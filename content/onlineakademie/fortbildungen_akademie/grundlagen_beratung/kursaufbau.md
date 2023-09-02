@@ -74,8 +74,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
-{{% box top-align=1 %}}
-{{% small  %}}
-
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. " >}}

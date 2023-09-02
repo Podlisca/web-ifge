@@ -77,3 +77,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% small  %}}
 
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. " >}}
+
+{{% /small  %}}
+{{% /box  %}}

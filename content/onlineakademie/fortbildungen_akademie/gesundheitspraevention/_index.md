@@ -57,7 +57,6 @@ Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Die
 
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. " >}}
 {{< line icon="noun_Information_478770-2.png" >}}
-{{% floatbox %}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

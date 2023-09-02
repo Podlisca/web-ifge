@@ -77,8 +77,6 @@ Systeme, in denen individuelle Bedürfnisse auf kollektive Erwartungen treffen. 
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% floatbox %}}
-
 {{% box blue=1 %}}
 {{% small  %}}
 

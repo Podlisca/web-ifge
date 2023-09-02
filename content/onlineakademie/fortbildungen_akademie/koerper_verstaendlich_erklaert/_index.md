@@ -58,7 +58,6 @@ Im Rahmen dieser **digitalen Weiterbildung** wird der **menschliche Körper einf
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
-{{% floatbox %}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

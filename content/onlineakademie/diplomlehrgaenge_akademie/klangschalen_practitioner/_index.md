@@ -191,7 +191,7 @@ Silvia´s Erfahrung zeigt, dass die Klangschalenbehandlung in einem Beratungspro
 
 Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl im gesamten physischen wie sie auch auf Geist und Seele aus. Sie erreichen somit jede Faser sowie jede Zelle in uns.
 
-{{% floatbox %}}
+{{% /floatbox %}}
 
 {{< line icon="icon/klangschale.png">}}
 

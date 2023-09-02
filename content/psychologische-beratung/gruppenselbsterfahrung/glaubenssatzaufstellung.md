@@ -36,8 +36,6 @@ Damit richtet sich der Blick auch stark in die Vergangenheit. Die Glaubenssatzau
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% floatbox %}}
-
 {{% box blue=1 %}}
 {{% small  %}}
 

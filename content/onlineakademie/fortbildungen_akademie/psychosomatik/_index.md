@@ -50,7 +50,6 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. " >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
-{{% floatbox %}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

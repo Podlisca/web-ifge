@@ -130,13 +130,5 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-
-
-
-
-
-
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching " >}}
 

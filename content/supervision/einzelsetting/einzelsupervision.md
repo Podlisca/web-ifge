@@ -52,12 +52,10 @@ In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo 
 {{% /small  %}}
 {{% /box %}}
 
-{{% floatbox %}}
+{{% /floatbox %}}
 
 Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gruppensupervisionen](/supervision/philosophie/)  zu empfehlen, da in dieser durch spezielle Gruppendynamiken sichtbar wird, was in Einzelsitzungen manchmal im Verborgenen bleiben kann.
 
-
-{{% /floatbox %}}
 
 {{< line icon="icon/kontakt.png" >}}
 
