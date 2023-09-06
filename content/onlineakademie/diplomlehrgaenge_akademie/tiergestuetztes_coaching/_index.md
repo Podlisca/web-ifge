@@ -200,6 +200,27 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 
 {{< line icon="icon/tiere.png" >}}
 
+## Das sagen begeisterte Kunden
+<div class="box video">
+{{% small %}}
+
+### Cornelia Leiss
+{{< youtube l61L-56NX7c>}}
+{{% /small %}}
+{{% small %}}
+
+### Ramona Pranz
+Video folgt
+{{% /small %}}
+{{% small %}}
+
+### Franz Thuner
+Video folgt
+{{% /small %}}
+
+</div>
+{{< line icon="icon/tiere.png" >}}
+
 ## Tiere in der Beratung / im Coaching
 
 Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychosozialen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret im tiergestützten Coaching. Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 

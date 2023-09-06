@@ -182,6 +182,28 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 
 {{< line icon="icon/klangschale.png">}}
 
+
+## Das sagen begeisterte Kunden
+<div class="box video">
+{{% small %}}
+
+### Michaela Gold
+{{< youtube Jmud1D3bSjw>}}
+{{% /small %}}
+{{% small %}}
+
+### Linzer Andrea
+{{< youtube eEysmsF0f4Y>}}
+{{% /small %}}
+{{% small %}}
+
+### Knor Margit
+Video folgt
+{{% /small %}}
+
+</div> 
+{{< line icon="icon/klangschale.png">}}
+
 ## Entspannung & Weiterentwicklung
 
 {{% floatbox %}}
