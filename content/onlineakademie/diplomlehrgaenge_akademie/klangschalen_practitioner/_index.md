@@ -183,7 +183,7 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 {{< line icon="icon/klangschale.png">}}
 
 
-## Das sagen begeisterte Kunden
+## Das sagen begeisterte Kunden:
 <div class="box video">
 {{% small %}}
 
@@ -198,7 +198,7 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 {{% small %}}
 
 ### Knor Margit
-Video folgt
+{{< youtube EwGB5R4Couw>}}
 {{% /small %}}
 
 </div> 

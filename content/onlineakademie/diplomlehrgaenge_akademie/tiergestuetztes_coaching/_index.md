@@ -200,7 +200,7 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 
 {{< line icon="icon/tiere.png" >}}
 
-## Das sagen begeisterte Kunden
+## Das sagen begeisterte Kunden:
 <div class="box video">
 {{% small %}}
 
@@ -209,13 +209,13 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 {{% /small %}}
 {{% small %}}
 
-### Ramona Pranz
-Video folgt
+### Tanja Kitzler
+{{< youtube -RoBTN45hJQ>}}
 {{% /small %}}
 {{% small %}}
 
 ### Franz Thuner
-Video folgt
+{{< youtube PFsssWGg8Vk>}}
 {{% /small %}}
 
 </div>
