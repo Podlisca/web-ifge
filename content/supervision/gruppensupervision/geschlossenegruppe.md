@@ -102,7 +102,7 @@ Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00
 
 
 #### Start: 10.01.2024
-Die Gruppe findet 9 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:30 Uhr statt.<br/>
+Die Gruppe findet 10 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
 **Termine 2024:**
 
