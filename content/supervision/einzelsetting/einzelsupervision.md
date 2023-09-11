@@ -65,7 +65,7 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 
 Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung/preise/)
 
-**Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.wko.at/) anerkannt.
+**Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren**. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der [Wirtschaftskammer](https://www.wko.at/) anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

@@ -34,7 +34,7 @@ weight: 1
 * Erziehung: zwischen autoritär und laissez-faire
 * Versöhnung durch Verständnis
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% box blue=1 %}}

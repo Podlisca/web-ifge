@@ -63,7 +63,7 @@ Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelinge
 
 {{% box blue=1 %}}
 {{% small %}}
-Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberater\*in befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt.
+Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberater\*in befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt.
 {{% /small %}}
 {{% /box %}}
 

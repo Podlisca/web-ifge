@@ -167,14 +167,14 @@ Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter\*innen **Feedback über 
 
 
 ## Prüfung 
-Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebe Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
+Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestandener Prüfung erhältst Du ein IFGE Zertifikat.
+Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
 ## Leitung
 
-Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestanderern Prüfung erhästst Du ein IFGE Zertifikat.
+Der Lehrgang schließt mit **einer Abschlussprüfung** ab. Nach bestandener Prüfung erhältst Du ein IFGE Zertifikat.
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)

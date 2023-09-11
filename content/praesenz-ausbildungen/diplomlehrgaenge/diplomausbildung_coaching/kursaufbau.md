@@ -52,7 +52,7 @@ Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwes
 ***
 
 ## BESTÄTIGUNG
-Alle Teilnehmer\*innen erhalten eine Bestätigung über 240 Stunden fachliche Fortbildung. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine Bestätigung über 240 Stunden fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 

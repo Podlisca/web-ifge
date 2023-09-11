@@ -15,7 +15,7 @@ aliases:
     - "/ausbildungsangebote/historische-politische-aspekte-in-der-beratung/"
 rich_faq:
     -   frage: "Welche fachlichen Fortbildungen kann man als Lebens-und Sozialberater anrechnen lassen?"
-        antwort: "Am IFGE finden Sie als Lebens- und Sozialberaterin laufend interesannte Angebote zum Thema Fortbildungen, welche auch für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt werden."
+        antwort: "Am IFGE finden Sie als Lebens- und Sozialberaterin laufend interesannte Angebote zum Thema Fortbildungen, welche auch für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt werden."
     -   frage: "Wo kann ich etwas über die Vergangenheit lernen?"
         antwort: "Das Seminar “Auf den Spuren der Vergangenheit – die Gegenwart verstehen” vermittelt historische, politische und gesellschaftliche Aspekte als Grundlage der psychologischen Beratung. Diese Kenntnis ist in der Beratung ein nicht zu unterschätzender Aspekt, da sie Verständnis für die Lebenssituation der Menschen und für ihre Beweggründe liefert, welche uns aus heutiger Sicht (und aus den Erfahrungen der Zeit, in der wir leben) auf den ersten Blick vielleicht unverständlich erscheinen mögen."
     -   frage: "Wo kann ich etwas über den 1. und 2. Weltkrieg  lernen?"

@@ -13,7 +13,7 @@ og_title: "Erlebnistour durch Wien mit dem Themenschwerpunkt: Hitlers Wien - Jü
 og_image: "/img/qualitaetsausbildungen.jpg"
 rich_faq:
     -   frage: "Welche fachlichen Fortbildungen kann man als Lebens-und Sozialberater anrechnen lassen?"
-        antwort: "Am IFGE finden Sie als Lebens- und Sozialberaterin laufend interesannte Angebote zum Thema Fortbildungen, welche auch für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt werden."
+        antwort: "Am IFGE finden Sie als Lebens- und Sozialberaterin laufend interesannte Angebote zum Thema Fortbildungen, welche auch für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt werden."
 
 ---
 

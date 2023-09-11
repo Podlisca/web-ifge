@@ -49,7 +49,7 @@ Das Thema der Finanzen wird all zu oft nahezu verdrängt, wiewohl es ein grundle
 
 *	Wenn das Helfenwollen das Helfenkönnen noch übersteigt. Das meint, dass es manchmal trotz hoher Motivation fachlich und auch persönlich noch nicht empfehlenswert ist, den Schritt in die Selbstständigkeit zu wagen. Hier gilt es, kritikfähig für das eigene Können in der Ausbildung und in der Supervision zu bleiben, um sich letztlich die für das Klient*innenwohl so wichtige Professionalität anzueignen.
 *	Wenn die Vorstellung vorherrscht, dass ein Instagram-Account oder eine Facebook-Seite sowie ein einmalig mit 50 Euro beworbenes Posting zu 20 regelmäßigen Klient*innen gleichzeitig führt.
-*	Wenn man Schwierigkeiten hat, die vorgeschriebenen Stunden der fachlichen Tätigkeit mit dem bestehenden (Berufs-)Alltag unter einen Hut zu bekommen.
+*	Wenn man Schwierigkeiten hat, die vorgeschriebenenen Stunden der fachlichen Tätigkeit mit dem bestehenden (Berufs-)Alltag unter einen Hut zu bekommen.
 *	Wenn man sich prinzipiell ungern selbst organisiert und man eigentlich viel lieber in einem Team und im geschützten Rahmen einer Institution arbeiten möchte.
 *	Wenn man den Quellberuf verloren hat und „halt irgendwas machen“ möchte, weil „einem eh immer alle alles erzählen“.
 *	Wenn man mit Erreichen des Gewerbescheins denkt, dass sich jede weitere Investition in fachliche Fortbildung und Supervision erledigt hat. 

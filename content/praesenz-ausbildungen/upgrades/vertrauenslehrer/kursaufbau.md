@@ -29,7 +29,7 @@ weight: 1
 Eine überschaubare Zahl an Teilnehmer\*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Seminarhinhalte

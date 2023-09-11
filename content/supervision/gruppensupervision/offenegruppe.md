@@ -103,7 +103,7 @@ Die Gruppe findet ab einer Mindestteilnehmeranzahl von 10 Personen statt und ist
 {{< /card-more >}}
 
 {{< card-more icon="icon/anerkennung.png" title="Anerkennung">}}
-Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt. Alle Teilnehmer\*innen erhalten eine Bestätigung über die Supervisionseinheiten.
+Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt. Alle Teilnehmer\*innen erhalten eine Bestätigung über die Supervisionseinheiten.
 {{< /card-more >}}
 
 {{% /box %}}

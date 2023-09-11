@@ -44,7 +44,7 @@ AUFBAU DES LEHRGANGS SUPERVISION
 Diese Fortbildung schließt ohne Prüfung ab. 
 
 Alle TeilnehmerInnen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater*innen anerkannt.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

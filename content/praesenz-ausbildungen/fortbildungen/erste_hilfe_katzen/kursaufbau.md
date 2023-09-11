@@ -58,7 +58,7 @@ Im Wechsel: 2 Stunden Theorie / S Stunden üben
 Diese Fortbildung endet ohne Prüfung. 
 
 Alle Teilnehmer/innen erhalten eine Bestätigung über fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater/innen anerkannt.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater/innen anerkannt.
 
 {{% /small  %}}
 {{% /box %}}

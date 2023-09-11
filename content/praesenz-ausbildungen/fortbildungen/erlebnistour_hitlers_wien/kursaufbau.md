@@ -28,7 +28,7 @@ weight: 1
 Die Spurensuche führt uns von den Anfängen, über wechselhafte Zeiten bis zum Zerfall der Monarchie und den Gräueltaten während des nationalsozialistischen Regimes bis hin zum Wiederaufblühen der Gemeinde in den heutigen Tagen. 
 
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschrieben Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% box blue=1 %}}

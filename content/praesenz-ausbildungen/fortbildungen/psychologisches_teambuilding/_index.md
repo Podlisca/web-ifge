@@ -23,7 +23,7 @@ rich_faq:
         antwort: "Dipl. Lebens- und SozialberaterInnen, Lebens- und SozialberaterInnen in Ausbildung, interessierte SozialarbeiterInnen, BetreuerInnen, PsychologInnen, PädagogInnen, TrainerInnen, Coaches, EnergetikerInnen mit Erfahrung in der Gesprächsführung, usw."
     -   frage: "Was ist der Methodenschwerpunkt der Zusatzausbildung psychologisches Teambuilding am IFGE"
         antwort: "Der Methodenschwerpunkt der Zusatzausbildung psychologisches Teambuilding am IFGE liegt unter anderem auf vielen Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion, die eigene Rolle als TeamleiterIn, Ultisationsmöglichkeiten, Zielentwicklungsprozesse und vieles mehr."
-    -   frage: "Welche Möglichkeiten einer gesetzlich vorgeschriebenen Weiterbildung für Lebens- und Sozialberater und Lebens-und SozialberaterInnen gibt es?"
+    -   frage: "Welche Möglichkeiten einer gesetzlich vorgeschriebenenen Weiterbildung für Lebens- und Sozialberater und Lebens-und SozialberaterInnen gibt es?"
         antwort: "Am IFGE in Niederösterreich, Wien und Burgenland gibt es eine große Auswahl an Fortbildungsmöglichkeiten (wie z.B. das psychologische Teambuilding)welches als fachliche Fortbildung seitens der WKO anerekannt wird."
 
 ---

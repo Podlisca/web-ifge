@@ -13,7 +13,7 @@ weight: 1
 ***
 
 
-Gesetzlich vorgeschriebene Informationen
+Gesetzlich vorgeschriebenene Informationen
 
 Impressum gemäß § 24 Mediengesetz, Offenlegung gemäß § 25 Mediengesetz und Kennzeichnung gemäß § 5 E-Commerce-Gesetz
 

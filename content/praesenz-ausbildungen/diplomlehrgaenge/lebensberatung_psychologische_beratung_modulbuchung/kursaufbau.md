@@ -19,7 +19,7 @@ rich_faq:
     -   frage: "Wie lange dauert die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychosoziale Beraterin?"
         antwort: "Die Dauer der Ausbildung ist per Gesetz festgelegt und muss mindesten 5 Semester andauern und 584 Ausbildungsstunden beinhalten. Absolvieren kann man die Diplomausbildung bei zertifizierten Ausbildungsinstituten. Gesetzlich anerkannte Lehrgänge haben WKO Zertifizierungsnummer. Z. B. ZA-LSB 233.1/2012 (Zertifizierungsnummer des IFGE)."
     -   frage: "Wie ist der Lehrplan für die Ausbildung zum Lebensberater- psychologischen Berater, zur Lebensberaterin - psychosoziale Beraterin aufgeteilt?"
-        antwort: "Die 584 gesetzlich vorgeschrieben Ausbildungsstunden müssen wie folgt aufgeteilt werden:
+        antwort: "Die 584 gesetzlich vorgeschriebenen Ausbildungsstunden müssen wie folgt aufgeteilt werden:
         
         20 Stunden Einführung in die Lebensberatung und Sozialberatung psychosoziale Beratung
         120 Stunden Gruppenselbsterfahrung
