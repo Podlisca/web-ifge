@@ -58,7 +58,7 @@ Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er f
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
-Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Diese Zustimmung kann nicht zurück genommen werden.  Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
+
 
 ### 3.	Nutzungsbedingungen
 Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.

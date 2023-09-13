@@ -23,7 +23,7 @@ weight: 1
 ## Organisatorisches 
 #### Sommeraktion bis 31.08.2023  **Spare jetzt € 450,-** 
 
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 * Sie erhalten **3 Jahre Vollzugriff** auf alle Lehrmaterialien 
 * Wir bieten nur **Real - Live Szenen** - authentisch und immer offen für andere Herangehensweisen
 * Nach der Anmeldung & Überweisung der (An)Zahlung starten Sie sofort mit den  **13 Willkommensvideos und den ersten kleinen Aufgaben** 
