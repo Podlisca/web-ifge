@@ -59,41 +59,34 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 
 
-
 #### Diplomausbildungen
-***
+
 {{% kursbox %}}
-{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
-{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
-{{< kurs titel="Diplomausbildung: Coaching" link="/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
+{{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
+{{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/onlineakademie_philo_2.jpg" color="light-red" >}}
 
 {{% /kursbox %}}
 
-***
 #### Upgrades
-***
-{{% kursbox %}}
-{{< kurs titel="Sexualberatung & Traumaberatung" link="/praesenz-ausbildungen/upgrades/sexualberatung_traumaberatung/" image="/img/sv_supervision.jpg" >}}
-{{< kurs titel="Sexualität & Paarberatung" link="/praesenz-ausbildungen/upgrades/sexual_und_paarberatung/" image="/img/upgrade_sex_paar.jpg" color="light-red" >}}
-{{< kurs titel="Sexualität, Alter & Behinderung" link="/praesenz-ausbildungen/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
-{{< kurs titel="Sexualität & BDSM" link="/praesenz-ausbildungen/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
-{{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/praesenz-ausbildungen/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
-{{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/praesenz-ausbildungen/upgrades/supervisionsausbildung/" image="/img/index_sv_ausbildung.jpg" color="light-red">}}
 
+{{% kursbox %}}
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
+{{< kurs titel="Grundlagen Aufstellungsarbeit & SGF METHODE®" link="/onlineakademie/upgrades_akademie/systemische_grundlagen" image="/img/onlineakademie_philo_8.jpg" >}}
 
 {{% /kursbox %}}
 
-***
-#### Fortbildungen
-***
-{{% kursbox %}}
 
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
-{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/praesenz-ausbildungen/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
-{{< kurs titel="Historische & politische Aspekte in der Beratung" link="/praesenz-ausbildungen/fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
-{{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/praesenz-ausbildungen/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
-{{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
+
+#### FortbildungenSGF Methode®
+
+{{% kursbox %}}
+{{< kurs titel="Familienaufstellung - SGF Methode® - Lösungssätze" link="/onlineakademie/fortbildungen_akademie/system_loesungssaetze" image="/img/onlineakademie_philo_6.jpg" color="light-red" >}}
+{{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_philo_4.jpg" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_philo_1.jpg" color="light-red" >}}
+{{< kurs titel="Der menschliche Körper - verständlich erklärt" link="/onlineakademie/fortbildungen_akademie/koerper_verstaendlich_erklaert" image="/img/onlineakademie_philo_5.jpg" >}}
+
+{{< kurs titel="FengShui im psychosozialem Setting" link="/onlineakademie/fortbildungen_akademie/fengshui" image="/img/onlineakademie_philo_10.jpg" color="light-red" >}}
+{{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/onlineakademie_philo_3.jpg" color="light-red" >}}
 
 
 {{% /kursbox %}}

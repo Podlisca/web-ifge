@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_akademie
         identifier: systemdimensionsbrett
-draft: false
+draft: true
 weight: 7
 description: "Familienaufstellung - SGF Methode® & SystemDimensionsbrett"
 og_title: "Familienaufstellung - SGF Methode® & SystemDimensionsbrett"
