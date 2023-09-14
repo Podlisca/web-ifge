@@ -42,48 +42,12 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-# Termine: Praktische Tage:
+# Termine: Praktische Tage in Wien:
 
 {{% box top-align=1 %}}
 {{% small  %}}
-### Schwerpunkt: Familienaufstellung
-**11.03.2023** </br>
-von 10:00 bis 17:00 Uhr - ausgebucht
-
-**Kosten:** € 290,-  </br>
-
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
-**Veranstaltungsort:** </br>
-IFGE St. Pölten
-
-**Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
-
-{{< buchung-vorauswahl text="Ausgebucht" veranstaltung="Kurs buchen Praktische Tage: 11.03.23 Schwerpunkkt: Familienaufstellung" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-### Schwerpunkt: Sexual- & Paarberatung
-**06.05.2023**</br>
-von 10:00 bis 17:00 Uhr
-
-**Kosten:** € 290,-  </br>
-
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
-**Veranstaltungsort:** </br>
-IFGE Burgenland
-
-**Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
-
-{{< buchung-vorauswahl text="Kurs buchen" veranstaltung="Kurs buchen Praktische Tage: 06.05.23 Schwerpunkkt: Sexual- & Paarberatung" >}}
-{{% /small  %}}
-
-{{% small  %}}
-### Schwerpunkgt: klassische Beratung & Krisenberatung
-
-**Termin folgt**</br>
+### Alle Themen aus der IFGE Onlineakademie sind herzlich Willkommen 
+**03.12.2023** </br>
 von 10:00 bis 17:00 Uhr
 
 **Kosten:** € 290,-  </br>
@@ -95,10 +59,9 @@ IFGE Wien
 
 **Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
 
-{{< buchung-vorauswahl text="Kurs buchen" veranstaltung="----" >}}
+{{< buchung-vorauswahl text="Anmelden" veranstaltung="Kurs buchen Praktische Tage: 03.12.2023" >}}
 
-{{% /small  %}}
-{{% /box %}}
+
 
 
 
