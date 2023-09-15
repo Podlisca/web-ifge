@@ -154,7 +154,7 @@ Zahlung nach Anmeldung. <br/>
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskauf die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+**Die Ausbildung ist für alle offen**. Nach Kurskauf ist die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
@@ -247,7 +247,7 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 
 * **3 Tage danach** startet das Kick off
-* **Ausführliche Online-Vorlesungen & Interaktive Lehrveranstaltungen** sowie Betreuung der Kommentare und Fragen zu den Videos garantieren individuelle und persönliche Betreuung
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 * **3 Jahre Vollzugriff** auf alle Lehrmaterialien
  
 
@@ -444,7 +444,7 @@ Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er f
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
-Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet und danach allen Kursteilnehmer\*innen zur Verfügung gestellt. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Diese Zustimmung kann nicht zurück genommen werden.  Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
+
 
 **3.	Nutzungsbedingungen**
 Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.

@@ -101,28 +101,11 @@ Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00
 {{< image src="/img/seminarraum1.jpg">}}
 
 
-#### Start: 10.01.2024
+#### Termine in Planung
 Die Gruppe findet 10 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
 
-**Termine 2024:**
+**Termine folgen:**
 
-{{< center >}}
-
-10.01.2024<br/>
-14.02.2024<br/>
-13.03.2024<br/>
-10.04.2024<br/>
-08.05.2024<br/>
-12.06.2024<br/>
-11.09.2024<br/>
-09.10.2024<br/>
-13.11.2024<br/>
-11.12.2024<br/>
-{{< /center >}}
-
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Burgenland 2024 " >}}
 
 {{% /small  %}}
 {{% /box %}}

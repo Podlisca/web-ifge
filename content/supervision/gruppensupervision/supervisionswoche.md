@@ -61,13 +61,13 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 #### Burgenland
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-### Termin folgt<br/>
+### 29.07. - 02.08.2024 <br/>
 
 Mo. - Do. 09:00 bis 18:00 Uhr<br/>
 Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervision - Intensivwoche Bgld. 2024" >}}
 
 {{% /small  %}}
 {{% /box %}}
