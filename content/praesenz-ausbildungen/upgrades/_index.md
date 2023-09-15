@@ -37,7 +37,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 {{< kurs titel="Sexualität, Alter & Behinderung" link="/praesenz-ausbildungen/upgrades/sexualitaet_und_behinderung/" image="/img/sex_alter.jpg" >}}
 {{< kurs titel="Sexualität & BDSM" link="/praesenz-ausbildungen/upgrades/sexualitaet_und_bdsm/" image="/img/upgrade_bdsm.jpg" color="light-red" >}}
 {{< kurs titel="Ausbildung zum/zur VertrauenslehrerIn" link="/praesenz-ausbildungen/upgrades/vertrauenslehrer" image="/img/vertrauenslehrer1.jpg" >}}
-{{< kurs titel="WKO-Zertifiziert: Supervisionslehrgang" link="/praesenz-ausbildungen/upgrades/supervisionsausbildung/" image="/img/index_sv_ausbildung.jpg" color="light-red">}}
+
 
 
 {{% /kursbox %}}
