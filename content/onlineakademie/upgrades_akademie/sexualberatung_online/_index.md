@@ -110,7 +110,7 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskauf die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
+**Die Ausbildung ist für alle offen**. Nach Kurskauf ist die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
