@@ -49,7 +49,7 @@ Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, tier
 
 Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist oder eine medizinische Behandlung ersetzt. Alle Angebote unterliegen strengster Vertraulichkeit!
 
-Seminar- und Kursgebühren, Onlienangebote sind nach Anmeldung auf das Konto:
+Seminar- und Kursgebühren für alle Angebote sind nach Anmeldung auf das Konto:
 
 Die AGB für Kursangebote entnehmen Sie bitte dem jeweiligen Angebot für welches Sie sich angemeldet haben.
 
@@ -82,4 +82,32 @@ Die Silvia Podlisca und seine Arbeitnehmer sind zur Verschwiegenheit über die i
 Auf Wunsch des Der Klient/Die Klientin Silvia Podlisca von der Verschwiegenheit entbinden.
 
 Eine Entbindung von Silvia Podlisca von der Verschwiegenheitspflicht bedeutet jedoch nicht, dass Silvia Podlisca zur Auskunftserteilung auch verpflichtet ist.
+
+## Onlineakademie
+
+ALLGEMEINE GESCHÄFTSBEDINGUNGEN
+1. Leistung Der*die Nutzer*in ist Teilnehmer des Onlinelehrgangs „Klangschalen Practitioner“ des IFGE. Der*die Nutzer*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken.
+
+2. Zugang
+
+Die Ausbildung ist für alle offen
+Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+
+Der*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung.
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
+
+3. Nutzungsbedingungen Der*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet. Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer. Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen. Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,–. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
+
+4. Garantie IFGE übernimmt keine Garantie dafür, dass der*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.  
+
+5. Storno Intensivwoche Pinkafeld Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
+
+Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
+
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+
+6. Gerichtstand: Wien, Österreich
+
+
 
