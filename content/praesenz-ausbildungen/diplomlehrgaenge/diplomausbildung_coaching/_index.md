@@ -45,7 +45,6 @@ Die Kompetenzen & Methoden, die in dieser Ausbildung vermittelt werden sind viel
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{% floatbox %}}
 
 
 {{< line icon="icon/supervision_tuerkis.png" >}}

@@ -70,7 +70,6 @@ Und genau dies passiert in der [Familienaufstellung](https://www.ifge.at/gruppen
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% floatbox %}}
 
 {{% box blue=1 %}}
 {{% small  %}}

@@ -32,6 +32,7 @@ aliases:
 {{< youtube fmXmn39H7Zs>}}
 {{< linebreak >}}
 {{% /float-images %}}
+{{% /floatbox %}}
 
 
 ## Menschen bilden, begleiten und bereichern
@@ -162,9 +163,6 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{% box blue=1 %}}
 {{% small  %}}
 
-{{% box top-align=1 %}}
-{{% small  %}}
-
 **Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
@@ -176,3 +174,6 @@ Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anme
 
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
+
+{{% /small  %}}
+{{% /box  %}}

@@ -47,9 +47,6 @@ Unsere Weiterbildungen im Online-Live-Format kombinieren die Vorteile von digita
  Wir nutzen dabei sozusagen das Beste aus beiden Welten. Konkret bedeutet das, dass die Fortbildungen zu fixen Terminen im Gruppensetting stattfinden. Allerdings gänzlich im Online-Raum, weshalb Teilnehmer*innen örtlich flexibel sind. Moderne technische Systeme sowie Sicherheit in der Online-Welt sind für uns Voraussetzung für erfolgreiche digitale Weiterbildungen.
 
 
-{{% floatbox %}}
-
-
 ## Ein Format. Viele Vorteile.  
 
 {{% floatbox %}}
@@ -115,4 +112,5 @@ Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bit
 #### Niederösterreich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
  
-
+{{% /small  %}}
+{{% /box %}}

@@ -102,7 +102,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 
-{{% box top-align=1 %}}
-{{% small  %}}
-
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. " >}}

@@ -79,8 +79,6 @@ In der Glaubenssatzaufstellung im Rahmen einer [psychologischen Beratung](https:
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% floatbox %}}
-
 {{% box blue=1 %}}
 {{% small  %}}
 

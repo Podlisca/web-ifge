@@ -82,8 +82,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
-{{% box top-align=1 %}}
-{{% small  %}}
-
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}

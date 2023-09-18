@@ -67,4 +67,4 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**
 {{% /iconmenu %}}
 
 
-{{% floatbox %}}
+{{% /floatbox %}}

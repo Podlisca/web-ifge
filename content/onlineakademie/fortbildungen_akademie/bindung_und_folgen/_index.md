@@ -55,7 +55,7 @@ Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Die
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. " >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
-{{% floatbox %}}
+
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

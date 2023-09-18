@@ -105,9 +105,6 @@ jeweils samstags von 09:00 bis 17:30 Uhr
 
 {{< line icon="icon/bus.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
-
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -123,7 +120,5 @@ Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anme
 Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
-
-
-
-
+{{% /small  %}}
+{{% /box  %}}

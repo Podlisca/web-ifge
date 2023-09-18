@@ -84,8 +84,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
-{{% box top-align=1 %}}
-{{% small  %}}
-
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}

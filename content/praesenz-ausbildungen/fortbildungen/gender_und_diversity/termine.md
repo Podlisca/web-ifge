@@ -81,8 +81,5 @@ Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbild
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
 
-
-
-
-
-
+{{% /small  %}}
+{{% /box  %}}

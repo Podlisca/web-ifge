@@ -57,7 +57,6 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
 
 {{< line icon="icon/aufstellung.png" >}}
-{{% floatbox %}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}

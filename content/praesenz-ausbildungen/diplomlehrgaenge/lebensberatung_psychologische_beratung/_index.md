@@ -60,7 +60,6 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
-{{% floatbox %}}
 
 ## Probleme lösen. Perspektiven erarbeiten.
 

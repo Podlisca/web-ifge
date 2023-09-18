@@ -19,9 +19,6 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{% box %}}
-{{% small  %}}
-
 {{< line icon="icon/termin_kursplan.png" >}}
 
 {{% box %}}
@@ -65,6 +62,5 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 #### Niederösterreich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}s
 
-
-
-
+{{% /small  %}}
+{{% /box  %}}

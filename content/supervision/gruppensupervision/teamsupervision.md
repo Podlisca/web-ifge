@@ -104,4 +104,5 @@ Kontaktieren Sie mich für einen Termin unter +43 676 610 89 36 oder informieren
 
 {{% /small %}}
 {{% /box %}}
-{{% floatbox %}}
+
+{{% /floatbox %}}

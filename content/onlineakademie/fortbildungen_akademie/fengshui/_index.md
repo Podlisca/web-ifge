@@ -54,7 +54,6 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner*
 {{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
-{{% floatbox %}}
 
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
