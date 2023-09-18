@@ -50,6 +50,9 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 **03.12.2023** </br>
 von 10:00 bis 17:00 Uhr
 
+{{% /small  %}}
+{{% /box %}}
+
 **Kosten:** € 290,-  </br>
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
