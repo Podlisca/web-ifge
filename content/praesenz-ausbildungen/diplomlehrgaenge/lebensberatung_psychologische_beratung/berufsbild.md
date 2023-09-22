@@ -86,7 +86,7 @@ Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Ar
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980">}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
@@ -221,7 +221,7 @@ Hier finden Sie vertiefende Informationen über:
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " >}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980">}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
