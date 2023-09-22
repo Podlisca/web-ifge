@@ -115,7 +115,7 @@ Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980">}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980" >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
@@ -184,7 +184,7 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980">}}
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980" >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 
