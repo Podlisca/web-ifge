@@ -148,7 +148,7 @@ Da das IFGE diesen Lehrgang bereits zum wiederholten Male anbietet, sind wir in 
  
 {{% box top-align=1 %}}
 {{% small  %}}
-#### IFGe Software - Praktkum
+#### IFGe Software - PRAKTIKUM
 {{< slider content="/img/software1.jpg,/img/software2.jpg,/img/software3.jpg,/img/software4.jpg,/img/software5.jpg,/img/software6.jpg,/img/software7.jpg" >}}
 
 {{% /small  %}}
