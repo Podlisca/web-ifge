@@ -64,46 +64,25 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-## Kursermine & Anmeldung
+## Kurstermine & Anmeldung
 **Aufgrund der geänderten Ausbildungsverordnung sind dies die letzten Kurse die am IFGE angeboten werden.**
 
 Die Ausbildung findet zu **100% in Präsenz** statt. 
 
-***
-
-{{% box top-align=1 %}}
-{{% small  %}}
-
-#### Burgenland - LSB 22
-{{< image src="/img/seminarraum1.jpg">}}
-
-#### Start: 4. September 2023
-
-**immer montags von 14:00 bis 20:00 Uhr**
-
-[Termine LSB 22 herunterladen](/downloads/LSB_22_termine.pdf)
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
-
-{{% /small  %}}
-
-
-{{% small  %}}
 
 #### Wien - LSB 24
-{{< image src="/img/ifge_wien.jpg">}}
-
 #### Start: 09. Februar 2024 
 
-**immer freitags von 14:00 bis 20:00 Uhr**
+immer freitags von 14:00 bis 20:00 Uhr**
 
 [Termine LSB 24 herunterladen](/downloads/lsb_feb_2024.pdf)
+
+**Anmeldeschluss: 30.11.2023**
 
 {{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980" >}}
 
 
-{{% /small  %}}
-{{% /box %}}
+
 
 
 {{< line icon="icon/bus.png" >}}
