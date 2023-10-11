@@ -73,7 +73,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-immer freitags von 14:00 bis 20:00 Uhr**
+**immer freitags von 14:00 bis 20:00 Uhr**
 
 [Termine LSB 24 herunterladen](/downloads/lsb_feb_2024.pdf)
 
