@@ -147,6 +147,46 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 
 {{< line icon="icon/beratung.png" >}}
 
+## Das sagen begeisterte Kunden:
+<div class="box video">
+{{% small %}}
+
+### Miriam Geiger
+{{< youtube tPQggpXMOFA>}}
+{{% /small %}}
+{{% small %}}
+
+### Miras Finjan
+{{< youtube rU4Hh-lT6pU>}}
+{{% /small %}}
+{{% small %}}
+
+### Lusy Skaya
+{{< youtube 3TeOKF8qv7w>}}
+{{% /small %}}
+
+</div>
+
+<div class="box video">
+{{% small %}}
+
+### Miriam Geiger
+{{< youtube gkWXUhQDAWU>}}
+{{% /small %}}
+{{% small %}}
+
+### Miras Finjan
+{{< youtube u6jCYDH597k>}}
+{{% /small %}}
+{{% small %}}
+
+### Lusy Skaya
+{{< youtube _q-cePhv6Q4>}}
+{{% /small %}}
+
+</div>
+{{< line icon="icon/beratung.png" >}}
+
 ## Kursaufbau & Lehrinhalte
 
 
@@ -154,7 +194,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 * **3 Tage danach** startet das Kick off
 * **Betreute Lerngruppe** über Facebook
 
-***
+
 
 {{% box more=1 blue=1 %}}
 {{< card-more  title="Kick-off" >}}

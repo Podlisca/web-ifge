@@ -150,6 +150,27 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 
 {{< line icon="icon/aufstellung.png" >}}
 
+## Das sagen begeisterte Kunden:
+<div class="box video">
+{{% small %}}
+
+### Miriam Geiger
+{{< youtube tPQggpXMOFA>}}
+{{% /small %}}
+{{% small %}}
+
+### Miras Finjan
+{{< youtube rU4Hh-lT6pU>}}
+{{% /small %}}
+{{% small %}}
+
+### Lusy Skaya
+{{< youtube 3TeOKF8qv7w>}}
+{{% /small %}}
+
+</div>
+
+{{< line icon="icon/aufstellung.png" >}}
 
 ## Kursaufbau & Lehrinhalte
 

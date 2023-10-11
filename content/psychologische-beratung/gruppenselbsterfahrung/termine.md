@@ -40,20 +40,14 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 #### Eintagesseminare
 
-**18.06.2023** 09:00 - 18:00 Uhr</br>
-**23.06.2023** 14:00 - 20:00 Uhr</br>
 
-
-**02.09.2023** 10:00 - 16:00 Uhr</br>
-**20.09.2023** 09:30 - 13:30 Uhr</br>
-**23.09.2023** 10:00 - 16:00 Uhr</br>
-**14.10.2023** 10:00 - 16:00 Uhr</br>
-**20.10.2023** 14:00 - 20:00 Uhr</br>
+**14.10.2023** 14:00 - 20:00 Uhr</br>
 **04.11.2023** 10:00 - 16:00 Uhr</br>
 **08.11.2023** 09:30 - 13:30 Uhr</br>
 **10.11.2023** 14:00 - 20:00 Uhr</br>
 **24.11.2023** 14:00 - 20:00 Uhr</br>
 **06.12.2023** 09:30 - 13:30 Uhr</br>
+**18.12.2023** 14:00 - 20:30 Uhr</br>
 
 **14.01.2024** 09:00 - 18:00 Uhr</br>
 **26.01.2024** 14:00 - 20:00 Uhr</br>
@@ -80,9 +74,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 #### Dreitages Seminar
 
-**Freitag, 18.08.2023** von 14:00 bis 20:00 Uhr</br>
-**Samstag, 19.08.2023** von 10:00 bis 18:00 Uhr</br>
-**Sonntag, 20.08.2023** von 10:00 bis 17:00 Uhr</br>
 
 **Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
 **Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
@@ -92,13 +83,12 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 
 #### Eintagesseminare
 
-**18.06.2023**	09:00	18:00 Uhr</br>
-**02.07.2023**	09:00	18:00 Uhr</br>
-**20.09.2023**	09:30	13:30 Uhr</br>
-**21.09.2023**	14:00 - 20:00 Uhr</br>
-**08.11.2023**	09:30	13:30 Uhr</br>
+
+**23.10.2023**	14:00 - 20:00 Uhr</br>
+**02.11.2023**	14:00 - 20:00 Uhr</br>
 **09.11.2023**	14:00 - 20:00 Uhr</br>
 **06.12.2023**	09:30	13:30 Uhr</br>
+**04.12.2023**	14:00 - 20:00 Uhr</br>
 **07.12.2023**	14:00 - 20:00 Uhr</br>
 
 **14.01.2024**	09:00	18:00 Uhr</br>
@@ -123,8 +113,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 
 #### Eintagesseminare
 
-**15.10.2023**  10:00 - 16:00 Uhr</br>
-**19.11.2023**  10:00 - 16:00 Uhr</br>
+
 **10.12.2023**  10:00 - 16:00 Uhr</br>
 
 

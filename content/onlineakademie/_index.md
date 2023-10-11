@@ -77,6 +77,90 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
+## Das sagen begeisterte Kunden:
+<div class="box video">
+{{% small %}}
+### Miriam Geiger
+{{< youtube tPQggpXMOFA>}}
+{{% /small %}}
+{{% small %}}
+
+### Miras Finjan
+{{< youtube rU4Hh-lT6pU>}}
+{{% /small %}}
+{{% small %}}
+
+### Lusy Skaya
+{{< youtube 3TeOKF8qv7w>}}
+{{% /small %}}
+
+</div>
+
+
+***
+<div class="box video">
+{{% small %}}
+
+### Cornelia Leiss
+{{< youtube l61L-56NX7c>}}
+{{% /small %}}
+{{% small %}}
+
+### Tanja Kitzler
+{{< youtube -RoBTN45hJQ>}}
+{{% /small %}}
+{{% small %}}
+
+### Franz Thuner
+{{< youtube PFsssWGg8Vk>}}
+{{% /small %}}
+
+</div>
+
+***
+<div class="box video">
+{{% small %}}
+
+### Michaela Gold
+{{< youtube Jmud1D3bSjw>}}
+{{% /small %}}
+{{% small %}}
+
+### Linzer Andrea
+{{< youtube eEysmsF0f4Y>}}
+{{% /small %}}
+{{% small %}}
+
+### Knor Margit
+{{< youtube EwGB5R4Couw>}}
+{{% /small %}}
+
+</div> 
+
+***
+
+<div class="box video">
+{{% small %}}
+
+### Miriam Geiger
+{{< youtube gkWXUhQDAWU>}}
+{{% /small %}}
+{{% small %}}
+
+### Miras Finjan
+{{< youtube u6jCYDH597k>}}
+{{% /small %}}
+{{% small %}}
+
+### Lusy Skaya
+{{< youtube _q-cePhv6Q4>}}
+{{% /small %}}
+
+</div>
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+
 ## Verschaffen Sie sich einen Überblick über unsere Online-Kurse im 100% Online-Format
 
 
