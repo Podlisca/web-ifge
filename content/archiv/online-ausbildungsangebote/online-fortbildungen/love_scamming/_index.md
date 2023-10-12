@@ -4,7 +4,7 @@ menu:
     main:
         parent: online-fortbildungen
         identifier: love_scamming
-draft: false
+draft: true
 weight: 6
 aliases: 
     - "/online-ausbildungsangebote/love_scamming/"

@@ -58,13 +58,13 @@ Durch die **vermehrte Seminar- und Unterrichtstätigkeit** sowie die **Firmenbet
 
 {{% box blue=1 %}}
 {{% large %}}
-Im Jahr 2012 startete an meinem Institut somit der erste [Diplomlehrgang zur Berufsausbildung Lebens- und Sozialberatung – psychosoziale Beratung](/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/). 
+Im Jahr 2012 startete an meinem Institut somit der erste Diplomlehrgang zur Berufsausbildung Lebens- und Sozialberatung – psychosoziale Beratung. 
 
 Mittlerweile wurden am IFGE hunderte Diplome und Zertifikate erarbeitet und zahlreiche Lehrgänge erfolgreich abgeschlossen. Heute laufen drei bis fünf Berufsausbildungen an unterschiedlichen Wochentagen und an verschiedenen Orten parallel: Denn neben der Hauptniederlassung des IFGE in Wien wurde 2018 in Pinkafeld im Burgenland eine Zweigstelle errichtet und 2019 folgte die Entscheidung, auch im niederösterreichischen St. Pölten eine IFGE-Niederlassung zu gründen.
 
 Lebensberatung, Lebens- und Sozialberatung, psychosoziale Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychosoziale Beratung, Ausbildung psychosoziale Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Klangschalen
 
-Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender [Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen](/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/). 
+Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen. 
 
 {{< silvia >}}
 

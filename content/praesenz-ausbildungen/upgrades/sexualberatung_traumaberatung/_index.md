@@ -31,7 +31,7 @@ Die Sexualität eines Menschen beeinflusst seine Identität, sein Selbstbild und
 
 Viele Menschen empfinden sexuelle Bedürfnisse und Traumata als Tabuthemen. Themen, die in Gesellschaft, manchmal sogar gegenüber den eigenen Partner\*innen, nicht angesprochen werden. Umso wichtiger ist das Angebot von [Sexual- und Paarberatung](/psychologische-beratung/spezialisierungen/sexualitaetpaare/), die mit den richtigen Methoden sexuelle Identität beraten und begleiten.
 
-Als zentrale Säule der [psychologischen Lebens- und Sozialberatung](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) ist [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) Bestandteil vieler Ausbildungsprogramme. Allerdings häufig nur am Rande, oberflächlich und nicht in der Tiefe, welche dieses sensible Thema de facto erfordert und verdient hat. Der Lehrgang richtet sich an diplomierte oder sich in Ausbildung befindende Lebens- und Sozialberater*innen, die sich auf den Bereich Sexualberatung fokussieren oder ihr (Methoden-)Wissen erweitern möchte.
+Als zentrale Säule der psychologischen Lebens- und Sozialberatung ist [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) Bestandteil vieler Ausbildungsprogramme. Allerdings häufig nur am Rande, oberflächlich und nicht in der Tiefe, welche dieses sensible Thema de facto erfordert und verdient hat. Der Lehrgang richtet sich an diplomierte oder sich in Ausbildung befindende Lebens- und Sozialberater*innen, die sich auf den Bereich Sexualberatung fokussieren oder ihr (Methoden-)Wissen erweitern möchte.
 
 
 {{% /floatbox %}}

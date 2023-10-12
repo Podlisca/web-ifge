@@ -2,8 +2,8 @@
 title: "Onlinephilosophie und Kursangebote"
 menu: 
     main:
-        parent: "online"
-draft: false
+        parent: "archiv"
+draft: true
 weight: 1
 description: "Den Wandel der Zeit nutzen – das ist ein zentraler Teil der Philosophie am IFGE. Das Institut für ganzheitliches Erleben ist seit seiner Gründung im Jahr 2009 dafür bekannt, auf aktuellste Technik im analogen sowie im digitalen Bereich zu setzen. Gerade im Online-Bereich hat sich bereits nachhaltig bewährt, dass am IFGE Trends frühzeitig erkannt, eingebe ttet und genützt werden. Die weitreichende Erfahrung im Online-Unterricht ermöglicht es uns, die herzliche Lernumgebung, für die das IFGE bekannt ist, auch über den Bildschirm zu vermitteln."
 og_title: "Philosophie: Online Schulungen und Trainings"
@@ -72,15 +72,6 @@ Sie möchten von Vortragenden begleitet werden und in der Gruppe lernen? Wünsch
 
 
 
-
-#### Online-Live-Format
-
-{{% kursbox %}}
-{{< kurs titel="Ganzheitlich gesund - Grundlagen der Psychosomatik" link="/online-ausbildungsangebote/online-fortbildungen/grundlagen_psychosomatik" image="/img/kursuebersicht_psychosomatik.jpg" >}}
-{{< kurs titel="Umgang mit sexueller Belästigung & Stalking" link="/online-ausbildungsangebote/online-fortbildungen/sexuelle_belaestigung" image="/img/silvia_sex_belaestigung.jpg" color="light-red" >}}
-{{< kurs titel="Umgang mit Love Scamming" link="/online-ausbildungsangebote/online-fortbildungen/love_scamming" image="/img/umgang_love_scamming.jpg"  >}}
-{{< kurs titel="Zeig' dich!: Praxis von Anfang an professionell gründen" link="/online-ausbildungsangebote/online-fortbildungen/erste_schritte_praxisaufbau" image="/img/zeig_dich.jpg" color="light-red" >}}
-{{% /kursbox %}}
 
 
 

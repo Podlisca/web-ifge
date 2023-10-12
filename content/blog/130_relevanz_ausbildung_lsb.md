@@ -8,7 +8,7 @@ img: "beratung_2022.jpg"
 og_image: "/img/beratung_2021.jpg"
 description: "Die Ausbildung zur Lebens- und Sozialberatung - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Beraterinnen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…"
 ---
-**Die [Ausbildung zur Lebens- und Sozialberatung](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Berater\*innen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…**
+**Die Ausbildung zur Lebens- und Sozialberatung - Eine Ausbildung „nur“ für psychosoziale Berufe? Diese Frage müssen wir ganz klar mit NEIN beantworten. Für welche Berufsfelder die Ausbildung noch wertvoll ist, inwiefern Führungskräfte und Berater\*innen von psychosozialem Methodenwissen profitieren und was das Ganze mit dem Arbeitsmarkt zu tun hat, thematisieren wir im aktuellen Blog. Auf geht’s…**
 <br>
 
 

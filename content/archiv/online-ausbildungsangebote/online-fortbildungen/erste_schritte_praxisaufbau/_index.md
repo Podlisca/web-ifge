@@ -4,7 +4,7 @@ menu:
     main:
         parent: online-fortbildungen
         identifier: zeigdich
-draft: false
+draft: true
 weight: 9
 aliases: 
     - "/online-ausbildungsangebote/erste_schritte_praxisaufbau/"

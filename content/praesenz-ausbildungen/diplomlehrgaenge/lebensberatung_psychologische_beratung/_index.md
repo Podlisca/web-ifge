@@ -4,7 +4,7 @@ menu:
     main:
         parent: diplomlehrgaenge
         identifier: lsb
-draft: false
+draft: true
 weight: 1
 description: "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung - psychosoziale Beratung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr und am Wochenende von 10:00 bis 16:00 Uhr. Lernen in einer wertschätzenden und offenen Umgebung."
 og_title: "Ausbildung Lebensberatung - psychosoziale Beratung am IFGE"
@@ -70,7 +70,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 
 ***
 
-Hier geht es zu den **[INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/termine/)** 
+Hier geht es zu den **INFOVERANSTALTUNGEN / TERMINÜBERSICHT & ANMELDUNG** 
 ***
 WKO Zertifizierungsnummer: ZA-LSB 233.1/2012
 

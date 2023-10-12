@@ -60,7 +60,7 @@ Im Zentrum der [psychosozialen Beratung](https://ifge.at/psychologische-beratung
 
 {{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Präsenzkurse">}}
 
-Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den [Diplomlehrgängen Lebens- und Sozialberatung – psychosoziale Beratung](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/), [Aufstellung nach der SGF®-Methode](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) von Silvia Podlisca und [Coaching](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/), bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
+Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den Diplomlehrgängen Lebens- und Sozialberatung – psychosoziale Beratung, [Aufstellung nach der SGF®-Methode](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) von Silvia Podlisca und [Coaching](https://ifge.at/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/), bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
 
 [Verschaffen Sie sich einen Überblick über unsere Präsenzausbildungen](https://ifge.at/praesenz-ausbildungen/)
 

@@ -25,7 +25,6 @@ aliases:
 #### Diplomausbildungen
 ***
 {{% kursbox %}}
-{{< kurs titel="Lebens- und Sozialberatung - psychosoziale Beratung" link="/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/" image="/img/unterricht_bgld.jpg" color="light-red" >}}
 {{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
 {{< kurs titel="Diplomausbildung: Coaching" link="/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
 

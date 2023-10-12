@@ -4,7 +4,7 @@ menu:
     main:
         parent: online-fortbildungen
         identifier: psychosomatik_online
-draft: false
+draft: true
 weight: 5
 aliases: 
     - "/online-ausbildungsangebote/grundlagen_psychosomatik/"

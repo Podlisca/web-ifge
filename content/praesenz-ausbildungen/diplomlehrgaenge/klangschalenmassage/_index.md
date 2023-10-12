@@ -38,7 +38,7 @@ Körper und Geist bilden eine Einheit. Eine Einheit, die Gesundheit, Wohlbefinde
 
 Die Klangschalenmassage blickt bereits auf eine lange Tradition zurück. Zu Recht, denn sie hat sich in vielen Situationen als positive Ergänzung zu psychologischer und/oder medizinischer Behandlung bewährt. Wenn Worte keine Wirkung erzielen und keine Veränderung initiieren, dann kann der Körper und damit auch die Psyche mit Klängen und Schwingungen angeregt werden. Mit Klangschalen werden Blockaden gelockert, Entspannung gefördert und Bewusstsein gestärkt.
 
-Die Klangschalenmassage-Ausbildung richtet sich an [Lebens- und Sozialberater\*innen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/), die bereits diplomiert sind oder sich aktuell in Ausbildung befinden. Durch den Kurs erweitern Sie Ihr Methodenspektrum um ein körperorientiertes Verfahren. 
+Die Klangschalenmassage-Ausbildung richtet sich an Lebens- und Sozialberater\*innen, die bereits diplomiert sind oder sich aktuell in Ausbildung befinden. Durch den Kurs erweitern Sie Ihr Methodenspektrum um ein körperorientiertes Verfahren. 
 
 
 

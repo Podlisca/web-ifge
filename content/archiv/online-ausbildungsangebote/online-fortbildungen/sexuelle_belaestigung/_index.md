@@ -4,7 +4,7 @@ menu:
     main:
         parent: online-fortbildungen
         identifier: sexuelle_belaestigung
-draft: false
+draft: true
 weight: 5
 aliases: 
     - "/online-ausbildungsangebote/sexuelle_belaestigung/"

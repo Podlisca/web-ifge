@@ -42,7 +42,7 @@ rich_faq:
 
 Dynamik, Zusammenhalt und Einstellung von Teams ist ein wichtiger Erfolgsfaktor für Projekte, Unternehmen und Organisationen. Mit den richtigen Tools und Methoden können Teams als soziale Systeme ganzheitlich verstanden und damit aktiv gefördert werden. Teambuilding stärkt nicht nur einzelne Menschen bzw. Mitarbeiter\*innen, sondern durch den Aufbau von Vertrauen, Verständnis und Verantwortung ganze Teams.
 
-Wer sich als [Lebens- und Sozialberater\*in](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/) im wirtschaftlichen Bereich wohlfühlt oder sein Angebot als Business Coach und Trainer\*in erweitern möchte, der kann durch die Ausbildung psychologisches Teambuilding sein Methodenwissen erweitern. In dieser Weiterbildung lernen Sie zahlreiche Indoor- und Outdoortools für die aktive Begleitung und Unterstützung von Teams kennen. Auch fachliche Reflexion ist ein zentraler Pfeiler des Kurses.
+Wer sich als Lebens- und Sozialberater\*in im wirtschaftlichen Bereich wohlfühlt oder sein Angebot als Business Coach und Trainer\*in erweitern möchte, der kann durch die Ausbildung psychologisches Teambuilding sein Methodenwissen erweitern. In dieser Weiterbildung lernen Sie zahlreiche Indoor- und Outdoortools für die aktive Begleitung und Unterstützung von Teams kennen. Auch fachliche Reflexion ist ein zentraler Pfeiler des Kurses.
 
 Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
 
