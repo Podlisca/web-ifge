@@ -9,6 +9,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 aliases:
     - "/ausbildungsangebote/philosophie-und-kursangebot.html"
     - "/ausbildungsangebote/"
+    - "/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/"
 ---
 
 
