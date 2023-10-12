@@ -4,7 +4,7 @@ draft: false
 weight: 4
 ---
 
-# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 
@@ -37,18 +37,18 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Tiere als Resilienzkonzept in der psychosozialen Beratung + Ihren Namen" an.
+zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Tiere als Resilienzkonzept in der psychologischen Beratung + Ihren Namen" an.
 
 Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
 Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
   
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
 ### 1.	Leistung
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiere als Resilienzkonzept in der psychologischen Beratung“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 ### 2.	Zugang
 Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
@@ -70,4 +70,4 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}

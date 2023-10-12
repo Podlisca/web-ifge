@@ -18,7 +18,7 @@ og_image: "/img/kursziel_systembrett.jpg"
 
 #### SYSTEMBRETT  – VERSCHIEDENE MÖGLICHKEITEN IDEAL AUSSCHÖPFEN
 
-{{< image src="/img/kursziel_systembrett.jpg" title="Silvia Podlisca leitet seit über 20 Jahren Aufstellungen sowohl im Plenum mit Repräsentanten\*innen wie auch im Einzelsetting am Systembrett.  Seit 2012 leitet sie den WKO – zertifizierten Diplomlehrgang für Lebens- und Sozialberatung – psychosoziale Beratung mit systemischem Schwerpunkt. "float="left">}}
+{{< image src="/img/kursziel_systembrett.jpg" title="Silvia Podlisca leitet seit über 20 Jahren Aufstellungen sowohl im Plenum mit Repräsentanten\*innen wie auch im Einzelsetting am Systembrett.  Seit 2012 leitet sie den WKO – zertifizierten Diplomlehrgang für Lebens- und Sozialberatung – psychologische Beratung mit systemischem Schwerpunkt. "float="left">}}
 
 Sie lernen für die  [systemische Einzelberatung](/psychologische-beratung/systemische-einzelberatung/) das Systembrett zeildienlich einzusetzen. Sie beginnen mit klassischen Dynamiken im Gegenwartssystem und steigern Ihre Fähigkeiten im Zuge der Fortbildung Schritt für Schritt um auch generationsübergreifende Verstrickungen zu erkennen, und lernen wie diese gelöst werden können.
 

@@ -47,7 +47,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 {{% kursbox %}}
 
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
-{{< kurs titel="Gender & Diversity in der psychosozialen Praxis" link="/praesenz-ausbildungen/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
+{{< kurs titel="Gender & Diversity in der psychologischen Praxis" link="/praesenz-ausbildungen/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
 {{< kurs titel="Historische & politische Aspekte in der Beratung" link="/praesenz-ausbildungen/fortbildungen/historische_politische_aspekte" image="/img/politische_bildung.jpg" color="light-red" >}}
 {{< kurs titel="Erlebnistour: Hitlers Wien / Jüdisches Wien" link="/praesenz-ausbildungen/fortbildungen/erlebnistour_hitlers_wien" image="/img/ziel_erlebnis.jpg" >}}
 {{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}

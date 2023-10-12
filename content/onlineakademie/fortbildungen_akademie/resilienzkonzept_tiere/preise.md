@@ -4,7 +4,7 @@ draft: false
 weight: 2
 ---
 
-# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 
@@ -33,4 +33,4 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 
 ## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}

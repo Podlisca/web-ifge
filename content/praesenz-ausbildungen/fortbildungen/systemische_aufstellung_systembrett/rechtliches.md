@@ -24,7 +24,7 @@ weight: 4
 ***
 ## Zugangsvoraussetzungen
 
-* Dipl. Lebens- und Sozialberater\*innen - psychosoziale Berater*innen
+* Dipl. Lebens- und Sozialberater\*innen - psychologischen Berater*innen
 * Interessierte Sozialarbeiter\*innen, Betreuer*innen, Psycholog\*innen, Pädagog\*innen, Psychotherapeuten\*innen
 * für IFGE Schüler*innen ab dem 4. Semester der Grundausbildung
 

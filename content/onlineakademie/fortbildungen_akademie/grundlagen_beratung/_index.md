@@ -1,13 +1,13 @@
 ﻿---
-title: "Grundlegendes in der psychosozialen Beratung/im Coaching"
+title: "Grundlegendes in der psychologischen Beratung/im Coaching"
 menu: 
     main:
         parent: fortbildungen_akademie
         identifier: grundlagen_beratung
 draft: true
 weight: 2
-description: "Grundlegendes in der psychosozialen Beratung/im Coaching"
-og_title: "Ausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching"
+description: "Grundlegendes in der psychologischen Beratung/im Coaching"
+og_title: "Ausbildung: Grundlegendes in der psychologischen Beratung/im Coaching"
 og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
@@ -37,7 +37,7 @@ rich_faq:
 
 **Lebensberatung, Paarberatung oder tiergestütztes Coaching**. 
 
-Persönlichkeitsentwicklung, Teambuilding oder Unternehmensberatung. Die **Ausprägungen und Arten** psychosozialer Beratung sind heute **vielfältiger denn je**. Doch so unterschiedlich einzelne Coachingformen im Detail auch sind, alle haben **eines gemeinsam**: 
+Persönlichkeitsentwicklung, Teambuilding oder Unternehmensberatung. Die **Ausprägungen und Arten** psychologischen Beratung sind heute **vielfältiger denn je**. Doch so unterschiedlich einzelne Coachingformen im Detail auch sind, alle haben **eines gemeinsam**: 
 
 Am Ende **geht es stets um Menschen**. Um ihre Bedürfnisse und Ziele. Um ihre Sorgen und Themen. Und um Menschen lösungsorientiert beraten und begleiten zu können, braucht es ein **solides Fundament**. 
 

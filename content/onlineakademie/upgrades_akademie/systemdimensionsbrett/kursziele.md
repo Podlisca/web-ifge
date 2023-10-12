@@ -24,7 +24,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 Teilnehmer\*innen dieser Weiterbildung erwartet ein **abwechslungsreiches Programm**. Die Inhalte werden in Form von Lernunterlagen, Onlinevideos und Übungen erarbeitet. Thematisch steht die **Familienaufstellung nach der SGF-Methode® von Silvia Podlisca** sowie deren Anwendung mittels **System-Dimensionsbrett** im Zentrum. 
 
-So bietet der Kurs psychosozialen Berater\*innen die Möglichkeit **Kompetenz und Methoden rund um systemische Aufstellungen** zu erweitern und zu vertiefen, wodurch Klient\*innen noch individueller unterstützt werden können. 
+So bietet der Kurs psychologischen Berater\*innen die Möglichkeit **Kompetenz und Methoden rund um systemische Aufstellungen** zu erweitern und zu vertiefen, wodurch Klient\*innen noch individueller unterstützt werden können. 
 
 
 {{% /small %}}

@@ -1,13 +1,13 @@
 ﻿---
-title: "FengShui im psychosozialem Setting"
+title: "FengShui im psychologischen Setting"
 menu: 
     main:
         parent: fortbildungen_akademie
         identifier: fengshui
 draft: false
 weight: 8
-description: "FengShui im psychosozialem Setting"
-og_title: "Ausbildung: FengShui im psychosozialem Setting"
+description: "FengShui im psychologischen Setting"
+og_title: "Ausbildung: FengShui im psychologischen Setting"
 og_image: "/img/silvia_onlineakdademie.jpg"
 rich_kurs: true
 rich_faq:
@@ -16,7 +16,7 @@ rich_faq:
 
 ---
 
-# Onlineausbildung: FengShui im psychosozialem Setting
+# Onlineausbildung: FengShui im psychologischen Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Mit Feng-Shui einen harmonischen Rahmen schaffen.
 {{< slogan >}}
@@ -44,14 +44,14 @@ Diese Fortbildung der **IFGE-Online-Akademie** zeigt dir, wie du als Berater\*in
 {{% /small %}}
 </div> 
 
-Du erfährst, wie **Raumelemente, wie Einrichtung, Farben und Formen**, auf Menschen **wirken**. Damit ist diese Ausbildung für alle Bereiche der psychosozialen **Arbeit von Bedeutung**, von der Aufstellungsarbeit über die Paarberatung bis hin zur Supervision. Denn eines steht fest: Von einer **beruhigenden Raumgestaltung** profitieren nicht nur Klient\*innen, sondern letztlich auch du. 
+Du erfährst, wie **Raumelemente, wie Einrichtung, Farben und Formen**, auf Menschen **wirken**. Damit ist diese Ausbildung für alle Bereiche der psychologischen **Arbeit von Bedeutung**, von der Aufstellungsarbeit über die Paarberatung bis hin zur Supervision. Denn eines steht fest: Von einer **beruhigenden Raumgestaltung** profitieren nicht nur Klient\*innen, sondern letztlich auch du. 
 
 
 * **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 
-Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „FengShui im psychosozialem Setting“** selbstverständlich **abgezogen**.
+Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „FengShui im psychologischen Setting“** selbstverständlich **abgezogen**.
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychologischen Setting. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

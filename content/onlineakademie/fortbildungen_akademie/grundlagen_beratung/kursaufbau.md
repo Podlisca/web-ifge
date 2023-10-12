@@ -4,9 +4,9 @@ draft: false
 weight: 1
 ---
 
-# Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
+# Onlineausbildung: Grundlegendes in der psychologischen Beratung/im Coaching
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Grundlegendes in psychosozialer Beratung & Coaching.
+## Schwerpunkt: Grundlegendes in psychologischen Beratung & Coaching.
 {{< slogan >}}
 
 

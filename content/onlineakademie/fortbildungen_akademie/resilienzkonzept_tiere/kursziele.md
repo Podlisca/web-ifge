@@ -5,7 +5,7 @@ weight: 1
 og_image: "/img/tier_coaching_1.jpg"
 ---
 
-# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
@@ -23,16 +23,16 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Die **Weiterbildung** bietet dir **Einblicke** in den **Einsatz von Hund, Katze und Pferd** in der psychosozialen Beratung. Du lernst zu verstehen, welche Eigenschaften **Tiere** zu **wertvollen Co-Coaches** machen und welche **positive Wirkung** die Anwesenheit von Tieren auf Menschen hat. 
+Die **Weiterbildung** bietet dir **Einblicke** in den **Einsatz von Hund, Katze und Pferd** in der psychologischen Beratung. Du lernst zu verstehen, welche Eigenschaften **Tiere** zu **wertvollen Co-Coaches** machen und welche **positive Wirkung** die Anwesenheit von Tieren auf Menschen hat. 
 
-Bei diesem Online-Kurs handelt es sich um eine Fortbildung. Wer sich noch **intensiver mit Tieren** in der **psychosozialen Beratung** auseinandersetzen möchte, sollte die Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) absolvieren. 
+Bei diesem Online-Kurs handelt es sich um eine Fortbildung. Wer sich noch **intensiver mit Tieren** in der **psychologischen Beratung** auseinandersetzen möchte, sollte die Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) absolvieren. 
 
 {{< silvia >}}
 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
 
 
 

@@ -4,7 +4,7 @@ draft: false
 weight: 1
 ---
 
-# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
@@ -23,7 +23,7 @@ weight: 1
 
 
 ## Organisatorisches 
-Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ stellt sich aus Lehrseminaren der Onlineausbildung zum [Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) zusammen.
+Der Onlinekurs „Tiere als Resilienzkonzept in der psychologischen Beratung“ stellt sich aus Lehrseminaren der Onlineausbildung zum [Tiergestütztes Coaching](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/) zusammen.
 
 
 
@@ -35,7 +35,7 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
 
 ***
 {{% box top-align=1 %}}
@@ -43,15 +43,15 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychosozialen Beratung“ s
 ###
 #### Modul 1
 * Das Team stellt sich vor
-* Grundlagen der psychosozialen Beratung/Coaching
+* Grundlagen der psychologischen Beratung/Coaching
 * Beratungsverlauf - Bella & Plissit-Prinzip
-* Das Setting: psychosoziale Beratung/Coaching
+* Das Setting: psychologische Beratung/Coaching
 * Das Setting: psychologische Beratung Hunde & Katzen
 * Das Setting: psychologische Beratung Pferde
 * Historischer Hintergrund tiergestützter Interventionen
 * Psychosoziale Berufsbilder & deren Abgrenzungen
 * Online Setting - Coaching via E-Mail/Chat
-* Möglichkeiten & Grenzen des tiergestützten psychosozialen Coachings
+* Möglichkeiten & Grenzen des tiergestützten psychologischen Coachings
 * Die Auftragsklärung & Vertrag
 * praktische Übungen - Thema: Coachingvereinbarung, Nähe & Distanz
 * praktische Übunge: Blinde Kuh
@@ -92,4 +92,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}

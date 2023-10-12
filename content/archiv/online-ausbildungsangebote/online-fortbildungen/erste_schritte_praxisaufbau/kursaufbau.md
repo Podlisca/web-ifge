@@ -32,7 +32,7 @@ Vor der Eröffnung einer eigenen Beratungspraxis stehen (angehende) Berater\*inn
 * Wie viel Zeit und Ressourcen werde ich in etwa benötigen, wenn ich vieles oder alles davon selbst erledigen möchte?
 * Brauche ich einen Unternehmensnamen?
 * Welche Werbestrategien empfehlen sich für den Anfang? Und was kosten sie?
-* Benötige ich ein Firmenlogo und wenn ja – wie sollte es in der psychosozialen Branche gestaltet sein?
+* Benötige ich ein Firmenlogo und wenn ja – wie sollte es in der psychologischen Branche gestaltet sein?
 * Wie können Social Media-Kanäle zieldienlich für den Erfolg in der psychologischen Beratung eingesetzt werden?
 * Welche organisations-systemischen Fragen gilt es, sich im Zuge der Gewerbeeröffnung zu stellen?
  

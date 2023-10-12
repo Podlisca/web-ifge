@@ -24,7 +24,7 @@ rich_faq:
 
 {{< line icon="icon/beratung.png" >}}
 
-## Sexualität in der psychosozialen Arbeit: Passend ansprechen & beraten. 
+## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
 <div class="box video">
 {{% small %}}
 
@@ -43,7 +43,7 @@ rich_faq:
 
 * Langfristiges **Verschweigen und Verdrängen** sexueller Themen kann allerdings die psychische und physische **Gesundheit beeinträchtigen**. 
 
-* Umso wichtiger, dass psychosoziale Berater\*innen, Betreuer\*innen, Pädagog\*innen und andere relevante Berufsgruppen in der Lage sind **Betroffene hier mit den richtigen Fragen und Methoden zu begleiten**. 
+* Umso wichtiger, dass psychologische Berater\*innen, Betreuer\*innen, Pädagog\*innen und andere relevante Berufsgruppen in der Lage sind **Betroffene hier mit den richtigen Fragen und Methoden zu begleiten**. 
 
 
 {{% /small %}}

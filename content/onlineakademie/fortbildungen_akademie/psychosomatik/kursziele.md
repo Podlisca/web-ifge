@@ -23,9 +23,9 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Das Kursangebot **Grundlagen Psychosomatik** richtet sich an alle, die im psychosozialen Bereich tätig sind. Es wird erarbeitet, wie sich Körper, Seele und Geist beeinflussen. Der Schwerpunkt liegt auf der **Psychosomatik** und damit der Frage, wie sich **emotionale Belastung** und **seelisches Erleben** auf körperliche Reaktionen und das Entstehen von Krankheiten auswirken.**
+Das Kursangebot **Grundlagen Psychosomatik** richtet sich an alle, die im psychologischen Bereich tätig sind. Es wird erarbeitet, wie sich Körper, Seele und Geist beeinflussen. Der Schwerpunkt liegt auf der **Psychosomatik** und damit der Frage, wie sich **emotionale Belastung** und **seelisches Erleben** auf körperliche Reaktionen und das Entstehen von Krankheiten auswirken.**
 
-Wir betrachten Psychosomatik aus **unterschiedlichen Perspektiven** und verknüpfen **Wissen aus Anatomie, Medizin und Psychologie**. Als psychosoziale\*r Berater\*in **profitierst** du von mehr **ganzheitlichem Verständnis** zu menschlichem Wohlbefinden. 
+Wir betrachten Psychosomatik aus **unterschiedlichen Perspektiven** und verknüpfen **Wissen aus Anatomie, Medizin und Psychologie**. Als psychologische\*r Berater\*in **profitierst** du von mehr **ganzheitlichem Verständnis** zu menschlichem Wohlbefinden. 
 
 
 

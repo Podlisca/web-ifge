@@ -27,7 +27,7 @@ weight: 4
 * Pädagog\*innen
 * Pädagog\*innen in Ausbildung
 * Lebens- und Sozialberater\*innen (auch in Ausbildung)
-* Interessierte Personen, die einen ersten Einblick in die psychosoziale Arbeit erhalten wollen
+* Interessierte Personen, die einen ersten Einblick in die psychologische Arbeit erhalten wollen
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Prüfung

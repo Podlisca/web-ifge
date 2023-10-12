@@ -32,9 +32,9 @@ rich_faq:
 {{% floatbox %}}
 ## Schwingungen auslösen. Wirkung erzielen. 
 
-{{< image src="/img/klangschale_2021.jpg" title="Gesundheit beruht im Wesentlichen auf drei Säulen – Körper, Geist und Seele. Um ganzheitlich als Lebens- und Sozialberater\*in – psychosoziale Berater\*in arbeiten zu können, empfiehlt es sich, eine körperorientierte Methode in den Beratungsprozess einzubauen. Gerade die Klangschalen zeigen durch Ihre angehnehme sanfte Wirkungsweise, große Wirkung da die Auflösung von Blockaden im passenden Tempo für die Klienten\*innen geschieht. " float="left">}} 
+{{< image src="/img/klangschale_2021.jpg" title="Gesundheit beruht im Wesentlichen auf drei Säulen – Körper, Geist und Seele. Um ganzheitlich als Lebens- und Sozialberater\*in – psychologischen Berater\*in arbeiten zu können, empfiehlt es sich, eine körperorientierte Methode in den Beratungsprozess einzubauen. Gerade die Klangschalen zeigen durch Ihre angehnehme sanfte Wirkungsweise, große Wirkung da die Auflösung von Blockaden im passenden Tempo für die Klienten\*innen geschieht. " float="left">}} 
 
-Körper und Geist bilden eine Einheit. Eine Einheit, die Gesundheit, Wohlbefinden und Zufriedenheit formt. Eine Einheit, die uns zu den Menschen macht, die wir sind. Neben psychosozialer Beratung sind daher auch körperorientierte Verfahren in der Begleitung von und der Arbeit mit Menschen wichtig. 
+Körper und Geist bilden eine Einheit. Eine Einheit, die Gesundheit, Wohlbefinden und Zufriedenheit formt. Eine Einheit, die uns zu den Menschen macht, die wir sind. Neben psychologischen Beratung sind daher auch körperorientierte Verfahren in der Begleitung von und der Arbeit mit Menschen wichtig. 
 
 Die Klangschalenmassage blickt bereits auf eine lange Tradition zurück. Zu Recht, denn sie hat sich in vielen Situationen als positive Ergänzung zu psychologischer und/oder medizinischer Behandlung bewährt. Wenn Worte keine Wirkung erzielen und keine Veränderung initiieren, dann kann der Körper und damit auch die Psyche mit Klängen und Schwingungen angeregt werden. Mit Klangschalen werden Blockaden gelockert, Entspannung gefördert und Bewusstsein gestärkt.
 

@@ -1,5 +1,5 @@
 ---
-title: "Die Zukunft der Arbeitswelt: Wandel, Werte und Wichtigkeit psychosozialer Berufe."
+title: "Die Zukunft der Arbeitswelt: Wandel, Werte und Wichtigkeit psychologischer Berufe."
 draft: false
 tags: ["Arbeitswelt"]
 categories: ["Arbeit", "Digitalisierung", "Sozialberuf"]
@@ -9,11 +9,11 @@ img: "blog_zukunft_arbeit.jpg"
 og_image: "/img/blog_zukunft_arbeit.jpg"
 description: "So alt wie die Menschheit ist auch die Arbeit. Der Mensch hat immer schon auf eine Art und Weise gearbeitet. Der Mensch schafft die Arbeitswelt, die aber wiederum die Menschheit in ihrer Entwicklung beeinflusst.
 
-Im aktuellen Blog werfen wir einen Blick in die Vergangenheit und in die Zukunft unserer Arbeitswelt und stellen uns der Frage, weshalb psychosoziale Berufe immer wichtiger werden."
+Im aktuellen Blog werfen wir einen Blick in die Vergangenheit und in die Zukunft unserer Arbeitswelt und stellen uns der Frage, weshalb psychologische Berufe immer wichtiger werden."
 ---
 **So alt wie die Menschheit ist auch die Arbeit. Der Mensch hat immer schon auf eine Art und Weise gearbeitet. Der Mensch schafft die Arbeitswelt, die aber wiederum die Menschheit in ihrer Entwicklung beeinflusst.**
 
-**Im aktuellen Block werfen wir einen Blick in die Vergangenheit und in die Zukunft unserer Arbeitswelt und stellen uns der Frage, weshalb psychosoziale Berufe immer wichtiger werden.** 
+**Im aktuellen Block werfen wir einen Blick in die Vergangenheit und in die Zukunft unserer Arbeitswelt und stellen uns der Frage, weshalb psychologische Berufe immer wichtiger werden.** 
 
 ### Ein Blick zurück: Wie haben Menschen eigentlich früher gearbeitet?
 Historisch betrachtet löste die Landwirtschaft die Jäger\*innen und Sammler\*innen ab. Die Arbeit der Menschen bestand überwiegend darin für den Eigenbedarf Vieh zu halten, Gemüse anzubauen und Acker zu bewirtschaften. Arbeit und Privatleben waren eng miteinander verknüpft. Eine Trennung von Beruf und Freizeit so wie heute gab es de facto nicht. Das wandelte sich allerdings im Zuge der industriellen Revolution, welche die wirtschaftlichen und sozialen Verhältnisse nachhaltig veränderte. Immer mehr Menschen begannen in Industrien zu arbeiten. Damit verdienten sie Geld, um welches sie Lebensmittel kaufen konnten und daher mussten diese nicht mehr selbst hergestellt werden. Eine weitere wesentliche Revolution der Arbeitswelt, die noch gar nicht so lange her ist, stellt die Digitalisierung dar. Maschinen, das Web und neue Kommunikationswege haben die Arbeitswelt signifikant verändert.
@@ -34,7 +34,7 @@ Mit diesen Entwicklungen wurde der Weg für viele neue Berufsbilder geebnet. Leb
 Jede Zeit hat ihre Vor- und Nachteile. Die Arbeitswelt und ihre Werte haben sich verändert, aber Herausforderungen, wenn auch andere, bleiben bestehen. Heute leiden viele Berufstätige unter der ständigen Erreichbarkeit, unter der Angst dem Leistungsanspruch nicht gerecht zu werden oder dem wirtschaftlichen Kostendruck zum Opfer zu fallen. Der Arbeitstag ist durchgetaktet und so auch unser Privatleben, in dem wir so viel wie möglich unternehmen, vereinbaren und erleben möchten. Oft stellt sich dann die Frage, wo wir überhaupt noch Platz für uns selbst finden? Und damit ist nicht das nächste Abendessen mit Freund\*innen, der nächste Yoga-Kurs oder ein Kurztrip nach London gemeint. Nein, sondern Zeit für sich. Zeit, um zu reflektieren, Gedanken zu ordnen und Bedürfnisse wahrzunehmen. Immer mehr Menschen finden Raum dafür in der Beratung, [Supervision](https://www.ifge.at/supervision/einzelsupervision/)oder ähnlichen Settings. 
 
 ### Psychosoziale Berufe sind Zukunftsberufe.
-Die skizzierten Entwicklungen verdeutlichen, dass [psychosoziale Berufe](https://www.ifge.at/ausbildungsangebote/) auch in Zukunft an Bedeutung gewinnen werden. Damit steigt auch der Bedarf an kompetenten Berater\*innen, welche dieser Entwicklung Rechnung tragen. Wichtig ist daher, dass ausreichend, hochwertige Aus- und Weiterbildungsprogramme etabliert werden. Coaching, Beratung und generell soziale Berufe brauchen nicht nur Empathie, Intuition und Menschlichkeit, sondern auch ein hohes Maß an fachlicher Methodenkompetenz und fundiertem Background. So wie sich der Mensch laufend ändert, wandeln sich auch Berufsfelder und damit psychosoziale Berufsbilder, die sich an den Bedürfnissen der Menschen orientieren. Auch, wenn sich die Themen ändern, eines ändert sich nicht: Und zwar die Bedeutung der Beratung und Selbsterfahrung. Denn es gibt keine Menschheit ohne individuelle sowie kollektive Veränderung, Herausforderungen und Bedürfnisse.
+Die skizzierten Entwicklungen verdeutlichen, dass [psychologische Berufe](https://www.ifge.at/ausbildungsangebote/) auch in Zukunft an Bedeutung gewinnen werden. Damit steigt auch der Bedarf an kompetenten Berater\*innen, welche dieser Entwicklung Rechnung tragen. Wichtig ist daher, dass ausreichend, hochwertige Aus- und Weiterbildungsprogramme etabliert werden. Coaching, Beratung und generell soziale Berufe brauchen nicht nur Empathie, Intuition und Menschlichkeit, sondern auch ein hohes Maß an fachlicher Methodenkompetenz und fundiertem Background. So wie sich der Mensch laufend ändert, wandeln sich auch Berufsfelder und damit psychologischen Berufsbilder, die sich an den Bedürfnissen der Menschen orientieren. Auch, wenn sich die Themen ändern, eines ändert sich nicht: Und zwar die Bedeutung der Beratung und Selbsterfahrung. Denn es gibt keine Menschheit ohne individuelle sowie kollektive Veränderung, Herausforderungen und Bedürfnisse.
 
 <br/>
 {{< silvia >}}

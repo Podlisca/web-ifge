@@ -20,7 +20,7 @@ og_image: "/img/kinder_schuetzen_ziel.jpg"
 
 Das Seminar soll allerdings nicht alleine dazu dienen, dass Sie spezielle sowie risikobehaftete Aktionen, die im Trend liegen, kennen und Gefahren im Online-Bereich abschätzen können. Mit der digitalen Fortbildung möchten wir Ihnen neben einem realistischen Blick auf die Einfälle und die Lebenswelt der jungen Generation vor allem Strategien zum Umgang damit vermitteln. Wir betrachten daher gleichzeitig, was Sie als Elternteil brauchen, um einen für Sie passenden Umgang mit Ihren eigenen Bedenken und Ängsten zu finden.
 
-Gleichzeitig werden psychosoziale Hintergründe vermittelt, mit denen Sie lernen, konstruktiv mit den unter Ihrem Schutz stehenden Kindern über potenzielle Risiken und Gefahrensituationen zu sprechen.
+Gleichzeitig werden psychologische Hintergründe vermittelt, mit denen Sie lernen, konstruktiv mit den unter Ihrem Schutz stehenden Kindern über potenzielle Risiken und Gefahrensituationen zu sprechen.
 
 Welche Gesprächstechniken kennen wir, um ein aufmerksames Zuhören zu begünstigen? Wie können Sie die Eigenverantwortlichkeit Ihres Schützlings fördern? Wie können Sie ein vertrauensvolles Verhältnis entstehen lassen, in dem mögliche Gefahren im Idealfall zeitnah besprochen werden können? Am IFGE wird dazu übrigens auch ein eigener Online-Workshop speziell für Mädchen angeboten, in dem Bewusstseinsbildung stattfindet und der auf spielerische Art und Weise vermittelt, wie sich Jugendliche sicher durch die virtuelle sowie durch die reale Welt bewegen können. 
 

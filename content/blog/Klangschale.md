@@ -6,9 +6,9 @@ weight: 111
 
 img: "klangschale_st.pölten.jpg"
 og_image: "/img/klangschale_st.pölten.jpg"
-description: "Die Anwendung von Klangschalen ist deutlich vielfältiger, als nur für Entspannung zu sorgen. Doch für ihren erweiterten Einsatz braucht es Fachwissen. In diesem Blog erfahren Sie, weshalb es Sinn ergibt, das Klangschalenelement in einen professionell psychosozialen Prozess einzubauen."
+description: "Die Anwendung von Klangschalen ist deutlich vielfältiger, als nur für Entspannung zu sorgen. Doch für ihren erweiterten Einsatz braucht es Fachwissen. In diesem Blog erfahren Sie, weshalb es Sinn ergibt, das Klangschalenelement in einen professionell psychologischen Prozess einzubauen."
 ---
-**Die Anwendung von Klangschalen ist deutlich vielfältiger, als nur für Entspannung zu sorgen. Doch für ihren erweiterten Einsatz braucht es Fachwissen. In diesem Blog erfahren Sie, weshalb es Sinn ergibt, das Klangschalenelement in einen professionell psychosozialen Prozess einzubauen.**
+**Die Anwendung von Klangschalen ist deutlich vielfältiger, als nur für Entspannung zu sorgen. Doch für ihren erweiterten Einsatz braucht es Fachwissen. In diesem Blog erfahren Sie, weshalb es Sinn ergibt, das Klangschalenelement in einen professionell psychologischen Prozess einzubauen.**
 
 Die wunderschön schimmernden, häufig aus verschiedenen Metallen von Hand gearbeiteten Klangschalen sind das symbolische Fotomotiv für Wellnessangebote schlechthin. Nicht nur, weil sie ob ihrer besonderen Optik im Entspannungsbereich ein tolles Bild abgeben, sondern weil ihre Wirkung auf das Wohlbefinden eine mittlerweile sehr bekannte ist. Ursprünglich kommen die Klangschalen aber aus einem anderen Bereich: Sie wurden beispielsweise in Tibet, Indien und Nepal als Küchengeschirr verwendet. Aus den fernöstlichen Kulturen ist auch die beruhigende Wirkung der Klänge überliefert, die entstehen, wenn die Schale mit einem Klöppel, einem Hölzchen oder mit der Hand angeschlagen wird und auf die wir im Folgenden noch ausführlich eingehen werden. 
 

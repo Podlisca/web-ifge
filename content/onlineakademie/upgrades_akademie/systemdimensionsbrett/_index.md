@@ -40,7 +40,7 @@ rich_faq:
 
 **Burnout, Lebenskrise, Sucht oder Trauer. Ängste, Familienkonflikte, Sexualität oder Traumata.** 
 
-**Aufstellungen bewähren** sich bei vielen **psychosozialen Themen**, da sie Rollen, **Barrieren und Dynamiken aufzeigen und bewusstmachen**. Eine Herausforderung in der Aufstellungspraxis ist die **Komplexität sozialer Prozesse**, die sich aus dem **Zusammenleben unterschiedlicher Menschen und Generationen** sowie ihrer Bedürfnisse und Werte ergibt. Umso wichtiger, dass Aufstellungen unterschiedliche Dimensionen des Lebens sowie eine **individuelle und kollektive Wahrnehmungsebene berücksichtigen**. 
+**Aufstellungen bewähren** sich bei vielen **psychologischen Themen**, da sie Rollen, **Barrieren und Dynamiken aufzeigen und bewusstmachen**. Eine Herausforderung in der Aufstellungspraxis ist die **Komplexität sozialer Prozesse**, die sich aus dem **Zusammenleben unterschiedlicher Menschen und Generationen** sowie ihrer Bedürfnisse und Werte ergibt. Umso wichtiger, dass Aufstellungen unterschiedliche Dimensionen des Lebens sowie eine **individuelle und kollektive Wahrnehmungsebene berücksichtigen**. 
 
 **Und genau das ermöglicht die SGF-Methode® nach Silvia Podlisca.**
 

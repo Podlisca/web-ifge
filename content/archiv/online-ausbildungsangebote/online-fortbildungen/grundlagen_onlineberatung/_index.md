@@ -6,7 +6,7 @@ menu:
         identifier: grundlagen_onlineberatung
 draft: true
 weight: 2
-description: "Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychosoziales Beratungsangebot in Anspruch zu nehmen. Während Klient*innen aus dem psychologischen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist."
+description: "Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychologischen Beratungsangebot in Anspruch zu nehmen. Während Klient*innen aus dem psychologischen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist."
 og_image: "/img/grundlagen_online.jpg"
 rich_kurs: true
 ---
@@ -24,7 +24,7 @@ rich_kurs: true
 
 Waren bis vor kurzem noch viele Klient\*innen sowie Berater*innen und Coaches gegenüber der Onlinevariante von psychologischen Beratungsprozessen oder Coaching-Einheiten skeptisch eingestellt, ist spätestens seit dem Frühjahr 2020 klar: 
 
-**"Die Zukunft der psychosozialen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen".**
+**"Die Zukunft der psychologischen und beraterischen Angebote gehört jenen, die ihre Fähigkeiten auch online einzusetzen wissen".**
 <br/>
 <br/>
 <br/>

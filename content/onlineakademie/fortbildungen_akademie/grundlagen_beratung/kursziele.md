@@ -5,13 +5,13 @@ weight: 1
 og_image: "/img/tier_coaching_1.jpg"
 ---
 
-# Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
+# Onlineausbildung: Grundlegendes in der psychologischen Beratung/im Coaching
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Grundlegendes in psychosozialer Beratung & Coaching.
+## Schwerpunkt: Grundlegendes in psychologischen Beratung & Coaching.
 {{< slogan >}}
 
 {{< line icon="icon/beratung.png" >}}
-## Grundlegendes in psychosozialer Beratung & Coaching.
+## Grundlegendes in psychologischen Beratung & Coaching.
 <div class="box video">
 {{% small %}}
 

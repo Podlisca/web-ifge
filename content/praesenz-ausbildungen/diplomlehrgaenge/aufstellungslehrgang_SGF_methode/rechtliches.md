@@ -30,7 +30,7 @@ weight: 4
 ## Zugangsvoraussetzungen
 
 
-* Dipl. Lebens- und Sozialberater\*innen - psychosoziale Berater\*innen
+* Dipl. Lebens- und Sozialberater\*innen - psychologischen Berater\*innen
 * Lebens- und Sozialberater\*innen in Ausbildung am IFGE ab dem 3. Semester, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Aufstellungen erst mit Erhalt des Gewerbescheins. 
 * Interessierte Psychotherapeuten\*innen, Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Vorerfahrung in der systemischen Aufstellungsarbeit
 

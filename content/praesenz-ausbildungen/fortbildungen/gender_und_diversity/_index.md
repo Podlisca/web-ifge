@@ -1,5 +1,5 @@
 ﻿---
-title: "Gender & Diversity in der psychosozialen Praxis"
+title: "Gender & Diversity in der psychologischen Praxis"
 menu: 
     main:
         parent: fortb
@@ -8,7 +8,7 @@ draft: false
 weight: 2
 aliases: 
     - "/fortbildungen/gender_und_diversity/"
-description: "Das Programm Gender & Diversity dient nicht nur Berufstätigen im psychosozialen Bereich, sondern auch Mitarbeiter*innen und Führungskräften in der Wirtschaft, die Individualität aktiv fördern und Vielfalt als Chance nutzen möchten. ."
+description: "Das Programm Gender & Diversity dient nicht nur Berufstätigen im psychologischen Bereich, sondern auch Mitarbeiter*innen und Führungskräften in der Wirtschaft, die Individualität aktiv fördern und Vielfalt als Chance nutzen möchten. ."
 og_title: "Gender & Diversity -Achtsamkeit & Vielfältigkeit in der psychologischen Beratung"
 og_image: "/img/gender.jpg"
 ---
@@ -20,7 +20,7 @@ og_image: "/img/gender.jpg"
 ## Individualität unterstützen. Vielfalt aktiv nutzen.
 {{% floatbox %}}
 
-{{< image src="/img/gender1.jpg" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychosoziale Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett darauf, dass kollektive Traumata berücksichtigt werden und Lösungen im Einklang mit der Familiengeschichte sind." float="left">}} 
+{{< image src="/img/gender1.jpg" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologischen Berater\*in und im Upgrade für Familienaufstellung sowie beim Upgrade Systembrett darauf, dass kollektive Traumata berücksichtigt werden und Lösungen im Einklang mit der Familiengeschichte sind." float="left">}} 
 
 Frauen und Männer. Jung und alt. Heterosexuell und homosexuell. Religiös und nichtreligiös. Menschen sind vielfältig und unsere Zeit lässt diese Vielfalt immer mehr zu. Geschlechtermuster, Rollenbilder und Traditionen werden zunehmend kritisch hinterfragt, wodurch Individualität und der Mut zur Selbstverwirklichung unterstützt werden. Als Organisationen, Unternehmen und Berater\*innen ist es essenziell auf diese Entwicklungen zu reagieren und sich aktiv mit **Gender & Diversity** auseinanderzusetzen. 
 

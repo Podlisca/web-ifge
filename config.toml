@@ -33,7 +33,7 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         name = "Präsenz-Ausbildungen"
         identifier = "praesenz"
         url = "#"       
-        weight = 3
+        weight = 5
 
     [[menu.main]]
         name = "Dipl. Ausbildungen"
@@ -53,20 +53,20 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         name = "Fortbildungen"
         identifier = "fortb"
         url = "#"       
-        weight = 3
+        weight = 4
         parent = "praesenz"
     
     [[menu.main]]
         name = "Online-Akademie"
         identifier = "onlineakademie"
         url = "#"
-        weight = 4
+        weight = 5
 
     [[menu.main]]
         name = "Supervision"
         identifier = "supervision"
         url = "#"
-        weight = 12
+        weight = 2
     
     [[menu.main]]
         name = "Psychologische Beratung"

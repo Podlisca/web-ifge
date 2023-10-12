@@ -42,7 +42,7 @@ rich_faq:
 
 Ängste, Bedürfnisse und Verhaltensmuster. Blockaden, Konflikte und Selbstzweifel. Alle diese und viele weitere **menschliche Themen** haben ihren Ursprung nicht selten in der familiären Herkunft. Kein Wunder, denn die Familie ist das **erste soziale System**, das wir als Menschen kennenlernen. Und damit auch Ort von Formung und **Prägung unserer Persönlichkeit**. 
 
-**Anders ausgedrückt:** Die Erklärung dafür, welche Gefühle uns blockieren, welche Themen uns traurig machen oder wie wir uns in bestimmten Situationen verhalten, findet sich häufig in **unserer Herkunft** und damit in unseren familiären Strukturen. Somit ist auch klar, warum **[Familienaufstellungen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/)** häufig Anwendung in der psychosozialen Arbeit finden.
+**Anders ausgedrückt:** Die Erklärung dafür, welche Gefühle uns blockieren, welche Themen uns traurig machen oder wie wir uns in bestimmten Situationen verhalten, findet sich häufig in **unserer Herkunft** und damit in unseren familiären Strukturen. Somit ist auch klar, warum **[Familienaufstellungen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/)** häufig Anwendung in der psychologischen Arbeit finden.
 
 
 {{% /small %}}

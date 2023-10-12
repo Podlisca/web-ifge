@@ -37,7 +37,7 @@ Menschen fühlen sich dann am **wohlsten, wenn Körper, Geist und Seele im Einkl
 
 Mit der Wirkung der **menschlichen Psyche auf die menschliche Gesundheit** setzt sich auch die **Psychosomatik auseinander**. Konkret geht es um die Frage, wie sich seelische Belastungen in körperlichen Reaktionen widerspiegeln bzw. zu diesen führen. 
 
-Der Kurs unterstützt **psychosoziale Berater\*innen** das **Zusammenspiel**von Körper, Seele und Geist noch **besser zu erfassen**. 
+Der Kurs unterstützt **psychologische Berater\*innen** das **Zusammenspiel**von Körper, Seele und Geist noch **besser zu erfassen**. 
 {{% /small %}}
 </div>  
 

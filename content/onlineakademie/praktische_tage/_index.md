@@ -91,10 +91,10 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{% kursbox %}}
 {{< kurs titel="Familienaufstellung - SGF Methode® - Lösungssätze" link="/onlineakademie/fortbildungen_akademie/system_loesungssaetze" image="/img/onlineakademie_philo_6.jpg" color="light-red" >}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_philo_4.jpg" >}}
-{{< kurs titel="Tiere als Resilienzkonzept in der psychosozialen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_philo_1.jpg" color="light-red" >}}
+{{< kurs titel="Tiere als Resilienzkonzept in der psychologischen Beratung" link="/onlineakademie/fortbildungen_akademie/resilienzkonzept_tiere" image="/img/onlineakademie_philo_1.jpg" color="light-red" >}}
 {{< kurs titel="Der menschliche Körper - verständlich erklärt" link="/onlineakademie/fortbildungen_akademie/koerper_verstaendlich_erklaert" image="/img/onlineakademie_philo_5.jpg" >}}
 
-{{< kurs titel="FengShui im psychosozialem Setting" link="/onlineakademie/fortbildungen_akademie/fengshui" image="/img/onlineakademie_philo_10.jpg" color="light-red" >}}
+{{< kurs titel="FengShui im psychologischen Setting" link="/onlineakademie/fortbildungen_akademie/fengshui" image="/img/onlineakademie_philo_10.jpg" color="light-red" >}}
 {{< kurs titel="Erste Hilfe für Hunde und Katzen" link="/onlineakademie/fortbildungen_akademie/erste_hilfe_tiere" image="/img/onlineakademie_philo_3.jpg" color="light-red" >}}
 
 

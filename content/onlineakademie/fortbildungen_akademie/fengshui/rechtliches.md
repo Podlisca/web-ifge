@@ -4,7 +4,7 @@ draft: false
 weight: 4
 ---
 
-# Onlineausbildung: FengShui im psychosozialem Setting
+# Onlineausbildung: FengShui im psychologischen Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
@@ -36,20 +36,20 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung FengShui im psychosozialem Setting + Ihren Namen" an.
+zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung FengShui im psychologischen Setting + Ihren Namen" an.
 
 
 Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
 Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
   
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychologischen Setting. " >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
 ### 1.	Leistung
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Ganzheitlich gesund - FengShui im psychosozialem Setting“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Ganzheitlich gesund - FengShui im psychologischen Setting“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 ### 2.	Zugang
 Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Nach Ablauf der drei Jahre werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. 
@@ -71,4 +71,4 @@ IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten 
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychologischen Setting. " >}}

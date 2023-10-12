@@ -1,23 +1,23 @@
 ﻿---
-title: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
+title: "Tiere als Resilienzkonzept in der psychologischen Beratung"
 menu: 
     main:
         parent: fortbildungen_akademie
         identifier: resilienzkonzept_tiere
 draft: false
 weight: 7
-description: "Tiere als Resilienzkonzept in der psychosozialen Beratung"
-og_title: "Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung"
+description: "Tiere als Resilienzkonzept in der psychologischen Beratung"
+og_title: "Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung"
 og_image: "/img/bv_wirkung.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Wie kann ich Tiere in der Beratung einsetzen?"
-        antwort: "In der Online-Ausbildung Tiere als Resilienzkonzept in der psychosozialen Beratung lernen du wie du Tiere gut einsetzen kannst."
+        antwort: "In der Online-Ausbildung Tiere als Resilienzkonzept in der psychologischen Beratung lernen du wie du Tiere gut einsetzen kannst."
 
 
 ---
 
-# Onlineausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung
+# Onlineausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: Hunde & Katzen 
 {{< slogan >}}
@@ -25,7 +25,7 @@ rich_faq:
 
 {{< line icon="icon/tiere.png" >}}
 
-Tiere stärken Menschen: Tiere als Resilienzkonzept in der psychosozialen Beratung.
+Tiere stärken Menschen: Tiere als Resilienzkonzept in der psychologischen Beratung.
 
 
 <div class="box video">
@@ -51,7 +51,7 @@ Wer diesen Kurs bucht, hat ganze **drei Jahre vollen Zugriff** auf die Lernplatt
 
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychosozialen Beratung. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
 
 {{% floatbox %}}
 

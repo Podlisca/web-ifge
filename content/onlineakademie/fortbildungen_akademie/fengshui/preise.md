@@ -4,7 +4,7 @@ draft: false
 weight: 2
 ---
 
-# Onlineausbildung: FengShui im psychosozialem Setting
+# Onlineausbildung: FengShui im psychologischen Setting
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
@@ -30,4 +30,4 @@ Zahlung sofort  <br/>
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychologischen Setting. " >}}

@@ -37,7 +37,7 @@ Und das erfordert Fachwissen, welches in der digitalen Ausbildung „Professione
 {{% box %}}
 {{% small %}}
 
-Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychosoziales Beratungsangebot in Anspruch zu nehmen. Während Klient\*innen aus dem psychologischen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund\*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist.
+Durch die Teilnahme an dieser fachlichen Fortbildung ermöglichen Sie es auch Menschen, die weiter weg wohnen oder aus bestimmten Gründen ihren Wohnort nicht verlassen können, ein professionelles, psychologisches Beratungsangebot in Anspruch zu nehmen. Während Klient\*innen aus dem psychologischen Bereich diesen Spielraum der Möglichkeiten schätzen werden, zeigen Sie mit einem professionellen Digital-Coaching-Auftritt Ihren Unternehmenskund\*innen, dass Sie am Puls der Zeit agieren. Dadurch präsentieren Sie sich als Expert*in für betrieblichen Weitblick – eine Fähigkeit, die im Coaching-Bereich unerlässlich ist.
 
 {{% /small %}}
 {{% /box %}}

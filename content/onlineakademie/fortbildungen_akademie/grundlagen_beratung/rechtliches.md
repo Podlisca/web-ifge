@@ -4,7 +4,7 @@ draft: false
 weight: 4
 ---
 
-# Onlineausbildung: Grundlegendes in der psychosozialen Beratung/im Coaching
+# Onlineausbildung: Grundlegendes in der psychologischen Beratung/im Coaching
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
 ## Schwerpunkt: 
 {{< slogan >}}
@@ -36,7 +36,7 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Grundlegendes in der psychosozialen Beratung/im Coaching + Ihren Namen" an.
+zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Grundlegendes in der psychologischen Beratung/im Coaching + Ihren Namen" an.
 
 
 Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 

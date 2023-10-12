@@ -24,13 +24,13 @@ og_image: "/img/brett_2.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychosoziale Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
+{{< image src="/img/brett_2.jpg" title="Bei der Ausbildung „SYSTEMISCHE AUFSTELLUNG AM SYSTEMBRETT“ liegt der Focus der Ausbildung liegtauf die Einzelarbeit mit Klient\*innen. In vielen Übungssequenzen wird Ihnen die Arbeit am Systembrett Schritt für Schritt nähergebracht. Es empfiehlt sich, Grundwissen als Lebens- und Sozialberater\*in – psychologische Berater\*in in der klassischen Gesprächsführung und in der Aufstellungsarbeit mitzubringen." float="left" >}}
 
 
 
-Bedürfnisse, Konflikte und herausfordernde Lebenssituationen von Menschen erwachsen häufig aus ihrem Umfeld. Für psychosoziale Berater\*innen ist es daher wichtig, über Expertise und Methodenkompetenz in der systemischen Aufstellung zu verfügen. Wer Themen kontextualisieren kann, kann Klient\*innen ganzheitlich verstehen und damit besser in ihrer Entwicklung unterstützen.
+Bedürfnisse, Konflikte und herausfordernde Lebenssituationen von Menschen erwachsen häufig aus ihrem Umfeld. Für psychologische Berater\*innen ist es daher wichtig, über Expertise und Methodenkompetenz in der systemischen Aufstellung zu verfügen. Wer Themen kontextualisieren kann, kann Klient\*innen ganzheitlich verstehen und damit besser in ihrer Entwicklung unterstützen.
 
-Die Weiterbildung Systemische Aufstellung am Systembrett richtet sich an diplomierte Lebens- und Sozialberater\*innen – psychosoziale Berater\*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting oder in Gruppenseminaren mitbringen. Die Zusatzausbildung umfasst ein Pensum von 32 Stunden und ist übungsorientiert ausgerichtet. Die Inhalte, Methoden und Tools, deren Fokus auf systematischer Einzelarbeit mit Klient\*innen liegt, werden Ihnen durch praktische Übungen und reale Anwendungen nähergebracht.
+Die Weiterbildung Systemische Aufstellung am Systembrett richtet sich an diplomierte Lebens- und Sozialberater\*innen – psychologische Berater\*innen, die bereits Erfahrung in der Arbeit mit Familien- oder Organisationsaufstellungen im Einzelsetting oder in Gruppenseminaren mitbringen. Die Zusatzausbildung umfasst ein Pensum von 32 Stunden und ist übungsorientiert ausgerichtet. Die Inhalte, Methoden und Tools, deren Fokus auf systematischer Einzelarbeit mit Klient\*innen liegt, werden Ihnen durch praktische Übungen und reale Anwendungen nähergebracht.
 
 {{% /floatbox %}}
 

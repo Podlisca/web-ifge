@@ -37,7 +37,7 @@ rich_faq:
 
 Das **österreichische Gesundheitssystem** ist **primär reaktiv**. Das bedeutet, dass sich die Mehrheit der Angebote auf die Behandlung physischer und psychischer **Krankheiten konzentriert**. 
 
-In der **psychosozialen Beratung** steht hingegen die Arbeit mit Menschen ohne Krankheitssymptomen im Vordergrund. Ziel ist vielmehr an Bedürfnissen, Konflikten und Sorgen zu arbeiten **bevor Krankheiten überhaupt auftreten**. Damit hat psychosoziale Arbeit einen wichtigen präventiven Charakter. 
+In der **psychologischen Beratung** steht hingegen die Arbeit mit Menschen ohne Krankheitssymptomen im Vordergrund. Ziel ist vielmehr an Bedürfnissen, Konflikten und Sorgen zu arbeiten **bevor Krankheiten überhaupt auftreten**. Damit hat psychologische Arbeit einen wichtigen präventiven Charakter. 
 
 **Fokus dieser Ausbildung sind die Themen Gesundheit und Prävention.**
 
@@ -46,7 +46,7 @@ In der **psychosozialen Beratung** steht hingegen die Arbeit mit Menschen ohne K
 {{% /small %}}
 </div> 
 
-Wann sprechen wir von **Gesundheit**, wann von **Krankheit**? Was bedeutet überhaupt **Prävention** und wie kann psychosoziale Beratung gesundheitlichen Problemen **vorbeugen**? 
+Wann sprechen wir von **Gesundheit**, wann von **Krankheit**? Was bedeutet überhaupt **Prävention** und wie kann psychologische Beratung gesundheitlichen Problemen **vorbeugen**? 
 
 Diese und ähnliche **Fragen** stehen im Zentrum der **Fortbildung**, die übrigens zu **100% online stattfindet**. So ermöglichen wir unseren Teilnehmer\*innen sich ganz nach **eigenen Bedürfnissen** und im **eigenen Tempo** weiterzubilden. Konkret wird der Kurs über eine Lernplattform durchgeführt. Hier findest du alle **notwendigen Lehrvideos und Lernmaterialen**. 
 
