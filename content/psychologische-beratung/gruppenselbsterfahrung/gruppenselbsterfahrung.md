@@ -103,7 +103,7 @@ Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit 
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="AGB" >}}
-**Anmeldung:** Um Ihnen den Platz verbindlich zu reservieren, sind nach Anmeldung die Seminargebühren zu überweisen:
+**Anmeldung:** Um Ihnen den Platz verbindlich zu reservieren, ist nach Anmeldung die erste Einheit (Betrag je nach gewählter Zahlungsmethode) sofort oder zu überweisen:
 
 Konto / Bank Austria<br/>
 Silvia Podlisca - IFGE<br/>
