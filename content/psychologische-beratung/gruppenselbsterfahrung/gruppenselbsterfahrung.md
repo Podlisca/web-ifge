@@ -69,7 +69,7 @@ Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 12
 {{< /card-more >}}
 {{< card-more icon="icon/storno.png" title="Termine & Leitung" >}}
 
-Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit **10.02.2024** treffen wir uns jeden 2. und jeden 4. Mittwoch von 17:00 bis 20:00 Uhr für 20 Termine. In den **Sommermonaten Juli und August** finden **keine Termine statt**. Im **Dezember verschieben** sich die Termine auf den **ersten und zweiten Mittwoch** im Monat. 
+Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit **10.01.2024** treffen wir uns jeden 2. und jeden 4. Mittwoch von 17:00 bis 20:00 Uhr für 20 Termine. In den **Sommermonaten Juli und August** finden **keine Termine statt**. Im **Dezember verschieben** sich die Termine auf den **ersten und zweiten Mittwoch** im Monat. 
 
 **Termine:**
 
@@ -110,7 +110,7 @@ Silvia Podlisca - IFGE<br/>
 IBAN: AT42 1200 0007 4443 4259 <br/>
 BIC: BKAUATWW
 
-**Schweigepflicht:** Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf.
+**Schweigepflicht:** Bereits ab dem ersten Abend stimmst du der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf.
 
 **Stornobedingungen:** 1x darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen.
 
