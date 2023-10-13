@@ -24,18 +24,18 @@ weight: 4
 ***
 ## Zugangsvoraussetzungen
 
-* Dipl. Lebens- und Sozialberater\*innen - psychologischen Berater*innen
-* Interessierte Sozialarbeiter\*innen, Betreuer*innen, Psycholog\*innen, Pädagog\*innen, Psychotherapeuten\*innen
+* Dipl. Lebens- und Sozialberater:innen - psychologischen Berater*innen
+* Interessierte Sozialarbeiter:innen, Betreuer*innen, Psycholog:innen, Pädagog:innen, Psychotherapeuten:innen
 * für IFGE Schüler*innen ab dem 4. Semester der Grundausbildung
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
 ## Bestätigung
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 

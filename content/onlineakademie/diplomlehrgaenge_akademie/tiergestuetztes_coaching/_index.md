@@ -62,7 +62,7 @@ rich_faq:
 ####  Erfahre in über 145 Lehrvideos:
 * Welche **großen Vorteile das Tiergestützte Coaching** anderen Methoden gegenüber hat
 
-* Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
+* Wie du **prophylaktisch** mit deinen Klient:innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
 * Welche **positiven Einflüsse Tiere** auf den Menschen haben
 * Wie sich die **Ausbildung Tiergestütztes Coaching gestaltet** und welche Möglichkeiten diese bietet
 
@@ -86,14 +86,14 @@ Die Ausbildung findet zu 100 % online statt, so dass du 24 Stunden an 7 Tagen di
 {{% small %}}
 #### Deine Expertise auf dem nächsten Level
 
-* Du wirst dich **persönlich sowie fachlich** hervorragend entwickeln und deine **Expertise** auf ein **neues Level** bringen, sodass du noch effizienter auf deine Klient\*innen eingehen und sie nachhaltiger begleiten kannst.
+* Du wirst dich **persönlich sowie fachlich** hervorragend entwickeln und deine **Expertise** auf ein **neues Level** bringen, sodass du noch effizienter auf deine Klient:innen eingehen und sie nachhaltiger begleiten kannst.
 
 
 * **Deine beruflichen Möglichkeiten**
 Baue dir durch die Ausbildung ein zweites Standbein auf. Durch den neuen Behandlungsansatz mit dem Tier wirst du die Möglichkeit haben deine Liebe zu Tieren beruflich auszuleben.
 
 * **Tierische Stimmung**
-Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient\*innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
+Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, wird dieses auch in vielen Fällen ein Stimmungsaufheller für die Klient:innen sein. Nach der einen oder anderen Streicheleinheit wird das Eis sicher gebrochen sein.
 
 {{% /small %}}
 </div> 
@@ -174,7 +174,7 @@ Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von €
 
 {{< card-more icon="icon/storno.png" title="Prüfung" >}}
 
-Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **96 Weiterbildungsstunden** bestätigt. 
+Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **96 Weiterbildungsstunden** bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
@@ -225,7 +225,7 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 
 Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür für Situationen, Emotionen und uns Menschen. Das macht sie auch zu wertvollen „Co-Coaches“ in der [psychologischen Arbeit](https://www.ifge.at/ausbildungsangebote/tiergest%C3%BCtzte-psychologische-beratung/), konkret im tiergestützten Coaching. Hier können Tiere Anspannung nehmen und Entspannung fördern, den Selbstwert von Menschen stärken und Sichtweisen verändern. 
 
-**In diesem Lehrgang bilden wir Menschen aus und nicht Tiere.** Teilnehmer\*innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. 
+**In diesem Lehrgang bilden wir Menschen aus und nicht Tiere.** Teilnehmer:innen wird vermittelt, wie sie Tiere in Beratungsprozesse integrieren können, wann das Sinn macht und welche Potenziale das bietet. 
 
 ### Was ist Tiergestütztes Coaching?
 * Hierbei handelt es sich um ein Behandlungsverfahren, bei welchem (Heim-) Tiere, zur Linderung verschiedenster Symptome, eingesetzt werden.
@@ -432,7 +432,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 ### Allgemeine Geschäftsbedingungen
 
 **1.	Leistung**
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des IFGE. Der:die Nutzer:in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 **2.	Zugang** 
 * Die Ausbildung ist für alle offen
@@ -440,21 +440,21 @@ Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coachi
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
 
 
 **3.	Nutzungsbedingungen**
-Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
+Der:die Nutzer:in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
 Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
 Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
 Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
 Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
 
 **4. Garantie**
-IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
+IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wirtschaftlichen Erfolg erreicht.
 
 **5. Storno Intensivwoche Pinkafeld**
 Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.

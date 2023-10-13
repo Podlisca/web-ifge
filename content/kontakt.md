@@ -115,5 +115,5 @@ Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anme
 {{% /box  %}}
 
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.

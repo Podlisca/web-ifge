@@ -30,7 +30,7 @@ weight: 4
 
 * Dipl. Lebens- und Sozialberater*in
 * Lebens- und Sozialberater*in in Ausbildung, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Aufstellungen erst mit Erhalt des Gewerbescheins. 
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
+* Interessierte Sozialarbeiter:innen, Betreuer:innen, Psycholog:innen, Pädagog:innen, Trainer:innen, Coaches, Energetiker:innen mit Erfahrung in der Gesprächsführung usw.
 
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Zeugnisses des Institut für ganzheitliches Erleben ab. 
 

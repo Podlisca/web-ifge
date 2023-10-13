@@ -26,7 +26,7 @@ weight: 4
 
 * Diese Ausbildung ist für alle offen
 
-Das Seminar „Große weite Welt – Kinder vor Gefahren (im Netz) schützen“ eignet sich nicht nur für Eltern, sondern kann auch für Betreuer\*innen von Jugendgruppen oder Lehrer\*innen wesentlichen neuen Input liefern.
+Das Seminar „Große weite Welt – Kinder vor Gefahren (im Netz) schützen“ eignet sich nicht nur für Eltern, sondern kann auch für Betreuer:innen von Jugendgruppen oder Lehrer:innen wesentlichen neuen Input liefern.
 
 {{< line icon="icon/test.png" >}}
 
@@ -36,8 +36,8 @@ Das Seminar „Große weite Welt – Kinder vor Gefahren (im Netz) schützen“ 
 
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 {{% /small  %}}
 {{% /box %}}

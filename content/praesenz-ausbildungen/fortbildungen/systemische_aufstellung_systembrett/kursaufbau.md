@@ -67,7 +67,7 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 
 ## Bestätigung
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 {{% /small  %}}

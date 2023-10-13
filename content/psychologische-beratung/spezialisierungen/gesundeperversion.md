@@ -44,7 +44,7 @@ So mancher sexuellen Spielart haftet ein wenig Verruchtes, ja sogar etwas fast V
 
 Dieser befreite, lustvolle Umgang mit den eigenen sexuellen Bedürfnissen und die daraus entstehende Mega-Lust scheint für viele Menschen auch heute noch fast unerreichbar. Dadurch entsteht häufig Neid auf jene Menschen, die sich ihrer Sexualität völlig befreit – ja sogar enthemmt – hingeben. Diese unterschwellige Missgunst nährt auch heute noch so manche Glaubenssätze. Diese Glaubenssätze sind tief und fest in uns verankert: 
 
-„Das ist doch krank“, „Gute Frauen machen so etwas nicht“, „Ein richtiger Mann kann sich nicht fesseln lassen“, „Das ist ungesund“. Mir ist wichtig zu betonen, dass vieles „normaler“ ist, als so manche meiner Klient\*innen denken. Sie sind also keineswegs verrückt, wenn Sie besondere Vorlieben, Fetische oder Beziehungsmodelle ausleben möchten.
+„Das ist doch krank“, „Gute Frauen machen so etwas nicht“, „Ein richtiger Mann kann sich nicht fesseln lassen“, „Das ist ungesund“. Mir ist wichtig zu betonen, dass vieles „normaler“ ist, als so manche meiner Klient:innen denken. Sie sind also keineswegs verrückt, wenn Sie besondere Vorlieben, Fetische oder Beziehungsmodelle ausleben möchten.
 <br/>
 <br/>
 
@@ -56,7 +56,7 @@ Durch die Pille rückte zum ersten Mal in der Geschichte plötzlich auch die Lus
 
 Der sexuelle Wandel hinsichtlich herrschender Moralvorstellungen – die sogenannte Neosexuelle Revolution, durch die befreite Sexualität erst einem größeren Kreis an Menschen möglich wurde – dauert seither an.
 
-Ich begrüße diesen Paradigmenwechsel, der auch in der Sexualberatung stattfindet. Denn es geht keineswegs darum, psychologisch aufzudröseln, wodurch Ihre persönlichen Neigungen, Vorlieben oder auch Fetische entstanden sind, oder darum, diese zu verändern, so lange Sie sich wohl damit fühlen. Durch die neosexuelle Strömung verzichten endlich immer mehr Therapeut*innen und Berater*innen darauf, sexuelle Bedürfnisse zu hinterfragen, sondern nehmen diese als sexuelle Kompetenz ihrer Kliet\*innen wahr.
+Ich begrüße diesen Paradigmenwechsel, der auch in der Sexualberatung stattfindet. Denn es geht keineswegs darum, psychologisch aufzudröseln, wodurch Ihre persönlichen Neigungen, Vorlieben oder auch Fetische entstanden sind, oder darum, diese zu verändern, so lange Sie sich wohl damit fühlen. Durch die neosexuelle Strömung verzichten endlich immer mehr Therapeut*innen und Berater*innen darauf, sexuelle Bedürfnisse zu hinterfragen, sondern nehmen diese als sexuelle Kompetenz ihrer Kliet:innen wahr.
 
 Doch wenn aus der gesunden Würze – der ausgewogenen Perversion – nach und nach ein gewisser Leidensdruck entsteht, ist es wichtig, einen neuen Umgang mit der eigenen Sexualität zu finden, der er ermöglicht, Bedürfnisse lustvoll, gesund und befreit in Ihre Sexualität integrieren zu können. Wesentlich ist in der Sexualberatung heute also weniger, ob etwas im Allgemeinen (noch) gesund ist, sondern viel eher, wie Sie einen gesunden und vor allem risikofreien Umgang mit Ihren Bedürfnissen finden oder erhalten können. 
 
@@ -111,7 +111,7 @@ Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst,
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter:innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
 * [Stalking](/psychologische-beratung/spezialisierungen/stalking/)

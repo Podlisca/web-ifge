@@ -63,7 +63,7 @@ Hier kommt der Spaß, mit dem Lösungen spielerisch und mit Leichtigkeit gelinge
 
 {{% box blue=1 %}}
 {{% small %}}
-Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberater\*in befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt.
+Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberater:in befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt.
 {{% /small %}}
 {{% /box %}}
 
@@ -88,9 +88,9 @@ Mit Ihrer Teilnahme stimmen Sie den allgemeinen Rahmenbedingungen zu.
 
  
 
-Preis pro Einheit (4 Stunden)  bis zu 8 Teilnehmer\*innen: € 490,-  (inkl. 20 % Mwst.)
+Preis pro Einheit (4 Stunden)  bis zu 8 Teilnehmer:innen: € 490,-  (inkl. 20 % Mwst.)
 
-Preis pro Einheit (4 Stunden) ab 9 Teilnehme\r*innen mit 2 Trainer\*innen: € 890,-  (inkl. 20 % Mwst.)
+Preis pro Einheit (4 Stunden) ab 9 Teilnehme\r*innen mit 2 Trainer:innen: € 890,-  (inkl. 20 % Mwst.)
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 

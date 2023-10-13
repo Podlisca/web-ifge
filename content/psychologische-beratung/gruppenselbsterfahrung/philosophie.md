@@ -87,20 +87,20 @@ Ist der Fluss der verschieden Bewusstseinsebenen längerfristig unterbrochen, en
 
 Aus genau diesem Grund vereine ich am IFGE die verschiedenen Ebenen wie Intuition, Fachwissen, Gefühl und körperliches Erleben sowie viel Herzlichkeit und Humor, damit Sie neue und dauerhaft erfolgreiche Lösungswege bestreiten können. Durch eine bewusste Fragetechnik wird immer auch die körperliche Ebene mit einbezogen. Denn es ist mir ein besonderes Anliegen, dass Sie bei mir die Möglichkeit erhalten, alle Bewusstseinsebenen als gleichwertig, gleichrichtig und gleichzeitig – eben gleichberechtigt – betrachten und dadurch langfristige Lösungen erreichen zu können.
 
-Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualitative Philosophie des IFGE finden Sie mittlerweile an **drei Standorten: in Wien, im Burgenland und in Niederösterreich**. Sowohl am Hauptstandort in Wien als auch in den Niederlassungen in Pinkafeld und St. Pölten wird diese Haltung von mir als Institutsleiterin und Hauptreferentin sowie von meinen sorgfältig ausgewählten und geschulten Referent\*innen gelebt. 
+Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualitative Philosophie des IFGE finden Sie mittlerweile an **drei Standorten: in Wien, im Burgenland und in Niederösterreich**. Sowohl am Hauptstandort in Wien als auch in den Niederlassungen in Pinkafeld und St. Pölten wird diese Haltung von mir als Institutsleiterin und Hauptreferentin sowie von meinen sorgfältig ausgewählten und geschulten Referent:innen gelebt. 
 
 {{% box blue=1 %}}
 {{% small %}}
 {{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte Psychologische Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
+Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte Psychologische Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient:innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient:innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater:in eingelebt haben. 
 
 Schon die bloße Anwesenheit der Tiere erzeugt bei meinen KlientInnen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. 
 {{% /small %}}
 {{% /box %}}
 
 
-Tiere spüren darüber hinaus recht deutlich, ob Klient\*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auch dadurch auf intensive Weise. 
+Tiere spüren darüber hinaus recht deutlich, ob Klient:innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auch dadurch auf intensive Weise. 
 So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen.
 
 {{< line icon="icon/zitat.png" >}} 

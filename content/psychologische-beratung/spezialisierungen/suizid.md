@@ -57,7 +57,7 @@ sind nur einige der zahlreichen Schuldfragen, die unfreiwillig immer und immer w
 
 Hinzu kommt, dass es große Angst macht, diese Fragen laut auszusprechen. 
 
-Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg\*innen abgegeben wurde und auch wenn Angehörige, Freund\*innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
+Kaum aushaltbar werden die Schuldgefühle besonders dann, wenn durch einen Abschiedsbrief die Verantwortung für die Selbsttötung vermeintlich an eine nahestehende Person  oder Arbeitskolleg:innen abgegeben wurde und auch wenn Angehörige, Freund:innen oder Kolleg*innen im Streit mit dem Verstorbenen auseinander gingen. Immer wieder drängt sich die nagende Frage auf: „Bin ich mitverantwortlich?“ Vor allem dann, wenn Konflikte mit dem Verstorbenen bereits längere Zeit angedauert haben. Die Frage nach der eigenen Verantwortung stellt sich besonders quälend im Arbeitsumfeld, wenn Themen wie Mobbing und Missachtung Teil der Zusammenarbeit waren.
 
 ### BILDER UND GEDANKEN, DIE NICHT MEHR LOSLASSEN
 
@@ -73,7 +73,7 @@ Und zu all diesen verzweifelten Gefühlen gesellt sich immer wieder auch enormer
 
 {{< image src="/img/tiere_noe_5.jpg" float="right" title="Bildbeschreibung" >}}
 
-In manchen Fällen wissen die Hinterbliebenen kaum mehr, wohin mit ihrer verzweifelten Wut und lenken diese auf die zur Hilfe gerufenen ÄrztInnen, behandelnden Psychotherapeut\*innen und Berater*innen oder auch auf Personen aus dem näheren Umfeld. 
+In manchen Fällen wissen die Hinterbliebenen kaum mehr, wohin mit ihrer verzweifelten Wut und lenken diese auf die zur Hilfe gerufenen ÄrztInnen, behandelnden Psychotherapeut:innen und Berater*innen oder auch auf Personen aus dem näheren Umfeld. 
 
 Diese Gefühle sind nach einem Suizid oder Selbstmordversuch absolut menschlich und nachvollziehbar. In der psychologischen Beratung haben auch Emotionen wie Ärger und Wut Platz und Raum, so dass Sie sich mit all dem, was Sie empfinden, willkommen fühlen. 
 
@@ -135,7 +135,7 @@ Wenn ein Ihnen nahe stehender Mensch einen Suizidversuch unternommen hat, sind S
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter:innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
 * [Stalking](/psychologische-beratung/spezialisierungen/stalking/)

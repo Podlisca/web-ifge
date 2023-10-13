@@ -38,7 +38,7 @@ weight: 4
 
 Der Lehrgang schließt ohne Abschlussprüfung statt. 
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung.
 
 {{% /small  %}}
 {{% /box %}}

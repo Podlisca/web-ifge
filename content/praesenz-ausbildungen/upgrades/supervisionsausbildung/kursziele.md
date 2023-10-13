@@ -16,7 +16,7 @@ og_image: "/img/sv_supervision.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/sv_supervision.jpg"title="Das Ziel der Supervisionsausbildung ist, dass Sie als Expertin Kollegin\*innen unterstützend zur Seite stehen können – egal ob im Einzel- oder Gruppensetting. Die Ausbildung ist von der WKO anerkannt und befähigt Sie angehende Lebensberater\*innen - psychologischen Berater\*innen zu supervidieren. "float="left">}}
+{{< image src="/img/sv_supervision.jpg"title="Das Ziel der Supervisionsausbildung ist, dass Sie als Expertin Kollegin:innen unterstützend zur Seite stehen können – egal ob im Einzel- oder Gruppensetting. Die Ausbildung ist von der WKO anerkannt und befähigt Sie angehende Lebensberater:innen - psychologischen Berater:innen zu supervidieren. "float="left">}}
 
 Das Ziel der Zusatzausbildung am IFGE ist, dass Sie sowohl in der Theorie als auch in zahlreichen Praxisübungen lernen, wie Sie als Expert*in bei allen beruflichen Herausforderungen beratend zur Seite stehen können. Als SupervisorIn erweitern Sie Ihr berufliches Angebot um eine besonders in der Lebens- und Sozialberatung – psychologischen Beratung sehr wichtige Komponente. 
 
@@ -45,7 +45,7 @@ Die ausgewählten Inhalte des LSB-Upgrades reichen von den Grundlagen der Lehrsu
 {{% box %}}
 {{% small %}}
 
-Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer\*innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
+Die Inhalte unseres Upgrades umfassen verschiedene Methoden und theoretische Kenntnisse, die die Ausbildungs-Teilnehmer:innen für die Supervision im Bereich der Lebens- und Sozialberatung fit machen.
 
 Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere durch praktische Übungssequenzen ausgebaut und gestärkt. Häufige Themen und Fragestellungen in der Supervision werden erarbeitet, um angehende Kolleg*innen sicher und kompetent begleiten und unterstützen zu können.
 

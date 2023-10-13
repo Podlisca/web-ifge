@@ -24,7 +24,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 Im **Fokus** der Fortbildung stehen **Grundlagen und Grundsätze** von Beratung. Durch Lehrvideos, Lernunterlagen und praktische Übungen werden grundlegende Themen, wie **Methoden oder Kommunikation** in Beratung und Coaching erschlossen. 
 
-Damit richtet sich die **Online-Fortbildung** nicht nur an psychosoziale Berater\*innen, sondern an alle, die für und mit Menschen arbeiten. Im Anschluss an die Weiterbildung bist du in der Lage, **Menschen noch gezielter zu beraten, zu betreuen und zu begleiten**. 
+Damit richtet sich die **Online-Fortbildung** nicht nur an psychosoziale Berater:innen, sondern an alle, die für und mit Menschen arbeiten. Im Anschluss an die Weiterbildung bist du in der Lage, **Menschen noch gezielter zu beraten, zu betreuen und zu begleiten**. 
 
 **100% ONLINE** & individuelle, persönliche Betreuung -  **3 Jahre Vollzugriff**
 

@@ -43,7 +43,7 @@ rich_faq:
 
 * Langfristiges **Verschweigen und Verdrängen** sexueller Themen kann allerdings die psychische und physische **Gesundheit beeinträchtigen**. 
 
-* Umso wichtiger, dass psychologische Berater\*innen, Betreuer\*innen, Pädagog\*innen und andere relevante Berufsgruppen in der Lage sind **Betroffene hier mit den richtigen Fragen und Methoden zu begleiten**. 
+* Umso wichtiger, dass psychologische Berater:innen, Betreuer:innen, Pädagog:innen und andere relevante Berufsgruppen in der Lage sind **Betroffene hier mit den richtigen Fragen und Methoden zu begleiten**. 
 
 
 {{% /small %}}
@@ -131,7 +131,7 @@ Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von €
 
 {{< card-more icon="icon/storno.png" title="Prüfung" >}}
 
-Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
+Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
@@ -279,7 +279,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{< card-more  title="Prüfung" >}}
 
 Der Lehrgang schließt mit **Online-Abschlussprüfung** ab. Nach bestandener Prüfung erhältst Du ein IFGE Zertifikat.
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 
@@ -297,7 +297,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 ### Allgemeine Geschäftsbedingungen
 
 **1.	Leistung**
-Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Besonderheit Sexualberatung“ des IFGE. Der\*die Nutzer\*in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
+Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Besonderheit Sexualberatung“ des IFGE. Der:die Nutzer:in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
 
 **2.	Zugang** 
 * Die Ausbildung ist für alle offen
@@ -305,20 +305,20 @@ Der\*die Nutzer\*in ist Teilnehmer des Onlinelehrgangs „Besonderheit Sexualber
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der\*die Nutzer\*in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
 
 **3.	Nutzungsbedingungen**
-Der\*die Nutzer\*in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
+Der:die Nutzer:in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
 Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
 Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
 Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
 Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
 
 **4. Garantie**
-IFGE übernimmt keine Garantie dafür, dass der\*die Kunde\*in einen bestimmten wirtschaftlichen Erfolg erreicht.
+IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wirtschaftlichen Erfolg erreicht.
 
 
 **6. Gerichtstand:**

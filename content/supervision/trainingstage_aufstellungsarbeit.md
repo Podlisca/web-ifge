@@ -22,7 +22,7 @@ og_image: "/img/trainingstage.jpg"
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
-Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu verfeinern und Ihr Fachwissen zu vertiefen. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Die Teilnehmer\*innen sind eingeladen, eigene Fälle vorstellen um neue "PerspekTiefen"  für den Beraterprozess zu erhalten. 
+Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu verfeinern und Ihr Fachwissen zu vertiefen. Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theorie-Feinschliff und systemischer Fallsupervision konzipiert. Die Teilnehmer:innen sind eingeladen, eigene Fälle vorstellen um neue "PerspekTiefen"  für den Beraterprozess zu erhalten. 
 <br/>
 <br/>
 {{< silvia >}}
@@ -81,13 +81,13 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 ### Allgemeines
 
-* Mind. 8 Teilnehmer\*innen / Max. 12 Teilnehmer\*innen
+* Mind. 8 Teilnehmer:innen / Max. 12 Teilnehmer:innen
 * ab dem 3. LSB Semseter 
 * Kosten: € 198,- (Zahlung bei Anmeldung)
 * Anmeldeschluss: 2 Wochen vorher
  
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 {{< line icon="/icon/vertrag.png" >}}
 
@@ -99,6 +99,6 @@ Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornoge
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
-Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer\*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
 {{% /small  %}}
 {{% /box %}}

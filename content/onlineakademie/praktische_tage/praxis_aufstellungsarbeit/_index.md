@@ -29,7 +29,7 @@ rich_faq:
 {{% small %}}
 **Neu erlerntes Wissen** ist vor allem dann wunderbar, wenn wir es **aktiv anwenden und einsetzen** können. Wenn wir feststellen, dass sich das Lernen und Lesen gelohnt hat, weil wir Inhalte verstanden und konkret in der Praxis umsetzen können. Damit Du das Wissen aus den IFGE-Ausbildungen durch **praktische Anwendung** festigen kannst, bieten wir dir die Möglichkeit **praktischer Tage im Präsenzunterricht**.
 
-Ganz gleich, welchen Kurs der [**IFGE-Online-Akademie**](https://www.ifge.at/onlineakademie/) du absolviert hast, in den **Praxistagen** besuchst du einen unserer Institutsstandorte in Wien, Niederösterreich oder dem Burgenland, um erworbenes **Wissen zu Methoden und Tools** aktiv anzuwenden. Dabei profitierst Du von einem **geschützten Raum** sowie der **Begleitung durch erfahrene Expert\*innen.**
+Ganz gleich, welchen Kurs der [**IFGE-Online-Akademie**](https://www.ifge.at/onlineakademie/) du absolviert hast, in den **Praxistagen** besuchst du einen unserer Institutsstandorte in Wien, Niederösterreich oder dem Burgenland, um erworbenes **Wissen zu Methoden und Tools** aktiv anzuwenden. Dabei profitierst Du von einem **geschützten Raum** sowie der **Begleitung durch erfahrene Expert:innen.**
 
 {{% /small %}}
 </div> 
@@ -60,7 +60,7 @@ von 10:00 bis 17:00 Uhr
 **Veranstaltungsort:** </br>
 IFGE Wien
 
-**Gruppengröße:** mind. 4 Teilnehmer\*innen - max. 12 Teilnehmer\*innen
+**Gruppengröße:** mind. 4 Teilnehmer:innen - max. 12 Teilnehmer:innen
 
 {{< buchung-vorauswahl text="Anmelden" veranstaltung="Kurs buchen Praktische Tage: 03.12.2023" >}}
 
@@ -87,7 +87,7 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert.
 
 ## Anerkennung
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung.
 

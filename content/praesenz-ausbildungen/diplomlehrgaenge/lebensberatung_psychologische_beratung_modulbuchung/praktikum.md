@@ -34,7 +34,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 
 * mindestens 100 protokollierte Beratungseinheiten (darunter mindestens fünf Erstgesprächsprotokolle und Prozessprotokolle über zwei abgeschlossene Beratungen) und
 * mindestens 100 nachgewiesene Supervisionseinheiten (10 Einzel- und 90 Gruppensupervision), davon mindestens 10 Einzelsupervisionseinheiten
-Die Supervisionsstunden können Sie bei Supervisoren\*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor\*innen](/about/ifge_supervisoren/) die die Voraussetzungen erfüllen.
+Die Supervisionsstunden können Sie bei Supervisoren:innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor:innen](/about/ifge_supervisoren/) die die Voraussetzungen erfüllen.
 
  
 

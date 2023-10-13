@@ -36,7 +36,7 @@ weight: 1
 * Historische und aktuelle Perspektiven auf Diversitäten in Österreich 
 * Praktischer Nutzen von Diversitätstheorien für Analyse und Reflexion in der Praxis 
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine **Bestätigung über fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 {{% box blue=1 %}}

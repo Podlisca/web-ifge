@@ -37,10 +37,10 @@ rich_faq:
 **Erfahre**
 * Welche **Instrumente und Methoden** in Beratung und Coaching eingesetzt werden können, um Menschen **gezielt zu unterstützen**
 * Wie ein geeigneter Beratungs-/Coachingsrahmen gestaltet wird
-* Worauf es bei **Gesprächsführung und Kommunikation** mit Klient\*innen ankommt
+* Worauf es bei **Gesprächsführung und Kommunikation** mit Klient:innen ankommt
 * Wie **lösungsorientiert Interventionen** und **Impulse** gesetzt werden
 * Wie **emotionaler Beziehungsaufbau** gelingt
-* Wie du **prophylaktisch** mit deinen Klient\*innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
+* Wie du **prophylaktisch** mit deinen Klient:innen an deren Themen arbeitest, um **psychischen Krankheiten vorzubeugen**
 
 
 
@@ -52,7 +52,7 @@ rich_faq:
 ## Deine Vorteile auf einen Blick:
 
 * **Mehr Kompetenz und Wissen** 
-Die Arbeit als psychologische Berater\*innen oder Coaches erfordert Wissen aus vielen Bereichen. Durch aktuelles, **fundiertes Fachwissen** zu Kommunikation, Instrumenten und Settings kannst du Menschen noch gezielter beraten und begleiten.
+Die Arbeit als psychologische Berater:innen oder Coaches erfordert Wissen aus vielen Bereichen. Durch aktuelles, **fundiertes Fachwissen** zu Kommunikation, Instrumenten und Settings kannst du Menschen noch gezielter beraten und begleiten.
 * **Methoden am Puls der Zeit**
 Wie Menschen und Gesellschaften verändert sich auch die psychologische Beratung laufend. Mit dieser Diplomausbildung bleibst du **up-to-date**.
 * **Dein flexibler Ausbildungsweg**
@@ -96,7 +96,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 {{< line icon="icon/familienaufstellung.png">}}
 
 ## Beratung & Coaching: Settings, Tools & Gesprächsführung.
-Sprechen und zuhören. **Fragen stellen und Antworten bieten**. Impulse geben und Interventionen setzen. **Einen wertschätzenden Rahmen schaffen und einander auf Augenhöhe begegnen**. Das alles sind **zentrale Komponenten** der Arbeit mit und für Menschen. Insbesondere für Berater\*innen und Coaches, die Menschen in unterschiedlichen Situationen und bei unterschiedlichen Themen begleiten. Damit Beratung und Coaching Wirkung zeigt, braucht es **Kompetenz** und Wissen in vielen Bereichen, wie etwa **Gesprächsführung oder Psychologie**. Und genau das bietet dir dieser Online-Diplomlehrgang.
+Sprechen und zuhören. **Fragen stellen und Antworten bieten**. Impulse geben und Interventionen setzen. **Einen wertschätzenden Rahmen schaffen und einander auf Augenhöhe begegnen**. Das alles sind **zentrale Komponenten** der Arbeit mit und für Menschen. Insbesondere für Berater:innen und Coaches, die Menschen in unterschiedlichen Situationen und bei unterschiedlichen Themen begleiten. Damit Beratung und Coaching Wirkung zeigt, braucht es **Kompetenz** und Wissen in vielen Bereichen, wie etwa **Gesprächsführung oder Psychologie**. Und genau das bietet dir dieser Online-Diplomlehrgang.
 **Seit mehr als 20 Jahren bewegen, begleiten und bereichern wir Menschen mit psychologischen Beratung sowie hochwertigen Aus- und Weiterbildungen**. Dieser Kurs bündelt sozusagen 20 Jahre Erfahrung und bietet dir das Beste aus allen Angeboten. 
 
 
@@ -126,9 +126,9 @@ Sprechen und zuhören. **Fragen stellen und Antworten bieten**. Impulse geben un
 
 {{< line icon="icon/familienaufstellung.png">}}
 
-## Eine Top-Ausbildung. Für Einsteiger\*innen & Expert\*innen.
+## Eine Top-Ausbildung. Für Einsteiger:innen & Expert:innen.
 
-Du stehst **am Anfang** deiner Tätigkeit als Coach und **wünscht dir fundiertes, praxisorientiertes Wissen** zu allen Komponenten der Beratung? Du hast **bereits Erfahrung als Berater\*in**, möchtest aber Grundlagen, etwa zu **Beratungstools und Gesprächsführung**, auffrischen, festigen, **erweitern** und **vertiefen**? Der {{< red >}} IFGE-Online-Diplomlehrgang Settings, Tools & Interventionen in Beratung & Coaching {{< /red >}}richtet sich sowohl an **Berufseinsteiger\*innen** als auch an **Berufserfahrene**. Aufgrund der **vielfältigen Inhalte**, die von Coachingsettings über Kommunikation bis hin zu psychologischen Grundlagen reichen, bietet die Ausbildung einen **Mehrwert für viele Berufsgruppen**. Nicht nur für psychologische Berater*innen und Coaches, sondern beispielsweise auch für **Berufstätige im Gesundheitswesen**, **Betreuer\*innen** oder **Pädagog\*innen**.
+Du stehst **am Anfang** deiner Tätigkeit als Coach und **wünscht dir fundiertes, praxisorientiertes Wissen** zu allen Komponenten der Beratung? Du hast **bereits Erfahrung als Berater:in**, möchtest aber Grundlagen, etwa zu **Beratungstools und Gesprächsführung**, auffrischen, festigen, **erweitern** und **vertiefen**? Der {{< red >}} IFGE-Online-Diplomlehrgang Settings, Tools & Interventionen in Beratung & Coaching {{< /red >}}richtet sich sowohl an **Berufseinsteiger:innen** als auch an **Berufserfahrene**. Aufgrund der **vielfältigen Inhalte**, die von Coachingsettings über Kommunikation bis hin zu psychologischen Grundlagen reichen, bietet die Ausbildung einen **Mehrwert für viele Berufsgruppen**. Nicht nur für psychologische Berater*innen und Coaches, sondern beispielsweise auch für **Berufstätige im Gesundheitswesen**, **Betreuer:innen** oder **Pädagog:innen**.
 
 
 

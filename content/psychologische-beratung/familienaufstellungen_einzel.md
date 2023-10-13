@@ -80,7 +80,7 @@ Jeder Mensch strebt ein glückliches, zufriedenes und erfülltes Leben an. Doch 
 
 Wer seine Zukunft von Selbstzweifeln, [Traumata](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/) und Verstrickungen befreien möchte, muss seine Vergangenheit verstehen. Ganz nach dem Motto: Der Blick zurück für den Blick nach vorne. Mangelnde Anerkennung und Zuneigung in der Kindheit. Fehlende Loyalität und Akzeptanz in der Jugend. Das Gefühl, den Erwartungen der Familie nicht gerecht zu werden. Es gibt unzählige Beispiele für familiäre Themen und Konflikte, die unser Hier und Jetzt beeinflussen.
 
-In einer Familie darf und soll jede\*r seinen Platz haben. Jede*r darf dazugehören, aber selbst entscheiden, wie diese Zugehörigkeit aussieht. Letztlich ist eine Familie als Ganzes so glücklich, wie ihre einzelnen Mitglieder mit sich selbst. Der Weg zu mehr familiärem Glück und Harmonie führt daher stark über sich selbst und der Befassung mit Herkunft, Sehnsüchten und Ängsten. 
+In einer Familie darf und soll jede:r seinen Platz haben. Jede*r darf dazugehören, aber selbst entscheiden, wie diese Zugehörigkeit aussieht. Letztlich ist eine Familie als Ganzes so glücklich, wie ihre einzelnen Mitglieder mit sich selbst. Der Weg zu mehr familiärem Glück und Harmonie führt daher stark über sich selbst und der Befassung mit Herkunft, Sehnsüchten und Ängsten. 
 
 {{% /small  %}}
 {{% /box %}}

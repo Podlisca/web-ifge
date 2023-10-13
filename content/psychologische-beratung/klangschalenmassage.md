@@ -64,13 +64,13 @@ In unseren Zellen haben wir jede unserer guten – aber auch jede unserer belast
 
 ## Erst wenn gesehen, gehört und anerkannt wird, was in der Größe der Familienseele wirkt, können ganzheitliche Lösungen beginnen.
 
-Bei einem mit Klangschalen unterstützten Beratungsprozess wird eine belastende Situation besprochen und genau dort, wo im Moment die größte Belastung ist, wird das Gespräch unterbrochen und ca. 20 Minuten mit den Klangschalen gearbeitet. Sie als Klient\*in bleiben in dieser Zeit innerlich mit Ihrem Anliegen verbunden. Durch die Vibration und den Klang (der erst im Ohr entsteht und somit für jeden Menschen einzigartig ist) entsteht im Körper Bewegung, wodurch sich die Starre verändert und andere Blickwinkel sowie Einsichten möglich werden.
+Bei einem mit Klangschalen unterstützten Beratungsprozess wird eine belastende Situation besprochen und genau dort, wo im Moment die größte Belastung ist, wird das Gespräch unterbrochen und ca. 20 Minuten mit den Klangschalen gearbeitet. Sie als Klient:in bleiben in dieser Zeit innerlich mit Ihrem Anliegen verbunden. Durch die Vibration und den Klang (der erst im Ohr entsteht und somit für jeden Menschen einzigartig ist) entsteht im Körper Bewegung, wodurch sich die Starre verändert und andere Blickwinkel sowie Einsichten möglich werden.
 
 Die Schwingungen der Klangschalen können lockern, was sich tief in unserem Körper festgesetzt hat. Wenn man manchmal mit Worten nicht weiterkommt, kann die Arbeit am Körper Themen lösen und in Gang bringen, die dann wieder mit anderen Behandlungsmethoden weiterverfolgt werden können.
 
 Ein Vorteil dieser Variante ist, dass Sie mit der größten Belastung umzugehen lernen, ohne in destruktive Verhaltensmuster zu fallen. Die Blockaden wandeln sich sogar Schritt für Schritt in Kraft um. 
 
-Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die Klangschalenmassage zu stabilisieren. Hier bleiben Sie als Klient\*in während der Klangschalenmassage innerlich mit der Lösung verbunden. Dies bewirkt, dass die gewünschte Veränderung verinnerlicht und im Körper verankert wird.
+Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die Klangschalenmassage zu stabilisieren. Hier bleiben Sie als Klient:in während der Klangschalenmassage innerlich mit der Lösung verbunden. Dies bewirkt, dass die gewünschte Veränderung verinnerlicht und im Körper verankert wird.
 
 {{< line icon="icon/klangschale.png" >}}
 
@@ -119,7 +119,7 @@ Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die
 
 {{% small  %}}
 #### Täter/Opfer/Gewalt
-{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter\*innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
+{{< image src="/img/taeter_opfer_gewalt.jpg" title="Gewalt ganz gleich ob körperlicher, körperlicher- sexueller oder psychischer Natur erschüttert das Leben der Betroffenen - aber auch der Täter, der Täterinnen bis ins tiefste Mark. Gewalt ist mit nichts zu entschuldigen, kein Schicksal, ganz gleich wie schwer es war, rechtfertigt das Einsetzen von Gewalt. Jedoch ist es enorm wichtig, dass Täter und Täterinnen die Verantwortung für die Tat übernehmen und Opfer die Tat gut verkraften können. In diesem Sinne, ist es wichtig, mit beiden Gruppen Täter – wie Opfer zu arbeiten.  Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen für Täter:innen und Opfer an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit."title="Berufsbild Gewalt" >}}
 
 * [Täterberatung](/psychologische-beratung/spezialisierungen/taeterberatung/)
 * [Stalking](/psychologische-beratung/spezialisierungen/stalking/)

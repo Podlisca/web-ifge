@@ -28,7 +28,7 @@ rich_kurs: true
 
 Alte Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht. 
 
-Aber auch Betreuer\*innen, Pädagog\*innen und Eltern, denen die sexuellen Bedürfnisse von Menschen mit Behinderung bewusst sind, sind häufig unsicher im Umgang und in der Begleitung.
+Aber auch Betreuer:innen, Pädagog:innen und Eltern, denen die sexuellen Bedürfnisse von Menschen mit Behinderung bewusst sind, sind häufig unsicher im Umgang und in der Begleitung.
 
 Genau hier setzt die Ausbildung Sexualität, Alter & Behinderung an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen mit Behinderungen ernstgenommen und bewusst aufgegriffen werden können. 
 

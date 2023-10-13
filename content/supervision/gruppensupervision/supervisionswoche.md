@@ -20,11 +20,11 @@ og_image: "/img/supervisionswoche.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/supervisionswoche.jpg" float="left" title="In dieser Intensivwoche haben Sie die Möglichkeit sich eine Woche lang Ihre Themen als angehende Lebensberater\*in -psychologischen Berater\*in zu widmen. Fragen aus dem Berufsalltag, zum Lehrstoff aber auch zum Praxisaufbau können gut beleuchtet werden. Zudem erhalten Sie einen sehr realistischen Einblick wie der Praxisalltag aussieht, wenn man sich eine Woche ausschliesslich mit dem Beruf beschäftigt. " >}} 
+{{< image src="/img/supervisionswoche.jpg" float="left" title="In dieser Intensivwoche haben Sie die Möglichkeit sich eine Woche lang Ihre Themen als angehende Lebensberater:in -psychologischen Berater:in zu widmen. Fragen aus dem Berufsalltag, zum Lehrstoff aber auch zum Praxisaufbau können gut beleuchtet werden. Zudem erhalten Sie einen sehr realistischen Einblick wie der Praxisalltag aussieht, wenn man sich eine Woche ausschliesslich mit dem Beruf beschäftigt. " >}} 
 
 Ein Mix aus Unterricht, Fallbeispielen zum Üben und Supervisionsfällen.
 
-Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater\*in - psychosoziale Berater\*in eingereicht werden. 
+Für die gesamte Woche werden 38 Stunden Gruppensupervision bestätigt. Die Stunden können für die Erlangung des Gewerbescheins zum/zur Lebensberater:in - psychosoziale Berater:in eingereicht werden. 
 
 Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychologischen Bereich arbeiten, offen. Es empfiehlt sich, mit der Methode des Aufstellens vertraut zu sein. 
 <br/>
@@ -77,13 +77,13 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 ### Allgemeines
 
-* Mind. 10 Teilnehmer\*innen / Max. 14 Teilnehmer\*innen
+* Mind. 10 Teilnehmer:innen / Max. 14 Teilnehmer:innen
 * Kosten: € 675,- ( Anzahlung € 100,- bei Anmeldung, Rest bis einen Monat vor Beginn)
 * Anmeldeschluss: 2 Wochen vorher
  
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über fachliche Fortbildung.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine Bestätigung über fachliche Fortbildung.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 {{< line icon="/icon/vertrag.png" >}}
 
@@ -95,6 +95,6 @@ Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornoge
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
-Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer\*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
 {{% /small  %}}
 {{% /box %}}

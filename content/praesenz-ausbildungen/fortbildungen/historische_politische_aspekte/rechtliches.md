@@ -25,9 +25,9 @@ weight: 4
 ## Zugangsvoraussetzungen
 
 
-* Dipl. Lebens- und Sozialberater\*in
-* Lebens- und Sozialberater\*in in Ausbildung
-* Interessierte Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Erfahrung in der Gesprächsführung usw.
+* Dipl. Lebens- und Sozialberater:in
+* Lebens- und Sozialberater:in in Ausbildung
+* Interessierte Sozialarbeiter:innen, Betreuer:innen, Psycholog:innen, Pädagog:innen, Trainer:innen, Coaches, Energetiker:innen mit Erfahrung in der Gesprächsführung usw.
 * privates Interesse
 
 {{< line icon="noun_Information_478770-2.png" >}}

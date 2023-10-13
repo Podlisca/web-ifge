@@ -78,7 +78,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 {{% small  %}}
 ## Zertifikat
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **16 Weiterbildungsstunden** bestätigt. 
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **16 Weiterbildungsstunden** bestätigt. 
 
 Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
 

@@ -44,7 +44,7 @@ Bei den Inhalten der digitalen Fortbildung macht sich der Leitspruch „Aus der 
 {{% small  %}}
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}

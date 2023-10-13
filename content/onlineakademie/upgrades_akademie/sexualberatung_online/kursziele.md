@@ -24,7 +24,7 @@ og_image: "/img/tier_coaching_1.jpg"
 
 {{% small %}}
 
-Ziel der Ausbildung ist die Kompetenz und Sicherheit im Umgang mit dem Thema **Sexualität zu fördern und zu stärken**. Denn nicht nur für Klient\*innen ist es manchmal schwer sensible Aspekte anzusprechen. Auch für **Berater*innen kann es herausfordernd** sein, **gezielte Fragen** zu stellen und **Impulse zu setzen**. 
+Ziel der Ausbildung ist die Kompetenz und Sicherheit im Umgang mit dem Thema **Sexualität zu fördern und zu stärken**. Denn nicht nur für Klient:innen ist es manchmal schwer sensible Aspekte anzusprechen. Auch für **Berater*innen kann es herausfordernd** sein, **gezielte Fragen** zu stellen und **Impulse zu setzen**. 
 
 **Ziel des Kurses**, der zur Gänze im **Online-Setting** stattfindet, ist zudem **Wissen** und **Sensibilität** für die **Bedeutung der Sexualität** für das menschliche **Wohlbefinden** sowie für die **psychische und physische Gesundheit** zu fördern.
 

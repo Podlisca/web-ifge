@@ -47,7 +47,7 @@ Diese Fortbildung der [IFGE-Online-Akademie](https://www.ifge.at/onlineakademie/
 
 #### So machen wir diesen wichtigen Kurs möglichst vielen Menschen zugänglich und bieten maximale Flexibilität.
 
-Unsere **erfahrenen Referent\*innen** zeigen dir in Form von Lehrvideos, Lernmaterialen und Praxisübungen nicht nur **Erste-Hilfe-Maßnahmen für Tiere**, sondern erklären auch, wie **Gefahrensituationen vermeidbar** sind. 
+Unsere **erfahrenen Referent:innen** zeigen dir in Form von Lehrvideos, Lernmaterialen und Praxisübungen nicht nur **Erste-Hilfe-Maßnahmen für Tiere**, sondern erklären auch, wie **Gefahrensituationen vermeidbar** sind. 
 
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
 

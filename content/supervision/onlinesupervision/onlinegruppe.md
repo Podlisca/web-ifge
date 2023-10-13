@@ -21,13 +21,13 @@ og_image: "/img/unterricht _2022_system.jpg"
 {{% floatbox %}}
 ### DIE VORTEILE DER OFFENEN SUPERVISIONSGRUPPE
 
-{{< image src="/img/unterricht _2022_system.jpg" float="left" title="Gruppensupervision mit immer wechselnden Teilnehmer\*innen bieten besonders viel Abwechslung und Bewegung im eigenen Beraterprozess. Zudem ermöglicht eine offene Supervisionsgruppe die Teilnahme immer dann, wenn Sie auch eine Fall haben welchen Sie supervidieren lassen möchten. Solange Sie in Ausbildung zur Lebensberater\*in -psychologischen Berater\*in sind ist es auch eine Möglichkeit noch fehlende Stunden für das Praktikum zu absolvieren. " >}} 
+{{< image src="/img/unterricht _2022_system.jpg" float="left" title="Gruppensupervision mit immer wechselnden Teilnehmer:innen bieten besonders viel Abwechslung und Bewegung im eigenen Beraterprozess. Zudem ermöglicht eine offene Supervisionsgruppe die Teilnahme immer dann, wenn Sie auch eine Fall haben welchen Sie supervidieren lassen möchten. Solange Sie in Ausbildung zur Lebensberater:in -psychologischen Berater:in sind ist es auch eine Möglichkeit noch fehlende Stunden für das Praktikum zu absolvieren. " >}} 
 
-Der **laufende Einstieg** in die **offene Supervisionsgruppe** ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater\*innen in **allen Ausbildungsstadien** und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
+Der **laufende Einstieg** in die **offene Supervisionsgruppe** ist zu jedem Termin möglich. Dies ermöglicht Lebens- und Sozialberater:innen in **allen Ausbildungsstadien** und mit unterschiedlichsten Erfahrungshorizonten im Anlassfall zeitlich flexibel von der Dynamik einer Gruppe innerhalb der Supervision zu profitieren. 
 
-Der Vorteil einer **offenen Gruppe** liegt nicht nur in der spannenden Dynamik einer sich ständig **neu zusammengesetzten Teilnehmer\*innenschaft**, sondern ermöglicht vor allem, auch akute **Themen im gruppensupervisorischen Kontext** zu beleuchten. So profitieren angehende Lebens- und Sozialberater\*innen von den supervidierten Praxisfällen der **erfahrenen psychologischen Berater\*innen**, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
+Der Vorteil einer **offenen Gruppe** liegt nicht nur in der spannenden Dynamik einer sich ständig **neu zusammengesetzten Teilnehmer:innenschaft**, sondern ermöglicht vor allem, auch akute **Themen im gruppensupervisorischen Kontext** zu beleuchten. So profitieren angehende Lebens- und Sozialberater:innen von den supervidierten Praxisfällen der **erfahrenen psychologischen Berater:innen**, während diese ihre Methoden und ihr Know-how durch spannende Fachdiskussionen kontinuierlich weiterentwickeln können. 
 
-In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Sichtweisen vielfältiger Teilnehmer\*innen**, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
+In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Sichtweisen vielfältiger Teilnehmer:innen**, mit denen Sie in einem vertrauensvollen und angenehmen Arbeitsklima Ihre beruflichen Fähigkeiten festigen und erweitern.
 
 {{% /floatbox %}}
 
@@ -94,7 +94,7 @@ Die Gruppe findet ab einer Mindestteilnehmeranzahl von 10 Personen statt und ist
 {{< /card-more >}}
 
 {{< card-more icon="icon/anerkennung.png" title="Anerkennung">}}
-Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt. Alle Teilnehmer\*innen erhalten eine Bestätigung über die Supervisionseinheiten.
+Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, können Sie die vorgeschriebenene Supervision (Einzel- sowie Gruppensupervision) bei mir absolvieren. Die Stunden werden von Ihrem Ausbildungsinstitut wie auch von der Wirtschaftskammer anerkannt. Alle Teilnehmer:innen erhalten eine Bestätigung über die Supervisionseinheiten.
 {{< /card-more >}}
 
 {{% /box %}}
@@ -107,13 +107,13 @@ Sollten Sie sich in Ausbildung zur Dipl. Lebens- und Sozialberatung befinden, k�
 
 {{< image float="left" src="/img/offene_sv_gruppe1.jpg" title="Bildbeschreibung" >}} 
 
-Zusätzlich zu Einzelsupervisionen, in denen auch Ihre persönlichen Themen, die Sie am Vorankommen mit Ihren Klient\*innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater\*innen als auch psychologischen Berater\*innen in Ausbildung sehr zu empfehlen. 
+Zusätzlich zu Einzelsupervisionen, in denen auch Ihre persönlichen Themen, die Sie am Vorankommen mit Ihren Klient:innen hindern, ausführlich betrachtet werden können, ist die Teilnahme an Gruppensupervisionen sowohl ausgebildeten Lebens- und Sozialberater:innen als auch psychologischen Berater:innen in Ausbildung sehr zu empfehlen. 
 
-Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg\*innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
+Ohne dezidiert auf persönliche Themen einzugehen, die vorwiegend im geschützten Rahmen einer Einzelsupervision vertraulich und ohne Einbeziehung von Kolleg:innen bearbeitet werden, ermöglicht es Ihnen die Gruppensupervision, sich auf Ihrem Fachgebiet weiterzuentwickeln und Ihre beraterischen Fähigkeiten zielgerichtet zu verbessern. 
 
 {{% /floatbox %}}
 
-Die Stärke der Gruppensupervisionen liegt vor allem in der Dynamik der Gruppe selbst. Durch diese kann sichtbar gemacht werden, was in Einzelsitzungen im Verborgenen bleibt. In den Supervisionsgruppen am IFGE geht es also zu einem großen Teil um fachliche sowie methodische Impulse. Außerdem fördert die Gruppe in Ihnen neue Perspektiven und Sichtweisen. Aus diesem Grund ist die Kombination aus Einzel- und Gruppensupervision für Lebensberater\*innen die ideale Möglichkeit, sich intensiv, schnell und nachhaltig im eigenen Tätigkeitsbereich weiterzuentwickeln und damit ihr volles Potenzial spielerisch zu optimieren.
+Die Stärke der Gruppensupervisionen liegt vor allem in der Dynamik der Gruppe selbst. Durch diese kann sichtbar gemacht werden, was in Einzelsitzungen im Verborgenen bleibt. In den Supervisionsgruppen am IFGE geht es also zu einem großen Teil um fachliche sowie methodische Impulse. Außerdem fördert die Gruppe in Ihnen neue Perspektiven und Sichtweisen. Aus diesem Grund ist die Kombination aus Einzel- und Gruppensupervision für Lebensberater:innen die ideale Möglichkeit, sich intensiv, schnell und nachhaltig im eigenen Tätigkeitsbereich weiterzuentwickeln und damit ihr volles Potenzial spielerisch zu optimieren.
 
 Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (Denk-) Muster mit Rollenspielen, (Familien-) Aufstellungen und geführten Gesprächen in der Gruppe beleuchtet und aufgearbeitet.
 

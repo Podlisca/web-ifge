@@ -31,9 +31,9 @@ Da die gesunde Mensch-Tier-Beziehung ein wesentlicher Teil meines Lebens ist und
 {{% box blue=1 %}}
 {{% small  %}}
 
-Vielleicht haben Sie das Gefühl, dass zwischen Ihnen und Ihrem Tier „irgendetwas steht“, das Sie nicht genau benennen oder greifen können. Oftmals haben meine Klient\*innen vorab schon einiges versucht, doch trotz intensivem Training und Besuchen beim Tierflüsterer oder Katzenpsychologen möchte sich der gewünschte Erfolg nicht und nicht einstellen. Genau hier setzt die systemische Tieraufstellung an. In dieser Arbeit wird auf feinste Schwingungen geachtet, welche Tiere in besonderem Maße empfinden. Tiere wollen häufig Menschen auf ihre persönlichen Muster, Krankheiten oder Themen aufmerksam machen und nutzen dabei ihre Kommunikationsmöglichkeiten. Die systemische Tieraufstellung ist dabei eine ganzheitliche Methode, welche alles im Blick hat und darauf achtet, dass alles gesehen wird. 
+Vielleicht haben Sie das Gefühl, dass zwischen Ihnen und Ihrem Tier „irgendetwas steht“, das Sie nicht genau benennen oder greifen können. Oftmals haben meine Klient:innen vorab schon einiges versucht, doch trotz intensivem Training und Besuchen beim Tierflüsterer oder Katzenpsychologen möchte sich der gewünschte Erfolg nicht und nicht einstellen. Genau hier setzt die systemische Tieraufstellung an. In dieser Arbeit wird auf feinste Schwingungen geachtet, welche Tiere in besonderem Maße empfinden. Tiere wollen häufig Menschen auf ihre persönlichen Muster, Krankheiten oder Themen aufmerksam machen und nutzen dabei ihre Kommunikationsmöglichkeiten. Die systemische Tieraufstellung ist dabei eine ganzheitliche Methode, welche alles im Blick hat und darauf achtet, dass alles gesehen wird. 
 
-Mir ist dabei wichtig zu erwähnen, dass Tiere immer in der Gegenwart leben. Auch wenn es bei den Vorbesitzer\*innen arm oder sehr krank war und vielleicht ein schweres Schicksal hatte, so ist es jetzt in Sicherheit und spürt, dass alles gut ist. 
+Mir ist dabei wichtig zu erwähnen, dass Tiere immer in der Gegenwart leben. Auch wenn es bei den Vorbesitzer:innen arm oder sehr krank war und vielleicht ein schweres Schicksal hatte, so ist es jetzt in Sicherheit und spürt, dass alles gut ist. 
 
 
 {{% /small  %}}
@@ -43,11 +43,11 @@ Mir ist dabei wichtig zu erwähnen, dass Tiere immer in der Gegenwart leben. Auc
 
 {{< image src="/img/systembrett_noe.jpg" float="right" title="Bildbeschreibung" >}}
 
-Hinzu kommt, dass Tiere uns einen Schritt voraus sind, denn sie werten nicht. Auch ein Hund, der aus schwierigsten Verhältnissen stammt, kann den Vorbesitzer\*innen gegenüber innerlich recht loyal verbunden sein. Innere und unbewusste Vorwürfe, die wir Menschen oftmals gegenüber den Vorbesitzern der eigenen Haustiere haben, schaffen somit Spannungen zwischen unserem Tier und uns selbst.
+Hinzu kommt, dass Tiere uns einen Schritt voraus sind, denn sie werten nicht. Auch ein Hund, der aus schwierigsten Verhältnissen stammt, kann den Vorbesitzer:innen gegenüber innerlich recht loyal verbunden sein. Innere und unbewusste Vorwürfe, die wir Menschen oftmals gegenüber den Vorbesitzern der eigenen Haustiere haben, schaffen somit Spannungen zwischen unserem Tier und uns selbst.
 
-Das Tier verhält sich solange auffällig, bis diese Spannungen aufgelöst sind – erst danach kann Hundetraining erfolgreich beginnen. Unser Bedauern und unsere Aufregung über die Vergangenheit des Tiers bewirkt zudem, dass unser Haustier nicht erfassen kann, wohin die Emotionen gehören. Das kann dazu führen, dass etwa ein Hund meint, aggressives Verhalten sei von den neuen Besitzer\*innen verlangt. Ein solcher Hund spiegelt dann Ihre Wut und Aggression auf die Vorbesitzer\*innen wider.
+Das Tier verhält sich solange auffällig, bis diese Spannungen aufgelöst sind – erst danach kann Hundetraining erfolgreich beginnen. Unser Bedauern und unsere Aufregung über die Vergangenheit des Tiers bewirkt zudem, dass unser Haustier nicht erfassen kann, wohin die Emotionen gehören. Das kann dazu führen, dass etwa ein Hund meint, aggressives Verhalten sei von den neuen Besitzer:innen verlangt. Ein solcher Hund spiegelt dann Ihre Wut und Aggression auf die Vorbesitzer:innen wider.
 
-Wiederum wird das Tier oft auch überfordert durch die Übertragung der Gefühle von Menschen auf ihre Tiere. Eine häufige Dynamik ist, dass Tiere als Kinderersatz gesehen werden oder ein verstorbenes Kind ersetzen müssen. Durch die systemische Tieraufstellung wird zwischen dem Mensch und dem Tier sozusagen gedolmetscht, um sowohl das Tier als auch die Besitzer\*innen zu entlasten.
+Wiederum wird das Tier oft auch überfordert durch die Übertragung der Gefühle von Menschen auf ihre Tiere. Eine häufige Dynamik ist, dass Tiere als Kinderersatz gesehen werden oder ein verstorbenes Kind ersetzen müssen. Durch die systemische Tieraufstellung wird zwischen dem Mensch und dem Tier sozusagen gedolmetscht, um sowohl das Tier als auch die Besitzer:innen zu entlasten.
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -55,7 +55,7 @@ Wiederum wird das Tier oft auch überfordert durch die Übertragung der Gefühle
 
 ## ALLGEMEINE INFO
 
-Die Tiere müssen nicht mitgenommen werden, es reicht wenn der/die Besitzer\*in dabei ist. Bei Familien mit Haustieren genügt eine Bezugsperson, es können aber auch mehrere Bezugspersonen dabei sein.
+Die Tiere müssen nicht mitgenommen werden, es reicht wenn der/die Besitzer:in dabei ist. Bei Familien mit Haustieren genügt eine Bezugsperson, es können aber auch mehrere Bezugspersonen dabei sein.
 
 Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo nicht, Hund zerbeißt alles, Vogel rupft sich, das Tier ist ständig krank, neues Tier kam dazu, erstes Kind wird erwartet, Trauer um ein verstorbenes Tier usw...).
 
@@ -111,11 +111,11 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 
 ### Kosten:
 
-* Teilnehmer\*in mit eigenem Tieranliegen: 120,- (inkl. 20 % Mwst.)
-* Teilnehmende Beobachter\*in: 50,- (inkl. 20 % Mwst.)
+* Teilnehmer:in mit eigenem Tieranliegen: 120,- (inkl. 20 % Mwst.)
+* Teilnehmende Beobachter:in: 50,- (inkl. 20 % Mwst.)
 
 Bearbeitet werden 4 bis max. 5 Fälle, es können bis zu 12 Personen als Stellvertreter*innen teilnehmen.
-Mindestteilnehmer\*innenzahl: 6 / Höchstteilnehmer\*innenzahl: 15
+Mindestteilnehmer:innenzahl: 6 / Höchstteilnehmer:innenzahl: 15
 
 {{< line icon="icon/referenten.png" >}}
 {{% box blue=1 %}}
@@ -154,7 +154,7 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis 
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
-Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer\*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben von Ausbildungen werden keine Kosten rückerstattet oder erlassen. In diesem Fall wird eine Gutschrift, welche für alle Angebote im Institut für ganzheitliches Erleben genützt werden kann, ausgestellt. Die Gutschrift ist nicht in bar ablösbar, jedoch übertragbar. Die Teilnahme erfolgt freiwillig und eigenverantwortlich.
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben von Ausbildungen werden keine Kosten rückerstattet oder erlassen. In diesem Fall wird eine Gutschrift, welche für alle Angebote im Institut für ganzheitliches Erleben genützt werden kann, ausgestellt. Die Gutschrift ist nicht in bar ablösbar, jedoch übertragbar. Die Teilnahme erfolgt freiwillig und eigenverantwortlich.
 
 {{< green >}}Hinweis:{{< /green >}} Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, Tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) – Silvia Podlisca e.U nicht für Verletzungen jeglicher Art - weder bei Mensch noch bei Tier.
 

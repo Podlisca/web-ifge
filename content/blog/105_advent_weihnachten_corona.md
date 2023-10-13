@@ -65,7 +65,7 @@ Es gibt wohl nichts Heimeligeres als ein Haus, das von vorweihnachtlichem Keksdu
 
 **11.	Tannenzapfen sammeln gehen** 
 
-Mit den eigenen Händen etwas zu schaffen, kann für viele Menschen eine unglaubliche Bereicherung sein. Vor allem dann, wenn ihre Arbeit ansonsten eher geistiger oder digitaler Natur ist. Und gerade der Advent ist eine besonders klassische Bastelzeit im Jahr. Wie wäre es, draußen mit den eigenen Kindern, den Kids der Nachbarn, Neffen oder Nichten oder Freund\*innen im Wald Tannenzapfen und -zweige zu sammeln und die diesjährige Weihnachts-Deko einfach selbst zu basteln?
+Mit den eigenen Händen etwas zu schaffen, kann für viele Menschen eine unglaubliche Bereicherung sein. Vor allem dann, wenn ihre Arbeit ansonsten eher geistiger oder digitaler Natur ist. Und gerade der Advent ist eine besonders klassische Bastelzeit im Jahr. Wie wäre es, draußen mit den eigenen Kindern, den Kids der Nachbarn, Neffen oder Nichten oder Freund:innen im Wald Tannenzapfen und -zweige zu sammeln und die diesjährige Weihnachts-Deko einfach selbst zu basteln?
 
 **12.	Weihnachtslied einüben** 
 

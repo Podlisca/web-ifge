@@ -22,11 +22,11 @@ og_image: "/img/einzelsupervision_noe.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/einzelsupervision_noe.jpg" float="left" title="Supervision ist für Lebens- und Sozialberater\*innen ein wesentlicher Teil, um beruflich erfolgreich zu sein aber auch eine wesentliche Säule der eigenen Psychohygiene. Mit Wertschätzung und durch Arbeiten auf Augenhöhe werden die beruflichen Situationen reflektiert und beleuchtet. So erhalten Sie wieder den nötigen Abstand, sodass Ihnen die nächsten Schritte mit Ihren Klienten\*innen wieder mit Leichtigkeit gelingen. " >}} 
+{{< image src="/img/einzelsupervision_noe.jpg" float="left" title="Supervision ist für Lebens- und Sozialberater:innen ein wesentlicher Teil, um beruflich erfolgreich zu sein aber auch eine wesentliche Säule der eigenen Psychohygiene. Mit Wertschätzung und durch Arbeiten auf Augenhöhe werden die beruflichen Situationen reflektiert und beleuchtet. So erhalten Sie wieder den nötigen Abstand, sodass Ihnen die nächsten Schritte mit Ihren Klienten:innen wieder mit Leichtigkeit gelingen. " >}} 
 
-Alle Berater\*innen stehen im Zuge der Karriere immer wieder vor fachlichen oder persönlichen Herausforderungen, die den Beratungsprozess verlangsamen, die ihn ins Stocken bringen oder im ungünstigsten Fall den Beratungsabbruch durch Klient\*innen zur Folge haben können. Gerade in den ersten Jahren der beratenden Tätigkeit ist eine fachliche Begleitung für den persönlichen Erfolg ratsam. Aus diesem Grund schreibt auch die Wirtschaftskammer zur Eintragung des Gewerbes für Lebens- und Sozialberater\*innen zumindest 100 Stunden an Supervision vor. 
+Alle Berater:innen stehen im Zuge der Karriere immer wieder vor fachlichen oder persönlichen Herausforderungen, die den Beratungsprozess verlangsamen, die ihn ins Stocken bringen oder im ungünstigsten Fall den Beratungsabbruch durch Klient:innen zur Folge haben können. Gerade in den ersten Jahren der beratenden Tätigkeit ist eine fachliche Begleitung für den persönlichen Erfolg ratsam. Aus diesem Grund schreibt auch die Wirtschaftskammer zur Eintragung des Gewerbes für Lebens- und Sozialberater:innen zumindest 100 Stunden an Supervision vor. 
 
-Damit Sie für Ihre Klient\*innen bestmöglich da sein können, ist es empfehlenswert, sich in regelmäßigen Abständen oder bei besonders kniffligen Fällen methodenorientiert supervidieren zu lassen. 
+Damit Sie für Ihre Klient:innen bestmöglich da sein können, ist es empfehlenswert, sich in regelmäßigen Abständen oder bei besonders kniffligen Fällen methodenorientiert supervidieren zu lassen. 
 Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden. 
 
 {{% /floatbox %}}
@@ -45,10 +45,10 @@ Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **o
 
 {{% box blue=1 %}}
 {{% large %}}
-In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo Sie gerade fachlich nicht weiterkommen und dafür Strategien entwickeln, die für Sie und {{< green >}} Ihre {{< /green >}}Klient\*innen hilfreich sind, sondern dass wir in der Supervision vor allem auch auf Ihre persönlichen Themen eingehen können, die in Ihren Beratungseinheiten auftauchen und Sie womöglich am Weiterkommen hindern. Für die fachliche sowie emotionale Begleitung Ihrer Arbeit nehme ich mir in der Einzelsupervision besonders viel Zeit. So erleben Sie in einem freundlichen, fachlich wertschätzenden und gelegentlich auch auflockernden Klima Ihr persönliches Vorankommen, welches nicht nur Ihnen, sondern auch den Anliegen Ihrer Klient*innen sowie dem Erfolg Ihres Unternehmens dient. 
+In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo Sie gerade fachlich nicht weiterkommen und dafür Strategien entwickeln, die für Sie und {{< green >}} Ihre {{< /green >}}Klient:innen hilfreich sind, sondern dass wir in der Supervision vor allem auch auf Ihre persönlichen Themen eingehen können, die in Ihren Beratungseinheiten auftauchen und Sie womöglich am Weiterkommen hindern. Für die fachliche sowie emotionale Begleitung Ihrer Arbeit nehme ich mir in der Einzelsupervision besonders viel Zeit. So erleben Sie in einem freundlichen, fachlich wertschätzenden und gelegentlich auch auflockernden Klima Ihr persönliches Vorankommen, welches nicht nur Ihnen, sondern auch den Anliegen Ihrer Klient*innen sowie dem Erfolg Ihres Unternehmens dient. 
 {{% /large  %}}
 {{% small  %}}
-{{< image src="/img/einzel_sv.jpg" title="Bereits in der Grundausbildung zur Lebensberater\*in -psychologischen Berater\*in dürfen Sie in Ausbildung unter Supervision arbeiten. Die Einzelsupervision bietet den Rahmen um sich intensiv mit Ihren Fällen oder aber auch Fachfragen zur Ausbildung zu widmen.  " >}} 
+{{< image src="/img/einzel_sv.jpg" title="Bereits in der Grundausbildung zur Lebensberater:in -psychologischen Berater:in dürfen Sie in Ausbildung unter Supervision arbeiten. Die Einzelsupervision bietet den Rahmen um sich intensiv mit Ihren Fällen oder aber auch Fachfragen zur Ausbildung zu widmen.  " >}} 
 {{% /small  %}}
 {{% /box %}}
 
@@ -71,7 +71,7 @@ Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung
 
 * Reflexions- und Entscheidungshilfe bei aktuellen Anlässen
 * Bei herausfordernden oder belastenden Arbeitssituationen
-* Bei Konflikten mit Mitarbeiter\*innen oder Kund\*innen
+* Bei Konflikten mit Mitarbeiter:innen oder Kund:innen
 * Begleitung bei Veränderungsprozessen
 * Klären und Gestalten von Aufgaben, Aufträgen, Funktionen und Rollen
 * Hilfestellung bei neuen Herausforderungen

@@ -42,7 +42,7 @@ weight: 3
 * Teil 1 - 23.09.2023 - Jüdisches Wien
 * Teil 2 - 14.10.2023 - Hitlers Wien
 
-jeweils von **10:00 bis ca. 12:30** Uhr mit max. 15 Teilnehmer\*innen
+jeweils von **10:00 bis ca. 12:30** Uhr mit max. 15 Teilnehmer:innen
 
 **Hinweis:** Die Tour findet zu Fuss und fallweise werden auch die öffentlichen Verkehrsmittel benützt. Bitte an den **Fahrschein** denken. 
 
@@ -66,7 +66,7 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
 {{% /small  %}}

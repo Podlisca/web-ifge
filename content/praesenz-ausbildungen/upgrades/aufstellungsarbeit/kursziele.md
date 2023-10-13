@@ -16,7 +16,7 @@ og_image: "/img/upgrade_aufstellung_ziel_noe.jpg"
 
 {{% floatbox %}}
 
-{{< image src="/img/upgrade_aufstellung_ziel_noe.jpg" title="Schritt für Schritt bringt Silvia Podlisca Ihnen in die Methode der Aufstellungsarbeit ein. Sie achtet insbesondere darauf, dass alle Teilnehmer\*innen den eigenen, individuellen Stil finden. Theoretisches und praktisches Wissen werden im Wechsel abgehalten sodass die größtmögliche Sicherheit im eigenen Tun erfahren. "  float="left">}}
+{{< image src="/img/upgrade_aufstellung_ziel_noe.jpg" title="Schritt für Schritt bringt Silvia Podlisca Ihnen in die Methode der Aufstellungsarbeit ein. Sie achtet insbesondere darauf, dass alle Teilnehmer:innen den eigenen, individuellen Stil finden. Theoretisches und praktisches Wissen werden im Wechsel abgehalten sodass die größtmögliche Sicherheit im eigenen Tun erfahren. "  float="left">}}
 
 Das Ziel dieser Zusatzausbildung ist es, Sie optimal auf die systemische Arbeit vorzubereiten. 
 
@@ -84,6 +84,6 @@ Dank unserer jahrelangen Erfahrung in der [systemischen Aufstellungsarbeit](/gru
 
 {{% box blue=1 %}}
 {{% small  %}}
-In unserer sehr praxisnahen Ausbildung zur Aufstellungsleitung erhalten Sie neue Einsichten und Einblicke, lernen Verstrickungen zu erkennen und wie Sie Aufstellungen professionell sowie für Ihre Kund\*innen dienlich leiten. Gleichzeitig bietet Ihnen unsere Fortbildung auch für Ihre [Einzelgespräche](/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemische-einzelberatung/) unschätzbaren Mehrwert, da Sie am IFGE ebenso lernen werden, wie Sie dank der Arbeit im inneren Bild, mit Zetteln und vor allem auf dem [SystemDimensionsBrett®]((/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemdimensionsbrett/)) die Dynamiken und Interventionsmöglichkeiten einer klassischen Familienaufstellung auch in der Einzelarbeit einsetzen können. Dadurch verfügen Sie in Zukunft über ein breites systemisches Methodenspektrum, mit dem Sie Ihre Klient\*innen optimal begleiten und unterstützen können.
+In unserer sehr praxisnahen Ausbildung zur Aufstellungsleitung erhalten Sie neue Einsichten und Einblicke, lernen Verstrickungen zu erkennen und wie Sie Aufstellungen professionell sowie für Ihre Kund:innen dienlich leiten. Gleichzeitig bietet Ihnen unsere Fortbildung auch für Ihre [Einzelgespräche](/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemische-einzelberatung/) unschätzbaren Mehrwert, da Sie am IFGE ebenso lernen werden, wie Sie dank der Arbeit im inneren Bild, mit Zetteln und vor allem auf dem [SystemDimensionsBrett®]((/praesenz-ausbildungen/diplomlehrgaenge/lebensberatung_psychologische_beratung/berufsbilder/systemdimensionsbrett/)) die Dynamiken und Interventionsmöglichkeiten einer klassischen Familienaufstellung auch in der Einzelarbeit einsetzen können. Dadurch verfügen Sie in Zukunft über ein breites systemisches Methodenspektrum, mit dem Sie Ihre Klient:innen optimal begleiten und unterstützen können.
 {{% /small  %}}
 {{% /box %}}

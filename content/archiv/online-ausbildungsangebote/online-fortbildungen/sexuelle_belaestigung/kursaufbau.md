@@ -42,7 +42,7 @@ weight: 1
 {{% small  %}}
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}

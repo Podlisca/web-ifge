@@ -24,17 +24,17 @@ weight: 1
 ***
 
 ## AUFBAU DES LEHRGANGS 
-100 Ausbildungsstunden mit mind. 6 und **max. 12 Teilnehmer\*innen**
+100 Ausbildungsstunden mit mind. 6 und **max. 12 Teilnehmer:innen**
 
-Eine überschaubare Zahl an Teilnehmer\*innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
+Eine überschaubare Zahl an Teilnehmer:innen ist uns wichtig, um individuell auf Ihre Bedürfnisse und Fragen in Ihrem schulischen Umfeld eingehen zu können. Unsere Ausbildung ist daher auf 12 Teilnehmer pro Kurs begrenzt.
 
-Alle Teilnehmer\*innen erhalten eine **Bestätigung über fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater\*innen anerkannt.
+Alle Teilnehmer:innen erhalten eine **Bestätigung über fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Seminarhinhalte
 
-* Eigene Rolle als Teamleiter\*in
+* Eigene Rolle als Teamleiter:in
 * Team als System
 * Utilisationsmöglichkeiten von Symptomen
 * Gruppendynamiken

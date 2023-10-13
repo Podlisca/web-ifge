@@ -22,14 +22,14 @@ rich_kurs: true
 {{< line icon="icon/vertrauenslehrer.png" >}}
 
 {{% floatbox %}}
-{{< image src="/img/vertrauenslehrer.jpg" title="Als Lehrer\*in für Kinder in schwierigen Situationen da zu sein oder zu sehen, wie sehr ein Kind leidet gehört zu einen der schwierigsten Aufgaben der Lehrer\*innen. Bei der Ausbildung zum Vertrauenslehrer/zur Vertrauenslehrerin lernen Sie – neben der wertschätzenden Kommunikation – wie gesunde und herzliche Abgrenzung gelingt damit Sie gut und kraftvoll da sein können." float="left" >}}
+{{< image src="/img/vertrauenslehrer.jpg" title="Als Lehrer:in für Kinder in schwierigen Situationen da zu sein oder zu sehen, wie sehr ein Kind leidet gehört zu einen der schwierigsten Aufgaben der Lehrer:innen. Bei der Ausbildung zum Vertrauenslehrer/zur Vertrauenslehrerin lernen Sie – neben der wertschätzenden Kommunikation – wie gesunde und herzliche Abgrenzung gelingt damit Sie gut und kraftvoll da sein können." float="left" >}}
 
 ### Optimal vorbereitet für die Arbeit mit Kindern und Jugendlichen an Schulen
 
 **Schwerpunkt:** Beziehungsaufbau, gewaltfreie, wertschätzende Kommunikation, vertiefende Gesprächsführung, Konfliktmanagement
 
 
-Vertrauenslehrer\*innen sind in vielen Schulen – von der Volksschule bis zur Oberstufe – ein wesentlicher Faktor für ein funktionierendes Schulklima. Doch aufgrund von Ressourcenmangel fehlt es vielen Schulen an der Möglichkeit, ihren Vertrauenslehrer\*innen eine umfassende Ausbildung im Bereich der psychosozialen Arbeit zuteil werden zu lassen.
+Vertrauenslehrer:innen sind in vielen Schulen – von der Volksschule bis zur Oberstufe – ein wesentlicher Faktor für ein funktionierendes Schulklima. Doch aufgrund von Ressourcenmangel fehlt es vielen Schulen an der Möglichkeit, ihren Vertrauenslehrer:innen eine umfassende Ausbildung im Bereich der psychosozialen Arbeit zuteil werden zu lassen.
 
 
 {{% /floatbox %}}

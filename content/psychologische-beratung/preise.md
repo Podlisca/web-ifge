@@ -84,8 +84,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Eintages Seminar 
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer\*in mit eigenem Anliegen: € 180,-
-* Teilnehmende\*r Beobachter\*in: € 60,-
+* Teilnehmer:in mit eigenem Anliegen: € 180,-
+* Teilnehmende:r Beobachter:in: € 60,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -94,8 +94,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung / Vormittag 4 Stunden 
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer\*in mit eigenem Anliegen: € 120,-
-* Teilnehmende\*r Beobachter\*in: € 30,-
+* Teilnehmer:in mit eigenem Anliegen: € 120,-
+* Teilnehmende:r Beobachter:in: € 30,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -105,8 +105,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Zweitages Seminar
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer\*in mit eigenem Anliegen: € 290,-
-* Teilnehmende\*r Beobachter\*in: € 120,-
+* Teilnehmer:in mit eigenem Anliegen: € 290,-
+* Teilnehmende:r Beobachter:in: € 120,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -115,8 +115,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Dreitages Seminar
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer\*in mit eigenem Anliegen:€ 390,-
-* Teilnehmende\*r Beobachter\*in: € 130,-
+* Teilnehmer:in mit eigenem Anliegen:€ 390,-
+* Teilnehmende:r Beobachter:in: € 130,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -126,8 +126,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Intensivwoche
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer\*in mit eigenem Anliegen:€ 590,-
-* Teilnehmende\*r Beobachter\*in: € 240,-
+* Teilnehmer:in mit eigenem Anliegen:€ 590,-
+* Teilnehmende:r Beobachter:in: € 240,-
 {{% /small  %}}
 {{% /box %}}
 

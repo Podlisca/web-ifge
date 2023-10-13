@@ -39,9 +39,9 @@ Damit richtet sich der Blick auch stark in die Vergangenheit. Die Glaubenssatzau
 {{% box blue=1 %}}
 {{% small  %}}
 
-Denn die Veränderung eines Glaubenssatzes kann in Ihrem Herkunftssystem als Tabubruch empfunden werden, weil: „Das wurde bei uns immer schon so gemacht!“ Es ist daher in der Glaubenssatz-Aufstellung von zentraler Bedeutung, dass die Aufstellungsleiter\*innen im gesamten Prozess bewusst darauf achtet, welche Wirkung das Lösen eines destruktiven Glaubenssatzes auf jedes einzelne Familienmitglied hat. Eine dauerhafte Integration von neuen, wirksamen und konstruktiven Realitäten kann nur dann gelingen, wenn alle Beteiligten, die in Zusammenhang mit Ihrer Lösung stehen, der Veränderung innerlich zustimmen können. In einer solchen Aufstellung wird also immer auch mit darauf geachtet, dass Ihr neuer Weg und Ihre Weiterentwicklung ein Gewinn für alle Familienmitglieder ist.
+Denn die Veränderung eines Glaubenssatzes kann in Ihrem Herkunftssystem als Tabubruch empfunden werden, weil: „Das wurde bei uns immer schon so gemacht!“ Es ist daher in der Glaubenssatz-Aufstellung von zentraler Bedeutung, dass die Aufstellungsleiter:innen im gesamten Prozess bewusst darauf achtet, welche Wirkung das Lösen eines destruktiven Glaubenssatzes auf jedes einzelne Familienmitglied hat. Eine dauerhafte Integration von neuen, wirksamen und konstruktiven Realitäten kann nur dann gelingen, wenn alle Beteiligten, die in Zusammenhang mit Ihrer Lösung stehen, der Veränderung innerlich zustimmen können. In einer solchen Aufstellung wird also immer auch mit darauf geachtet, dass Ihr neuer Weg und Ihre Weiterentwicklung ein Gewinn für alle Familienmitglieder ist.
 
-Ein bekannter Lösungssatz in der klassischen Familienaufstellung ist die Bitte der Klient\*innen, dass jenes Familienmitglied, dem wir mit dem Lösen unseres Problems unähnlich werden, freundlich auf uns schauen möge, wenn es für uns anders und gut weitergehen darf. Diese eingeholte Erlaubnis – dieser freundliche Blick – am Ende einer Aufstellung nach Hellinger stellt den Beginn der Glaubenssatz-Aufstellung dar.
+Ein bekannter Lösungssatz in der klassischen Familienaufstellung ist die Bitte der Klient:innen, dass jenes Familienmitglied, dem wir mit dem Lösen unseres Problems unähnlich werden, freundlich auf uns schauen möge, wenn es für uns anders und gut weitergehen darf. Diese eingeholte Erlaubnis – dieser freundliche Blick – am Ende einer Aufstellung nach Hellinger stellt den Beginn der Glaubenssatz-Aufstellung dar.
 {{% /small  %}}
 {{% /box %}}
 
@@ -69,7 +69,7 @@ Dadurch besteht die Gefahr, dass sich bei der ersten Aktion, welche die Klientin
 
 Es ist also wesentlich, dass die Klientinnen in diesem Fall mit ihrer Zielformulierung etwas ganz Neues sehen – ja, dass vielleicht sogar ein richtiges Feuer im Gehirn entzündet wird, wenn die neue Realität erkannt wird. 
 
-Diese könnte dann – bezugnehmend auf das, was für meine Klientinnen im Leben wichtig ist – lauten: „Ich werde ab jetzt genügend Geld haben.“ Je nachdem, ob Ihr ursprünglicher Glaubenssatz aus Ihrem System entstanden ist oder in der Kindheit geprägt wurde, achte ich am IFGE bewusst darauf, was bei jeden zieldienlichen Stellvertreter\*innen passiert, wenn Sie Ihr neues Ziel mit in die Aufstellung dazu holen.
+Diese könnte dann – bezugnehmend auf das, was für meine Klientinnen im Leben wichtig ist – lauten: „Ich werde ab jetzt genügend Geld haben.“ Je nachdem, ob Ihr ursprünglicher Glaubenssatz aus Ihrem System entstanden ist oder in der Kindheit geprägt wurde, achte ich am IFGE bewusst darauf, was bei jeden zieldienlichen Stellvertreter:innen passiert, wenn Sie Ihr neues Ziel mit in die Aufstellung dazu holen.
 {{% /small  %}}
 {{% /box %}}
 

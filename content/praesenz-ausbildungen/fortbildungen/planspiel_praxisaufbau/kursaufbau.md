@@ -41,7 +41,7 @@ Neben vielen anderen Fragen beantworten Sie mit professioneller Unterstützung d
 * Wie funktioniert das mit dem Marketing? 
 * Wie gehe ich das Projekt Website vernünftig an?
 
-Gemeinsam mit Expert\*innen aus Wirtschaft und psychologischer Beratung sowie Coaching erarbeiten Sie die Überlegungen, die (vor der Gründung) benötigt werden und simulieren anhand dieser Daten Ihr (erstes) Geschäftsjahr.
+Gemeinsam mit Expert:innen aus Wirtschaft und psychologischer Beratung sowie Coaching erarbeiten Sie die Überlegungen, die (vor der Gründung) benötigt werden und simulieren anhand dieser Daten Ihr (erstes) Geschäftsjahr.
 
 {{< line icon="icon/test.png" >}}
 
@@ -50,7 +50,7 @@ Gemeinsam mit Expert\*innen aus Wirtschaft und psychologischer Beratung sowie Co
 {{% small  %}}
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}

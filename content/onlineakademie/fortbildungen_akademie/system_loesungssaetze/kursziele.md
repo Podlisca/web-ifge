@@ -25,9 +25,9 @@ og_image: "/img/tier_coaching_1.jpg"
 
 Ziel der Fortbildung, die zu **100% online** und **ohne fixe Termine** stattfindet, ist die [**SGF Methode®**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) (**S**ystemisch-**G**anzheitliche-**F**amilienaufstellung nach Silvia Podlisca) kennenzulernen. 
 
-In **zahlreichen Lehrvideos** erklärt **Silvia Podlisca** Lösungssätze sowie deren Wirkung. Du erfährst nicht nur, wie diese **Art der Aufstellung funktioniert** und wie **Lösungswege erarbeitet** werden, sondern Silvia Podlisca stellt auch **konkrete Fälle** vor und teilt ihre **praktischen Erfahrungen.** Damit bietet der Kurs psychologischen Berater\*innen die Möglichkeit, ihre **Methodenkompetenz zu erweitern** und am Puls der Zeit zu bleiben. 
+In **zahlreichen Lehrvideos** erklärt **Silvia Podlisca** Lösungssätze sowie deren Wirkung. Du erfährst nicht nur, wie diese **Art der Aufstellung funktioniert** und wie **Lösungswege erarbeitet** werden, sondern Silvia Podlisca stellt auch **konkrete Fälle** vor und teilt ihre **praktischen Erfahrungen.** Damit bietet der Kurs psychologischen Berater:innen die Möglichkeit, ihre **Methodenkompetenz zu erweitern** und am Puls der Zeit zu bleiben. 
 
-Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilnehmer\*innen jederzeit [**individuelle Beratungstermine**](https://www.ifge.at/kontakt/) vereinbaren. 
+Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilnehmer:innen jederzeit [**individuelle Beratungstermine**](https://www.ifge.at/kontakt/) vereinbaren. 
 
 
 {{% /small %}}

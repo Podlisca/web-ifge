@@ -16,7 +16,7 @@ og_image: "/img/img2.jpg"
 
 {{< line icon="icon/partner.png" >}}
 
-Unsere Partner\*innen sind wichtige Eckpfeiler unseres Erfolges und machen es möglich, dass wir uns auf unsere Kernkompetenzen konzentrieren können.
+Unsere Partner:innen sind wichtige Eckpfeiler unseres Erfolges und machen es möglich, dass wir uns auf unsere Kernkompetenzen konzentrieren können.
 
 ***
 ### Katrin Pfleger - Grafikerin

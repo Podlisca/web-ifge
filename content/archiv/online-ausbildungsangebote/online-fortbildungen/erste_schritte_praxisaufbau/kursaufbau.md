@@ -25,7 +25,7 @@ weight: 1
 
 ### WELCHE FRAGEN IM WORKSHOP BEANTWORTET WERDEN
 
-Vor der Eröffnung einer eigenen Beratungspraxis stehen (angehende) Berater\*innen zumeist vor zahlreichen Fragen. Vor allem, wenn diese bisher noch nie selbstständig waren. Die folgenden und alle individuell im Workshop auftauchenden Fragen werden branchenrelevant und praxistauglich erläutert:
+Vor der Eröffnung einer eigenen Beratungspraxis stehen (angehende) Berater:innen zumeist vor zahlreichen Fragen. Vor allem, wenn diese bisher noch nie selbstständig waren. Die folgenden und alle individuell im Workshop auftauchenden Fragen werden branchenrelevant und praxistauglich erläutert:
 
 * Wie gestalte ich einen professionellen Werbeauftritt?
 * Wie viel Geld muss ich in etwa investieren, wenn ich Grafik, Programmierung oder Text von einem Profi gestalten lasse?
@@ -36,7 +36,7 @@ Vor der Eröffnung einer eigenen Beratungspraxis stehen (angehende) Berater\*inn
 * Wie können Social Media-Kanäle zieldienlich für den Erfolg in der psychologischen Beratung eingesetzt werden?
 * Welche organisations-systemischen Fragen gilt es, sich im Zuge der Gewerbeeröffnung zu stellen?
  
-Für diese und andere Fragen ist in dem Workshop, der speziell auf die Branche der Lebens- und Sozialberater\*innen – psychologischen Berater\*innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychologischen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater\*innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen.
+Für diese und andere Fragen ist in dem Workshop, der speziell auf die Branche der Lebens- und Sozialberater:innen – psychologischen Berater:innen – zugeschnitten ist, ausreichend Platz. Der Online-Kurs eignet sich also ideal für alle die, die in der psychologischen Beratung den Schritt in die Selbstständigkeit wagen und dabei von Anfang an professionell auftreten wollen. Aber auch Berater:innen, die bereits gegründet haben, bekommen in dieser Fortbildung hilfreiche neue Inputs, mit welchen Werbemaßnahmen sie effektiver und oft auch günstiger den gewünschten Effekt erzielen.
 
 {{< line icon="icon/test.png" >}}
 
@@ -45,7 +45,7 @@ Für diese und andere Fragen ist in dem Workshop, der speziell auf die Branche d
 {{% small  %}}
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die fachliche Fortbildung.
 Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt.
 
 {{% /small  %}}

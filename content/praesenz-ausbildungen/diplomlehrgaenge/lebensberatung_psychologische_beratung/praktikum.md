@@ -47,7 +47,7 @@ Die fachliche Tätigkeit im Gesamtausmaß von 750 Stunden hat jedenfalls zu umfa
 
 * mindestens 100 protokollierte Beratungseinheiten (darunter mindestens fünf Erstgesprächsprotokolle und Prozessprotokolle über zwei abgeschlossene Beratungen) und
 * mindestens 100 nachgewiesene Supervisionseinheiten (10 Einzel- und 90 Gruppensupervision), davon mindestens 10 Einzelsupervisionseinheiten
-* **Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten!** Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren\*innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor\*innen](/about/ifge_supervisoren/) die die Voraussetzungen erfüllen.
+* **Die 90 Stunden Gruppensupervision sind in den Ausbildungskosten am IFGE enthalten!** Die 10 Einzelsupervisionsstunden können Sie bei Supervisoren:innen Ihrer Wahl, welche die fachlichen Qualifikationen erfüllen, absolvieren. [Hier finden Sie eine Liste von Supervisor:innen](/about/ifge_supervisoren/) die die Voraussetzungen erfüllen.
 
  {{< line icon="icon/termin_kursplan.png" >}}
 
@@ -103,7 +103,7 @@ Darüber hinaus ist die bei einer ausbildungsberechtigten Person (siehe Bundesge
 
 ## Praktikumsplätze für Psychologische Beratungen ab dem 5. Ausbildungssemester 
 
-Ab dem 5. Ausbildungssemester kann man sich als Berater\*in für unser Projekt melden. [Infos herunterladen](/downloads/flyer_prakitumsplaetze.pdf)
+Ab dem 5. Ausbildungssemester kann man sich als Berater:in für unser Projekt melden. [Infos herunterladen](/downloads/flyer_prakitumsplaetze.pdf)
 
 
 

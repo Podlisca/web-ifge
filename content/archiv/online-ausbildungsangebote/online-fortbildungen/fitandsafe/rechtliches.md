@@ -34,7 +34,7 @@ weight: 4
 
 Der Lehrgang schließt ohne Abschlussprüfung ab.
 
-Alle Teilnehmer\*innen erhalten eine Bestätigung über die Teilnahme.
+Alle Teilnehmer:innen erhalten eine Bestätigung über die Teilnahme.
 
 {{% /small  %}}
 {{% /box %}}

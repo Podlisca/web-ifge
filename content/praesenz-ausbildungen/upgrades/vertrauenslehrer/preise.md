@@ -26,9 +26,9 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 
-* bei 6 bis 7 Teilnehmer\*innen: € 16.980,00 
-* bei 8 bis 9 Teilnehmer\*innen: € 16.250,00 
-* bei 10 bis 12 Teilnehmer\*innen: € 15.850,00 
+* bei 6 bis 7 Teilnehmer:innen: € 16.980,00 
+* bei 8 bis 9 Teilnehmer:innen: € 16.250,00 
+* bei 10 bis 12 Teilnehmer:innen: € 15.850,00 
 
 Die angegebenen Preise beinhalten bereits die Umsatzsteuer sowie die Nutzung der IFGE Software. Keine Prüfungsgebühr, kein Auswahlseminar. 
 

@@ -24,9 +24,9 @@ weight: 4
 ***
 ## Zugangsvoraussetzungen
 
-* Pädagog\*innen
-* Pädagog\*innen in Ausbildung
-* Lebens- und Sozialberater\*innen (auch in Ausbildung)
+* Pädagog:innen
+* Pädagog:innen in Ausbildung
+* Lebens- und Sozialberater:innen (auch in Ausbildung)
 * Interessierte Personen, die einen ersten Einblick in die psychologische Arbeit erhalten wollen
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -50,14 +50,14 @@ Bank Austria
 IBAN: AT42 1200 0007 4443 4259
 BIC: BKAUATWW
 
-Bitte geben Sie als Verwendungszweck "Ausbildung Vertrauenslehrer\*in" + Ihren Namen an. 
+Bitte geben Sie als Verwendungszweck "Ausbildung Vertrauenslehrer:in" + Ihren Namen an. 
 
 Bei Absage bis zu 12 Wochen vor dem geplanten Ausbildungsbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Ausbildungskosten zu bezahlen; danach die volle Ausbildungsgebühr und ein Vertragsrücktritt ist ausgeschlossen. 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
 
-Die Ausbildung ist nur komplett zu buchen. Sollte die Ausbildung von einzelnen Teilnehmer\*innen aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb abgeschlossen werden können, können einzelne Tage in den diversen anderen Grundkursen nachgeholt werden. Die Planung geht über die IFGE Software und ist eigenverantwortlich.  Pro Person können zwei Tage kostenlos in Anspruch genommen werden, jeder weitere Tag wird mit € 150,- in Rechnung gestellt. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.  
+Die Ausbildung ist nur komplett zu buchen. Sollte die Ausbildung von einzelnen Teilnehmer:innen aufgrund von Fernbleiben von den Unterrichtseinheiten oder Nichtbestehen von Prüfungen nicht innerhalb abgeschlossen werden können, können einzelne Tage in den diversen anderen Grundkursen nachgeholt werden. Die Planung geht über die IFGE Software und ist eigenverantwortlich.  Pro Person können zwei Tage kostenlos in Anspruch genommen werden, jeder weitere Tag wird mit € 150,- in Rechnung gestellt. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.  
  
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Das IFGE verpflichtet sich, binnen 10 Tagen die Ersatztermine bekannt zu geben. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer\*innen ist anzuerkennen. 
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Das IFGE verpflichtet sich, binnen 10 Tagen die Ersatztermine bekannt zu geben. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen. 
  

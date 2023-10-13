@@ -38,7 +38,7 @@ rich_faq:
 
 Als Mensch sind wir **Teil zahlreicher sozialer Systeme**. Wir haben Eltern und werden in eine **Familie geboren**. Wir gehen in den Kindergarten und später in die Schule. Wir bauen Freundschaften auf und verlieben uns möglicherweise. 
 
-Dass wir **Teil sozialer Beziehungen** sind bedeutet automatisch auch, dass wir mit **Bindung konfrontiert** werden. Ob positiv oder negativ, ob bewusst oder unbewusst. Umso wichtiger, dass psychologische Berater\*innen **Bindung, Bindungsmechanismen** und deren **Folgen** für Menschen verstehen.
+Dass wir **Teil sozialer Beziehungen** sind bedeutet automatisch auch, dass wir mit **Bindung konfrontiert** werden. Ob positiv oder negativ, ob bewusst oder unbewusst. Umso wichtiger, dass psychologische Berater:innen **Bindung, Bindungsmechanismen** und deren **Folgen** für Menschen verstehen.
 
 Im Zentrum der Online-Fortbildung steht das Thema menschliche Bindung sowie deren Folgen für Erwachsene.
 

@@ -64,7 +64,7 @@ Mittlerweile wurden am IFGE hunderte Diplome und Zertifikate erarbeitet und zahl
 
 Lebensberatung, Lebens- und Sozialberatung, psychologische Beratung, Ausbildung Lebens- und Sozialberatung, Ausbildung psychologische Beratung, Ausbildung psychologische Beratung, IFGE, Fortbildung Sexualberatung, Ausbildung Sexualberatung, Klangschalen
 
-Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender Lebens- und Sozialberater\*innen – psychologischen Berater\*innen. 
+Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende und professionelle Beratungsangebote, sondern gleichsam für unerreichte Qualität in der Berufsausbildung angehender Lebens- und Sozialberater:innen – psychologischen Berater:innen. 
 
 {{< silvia >}}
 
@@ -73,9 +73,9 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% /large %}}
 {{% small  %}}
-{{< image src="/img/institut_2.jpg" title="´Paarberatung oder Paar Sexualberatung ist ein wesentlicher Bestandteil in der Arbeit als Lebens- und Sozialberater\*in – psychologischer Berater\*in. Supervision kann bei Silvia Podlisca sowohl im Einzel wie auch als Team in Anspruch genommen werden." >}}
+{{< image src="/img/institut_2.jpg" title="´Paarberatung oder Paar Sexualberatung ist ein wesentlicher Bestandteil in der Arbeit als Lebens- und Sozialberater:in – psychologischer Berater:in. Supervision kann bei Silvia Podlisca sowohl im Einzel wie auch als Team in Anspruch genommen werden." >}}
 <br>
-{{< image src="/img/yes.jpg" title="Seit 2012 leitet Silvia Podlisca den Diplomlehrgang für Lebens- und Sozialberater\*innen – psychologischer Berater\*innen in Wien, Niederösterreich und Burgenland. Zudem bietet Silvia Podlisca am IFGE vertiefende Weiterbildungen für Supervision, Aufstellungsarbeit, Sexualberatung, Paarberatung, Psychosomatik, sexuelle Belästigung und Stalking, psychologisches Coaching sowohl als Onlineausbildungen wie auch als Präsenzausbildungen in Wien, Niederösterreich und Burgenland an." >}}
+{{< image src="/img/yes.jpg" title="Seit 2012 leitet Silvia Podlisca den Diplomlehrgang für Lebens- und Sozialberater:innen – psychologischer Berater:innen in Wien, Niederösterreich und Burgenland. Zudem bietet Silvia Podlisca am IFGE vertiefende Weiterbildungen für Supervision, Aufstellungsarbeit, Sexualberatung, Paarberatung, Psychosomatik, sexuelle Belästigung und Stalking, psychologisches Coaching sowohl als Onlineausbildungen wie auch als Präsenzausbildungen in Wien, Niederösterreich und Burgenland an." >}}
 {{% /small  %}}
 {{% /box %}}
 
@@ -104,15 +104,15 @@ Heute steht das IFGE mit seinen drei Standorten nicht nur für wertschätzende u
 
 {{% box %}}
 {{% small  %}}
-{{< image src="/img/entwicklung_noe.jpg"title="Teamsupervision, Teamcoaching und Unterricht in Kleingruppen, um den bestmöglichen Lernerfolg für Sie zu erzielen. Am IFGE finden Sie eine Atmosphäre der Wertschätzung und Achtsamkeit vor und werden von sehr erfahrenen Referenten\*innen betreut. Denn: nur wenn Sie erfolgreich in ihrer psychologischen Praxis sind, ist auch das IFGE erfolgreich" >}}
-{{< image src="/img/lsb_info_noe1.jpg" title="Am IFGE wird von Beginn an das Berufsbild der Lebens- und Sozialberatung – psychologischen Beratung vorgestellt. Alle Möglichkeiten und Grenzen sowie Abgrenzung zu den anderen psychologischen Berufsgruppen werden ebenso erörtert wie das Praktikum um als Lebens- und Sozialberater\*in  - psychologischen Berater\*in  in freier Praxis erfolgreich tätig zu sein. Am IFGE erfahren Sie größtmögliche Unterstützung beim Erreichen des Gewerbescheins für das Gewerbe: Lebens- und Sozialberatung – psychologische Beratung.">}}
+{{< image src="/img/entwicklung_noe.jpg"title="Teamsupervision, Teamcoaching und Unterricht in Kleingruppen, um den bestmöglichen Lernerfolg für Sie zu erzielen. Am IFGE finden Sie eine Atmosphäre der Wertschätzung und Achtsamkeit vor und werden von sehr erfahrenen Referenten:innen betreut. Denn: nur wenn Sie erfolgreich in ihrer psychologischen Praxis sind, ist auch das IFGE erfolgreich" >}}
+{{< image src="/img/lsb_info_noe1.jpg" title="Am IFGE wird von Beginn an das Berufsbild der Lebens- und Sozialberatung – psychologischen Beratung vorgestellt. Alle Möglichkeiten und Grenzen sowie Abgrenzung zu den anderen psychologischen Berufsgruppen werden ebenso erörtert wie das Praktikum um als Lebens- und Sozialberater:in  - psychologischen Berater:in  in freier Praxis erfolgreich tätig zu sein. Am IFGE erfahren Sie größtmögliche Unterstützung beim Erreichen des Gewerbescheins für das Gewerbe: Lebens- und Sozialberatung – psychologische Beratung.">}}
 {{% /small  %}}
 
 {{% large %}}
-So wie sich also Klient\*innen frei und wertschätzend am IFGE hin zu ihren Lösungen entwickeln können und so wie sich meine Schüler\*innen zu professionellen und erfolgreichen Berater\*innen entwickeln, hat sich auch die einst kleine Praxis mittlerweile zum renommierten Beratungs- und Ausbildungsinstitut an drei verschiedenen Einzugsgebieten Österreichs – in **Wien, Burgenland und Niederösterreich** – weiterentwickelt. Heute steht das IFGE als Ausbildungsinstitut für unerreichte fachliche Qualität, zukunftsweisende Unterrichtsmethoden, herzliche Professionalität und eine angenehme Lernatmosphäre, in der alle Schüler*innen individuell gefordert werden.
+So wie sich also Klient:innen frei und wertschätzend am IFGE hin zu ihren Lösungen entwickeln können und so wie sich meine Schüler:innen zu professionellen und erfolgreichen Berater:innen entwickeln, hat sich auch die einst kleine Praxis mittlerweile zum renommierten Beratungs- und Ausbildungsinstitut an drei verschiedenen Einzugsgebieten Österreichs – in **Wien, Burgenland und Niederösterreich** – weiterentwickelt. Heute steht das IFGE als Ausbildungsinstitut für unerreichte fachliche Qualität, zukunftsweisende Unterrichtsmethoden, herzliche Professionalität und eine angenehme Lernatmosphäre, in der alle Schüler*innen individuell gefordert werden.
 
 
-Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei Wunsch am Wochenende in drei Bundesländern sorgt gleichzeitig dafür, dass durch Kurs- und Ortshopping jedem und jeder Interessierten die berufsbegleitende Ausbildung in der psychologischen Beratung – Lebens- und Sozialberatung leicht gemacht wird. Doch das Institut gilt heute nicht nur als Qualitätsmaß für die Profession künftiger Lebens- und Sozialberater\*innen, sondern steht auch für Vielfalt und Entwicklung im eigenen Berufsalltag. Daher finden am IFGE an allen Standorten immer wieder Zusatzausbildungen, Seminare und Upgrades statt, die angehenden und diplomierten Lebens- und Sozialberater\*innen Werkzeuge in die Hand geben, die es für eine professionelle und erfolgreiche Praxis braucht.
+Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei Wunsch am Wochenende in drei Bundesländern sorgt gleichzeitig dafür, dass durch Kurs- und Ortshopping jedem und jeder Interessierten die berufsbegleitende Ausbildung in der psychologischen Beratung – Lebens- und Sozialberatung leicht gemacht wird. Doch das Institut gilt heute nicht nur als Qualitätsmaß für die Profession künftiger Lebens- und Sozialberater:innen, sondern steht auch für Vielfalt und Entwicklung im eigenen Berufsalltag. Daher finden am IFGE an allen Standorten immer wieder Zusatzausbildungen, Seminare und Upgrades statt, die angehenden und diplomierten Lebens- und Sozialberater:innen Werkzeuge in die Hand geben, die es für eine professionelle und erfolgreiche Praxis braucht.
 {{% /large %}}
 {{% /box %}}
 
@@ -123,7 +123,7 @@ Der besondere Unterrichtsmodus an verschiedenen Tagen unter der Woche sowie bei 
 # Coaching für Führungskräfte
 
 
-Meine Philosophie hinsichtlich der [Ausbildungs-](/praesenz-ausbildungen/diplomlehrgaenge/) und [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) am IFGE vertrete ich auch in der Arbeit mit Firmenkund\*innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](https://www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](https://www.fcbp.at/gr%C3%BCndung/) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten [Tagesseminare](https://www.fcbp.at/tagestrainings/) sowie [Workshops](https://www.fcbp.at/workshops/) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
+Meine Philosophie hinsichtlich der [Ausbildungs-](/praesenz-ausbildungen/diplomlehrgaenge/) und [Selbsterfahrungsangebote](/gruppenselbsterfahrung/philosophie/) am IFGE vertrete ich auch in der Arbeit mit Firmenkund:innen, die seit jeher Teil meines Instituts ist. Neben klassischen Beratungs- und Ausbildungsangeboten habe ich daher im Jahr 2017 gemeinsam mit [Martin Bransky](https://www.fcbp.at/team/) das Unternehmen ["Bransky und Podlisca Firmencoaching FCBP"](https://www.fcbp.at) ins Leben gerufen. Die Angebote von FCBP konzentrieren sich dabei auf Gründungs- und Wirtschaftsmanagement sowie auf Führungskräfte-Coaching. Beim umfassenden [Gründungsprogramm](https://www.fcbp.at/gr%C3%BCndung/) (im Finanz- und Gesundheitswesen sowie im Einzelhandel), beim persönlichen Führungskräfte-Coaching und bei den maßgeschneiderten [Tagesseminare](https://www.fcbp.at/tagestrainings/) sowie [Workshops](https://www.fcbp.at/workshops/) zu betriebsrelevanten Themen verbindet FCBP jahrelange wirtschaftliche Erfahrung mit psychologischem Know-how. So ermöglicht FCBP den Kund*innen, langfristig erfolgreich und gesund zu bleiben.
 
 {{% /small  %}}
 {{% /box %}}
@@ -134,22 +134,22 @@ Meine Philosophie hinsichtlich der [Ausbildungs-](/praesenz-ausbildungen/diploml
 {{% small  %}}
 {{< image src="/img/impulspro.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologischen Berater\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater:in - psychologischen Berater:in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als Lebensberater*in - psychologischen Berater:in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologischen Berater\*in sowie als zertifizierte Aufstellungsleiter\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater:in - psychologischen Berater:in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologischen Berater:in sowie als zertifizierte Aufstellungsleiter:in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/supervision.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologischen Berater\*in sowie als zertifizierte Supervisor\*in.
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater:in - psychologischen Berater:in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologischen Berater:in sowie als zertifizierte Supervisor:in.
 {{% /small  %}}
 {{% small  %}}
 {{< image src="/img/berufsverband.jpg" >}}
 
-Der [Berufsverband für Tiergestützte] psychologische Beratung(https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
+Der [Berufsverband für Tiergestützte] psychologische Beratung(https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient:innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 {{% /small  %}}
 {{% /box %}}
 

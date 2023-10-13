@@ -25,7 +25,7 @@ weight: 1
 
 ## AUFBAU DES LEHRGANGS 
 
-7 Ausbildungsstunden mit **mind. 4 max. 12 Teilnehmer\*innen**
+7 Ausbildungsstunden mit **mind. 4 max. 12 Teilnehmer:innen**
 Im Wechsel: 2 Stunden Theorie / S Stunden üben 
 
 ## Seminarhinhalte

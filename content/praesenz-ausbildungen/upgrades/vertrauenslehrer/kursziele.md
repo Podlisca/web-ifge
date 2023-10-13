@@ -44,30 +44,30 @@ Der Mangel an zusätzlicher Ausbildung und an verinnerlichten Methoden ist vor a
 
 * Grundlagen der gewaltfreien Gesprächsführung 
 * gelungener Beziehungsaufbau - auch unter schwierigen Voraussetzungen
-* Wie löse ich einen Konflikt zwischen Schüler\*innen?
-* Wie gewinne ich das Vertrauen der Schüler\*innen?
-* Wie löse ich einen Konflikt zwischen Lehrer\*innen und Schüler\*innen, ohne dass jemand sein Gesicht verliert?
+* Wie löse ich einen Konflikt zwischen Schüler:innen?
+* Wie gewinne ich das Vertrauen der Schüler:innen?
+* Wie löse ich einen Konflikt zwischen Lehrer:innen und Schüler:innen, ohne dass jemand sein Gesicht verliert?
 * Bei welchen Themen müssen unbedingt die Eltern mit eingebunden werden?
 * Wann gilt es, beim Jugendamt Bericht zu erstatten?
 * Wie grenze ich mich selber ab?
-* Wie kann ich eine gesunde Distanz zu den Problemen meiner Schüler\*innen behalten?
-* Welche Gesprächstechniken machen Sinn bei 14-Jährigen und sind diese auch sinnvoll einzusetzen bei Volksschüler\*innen?
+* Wie kann ich eine gesunde Distanz zu den Problemen meiner Schüler:innen behalten?
+* Welche Gesprächstechniken machen Sinn bei 14-Jährigen und sind diese auch sinnvoll einzusetzen bei Volksschüler:innen?
 * Welche Unterschiede gilt es zu beachten zwischen schulinternen Problemen (z. B. Aggression im Klassenzimmer) und schulexternen Problemen (z. B. vernachlässigter Zustand eines Kindes).
-* Wie gilt es, mit vermuteten Problemen von Schüler\*innen umzugehen? (Bspw. vermutete Magersucht, Drogenabhängigkeit, Vermutung von Gewalt in der Familie, …)
+* Wie gilt es, mit vermuteten Problemen von Schüler:innen umzugehen? (Bspw. vermutete Magersucht, Drogenabhängigkeit, Vermutung von Gewalt in der Familie, …)
 * rechtliche Abgrenzungen & Informationen zu schulspezifischen Themen
 
 {{< line icon="icon/vertrauenslehrer.png" >}}
 {{% box blue=1 %}}
 {{% small %}}
-Da es für den Posten der Vertrauenslehrer\*innen kaum Ausbildungsmöglichkeiten gibt, stehen viele Lehrer\*innen in dieser Funktion ratlos und überfordert vor den oben genannten Fragen und sind verunsichert: Was darf ich? Was ist der fachlich korrekte nächste Schritt? Was sollte ich keinesfalls tun? Häufig melden sich jene Lehrer\*innen freiwillig oder werden zur Vertrauensperson ernannt, die von vornherein ein besonders gutes Verhältnis zu den Schüler\*innen haben. Gerade durch das daher gelegentlich bereits bestehende Vertrauens- und Naheverhältnis gilt es auch, die Frage nach einer gesunden Distanz zu den Anliegen der Schüler\*innen fachlich und emotional zu beantworten.
+Da es für den Posten der Vertrauenslehrer:innen kaum Ausbildungsmöglichkeiten gibt, stehen viele Lehrer:innen in dieser Funktion ratlos und überfordert vor den oben genannten Fragen und sind verunsichert: Was darf ich? Was ist der fachlich korrekte nächste Schritt? Was sollte ich keinesfalls tun? Häufig melden sich jene Lehrer:innen freiwillig oder werden zur Vertrauensperson ernannt, die von vornherein ein besonders gutes Verhältnis zu den Schüler:innen haben. Gerade durch das daher gelegentlich bereits bestehende Vertrauens- und Naheverhältnis gilt es auch, die Frage nach einer gesunden Distanz zu den Anliegen der Schüler:innen fachlich und emotional zu beantworten.
 
 {{< image src="/img/vertrauenslehrer_ziel.jpg" title="Konflikte im Schulalltag sind unvermeidbar. Doch gewusst Wie lassen sich Konflikte leichter und schneller lösen. Die Kinder lernen, dass unterschiedliche Meinungen und Herangehensweise auch eine Bereicherung sein können. Toleranz und Wertschätzung werden so ganz von selbst mehr und mehr werden im täglichen Umgang" float="left" >}}
 
-In unserer Ausbildung zum/zur Vertrauenslehrer\*in erlernen Sie einen umfassenden Methodenkatalog der Gesprächsführung. Unser Schwerpunkt liegt dabei auf gewaltfreier und wertschätzender Kommunikation. Neben vertiefenden Gesprächstechniken vermitteln wir Ihnen am IFGE mittels systemischer Elemente die Fähigkeiten, die es braucht, um trotz gesundem Abstand zu Ihren Schüler\*innen ein vertrauensvolles und emphatisches Verhältnis zu Ihren Schützlingen aufzubauen. 
+In unserer Ausbildung zum/zur Vertrauenslehrer:in erlernen Sie einen umfassenden Methodenkatalog der Gesprächsführung. Unser Schwerpunkt liegt dabei auf gewaltfreier und wertschätzender Kommunikation. Neben vertiefenden Gesprächstechniken vermitteln wir Ihnen am IFGE mittels systemischer Elemente die Fähigkeiten, die es braucht, um trotz gesundem Abstand zu Ihren Schüler:innen ein vertrauensvolles und emphatisches Verhältnis zu Ihren Schützlingen aufzubauen. 
 
-Konfliktmanagement und Mediations-Tools sind ebenso Teil der Vertrauenslehrer\*innen-Ausbildung, damit Sie sich letztlich sicher und präsent in Ihrer Rolle fühlen können. Denn nur, wenn Sie sich selbst Ihrer Sache sicher sind, können Sie Ihre Schüler\*innen optimal unterstützen. 
+Konfliktmanagement und Mediations-Tools sind ebenso Teil der Vertrauenslehrer:innen-Ausbildung, damit Sie sich letztlich sicher und präsent in Ihrer Rolle fühlen können. Denn nur, wenn Sie sich selbst Ihrer Sache sicher sind, können Sie Ihre Schüler:innen optimal unterstützen. 
 
-Gleichzeitig lernen Sie im Zuge der Burn-out-Prävention, wie Sie eine gesunde Distanz zu den Anliegen Ihrer Schüler\*innen bewahren können, um selbst gesund und arbeitsfähig zu bleiben. Die Methodenschwerpunkte am IFGE Wien umfassen dabei ebenso die psychologische Arbeit mit tierischer Unterstützung, welche besonders im Umgang mit Kindern und Jugendlichen zu empfehlen ist. In unserer Vertrauenslehrer\*in-Ausbildung lernen Sie daher auch, wie Sie Hunde und Katzen optimal in den Prozess einbauen können, um zu einem langfristig gesunden Schulklima beizutragen.
+Gleichzeitig lernen Sie im Zuge der Burn-out-Prävention, wie Sie eine gesunde Distanz zu den Anliegen Ihrer Schüler:innen bewahren können, um selbst gesund und arbeitsfähig zu bleiben. Die Methodenschwerpunkte am IFGE Wien umfassen dabei ebenso die psychologische Arbeit mit tierischer Unterstützung, welche besonders im Umgang mit Kindern und Jugendlichen zu empfehlen ist. In unserer Vertrauenslehrer:in-Ausbildung lernen Sie daher auch, wie Sie Hunde und Katzen optimal in den Prozess einbauen können, um zu einem langfristig gesunden Schulklima beizutragen.
 
 {{% /small %}}
 {{% /box %}}

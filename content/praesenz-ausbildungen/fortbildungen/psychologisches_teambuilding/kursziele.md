@@ -64,7 +64,7 @@ Mit diesem Fachwissen auf dem Gebiet der Psychologie werden aus reinen Teamspiel
 {{% small %}}
 #### LANGJÄHRIGE ERFAHRUNG IM PSYCHOLOGISCHEN WIRTSCHAFTSBEREICH
 
-{{< image src="/img/teambuilding_ziel_3.jpg" title="Teambuildingmaßnahmen sollen Spaß machen aber auch eine nachhaltige Wirkung in die gewünschte Richtung zeigen. Die psychologische Aufarbeitung garantiert Ihren Erfolg da die Teilnehmer\*innen das WOFÜR erkennen. " float="right" >}}
+{{< image src="/img/teambuilding_ziel_3.jpg" title="Teambuildingmaßnahmen sollen Spaß machen aber auch eine nachhaltige Wirkung in die gewünschte Richtung zeigen. Die psychologische Aufarbeitung garantiert Ihren Erfolg da die Teilnehmer:innen das WOFÜR erkennen. " float="right" >}}
 
 Als mehrfach von der Wirtschaftskammer zertifiziertes Ausbildungsinstitut bietet das IFGE in seiner Zweigstelle in Pinkafeld dabei nicht nur fachlich fundierte Inhalte, sondern auch die idealen Räumlichkeiten: 
 

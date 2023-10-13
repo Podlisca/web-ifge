@@ -30,9 +30,9 @@ weight: 4
 ## Zugangsvoraussetzungen
 
 
-* Dipl. Lebens- und Sozialberater\*innen - psychologischen Berater\*innen
-* Lebens- und Sozialberater\*innen in Ausbildung am IFGE ab dem 3. Semester, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Aufstellungen erst mit Erhalt des Gewerbescheins. 
-* Interessierte Psychotherapeuten\*innen, Sozialarbeiter\*innen, Betreuer\*innen, Psycholog\*innen, Pädagog\*innen, Trainer\*innen, Coaches, Energetiker\*innen mit Vorerfahrung in der systemischen Aufstellungsarbeit
+* Dipl. Lebens- und Sozialberater:innen - psychologischen Berater:innen
+* Lebens- und Sozialberater:innen in Ausbildung am IFGE ab dem 3. Semester, die den Lehrgang bereits parallel zu ihrer Ausbildung absolvieren möchten - anbieten darf man die Aufstellungen erst mit Erhalt des Gewerbescheins. 
+* Interessierte Psychotherapeuten:innen, Sozialarbeiter:innen, Betreuer:innen, Psycholog:innen, Pädagog:innen, Trainer:innen, Coaches, Energetiker:innen mit Vorerfahrung in der systemischen Aufstellungsarbeit
 
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Diplom des Institut für ganzheitliches Erleben ab. 
 

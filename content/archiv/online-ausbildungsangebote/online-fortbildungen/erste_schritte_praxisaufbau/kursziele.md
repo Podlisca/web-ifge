@@ -16,13 +16,13 @@ og_image: "/img/zeig_dich_ziel.jpg"
 ### WARUM PROFESSIONELLES AUFTRETEN VON ANFANG AN ZENTRAL IST
 {{% floatbox %}}
 
-{{< image src="/img/zeig_dich_ziel.jpg" title="Als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin werden Sie weder mit einem aggressiven Werbestil, der allzu marktschreierisch ist noch mit einen kaum sichtbaren Werbestil erfolgreich sein. Kontinuierliche Qualität mit den passenden Keywords sind das A und O. Bei dieser Ausbildung werden die wichtigsten Werbekanäle und Strategien vorgestellt, sodass Sie Sicherheit bei ihrem Außenauftritt erlangen."float="left">}} 
+{{< image src="/img/zeig_dich_ziel.jpg" title="Als Lebensberater:in -psychologischen Berater:in, Coach, Aufstellungsleiter:in, Supervisorin werden Sie weder mit einem aggressiven Werbestil, der allzu marktschreierisch ist noch mit einen kaum sichtbaren Werbestil erfolgreich sein. Kontinuierliche Qualität mit den passenden Keywords sind das A und O. Bei dieser Ausbildung werden die wichtigsten Werbekanäle und Strategien vorgestellt, sodass Sie Sicherheit bei ihrem Außenauftritt erlangen."float="left">}} 
 
-Denn eines steht außer Frage: Sie sind nicht der bzw. die einzige Anbieter\*in eines psychologischen Beratungsangebotes. Es gilt also auch im Sozialbereich, die eigenen besonderen Fähigkeiten herauszustreichen und sich von anderen Angeboten abzuheben. Damit dies professionell und zieldienlich gelingt, braucht es ein ausreichendes Maß an Vorwissen, das dieser Online-Workshop ausführlich vermittelt. 
+Denn eines steht außer Frage: Sie sind nicht der bzw. die einzige Anbieter:in eines psychologischen Beratungsangebotes. Es gilt also auch im Sozialbereich, die eigenen besonderen Fähigkeiten herauszustreichen und sich von anderen Angeboten abzuheben. Damit dies professionell und zieldienlich gelingt, braucht es ein ausreichendes Maß an Vorwissen, das dieser Online-Workshop ausführlich vermittelt. 
 
-Denn Ihr Werbeauftritt ist und bleibt der erste wichtige Eindruck, den potenzielle Kund\*innen von Ihnen erhalten. Ein Selfie im privaten Wohnzimmer bei schummrigen Licht mit veralteter Frontkameratechnik bei „Über mich“ dient Ihrem Ruf und dem der Branche genauso wenig wie eine E-Mail-Adresse die „mausi1985@beispiel.at“ oder ähnlich lautet.
+Denn Ihr Werbeauftritt ist und bleibt der erste wichtige Eindruck, den potenzielle Kund:innen von Ihnen erhalten. Ein Selfie im privaten Wohnzimmer bei schummrigen Licht mit veralteter Frontkameratechnik bei „Über mich“ dient Ihrem Ruf und dem der Branche genauso wenig wie eine E-Mail-Adresse die „mausi1985@beispiel.at“ oder ähnlich lautet.
 
-Zeigen Sie stattdessen Ihren künftigen Kund\*innen bereits auf den ersten Blick, dass Ihr Angebot ein seriöses ist, das Ihrer zeit- und arbeitsaufwendigen, fundierten sowie durchaus auch kostenintensiven Ausbildung gerecht wird.
+Zeigen Sie stattdessen Ihren künftigen Kund:innen bereits auf den ersten Blick, dass Ihr Angebot ein seriöses ist, das Ihrer zeit- und arbeitsaufwendigen, fundierten sowie durchaus auch kostenintensiven Ausbildung gerecht wird.
 
 {{% /floatbox %}}
 
@@ -46,6 +46,6 @@ Neben der Vorstellung zahlreicher Tools entwickeln Sie im IFGE-Kurs rund um die 
 
 * Wie wird eine Website erstellt, welche Möglichkeiten hat man dabei und welche Elemente sollten jedenfalls beim eigenen Webauftritt gegeben sein? Am Beispiel des Website-Programms „Jimdo“ wird gezeigt, wie einfach und rasch eine professionelle Website erstellt werden kann.
 * Welche großartigen Funktionen stehen in Google My Business zur Verfügung und wie werden diese erfolgreich und mühelos eingesetzt?
-* Wie können gängige Social Media Kanäle wie Facebook oder Instagram zieldienlich dafür genutzt werden, um an die ersten Klient\*innen zu kommen und bestehende Klient\*innen mit interessanten Informationen zu versorgen?
+* Wie können gängige Social Media Kanäle wie Facebook oder Instagram zieldienlich dafür genutzt werden, um an die ersten Klient:innen zu kommen und bestehende Klient:innen mit interessanten Informationen zu versorgen?
 
-Alle Inhalte werden praxisorientiert und von Expert\*innen der Branche vermittelt, so dass Sie nach Beendigung des Workshops jenes Rüstzeug besitzen, mit dem Sie sich von Anfang an professionell sichtbar machen, um langfristig erfolgreich zu gründen. Der Workshop kann auch als ideale Ergänzung zum Planspiel „Das Einmaleins der Gründung“ gebucht werden.
+Alle Inhalte werden praxisorientiert und von Expert:innen der Branche vermittelt, so dass Sie nach Beendigung des Workshops jenes Rüstzeug besitzen, mit dem Sie sich von Anfang an professionell sichtbar machen, um langfristig erfolgreich zu gründen. Der Workshop kann auch als ideale Ergänzung zum Planspiel „Das Einmaleins der Gründung“ gebucht werden.

@@ -20,7 +20,7 @@ og_image: "/img/sv_supervision.jpg"
 
 Ziel der Ausbildung ist sexuelle Vielfalt zu verstehen und damit ein besseres Verständnis für unterschiedliche Bedürfnisse zu schaffen. 
 
-Der Kurs umfasst ein Pensum von 100 Stunden und richtet sich an unterschiedliche Zielgruppen, wie Sexual-, Paar-, Trauma-, Lebens- und Sozialberater\*innen sowie Pädagog\*innen und Einrichtungen, die in ihrer Arbeit mit dem Thema Sexualität konfrontiert werden. 
+Der Kurs umfasst ein Pensum von 100 Stunden und richtet sich an unterschiedliche Zielgruppen, wie Sexual-, Paar-, Trauma-, Lebens- und Sozialberater:innen sowie Pädagog:innen und Einrichtungen, die in ihrer Arbeit mit dem Thema Sexualität konfrontiert werden. 
 
 {{< silvia >}}
 

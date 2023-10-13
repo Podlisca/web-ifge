@@ -29,11 +29,11 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/modulbuchung.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater\*in - psychologischen Berater\*in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
+{{< image src="/img/modulbuchung.jpg" float="left" title="Silvia Podlisca achtet bei der Ausbildung zum/zur Dipl. Lebensberater:in - psychologischen Berater:in allen Seminaren sehr auf die fachlich hohe Qualität, sowohl im theoretischen wie auch im praxisorientierten Teil." format="hoch">}}
 
 ## Probleme lösen. Perspektiven erarbeiten.
 
-Als Lebens- und Sozialberater\*in - psychologischen Berater\*in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. 
+Als Lebens- und Sozialberater:in - psychologischen Berater:in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. 
 Sollten Ihnen aufgrund Ihrer Vorbildung bereits Teile der Ausbildung von der [Wirtschaftskammer](https://www.lebensberater.at/) angerechnet worden sein, so ist es möglich folgende Module am IFGE einzeln zu buchen:
 {{% box top-align=1 %}}
 {{% small %}}

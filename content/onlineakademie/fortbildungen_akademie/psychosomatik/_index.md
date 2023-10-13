@@ -37,11 +37,11 @@ Menschen fühlen sich dann am **wohlsten, wenn Körper, Geist und Seele im Einkl
 
 Mit der Wirkung der **menschlichen Psyche auf die menschliche Gesundheit** setzt sich auch die **Psychosomatik auseinander**. Konkret geht es um die Frage, wie sich seelische Belastungen in körperlichen Reaktionen widerspiegeln bzw. zu diesen führen. 
 
-Der Kurs unterstützt **psychologische Berater\*innen** das **Zusammenspiel**von Körper, Seele und Geist noch **besser zu erfassen**. 
+Der Kurs unterstützt **psychologische Berater:innen** das **Zusammenspiel**von Körper, Seele und Geist noch **besser zu erfassen**. 
 {{% /small %}}
 </div>  
 
-In weiterer Folge können Ängste, Bedürfnisse und Herausforderungen von **Klient\*innen** noch **ganzheitlicher verstanden** werden, wodurch wiederum gezielter Lösungswege erarbeitet werden können. Durch ein **tieferes Verständnis** im Bereich der **Psychosomatik** können Menschen gestärkt und so das Auftreten von **Krankheiten vermieden** werden. 
+In weiterer Folge können Ängste, Bedürfnisse und Herausforderungen von **Klient:innen** noch **ganzheitlicher verstanden** werden, wodurch wiederum gezielter Lösungswege erarbeitet werden können. Durch ein **tieferes Verständnis** im Bereich der **Psychosomatik** können Menschen gestärkt und so das Auftreten von **Krankheiten vermieden** werden. 
 
 Bei dieser Fortbildung profitierst du nicht nur von fundierten und relevanten Inhalten, sondern insbesondere auch von einer flexiblen und modernen Organisation. Der Kurs findet, wie alle anderen Kurse der [**Online-Akademie**](https://www.ifge.at/onlineakademie/), zu **100% online** statt. So kannst du dich wann, wie und wo du möchtest weiterbilden. Wir gewähren dir ganze **drei Jahre Vollzugriff** auf die Lernplattform. 
 

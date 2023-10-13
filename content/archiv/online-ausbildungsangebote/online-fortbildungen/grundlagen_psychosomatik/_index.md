@@ -21,9 +21,9 @@ rich_kurs: true
 
 {{% floatbox %}}
 
-{{< image src="/img/ambivalenz_2021_1.jpg"title="Gerade in der Psychosomatik zeigen sich viele versteckte und wertvolle Hinweise des klugen Unbewussten. In der Psychosomatik betrachten man Symptome als Wegweiser der Seele oder als Tor zum Unbewussten. Der Körper kommuniziert quasi mit uns. In diesem Seminar ganzheitlich Gesund – Grundlagen der Psychosomatik lernen Sie die wichtigsten Schritte um sozusagen zwischen Körper und Seele dolmetschen zu können. Dies bietet Ihnen als Lebensberater\*in -psychologischen Berater\*in, Coach, Aufstellungsleiter\*in, Supervisorin wertvolle Zusatzinformationen und Ihre Klienten\*innen erhalten neue Einsichten und Möglichkeitsräume."  float="left " >}}
+{{< image src="/img/ambivalenz_2021_1.jpg"title="Gerade in der Psychosomatik zeigen sich viele versteckte und wertvolle Hinweise des klugen Unbewussten. In der Psychosomatik betrachten man Symptome als Wegweiser der Seele oder als Tor zum Unbewussten. Der Körper kommuniziert quasi mit uns. In diesem Seminar ganzheitlich Gesund – Grundlagen der Psychosomatik lernen Sie die wichtigsten Schritte um sozusagen zwischen Körper und Seele dolmetschen zu können. Dies bietet Ihnen als Lebensberater:in -psychologischen Berater:in, Coach, Aufstellungsleiter:in, Supervisorin wertvolle Zusatzinformationen und Ihre Klienten:innen erhalten neue Einsichten und Möglichkeitsräume."  float="left " >}}
 
-Die Psychosomatik ist ein hochgradig spannender Teilbereich der ganzheitlichen Gesundheit und kann in der psychologischen Beratung für Berater\*innen sowie für deren Klient\*innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten emotionalen Dynamiken auf die Spur zu kommen.
+Die Psychosomatik ist ein hochgradig spannender Teilbereich der ganzheitlichen Gesundheit und kann in der psychologischen Beratung für Berater:innen sowie für deren Klient:innen ein wichtiger Anhaltspunkt sein, um so manch verdeckten emotionalen Dynamiken auf die Spur zu kommen.
 
 {{% box %}}
 {{% small %}}

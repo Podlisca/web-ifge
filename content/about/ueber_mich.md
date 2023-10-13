@@ -50,10 +50,10 @@ Ich war fasziniert und irritiert zugleich, weil ich immer auch andere Dinge mit 
 
 {{% box blue=1 margin=1 %}}
 {{% large %}}
-Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/psychologische-beratung/einzelberatung/), ist es mir möglich, ganz individuell auf jeden meiner Klient\*innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologischen Beraterin und [Supervisorin](/supervision/einzelsupervision/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
+Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hilfe zur Selbsthilfe zu bieten. Durch meine umfassenden Ausbildungen in der Energetik, sowie in der [klassischen Lebensberatung](/psychologische-beratung/einzelberatung/), ist es mir möglich, ganz individuell auf jeden meiner Klient:innen einzugehen. Gemeinsam entscheiden wir, welche Methode für Sie die wirkungsvollste ist. Oftmals entsteht eine Kombination der angebotenen Methoden.Sowohl als Seminarleiterin als auch als psychologischen Beraterin und [Supervisorin](/supervision/einzelsupervision/) fülle ich bewährte Settings statt fertiger Packages mit den jeweils am besten geeigneten Zugängen und Methoden. Ich spreche Probleme an und komme schnell auf den Punkt. So können eingefahrene Muster verlassen werden.
 {{% /large %}}
 {{% small %}}
-  {{< image src="/img/ziel_selbsthilfe.jpg" title="Wer als Lebens- und Sozialberater\*in , Coach, Supervisor\*in , Aufstellungsleiter\*in  erfolgreich sein will, muss gut zuhören können. Aktives Zuhören auf allen Ebenen, Empathie, und Freude am Arbeiten mit Menschen sind wichtige Grundsteine in der Lebensberatung – psychologischen Beratung sowie in allen psychologischen Berufen. " >}}
+  {{< image src="/img/ziel_selbsthilfe.jpg" title="Wer als Lebens- und Sozialberater:in , Coach, Supervisor:in , Aufstellungsleiter:in  erfolgreich sein will, muss gut zuhören können. Aktives Zuhören auf allen Ebenen, Empathie, und Freude am Arbeiten mit Menschen sind wichtige Grundsteine in der Lebensberatung – psychologischen Beratung sowie in allen psychologischen Berufen. " >}}
 {{% /small %}}
 {{% /box %}}
 
@@ -61,15 +61,15 @@ Das Ziel meiner Arbeit ist, auf respektvolle Art und Weise, den Klient*innen Hil
 
 Ich biete Raum zur Entfaltung und behalte die Lösung im Auge. Genau jenen Ansatz verfolge ich seit jeher auch im [Business-Coaching](https://www.fcbp.at/), welches seit Jahren mein Angebot ergänzt. Gerade in bestehenden Firmenstrukturen ist es wesentlich, Muster rasch zu erkennen und diese anzusprechen, um im Anschluss mit den Verantwortlichen neue Strategien zu entwickeln. Da mir die Erhaltung bzw. Wiederherstellung eines erfolgreichen und gesunden Betriebsklimas in Unternehmen, die meine Hilfe in Anspruch nehmen, seit jeher ein persönliches Anliegen ist, biete ich regelmäßig Aus- und Fortbildungsseminare für Führungspersönlichkeiten im gehobenen Management an. Der Wunsch, gewinnbringende Unternehmensstrategien mit betriebspsychologischem Fachwissen zu verbinden, gab schließlich den Anstoß dazu, im Jahr 2017 gemeinsam mit Martin Bransky [„Bransky und Podlisca Firmencoaching FCBP“](https://www.fcbp.at/)) ins Leben zu rufen, wodurch ich heute mit viel Freude Führungskräfte in allen Bereichen – von der Unternehmensgründung bis zur Mitarbeiter*innenführung – effektiv und wertschätzend unterstütze.
 
-{{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Tiere in der Lebensberatung – psychologischen Beratung und Krisenberatung haben sich als unglaubliche Bereicherung herausgestellt. Jeder psychologische Prozess wird liebevoll und treu von den Tieren begleitet. Dadurch fällt es Klienten\*innen deutlich leichter, sich zu öffnen – ins besonders bei sehr sensiblen Themen wie zum Beispiel in der Sexualberatung, Opferarbeit oder auch Täterarbeit." >}}
+{{< image src="/img/silvia_3_foto_pluto_sally.jpg" float="left" title="Tiere in der Lebensberatung – psychologischen Beratung und Krisenberatung haben sich als unglaubliche Bereicherung herausgestellt. Jeder psychologische Prozess wird liebevoll und treu von den Tieren begleitet. Dadurch fällt es Klienten:innen deutlich leichter, sich zu öffnen – ins besonders bei sehr sensiblen Themen wie zum Beispiel in der Sexualberatung, Opferarbeit oder auch Täterarbeit." >}}
 
-Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie.html) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient\*innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen. Dabei gilt zu beachten, dass meine Arbeit keine psychotherapeutische ist und keine medizinische Behandlung ersetzt.
+Ein weiterer wesentlicher Teil meiner [Philosophie](/gruppenselbsterfahrung/philosophie.html) betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die tiergestützte psychologische Beratung für meine Klient:innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die Arbeit mit Hunden, zeigt sich, wie ideal sich Vierbeiner in ihre Rolle als Co-Berater eingelebt haben. Schon die bloße Anwesenheit der Tiere erzeugt bei meinen Klient:innen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. Die Tiere spüren darüber hinaus recht deutlich, ob Klient*innen Trost, Nähe, Distanz oder Ablenkung benötigen und unterstützen den Beratungsprozess auf intensive Weise. So gelingt es Ihnen spielerisch, unbekannte „PerspekTiefen“ – also tiefgreifende neue Sichtweisen – zu erkennen. Dabei gilt zu beachten, dass meine Arbeit keine psychotherapeutische ist und keine medizinische Behandlung ersetzt.
 
 {{< line icon="icon/lebenslauf.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
 
-{{< image src="/img/ueber_mich_noe.jpg" float="right" title="Dir Arbeit mit Menschen, egal ob in der Lebensberatung - psychologischen Beratung, Supervision, Coaching oder in der Lehrtätigkeit, erfüllt mich mit großer Freude. Ich freue mich sehr über die Erfolge meiner Klienten\*innen wie auch meiner angehenden Kolleg\*innen." format="hoch" >}}
+{{< image src="/img/ueber_mich_noe.jpg" float="right" title="Dir Arbeit mit Menschen, egal ob in der Lebensberatung - psychologischen Beratung, Supervision, Coaching oder in der Lehrtätigkeit, erfüllt mich mit großer Freude. Ich freue mich sehr über die Erfolge meiner Klienten:innen wie auch meiner angehenden Kolleg:innen." format="hoch" >}}
 
 Ein besonders großes Anliegen war und ist mir immer meine persönliche laufende Weiterbildung und Selbsterfahrung. Schon während meiner kaufmännischen Tätigkeit in einer Zoohandlung, widmete ich mich intensiv der Mensch-Tier-Beziehung sowie der Ausbildung von Lehrlingen. Gleichzeitig legte ich an der Volkshochschule Wien die Berufsreifeprüfung ab.
 
@@ -83,7 +83,7 @@ Hier ist die, mir zutiefst wichtige menschliche Haltung, "ich bin ok – du bist
 Jedoch ist gerade für mich als Lebens- und Sozialberaterin – psychologischen Beraterin die vertiefende Weiterbildung ein absolutes und freudiges MUSS. Daher folgten bisher zahlreiche Weiterbildugen in unterschiedlichsten Fachrichtungen in der [Sexualberatung](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualitaetpaare.html), [Opfer- Täterarbeit](https://www.ifge.at/psychologische-beratung/spezialisierungen/taeterberatung.html) aus hypno-systemischer Sicht, Transaktionsanalyse, Existenzanalyse, Hypnosystemik, Bindung und [Trauma](https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung.html). Um meine fachliche Expertise weiter auszubauen - und somit ein noch größeres Spektrum am IFGE abdecken zu können - habe ich mich 2021 entschlossen, angewandte Psychologie zu studieren. 
 <br/>
 <br/>
-Meine vielen unterschiedlichen Ausbildungen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt und dass jeder Mensch völlig individuell seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung begleite ich bei meinen Klient\*innen mit viel Freude und Engagement und ich freue mich über jeden Erfolg meiner Klienten\*innen. **Ganz in dem Sinne:** 
+Meine vielen unterschiedlichen Ausbildungen und Fachrichtungen haben mich gelehrt, dass es nicht nur eine Wahrheit gibt und dass jeder Mensch völlig individuell seine eigene höchstpersönliche Lösung findet. Diesen Prozess der Selbstfindung begleite ich bei meinen Klient:innen mit viel Freude und Engagement und ich freue mich über jeden Erfolg meiner Klienten:innen. **Ganz in dem Sinne:** 
 ## Das Leben will gelebt werden!
 
 {{% /small  %}}
@@ -105,26 +105,26 @@ Meine vielen unterschiedlichen Ausbildungen und Fachrichtungen haben mich gelehr
  #### psychologische Beraterin
 {{< image src="/img/impulspro.jpg">}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater\*in - psychologisch Berater\*in](https://www.ifge.at/psychologische-beratung/einzelberatung.html). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und [Befugnis als Lebensberater*in - psychologische Berater\*in]().
+ImpulsPro ist eine Initiative der Berufsgruppe der [Lebens- und Sozialberater:in - psychologisch Berater:in](https://www.ifge.at/psychologische-beratung/einzelberatung.html). Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und [Befugnis als Lebensberater*in - psychologische Berater:in]().
 {{% /small  %}}
 {{% small  %}}
  #### Aufstellungsleiterin
 
 {{< image src="/img/aufstellungsarbeit.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Aufstellungsleiter\*in](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung.html).
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater:in - psychologischen Berater:in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater:in sowie als [zertifizierte Aufstellungsleiter:in](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung.html).
 {{% /small  %}}
 {{% small  %}}
 #### Supervisorin
 {{< image src="/img/supervision.jpg" >}}
 
-ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater\*in - psychologischen Berater\*in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater\*in sowie als [zertifizierte Supervisor\*in](https://www.ifge.at/supervision/philosophie.html).
+ImpulsPro ist eine Initiative der Berufsgruppe der Lebens- und Sozialberater:in - psychologischen Berater:in. Diese Dachmarke garantiert höchste Qualität und bescheinigt die Befähigung und Befugnis als psychologische Berater:in sowie als [zertifizierte Supervisor:in](https://www.ifge.at/supervision/philosophie.html).
 {{% /small  %}}
 {{% small  %}}
 #### Tiergestützte Beratung
 {{< image src="/img/berufsverband.jpg" >}}
 
-Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient\*innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
+Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.berufsverband-tiergestuetzteberatung.at/) für die Erstellung von Qualitätskriterien zuständig, welche das Wohl von Klient:innen und Tieren zum Ziel haben. Das Gütesiegel bescheinigt höchste Qualität  und gewährleistet vor allem auch die Einhaltung all dieser Richtlinien. 
 
 {{% /small  %}}
 {{% /box %}}

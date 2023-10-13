@@ -10,7 +10,7 @@ description: "Der Juli hat den Juni abgelöst und damit das Pride Monat beendet.
 ---
 **Der Juli hat den Juni abgelöst und damit das Pride Monat beendet. Der Höhepunkt des Pride Monats war die 25. Regenbogenparade, bei der Tausende im Zeichen der Toleranz, Diversität und Gleichberechtigung über den Wiener Ring spazierten. „Nicht mehr notwendig“ - Sagen die einen. „Braucht es noch immer“ – Sagen die anderen.**
 
-In unserem Blog widmen wir uns der Selbstfindung von LGBTIQ\* Menschen, also aller, die sich nicht als heterosexuell definieren, sondern als **l**esbisch, schwul (**g**ay), **b**isexuell, **t**ranssexuell, **i**ntersexuell oder **q**ueer. 
+In unserem Blog widmen wir uns der Selbstfindung von LGBTIQ: Menschen, also aller, die sich nicht als heterosexuell definieren, sondern als **l**esbisch, schwul (**g**ay), **b**isexuell, **t**ranssexuell, **i**ntersexuell oder **q**ueer. 
 
 Wir stellen uns die Frage, warum es Sichtbarkeit braucht und was die [Psychologische Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) damit zu tun hat.
 

@@ -22,7 +22,7 @@ Der Kurs Sexual- und Paarberatung umfasst 100 Ausbildungsstunden, in denen Sie u
 
 Wissen und Methoden werden sowohl durch Vorträge als auch durch praktische Workshops und Übungen erarbeitet. Dadurch ist eine theoretisch fundierte, aber gleichzeitig praktisch orientierte und abwechslungsreiche Weiterbildung gewährleistet. 
 
-Die Ausbildung richtet sich an alle, die sich beruflich mit Paaren und Sexualität befassen, wie etwa Lebens- und Sozialberater\*innen.
+Die Ausbildung richtet sich an alle, die sich beruflich mit Paaren und Sexualität befassen, wie etwa Lebens- und Sozialberater:innen.
 
 {{< silvia >}}
 

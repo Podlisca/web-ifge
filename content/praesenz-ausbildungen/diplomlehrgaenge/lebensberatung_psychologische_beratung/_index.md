@@ -84,9 +84,9 @@ Ausbildung entsprechend den gesetzlichen Bestimmungen laut Bundesgesetzblatt vom
 
 Das alles gehört zu unserem Leben dazu. Aber nicht immer können und/oder wollen Menschen herausfordernde Lebenssituationen alleine bewältigen. 
 
-Umso wichtiger, dass es fachlich qualifizierte **Lebens- und Sozialberater\*innen – psychologische Berater\*innen** gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
+Umso wichtiger, dass es fachlich qualifizierte **Lebens- und Sozialberater:innen – psychologische Berater:innen** gibt, die mit Menschen an ihren Themen arbeiten bevor daraus (psychische) Krankheiten entstehen. 
 
-Als **Lebens- und Sozialberater\*in – psychosoziale Berater\*in** arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert\*innen wünschen, aber noch **keine krankhaften Störungen aufweisen**. 
+Als **Lebens- und Sozialberater:in – psychosoziale Berater:in** arbeiten Sie daher mit gesunden Menschen, welche mit herausfordernden Lebenssituationen konfrontiert sind oder sich die Begleitung durch Expert:innen wünschen, aber noch **keine krankhaften Störungen aufweisen**. 
 
 Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens- und Sozialberatung. Am IFGE wird die Ausbildung mit den Schwerpunkten systemische Beratung und Familienaufstellung, Krisenintervention und Sexualberatung angeboten.
 
@@ -101,7 +101,7 @@ Krankhaften Störungen präventiv vorzubeugen, ist ein primäres Ziel der Lebens
 
 ***
 
-***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer\*innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
+***Onlineveranstaltungen** werden über [Webex Meeting](https://www.webex.com/de/index/) abgehalten. Der Onlinelink wird rechtzeitig vom IFGE zugemailt. Für einen reibungslosen Ablauf, empfehlen wir auch am PC die Software zu installieren (kostenlos). Manche Teilnehmer:innen haben rückgemeldet, dass dies auch am PC notwendig war, viele mussten die Software am PC nicht installieren. Hier der Link: https://www.webex.com/downloads.html/ Für Handy, iPad usw. bitte die App runter laden - Danke.
 
 
 {{< booking >}}
@@ -170,4 +170,4 @@ Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als
 {{% /small  %}}
 {{% /box %}}
 
-Durch kleine Gruppen und  ausgewählte Referent\*innen wird dadurch jedem/jeder einzelnen Teilnehmer\*in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer\*in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
+Durch kleine Gruppen und  ausgewählte Referent:innen wird dadurch jedem/jeder einzelnen Teilnehmer:in viel Raum zum Üben und Ausprobieren gegeben. Die individuellen Stärken des/der Teilnehmer:in werden gemeinsam ausgearbeitet und gefördert, der persönliche Wachstumsprozess unterstützt.  In einer kleinen Gruppe lernt sowie entwickelt man sich auch gruppendynamisch stetig weiter und wächst durch viel praktisches Üben in die Beraterrolle hinein. Diese Gruppengröße hat sich besonders für die Gruppenatmosphäre bewährt - man kann sich besser untereinander austauschen, öffnen und als Gruppe zusammenwachsen.
