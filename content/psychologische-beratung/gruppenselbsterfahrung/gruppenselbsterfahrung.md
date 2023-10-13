@@ -69,7 +69,7 @@ Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 12
 {{< /card-more >}}
 {{< card-more icon="icon/storno.png" title="Termine & Leitung" >}}
 
-Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit **10.01.2024** treffen wir uns jeden 2. und jeden 4. Mittwoch von 17:00 bis 20:00 Uhr für 20 Termine. In den **Sommermonaten Juli und August** finden **keine Termine statt**. Im **Dezember verschieben** sich die Termine auf den **ersten und zweiten Mittwoch** im Monat. 
+Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit **10.01.2024** treffen wir uns jeden 2. und jeden 4. Mittwoch von 17:00 bis 20:00 Uhr für 20 Termine. In den **Sommermonaten Juli und August** finden **keine Termine statt**. Im **Dezember verschieben** sich die Termine auf den **ersten und zweiten Mittwoch** im Monat. Ein Einstieg in die laufende Selbsterfahungsgruppe ist nicht möglich. 
 
 **Termine:**
 
