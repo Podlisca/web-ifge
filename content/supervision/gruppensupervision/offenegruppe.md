@@ -40,15 +40,6 @@ In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Si
 #### Termine IFGE Wien: 
 {{< image src="/img/ifge_wien.jpg">}}
 
-**23.09.2023**<br/>
-von 16:00 bis 20:00 Uhr
-<br/> 
-<br/> 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 23.09.2023" >}}
-
-***
-
 **11.11.2023**<br/>
 von 16:00 bis 20:00 Uhr
 <br/> 

@@ -56,8 +56,8 @@ Das **Ziel** ist, Ihre persönlichen **Handlungsmöglichkeiten** und Ihr **Poten
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* pro Abend (Vorabüberweisung):€ 75,- <br/>
-* Monatszahlung (Vorabüberweisung): € 145,- <br/>
+* pro Modul (Vorabüberweisung):€ 75,- <br/>
+* monatliche Rate (Vorabüberweisung): € 145,- <br/>
 * Einmalzahlung: € 1.400,- <br/>
 
 Die Einmalzahlung wird sofort nach Anmeldung fällig und ist bis 15.12.2023 gültig.
