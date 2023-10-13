@@ -84,7 +84,7 @@ Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Ti
 
 ***
 
-# Beratungsraum Tiergestützte psychosoziale Beratung - Wien
+# Beratungsraum Tiergestützte Psychologische Beratung - Wien
 
 ...wenn Sie doch lieber in die Räumlichkeiten des IFGE in Wien kommen wollen
 

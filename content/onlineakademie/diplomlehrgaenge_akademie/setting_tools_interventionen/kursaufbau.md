@@ -67,7 +67,7 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 
 #### Auszug: Sexualberatung
 
-* Unterschied: psychosoziale Beratung/Paarberatung/Sexual-Paarberatung
+* Unterschied: Psychologische Beratung/Paarberatung/Sexual-Paarberatung
 * Erlaubnis gebende Interventionen zur Lustfindung
 * Reflexionsübung: Umgang mit Haltung und Absicht in der Beratung
 * Achtsame Kommunikation: Tool Schachbrett

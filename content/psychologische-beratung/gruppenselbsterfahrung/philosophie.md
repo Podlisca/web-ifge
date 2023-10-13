@@ -93,7 +93,7 @@ Die wertschätzende, herzliche, bewusste, professionelle und fachlich hochqualit
 {{% small %}}
 {{< image src="/img/beratung_tiere_noe.jpg" float="left" title="Bildbeschreibung" >}} 
 
-Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte psychosoziale Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
+Ein weiterer wesentlicher Teil meiner Philosophie am IFGE betrifft meine große Liebe zu den Tieren sowie die Achtung vor ihren großartigen Fähigkeiten im Umgang mit Menschen. Die zahlreichen Möglichkeiten, die sich durch die [tiergestützte Psychologische Beratung](https://ifge.at/psychologische-beratung/tiergestuetzteberatung/) für meine Klient\*innen ergeben, beeindrucken mich immer wieder nachhaltig. Durch die intensive Klient\*innen-Arbeit mit den Hunden und Katzen zeigt sich, wie ideal die Vierbeiner sich in ihre Rolle als Co-Berater\*in eingelebt haben. 
 
 Schon die bloße Anwesenheit der Tiere erzeugt bei meinen KlientInnen ein Gefühl der Sicherheit sowie eine heimelige, geborgene Atmosphäre, in welcher es häufig noch leichter fällt, sich die gerade belastenden Themen ruhig und gelassen anzusehen. 
 {{% /small %}}

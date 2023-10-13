@@ -8,9 +8,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 ---
 
 # Herzlich Willkommen am IFGE
-# Wien - Burgenland - Niederösterreich
-
-{{< slogan >}}
+# Wien & Burgenland 
 
 {{% banner img_position_x="85%" img_position_y="20%" alt="Silvia Podlisca" %}}
 
@@ -49,9 +47,9 @@ Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einze
 {{% box blue=1 more=1 %}}
 
 
-{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychosoziale Beratung">}}
+{{< card-more link="/diplomlehrgaenge/" icon="icon/beratung_schwarz.png" title="Psychologische Beratung">}}
 
-Im Zentrum der [psychologischen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) am [IFGE](https://ifge.at/about/institut/) steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der [Lebens- und Sozialberatung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/einzelberatung/)], die von [Krisen](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/spezialisierungen/krisenberatung/) über [Sexualität](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/spezialisierungen/sexualberatung/) bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit [Einzelberatungen](https://ifge.at/psychologische-beratung/systemische-einzelberatung/), [systemischer Aufstellung](https://ifge.at/gruppenselbsterfahrung/familienaufstellung/) oder [Selbsterfahrung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/einzelberatung/). 
+Im Zentrum der [psychologischen Beratung](https://ifge.at/psychologische-beratung/berufsbild/) am [IFGE](https://ifge.at/about/institut/) steht immer der individuelle Mensch mit seinen Bedürfnissen, Fragen und Herausforderungen. Entsprechend vielfältig sind die Themen in der [Lebens- und Sozialberatung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/einzelberatung/), die von [Krisen](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/spezialisierungen/krisenberatung/) über [Sexualität](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/spezialisierungen/sexualberatung/) bis hin zu Persönlichkeitsentwicklung reichen. Abhängig von den individuellen Zielen der Klient\*innen arbeiten wir methodisch mit [Einzelberatungen](https://ifge.at/psychologische-beratung/systemische-einzelberatung/), [systemischer Aufstellung](https://ifge.at/gruppenselbsterfahrung/familienaufstellung/) oder [Selbsterfahrung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/einzelberatung/). 
 
 [Verschaffen Sie sich einen Überblick über unsere Beratungsangebote](https://ifge.at/psychologische-beratung/berufsbild/)
 
@@ -67,12 +65,7 @@ Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundie
 {{< /card-more >}}
 
 
-{{< card-more link="/supervision/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Live-Kurse">}}
-Unsere Welt steht nicht still, sondern befindet sich in einem ständigen Wandel. Etwa durch die Digitalisierung, die auch für Aus- und Weiterbildungen neue Chancen eröffnet. Um unseren Kursteilnehmer\*innen mehr örtliche Flexibilität zu ermöglichen bieten wir am IFGE auch [Online-Live-Lehrgänge](https://ifge.at/online-ausbildungsangebote/) an. Hier werden Sie von erfahrenen Referent*innen begleitet und lernen in der Gruppe Neues, allerdings im virtuellen Raum. Dabei garantieren wir moderne und sichere digitale Technologien.
 
-[Verschaffen Sie sich einen Überblick über unsere Online-Live-Kurse](https://ifge.at/online-ausbildungsangebote/)
-
-{{< /card-more >}}
 
 
 {{< card-more link="/gruppenselbsterfahrung/philosophie/" icon="icon/online_ausbildungen.png" title="Online-Akademie">}}
@@ -104,10 +97,7 @@ Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die
 
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+
 
 {{% /small  %}}
 {{% /box %}}

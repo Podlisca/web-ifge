@@ -65,7 +65,7 @@ Denn die inneren Diskrepanzen gehören zum Menschsein dazu und beschäftigten pr
 
 Der Wunsch nach Zugehörigkeit ist uns Menschen angeboren und damit tief in uns verankert. Denn im Gegensatz zu anderen Lebewesen sind wir als Baby und auch noch als Kleinkind völlig abhängige Wesen. Dieser angeborene Wunsch nach Zugehörigkeit sichert uns Menschen damit das Überleben und ist somit existentiell. Gerade als homosexueller Mensch kann genau dieser Wunsch häufig zu inneren Unsicherheiten führen. Denn wo fühlen wir uns in einer heteronormativen Welt zugehörig, wenn wir uns aufgrund unserer Zweifel auch in der homosexuellen Community nicht Willkommen fühlen?
 
-Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all dem, was Sie als Mensch ausmacht und mit dem, was Sie beschäftigt. Psychosoziale Beratung bedeutet auch professionelle Unterstützung dabei, sich den eigenen widersprüchlichen Empfindungen bewusst zu werden und diese miteinander in Einklang zu bringen.
+Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all dem, was Sie als Mensch ausmacht und mit dem, was Sie beschäftigt. Psychologische Beratung bedeutet auch professionelle Unterstützung dabei, sich den eigenen widersprüchlichen Empfindungen bewusst zu werden und diese miteinander in Einklang zu bringen.
 
 {{% /floatbox %}}
 
@@ -77,7 +77,7 @@ Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all d
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Krise/Sucht/Burn-Out
-{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychosoziale Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
+{{< image src="/img/krise_noe.jpg" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an."title="Berufsbild Krise" >}}
 
 * [Krisenberatung](/psychologische-beratung/spezialisierungen/krisenberatung/)
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)

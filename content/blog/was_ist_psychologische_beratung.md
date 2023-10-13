@@ -1,14 +1,14 @@
 ---
-title: "Psychosoziale Beratung: Was genau ist denn das?"
+title: "Psychologische Beratung: Was genau ist denn das?"
 draft: false
 tags: ["Bildung", "Psychohygiene"]
 weight: 99
 img: "silvia_wien1.jpg"
 og_image: "/img/silvia_wien1.jpg"
-description: "Psychotherapie? Psychologie? Klinische Psychologie? Psychosoziale Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen! Hinter jedem steckt etwas anderes. Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier."
+description: "Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen! Hinter jedem steckt etwas anderes. Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier."
 ---
 
-Psychotherapie? Psychologie? Klinische Psychologie? Psychosoziale Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen!
+Psychotherapie? Psychologie? Klinische Psychologie? Psychologische Beratung? Psychiatrie? Hä? Es gibt so viele Gesundheitsangebote, die mit PSYCH beginnen!
 
 Hinter jedem steckt etwas anderes. Was genau das ist und wo die jeweiligen Stärken und Grenzen liegen, lesen Sie hier. Beratungs-, Therapie- und Arztangebote gibt es viele. Vor allem bei Worten, die mit PSYCH beginnen, ist die Verwirrung daher oftmals groß. Was ist jetzt was? Und wo bin ich am besten aufgehoben? Und was entspricht eher weniger dem, was ich mir an Hilfestellung erwarte? Die Fragen rund um den Bereich der psychologischen Angebote sind breit gefächert, denn die Begriffe klingen durchaus ähnlich. Wir haben daher hier für Sie einen übersichtlichen und umfassenden Überblick zusammengestellt, mit dem Sie in Zukunft diese Fragen für sich ganz einfach beantworten können.
 

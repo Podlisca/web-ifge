@@ -39,7 +39,7 @@ Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitione
 
 {{% small %}}
 
-**Psychosoziale Beratung und Coaching** setzt, wie der Name verrät, primär bei der **menschlichen Psyche** an. Bei individuellen Bedürfnissen, persönlichen Herausforderungen und menschlichen Konflikten. Doch der **Mensch ist ein komplexes System**, ein **Wechsel- und Zusammenspiel aus Körper, Seele und Geist**. Und daher wäre es zu einfach gedacht, die Psyche isoliert, nur für sich zu betrachten. Umso wichtiger, dass psychosoziale Berater\*innen und generell Menschen, die für und mit Menschen arbeiten, den **menschlichen Körper in Grundzügen** verstehen. 
+**Psychologische Beratung und Coaching** setzt, wie der Name verrät, primär bei der **menschlichen Psyche** an. Bei individuellen Bedürfnissen, persönlichen Herausforderungen und menschlichen Konflikten. Doch der **Mensch ist ein komplexes System**, ein **Wechsel- und Zusammenspiel aus Körper, Seele und Geist**. Und daher wäre es zu einfach gedacht, die Psyche isoliert, nur für sich zu betrachten. Umso wichtiger, dass psychosoziale Berater\*innen und generell Menschen, die für und mit Menschen arbeiten, den **menschlichen Körper in Grundzügen** verstehen. 
 
 Im Rahmen dieser **digitalen Weiterbildung** wird der **menschliche Körper einfach und verständlich erklärt**. Dein Nutzen liegt in einem **tieferen Verständnis** für **Wechselbeziehungen** und **Zusammenhänge**. Der Kurs ist Teil der IFGE-Online-Akademie. Das bedeutet, dass Inhalte zu **100% online** und daher örtlich und zeitlich flexibel erarbeitet werden können. 
 

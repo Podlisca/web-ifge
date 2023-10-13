@@ -34,7 +34,7 @@ Studien haben die positive Wirkung von Tieren auf uns Menschen bereits belegt: a
 {{% box more=1 blue=1 %}}
 {{< card-more link="" img="katzen_22.jpg" title="">}}
 
-#### WAS BEDEUTET TIERGESTÜTZTE PSYCHOSOZIALE BERATUNG?
+#### WAS BEDEUTET TIERGESTÜTZTE Psychologische Beratung?
 
 Das tiergestützte Coaching setzt auf die beruhigende und Vertrauen erweckende Wirkung von Tieren. In Gesprächen sowie in Übungen mit dem Tier werden gemeinsam mit den Klient\*innen Lösungsperspektiven entwickelt. Durch das Beobachten und den Umgang von Tieren wird Raum für die Weiterentwicklung der eigenen Persönlichkeit gegeben und dafür, im Erleben Neues zu erlernen. Es gibt bereits zahlreiche Studien, die beweisen, dass Tiere Menschen in ihrem Wachstum und ihrer Entwicklung fördern können. 
 
@@ -48,7 +48,7 @@ Sie sorgen dafür, dass das Leben wieder bunter und fröhlicher und somit gesün
 
 #### WAS BIETET UNSERE AUSBILDUNG?
 
-Der erfolgreiche Abschluss des Ausbildungslehrgang berechtigt diplomierte Lebens- und Sozialberater\*innen dazu, „Tiergestützte psychosoziale Beratung“ sowie „Tiergestützte Lebens- und Sozialberatung“ in Österreich anzubieten.
+Der erfolgreiche Abschluss des Ausbildungslehrgang berechtigt diplomierte Lebens- und Sozialberater\*innen dazu, „Tiergestützte Psychologische Beratung“ sowie „Tiergestützte Lebens- und Sozialberatung“ in Österreich anzubieten.
 
 Sollten Sie sich derzeit noch in Ausbildung zum/zur diplomierten LSB befinden, ist die Erweiterung der tiergestützten Arbeit selbstverständlich ebenso mit „in Ausbildung unter Supervision“ anzuführen.
 

@@ -12,7 +12,7 @@ description: "Der Juli hat den Juni abgelöst und damit das Pride Monat beendet.
 
 In unserem Blog widmen wir uns der Selbstfindung von LGBTIQ\* Menschen, also aller, die sich nicht als heterosexuell definieren, sondern als **l**esbisch, schwul (**g**ay), **b**isexuell, **t**ranssexuell, **i**ntersexuell oder **q**ueer. 
 
-Wir stellen uns die Frage, warum es Sichtbarkeit braucht und was die [psychosoziale Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) damit zu tun hat.
+Wir stellen uns die Frage, warum es Sichtbarkeit braucht und was die [Psychologische Beratung](https://www.ifge.at/psychologische-beratung/einzelberatung/) damit zu tun hat.
 
 ### Der Mensch als Teil eines Systems.
 Als Menschen sind wir Teil eines [Systems](https://www.ifge.at/gruppenselbsterfahrung/familienaufstellung/). Im Prinzip besteht unser ganzes Leben aus unterschiedlichen Systemen. Wir werden in eine Familie mit bestimmter Erziehung, Werten und Weltanschauungen hineingeboren. Wir kommen in die Schule und später in den Beruf, wo wir ebenfalls wieder mit Systemen konfrontiert sind und uns in diese einfügen. Und wir sind Teil unserer Gesellschaft, die uns ebenso auf bewusste und unbewusste Weise bestimmte Richtungen vorgibt. Warum aber reden wir über Systeme? Ganz einfach, weil wir als Teil dieser angenommen und akzeptiert werden wollen. Auch, wenn uns das nicht immer bewusst und gewiss jeder individuell ist, sind Anerkennung, Annahme und Zugehörigkeit menschliche Urbedürfnisse, die ganz tief in uns verankert sind. Wenn wir nun merken, dass wir nicht der Norm eines Systems entsprechen, aber dennoch (zwangsläufig) Teil davon sind, geraten wir häufig in einen [Konflikt](https://www.ifge.at/blog/konflikte/).

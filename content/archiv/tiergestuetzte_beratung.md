@@ -18,7 +18,7 @@ description: "Hier vereinen sich meine beiden Leidenschaften &amp; Ausbildungen 
 
 {{% floatbox %}}
 
-## TIERGESTÜTZTE PSYCHOSOZIALE BERATUNG
+## TIERGESTÜTZTE Psychologische Beratung
 
 {{< image src="/img/silvia_noe3.jpg" float="left" title="Bildbeschreibung" >}}
 

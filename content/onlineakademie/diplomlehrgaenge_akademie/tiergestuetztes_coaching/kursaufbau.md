@@ -39,7 +39,7 @@ weight: 1
 
 * Trainingsschwerpunkt der **Intensivwoche**: alle Fragen zum Lehrstoff & viel praktisches Üben mit Hunden.
 
-* Nach bestandener Prüfung bekommen Sie ein Jahr Mitgliedschaft im **[Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at)** gratis geschenkt. Das **Qualitätssiegel** zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Nach Absolvierung der Intensiv-Trainingswoche in Pinkafeld erhalten Sie drei Jahre Mitgliedschaft im [Berufsverband für tiergestützte psychosoziale Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt.Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
+* Nach bestandener Prüfung bekommen Sie ein Jahr Mitgliedschaft im **[Berufsverband für tiergestützte Psychologische Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at)** gratis geschenkt. Das **Qualitätssiegel** zeigt Ihren Klienten, dass Sie alle Voraussetzungen erfüllen um mit Tieren in der Praxis zu arbeiten. Nach Absolvierung der Intensiv-Trainingswoche in Pinkafeld erhalten Sie drei Jahre Mitgliedschaft im [Berufsverband für tiergestützte Psychologische Beratung BVTGPB](https://www.berufsverband-tiergestuetzteberatung.at) gratis geschenkt.Mehr Informationen zu den Vorteilen erhalten Sie [hier](https://www.berufsverband-tiergestuetzteberatung.at/mitglieder/mitglied_werden/).
 
 ***
 ## Auszug Kursinhalte
@@ -53,7 +53,7 @@ weight: 1
 #### Kick-off 
 #### Kursmaterial für eine Woche
 * Grundlagen der psychosozialen Beratung/Coaching
-* Das Setting: psychosoziale Beratung/Coaching
+* Das Setting: Psychologische Beratung/Coaching
 * Das Setting: psychologische Beratung Hunde & Katzen
 * Das Setting: psychologische Beratung Pferde
 * Historischer Hintergrund tiergestützter Interventionen

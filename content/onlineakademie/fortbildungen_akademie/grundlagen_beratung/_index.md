@@ -18,7 +18,7 @@ rich_faq:
 
 # Onlineausbildung: 
 # LERNE WANN DU WILLST, WO DU WILLST & ERHALTE INDIVIDUELLE BETREUUNG 
-## Schwerpunkt: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze.
+## Schwerpunkt: Psychologische Beratung & Coaching: Grundlagen & Grundsätze.
 {{< slogan >}}
 
 {{< line icon="icon/beratung.png" >}}
@@ -54,7 +54,7 @@ Dabei geht es um **zahlreiche Themen**, wie Kommunikation, Psychologie, Sexualit
 Am IFGE blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet daher auch Elemente und Videos anderer Online-Ausbildungen, wie zum Beispiel **[“Tiergestütztes Coaching„ ](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/)**, **["Klangschalen Practitioner"](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/)** oder **[ "Besonderheit Sexualberatung"](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools** und **neuen Impulsen**.
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychosoziale Beratung & Coaching: Grundlagen & Grundsätze. " >}}
+{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Psychologische Beratung & Coaching: Grundlagen & Grundsätze. " >}}
 
 {{< line icon="icon/beratung.png" >}}
 

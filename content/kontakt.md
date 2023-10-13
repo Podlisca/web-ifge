@@ -47,27 +47,9 @@ Bruckgasse 1<br/>
 7423 Pinkafeld 
 
 {{% /small %}}
+{{% /box  %}}
 
 
-{{% small %}}
-
-## IFGE - Niederösterreich
-***
-
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-***
-
-<iframe width="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=schneckgasse+4&amp;maptype=roadmap" allowfullscreen="true">
-</iframe>
-
-### IFGE Niederösterreich
-Schneckgasse 4 - 1<br/>
-3100 Sankt Pölten
-
-
-{{% /small %}}
-{{% /box %}}
 
 {{< line icon="icon/kontakt.png" >}}
 

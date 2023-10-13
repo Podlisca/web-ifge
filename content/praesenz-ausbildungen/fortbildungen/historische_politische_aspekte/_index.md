@@ -35,7 +35,7 @@ Wer die Vergangenheit versteht, kann die Zukunft gestalten. So ist es. Denn hist
 
 Gerade für psychosoziale Berater\*innen/Terapeuten\*innen ist es wichtig, politische, gesellschaftliche und ideologische Rahmenbedingungen der Vergangenheit zu kennen. Denn diese haben einen maßgeblichen Einfluss auf die Gegenwart. Wer das große Ganze sieht, kann menschliche Bedürfnisse, Bedenken und Krisen ganzheitlich und damit besser verstehen. 
 
-In dieser Ausbildung begeben wir uns auf die Spuren der Vergangenheit und erarbeiten historische, gesellschaftliche und politische Aspekte, welche für die psychosoziale Beratung/Therapie relevant sind und uns unterstützen, Klient\*innen noch systematischer zu begleiten. 
+In dieser Ausbildung begeben wir uns auf die Spuren der Vergangenheit und erarbeiten historische, gesellschaftliche und politische Aspekte, welche für die Psychologische Beratung/Therapie relevant sind und uns unterstützen, Klient\*innen noch systematischer zu begleiten. 
 
 
 **“Nur wer die Vergangenheit kennt – ohne zu urteilen –, kann systemisch erfolgreich arbeiten."**
