@@ -42,7 +42,7 @@ og_image: "/img/aufstellung_noe1.jpg"
 Dadurch werden **(Familien-) Verstrickungen gelöst**, Selbst- und Fremdwahrnehmung erfahren und entwickelt (wie nehme ich mich in der Gruppe wahr – wie werde ich wahrgenommen), **Potenziale (wie nehme ich mir was ich brauche) und Ressourcen entdeckt** sowie das eigene Handeln reflektiert.
 
 
-Das **Ziel** ist, Ihre persönlichen **Handlungsmöglichkeiten** und Ihr **Potenzial** im Alltag **deutlich zu erweitern** und zu **mehr Lebensfreude und Leichtigkeit** zu gelangen.
+Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Potenzial** im Alltag **deutlich zu erweitern** und zu **mehr Lebensfreude und Leichtigkeit** zu gelangen.
 
 {{% /small %}}
 </div> 
@@ -103,7 +103,7 @@ Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit 
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="AGB" >}}
-**Anmeldung:** Um Ihnen den Platz verbindlich zu reservieren, ist nach Anmeldung die erste Einheit (Betrag je nach gewählter Zahlungsmethode) sofort oder zu überweisen:
+**Anmeldung:** Um dir den Platz verbindlich zu reservieren, ist nach Anmeldung die erste Einheit (Betrag je nach gewählter Zahlungsmethode) sofort oder zu überweisen:
 
 Konto / Bank Austria<br/>
 Silvia Podlisca - IFGE<br/>
@@ -112,7 +112,7 @@ BIC: BKAUATWW
 
 **Schweigepflicht:** Bereits ab dem ersten Abend stimmst du der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf.
 
-**Stornobedingungen:** 1x darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen.
+**Stornobedingungen:** 1x darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen. Sollte die Einmalzahlung gewählt werden, wird der Betrag zurück überwiesen. 
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
