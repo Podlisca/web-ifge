@@ -96,13 +96,13 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
 
-* **Ausbildungskosten:€ 1.490,-** <br/>
+* **Ausbildungskosten:€ 1.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
 
 
-* **Ratenzahlung: € 1.980,-** <br/>
-€ 490,- Zahlung sofort nach Anmeldung. <br/>
-1.490 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 372,50 €.<br/>
+* **Ratenzahlung: € 2.450,-** <br/>
+€ 450,- Zahlung sofort nach Anmeldung. <br/>
+2.000 € - Restbetrag wird aufgeteilt auf 6 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 333,- €.<br/>
 
 * **Praktische Tage in Präsenz**  
 Kosten pro Tag: € 290,- <br/>
