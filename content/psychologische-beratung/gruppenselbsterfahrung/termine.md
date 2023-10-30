@@ -41,10 +41,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Eintagesseminare
 
 
-**14.10.2023** 10:00 - 16:00 Uhr</br>
-**04.11.2023** 10:00 - 16:00 Uhr</br>
-**08.11.2023** 09:30 - 13:30 Uhr</br>
-**10.11.2023** 14:00 - 20:00 Uhr</br>
 **24.11.2023** 14:00 - 20:00 Uhr</br>
 **06.12.2023** 09:30 - 13:30 Uhr</br>
 **18.12.2023** 14:00 - 20:30 Uhr</br>
