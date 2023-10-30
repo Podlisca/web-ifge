@@ -60,22 +60,35 @@ rich_faq:
 
 ## Weil Vergangenheit Zukunft mitgestaltet: Familienaufstellung mit Silvia Podlisca.
 
-{{< image src="/img/aufstllung_noe3.jpg" title="Familienaufstellung ist eine wirkungsvolle Methode, um kollektive Traumata aufzuarbeiten und Verständnis unter den einzelnen Familienmitgliedern zu erhalten. Silvia Podlisca - diplomierte Lebens- und Sozialberaterin – psychosoziale Beraterin, Aufstellungsleiterin, Sexualberaterin und Supervisorin, leitet seit über 20 Jahren Familienaufstellungen. Sie achtet bei all Ihren Arbeiten sehr genau darauf, dass alle Familienmitglieder mit Wertschätzung gesehen und gewürdigt werden und dass jedes Familienmitglied trägt und verantwortet, was es zu tragen und zu verantworten hat."float="left">}}
+
+<div class="box video">
+{{% small %}}
+
+{{< youtube fmXmn39H7Zs>}}
+
+##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
+
+{{% /small %}}
+
+{{% small %}}
+### Psychologische Beratung - der Weg in ein erfülltes Leben
+
 
 So unterschiedlich Lebenswege auch sind, eines haben alle Menschen gemeinsam: Sie sind geprägt durch Wurzeln und Herkunft. 
 
 Denn es ist die Familie, die uns als erste soziale Gruppe im Leben, Ideale vermittelt, Verhaltensweisen vorlebt und Erwartungen an uns stellt. Schon bald entsteht bei Kindern der Wunsch zur Familie dazuzugehören, angenommen, akzeptiert und geliebt zu werden. Kein Wunder, dass Familie damit auch häufig Ursprung von Selbstzweifeln, [Konflikten](https://www.ifge.at/blog/konflikte/) und [Traumata](https://www.ifge.at/blog/trauma_reaktivierung_retraumatisierung/) ist.  
 
-Familien als Einheit von Persönlichkeiten sind Systeme der Interaktion und Kommunikation. Systeme, in denen Wunden, Kränkungen,  Ängste und Konflikte nicht selten über Generationen weitergegeben werden. 
+{{% /small %}}
+
+</div> 
+
+**Familien als Einheit von Persönlichkeiten sind Systeme der Interaktion und Kommunikation. Systeme, in denen Wunden, Kränkungen,  Ängste und Konflikte nicht selten über Generationen weitergegeben werden.** 
 
 Systeme, in denen individuelle Bedürfnisse auf kollektive Erwartungen treffen. Damit ist klar: Unsere Vergangenheit gestaltet unsere Zukunft maßgeblich mit. Ein guter Weg, um Herkunft und damit uns selbst besser zu verstehen ist eine Familienaufstellung. Da auch Familien soziale Gruppen sind, eignet sich dafür insbesondere eine [Gruppenselbsterfahrung](https://www.ifge.at/gruppenselbsterfahrung/gruppenselbsterfahrung/), in der Dynamiken und Rollen demonstriert und reflektiert werden. 
 
 
 {{% silvia %}}
 
-{{% /floatbox %}}
-
-{{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -90,7 +103,9 @@ Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum ver
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{< image src="/img/aufstellung_noe1.jpg" float="right" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
+{{% floatbox %}}
+
+{{< image src="/img/aufstellung_noe1.jpg" float="left" title="Familienaufstellungen bringen Einsichten und Lösung von schweren, längst vergangenen Schicksalen in der Familie. Diese Schicksale haben unsere Eltern, Großeltern und Urgroßeltern geprägt und die Erfahrungen und Prägungen werden über Generationen weitergegeben. Oftmals sind es genau die Dinge, die wir nicht von unseren Eltern übernehmen wollen, jene die wir im späteren Erwachsenenalter an uns selbst erkennen. Dies erklärt sich durch unser Bindungssystem, welches für uns als Menschen überlebensnotwendig ist. Familienaufstellungen helfen, sich von destruktiven Verstrickungen zu befreien und führen hin zur befreiten Bindung zum Familiensystem" >}}
 
 Nur wenn jeder das gleiche Recht hat, dazuzugehören -- frei von Wertung und der Überheblichkeit, sich besser oder größer als eine ausgeschlossene oder ungeliebte Person zu fühlen –, empfindet sich die Sippe vollständig und in der sogenannten Familienseele kehrt Einklang und Frieden ein. 
 
@@ -100,13 +115,15 @@ Die Ausgeklammerten werden durch das Verhalten, Denken oder Empfinden der nächs
 
 Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sichert, ist der Versuch unseres inneren aber blinden Kindes, zu helfen. Das Kind trägt dabei so schwer und „übersieht“ dadurch, dass es den Vorfahren nichts abnehmen kann, sondern im Gegenteil – das Schicksal wiederholt und es damit nicht zur Ruhe bzw. in Frieden kommen lässt. Daraus entsteht zumeist das Gefühl: „Was ich auch mache, es ist nie genug, es ist immer falsch.“ Denn den eigenen Vorfahren zu helfen oder sie gar zu retten, ist noch nie gelungen! 
 
+{{% /floatbox %}}
+
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
 Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
-{{< image src="/img/brett_noch.jpg" float="left" title="Familienaufstellungen am Systembrett stellen eine wirkungsvolle Methode dar, um Einblicke in Verstrickungen zu erhalten, welch schon über Generationen wirken. Erkennen lassen sich solche Verstrickungen in dem sich zum Beispiel eine Häufung:  von Scheidungen, Krankheit, Unfällen, Kindersterblichkeit oder ähnlich Schwerem, in der Gegenwart zeigt. Familienaufstellungen zeigen neue Möglichkeiten der Integration der Schwere und bietet neue Perspektiven für die persönliche Zukunft." format="hoch" >}} 
+{{< image src="/img/brett_noch.jpg" float="right" title="Familienaufstellungen am Systembrett stellen eine wirkungsvolle Methode dar, um Einblicke in Verstrickungen zu erhalten, welch schon über Generationen wirken. Erkennen lassen sich solche Verstrickungen in dem sich zum Beispiel eine Häufung:  von Scheidungen, Krankheit, Unfällen, Kindersterblichkeit oder ähnlich Schwerem, in der Gegenwart zeigt. Familienaufstellungen zeigen neue Möglichkeiten der Integration der Schwere und bietet neue Perspektiven für die persönliche Zukunft." format="hoch" >}} 
 <br/>
 Aus diesem Grund befinden wir uns auch immer wieder heimlich im Einklang mit dem eigenen Unglück. Denn durch unser Unglück fühlen wir uns unbewusst mit einem Familienmitglied, das ein schweres Schicksal hatte, verbunden und der Familie zugehörig.
 
@@ -132,7 +149,6 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 {{< line icon="icon/termine.png" >}}
 
 # Termine
-
 {{% box blue=1 %}}
 {{% small  %}}
 
@@ -140,7 +156,7 @@ Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freita
 
 Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
 
-****  
+
 
 {{% /small  %}}
 {{% /box %}}
@@ -185,12 +201,10 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{% small  %}}
 #### Burgenland
+
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
+
 
 {{% /small  %}}
 {{% /box %}}
