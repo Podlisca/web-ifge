@@ -14,19 +14,19 @@ weight: 6
 
 {{< line icon="icon/termine.png" >}}
 
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig aunter der Woche statt.
 
-{{< line icon="icon/aufstellung.png" >}}
+
+
 {{% box blue=1 %}}
 {{% small  %}}
 
-## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
+Alle Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt.
 
-**Alle Familienaufstellungen finden immer unter meiner persönlichen Leitung statt. Silva Podlisca**
+Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise und AGB finden Sie hier: [Preise](https://www.ifge.at/gruppenselbsterfahrung/preise/) / [AGB](https://www.ifge.at/agb/)
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise finden Sie hier: [Preise](/gruppenselbsterfahrung/preise/)
+**Alle Familienaufstellungen finden immer unter der Leitung von Frau  Silva Podlisca statt**
+
 
 {{% /small  %}}
 {{% /box %}}
