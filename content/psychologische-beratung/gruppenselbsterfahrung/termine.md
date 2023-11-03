@@ -9,7 +9,7 @@ aliases:
     - "/gruppenselbsterfahrung/termine/"
 weight: 6
 ---
-# Termine
+# Termine: Familienaufstellungen mit Silvia Podlisca
 {{< slogan >}}
 
 {{< line icon="icon/termine.png" >}}
@@ -21,11 +21,11 @@ weight: 6
 {{% small  %}}
 
 
-Alle Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt.
+Alle Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig, sowohl unter der Woche wie auch am Wochenende, statt.
 
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise und AGB finden Sie hier: [Preise](https://www.ifge.at/gruppenselbsterfahrung/preise/) / [AGB](https://www.ifge.at/agb/)
 
-**Alle Familienaufstellungen finden immer unter der Leitung von Frau  Silva Podlisca statt**
+**Alle Familienaufstellungen finden immer unter der Leitung von Frau  Silva Podlisca statt.**
 
 
 {{% /small  %}}
@@ -80,8 +80,6 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 #### Eintagesseminare
 
 
-**23.10.2023**	14:00 - 20:00 Uhr</br>
-**02.11.2023**	14:00 - 20:00 Uhr</br>
 **09.11.2023**	14:00 - 20:00 Uhr</br>
 **06.12.2023**	09:30	13:30 Uhr</br>
 **04.12.2023**	14:00 - 20:00 Uhr</br>
@@ -102,28 +100,8 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 
 
 {{% /small  %}}
-
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-#### Eintagesseminare
-
-
-**10.12.2023**  10:00 - 16:00 Uhr</br>
-
-
-**Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
-**Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
-**Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
-
-
-
-{{% /small  %}}
 {{% /box %}}
+
 
 
 {{% box top-align=1 %}}
@@ -149,17 +127,14 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{< line icon="icon/bus.png" >}}
 {{% box blue=1 %}}
 {{% small  %}}
-**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
+**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/). Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
-
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
+Hier können Sie sich verbindlich anmelden:  [Anmeldung](https://www.ifge.at/anmeldung/)
 
 
 Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:innen anerkannt.
 
 {{% /small  %}}
 {{% /box  %}}
