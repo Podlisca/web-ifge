@@ -13,6 +13,5 @@
 
 export interface AnmeldeProdukt { 
     name?: string;
-    startdatum?: object;
 }
 

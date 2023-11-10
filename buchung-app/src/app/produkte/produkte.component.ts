@@ -1,8 +1,6 @@
 import { CommonModule } from '@angular/common';
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { AnmeldungService } from '../+core/gen';
-import { of } from 'rxjs';
-import { HttpClient } from '@angular/common/http';
 
 
 @Component({
@@ -14,7 +12,6 @@ import { HttpClient } from '@angular/common/http';
 })
 export class ProdukteComponent implements OnInit {
 
-  httpClient = inject(HttpClient)
   produkte$ = this.service.getAnmeldeProdukte();
 
   constructor(
@@ -22,7 +19,6 @@ export class ProdukteComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    console.log(this.httpClient.get(""))
   }
 
 }

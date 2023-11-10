@@ -1,9 +1,9 @@
-import { enableProdMode, importProvidersFrom } from '@angular/core';
+import { enableProdMode } from '@angular/core';
 import { createCustomElement } from '@angular/elements';
 import { bootstrapApplication, createApplication } from '@angular/platform-browser';
 import { AppComponent } from './app/app.component';
 
-import { HttpClientModule } from '@angular/common/http';
+import { provideHttpClient } from '@angular/common/http';
 import { environment } from './environments/environment';
 
 if (environment.production) {
@@ -15,7 +15,9 @@ if (!environment.production) {
   // for development mode only
   bootstrapApplication(AppComponent,
     {
-      providers: [importProvidersFrom(HttpClientModule)]
+      providers: [
+        provideHttpClient()
+      ]
     }
   );
 }
@@ -23,7 +25,7 @@ else {
   // get a hand on the `ApplicationRef` to access its injector
   createApplication({
     providers: [
-      importProvidersFrom(HttpClientModule)
+      provideHttpClient()
     ]
   }).then((appRef) => {
     // create a constructor of a custom element
