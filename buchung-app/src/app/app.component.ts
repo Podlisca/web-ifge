@@ -1,9 +1,9 @@
 import { BooleanInput, coerceBooleanProperty } from '@angular/cdk/coercion';
-import { CommonModule, DOCUMENT } from '@angular/common';
-import { AfterViewInit, Component, ElementRef, EventEmitter, Inject, Input, Output, Renderer2, ViewChild, ViewEncapsulation } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { Component, EventEmitter, Input, Output, ViewEncapsulation } from '@angular/core';
+import { AnmeldungComponent } from './anmeldung/anmeldung.component';
+import { ProdukteComponent } from './produkte/produkte.component';
 
-const RECAPTCHA_API = 'https://www.google.com/recaptcha/api.js';
-declare let grecaptcha: any;
 
 @Component({
   selector: 'app-root',
@@ -12,10 +12,12 @@ declare let grecaptcha: any;
   styleUrls: ['./app.component.css'],
   encapsulation: ViewEncapsulation.ShadowDom,
   imports: [
-    CommonModule
+    CommonModule,
+    AnmeldungComponent,
+    ProdukteComponent,
   ],
 })
-export class AppComponent implements AfterViewInit {
+export class AppComponent {
 
   _veranstaltungen: string[] = [];
   @Input() set veranstaltungen(val: string) {
@@ -43,49 +45,6 @@ export class AppComponent implements AfterViewInit {
   get expandable() { return this._expandable; }
   @Input() set expandable(value: BooleanInput) {
     this._expandable = coerceBooleanProperty(value);
-  }
-
-  expanded = false;
-
-  @ViewChild('cform') form!: ElementRef
-  @ViewChild('recaptchaResponse') recaptchaResponseField!: ElementRef
-
-  recaptchaResponse: string = "";
-
-  constructor(
-    private renderer: Renderer2,
-    @Inject(DOCUMENT) private document: Document) {
-  }
-
-  ngAfterViewInit(): void {
-    const scriptElement = this.loadJsScript(this.renderer, RECAPTCHA_API + "?render=" + this.recaptchaSiteKey);
-    scriptElement.onload = () => {
-
-      this.form.nativeElement.addEventListener('submit', (event: any) => {
-        event.preventDefault();
-        grecaptcha.ready(() => {
-          grecaptcha.execute(this.recaptchaSiteKey, { action: 'submit' }).then((token: any) => {
-            this.recaptchaResponseField.nativeElement.value = token;
-            // emit callback hook
-            this.anmeldung.emit();
-
-            this.form.nativeElement.submit();
-          });
-        });
-      });
-
-    }
-    scriptElement.onerror = () => {
-      console.log('Could not load the Google API Script!');
-    }
-  }
-
-  private loadJsScript(renderer: Renderer2, src: string): HTMLScriptElement {
-    const script = renderer.createElement('script');
-    script.type = 'text/javascript';
-    script.src = src;
-    renderer.appendChild(this.document.body, script);
-    return script;
   }
 
 }

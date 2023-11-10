@@ -7,6 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
+    "apigen": "openapi-generator-cli generate -g typescript-angular -i http://localhost:8080/openapi -o src/app/+core/gen --skip-validate-spec --type-mappings date=Date --type-mappings DateTime=Date",
+    "apigen-clear": "rm -r src/app/+core/gen",
     "el-build": "npm run el-build-task && npm run el-package-task",
     "el-build-task": "ng build app",
     "el-package-task": "cat ./dist/app/{polyfills*,runtime*,main*}.js > ../static/app/ifge-buchung.js"
