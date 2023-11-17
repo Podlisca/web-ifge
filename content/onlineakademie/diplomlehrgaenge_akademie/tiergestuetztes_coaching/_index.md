@@ -45,7 +45,12 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
+# **Aktion**: 
+## **–20% Code BLACKFRIDAY23**<br/> 
 
+(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
+
+***
 
 <div class="box video">
 {{% small %}}
@@ -125,6 +130,11 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+# **Aktion**: 
+## **–20% Code BLACKFRIDAY23**<br/> 
+
+(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -183,7 +193,13 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< /card-more >}}
 {{% /box %}}
 
+# **Aktion**: 
+## **–20% Code BLACKFRIDAY23**<br/> 
+
+(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
+
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -219,6 +235,20 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 {{% /small %}}
 
 </div>
+
+***
+## Du kannst sofort starten
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
+
+# **Aktion**: 
+## **–20% Code BLACKFRIDAY23**<br/> 
+
+(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
+
+{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+
 {{< line icon="icon/tiere.png" >}}
 
 ## Tiere in der Beratung / im Coaching
@@ -423,6 +453,10 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< /card-more >}}
 {{% /box %}}
 
+# **Aktion**: 
+## **–20% Code BLACKFRIDAY23**<br/> 
+
+(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
 
@@ -465,6 +499,13 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 
 **6. Gerichtstand:**
 Wien, Österreich
+***
+
+# **Aktion**: 
+## **–20% Code BLACKFRIDAY23**<br/> 
+
+(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
+
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
 
