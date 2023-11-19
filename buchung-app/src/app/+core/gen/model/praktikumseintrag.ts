@@ -15,7 +15,7 @@ import { Person } from './person';
 
 
 export interface Praktikumseintrag { 
-    datum?: object;
+    datum?: Date;
     typ?: Typ;
     person?: Person;
     einheiten?: number;

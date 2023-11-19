@@ -1,3 +1,30 @@
-<ul>
-    <li *ngFor="let produkt of produkte$ | async">{{ produkt.name }}</li>
-</ul>
+<ng-container *ngIf="singleday$ | async as singleday">
+    <ng-container *ngIf="singleday.length">
+        <h2>Einzeltag-Produkte</h2>
+        <mat-accordion>
+            <mat-expansion-panel *ngFor="let produkt of singleday">
+                <mat-expansion-panel-header>
+                    {{ produkt.name }}
+                </mat-expansion-panel-header>
+
+                <app-kauf [produkt]="produkt" />
+
+            </mat-expansion-panel>
+        </mat-accordion>
+    </ng-container>
+</ng-container>
+
+<ng-container *ngIf="multiday$ | async as multiday">
+    <ng-container *ngIf="multiday.length">
+        <h2>Mehrtages-Produkte</h2>
+        <mat-accordion>
+            <mat-expansion-panel *ngFor="let produkt of multiday">
+                <mat-expansion-panel-header>
+                    {{ produkt.name }}
+                </mat-expansion-panel-header>
+
+                <app-kauf [produkt]="produkt" />
+            </mat-expansion-panel>
+        </mat-accordion>
+    </ng-container>
+</ng-container>

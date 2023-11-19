@@ -14,8 +14,8 @@ import { Person } from './person';
 
 
 export interface Bereitschaft { 
-    startzeit?: object;
-    endzeit?: object;
+    startzeit?: Date;
+    endzeit?: Date;
     ort?: Ort;
     person?: Person;
     id?: number;

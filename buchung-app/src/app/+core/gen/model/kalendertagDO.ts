@@ -15,7 +15,7 @@ import { TerminDO } from './terminDO';
 
 export interface KalendertagDO { 
     name?: string;
-    datum?: object;
+    datum?: Date;
     termine?: Array<TerminDO>;
     raumbelegungen?: Array<Raumbelegung>;
 }

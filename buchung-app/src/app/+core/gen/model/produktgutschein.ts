@@ -18,8 +18,8 @@ export interface Produktgutschein {
     ue?: number;
     ust?: number;
     kategorien?: Array<Produktkategorie>;
-    gueltigVon?: object;
-    gueltigBis?: object;
+    gueltigVon?: Date;
+    gueltigBis?: Date;
     preise?: Array<Preis>;
     id?: number;
 }

@@ -18,7 +18,7 @@ export interface ThemaStats {
     modulId?: number;
     name?: string;
     status?: Unterrichtsstatus;
-    datum?: object;
+    datum?: Date;
     referent?: PersonNameDto;
 }
 

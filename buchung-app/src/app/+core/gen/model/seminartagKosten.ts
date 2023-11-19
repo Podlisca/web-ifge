@@ -16,7 +16,7 @@ export interface SeminartagKosten {
     referentId?: number;
     bezeichnung?: string;
     ue?: number;
-    datum?: object;
+    datum?: Date;
     kostenUe?: number;
     gesamtKosten?: number;
 }

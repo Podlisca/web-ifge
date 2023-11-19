@@ -29,8 +29,8 @@ export interface SeminartagInhalteDto {
     vorkommenGruppeAlle?: string;
     id?: number;
     datum?: string;
-    startzeit?: object;
-    endzeit?: object;
+    startzeit?: Date;
+    endzeit?: Date;
     semester?: number;
     vorgemerkt?: boolean;
     status?: SeminartagStatus;

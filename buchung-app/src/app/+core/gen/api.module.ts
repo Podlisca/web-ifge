@@ -3,7 +3,16 @@ import { Configuration } from './configuration';
 import { HttpClient } from '@angular/common/http';
 
 import { AnmeldungService } from './api/anmeldung.service';
+import { BuchhaltungService } from './api/buchhaltung.service';
 import { DefaultService } from './api/default.service';
+import { FakturierungService } from './api/fakturierung.service';
+import { PlanungService } from './api/planung.service';
+import { PruefungService } from './api/pruefung.service';
+import { ReferentService } from './api/referent.service';
+import { SchuelerService } from './api/schueler.service';
+import { TerminService } from './api/termin.service';
+import { UebungService } from './api/uebung.service';
+import { WebexService } from './api/webex.service';
 
 @NgModule({
   imports:      [],

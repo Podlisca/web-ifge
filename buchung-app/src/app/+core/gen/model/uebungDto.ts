@@ -10,14 +10,14 @@
  * Do not edit the class manually.
  */
 import { Status } from './status';
-import { PersonDto } from './personDto';
+import { PersonLsbDto } from './personLsbDto';
 import { Rolle } from './rolle';
 
 
 export interface UebungDto { 
     id?: number;
     rolle?: Rolle;
-    person?: PersonDto;
+    person?: PersonLsbDto;
     status?: Status;
 }
 

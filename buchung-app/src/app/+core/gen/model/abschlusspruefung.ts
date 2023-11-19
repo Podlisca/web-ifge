@@ -17,7 +17,7 @@ import { Diplomarbeit } from './diplomarbeit';
 export interface Abschlusspruefung { 
     person?: Person;
     produkt?: Produkt;
-    datum?: object;
+    datum?: Date;
     noteAnwesenheit?: number;
     notePraktisch?: number;
     noteTheoretisch?: number;

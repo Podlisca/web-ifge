@@ -35,7 +35,7 @@ export interface Anwesenheit {
     uebungen?: Array<Uebung>;
     rollenbuchungen?: Array<Rollenbuchung>;
     notiz?: string;
-    updateTs?: object;
+    updateTs?: Date;
     platzanfrage?: boolean;
     online?: boolean;
     id?: number;

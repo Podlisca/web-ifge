@@ -17,8 +17,8 @@ export interface InitSeminartageDO {
     endzeit?: object;
     ue?: number;
     referentId?: number;
-    startdatum?: object;
-    enddatum?: object;
+    startdatum?: Date;
+    enddatum?: Date;
     produktId?: number;
     monatstag?: number;
 }

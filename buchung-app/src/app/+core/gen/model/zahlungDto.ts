@@ -29,7 +29,7 @@ export interface ZahlungDto {
     personName?: string;
     rechnungspositionId?: number;
     rechnungsStatus?: RechnungStatus;
-    faelligkeit?: object;
+    faelligkeit?: Date;
     betrag?: number;
     betragInklRabatte?: number;
     summeRabatte?: number;

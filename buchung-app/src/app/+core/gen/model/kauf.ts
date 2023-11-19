@@ -23,8 +23,8 @@ export interface Kauf {
     preis?: Preis;
     zahlungen?: Array<Zahlung>;
     verrechnung?: any | null;
-    datum?: object;
-    storniertAm?: object;
+    datum?: Date;
+    storniertAm?: Date;
     gutschein?: number;
     id?: number;
 }

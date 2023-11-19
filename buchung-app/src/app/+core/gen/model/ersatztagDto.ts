@@ -17,8 +17,8 @@ export interface ErsatztagDto {
     warteliste?: boolean;
     id?: number;
     datum?: string;
-    startzeit?: object;
-    endzeit?: object;
+    startzeit?: Date;
+    endzeit?: Date;
     semester?: number;
     vorgemerkt?: boolean;
     status?: SeminartagStatus;

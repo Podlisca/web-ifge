@@ -19,8 +19,8 @@ import { AnwesenheitDto } from './anwesenheitDto';
 
 export interface SeminartagPlanungDto { 
     id?: number;
-    startzeit?: object;
-    endzeit?: object;
+    startzeit?: Date;
+    endzeit?: Date;
     semester?: number;
     status?: SeminartagStatus;
     produktName?: string;

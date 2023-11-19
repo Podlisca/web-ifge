@@ -11,16 +11,16 @@
  */
 import { RaumDto } from './raumDto';
 import { Status } from './status';
-import { PersonDto } from './personDto';
+import { PersonLsbDto } from './personLsbDto';
 
 
 export interface LsbPraktikumDto { 
     id?: number;
-    startzeit?: object;
-    endzeit?: object;
+    startzeit?: Date;
+    endzeit?: Date;
     status?: Status;
     raum?: RaumDto;
-    klient?: PersonDto;
-    berater?: PersonDto;
+    klient?: PersonLsbDto;
+    berater?: PersonLsbDto;
 }
 

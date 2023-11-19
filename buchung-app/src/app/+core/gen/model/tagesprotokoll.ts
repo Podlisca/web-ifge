@@ -15,8 +15,8 @@ import { Seminartag } from './seminartag';
 
 export interface Tagesprotokoll { 
     status?: ProtokollStatus;
-    updateTs?: object;
-    createTs?: object;
+    updateTs?: Date;
+    createTs?: Date;
     wuenscheAssistent?: string;
     wuenscheReferent?: string;
     vorkommenGruppeAlle?: string;

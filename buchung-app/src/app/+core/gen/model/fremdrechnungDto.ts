@@ -18,11 +18,11 @@ export interface FremdrechnungDto {
     text?: string;
     rechnungsnr?: string;
     bezahlt?: boolean;
-    faelligkeit?: object;
+    faelligkeit?: Date;
     betrag?: number;
     betragOffen?: number;
     referent?: PersonNameDto;
-    datum?: object;
+    datum?: Date;
     zahlungsausgaenge?: Array<Zahlungsausgang>;
 }
 

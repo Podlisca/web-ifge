@@ -13,7 +13,7 @@
 
 export interface Rechnungskontrolle { 
     rechnungsnr?: string;
-    faelligkeit?: object;
+    faelligkeit?: Date;
     fremdrechnungen?: Array<number>;
 }
 

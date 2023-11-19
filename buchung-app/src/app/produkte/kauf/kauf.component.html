@@ -1,0 +1,19 @@
+<h4>Termine</h4>
+<ul>
+  <li *ngFor="let tag of produkt?.seminartage">
+    {{ tag.datum }} {{ tag.startzeit | date: 'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+  </li>
+</ul>
+
+
+<h4>Preise</h4>
+<mat-radio-group class="preise" [(ngModel)]="preisId">
+  <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis.id">
+    {{ preis.name }} {{preis.betrag | currency}}
+  </mat-radio-button>
+</mat-radio-group>
+
+<br><br>
+<button mat-stroked-button (click)="kaufe()" [disabled]="!preisId">
+  Kaufen
+</button>

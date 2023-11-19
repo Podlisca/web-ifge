@@ -15,7 +15,9 @@ import { Produktkategorie } from './produktkategorie';
 import { OrtDto } from './ortDto';
 import { ProduktStatus } from './produktStatus';
 import { Rollenpaket } from './rollenpaket';
+import { ProduktTyp } from './produktTyp';
 import { Rollenmapping } from './rollenmapping';
+import { ProduktNameDto } from './produktNameDto';
 
 
 export interface ProduktDto { 
@@ -23,11 +25,15 @@ export interface ProduktDto {
     name?: string;
     status?: ProduktStatus;
     ort?: OrtDto;
-    starttag?: object;
+    starttag?: Date;
     ue?: number;
     stornofreieUe?: number;
     maxTeilnehmer?: number;
     einzelprodukt?: boolean;
+    gruppenprodukt?: boolean;
+    typ?: ProduktTyp;
+    parent?: ProduktNameDto;
+    vorlage?: boolean;
     preise?: Array<Preis>;
     rollenpakete?: Array<Rollenpaket>;
     rollenmapping?: Array<Rollenmapping>;

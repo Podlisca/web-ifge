@@ -9,14 +9,41 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Geschlecht } from './geschlecht';
+import { Adresse } from './adresse';
+import { Lehrberechtigung } from './lehrberechtigung';
+import { ProduktDto } from './produktDto';
+import { AppUserDto } from './appUserDto';
 
 
 export interface PersonDto { 
-    id?: number;
+    id: number;
+    titel?: string;
+    vorname: string;
+    nachname: string;
     name?: string;
+    geschlecht: PersonDto.GeschlechtEnum;
+    telefonPrivat?: string;
+    telefonGeschaeftlich?: string;
     email?: string;
-    tel?: string;
-    geschlecht?: Geschlecht;
+    geburtsdatum?: Date;
+    notiz?: string;
+    onlineFreigabe?: boolean;
+    lsbPraktikumFreigabe?: boolean;
+    benachrichtigung?: boolean;
+    appUser?: AppUserDto;
+    adresse?: Adresse;
+    rechnungsadresse?: Adresse;
+    lehrberechtigungen?: Array<Lehrberechtigung>;
+    produkte?: Array<ProduktDto>;
+    isSchueler: boolean;
 }
+export namespace PersonDto {
+    export type GeschlechtEnum = 'M' | 'W' | 'D';
+    export const GeschlechtEnum = {
+        M: 'M' as GeschlechtEnum,
+        W: 'W' as GeschlechtEnum,
+        D: 'D' as GeschlechtEnum
+    };
+}
+
 

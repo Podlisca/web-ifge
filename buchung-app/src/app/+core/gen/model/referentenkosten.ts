@@ -16,7 +16,7 @@ export interface Referentenkosten {
     personId?: number;
     seminartage?: Array<SeminartagKosten>;
     gesamtBetrag?: number;
-    stichtag?: object;
+    stichtag?: Date;
     betragOffen?: number;
 }
 

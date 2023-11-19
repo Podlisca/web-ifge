@@ -22,7 +22,7 @@ export interface NewsletterCampaign {
     segmentIds?: string;
     trackOpens?: number;
     trackClicks?: number;
-    gesendetAm?: object;
+    gesendetAm?: Date;
     contentJson?: string;
     template?: NewsletterTemplate;
     contentHtml?: string;

@@ -14,8 +14,8 @@ import { Type } from './type';
 
 export interface Meeting { 
     id?: string;
-    start?: object;
-    end?: object;
+    start?: Date;
+    end?: Date;
     timezone?: string;
     state?: string;
     meetingNumber?: string;

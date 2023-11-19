@@ -14,7 +14,7 @@ import { Fremdrechnung } from './fremdrechnung';
 
 
 export interface Zahlungsausgang { 
-    datum?: object;
+    datum?: Date;
     betrag?: number;
     art?: Zahlungsart;
     fremdrechnung?: Fremdrechnung;

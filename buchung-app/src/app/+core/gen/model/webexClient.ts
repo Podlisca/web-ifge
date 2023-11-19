@@ -20,10 +20,10 @@ export interface WebexClient {
     authBaseUrl?: string;
     redirectUrl?: string;
     accessToken?: string;
-    accessTokenExpire?: object;
+    accessTokenExpire?: Date;
     refreshToken?: string;
-    refreshTokenExpire?: object;
-    lastRefresh?: object;
+    refreshTokenExpire?: Date;
+    lastRefresh?: Date;
     devToken?: string;
     scope?: string;
     id?: number;

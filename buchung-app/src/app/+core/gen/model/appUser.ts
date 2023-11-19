@@ -15,11 +15,11 @@ import { Person } from './person';
 export interface AppUser { 
     username?: string;
     password?: string;
-    lastLogin?: object;
-    lastLoginAttempt?: object;
-    lastPasswordChange?: object;
-    gueltigBis?: object;
-    gueltigVon?: object;
+    lastLogin?: Date;
+    lastLoginAttempt?: Date;
+    lastPasswordChange?: Date;
+    gueltigBis?: Date;
+    gueltigVon?: Date;
     attemptCount?: number;
     person?: Person;
     rollen?: string;

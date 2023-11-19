@@ -14,7 +14,7 @@ import { Geschlecht } from './geschlecht';
 
 export interface Anmeldung { 
     id?: number;
-    datum?: object;
+    datum?: Date;
     anrede?: Geschlecht;
     vorname?: string;
     nachname?: string;

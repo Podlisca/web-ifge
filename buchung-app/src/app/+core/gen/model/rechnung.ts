@@ -17,17 +17,17 @@ import { Person } from './person';
 
 
 export interface Rechnung { 
-    datum?: object;
+    datum?: Date;
     nr?: number;
     status?: RechnungStatus;
-    zahlungsziel?: object;
+    zahlungsziel?: Date;
     nettoBetrag?: number;
     bruttoBetrag?: number;
     ursprungsRechnung?: any | null;
     debitor?: Person;
     kondition?: Rechnungskondition;
     text?: string;
-    zahlungsdatum?: object;
+    zahlungsdatum?: Date;
     zahlungsart?: Zahlungsart;
     positionen?: Array<Rechnungsposition>;
     id?: number;

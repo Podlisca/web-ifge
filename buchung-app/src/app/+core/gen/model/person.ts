@@ -34,7 +34,7 @@ export interface Person {
     telefonGeschaeftlich?: string;
     email?: string;
     titel?: string;
-    geburtsdatum?: object;
+    geburtsdatum?: Date;
     benachrichtigung?: boolean;
     onlineFreigabe?: boolean;
     lsbPraktikumFreigabe?: boolean;

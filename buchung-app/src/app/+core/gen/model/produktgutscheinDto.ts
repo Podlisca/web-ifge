@@ -19,8 +19,8 @@ export interface ProduktgutscheinDto {
     ue?: number;
     ust?: number;
     kategorien?: Array<Produktkategorie>;
-    gueltigVon?: object;
-    gueltigBis?: object;
+    gueltigVon?: Date;
+    gueltigBis?: Date;
     preise?: Array<Preis>;
     anwesenheiten?: Array<AnwesenheitMitSeminartagDto>;
     verbrauch?: number;

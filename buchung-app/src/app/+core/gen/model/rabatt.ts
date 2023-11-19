@@ -19,8 +19,8 @@ export interface Rabatt {
     code?: string;
     person?: Person;
     maxVerwendung?: number;
-    gueltigVon?: object;
-    gueltigBis?: object;
+    gueltigVon?: Date;
+    gueltigBis?: Date;
     kategorien?: Array<Produktkategorie>;
     id?: number;
 }

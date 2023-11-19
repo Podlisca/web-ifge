@@ -16,6 +16,7 @@ import { Seminartag } from './seminartag';
 import { ProduktMailKategorie } from './produktMailKategorie';
 import { ProduktStatus } from './produktStatus';
 import { Rollenpaket } from './rollenpaket';
+import { ProduktTyp } from './produktTyp';
 import { Rollenmapping } from './rollenmapping';
 import { Lehrplan } from './lehrplan';
 
@@ -23,13 +24,15 @@ import { Lehrplan } from './lehrplan';
 export interface Produkt { 
     name?: string;
     status?: ProduktStatus;
-    einzelprodukt?: boolean;
+    typ?: ProduktTyp;
     ue?: number;
     maxTeilnehmer?: number;
     stornofreieUe?: number;
     zertifizierungsNr?: string;
-    starttag?: object;
+    starttag?: Date;
     anwesenheitsquote?: number;
+    vorlage?: boolean;
+    parent?: any | null;
     ort?: Ort;
     lehrplan?: Lehrplan;
     mailKategorie?: ProduktMailKategorie;

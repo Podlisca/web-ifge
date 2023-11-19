@@ -14,7 +14,7 @@ import { Person } from './person';
 
 
 export interface Beratungsprotokoll { 
-    datum?: object;
+    datum?: Date;
     schuelerKlient?: SchuelerKlient;
     erstgespraech?: boolean;
     thema?: string;

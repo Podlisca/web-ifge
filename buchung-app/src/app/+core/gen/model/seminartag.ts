@@ -25,7 +25,7 @@ import { Gespraechsprotokoll } from './gespraechsprotokoll';
 
 
 export interface Seminartag { 
-    datum?: object;
+    datum?: Date;
     status?: SeminartagStatus;
     startzeit?: object;
     endzeit?: object;

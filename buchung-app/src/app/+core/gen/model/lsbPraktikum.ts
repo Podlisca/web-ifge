@@ -16,8 +16,8 @@ import { Person } from './person';
 
 export interface LsbPraktikum { 
     status?: Status;
-    startzeit?: object;
-    endzeit?: object;
+    startzeit?: Date;
+    endzeit?: Date;
     klient?: Person;
     berater?: Person;
     raum?: Raum;

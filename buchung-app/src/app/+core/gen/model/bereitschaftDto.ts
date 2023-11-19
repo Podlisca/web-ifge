@@ -9,14 +9,14 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { PersonDto } from './personDto';
+import { PersonLsbDto } from './personLsbDto';
 
 
 export interface BereitschaftDto { 
     id?: number;
-    startzeit?: object;
-    endzeit?: object;
-    person?: PersonDto;
+    startzeit?: Date;
+    endzeit?: Date;
+    person?: PersonLsbDto;
     ortName?: string;
     ortId?: number;
 }

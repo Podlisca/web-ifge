@@ -22,7 +22,7 @@ export interface KaufNeuDto {
     verrechnungsId?: number;
     personId?: number;
     preis?: Preis;
-    datum?: object;
+    datum?: Date;
     rabatt?: number;
     zahlungen?: Array<Zahlung>;
     anwesenheitenZubuchen?: boolean;

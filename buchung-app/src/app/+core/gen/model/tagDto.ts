@@ -18,7 +18,7 @@ export interface TagDto {
     typ?: Typ;
     abk?: string;
     bundesland?: string;
-    datum?: object;
+    datum?: Date;
     gesetzlich?: boolean;
 }
 

@@ -21,12 +21,12 @@ export interface KaufDto {
     produktgutschein?: ProduktgutscheinDto;
     personId?: number;
     preis?: Preis;
-    datum?: object;
+    datum?: Date;
     betragInklRabatte?: number;
     rabatt?: number;
     gutschein?: number;
     zahlungen?: Array<Zahlung>;
     verrechnung?: any | null;
-    storniertAm?: object;
+    storniertAm?: Date;
 }
 

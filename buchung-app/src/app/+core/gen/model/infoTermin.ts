@@ -15,7 +15,7 @@ import { OrtDef } from './ortDef';
 export interface InfoTermin { 
     id?: number;
     name?: string;
-    datum?: object;
+    datum?: Date;
     startzeit?: object;
     endzeit?: object;
     ort?: OrtDef;

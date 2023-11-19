@@ -9,7 +9,7 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { PersonDto } from './personDto';
+import { PersonLsbDto } from './personLsbDto';
 import { Unterrichtsstatus } from './unterrichtsstatus';
 
 
@@ -18,7 +18,7 @@ export interface UnterrichtsthemaDto {
     themaName?: string;
     status?: Unterrichtsstatus;
     datum?: string;
-    referent?: PersonDto;
+    referent?: PersonLsbDto;
     seminartagId?: number;
 }
 

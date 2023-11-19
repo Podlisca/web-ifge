@@ -18,7 +18,7 @@ export interface PeerGroup {
     name?: string;
     status?: Status;
     ort?: string;
-    datum?: object;
+    datum?: Date;
     maxTeilnehmer?: number;
     startzeit?: object;
     endzeit?: object;

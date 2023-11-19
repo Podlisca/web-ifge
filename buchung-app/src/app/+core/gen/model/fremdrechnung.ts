@@ -14,11 +14,11 @@ import { Person } from './person';
 
 
 export interface Fremdrechnung { 
-    datum?: object;
+    datum?: Date;
     text?: string;
     rechnungsnr?: string;
     bezahlt?: boolean;
-    faelligkeit?: object;
+    faelligkeit?: Date;
     betrag?: number;
     zahlungsausgaenge?: Array<Zahlungsausgang>;
     referent?: Person;

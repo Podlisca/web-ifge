@@ -12,8 +12,8 @@
 
 
 export interface LehrberechtigungNeuDto { 
-    von?: object;
-    bis?: object;
+    von?: Date;
+    bis?: Date;
     preis?: number;
     module?: Array<number>;
 }

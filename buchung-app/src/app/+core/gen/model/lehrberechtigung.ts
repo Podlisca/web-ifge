@@ -14,8 +14,8 @@ import { Person } from './person';
 
 
 export interface Lehrberechtigung { 
-    anfang?: object;
-    ende?: object;
+    anfang?: Date;
+    ende?: Date;
     modul?: Modul;
     preis?: number;
     person?: Person;

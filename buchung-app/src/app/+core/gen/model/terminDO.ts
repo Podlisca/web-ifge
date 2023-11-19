@@ -17,7 +17,7 @@ import { LsbPraktikumDto } from './lsbPraktikumDto';
 
 
 export interface TerminDO { 
-    datum?: object;
+    datum?: Date;
     startzeit?: object;
     endzeit?: object;
     ort?: Ort;

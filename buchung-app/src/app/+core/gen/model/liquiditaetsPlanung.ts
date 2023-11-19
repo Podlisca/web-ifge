@@ -14,7 +14,7 @@ import { AnwesenheitDto } from './anwesenheitDto';
 
 
 export interface LiquiditaetsPlanung { 
-    month: object;
+    month: Date;
     einnahmen?: Array<ZahlungDto>;
     ausgaben?: Array<AnwesenheitDto>;
     summeEinnahmen?: number;

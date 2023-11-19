@@ -13,7 +13,7 @@ import { ZahlungDto } from './zahlungDto';
 
 
 export interface MonatZahlungDto { 
-    datum?: object;
+    datum?: Date;
     zahlungen?: Array<ZahlungDto>;
     summeOffen?: number;
     summe?: number;

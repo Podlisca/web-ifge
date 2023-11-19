@@ -13,8 +13,8 @@ import { KalendertagDO } from './kalendertagDO';
 
 
 export interface KalenderwocheDO { 
-    anfang?: object;
-    ende?: object;
+    anfang?: Date;
+    ende?: Date;
     kw?: number;
     kalendertage?: Array<KalendertagDO>;
 }

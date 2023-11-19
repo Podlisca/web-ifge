@@ -9,20 +9,20 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Produkt } from './produkt';
 import { Produktgutschein } from './produktgutschein';
+import { Rolle } from './rolle';
 import { Zahlungsvereinbarung } from './zahlungsvereinbarung';
 
 
 export interface Preis { 
     name?: string;
-    produkt?: Produkt;
     gutschein?: Produktgutschein;
+    rolle?: Rolle;
     betrag?: number;
     anzahlung?: number;
     freigabeExtern?: boolean;
-    gueltigVon?: object;
-    gueltigBis?: object;
+    gueltigVon?: Date;
+    gueltigBis?: Date;
     ust?: number;
     zahlungsvereinbarung?: Zahlungsvereinbarung;
     id?: number;

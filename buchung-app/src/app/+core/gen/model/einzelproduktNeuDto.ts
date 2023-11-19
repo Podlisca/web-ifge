@@ -18,7 +18,7 @@ export interface EinzelproduktNeuDto {
     seminartagId?: number;
     ortId?: number;
     stunden?: number;
-    datum?: object;
+    datum?: Date;
     startzeit?: object;
     endzeit?: object;
     kommentar?: string;

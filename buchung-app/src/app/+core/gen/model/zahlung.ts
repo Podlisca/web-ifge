@@ -16,8 +16,8 @@ import { Rechnungsposition } from './rechnungsposition';
 
 
 export interface Zahlung { 
-    faelligkeit?: object;
-    zahlungsdatum?: object;
+    faelligkeit?: Date;
+    zahlungsdatum?: Date;
     text?: string;
     betrag?: number;
     rabatte?: Array<Rabatt>;
