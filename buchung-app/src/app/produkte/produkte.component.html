@@ -11,8 +11,10 @@
                     </div>
                     <div>{{s.title}}</div>
 
-                    <app-termin [termin]="t" *ngFor="let t of s.produkte" (onSelect)="onSelect($event)"
-                        [class.selected]="t.id === selection" />
+                    <div>
+                        <app-termin [termin]="t" *ngFor="let t of s.produkte" (onSelect)="onSelect($event)"
+                            [class.selected]="t.id === selection" />
+                    </div>
                 </div>
             </div>
         </ng-container>
