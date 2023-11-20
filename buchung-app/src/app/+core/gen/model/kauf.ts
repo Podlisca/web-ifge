@@ -24,6 +24,7 @@ export interface Kauf {
     zahlungen?: Array<Zahlung>;
     verrechnung?: any | null;
     datum?: Date;
+    ts?: Date;
     storniertAm?: Date;
     gutschein?: number;
     id?: number;

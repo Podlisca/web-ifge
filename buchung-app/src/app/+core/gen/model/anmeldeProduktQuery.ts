@@ -14,5 +14,6 @@
 export interface AnmeldeProduktQuery { 
     produktNamen?: Array<string>;
     vorlagenNamen?: Array<string>;
+    lehrplaene?: Array<string>;
 }
 

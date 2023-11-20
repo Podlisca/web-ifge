@@ -1,0 +1,18 @@
+<button class="termin" (click)="select()" [disabled]="!termin.freiePlaetze">
+    <div class="cont">
+        <div class="mobile-only">
+            <mat-icon>event</mat-icon>
+        </div>
+        <div>
+            <div>{{termin.startdatum | date: 'fullDate'}}</div>
+            <!--<div>{{termin.startzeit.substring(0, 5)}} - {{termin.endzeit.substring(0, 5)}} Uhr</div>-->
+            <div class="status" [ngSwitch]="termin.freiePlaetze">
+                <span *ngSwitchCase="0">ausgebucht</span>
+                <span *ngSwitchCase="1">nur noch 1 freier Platz</span>
+                <span *ngSwitchCase="2">nur noch 2 freie Plätze</span>
+                <span *ngSwitchCase="3">nur noch 3 freie Plätze</span>
+                <span *ngSwitchDefault>noch freie Plätze</span>
+            </div>
+        </div>
+    </div>
+</button>

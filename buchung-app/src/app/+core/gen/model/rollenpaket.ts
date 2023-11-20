@@ -9,14 +9,12 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Produkt } from './produkt';
 import { Rolle } from './rolle';
 
 
 export interface Rollenpaket { 
     rolle?: Rolle;
     ue?: number;
-    produkt?: Produkt;
     id?: number;
 }
 

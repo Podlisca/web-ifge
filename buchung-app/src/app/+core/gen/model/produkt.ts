@@ -36,9 +36,9 @@ export interface Produkt {
     ort?: Ort;
     lehrplan?: Lehrplan;
     mailKategorie?: ProduktMailKategorie;
+    seminartage?: Array<Seminartag>;
     kategorien?: Array<Produktkategorie>;
     rollenpakete?: Array<Rollenpaket>;
-    seminartage?: Array<Seminartag>;
     preise?: Array<Preis>;
     rollenmapping?: Array<Rollenmapping>;
     id?: number;

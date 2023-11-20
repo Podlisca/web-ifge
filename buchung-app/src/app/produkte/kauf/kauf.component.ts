@@ -27,10 +27,10 @@ export class KaufComponent implements OnInit {
 
   kaufe() {
     const kauf: Produktkauf = {
-      email: "asd@leichtware.at",
+      email: "asd12@leichtware.at",
       produktId: this.produkt?.id,
       preisId: this.preisId,
-      vorname: "Roman",
+      vorname: "Antje",
       nachname: "Stimpfl",
       geschlecht: 'M'
     }

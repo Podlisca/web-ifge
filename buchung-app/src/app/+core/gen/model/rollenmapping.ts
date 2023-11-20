@@ -10,12 +10,10 @@
  * Do not edit the class manually.
  */
 import { Kontingenttyp } from './kontingenttyp';
-import { Produkt } from './produkt';
 import { Rolle } from './rolle';
 
 
 export interface Rollenmapping { 
-    produkt?: Produkt;
     rolle?: Rolle;
     ziel1?: Kontingenttyp;
     ziel2?: Kontingenttyp;

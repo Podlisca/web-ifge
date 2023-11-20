@@ -1,0 +1,28 @@
+:host {
+    display: block;
+    padding: 2px 0;
+}
+
+:host.selected button {
+    background-color: var(--ltw-color-termin-selected);
+    color: white;
+}
+
+button {
+    width: 100%;
+    line-height: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button .cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.termin .status {
+    font-weight: normal;
+}

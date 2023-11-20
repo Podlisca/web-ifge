@@ -1,4 +1,30 @@
-<ng-container *ngIf="singleday$ | async as singleday">
+<ng-container *ngIf="vm$ | async as vm">
+    <div id="selection-container">
+        <ng-container *ngFor="let s of vm" class="ort">
+            <div class="location" [style.color]="config.color_bundesland">
+                Ort {{s.ort}}
+            </div>
+            <div class="content" [style.background-color]="config.color_termin">
+                <div class="group">
+                    <div class="desktop-only">
+                        <mat-icon>event</mat-icon>
+                    </div>
+                    <div>{{s.title}}</div>
+
+                    <app-termin [termin]="t" *ngFor="let t of s.produkte" (onSelect)="onSelect($event)"
+                        [class.selected]="t.id === selection" />
+                </div>
+            </div>
+        </ng-container>
+    </div>
+</ng-container>
+
+
+
+
+
+
+<!--<ng-container *ngIf="singleday$ | async as singleday">
     <ng-container *ngIf="singleday.length">
         <h2>Einzeltag-Produkte</h2>
         <mat-accordion>
@@ -27,4 +53,4 @@
             </mat-expansion-panel>
         </mat-accordion>
     </ng-container>
-</ng-container>
+</ng-container>-->

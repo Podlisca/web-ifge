@@ -16,6 +16,9 @@ import { SeminartagDto } from './seminartagDto';
 export interface AnmeldeProdukt { 
     id?: number;
     name?: string;
+    vorlage?: string;
+    lehrplan?: string;
+    ort?: string;
     startdatum?: Date;
     preise?: Array<Preis>;
     seminartage?: Array<SeminartagDto>;

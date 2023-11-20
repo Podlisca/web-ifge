@@ -11,7 +11,7 @@
  */
 
 
-export type Rolle = 'REFERENT' | 'BEISITZER' | 'TEILNEHMER' | 'TEILNEHMER_ON' | 'SEMINARBEGLEITUNG' | 'SEMINARBEGLEITUNG_ON' | 'FACHLICH' | 'KLIENT' | 'KLIENT_PLUS' | 'BERATER' | 'BEOBACHTER';
+export type Rolle = 'REFERENT' | 'BEISITZER' | 'TEILNEHMER' | 'TEILNEHMER_ON' | 'SEMINARBEGLEITUNG' | 'SEMINARBEGLEITUNG_ON' | 'FACHLICH' | 'KLIENT' | 'KLIENT_PLUS' | 'LEITUNG' | 'BEOBACHTER';
 
 export const Rolle = {
     Referent: 'REFERENT' as Rolle,
@@ -23,7 +23,7 @@ export const Rolle = {
     Fachlich: 'FACHLICH' as Rolle,
     Klient: 'KLIENT' as Rolle,
     KlientPlus: 'KLIENT_PLUS' as Rolle,
-    Berater: 'BERATER' as Rolle,
+    Leitung: 'LEITUNG' as Rolle,
     Beobachter: 'BEOBACHTER' as Rolle
 };
 
