@@ -5,7 +5,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { map } from 'rxjs';
 import { AnmeldeProdukt, AnmeldeProduktQuery, AnmeldungService } from '../+core/gen';
 import { KaufComponent } from './kauf/kauf.component';
-import { config } from '../app.config';
+import { defaultConfig } from '../app.config';
 import { lehrplaene } from '../+core/data/lehrplaene';
 import { TerminComponent } from './termin/termin.component';
 
@@ -24,7 +24,7 @@ interface View {
 })
 export class ProdukteComponent implements OnInit {
 
-  config = config;
+  config = defaultConfig;
 
   selection?: number;
 
@@ -54,28 +54,32 @@ export class ProdukteComponent implements OnInit {
           const v: View = ({
             title: p.name!,
             produkte: [p],
-            ort: "Ortname"
+            ort: p.ort ?? "Produkt"
           });
           return v;
         });
       vm.push(...byName);
 
       this.query.vorlagenNamen?.forEach(vorlage => {
-        const byVorlage = arr.filter(p => p.vorlage == vorlage);
-        vm.push({
-          title: vorlage,
-          produkte: byVorlage,
-          ort: "Online"
-        });
+        const byVorlage = arr.filter(p => p.vorlage === vorlage);
+        if (byVorlage.length) {
+          vm.push({
+            title: vorlage,
+            produkte: byVorlage,
+            ort: byVorlage[0].ort ?? "Produkttyp"
+          });
+        }
       });
 
       this.query.lehrplaene?.forEach(lp => {
-        const byLehrplan = arr.filter(p => !!p.lehrplan);
-        vm.push({
-          title: lp,
-          produkte: byLehrplan,
-          ort: "Wien"
-        });
+        const byLehrplan = arr.filter(p => p.lehrplan === lp);
+        if (byLehrplan.length) {
+          vm.push({
+            title: lp,
+            produkte: byLehrplan,
+            ort: byLehrplan[0].ort ?? "Lehrplan"
+          });
+        }
       })
 
       return this.groupBy(vm, "ort");
@@ -89,8 +93,8 @@ export class ProdukteComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  onSelect(event: any) {
-
+  onSelect(event: AnmeldeProdukt) {
+    this.selection = event.id;
   }
 
   private groupBy(xs: any, key: string): { [key: string]: View[] } {
