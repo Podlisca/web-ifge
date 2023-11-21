@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, Output, ViewEncapsulation } from '@angular/core';
 import { AnmeldungComponent } from './anmeldung/anmeldung.component';
 import { ProdukteComponent } from './produkte/produkte.component';
+import { MatButtonModule } from '@angular/material/button';
 
 
 @Component({
@@ -10,11 +11,12 @@ import { ProdukteComponent } from './produkte/produkte.component';
   standalone: true,
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  // encapsulation: ViewEncapsulation.ShadowDom,
   imports: [
     CommonModule,
     AnmeldungComponent,
     ProdukteComponent,
+    MatButtonModule
   ],
 })
 export class AppComponent {

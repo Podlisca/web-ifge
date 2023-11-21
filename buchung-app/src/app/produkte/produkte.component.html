@@ -1,18 +1,14 @@
 <ng-container *ngIf="vm$ | async as vm">
     <div id="selection-container">
-        <ng-container *ngFor="let s of vm" class="ort">
+        <ng-container *ngFor="let s of vm | keyvalue" class="ort">
             <div class="location" [style.color]="config.color_bundesland">
-                Ort {{s.ort}}
+                {{s.value[0].ort}}
             </div>
             <div class="content" [style.background-color]="config.color_termin">
-                <div class="group">
-                    <div class="desktop-only">
-                        <mat-icon>event</mat-icon>
-                    </div>
-                    <div>{{s.title}}</div>
-
+                <div class="group" *ngFor="let p of s.value">
+                    <div class="title"> {{p.title}}</div>
                     <div>
-                        <app-termin [termin]="t" *ngFor="let t of s.produkte" (onSelect)="onSelect($event)"
+                        <app-termin [termin]="t" *ngFor="let t of p.produkte" (onSelect)="onSelect($event)"
                             [class.selected]="t.id === selection" />
                     </div>
                 </div>

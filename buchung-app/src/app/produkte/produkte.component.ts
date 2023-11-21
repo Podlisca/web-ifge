@@ -10,8 +10,8 @@ import { lehrplaene } from '../+core/data/lehrplaene';
 import { TerminComponent } from './termin/termin.component';
 
 interface View {
-  title: string,
   ort: string,
+  title: string,
   produkte: AnmeldeProdukt[]
 }
 
@@ -78,7 +78,7 @@ export class ProdukteComponent implements OnInit {
         });
       })
 
-      return vm;
+      return this.groupBy(vm, "ort");
     })
   )
 
@@ -91,5 +91,12 @@ export class ProdukteComponent implements OnInit {
 
   onSelect(event: any) {
 
+  }
+
+  private groupBy(xs: any, key: string): { [key: string]: View[] } {
+    return xs.reduce(function (rv: any, x: any) {
+      (rv[x[key]] = rv[x[key]] || []).push(x);
+      return rv;
+    }, {});
   }
 }

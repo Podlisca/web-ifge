@@ -1,13 +1,13 @@
+import { registerLocaleData } from '@angular/common';
+import { provideHttpClient } from '@angular/common/http';
+import de from "@angular/common/locales/de";
 import { DEFAULT_CURRENCY_CODE, LOCALE_ID, enableProdMode } from '@angular/core';
 import { createCustomElement } from '@angular/elements';
-import { bootstrapApplication, createApplication } from '@angular/platform-browser';
-import { AppComponent } from './app/app.component';
-import de from "@angular/common/locales/de";
-import { provideHttpClient } from '@angular/common/http';
-import { environment } from './environments/environment';
-import { provideAnimations } from '@angular/platform-browser/animations';
 import { MAT_DATE_LOCALE } from '@angular/material/core';
-import { registerLocaleData } from '@angular/common';
+import { bootstrapApplication, createApplication } from '@angular/platform-browser';
+import { provideAnimations } from '@angular/platform-browser/animations';
+import { AppComponent } from './app/app.component';
+import { environment } from './environments/environment';
 
 if (environment.production) {
   enableProdMode();
