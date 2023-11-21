@@ -49,3 +49,7 @@ else {
     customElements.define('ifge-buchung', buchung);
   });
 }
+
+declare global {
+  interface Window { lwrData: any[]; }
+}

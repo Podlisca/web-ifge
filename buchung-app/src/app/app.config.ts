@@ -19,7 +19,7 @@ export enum LwrBookingEvent {
 }
 
 // default ifge config
-export const config: LwrConfig = {
+export const defaultConfig: LwrConfig = {
     color_hintergrund: "#fcf5ee",
     color_bundesland: "#a34d5d",
     color_termin: "rgba(255,255,255,0.65)",

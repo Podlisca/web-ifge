@@ -1,8 +1,8 @@
-<button class="termin" (click)="select()" [disabled]="!termin.freiePlaetze">
+<button class="termin" (click)="select()" [disabled]="!produkt.freiePlaetze">
     <div class="cont">
-        <div>{{termin.startdatum | date: 'fullDate'}}</div>
+        <div>{{produkt.startdatum | date: 'fullDate'}}</div>
         <!--<div>{{termin.startzeit.substring(0, 5)}} - {{termin.endzeit.substring(0, 5)}} Uhr</div>-->
-        <div class="status" [ngSwitch]="termin.freiePlaetze">
+        <div class="status" [ngSwitch]="produkt.freiePlaetze">
             <span *ngSwitchCase="0">ausgebucht</span>
             <span *ngSwitchCase="1">nur noch 1 freier Platz</span>
             <span *ngSwitchCase="2">nur noch 2 freie Plätze</span>

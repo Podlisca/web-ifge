@@ -13,7 +13,7 @@ import { AnmeldeProdukt } from 'src/app/+core/gen';
 })
 export class TerminComponent implements OnInit {
 
-  @Input() termin!: AnmeldeProdukt;
+  @Input({ required: true }) produkt!: AnmeldeProdukt;
 
   @Output() onSelect = new EventEmitter<AnmeldeProdukt>();
 
@@ -23,7 +23,7 @@ export class TerminComponent implements OnInit {
   }
 
   select() {
-    this.onSelect.emit(this.termin);
+    this.onSelect.emit(this.produkt);
   }
 
 }
