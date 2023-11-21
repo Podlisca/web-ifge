@@ -1,7 +1,5 @@
 :host {
     display: block;
-    padding: 1rem;
-    background-color: var(--ltw-color-bg);
 }
 
 #selection-container {

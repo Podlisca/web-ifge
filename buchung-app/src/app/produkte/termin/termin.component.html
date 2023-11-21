@@ -1,4 +1,4 @@
-<button class="termin" (click)="select()" [disabled]="!produkt.freiePlaetze">
+<button (click)="select()" [disabled]="!produkt.freiePlaetze">
     <div class="cont">
         <div>{{produkt.startdatum | date: 'fullDate'}}</div>
         <!--<div>{{termin.startzeit.substring(0, 5)}} - {{termin.endzeit.substring(0, 5)}} Uhr</div>-->

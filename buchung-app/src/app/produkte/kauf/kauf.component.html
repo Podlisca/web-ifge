@@ -13,7 +13,62 @@
   </mat-radio-button>
 </mat-radio-group>
 
-<br><br>
-<button mat-stroked-button (click)="kaufe()" [disabled]="!preisId">
-  Kaufen
-</button>
+
+<p>
+  Bitte füllen Sie die folgenden Daten vollständig aus um die Anmeldung abzuschließen:
+</p>
+<br>
+
+<div [formGroup]="form" class="formular">
+  <div>
+    Anrede:
+    <mat-radio-group aria-label="Anrede" formControlName="anrede" required="true">
+      <mat-radio-button value="W">Frau</mat-radio-button>
+      <mat-radio-button value="M">Herr</mat-radio-button>
+      <mat-radio-button value="D">Divers</mat-radio-button>
+    </mat-radio-group>
+  </div>
+  <mat-form-field>
+    <input matInput placeholder="Vorname" formControlName="vorname">
+  </mat-form-field>
+  <mat-form-field>
+    <input matInput placeholder="Nachname" formControlName="nachname">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>E-Mail</mat-label>
+    <input matInput placeholder="max.mustermann@example.com" formControlName="email" type="email">
+    <mat-error *ngIf="form.controls.email.invalid">E-Mail ungültig!</mat-error>
+  </mat-form-field>
+  <!--<mat-form-field>
+    <mat-label>Strasse</mat-label>
+    <input matInput placeholder="Strasse" formControlName="strasse" autocomplete="off">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Nr.</mat-label>
+    <input matInput placeholder="Nr." formControlName="nr" autocomplete="off">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>PLZ</mat-label>
+    <input matInput placeholder="PLZ" formControlName="plz" autocomplete="off">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Ort</mat-label>
+    <input matInput placeholder="Ort" formControlName="ort" autocomplete="off">
+  </mat-form-field>
+  <mat-form-field>
+    <textarea matInput placeholder="Warum interessieren Sie sich für die Ausbildung?" cdkTextareaAutosize
+      autocomplete="off" cdkAutosizeMinRows="2" formControlName="notiz" maxlength="400"></textarea>
+  </mat-form-field>-->
+  <mat-checkbox formControlName="agb" style="white-space: normal;">
+    Es gilt die <a [href]="url_dsgvo" target="_blank">Datenschutzerklärung</a><sup>*</sup>
+  </mat-checkbox>
+</div>
+
+<div class="flex-cont">
+  <button mat-raised-button (click)="goBack()" class="large">
+    Zurück
+  </button>
+  <button mat-raised-button color="primary" (click)="kaufe()" [disabled]="!preisId || form.invalid" class="large">
+    <mat-icon>check_circle</mat-icon> Bezahlungspflichtig Kaufen
+  </button>
+</div>

@@ -16,6 +16,7 @@ button {
     background-color: inherit;
 }
 
+/* button:not([disabled]):hover { */
 button:hover {
     cursor: pointer;
     transition: .1s;
@@ -27,8 +28,4 @@ button .cont {
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
-}
-
-.termin .status {
-    font-weight: normal;
 }

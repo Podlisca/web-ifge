@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
+import { Component, EventEmitter, OnInit, Output } from '@angular/core';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatIconModule } from '@angular/material/icon';
 import { map } from 'rxjs';
@@ -38,13 +38,7 @@ export class ProdukteComponent implements OnInit {
     lehrplaene: lehrplaene
   }
 
-  // produkte$ = this.service.getAnmeldeProdukte(this.query).pipe(shareReplay(1));
-  // singleday$ = this.produkte$.pipe(
-  //   map(arr => arr.filter(p => !p.seminartage || p.seminartage?.length == 1))
-  // )
-  // multiday$ = this.produkte$.pipe(
-  //   map(arr => arr.filter(p => p.seminartage && p.seminartage.length > 1))
-  // )
+  @Output() produktSelected = new EventEmitter<AnmeldeProdukt>();
 
   vm$ = this.service.getAnmeldeProdukte(this.query).pipe(
     map(arr => {
@@ -95,6 +89,7 @@ export class ProdukteComponent implements OnInit {
 
   onSelect(event: AnmeldeProdukt) {
     this.selection = event.id;
+    this.produktSelected.emit(event);
   }
 
   private groupBy(xs: any, key: string): { [key: string]: View[] } {

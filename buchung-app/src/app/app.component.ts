@@ -5,6 +5,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { AnmeldungComponent } from './anmeldung/anmeldung.component';
 import { LwrBookingEvent, defaultConfig } from './app.config';
 import { ProdukteComponent } from './produkte/produkte.component';
+import { AnmeldeProdukt } from './+core/gen';
+import { KaufComponent } from './produkte/kauf/kauf.component';
 
 
 @Component({
@@ -17,7 +19,8 @@ import { ProdukteComponent } from './produkte/produkte.component';
     CommonModule,
     AnmeldungComponent,
     ProdukteComponent,
-    MatButtonModule
+    MatButtonModule,
+    KaufComponent,
   ],
 })
 export class AppComponent {
@@ -57,15 +60,16 @@ export class AppComponent {
   private successListener?: (t: any) => {};
 
   step = 0;
+  selection?: AnmeldeProdukt
 
   constructor() {
     this.configure();
   }
 
   next() {
-    this.step++;
+    this.step = 1;
     if (this.continueListener) {
-      // this.continueListener(this.termin);
+      this.continueListener(this.selection);
     }
   }
 

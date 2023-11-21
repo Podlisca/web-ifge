@@ -1,2 +1,17 @@
-<app-produkte></app-produkte>
+<app-produkte (produktSelected)="selection = $event" *ngIf="step == 0" />
+
+<app-kauf [produkt]="selection" *ngIf="step == 1" (back)="step = 0"/>
+
 <!--  <app-anmeldung [aufstellungen]="aufstellungen" />  -->
+<div class="action" *ngIf="step == 0">
+    <button mat-raised-button color="accent" (click)="next()" [disabled]="!selection" id="next-btn" #nextButton
+        [title]="!selection ? 'Wählen Sie zuerst einen Termin aus der obigen Auswahl um fortzufahren.' : ''"
+        class="btn-bg large">
+        Jetzt kaufen
+    </button>
+    <div class="info-text">
+        Die Infoveranstaltung ist für dich völlig kostenfrei und unverbindlich. <b>Es ist mein Geschenk an dich!</b>
+        Eine
+        Teilnahme an der Ausbildung ist nur mit Teilnahme an der Infoveranstaltung möglich.
+    </div>
+</div>

@@ -76,7 +76,8 @@ $my-app-warn: mat.define-palette(mat.$deep-orange-palette);
 $my-app-background: mat.define-palette($md-background);
 $theme: mat.define-light-theme((color: (primary: $my-app-primary,
         accent: $my-app-accent,
-        warn: $my-app-warn)));
+        warn: $my-app-warn),
+        density: -1));
 // typography: $custom-typography)
         
 @include mat.all-component-themes($theme);
