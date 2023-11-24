@@ -1,3 +1,7 @@
+<h4>Sie möchten folgendes kaufen</h4>
+
+{{ produkt.name }}
+
 <h4>Termine</h4>
 <ul>
   <li *ngFor="let tag of produkt?.seminartage">
@@ -5,21 +9,25 @@
   </li>
 </ul>
 
-
-<h4>Preise</h4>
-<mat-radio-group class="preise" [(ngModel)]="preisId">
-  <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis.id">
-    {{ preis.name }} {{preis.betrag | currency}}
-  </mat-radio-button>
-</mat-radio-group>
-
-
 <p>
   Bitte füllen Sie die folgenden Daten vollständig aus um die Anmeldung abzuschließen:
 </p>
-<br>
 
 <div [formGroup]="form" class="formular">
+
+  <h4>Bitte wählen Sie ihre Zahlungsvariante</h4>
+  <mat-radio-group class="preise" formControlName="preis">
+    <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis.id">
+      {{ preis.name }} {{preis.betrag | currency}}
+    </mat-radio-button>
+  </mat-radio-group>
+  <br>
+  <mat-form-field>
+    <mat-label>Aktionscode</mat-label>
+    <input matInput placeholder="Aktionscode" formControlName="aktionscode">
+  </mat-form-field>
+
+  <h4>Persönliche Daten</h4>
   <div>
     Anrede:
     <mat-radio-group aria-label="Anrede" formControlName="anrede" required="true">
@@ -29,17 +37,19 @@
     </mat-radio-group>
   </div>
   <mat-form-field>
+    <mat-label>Vorname</mat-label>
     <input matInput placeholder="Vorname" formControlName="vorname">
   </mat-form-field>
   <mat-form-field>
+    <mat-label>Nachname</mat-label>
     <input matInput placeholder="Nachname" formControlName="nachname">
   </mat-form-field>
   <mat-form-field>
     <mat-label>E-Mail</mat-label>
     <input matInput placeholder="max.mustermann@example.com" formControlName="email" type="email">
-    <mat-error *ngIf="form.controls.email.invalid">E-Mail ungültig!</mat-error>
+    <mat-error *ngIf="form.controls['email'].invalid">E-Mail ungültig!</mat-error>
   </mat-form-field>
-  <!--<mat-form-field>
+  <mat-form-field>
     <mat-label>Strasse</mat-label>
     <input matInput placeholder="Strasse" formControlName="strasse" autocomplete="off">
   </mat-form-field>
@@ -56,11 +66,19 @@
     <input matInput placeholder="Ort" formControlName="ort" autocomplete="off">
   </mat-form-field>
   <mat-form-field>
-    <textarea matInput placeholder="Warum interessieren Sie sich für die Ausbildung?" cdkTextareaAutosize
-      autocomplete="off" cdkAutosizeMinRows="2" formControlName="notiz" maxlength="400"></textarea>
-  </mat-form-field>-->
+    <mat-label>Notiz</mat-label>
+    <textarea matInput placeholder="Ihre Mitteilung ans uns" cdkTextareaAutosize autocomplete="off"
+      cdkAutosizeMinRows="2" formControlName="notiz" maxlength="400"></textarea>
+  </mat-form-field>
   <mat-checkbox formControlName="agb" style="white-space: normal;">
-    Es gilt die <a [href]="url_dsgvo" target="_blank">Datenschutzerklärung</a><sup>*</sup>
+    Ich stimme den <a href="https://ifge.at/agb/" target="_blank" rel="noopener">AGB</a> zu
+  </mat-checkbox>
+  <mat-checkbox formControlName="datenschutz">
+    Es gilt die <a href="https://ifge.at/datenschutz/" target="_blank" rel="noopener">Datenschutzerklärung</a>
+  </mat-checkbox>
+  <mat-checkbox formControlName="widerruf">
+    <a href="https://ifge.at/widerrufsbelehrung/" target="_blank" rel="noopener">Widerrufsbelehrung</a> gelesen u.
+    akzeptiert
   </mat-checkbox>
 </div>
 
@@ -68,7 +86,7 @@
   <button mat-raised-button (click)="goBack()" class="large">
     Zurück
   </button>
-  <button mat-raised-button color="primary" (click)="kaufe()" [disabled]="!preisId || form.invalid" class="large">
+  <button mat-raised-button color="primary" (click)="kaufe()" [disabled]="form.invalid" class="large">
     <mat-icon>check_circle</mat-icon> Bezahlungspflichtig Kaufen
   </button>
 </div>

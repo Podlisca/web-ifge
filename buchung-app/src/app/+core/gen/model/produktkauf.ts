@@ -13,11 +13,19 @@ import { Geschlecht } from './geschlecht';
 
 
 export interface Produktkauf { 
+    produktId?: number;
+    preis?: number;
     vorname?: string;
     nachname?: string;
-    geschlecht?: Geschlecht;
+    anrede?: Geschlecht;
     email?: string;
-    produktId?: number;
-    preisId?: number;
+    notiz?: string;
+    widerruf?: boolean;
+    agb?: boolean;
+    datenschutz?: boolean;
+    strasse?: string;
+    nr?: string;
+    plz?: string;
+    ort?: string;
 }
 

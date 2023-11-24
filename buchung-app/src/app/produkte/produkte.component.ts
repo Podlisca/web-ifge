@@ -30,12 +30,13 @@ export class ProdukteComponent implements OnInit {
 
   query: AnmeldeProduktQuery = {
     produktNamen: [
-      "Eintagesaufstellung 6 Stunden",
-      "Freischaltung Onlineakademie",
-      "Infogespräch Upgrade",
-      "LSB 17 Sonntag St. Pölten"],
+      // "Eintagesaufstellung 6 Stunden",
+      // "Freischaltung Onlineakademie",
+      "Tiercoaching: Intensivtraining in Pinkafeld 2024",
+      // "LSB 17 Sonntag St. Pölten"],
+    ],
     vorlagenNamen: [],
-    lehrplaene: lehrplaene
+    lehrplaene: []
   }
 
   @Output() produktSelected = new EventEmitter<AnmeldeProdukt>();

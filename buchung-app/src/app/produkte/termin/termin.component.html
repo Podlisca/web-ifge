@@ -1,6 +1,7 @@
 <button (click)="select()" [disabled]="!produkt.freiePlaetze">
     <div class="cont">
-        <div>{{produkt.startdatum | date: 'fullDate'}}</div>
+        
+        <div>Start: {{produkt.startdatum | date: 'fullDate'}}</div>
         <!--<div>{{termin.startzeit.substring(0, 5)}} - {{termin.endzeit.substring(0, 5)}} Uhr</div>-->
         <div class="status" [ngSwitch]="produkt.freiePlaetze">
             <span *ngSwitchCase="0">ausgebucht</span>
