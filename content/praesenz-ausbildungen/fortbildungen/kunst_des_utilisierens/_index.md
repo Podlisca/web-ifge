@@ -24,7 +24,7 @@ rich_faq:
 
 {{< line icon="icon/beratung.png" >}}
 
-## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
+## Ressourcen erkennen & nutzbar machen. 
 
 # **Aktion**: 
 ## **–20% Code BLACKFRIDAY23**<br/> 
@@ -44,25 +44,21 @@ rich_faq:
 
 {{% small %}}
 
-#### Lerne aus über 80 Lehrvideos 
+#### Die Kunst des Utilisierens
 
-* **Sexualität** ist ein **zentraler Bestandteil** unseres Lebens. Obwohl Medien gerne mit Begierde, Lust und nackter Haut kommunizieren, ist Sexualität aber **oft** noch immer ein **Tabuthema**. Insbesondere dann, wenn es um eigene sexuelle Bedürfnisse, Probleme oder Unzufriedenheit geht. 
-
-* Langfristiges **Verschweigen und Verdrängen** sexueller Themen kann allerdings die psychische und physische **Gesundheit beeinträchtigen**. 
-
-* Umso wichtiger, dass psychologische Berater:innen, Betreuer:innen, Pädagog:innen und andere relevante Berufsgruppen in der Lage sind **Betroffene hier mit den richtigen Fragen und Methoden zu begleiten**. 
+Willkommen zu "Die Kunst des Utilisierens" – einem Seminar, das dich auf eine transformative Reise zu deinem vollen Potenzial führt. Ähnlich wie bei der SYSTEMISCH-GANZHEITLICHEN-FAMILIENAUFSTELLUNG NACH SILVIA PODLISCA werden wir uns auf persönlicher und kollektiver Ebene erkunden, wie die geschickte Nutzung von Ressourcen nicht nur dein eigenes Leben, sondern auch das deiner Klienten bereichern kann.
 
 
 {{% /small %}}
 </div> 
 
-### Erhalte: 
+### Kursziele: 
 
-* **Sicherheit und Kompetenz** im Umgang mit dem Thema Sexualität
-* **Wissen und Werkzeuge**, wie sensible Themen gezielt angesprochen und bearbeitet werden kann
-* maximale Flexibilität und Individualität durch **100% online**  
-* **drei Jahre Vollzugriff** auf die Lehrvideos sowie Lernmaterialen
-
+* **•	Selbstverständnis:** Entdecke deine einzigartigen Fähigkeiten und Stärken, um eine tiefere Verbindung zu dir selbst aufzubauen.
+* **Ressourcennutzung in der Beratung:**, Lerne, wie du die Kunst des Utilisierens in deiner Arbeit als psychologischer Berater anwendest, um deine Klienten zu unterstützen.
+* **Gemeinschaftsverständnis:** Erfahre, wie persönliche Ziele und Bedürfnisse mit den kollektiven Zielen und Dynamiken deiner Klienten in Einklang gebracht werden können.  
+* **Konfliktlösung:** Entwickle Fähigkeiten zur geschickten Nutzung von Ressourcen, um Konflikte in der Beratung effektiv zu bewältigen.
+* **Integration in den Berufsalltag** Erhalte konkrete Werkzeuge und Anleitungen, wie du die Kunst des Utilisierens nahtlos in deine Beratungspraxis integrieren kannst.
 
 {{< line icon="icon/beratung.png" >}}
 
