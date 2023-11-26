@@ -27,7 +27,7 @@ rich_faq:
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
 #### Aktionscode: weihnachtsaktion23_kunst<br/> 
-
+##### (Aktion gültig bis 24.12.2023)
 ***
 
 <div class="box video">
@@ -89,7 +89,7 @@ Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
 #### Aktionscode: weihnachtsaktion23_kunst<br/> 
-
+##### (Aktion gültig bis 24.12.2023)
 
 
 {{< buchung-vorauswahl text="Anmeldung" veranstaltung="Präsenzseminar (IFGE Wien): Die Kunst des Utilisierens " value="690" >}}
@@ -158,7 +158,7 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
 #### Aktionscode: weihnachtsaktion23_kunst<br/> 
-
+##### (Aktion gültig bis 24.12.2023)
 
 
 {{< buchung-vorauswahl text="Anmeldung" veranstaltung="Präsenzseminar (IFGE Wien): Die Kunst des Utilisierens " value="690" >}} 
