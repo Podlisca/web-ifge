@@ -26,7 +26,7 @@ rich_faq:
 
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
-#### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
+#### Aktionscode: weihnachtsaktion23_kunst<br/> 
 
 ***
 
@@ -88,7 +88,7 @@ Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den
 
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
-#### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
+#### Aktionscode: weihnachtsaktion23_kunst<br/> 
 
 
 
@@ -157,7 +157,7 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
-#### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
+#### Aktionscode: weihnachtsaktion23_kunst<br/> 
 
 
 
