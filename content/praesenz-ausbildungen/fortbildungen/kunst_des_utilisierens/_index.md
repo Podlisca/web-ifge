@@ -26,7 +26,9 @@ rich_faq:
 
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
-##### **Aktionscode: weihnachtsaktion23_utilisieren**<br/> 
+#### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
+
+***
 
 <div class="box video">
 {{% small %}}
@@ -69,10 +71,32 @@ Entwickle Fähigkeiten zur geschickten Nutzung von Ressourcen, um Konflikte in d
 * **Integration in den Berufsalltag:** <br/>
 Erhalte konkrete Werkzeuge und Anleitungen, wie du die Kunst des Utilisierens nahtlos in deine Beratungspraxis integrieren kannst.
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Die Kunst des Utilisierens " value="690" >}}
+
+***
+## Ressourcen erkennen & nutzbar machen. 
+#### **Weihnachtsaktion nützen und € 100,- sparen**: 
+#### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
 
 
+
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Präsenzseminar (IFGE Wien): Die Kunst des Utilisierens " value="690" >}}
+<br/>
 {{% box more=1 blue=1 %}}
+{{< card-more icon="noun_Euro_2244498-2.png" title="Termine" >}}
+
+* **Termine IFGE Wien:** <br/>
+**13.09.2024 - 15.09.202413** 
+
+**Seimiarzeiten:** </br>
+
+Freitagvon 14:00 - 20:00 Uhr</br>
+Samstag von 09:00 - 18:00 Uhr * </br>
+Sonntag von 09:00 - 18:00 Uhr
+von 09:30 - 13:30 Uhr</br>
+
+
+{{< /card-more >}}
+
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
 
