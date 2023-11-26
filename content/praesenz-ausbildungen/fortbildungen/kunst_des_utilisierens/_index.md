@@ -63,16 +63,29 @@ In diesem **innovativen Seminar** erlebst du nicht nur die Kunst des **Utilisier
 * **Selbstverständnis:** <br/>
 Entdecke deine einzigartigen Fähigkeiten und Stärken, um eine tiefere Verbindung zu dir selbst aufzubauen.
 * **Ressourcennutzung in der Beratung:** <br/>
-Lerne, wie du die Kunst des Utilisierens in deiner Arbeit als psychologischer Berater anwendest, um deine Klienten zu unterstützen.
+Lerne, wie du die Kunst des Utilisierens in deiner Arbeit als psychologische:r Berater:in anwendest, um deine Klient:innen zu unterstützen.
 * **Gemeinschaftsverständnis:** <br/>
-Erfahre, wie persönliche Ziele und Bedürfnisse mit den kollektiven Zielen und Dynamiken deiner Klienten in Einklang gebracht werden können.  
+Erfahre, wie persönliche Ziele und Bedürfnisse mit den kollektiven Zielen und Dynamiken deiner  Klient:innen in Einklang gebracht werden können.  
 * **Konfliktlösung:** <br/>
 Entwickle Fähigkeiten zur geschickten Nutzung von Ressourcen, um Konflikte in der Beratung effektiv zu bewältigen.
 * **Integration in den Berufsalltag:** <br/>
 Erhalte konkrete Werkzeuge und Anleitungen, wie du die Kunst des Utilisierens nahtlos in deine Beratungspraxis integrieren kannst.
 
+{{< line icon="icon/beratung.png" >}}
+
+### Deine Vorteile im Überblick: 
+
+* **24 Ausbildungsstunden in einer kleinen Gruppe von maximal 14 Teilnehmer:innenn**: 
+Ein tiefer Einblick in die Konzepte, begleitet von praktischen Übungen für eine authentische Anwendung in der Beratung.
+* **Dynamik von persönlichen und kollektiven Ressourcen:** 
+Erforsche, wie du individuelle Stärken und Bedürfnisse deiner Klient:innen in Bezug auf ihre soziale Umgebung verstehen und fördern kannst.
+* **Fallstudien aus der Beratungspraxis:** 
+Vertiefe dein Verständnis durch realistische Szenarien und lerne, wie du klientenbezogene Herausforderungen mit einer utilisierenden Perspektive angehen kannst.
+* **Praxisorientierte Anwendungen:** 
+Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den Umgang mit individuellen und kollektiven Herausforderungen in der Beratung.
 
 ***
+
 ## Ressourcen erkennen & nutzbar machen. 
 #### **Weihnachtsaktion nützen und € 100,- sparen**: 
 #### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
@@ -90,9 +103,8 @@ Erhalte konkrete Werkzeuge und Anleitungen, wie du die Kunst des Utilisierens na
 **Seimiarzeiten:** </br>
 
 Freitagvon 14:00 - 20:00 Uhr</br>
-Samstag von 09:00 - 18:00 Uhr * </br>
-Sonntag von 09:00 - 18:00 Uhr
-von 09:30 - 13:30 Uhr</br>
+Samstag von 09:00 - 18:00 Uhr  </br>
+Sonntag von 09:00 - 18:00 Uhr</br>
 
 
 {{< /card-more >}}
@@ -143,27 +155,13 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 {{< line icon="icon/beratung.png" >}}
 
 
-# Hier drei weitere kostenlose Lehrvideos für dich:
-##### (um die Videos sehen zu können, müssen die Cookies aktiviert sein)
+## Ressourcen erkennen & nutzbar machen. 
+#### **Weihnachtsaktion nützen und € 100,- sparen**: 
+#### Aktionscode: weihnachtsaktion23_utilisieren<br/> 
 
-<div class="box video">
-{{% small %}}
 
-### Besonderheit Auftragsklärung - Paarberatung
-{{< youtube AXJmm9IDgo8>}}
-{{% /small %}}
-{{% small %}}
 
-### Tool: Kommunikation / Paarberatung 
-{{< youtube M_zWHISvb9o>}}
-{{% /small %}}
-{{% small %}}
-
-### Klientengespräch: Stalking am Arbeitsplatz
-{{< youtube GxQWIs1VJhs>}}
-{{% /small %}}
-
-</div> 
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Präsenzseminar (IFGE Wien): Die Kunst des Utilisierens " value="690" >}} 
 
 
 
