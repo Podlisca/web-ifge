@@ -56,8 +56,8 @@ Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Pot
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* pro Modul (Vorabüberweisung):€ 75,- <br/>
-* monatliche Rate (Vorabüberweisung): € 145,- <br/>
+* pro Seminartag (Vorabüberweisung):€ 70,-, Anzahlung € 100,00  <br/>
+* monatliche Rate (Vorabüberweisung): € 110,-, Anzahlung € 130,00  <br/>
 * Einmalzahlung: € 1.400,- <br/>
 
 Die Einmalzahlung wird sofort nach Anmeldung fällig und ist bis 15.12.2023 gültig.
@@ -103,7 +103,7 @@ Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit 
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="AGB" >}}
-**Anmeldung:** Um dir den Platz verbindlich zu reservieren, ist nach Anmeldung die erste Einheit (Betrag je nach gewählter Zahlungsmethode) sofort oder zu überweisen:
+**Anmeldung:** Um dir den Platz verbindlich zu reservieren, ist die Anzahlung die sich in der Höhe nach der gewählten Zahlungsmethode richtet sofort oder zu überweisen:
 
 Konto / Bank Austria<br/>
 Silvia Podlisca - IFGE<br/>
