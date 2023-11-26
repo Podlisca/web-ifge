@@ -116,7 +116,7 @@ BIC: BKAUATWW
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
-Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 12
+Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 14
 **Anmeldeschluss: 15.12.2023** 
 Sollte bis zum Anmeldeschluss die Mindestteilnehmerzahl nicht erreicht werden, wird die Gruppe nicht stattfinden und du wirst rechtzeitig verständigt.
 

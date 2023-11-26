@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortb
         identifier: kunst_utilisieren
-draft: true
+draft: false
 weight: 1
 description: "Ihre Fortbildung im Präsenz-Format in Beratung und Coaching: Die Kunst des Utilisierens"
 og_title: "Die Kunst des Utilisierens - Eine Fortbildung die dich auf eine transformative Reise zu deinem vollen Potenzial führt."
@@ -25,44 +25,101 @@ rich_faq:
 {{< line icon="icon/beratung.png" >}}
 
 ## Ressourcen erkennen & nutzbar machen. 
-
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
-***
+#### **Weihnachtsaktion nützen und € 100,- sparen**: 
+##### **Aktionscode: weihnachtsaktion23_utilisieren**<br/> 
 
 <div class="box video">
 {{% small %}}
 
-### Was macht die Sexualberatung so besonders?
+### Erlebe Silvia Podlisca im Unterricht 
 
-{{< youtube Ha_EK-nIHT8>}}
+{{< youtube StVjfq2J6aA>}}
+
 ##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
 
 {{% /small %}}
 
 {{% small %}}
 
-#### Die Kunst des Utilisierens
+#### Deine Reise zur Utilisierung
 
-Willkommen zu "Die Kunst des Utilisierens" – einem Seminar, das dich auf eine transformative Reise zu deinem vollen Potenzial führt. Ähnlich wie bei der SYSTEMISCH-GANZHEITLICHEN-FAMILIENAUFSTELLUNG NACH SILVIA PODLISCA werden wir uns auf persönlicher und kollektiver Ebene erkunden, wie die geschickte Nutzung von Ressourcen nicht nur dein eigenes Leben, sondern auch das deiner Klienten bereichern kann.
+Willkommen zu **"Die Kunst des Utilisierens"** – einem Seminar, das dich auf eine **transformative Reise** zu deinem **vollen Potenzial** führt. 
 
+Ähnlich wie bei der [SYSTEMISCH-GANZHEITLICHEN-FAMILIENAUFSTELLUNG NACH SILVIA PODLISCA](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) werden wir uns auf **persönlicher und kollektiver Ebene** erkunden, wie die **geschickte Nutzung von Ressourcen** nicht nur dein eigenes Leben, sondern auch das deiner Klient:innen **bereichern** kann.
+
+In diesem **innovativen Seminar** erlebst du nicht nur die Kunst des **Utilisierens für dich selbst**, sondern entdeckst auch, wie du diese **bereichernde Perspektive in deiner Arbeit als psychologische:r Berater:in** einsetzen kannst. 
 
 {{% /small %}}
 </div> 
 
+{{< line icon="icon/beratung.png" >}}
+
+#### Lass uns gemeinsam erforschen, wie persönliche Stärken, Bedürfnisse und Ziele harmonisch mit den kollektiven Dynamiken in Einklang gebracht werden können.
+
 ### Kursziele: 
 
-* **•	Selbstverständnis:** Entdecke deine einzigartigen Fähigkeiten und Stärken, um eine tiefere Verbindung zu dir selbst aufzubauen.
-* **Ressourcennutzung in der Beratung:**, Lerne, wie du die Kunst des Utilisierens in deiner Arbeit als psychologischer Berater anwendest, um deine Klienten zu unterstützen.
-* **Gemeinschaftsverständnis:** Erfahre, wie persönliche Ziele und Bedürfnisse mit den kollektiven Zielen und Dynamiken deiner Klienten in Einklang gebracht werden können.  
-* **Konfliktlösung:** Entwickle Fähigkeiten zur geschickten Nutzung von Ressourcen, um Konflikte in der Beratung effektiv zu bewältigen.
-* **Integration in den Berufsalltag** Erhalte konkrete Werkzeuge und Anleitungen, wie du die Kunst des Utilisierens nahtlos in deine Beratungspraxis integrieren kannst.
+* **Selbstverständnis:** <br/>
+Entdecke deine einzigartigen Fähigkeiten und Stärken, um eine tiefere Verbindung zu dir selbst aufzubauen.
+* **Ressourcennutzung in der Beratung:** <br/>
+Lerne, wie du die Kunst des Utilisierens in deiner Arbeit als psychologischer Berater anwendest, um deine Klienten zu unterstützen.
+* **Gemeinschaftsverständnis:** <br/>
+Erfahre, wie persönliche Ziele und Bedürfnisse mit den kollektiven Zielen und Dynamiken deiner Klienten in Einklang gebracht werden können.  
+* **Konfliktlösung:** <br/>
+Entwickle Fähigkeiten zur geschickten Nutzung von Ressourcen, um Konflikte in der Beratung effektiv zu bewältigen.
+* **Integration in den Berufsalltag:** <br/>
+Erhalte konkrete Werkzeuge und Anleitungen, wie du die Kunst des Utilisierens nahtlos in deine Beratungspraxis integrieren kannst.
+
+{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Die Kunst des Utilisierens " value="690" >}}
+
+
+{{% box more=1 blue=1 %}}
+{{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
+
+
+* **Ausbildungskosten:€ 690,-** <br/>
+€ 250,- Anzahlung nach Anmeldung. Restzahlung ein Monat vor Kursbeginn<br/>
+
+Erst nach Zahlungseingang der Anzahlung ist der Platz für dich fix reserviert.
+
+
+
+{{< /card-more >}}
+
+
+{{< card-more icon="noun_Euro_2244498-2.png" title="Zulassung & Zahlung" >}}
+**Die Ausbildung ist für alle offen**. <br/>
+Nach Anmeldung ist die Anzahlung, sofort auf das Konto:
+
+
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+zu überweisen. Bitte als Verwendungszweck "Die Kunst des Utilisierens + Deinen Namen" angeben.
+
+
+Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ein Monat vor geplantem Kursbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Kursbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
+{{< /card-more >}}
+
+
+{{< card-more icon="icon/storno.png" title="Allgemeine Geschäftsbedingungen" >}}
+
+Das Seminar ist nur komplett zu buchen.
+ 
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen.  
+
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **24 Weiterbildungsstunden** bestätigt. 
+
+
+
+{{< /card-more >}}
+{{% /box %}}
 
 {{< line icon="icon/beratung.png" >}}
 
-# Hier drei kostenlose Lehrvideos für dich:
+
+# Hier drei weitere kostenlose Lehrvideos für dich:
 ##### (um die Videos sehen zu können, müssen die Cookies aktiviert sein)
 
 <div class="box video">
@@ -84,266 +141,6 @@ Willkommen zu "Die Kunst des Utilisierens" – einem Seminar, das dich auf eine 
 
 </div> 
 
-## Du kannst sofort starten
-Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
 
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
-
-
-{{% box more=1 blue=1 %}}
-{{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
-
-
-* **Ausbildungskosten:€ 1.490,-** <br/>
-Zahlung nach Anmeldung. <br/>
-
-
-* **Ratenzahlung: € 1.980,-** <br/>
-€ 490,- Zahlung sofort nach Anmeldung. <br/>
-1.490 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 372,50 €.<br/>
-
-* **Praktische Tage in Präsenz**  
-Kosten pro Tag: € 290,- <br/>
-max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
-
-
-{{< /card-more >}}
-
-
-{{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Nach Kurskauf ist die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
-
-
-Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
-Bank Austria
-IBAN: AT42 1200 0007 4443 4259
-BIC: BKAUATWW
-
-zu überweisen. Bitte als Verwendungszweck "Besonderheit Sexualberatung + Deinen Namen" angeben.
-
-
-Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung oder der Ratenzahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, ist sofort der Restbetrag fällig. Der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der offene Betrag gerichtlich eingefordert. 
-
-Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
-Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
-{{< /card-more >}}
-
-
-{{< card-more icon="icon/storno.png" title="Prüfung" >}}
-
-Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
-
-Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
-
-
-{{< /card-more >}}
-{{% /box %}}
-
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
-
-{{< line icon="icon/beratung.png" >}}
-
-## Das sagen begeisterte Kunden:
-
-<div class="box video">
-{{% small %}}
-
-### Miriam Geiger
-{{< youtube gkWXUhQDAWU>}}
-{{% /small %}}
-{{% small %}}
-
-### Miras Finjan
-{{< youtube u6jCYDH597k>}}
-{{% /small %}}
-{{% small %}}
-
-### Lusy Skaya
-{{< youtube _q-cePhv6Q4>}}
-{{% /small %}}
-
-</div>
-{{< line icon="icon/beratung.png" >}}
-
-## Kursaufbau & Lehrinhalte
-
-
-* Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
-* **3 Tage danach** startet das Kick off
-* **Betreute Lerngruppe** über Facebook
-
-
-
-{{% box more=1 blue=1 %}}
-{{< card-more  title="Kick-off" >}}
-
- **Kursmaterial für eine Woche**
-
-* Haltung des Beraters/der Beraterin in der Sexualberatung Teil 1
-* Haltung des Beraters/der Beraterin in der Sexualberatung Vertiefung
-* Sprache in der Sexualberatung
-* PLISSIT - Beratermodell in Sexualberatung
-* Wichtige Begriffe in der Sexualberatung
-* Grundlagen für ein befriedigendes Sexualleben
-* Reflexionsübung: Umgang mit Haltung und Absicht in der Beratung
-* Bonusmaterial: Tiefenpsychologische Ansätze
-* Bonusmaterial: Auftragsklärung in der Gesprächsführung
-* Bonusmaterial: Beratungsverlauf - Bella & Plissit Prinzip
-* Achtsame Kommunikation: Tool Schachbrett
-* Klientengespräch: ausbleibender Orgasmus (Tool: Sexuallandkarte)
-* Klientengespräch: ausbleibender Orgasmus (Tool: Glaubenssätze/Feuerschale)
-{{< /card-more >}}
-
-
-{{< card-more  title="Turnus 1" >}}
-**Kursmaterial für 3 Wochen**
-
-* LGBTIQIA+
-* Sexuelle Identitäten und Orientierungen
-* Lust-Verlust & Lust Gewinnung
-* Erlaubnis gebende Interventionen zur Lustfindung
-* Bonusmaterial: Methoden der wertschätzenden Kommunikation
-* Bonusmaterial: Die acht Resilienzfaktoren
-* Bonusmaterial: Interventionsmöglichkeiten
-* Beratungsgespräch mit Silvia: arabische Frau / lesbische Vorlieben
-* Beratungsgespräch mit Antje: Lustverlust
-* Tool: Gemeinsamkeit & Nähe
-* Tool: Lust & Lustverlust
-
-{{< /card-more >}}
-
-
-{{< card-more  title="Turnus 2" >}}
-
-**Kursmaterial für 3 Wochen**
-
-* Grundlagen der Paarberatung Teil 1
-* Grundlagen der Paarberatung Teil 2
-* Auftragsklärung & Triangulation
-* 8 Arten der Liebe & Dreiecks Theorie
-* Clement - klassische Paardynamik & Macht in der Beziehung
-* Differenzierungsmodell nach David Schnarch
-* Ideale sexuelle Profil & gemeinsames sexuelles Profil
-* Umgang mit Untreue
-* Der menschliche Körper - Sexualkrankheiten Teil 1
-* Der menschliche Körper - Sexualkrankheiten Teil 2
-* Der menschliche Körper - Sexualkrankheiten Teil 3
-* Der menschliche Körper - Verhütung
-* Der menschliche Körper - Schwangerschaft und Geburt
-* Bonusmaterial aus anderen Onlineausbildungen
-* Paarberatung mit Silvia - Tool: über Sex sprechen (Bildsprache) 
-* Paarberatung mit Antje - nicht jeder Auftrag eignet sich für die Paar-Sexualberatung
-* Einzelberatung mit Silvia: Lustverlust nach der Geburt
-{{< /card-more >}}
-{{% /box %}}
-
-{{% box more=1 blue=1 %}}
-{{< card-more  title="Turnus 3" >}}
-**Kursmaterial für 3 Wochen**
-
-* Abgrenzung zur Sexualtherapie und Sexualstörungen nach ICD 10/ICD 11
-* Perversion & Neosexualität
-* Abweichende Neigungen und Paraphilien & Neosexualität
-* BDSM Basis
-* Auftragsklärung BDSM (rechtliche Grundlagen/Hinweise)
-* BDSM - Tools erstes Mal
-* Bonusmaterial aus anderen Onlineausbildungen 
-* Klientengespräch - BDSM - ausprobieren
-* Klientengespräch - BDSM - Partner überzeugt nicht als Dom
-* Klientengespräch Mann der Klientin will zu einer Domina (Ethikvertrag)
-
-{{< /card-more >}}
-
-
-{{< card-more  title="Turnus 4" >}}
-**Kursmaterial für 3 Wochen**
-
-* Täter- & Opferhaltungen
-* Sexuelle Gewalt: Opfer und Täterarbeit
-* Sexuelle Belästigung & Stalking am Arbeitsplatz
-* Sexualität und Alter
-* Sexualität und Behinderung
-* Bonusmaterial aus anderen Onlineausbildungen 
-* Klientengespräch: Umgang sexuelle Belästigung am Arbeitsplatz
-* Klientengespräch: Sexualität und Alter
-* Klientengespräch: Frau hat heimlich Sexvideos gemacht und droht
-* Klientengespräch: 8-jähriger Sohn hat Porno in der Schule angesehen
-
-
-{{< /card-more >}}
-
-{{< card-more  title="Prüfung" >}}
-
-Der Lehrgang schließt mit **Online-Abschlussprüfung** ab. Nach bestandener Prüfung erhältst Du ein IFGE Zertifikat.
-Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
-
-Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
-
-
-{{< /card-more >}}
-{{% /box %}}
-
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
-
-{{< line icon="icon/beratung.png" >}}
-
-### Allgemeine Geschäftsbedingungen
-
-**1.	Leistung**
-Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Besonderheit Sexualberatung“ des IFGE. Der:die Nutzer:in erhält von IFGE mit dieser Vereinbarung Zugang zu Bild,- Ton- und Videoaufnahmen sowie PDF`s zu Schulungszwecken. 
-
-**2.	Zugang** 
-* Die Ausbildung ist für alle offen
-
-Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-
-
-Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. 
-
-Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
-
-
-**3.	Nutzungsbedingungen**
-Der:die Nutzer:in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
-Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
-Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
-Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
-Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
-
-**4. Garantie**
-IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wirtschaftlichen Erfolg erreicht.
-
-
-**6. Gerichtstand:**
-Wien, Österreich
-***
-
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
