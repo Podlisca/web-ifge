@@ -139,7 +139,7 @@ Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ei
 {{< /card-more >}}
 
 
-{{< card-more icon="icon/storno.png" title="Allgemeine Geschäftsbedingungen" >}}
+{{< card-more icon="icon/storno.png" title="AGB" >}}
 
 Das Seminar ist nur komplett zu buchen.
  
