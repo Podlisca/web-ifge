@@ -49,7 +49,7 @@ Willkommen zu **"Die Kunst des Utilisierens"** – einem Seminar, das dich auf e
 
 Ähnlich wie bei der [SYSTEMISCH-GANZHEITLICHEN-FAMILIENAUFSTELLUNG NACH SILVIA PODLISCA](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/) werden wir uns auf **persönlicher und kollektiver Ebene** erkunden, wie die **geschickte Nutzung von Ressourcen** nicht nur dein eigenes Leben, sondern auch das deiner Klient:innen **bereichern** kann.
 
-In diesem **innovativen Seminar** erlebst du nicht nur die Kunst des **Utilisierens für dich selbst**, sondern entdeckst auch, wie du diese **bereichernde Perspektive in deiner Arbeit als psychologische:r Berater:in** einsetzen kannst. 
+In diesem **innovativen Seminar** erlebst du nicht nur die Kunst des **Utilisierens für dich selbst**. Du erkundest auch, wie du diese **bereichernde Perspektive** als psychologische:r Berater:in **einfühlsam in deine Arbeit einfließen lässt** und damit die Wirksamkeit deiner Beratung auf eine neue Ebene hebst.
 
 {{% /small %}}
 </div> 
