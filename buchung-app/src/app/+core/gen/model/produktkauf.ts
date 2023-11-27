@@ -27,5 +27,6 @@ export interface Produktkauf {
     nr?: string;
     plz?: string;
     ort?: string;
+    seminartage?: Array<number>;
 }
 

@@ -19,6 +19,7 @@ export interface KaufDto {
     id?: number;
     produkt?: ProduktDto;
     produktgutschein?: ProduktgutscheinDto;
+    kommentar?: string;
     personId?: number;
     preis?: Preis;
     datum?: Date;

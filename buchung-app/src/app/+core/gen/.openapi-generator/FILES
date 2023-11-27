@@ -68,7 +68,7 @@ model/ifgeModul.ts
 model/ifgeProdukt.ts
 model/infoTermin.ts
 model/initPruefungDto.ts
-model/initSeminartageDO.ts
+model/initSeminartageDto.ts
 model/intervention.ts
 model/jEN.ts
 model/kalenderMainResource.ts
@@ -194,6 +194,8 @@ model/themaStats.ts
 model/timePair.ts
 model/tool.ts
 model/toolZuordnung.ts
+model/trainingNeuDto.ts
+model/trainingsTagDto.ts
 model/typ.ts
 model/type.ts
 model/uebung.ts

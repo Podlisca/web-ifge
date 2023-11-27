@@ -56,14 +56,9 @@ export class KaufComponent implements OnInit {
 
   kaufe() {
     const kauf: Produktkauf = this.form.value;
-
-    //   email: "asd12@leichtware.at",
-    //   produktId: this.produkt?.id,
-    //   preisId: this.preisId,
-    //   vorname: "Antje",
-    //   nachname: "Stimpfl",
-    //   geschlecht: 'M'
-    // }
+    if (this.produkt.seminartage) {
+      kauf.seminartage = this.produkt.seminartage.map(s => s.id!)
+    }
     this.api.kaufeProdukt(kauf).subscribe(res => {
       console.log(res);
     });

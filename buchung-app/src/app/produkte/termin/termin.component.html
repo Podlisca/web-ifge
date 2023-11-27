@@ -1,7 +1,12 @@
 <button (click)="select()" [disabled]="!produkt.freiePlaetze">
     <div class="cont">
-        
-        <div>Start: {{produkt.startdatum | date: 'fullDate'}}</div>
+
+        <div class="bold" *ngIf="produkt.seminartage?.length! > 1 ?? false">Startdatum: {{produkt.startdatum | date: 'longDate'}}</div>
+        <ng-container *ngIf="produkt.vorlage">
+            <div *ngFor="let tag of produkt?.seminartage">
+                {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'shortDate' }} {{ tag.startzeit | date: 'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+            </div>
+        </ng-container>
         <!--<div>{{termin.startzeit.substring(0, 5)}} - {{termin.endzeit.substring(0, 5)}} Uhr</div>-->
         <div class="status" [ngSwitch]="produkt.freiePlaetze">
             <span *ngSwitchCase="0">ausgebucht</span>

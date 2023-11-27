@@ -1,54 +1,18 @@
 <ng-container *ngIf="vm$ | async as vm">
     <div id="selection-container">
-        <ng-container *ngFor="let vmOrt of vm | keyvalue" class="ort">
+        <ng-container *ngFor="let vmOrt of vm" class="ort">
             <div class="location" [style.color]="config.color_bundesland">
-                {{vmOrt.value[0].ort}}
+                {{vmOrt[0].ort}}
             </div>
             <div class="content" [style.background-color]="config.color_termin">
-                <div class="group" *ngFor="let view of vmOrt.value">
+                <div class="group" *ngFor="let view of vmOrt">
                     <div class="title"> {{view.title}}</div>
                     <div>
-                        <app-termin [produkt]="p" *ngFor="let p of view.produkte" (onSelect)="onSelect($event)"
-                            [class.selected]="p.id === selection" />
+                        <app-termin [produkt]="p" *ngFor="let p of view.produkte; let idx = index" (onSelect)="onSelect($event)" [idx]="idx"
+                            [class.selected]="idx === selection" />
                     </div>
                 </div>
             </div>
         </ng-container>
     </div>
 </ng-container>
-
-
-
-
-
-
-<!--<ng-container *ngIf="singleday$ | async as singleday">
-    <ng-container *ngIf="singleday.length">
-        <h2>Einzeltag-Produkte</h2>
-        <mat-accordion>
-            <mat-expansion-panel *ngFor="let produkt of singleday">
-                <mat-expansion-panel-header>
-                    {{ produkt.name }}
-                </mat-expansion-panel-header>
-
-                <app-kauf [produkt]="produkt" />
-
-            </mat-expansion-panel>
-        </mat-accordion>
-    </ng-container>
-</ng-container>
-
-<ng-container *ngIf="multiday$ | async as multiday">
-    <ng-container *ngIf="multiday.length">
-        <h2>Mehrtages-Produkte</h2>
-        <mat-accordion>
-            <mat-expansion-panel *ngFor="let produkt of multiday">
-                <mat-expansion-panel-header>
-                    {{ produkt.name }}
-                </mat-expansion-panel-header>
-
-                <app-kauf [produkt]="produkt" />
-            </mat-expansion-panel>
-        </mat-accordion>
-    </ng-container>
-</ng-container>-->

@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { MatIconModule } from '@angular/material/icon';
 import { AnmeldeProdukt } from 'src/app/+core/gen';
+import { ProduktSelection } from '../produkte.component';
 
 
 @Component({
@@ -14,8 +15,9 @@ import { AnmeldeProdukt } from 'src/app/+core/gen';
 export class TerminComponent implements OnInit {
 
   @Input({ required: true }) produkt!: AnmeldeProdukt;
+  @Input({ required: true }) idx!: number
 
-  @Output() onSelect = new EventEmitter<AnmeldeProdukt>();
+  @Output() onSelect = new EventEmitter<ProduktSelection>();
 
   constructor() { }
 
@@ -23,7 +25,10 @@ export class TerminComponent implements OnInit {
   }
 
   select() {
-    this.onSelect.emit(this.produkt);
+    this.onSelect.emit({
+      produkt: this.produkt,
+      index: this.idx
+    });
   }
 
 }

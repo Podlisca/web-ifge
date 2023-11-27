@@ -29,3 +29,7 @@ button .cont {
     flex-direction: column;
     justify-content: space-around;
 }
+
+.bold {
+    font-weight: bold;
+}
