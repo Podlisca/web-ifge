@@ -14,11 +14,12 @@ weight: 6
 
 {{< line icon="icon/termine.png" >}}
 
-
+## MENSCHEN BEWEGEN, BEGLEITEN & BEREICHERN 
 
 
 {{% box blue=1 %}}
 {{% small  %}}
+
 
 
 Alle Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig, sowohl unter der Woche wie auch am Wochenende, statt.
