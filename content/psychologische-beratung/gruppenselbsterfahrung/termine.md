@@ -99,6 +99,8 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 [Anmeldung](https://www.ifge.at/anmeldung/)
 
 
+Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
+
 {{% /small  %}}
 {{% /box %}}
 
