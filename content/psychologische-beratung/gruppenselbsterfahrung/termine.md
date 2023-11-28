@@ -57,10 +57,11 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **25.05.2024** 10:00 - 16:00 Uhr</br>
 **02.06.2024** 09:00 - 18:00 Uhr</br>
 
-
-
 [Anmeldung](https://www.ifge.at/anmeldung/)
 
+
+
+Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
 
 {{% /small  %}}
 
