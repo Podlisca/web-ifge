@@ -21,7 +21,7 @@ og_image: "/img/glaubenssatz1.jpg"
 
 ## Weil das Hier und Jetzt zählt: Glaubenssatzaufstellung mit Silvia Podlisca.
 
-{{< image src="/img/glaubenssatz1.jpg" title="Hinderliche Gedanken, die sich zu Glaubenssätzen manifestiert haben, sind oft schwer wieder zu löschen. Egal wie sehr man sich auch bemüht, sie holen uns in Stresssituationen immer wieder ein. Glaubenssatzaufstellungen haben sowohl das persönliche Erleben wie auch das kollektive Bindungssystem im Blick. Dadurch werden die Glaubenssätze im Einklang mit ihrer Herkunft aufgelöst."float="left">}}
+{{< image src="/img/aufstllung_noe3.jpg" title="Hinderliche Gedanken, die sich zu Glaubenssätzen manifestiert haben, sind oft schwer wieder zu löschen. Egal wie sehr man sich auch bemüht, sie holen uns in Stresssituationen immer wieder ein. Glaubenssatzaufstellungen haben sowohl das persönliche Erleben wie auch das kollektive Bindungssystem im Blick. Dadurch werden die Glaubenssätze im Einklang mit ihrer Herkunft aufgelöst."float="left">}}
 
 Wer seine Zukunft aktiv gestalten, Blockaden lösen und seine Lebensqualität erhöhen möchte, der muss nicht nur die Vergangenheit verstehen, sondern vor allem im Hier und Jetzt leben. 
 
@@ -34,8 +34,10 @@ Damit richtet sich der Blick auch stark in die Vergangenheit. Die Glaubenssatzau
 {{% silvia %}}
 {{% /floatbox %}}
 
+
 {{< line icon="icon/aufstellung.png" >}}
 
+{{% floatbox %}}
 {{% box blue=1 %}}
 {{% small  %}}
 
@@ -47,7 +49,9 @@ Ein bekannter Lösungssatz in der klassischen Familienaufstellung ist die Bitte 
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-{{< image src="/img/glaubenssatz2.jpg" float="right" title="Alte Muster lösen und neue Realitäten erzeugen. Glaubenssatzaufstellung helfen bei der Ressourcenfindung und bei der Stabilisierung neuer gewünschter Muster." >}}
+{{% floatbox %}}
+
+{{< image src="/img/aufstllung_noe3.jpg" float="right" title="Alte Muster lösen und neue Realitäten erzeugen. Glaubenssatzaufstellung helfen bei der Ressourcenfindung und bei der Stabilisierung neuer gewünschter Muster.">}} 
 
 Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie? Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, keine einfache Umkehr darstellt, sondern viel eher eine wirksame neue Realität entsteht!
 
