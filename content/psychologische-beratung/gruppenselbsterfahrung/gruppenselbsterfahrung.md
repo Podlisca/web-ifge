@@ -19,10 +19,14 @@ og_image: "/img/aufstellung_noe1.jpg"
 
 {{< line icon="icon/aufstellung.png" >}}
 
-
-
-
 #### geschlossene Jahresgruppe in Wien: Start am 10.01.2024
+## **Weihnachtsaktion:**
+
+## **Jetzt buchen und € 100,- sparen auf die Einmalzahlung.** <br/>
+### **Dein Aktionscode:**
+**weihnachtsaktion23_segruppe**
+
+(Aktion gültig bis 15.12.2023 / Anmeldeschluss)
 
 ***
 
@@ -124,7 +128,19 @@ Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtssta
 {{< /card-more >}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Gruppe verbindlich buchen" veranstaltung="Gruppe verbindlich buchen: Selbsterfahrung-Jahresgruppe 2024 in Wien" value="1400" >}}
+*** 
+
+#### geschlossene Jahresgruppe in Wien: Start am 10.01.2024
+
+## **Weihnachtsaktion:**
+
+## **Jetzt buchen und € 100,- sparen auf die Einmalzahlung.** <br/>
+### **Dein Aktionscode:**
+**weihnachtsaktion23_segruppe**
+
+(Aktion gültig bis 15.12.2023 / Anmeldeschluss)
+
+{{< buchung-vorauswahl text="Gruppe verbindlich buchen" veranstaltung="Gruppe verbindlich buchen: Selbsterfahrung-Jahresgruppe 2024 in Wien" value="1300" >}}
 
 
 {{< line icon="icon/3_standorte.png" >}}

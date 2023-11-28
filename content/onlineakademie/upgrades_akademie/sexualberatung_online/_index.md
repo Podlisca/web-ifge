@@ -26,10 +26,6 @@ rich_faq:
 
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 ***
 
 <div class="box video">
@@ -91,10 +87,6 @@ rich_faq:
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
 
@@ -150,10 +142,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
 
@@ -188,7 +176,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off
-* **Betreute Lerngruppe** über Facebook
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 
 
 
@@ -301,10 +289,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
 
@@ -343,10 +327,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 ***
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung " value="1490" >}}
 

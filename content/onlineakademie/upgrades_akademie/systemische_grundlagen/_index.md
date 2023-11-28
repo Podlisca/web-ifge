@@ -28,10 +28,6 @@ aliases:
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 
 ***
@@ -96,10 +92,6 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " value="1490" >}}
 
@@ -157,10 +149,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " value="1490" >}}
 
@@ -195,7 +183,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter:innen **Feedback über das Erlebte**. Anschließend folgt eine **Fachdiskussion** mit Fragen von den Teilnehmer:innen und den Antworten von Silvia. 
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off
-* **Betreute Lerngruppe** über Facebook
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 
 ***
 
@@ -303,10 +291,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " value="1490" >}}
 
@@ -345,10 +329,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 ***
 
-# **Aktion**: 
-## **–20% Code BLACKFRIDAY23**<br/> 
-
-(gültig von 20.11. – 27.11.2023; einfach den Code direkt bei der Buchung im Feld "IFGE Aktionscode" eingeben)
 
 {{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="KURS KAUFEN: Online-Ausbildung: Grundlagen Aufstellungsarbeit & SGF Methode® " value="1490" >}}
 
