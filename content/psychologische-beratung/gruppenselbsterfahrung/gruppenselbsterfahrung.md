@@ -48,9 +48,6 @@ Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Pot
 </div> 
 
 
-
-{{% floatbox %}}
-
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box more=1 blue=1 %}}

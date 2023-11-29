@@ -56,8 +56,6 @@ rich_faq:
 {{< slogan >}}
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% floatbox %}}
-
 ## Weil Vergangenheit Zukunft mitgestaltet: Familienaufstellung mit Silvia Podlisca.
 
 
