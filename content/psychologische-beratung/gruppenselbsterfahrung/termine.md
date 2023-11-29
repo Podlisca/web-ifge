@@ -33,34 +33,15 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 {{< line icon="icon/aufstellung.png" >}}
 
+<br>
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar;Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="160" >}}
+</br>
+
+
 {{% box top-align=1 %}}
 {{% small  %}}
 #### Wien
 {{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-#### Eintagesseminare
-
-
-**24.11.2023** 14:00 - 20:00 Uhr</br>
-**06.12.2023** 09:30 - 13:30 Uhr</br>
-**18.12.2023** 14:00 - 20:30 Uhr</br>
-
-**14.01.2024** 09:00 - 18:00 Uhr</br>
-**26.01.2024** 14:00 - 20:00 Uhr</br>
-**31.01.2024** 09:30 - 13:30 Uhr</br>
-**09.03.2024** 10:00 - 16:00 Uhr</br>
-**06.04.2024** 10:00 - 16:00 Uhr</br>
-**21.04.2024** 09:00 - 18:00 Uhr</br>	
-**11.05.2024** 10:00 - 16:00 Uhr</br>
-**15.05.2024** 09:30 - 13:30 Uhr</br>	
-**22.05.2024** 09:30 - 13:30 Uhr</br>
-**25.05.2024** 10:00 - 16:00 Uhr</br>
-**02.06.2024** 09:00 - 18:00 Uhr</br>
-
-
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
 
 {{% /small  %}}
 
@@ -74,30 +55,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 **Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
 **Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
 **Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
-
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
-
-#### Eintagesseminare
-
-
-**09.11.2023**	14:00 - 20:00 Uhr</br>
-**06.12.2023**	09:30	13:30 Uhr</br>
-**04.12.2023**	14:00 - 20:00 Uhr</br>
-**07.12.2023**	14:00 - 20:00 Uhr</br>
-
-**14.01.2024**	09:00	18:00 Uhr</br>
-**18.01.2024**	14:00 - 20:00 Uhr</br>
-**31.01.2024**	09:30	13:30 Uhr</br>
-**22.02.2024**	14:00 - 20:00 Uhr</br>
-**11.04.2024**	14:00 - 20:00 Uhr</br>
-**21.04.2024**	09:00	18:00 Uhr</br>
-**25.04.2024**	14:00 - 20:00 Uhr</br>
-**15.05.2024**	09:30	13:30 Uhr</br>
-**22.05.2024**	09:30	13:30 Uhr</br>
-**20.06.2024**	14:00 - 20:00 Uhr</br>
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
 
 {{% /small  %}}
 {{% /box %}}

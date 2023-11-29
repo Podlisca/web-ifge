@@ -35,46 +35,12 @@ In der offenen Supervisionsgruppe profitieren Sie von den **unterschiedlichen Si
 
 {{< line icon="icon/termine.png" >}}
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Termine IFGE Wien: 
-{{< image src="/img/ifge_wien.jpg">}}
+<br>
+{{< buchung vorlagen="Offener Supervisionstag Online 4,5 UE;" text="Jetzt verbindlich anmelden" value="80" >}}
+</br>
 
-**11.11.2023**<br/>
-von 16:00 bis 20:00 Uhr
-<br/> 
-<br/> 
+
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 11.11.2023" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Termine Online: 
-{{< image src="/img/onlineunterricht.jpg">}}
-
-**13.10.2023**<br/>
-von 16:00 bis 20:00 Uhr
-<br/>
-<br/> 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 13.10.2023" >}}
-
-***
-
-**15.12.2023**<br/>
-von 14:00 bis 18:00 Uhr
-<br/>
-<br/> 
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Offener Supervisionstag: 15.12.2023" >}}
-
-
-
-
-{{% /small  %}}
-{{% /box %}}
-
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

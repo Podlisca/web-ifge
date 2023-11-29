@@ -57,4 +57,3 @@ MitarbeiterInnen werden „ganzheitlich“ gesehen und Unternehmen bieten vermeh
 
 Firmen haben auch per Gesetz eine soziale Verantwortung für ihre MitarbeiterInnen. Mit der ASchG-Novelle, die am 1.1.2013 in Kraft getreten ist, wird die Wichtigkeit der psychischen Gesundheit und der Prävention arbeitsbedingter psychischer Belastungen, die zu Fehlbeanspruchungen führen, stärker betont. Schon lange ist bekannt, dass persönliche Probleme, wie auch Probleme am Arbeitsplatz, dazu führen, dass MitarbeiterInnen unzufrieden, ineffizient und letztendlich krank werden können.
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}
