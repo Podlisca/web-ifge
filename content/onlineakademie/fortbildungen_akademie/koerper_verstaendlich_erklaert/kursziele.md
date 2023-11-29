@@ -33,7 +33,11 @@ Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitione
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
+
+<br>
+{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Kurs kaufen" value="490" >}}
+</br>
+
 
 {{< line icon="icon/psychosomatik.png" >}}
 

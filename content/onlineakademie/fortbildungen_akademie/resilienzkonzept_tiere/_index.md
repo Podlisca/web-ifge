@@ -51,7 +51,9 @@ Wer diesen Kurs bucht, hat ganze **drei Jahre vollen Zugriff** auf die Lernplatt
 
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
+<br>
+{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Kurs kaufen" value="490" >}}
+</br>
 
 {{% floatbox %}}
 

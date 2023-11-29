@@ -46,4 +46,7 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
+
+<br>
+{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Kurs kaufen" value="490" >}}
+</br>

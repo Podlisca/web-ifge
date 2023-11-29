@@ -37,7 +37,9 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
+<br>
+{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+</br>
 
 ***
 
@@ -78,4 +80,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Margit Knor](/about/referenten-lsb/#margit-knor)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychosozialem Setting. " >}}
+<br>
+{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+</br>

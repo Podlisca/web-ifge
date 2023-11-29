@@ -42,8 +42,9 @@ zu überweisen. Bitte geben Sie als Verwendungszweck "Onlineausbildung Erste Hil
 Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
 Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
   
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. " >}}
+<br>
+{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Kurs kaufen" value="149" >}}
+</br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
@@ -71,4 +72,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. " >}}
+<br>
+{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Kurs kaufen" value="149" >}}
+</br>

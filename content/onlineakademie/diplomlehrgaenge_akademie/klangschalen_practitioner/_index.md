@@ -113,7 +113,7 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{< buchung lehrplaene="Familienaufstellung Eintages Seminar" value="2980" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -170,7 +170,9 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner  " value="2980" >}}
+<br>
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+</br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -405,8 +407,9 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{< /card-more >}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Onlineausbildung: Klangschalen Practitioner " value="2980">}}
-
+<br>
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+</br>
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
 
 {{< line icon="icon/klangschale.png">}}
@@ -448,7 +451,8 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 **6. Gerichtstand:**
 Wien, Österreich
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " value="2980" >}}
+<br>
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+</br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
