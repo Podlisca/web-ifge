@@ -24,5 +24,6 @@ export interface AnmeldeProdukt {
     seminartage?: Array<SeminartagDto>;
     freiePlaetze?: number;
     unterrichtsKlient?: boolean;
+    isOnlineakademie?: boolean;
 }
 

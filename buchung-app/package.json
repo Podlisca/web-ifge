@@ -11,7 +11,7 @@
     "apigen-clear": "rm -r src/app/+core/gen",
     "el-build": "npm run el-build-task && npm run el-package-task",
     "el-build-task": "ng build app",
-    "el-package-task": "cat ./dist/app/{polyfills*,runtime*,main*}.js > ../static/app/ifge-buchung.js"
+    "el-package-task": "cat ./dist/app/{polyfills*,runtime*,main*}.js > ../static/app/ifge-buchung.js; cat ./dist/app/styles*.css > ../static/app/ifge-buchung.css"
   },
   "private": true,
   "dependencies": {

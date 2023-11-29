@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output, ViewEncapsulation } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { AnmeldeProdukt, AnmeldeProduktQuery } from './+core/gen';
 import { AnmeldungComponent } from './anmeldung/anmeldung.component';
@@ -13,7 +13,6 @@ import { ProdukteComponent } from './produkte/produkte.component';
   standalone: true,
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
-  // encapsulation: ViewEncapsulation.ShadowDom,
   imports: [
     CommonModule,
     AnmeldungComponent,
@@ -28,19 +27,16 @@ export class AppComponent implements OnInit {
 
   _vorlagen: string[] = [];
   @Input() set vorlagen(val: string) {
-    console.log("set input", val)
     this._vorlagen = val.split(";");
   }
-  
+
   _produkte: string[] = [];
   @Input() set produkte(val: string) {
-    console.log("set input", val)
     this._produkte = val.split(";");
   }
-  
-  _lehrplaene: string[] = [];
+
+  _lehrplaene: string[] = [];//["Fortbildung: Die Kunst des Utilisierens"];
   @Input() set lehrplaene(val: string) {
-    console.log("set input", val)
     this._lehrplaene = val.split(";");
   }
 
@@ -63,9 +59,9 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log("ngOnInit vorlagen", this._vorlagen)
-    console.log("ngOnInit produkte", this._produkte)
-    console.log("ngOnInit lehrplaene", this._lehrplaene)
+    // console.log("ngOnInit vorlagen", this._vorlagen)
+    // console.log("ngOnInit produkte", this._produkte)
+    // console.log("ngOnInit lehrplaene", this._lehrplaene)
     this.query = {
       produktNamen: this._produkte,
       // ...this.produkte,
