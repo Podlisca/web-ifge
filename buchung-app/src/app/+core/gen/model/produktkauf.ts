@@ -28,5 +28,6 @@ export interface Produktkauf {
     plz?: string;
     ort?: string;
     seminartage?: Array<number>;
+    recaptcha_token?: string;
 }
 

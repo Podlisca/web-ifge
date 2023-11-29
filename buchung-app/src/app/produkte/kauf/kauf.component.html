@@ -86,7 +86,7 @@
   <button mat-raised-button (click)="goBack()" class="large">
     Zurück
   </button>
-  <button mat-raised-button color="primary" (click)="kaufe()" [disabled]="form.invalid" class="large">
+  <button mat-raised-button color="primary" [disabled]="form.invalid" class="large" (click)="kaufRequest()">
     <mat-icon>check_circle</mat-icon> Bezahlungspflichtig Kaufen
   </button>
 </div>

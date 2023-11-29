@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, EventEmitter, Input, OnInit, Output, ViewEncapsulation } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { AnmeldeProdukt, AnmeldeProduktQuery } from './+core/gen';
 import { AnmeldungComponent } from './anmeldung/anmeldung.component';
@@ -59,18 +59,9 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    // console.log("ngOnInit vorlagen", this._vorlagen)
-    // console.log("ngOnInit produkte", this._produkte)
-    // console.log("ngOnInit lehrplaene", this._lehrplaene)
     this.query = {
       produktNamen: this._produkte,
-      // ...this.produkte,
-      // "Eintagesaufstellung 6 Stunden",
-      // "Freischaltung Onlineakademie",
-      // "Tiercoaching: Intensivtraining in Pinkafeld 2024",
-      // "LSB 17 Sonntag St. Pölten"],
-      // ],
-      vorlagenNamen: this._vorlagen,        // "Familienaufstellung Eintages Seminar",
+      vorlagenNamen: this._vorlagen,
       lehrplaene: this._lehrplaene
     }
   }
