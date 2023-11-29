@@ -30,4 +30,7 @@ Zahlung sofort  <br/>
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
+
+<br>
+{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Kurs kaufen" value="490" >}}
+</br>

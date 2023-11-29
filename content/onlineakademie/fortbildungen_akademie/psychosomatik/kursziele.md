@@ -32,7 +32,9 @@ Wir betrachten Psychosomatik aus **unterschiedlichen Perspektiven** und verknüp
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. " >}}
+<br>
+{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Kurs kaufen" value="490" >}}
+</br>
 
 {{< line icon="icon/psychosomatik.png" >}}
 

@@ -34,8 +34,9 @@ Der Onlinekurs „Tiere als Resilienzkonzept in der psychologischen Beratung“ 
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
+<br>
+{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Kurs kaufen" value="490" >}}
+</br>
 
 ***
 {{% box top-align=1 %}}
@@ -92,4 +93,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
+<br>
+{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Kurs kaufen" value="490" >}}
+</br>
