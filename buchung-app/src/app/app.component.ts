@@ -26,9 +26,23 @@ export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  @Input({ transform: toArray }) produkte: string[] = [];
-  @Input({ transform: toArray }) vorlagen: string[] = [];
-  @Input({ transform: toArray }) lehrplaene: string[] = [];
+  _vorlagen: string[] = [];
+  @Input() set vorlagen(val: string) {
+    console.log("set input", val)
+    this._vorlagen = val.split(";");
+  }
+  
+  _produkte: string[] = [];
+  @Input() set produkte(val: string) {
+    console.log("set input", val)
+    this._produkte = val.split(";");
+  }
+  
+  _lehrplaene: string[] = [];
+  @Input() set lehrplaene(val: string) {
+    console.log("set input", val)
+    this._lehrplaene = val.split(";");
+  }
 
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
 
@@ -49,19 +63,19 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log("ngOnInit vorlagen", this.vorlagen)
-    console.log("ngOnInit produkte", this.produkte)
-    console.log("ngOnInit lehrplaene", this.lehrplaene)
+    console.log("ngOnInit vorlagen", this._vorlagen)
+    console.log("ngOnInit produkte", this._produkte)
+    console.log("ngOnInit lehrplaene", this._lehrplaene)
     this.query = {
-      produktNamen: this.produkte,
+      produktNamen: this._produkte,
       // ...this.produkte,
       // "Eintagesaufstellung 6 Stunden",
       // "Freischaltung Onlineakademie",
       // "Tiercoaching: Intensivtraining in Pinkafeld 2024",
       // "LSB 17 Sonntag St. Pölten"],
       // ],
-      vorlagenNamen: this.vorlagen,        // "Familienaufstellung Eintages Seminar",
-      lehrplaene: this.lehrplaene
+      vorlagenNamen: this._vorlagen,        // "Familienaufstellung Eintages Seminar",
+      lehrplaene: this._lehrplaene
     }
   }
 

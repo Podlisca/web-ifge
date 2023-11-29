@@ -41,6 +41,8 @@ rich_faq:
 {{< slogan >}}
 
 {{< buchung vorlagen="Supervision Jahresgruppe" >}}
+{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" >}}
+{{< buchung produkte="Die Kunst des Utilisierens" >}}
 
 
 {{< line icon="icon/tiere.png" >}}
@@ -420,7 +422,7 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 #### Intensivtraining in Pinkafeld: 22.07. -26.07.2024
 * Alle Fragen zum Lehrstoff sind Willkommen
 * Beratungsgespräche üben
-{{< buchung text="Anmeldung Intensivtraining" lehrplaene="Familienaufstellung Eintages Seminar" >}}
+{{< buchung-vorauswahl text="Anmeldung Intensivtraining" lehrplaene="Familienaufstellung Eintages Seminar" >}}
 
 {{< /card-more >}}
 {{% /box %}}
