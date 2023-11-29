@@ -1,21 +1,21 @@
-<h4>Sie möchten folgendes kaufen</h4>
+<h4>Für folgendes Produkt hast du dich entschieden:</h4>
 
-{{ produkt.name }} {{ produkt.unterrichtsKlient ? ' UK' : ''}}
+<h3>
+  {{ produkt.name }} {{ produkt.unterrichtsKlient ? ' UK' : ''}}
+</h3>
 
-<h4>Termine</h4>
-<ul>
-  <li *ngFor="let tag of produkt?.seminartage">
-    {{ tag.datum }} {{ tag.startzeit | date: 'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
-  </li>
-</ul>
-
-<p>
-  Bitte füllen Sie die folgenden Daten vollständig aus um die Anmeldung abzuschließen:
-</p>
+<ng-container *ngIf="!produkt.isOnlineakademie">
+  <h4>Termine</h4>
+  <ul>
+    <li *ngFor="let tag of produkt?.seminartage">
+      {{ tag.datum }} {{ tag.startzeit | date: 'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+    </li>
+  </ul>
+</ng-container>
 
 <div [formGroup]="form" class="formular">
 
-  <h4>Bitte wählen Sie ihre Zahlungsvariante</h4>
+  <h4>Bitte wähle deine Zahlungsvariante</h4>
   <mat-radio-group class="preise" formControlName="preis">
     <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis.id">
       {{ preis.name }} {{preis.betrag | currency}}
@@ -24,7 +24,7 @@
   <br>
   <mat-form-field>
     <mat-label>Aktionscode</mat-label>
-    <input matInput placeholder="Aktionscode" formControlName="aktionscode">
+    <input matInput placeholder="Hast du einen Aktionscode?" formControlName="aktionscode">
   </mat-form-field>
 
   <h4>Persönliche Daten</h4>
