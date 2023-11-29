@@ -8,8 +8,9 @@
                 <div class="group" *ngFor="let view of vmOrt">
                     <div class="title"> {{view.title}}</div>
                     <div>
-                        <app-termin [produkt]="p" *ngFor="let p of view.produkte; let idx = index" (onSelect)="onSelect($event)" [idx]="idx"
-                            [class.selected]="idx === selection" />
+                        <app-termin [produkt]="p" *ngFor="let p of view.produkte; let idx = index"
+                            (onSelect)="onSelect($event)" [idx]="idx"
+                            [class.selected]="idx === selection?.index && vmOrt[0].ort == selection?.produkt?.ort" />
                     </div>
                 </div>
             </div>

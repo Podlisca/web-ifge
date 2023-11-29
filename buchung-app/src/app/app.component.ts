@@ -1,12 +1,11 @@
-import { BooleanInput, coerceBooleanProperty } from '@angular/cdk/coercion';
 import { CommonModule } from '@angular/common';
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
+import { AnmeldeProdukt, AnmeldeProduktQuery } from './+core/gen';
 import { AnmeldungComponent } from './anmeldung/anmeldung.component';
 import { LwrBookingEvent, defaultConfig } from './app.config';
-import { ProdukteComponent } from './produkte/produkte.component';
-import { AnmeldeProdukt } from './+core/gen';
 import { KaufComponent } from './produkte/kauf/kauf.component';
+import { ProdukteComponent } from './produkte/produkte.component';
 
 
 @Component({
@@ -23,37 +22,19 @@ import { KaufComponent } from './produkte/kauf/kauf.component';
     KaufComponent,
   ],
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  _veranstaltungen: string[] = [];
-  @Input() set veranstaltungen(val: string) {
-    this._veranstaltungen = val.split(";");
-  }
-
-  _veranstaltungSelected: string | undefined;
-  @Input() set veranstaltung(val: string) {
-    this._veranstaltungSelected = val;
-  }
+  @Input({ transform: toArray }) produkte: string[] = [];
+  @Input({ transform: toArray }) vorlagen: string[] = [];
+  @Input({ transform: toArray }) lehrplaene: string[] = [];
 
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
 
-  @Input() text = "Kaufen";
+  @Input() text = "Jetzt verbindlich anmelden";
 
   @Output('submit') anmeldung = new EventEmitter<void>();
-
-  private _aufstellungen = false;
-  get aufstellungen() { return this._aufstellungen; }
-  @Input() set aufstellungen(value: BooleanInput) {
-    this._aufstellungen = coerceBooleanProperty(value);
-  };
-
-  private _expandable = true;
-  get expandable() { return this._expandable; }
-  @Input() set expandable(value: BooleanInput) {
-    this._expandable = coerceBooleanProperty(value);
-  }
 
   private continueListener?: (t: any) => {};
   private terminSelectListener?: (t: any) => {};
@@ -61,9 +42,27 @@ export class AppComponent {
 
   step = 0;
   selection?: AnmeldeProdukt
+  query?: AnmeldeProduktQuery;
 
   constructor() {
     this.configure();
+  }
+
+  ngOnInit() {
+    console.log("ngOnInit vorlagen", this.vorlagen)
+    console.log("ngOnInit produkte", this.produkte)
+    console.log("ngOnInit lehrplaene", this.lehrplaene)
+    this.query = {
+      produktNamen: this.produkte,
+      // ...this.produkte,
+      // "Eintagesaufstellung 6 Stunden",
+      // "Freischaltung Onlineakademie",
+      // "Tiercoaching: Intensivtraining in Pinkafeld 2024",
+      // "LSB 17 Sonntag St. Pölten"],
+      // ],
+      vorlagenNamen: this.vorlagen,        // "Familienaufstellung Eintages Seminar",
+      lehrplaene: this.lehrplaene
+    }
   }
 
   next() {
@@ -98,4 +97,12 @@ export class AppComponent {
     document.documentElement.style.setProperty("--ltw-color-termin-selected", this.config.color_termin_selected);
   }
 
+}
+
+function toArray(value: any) {
+  console.log("toArray INput", value)
+  if (typeof value == 'string') {
+    return value.split(";")
+  }
+  return [];
 }

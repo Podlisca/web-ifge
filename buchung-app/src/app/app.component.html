@@ -1,12 +1,11 @@
-<app-produkte (produktSelected)="selection = $event" *ngIf="step == 0" />
+<app-produkte *ngIf="step == 0 && query" (produktSelected)="selection = $event" [query]="query" />
 
-<app-kauf [produkt]="selection" *ngIf="selection && step == 1" (back)="step = 0"/>
+<app-kauf [produkt]="selection" *ngIf="selection && step == 1" (back)="step = 0" />
 
-<!--  <app-anmeldung [aufstellungen]="aufstellungen" />  -->
 <div class="action" *ngIf="step == 0">
     <button mat-raised-button color="accent" (click)="next()" [disabled]="!selection" id="next-btn" #nextButton
         [title]="!selection ? 'Wählen Sie zuerst einen Termin aus der obigen Auswahl um fortzufahren.' : ''"
         class="btn-bg large">
-        Jetzt kaufen
-    </button>    
+        {{ text }}
+    </button>
 </div>

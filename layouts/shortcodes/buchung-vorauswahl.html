@@ -1,6 +1,1 @@
-{{ $value := 0 }}
-{{ if .Get "value" }}
-{{ $value = .Get "value" }}
-{{ end }}
-
-<ifge-buchung veranstaltung='{{ .Get "veranstaltung" }}' {{ with .Get "text"}} text='{{ . }}' {{ end }} onsubmit="console.log({{ $value }}); gtag_report_conversion({{$value}});"></ifge-buchung>
+todo: migrate

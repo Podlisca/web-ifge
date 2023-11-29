@@ -40,6 +40,8 @@ rich_faq:
 # Schwerpunkt: Hunde, Katzen & Pferde
 {{< slogan >}}
 
+{{< buchung vorlagen="Supervision Jahresgruppe" >}}
+
 
 {{< line icon="icon/tiere.png" >}}
 
@@ -418,7 +420,7 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 #### Intensivtraining in Pinkafeld: 22.07. -26.07.2024
 * Alle Fragen zum Lehrstoff sind Willkommen
 * Beratungsgespräche üben
-{{< buchung-vorauswahl text="Anmeldung Intensivtraining" veranstaltung="Anmeldung: Tiercoaching: Intensivtraining in Pinkafeld 2024" >}}
+{{< buchung text="Anmeldung Intensivtraining" lehrplaene="Familienaufstellung Eintages Seminar" >}}
 
 {{< /card-more >}}
 {{% /box %}}

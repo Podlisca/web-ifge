@@ -8,6 +8,7 @@ import { bootstrapApplication, createApplication } from '@angular/platform-brows
 import { provideAnimations } from '@angular/platform-browser/animations';
 import { AppComponent } from './app/app.component';
 import { environment } from './environments/environment';
+import { BASE_PATH } from './app/+core/gen';
 
 if (environment.production) {
   enableProdMode();
@@ -26,6 +27,7 @@ if (!environment.production) {
         { provide: DEFAULT_CURRENCY_CODE, useValue: "EUR" },
         { provide: LOCALE_ID, useValue: "de" },
         { provide: MAT_DATE_LOCALE, useValue: 'de-DE' },
+        { provide: BASE_PATH, useValue: environment.api },
       ]
     }
   );
@@ -37,6 +39,9 @@ else {
       provideHttpClient(),
       provideAnimations(),
       { provide: DEFAULT_CURRENCY_CODE, useValue: "EUR" },
+      { provide: LOCALE_ID, useValue: "de" },
+      { provide: MAT_DATE_LOCALE, useValue: 'de-DE' },
+      { provide: BASE_PATH, useValue: environment.api },
     ]
   }).then((appRef) => {
     // create a constructor of a custom element
