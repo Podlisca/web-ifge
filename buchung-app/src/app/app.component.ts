@@ -30,7 +30,7 @@ export class AppComponent implements OnInit {
     this._vorlagen = val.split(";");
   }
 
-  _produkte: string[] = ["Onlineakademie: Tiergestütztes Coaching"];
+  _produkte: string[] = [];
   @Input() set produkte(val: string) {
     this._produkte = val.split(";");
   }
