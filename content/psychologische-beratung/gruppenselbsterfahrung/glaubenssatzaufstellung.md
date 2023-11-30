@@ -49,7 +49,7 @@ Ein bekannter Lösungssatz in der klassischen Familienaufstellung ist die Bitte 
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-{{% floatbox %}}
+{{% /floatbox %}}
 
 {{< image src="/img/aufstllung_noe3.jpg" float="right" title="Alte Muster lösen und neue Realitäten erzeugen. Glaubenssatzaufstellung helfen bei der Ressourcenfindung und bei der Stabilisierung neuer gewünschter Muster.">}} 
 
