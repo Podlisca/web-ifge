@@ -23,5 +23,5 @@ body {
 }
 
 button.mdc-button:disabled {
-    background-color: var(--color-accent-200);
+    background-color: var(--color-accent-100);
 }

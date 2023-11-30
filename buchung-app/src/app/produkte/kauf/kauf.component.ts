@@ -58,10 +58,10 @@ export class KaufComponent implements OnInit {
       widerruf: [undefined, Validators.required],
       preis: [undefined, Validators.required],
       aktionscode: [""],
-      strasse: [""],
-      nr: [""],
-      plz: [""],
-      ort: [""],
+      strasse: ["", Validators.required],
+      nr: ["", Validators.required],
+      plz: ["", Validators.required],
+      ort: ["", Validators.required],
     });
   }
 

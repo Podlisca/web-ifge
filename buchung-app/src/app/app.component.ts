@@ -25,17 +25,17 @@ export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  _vorlagen: string[] = [];
+  _vorlagen: string[] = [];//"Familienaufstellung Eintages Seminar (6 Stunden)"];
   @Input() set vorlagen(val: string) {
     this._vorlagen = val.split(";");
   }
 
-  _produkte: string[] = [];
+  _produkte: string[] = [];// ["Offene SV Gruppe - März 2024", "LSB 21 Wien Montag"];
   @Input() set produkte(val: string) {
     this._produkte = val.split(";");
   }
 
-  _lehrplaene: string[] = [];//["Fortbildung: Die Kunst des Utilisierens"];
+  _lehrplaene: string[] = [];// ["Fortbildung: Die Kunst des Utilisierens"];
   @Input() set lehrplaene(val: string) {
     this._lehrplaene = val.split(";");
   }
