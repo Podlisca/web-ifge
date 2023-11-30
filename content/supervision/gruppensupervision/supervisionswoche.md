@@ -35,42 +35,12 @@ Die Schulungs- und Supervisionswoche ist für alle Personen, die im psychologisc
 {{% /floatbox %}}
 {{< line icon="/icon/termine.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
+<br>
+{{< buchung vorlagen="Supervisionswoche 38 UE" text="Jetzt verbindlich anmelden" value="80" >}}
+</br>
 
-{{% /small  %}}
-{{% /box %}}
-
-{{% box blue=1 top-align=1 %}}
-{{% small  %}}
-#### Wien  
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-
-### 26.08. - 30.08.2024<br/>
-
-Mo. - Do. 09:00 bis 18:00 Uhr<br/>
-Fr. 09:00 bis 14:00 Uhr<br/>
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervision - Intensivwoche Wien 2024" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-### 29.07. - 02.08.2024 <br/>
-
-Mo. - Do. 09:00 bis 18:00 Uhr<br/>
-Fr. 09:00 bis 14:00 Uhr<br/>
-Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervision - Intensivwoche Bgld. 2024" >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 
 {{< line icon="/icon/vertrag.png" >}}
@@ -89,6 +59,9 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater:
 
 {{% box blue=1 %}}
 {{% small  %}}
+
+
+
 ### ALLGEMEINE GESCHÄFTSBEDINGUNGEN
 
 Bei Absage bis zu 12 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminar-/Lehrgangsgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten. 

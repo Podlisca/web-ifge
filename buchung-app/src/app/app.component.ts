@@ -1,91 +1,109 @@
-import { BooleanInput, coerceBooleanProperty } from '@angular/cdk/coercion';
-import { CommonModule, DOCUMENT } from '@angular/common';
-import { AfterViewInit, Component, ElementRef, EventEmitter, Inject, Input, Output, Renderer2, ViewChild, ViewEncapsulation } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { MatButtonModule } from '@angular/material/button';
+import { AnmeldeProdukt, AnmeldeProduktQuery } from './+core/gen';
+import { AnmeldungComponent } from './anmeldung/anmeldung.component';
+import { LwrBookingEvent, defaultConfig } from './app.config';
+import { KaufComponent } from './produkte/kauf/kauf.component';
+import { ProdukteComponent } from './produkte/produkte.component';
 
-const RECAPTCHA_API = 'https://www.google.com/recaptcha/api.js';
-declare let grecaptcha: any;
 
 @Component({
   selector: 'app-root',
   standalone: true,
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
-  encapsulation: ViewEncapsulation.ShadowDom,
   imports: [
-    CommonModule
+    CommonModule,
+    AnmeldungComponent,
+    ProdukteComponent,
+    MatButtonModule,
+    KaufComponent,
   ],
 })
-export class AppComponent implements AfterViewInit {
+export class AppComponent implements OnInit {
 
-  _veranstaltungen: string[] = [];
-  @Input() set veranstaltungen(val: string) {
-    this._veranstaltungen = val.split(";");
+  config = defaultConfig;
+
+  _vorlagen: string[] = [];//"Familienaufstellung Eintages Seminar (6 Stunden)"];
+  @Input() set vorlagen(val: string) {
+    this._vorlagen = val.split(";");
   }
 
-  _veranstaltungSelected: string | undefined;
-  @Input() set veranstaltung(val: string) {
-    this._veranstaltungSelected = val;
+  _produkte: string[] = [];// ["Offene SV Gruppe - März 2024", "LSB 21 Wien Montag"];
+  @Input() set produkte(val: string) {
+    this._produkte = val.split(";");
+  }
+
+  _lehrplaene: string[] = [];// ["Fortbildung: Die Kunst des Utilisierens"];
+  @Input() set lehrplaene(val: string) {
+    this._lehrplaene = val.split(";");
   }
 
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
 
-  @Input() text = "Kaufen";
+  @Input() text = "Jetzt verbindlich anmelden";
 
   @Output('submit') anmeldung = new EventEmitter<void>();
 
-  private _aufstellungen = false;
-  get aufstellungen() { return this._aufstellungen; }
-  @Input() set aufstellungen(value: BooleanInput) {
-    this._aufstellungen = coerceBooleanProperty(value);
-  };
+  private continueListener?: (t: any) => {};
+  private terminSelectListener?: (t: any) => {};
+  private successListener?: (t: any) => {};
 
-  private _expandable = true;
-  get expandable() { return this._expandable; }
-  @Input() set expandable(value: BooleanInput) {
-    this._expandable = coerceBooleanProperty(value);
+  step = 0;
+  selection?: AnmeldeProdukt
+  query?: AnmeldeProduktQuery;
+
+  constructor() {
+    this.configure();
   }
 
-  expanded = false;
-
-  @ViewChild('cform') form!: ElementRef
-  @ViewChild('recaptchaResponse') recaptchaResponseField!: ElementRef
-
-  recaptchaResponse: string = "";
-
-  constructor(
-    private renderer: Renderer2,
-    @Inject(DOCUMENT) private document: Document) {
-  }
-
-  ngAfterViewInit(): void {
-    const scriptElement = this.loadJsScript(this.renderer, RECAPTCHA_API + "?render=" + this.recaptchaSiteKey);
-    scriptElement.onload = () => {
-
-      this.form.nativeElement.addEventListener('submit', (event: any) => {
-        event.preventDefault();
-        grecaptcha.ready(() => {
-          grecaptcha.execute(this.recaptchaSiteKey, { action: 'submit' }).then((token: any) => {
-            this.recaptchaResponseField.nativeElement.value = token;
-            // emit callback hook
-            this.anmeldung.emit();
-
-            this.form.nativeElement.submit();
-          });
-        });
-      });
-
-    }
-    scriptElement.onerror = () => {
-      console.log('Could not load the Google API Script!');
+  ngOnInit() {
+    this.query = {
+      produktNamen: this._produkte,
+      vorlagenNamen: this._vorlagen,
+      lehrplaene: this._lehrplaene
     }
   }
 
-  private loadJsScript(renderer: Renderer2, src: string): HTMLScriptElement {
-    const script = renderer.createElement('script');
-    script.type = 'text/javascript';
-    script.src = src;
-    renderer.appendChild(this.document.body, script);
-    return script;
+  next() {
+    this.step = 1;
+    if (this.continueListener) {
+      this.continueListener(this.selection);
+    }
   }
 
+  private configure() {
+    window.lwrData?.forEach(d => {
+      const [key, val] = d;
+      if (key == "config") {
+        this.config = Object.assign(this.config, val);
+      }
+      else if (key == LwrBookingEvent.selectTermin) {
+        this.terminSelectListener = d[1];
+      }
+      else if (key == LwrBookingEvent.continue) {
+        this.continueListener = d[1];
+      }
+      else if (key == LwrBookingEvent.success) {
+        this.successListener = d[1];
+      }
+    });
+
+    // set up css variables
+    document.documentElement.style.setProperty("--ltw-color-bg", this.config.color_hintergrund);
+    document.documentElement.style.setProperty("--ltw-color-btn", this.config.color_button);
+    document.documentElement.style.setProperty("--ltw-color-bundesland", this.config.color_bundesland);
+    document.documentElement.style.setProperty("--ltw-color-termin", this.config.color_termin);
+    document.documentElement.style.setProperty("--ltw-color-termin-selected", this.config.color_termin_selected);
+  }
+
+}
+
+function toArray(value: any) {
+  console.log("toArray INput", value)
+  if (typeof value == 'string') {
+    return value.split(";")
+  }
+  return [];
 }

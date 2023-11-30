@@ -46,4 +46,6 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
+<br>
+{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Kurs kaufen" value="490" >}}
+</br>

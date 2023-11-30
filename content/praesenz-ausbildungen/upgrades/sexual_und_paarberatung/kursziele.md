@@ -4,7 +4,7 @@ menu:
     main:
         parent: sexual_und_paarberatung
         identifier: sexual_und_paarberatung_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/sv_supervision.jpg"
 ---

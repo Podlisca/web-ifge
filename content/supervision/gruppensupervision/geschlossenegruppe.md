@@ -64,51 +64,11 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 
 ****  
 
-
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien - Gruppe 
-{{< image src="/img/ifge_wien.jpg">}}
-
-#### Start: 17.01.2024
-Die Gruppe findet 10 mal jährlich jeden **dritten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
-
-**Termine 2024:**
-
-{{< center >}}
-17.01.2024<br/>
-21.02.2024<br/>
-20.03.2024<br/>
-17.04.2024<br/>
-15.05.2024<br/>
-19.06.2024<br/>
-18.09.2024<br/>
-16.10.2024<br/>
-20.11.2024<br/>
-18.12.2024<br/>
-{{< /center >}}
+<br>
+{{< buchung vorlagen="Supervision Jahresgruppe" text="Jetzt verbindlich anmelden" value="800" >}}
+</br>
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
-
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Supervisions Jahresgruppe - Wien 2024 " >}}
-
-{{% /small  %}}
-
-
-{{% small  %}}
-#### Burgenland
-{{< image src="/img/seminarraum1.jpg">}}
-
-
-#### Termine in Planung
-Die Gruppe findet 10 mal jährlich jeden **zweiten Mittwoch** im Monat von 16:00 bis 20:00 Uhr statt.<br/>
-
-**Termine folgen:**
-
-
-{{% /small  %}}
-{{% /box %}}
 
 
 {{< line icon="noun_Information_478770-2.png" >}}

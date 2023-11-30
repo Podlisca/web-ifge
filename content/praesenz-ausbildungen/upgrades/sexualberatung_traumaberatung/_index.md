@@ -1,5 +1,5 @@
 ﻿---
-title: "Sexualberatung und Traumaberatung"
+title: "Besonderheit Sexualberatung"
 menu: 
     main:
         parent: upgrade

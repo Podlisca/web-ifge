@@ -32,7 +32,9 @@ Bei diesem Online-Kurs handelt es sich um eine Fortbildung. Wer sich noch **inte
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiere als Resilienzkonzept in der psychologischen Beratung. " >}}
+<br>
+{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Kurs kaufen" value="490" >}}
+</br>
 
 
 

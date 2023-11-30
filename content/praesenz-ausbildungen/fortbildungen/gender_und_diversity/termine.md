@@ -4,7 +4,7 @@ menu:
     main:
         parent: gender
         identifier: gender_termine
-draft: false
+draft: true
 weight: 3
 ---
 

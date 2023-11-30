@@ -4,7 +4,7 @@ menu:
     main:
         parent: hitlers_wien
         identifier: hitlers_wien_preise
-draft: false
+draft: true
 weight: 2
 ---
 

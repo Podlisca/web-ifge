@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortb
         identifier: politik
-draft: false
+draft: true
 weight: 3
 aliases: 
     - "/fortbildungen/historische_politische_aspekte/"

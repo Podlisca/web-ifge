@@ -1,0 +1,35 @@
+:host {
+    display: block;
+    padding: 2px 0;
+}
+
+:host.selected button {
+    background-color: var(--ltw-color-termin-selected);
+    color: white;
+}
+
+button {
+    width: 100%;
+    line-height: 20px;
+    border-radius: 3px!important;
+    border: 1px solid lightgray;
+    background-color: inherit;
+}
+
+/* button:not([disabled]):hover { */
+button:hover {
+    cursor: pointer;
+    transition: .1s;
+    background-color: #0000000d;
+}
+
+button .cont {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.bold {
+    font-weight: bold;
+}

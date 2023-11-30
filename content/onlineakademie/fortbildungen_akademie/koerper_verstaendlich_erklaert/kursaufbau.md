@@ -37,7 +37,10 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
+
+<br>
+{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Kurs kaufen" value="490" >}}
+</br>
 
 ***
 
@@ -82,4 +85,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Der menschliche Körper – verständlich erklärt. " >}}
+
+<br>
+{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Kurs kaufen" value="490" >}}
+</br>

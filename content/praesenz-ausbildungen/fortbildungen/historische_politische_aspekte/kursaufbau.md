@@ -4,7 +4,7 @@ menu:
     main:
         parent: politik
         identifier: politikkursaufbau
-draft: false
+draft: true
 weight: 1
 ---
 

@@ -34,4 +34,6 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Ganzheitlich gesund - Grundlagen Psychosomatik. " >}}
+<br>
+{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Kurs kaufen" value="490" >}}
+</br>

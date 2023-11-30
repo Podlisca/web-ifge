@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_sexualitaet_behinderung
         identifier: sex_behinderung_termine
-draft: false
+draft: true
 weight: 3
 ---
 

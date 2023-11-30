@@ -28,6 +28,6 @@ weight: 2
 Zahlung sofort  <br/>
 
 
-
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: FengShui im psychologischen Setting. " >}}
+<br>
+{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+</br>

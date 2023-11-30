@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortb
         identifier: hitlers_wien
-draft: false
+draft: true
 weight: 4
 aliases: 
     - "/fortbildungen/erlebnistour_hitlers_wien/"

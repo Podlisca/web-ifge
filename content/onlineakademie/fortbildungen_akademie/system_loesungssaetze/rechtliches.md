@@ -44,7 +44,10 @@ Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald d
 Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
   
 
-{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
+
+<br>
+{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Kurs kaufen" value="490" >}}
+</br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Allgemeine Geschäftsbedingungen
@@ -71,4 +74,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="KURS KAUFEN" veranstaltung="Online-Ausbildung: Familienaufstellung - SGF Methode® - Lösungssätze. " >}}
+<br>
+{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Kurs kaufen" value="490" >}}
+</br>

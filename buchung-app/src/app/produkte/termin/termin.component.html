@@ -1,0 +1,27 @@
+<button (click)="select()" [disabled]="produkt.freiePlaetze == 0">
+    <div class="cont">
+
+        <div class="bold" *ngIf="produkt.seminartage?.length! > 1 ?? false">Startdatum: {{produkt.startdatum | date:
+            'longDate'}}</div>
+        <ng-container *ngIf="produkt.vorlage">
+            <div *ngFor="let tag of produkt?.seminartage">
+                {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'shortDate' }} {{ tag.startzeit | date:
+                'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+            </div>
+        </ng-container>
+        <ng-container *ngIf="!produkt.isOnlineakademie; else online">
+            <div class="status" [ngSwitch]="produkt.freiePlaetze">
+                <span *ngSwitchCase="0">ausgebucht</span>
+                <span *ngSwitchCase="1">nur noch 1 freier Platz</span>
+                <span *ngSwitchCase="2">nur noch 2 freie Plätze</span>
+                <span *ngSwitchCase="3">nur noch 3 freie Plätze</span>
+                <span *ngSwitchDefault>noch freie Plätze</span>
+            </div>
+        </ng-container>
+        <ng-template #online>
+            <div>
+                Ich will flexibel online lernen.
+            </div>
+        </ng-template>
+    </div>
+</button>

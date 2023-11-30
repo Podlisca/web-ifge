@@ -21,91 +21,40 @@ weight: 6
 {{% small  %}}
 
 
+Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Es gibt sowohl die Möglichkeit für ein zweitätiges Seminar oder ein Wochenende von Freitag Nachmittag bis Sonntag. 
 
-Alle Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig, sowohl unter der Woche wie auch am Wochenende, statt.
+Bei den Eintagesseminaren kannst du ebenfalls in der Dauer unterscheiden. Diese werden in einem 4-stündigen, 6-stündigen und 8-stündigen Setting angeboten. 
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise und AGB finden Sie hier: [Preise](https://www.ifge.at/gruppenselbsterfahrung/preise/) / [AGB](https://www.ifge.at/agb/)
-
-**Alle Familienaufstellungen finden immer unter der Leitung von Frau  Silva Podlisca statt.**
-
+Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. 
 
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
+# Wähle den passenden Termin für dich:
 
-#### Eintagesseminare
+#### Familienaufstellung am Vormittag - 4 Stunden 
 
+<br>
+{{< buchung vorlagen="Familienaufstellung Vormittag (4 Stunden)" text="Jetzt verbindlich anmelden" value="120" >}}
+</br>
 
+#### Familienaufstellung 6 Stunden 
 
-**06.12.2023** 09:30 - 13:30 Uhr</br>
+<br>
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
+</br>
 
-**14.01.2024** 09:00 - 18:00 Uhr</br>
-**26.01.2024** 14:00 - 20:00 Uhr</br>
-**31.01.2024** 09:30 - 13:30 Uhr</br>
-**09.03.2024** 10:00 - 16:00 Uhr</br>
-**06.04.2024** 10:00 - 16:00 Uhr</br>
-**21.04.2024** 09:00 - 18:00 Uhr</br>	
-**11.05.2024** 10:00 - 16:00 Uhr</br>
-**15.05.2024** 09:30 - 13:30 Uhr</br>	
-**22.05.2024** 09:30 - 13:30 Uhr</br>
-**25.05.2024** 10:00 - 16:00 Uhr</br>
-**02.06.2024** 09:00 - 18:00 Uhr</br>
+#### Familienaufstellung Dreitages Seminar
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+<br>
+{{< buchung vorlagen="Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="360" >}}
+</br>
 
-
-
-Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
-
-#### Dreitages Seminar
-
-
-**Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
-**Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
-**Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
-
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
-
-#### Eintagesseminare
-
-
-**09.11.2023**	14:00 - 20:00 Uhr</br>
-**06.12.2023**	09:30	13:30 Uhr</br>
-**04.12.2023**	14:00 - 20:00 Uhr</br>
-**07.12.2023**	14:00 - 20:00 Uhr</br>
-
-**14.01.2024**	09:00	18:00 Uhr</br>
-**18.01.2024**	14:00 - 20:00 Uhr</br>
-**31.01.2024**	09:30	13:30 Uhr</br>
-**22.02.2024**	14:00 - 20:00 Uhr</br>
-**11.04.2024**	14:00 - 20:00 Uhr</br>
-**21.04.2024**	09:00	18:00 Uhr</br>
-**25.04.2024**	14:00 - 20:00 Uhr</br>
-**15.05.2024**	09:30	13:30 Uhr</br>
-**22.05.2024**	09:30	13:30 Uhr</br>
-**20.06.2024**	14:00 - 20:00 Uhr</br>
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
-
-Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
-
-{{% /small  %}}
-{{% /box %}}
-
-
+{{< line icon="icon/video.png" >}}
+## Verschaffe dir einen ersten Einblick:
+***
 
 {{% box top-align=1 %}}
 {{% small  %}}

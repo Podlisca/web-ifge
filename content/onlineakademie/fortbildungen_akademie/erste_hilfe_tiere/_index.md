@@ -52,9 +52,9 @@ Unsere **erfahrenen Referent:innen** zeigen dir in Form von Lehrvideos, Lernmate
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Erste Hilfe für Tiere. " >}}
-
-
+<br>
+{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Kurs kaufen" value="149" >}}
+</br>
 
 {{< line icon="icon/info_tuerkis.png" >}}
 

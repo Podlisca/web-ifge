@@ -3,7 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  api: "http://localhost:8080",  
+  // api: "https://api.ifge.cors.online/api/public/infoveranstaltung",
+  // url_success: "/",
+  url_success: "https://www.ifge.at/anmeldung/bestaetigung/",
+  url_dsgvo: "https://www.ifge.at/datenschutz",
 };
 
 /*

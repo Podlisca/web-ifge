@@ -57,7 +57,7 @@ Online von 18:30 Uhr - 20:00 Uhr
 <br/>
 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Weihnachtsaktion - Intensivtraining Klangschale in Pinkafeld" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 
 
 {{% /small %}}

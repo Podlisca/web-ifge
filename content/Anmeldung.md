@@ -18,4 +18,3 @@ Bei Familienaufstellungen bitte bekannt geben ob Sie als Teilnehmer:in mit eigen
 Mit Ihrer Anmeldung stimmen Sie den [AGB](/agb/) zu. Die [Widerrufsbelehrung](/widerrufsbelehrung/) und [Datenschutzerklärungen](/datenschutz/) wurden gelesen und akzeptiert.
 
 {{< line >}}
-{{< buchung-alle >}}

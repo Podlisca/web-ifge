@@ -92,7 +92,8 @@ Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den
 ##### (Aktion gültig bis 24.12.2023)
 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Präsenzseminar (IFGE Wien): Die Kunst des Utilisierens " value="690" >}}
+{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Kurs kaufen" value="490" >}}
+
 <br/>
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Termine" >}}
@@ -161,7 +162,8 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 ##### (Aktion gültig bis 24.12.2023)
 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Präsenzseminar (IFGE Wien): Die Kunst des Utilisierens " value="690" >}} 
+
+{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Kurs kaufen" value="490" >}}
 
 
 

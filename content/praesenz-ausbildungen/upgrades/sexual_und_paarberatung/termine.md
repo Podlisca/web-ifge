@@ -4,7 +4,7 @@ menu:
     main:
         parent: sexual_und_paarberatung
         identifier: sexual_und_paarberatung_termine
-draft: false
+draft: true
 weight: 3
 ---
 

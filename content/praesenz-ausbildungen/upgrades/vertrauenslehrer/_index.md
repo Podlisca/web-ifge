@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade
         identifier: vertrauenslehrer
-draft: false
+draft: true
 weight: 8
 aliases: 
     - "/upgrades/vertrauenslehrer/"

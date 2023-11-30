@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.flex-cont {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem
+}
+
+.mdc-button.large {
+    font-size: 16px;
+}
+
+button.mdc-button:disabled {
+    background-color: var(--color-accent-100);
+}

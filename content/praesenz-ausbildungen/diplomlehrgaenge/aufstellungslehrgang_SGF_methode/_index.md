@@ -85,8 +85,9 @@ Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silv
 
 </div> 
 
-
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
+<br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+</br>
 
 {{< line icon="icon/diplomlehrgang.png" >}}
 
@@ -129,5 +130,7 @@ Wir können familiäre Vergangenheit nicht ändern, aber wir können uns damit v
 
 {{% /box %}}
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplom Aufstellungslehrgang SGF®-Methode : 07.09.2024 in Pinkafeld" >}}
+<br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+</br>
 

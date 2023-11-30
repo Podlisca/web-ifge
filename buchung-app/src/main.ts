@@ -1,28 +1,47 @@
-import { enableProdMode } from '@angular/core';
+import { registerLocaleData } from '@angular/common';
+import { provideHttpClient } from '@angular/common/http';
+import de from "@angular/common/locales/de";
+import { DEFAULT_CURRENCY_CODE, LOCALE_ID, enableProdMode } from '@angular/core';
 import { createCustomElement } from '@angular/elements';
+import { MAT_DATE_LOCALE } from '@angular/material/core';
 import { bootstrapApplication, createApplication } from '@angular/platform-browser';
+import { provideAnimations } from '@angular/platform-browser/animations';
 import { AppComponent } from './app/app.component';
-
 import { environment } from './environments/environment';
+import { BASE_PATH } from './app/+core/gen';
 
 if (environment.production) {
   enableProdMode();
 }
 
+registerLocaleData(de, "de");
+
 if (!environment.production) {
   console.log("ltw development")
   // for development mode only
   bootstrapApplication(AppComponent,
-    //   {
-    //   providers: provideAnimations()
-    // }
+    {
+      providers: [
+        provideHttpClient(),
+        provideAnimations(),
+        { provide: DEFAULT_CURRENCY_CODE, useValue: "EUR" },
+        { provide: LOCALE_ID, useValue: "de" },
+        { provide: MAT_DATE_LOCALE, useValue: 'de-DE' },
+        { provide: BASE_PATH, useValue: environment.api },
+      ]
+    }
   );
 }
 else {
   // get a hand on the `ApplicationRef` to access its injector
   createApplication({
     providers: [
-      // provideAnimations()
+      provideHttpClient(),
+      provideAnimations(),
+      { provide: DEFAULT_CURRENCY_CODE, useValue: "EUR" },
+      { provide: LOCALE_ID, useValue: "de" },
+      { provide: MAT_DATE_LOCALE, useValue: 'de-DE' },
+      { provide: BASE_PATH, useValue: environment.api },
     ]
   }).then((appRef) => {
     // create a constructor of a custom element
@@ -34,4 +53,8 @@ else {
     // register in a browser
     customElements.define('ifge-buchung', buchung);
   });
+}
+
+declare global {
+  interface Window { lwrData: any[]; }
 }

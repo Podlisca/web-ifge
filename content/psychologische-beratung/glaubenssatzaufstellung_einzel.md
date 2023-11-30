@@ -109,9 +109,6 @@ In der Glaubenssatzaufstellung richten wir den Blick auf die Gegenwart. Es geht 
 
 {{< line icon="icon/aufstellung.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
-
 
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:

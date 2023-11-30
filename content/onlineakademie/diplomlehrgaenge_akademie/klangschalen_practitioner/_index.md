@@ -125,7 +125,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 ##### (Aktion gültig bis 15.12.2023)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Onlineausbildung: Klangschalen Practitioner" value="2980" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -189,7 +189,11 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ##### (Aktion gültig bis 15.12.2023)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner  " value="2980" >}}
+
+<br>
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+</br>
+
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -424,17 +428,16 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{< /card-more >}}
 {{% /box %}}
 
-
 ***
-
 #### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
 
 #### Aktionscode: weihnachtsaktion23_ks
 
 ##### (Aktion gültig bis 15.12.2023)
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Onlineausbildung: Klangschalen Practitioner " value="2980">}}
-
+<br>
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
+</br>
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
 
 {{< line icon="icon/klangschale.png">}}
@@ -477,14 +480,14 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 Wien, Österreich
 
 ***
-
 #### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
 
 #### Aktionscode: weihnachtsaktion23_ks
 
 ##### (Aktion gültig bis 15.12.2023)
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " value="2980" >}}
+<br>
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
+</br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 

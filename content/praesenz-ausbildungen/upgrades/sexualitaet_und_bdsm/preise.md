@@ -4,7 +4,7 @@ menu:
     main:
         parent: sex_bdsm
         identifier: sex_bdsm_preise
-draft: false
+draft: true
 weight: 2
 ---
 

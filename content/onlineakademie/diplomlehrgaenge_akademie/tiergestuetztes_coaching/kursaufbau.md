@@ -244,4 +244,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}

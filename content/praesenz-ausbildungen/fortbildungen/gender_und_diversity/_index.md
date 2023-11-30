@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortb
         identifier: gender
-draft: false
+draft: true
 weight: 2
 aliases: 
     - "/fortbildungen/gender_und_diversity/"

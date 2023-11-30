@@ -1,0 +1,29 @@
+.preise {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.formular {
+    display: grid;
+    grid-template-columns: auto;
+    column-gap: 0.5em;
+    row-gap: 0.5em;
+}
+
+.mat-mdc-form-field-infix {
+    min-height: 50px;
+}
+
+@media (max-width: 700px) {
+    .formular {
+        grid-template-columns: auto;
+        row-gap: 0.2em;
+    }
+
+    .formular label {
+        margin-top: 0.6em;
+        text-align: left;
+        padding: 2px;
+    }
+}

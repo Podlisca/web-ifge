@@ -126,8 +126,9 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+<br>
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+</br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -185,8 +186,9 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< /card-more >}}
 {{% /box %}}
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+<br>
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+</br>
 
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -228,8 +230,7 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -432,13 +433,14 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 #### Intensivtraining in Pinkafeld: 22.07. -26.07.2024
 * Alle Fragen zum Lehrstoff sind Willkommen
 * Beratungsgespräche üben
-{{< buchung-vorauswahl text="Anmeldung Intensivtraining" veranstaltung="Anmeldung: Tiercoaching: Intensivtraining in Pinkafeld 2024" >}}
+
 
 {{< /card-more >}}
 {{% /box %}}
 
+***
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+{{< buchung vorlagen="Intensivtraining Onlineakademie Tiergestütztes Coaching" text="Anmeldung Intensivtraining" value="1290" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -483,7 +485,9 @@ Wien, Österreich
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " value="2980" >}}
+<br>
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+</br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade
         identifier: sex_bdsm
-draft: false
+draft: true
 weight: 7
 aliases: 
     - "/upgrades/sexualitaet_und_bdsm/"
