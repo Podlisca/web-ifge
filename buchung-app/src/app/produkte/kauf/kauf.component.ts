@@ -62,7 +62,7 @@ export class KaufComponent implements OnInit {
       aktionscode: [""],
       strasse: ["", Validators.required],
       nr: ["", Validators.required],
-      plz: ["", Validators.required],
+      plz: ["", [Validators.minLength(4), Validators.maxLength(6), Validators.required]],
       ort: ["", Validators.required],
     });
   }
