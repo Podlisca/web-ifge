@@ -50,13 +50,13 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 {{% /small %}}
 
 </div> 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}<br/>
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
 ## ONLIne: Live - Infosveranstaltungen
 
 <br/>
 
-{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
+{{< buchung vorlagen="Intensivtraining Onlineakademie Tiergestütztes Coaching" text="Anmeldung Intensivtraining" value="1290" >}}
 
 
 
@@ -64,4 +64,4 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Sommeraktion - Online-Ausbildung: Tiergestütztes Coaching " >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}

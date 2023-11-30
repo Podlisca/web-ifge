@@ -4,7 +4,7 @@ menu:
     main:
         parent: gender
         identifier: gender_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/politik.jpg"
 ---

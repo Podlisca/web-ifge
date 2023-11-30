@@ -4,7 +4,7 @@ menu:
     main:
         parent: politik
         identifier: politikpreise
-draft: false
+draft: true
 weight: 2
 ---
 

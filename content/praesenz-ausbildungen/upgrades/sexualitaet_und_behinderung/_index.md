@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade
         identifier: upgrade_sexualitaet_behinderung
-draft: false
+draft: true
 weight: 6
 aliases: 
     - "/upgrades/sexualitaet_und_behinderung/"

@@ -125,7 +125,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 ##### (Aktion gültig bis 15.12.2023)
 
-{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -436,7 +436,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 ##### (Aktion gültig bis 15.12.2023)
 
 <br>
-{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 </br>
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
 
@@ -487,7 +487,7 @@ Wien, Österreich
 ##### (Aktion gültig bis 15.12.2023)
 
 <br>
-{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 

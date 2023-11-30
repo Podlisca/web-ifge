@@ -25,7 +25,7 @@ weight: 4
 * Die Ausbildung ist für alle offen
 
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}{{< line icon="noun_Information_478770-2.png" >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 ## Zahlungsbedingungen
 
 Um Ihnen den Zugang frei zu schalten, ist nach Anmeldung die Zahlung oder bei Ratennzahlung die Anzahlung, sofort auf das Konto
@@ -44,7 +44,7 @@ Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte e
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
 Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
   
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Tiergestütztes Coaching " >}}{{< line icon="noun_Information_478770-2.png" >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 ## Allgemeine Geschäftsbedingungen
 
 ### 1.	Leistung
@@ -76,4 +76,4 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 
 ### 4. Gerichtstand:
 Wien, Österreich
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching " >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}

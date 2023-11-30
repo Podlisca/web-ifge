@@ -4,7 +4,7 @@ menu:
     main:
         parent: sex_bdsm
         identifier: sex_bdsm_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/sv_supervision.jpg"
 ---

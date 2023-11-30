@@ -70,21 +70,6 @@ Im geschützten Rahmen werden berufliche Schwierigkeiten und einschränkende (De
 
 **Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien - Gruppe 
-{{< image src="/img/ifge_wien.jpg">}}
-
-{{% /small  %}}
-
-
-{{% small  %}}
-#### Burgenland
-{{< image src="/img/seminarraum1.jpg">}}
-
-{{% /small  %}}
-{{% /box %}}
-
 
 {{< line icon="noun_Information_478770-2.png" >}}
 

@@ -4,7 +4,7 @@ menu:
     main:
         parent: politik
         identifier: politikkursziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/politik.jpg"
 ---

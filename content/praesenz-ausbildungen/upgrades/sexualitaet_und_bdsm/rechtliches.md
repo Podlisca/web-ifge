@@ -4,7 +4,7 @@ menu:
     main:
         parent: sex_bdsm
         identifier: sex_bdsm_rechtliches
-draft: false
+draft: true
 weight: 4
 ---
 

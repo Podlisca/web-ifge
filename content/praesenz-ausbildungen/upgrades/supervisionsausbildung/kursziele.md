@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_supervision
         identifier: upgrade_supervision_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/sv_supervision.jpg"
 ---

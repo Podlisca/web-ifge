@@ -42,4 +42,4 @@ Zahlung nach Anmeldung. <br/>
 
 Zahlung bei Anmeldung
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: - Online-Ausbildung: Klangschalen Practitioner " >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}

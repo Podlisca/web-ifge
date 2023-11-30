@@ -25,7 +25,9 @@ weight: 4
 * Die Ausbildung ist für alle offen
 
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Klangschalen Practitioner " >}}
+
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
+
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
 
@@ -76,4 +78,4 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 ### 4. Gerichtstand:
 Wien, Österreich
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Klangschalen Practitioner " >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
