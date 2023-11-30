@@ -19,10 +19,12 @@ og_image: "/img/aufstellung_noe1.jpg"
 
 {{< line icon="icon/aufstellung.png" >}}
 
+## geschlossene Jahresgruppe in Wien: Start am 10.01.2024
+#### **Weihnachtsaktion nützen und € 100,- sparen auf die Einmalzahlung** 
 
+#### Aktionscode: weihnachtsaktion23_segruppe
 
-
-#### geschlossene Jahresgruppe in Wien: Start am 10.01.2024
+##### (Aktion gültig bis 15.12.2023 / Anmeldeschluss)
 
 ***
 
@@ -53,8 +55,8 @@ Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Pot
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* pro Modul (Vorabüberweisung):€ 75,- <br/>
-* monatliche Rate (Vorabüberweisung): € 145,- <br/>
+* pro Seminartag (Vorabüberweisung):€ 70,-, Anzahlung € 100,00  <br/>
+* monatliche Rate (Vorabüberweisung): € 110,-, Anzahlung € 130,00  <br/>
 * Einmalzahlung: € 1.400,- <br/>
 
 Die Einmalzahlung wird sofort nach Anmeldung fällig und ist bis 15.12.2023 gültig.
@@ -100,7 +102,7 @@ Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit 
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="AGB" >}}
-**Anmeldung:** Um dir den Platz verbindlich zu reservieren, ist nach Anmeldung die erste Einheit (Betrag je nach gewählter Zahlungsmethode) sofort oder zu überweisen:
+**Anmeldung:** Um dir den Platz verbindlich zu reservieren, ist die Anzahlung die sich in der Höhe nach der gewählten Zahlungsmethode richtet sofort oder zu überweisen:
 
 Konto / Bank Austria<br/>
 Silvia Podlisca - IFGE<br/>
@@ -113,7 +115,7 @@ BIC: BKAUATWW
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
-Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 12
+Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 14
 **Anmeldeschluss: 15.12.2023** 
 Sollte bis zum Anmeldeschluss die Mindestteilnehmerzahl nicht erreicht werden, wird die Gruppe nicht stattfinden und du wirst rechtzeitig verständigt.
 
@@ -121,7 +123,18 @@ Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtssta
 {{< /card-more >}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="Gruppe verbindlich buchen" veranstaltung="Gruppe verbindlich buchen: Selbsterfahrung-Jahresgruppe 2024 in Wien" value="1400" >}}
+*** 
+
+## geschlossene Jahresgruppe in Wien: Start am 10.01.2024
+#### **Weihnachtsaktion nützen und € 100,- sparen auf die Einmalzahlung** 
+
+#### Aktionscode: weihnachtsaktion23_segruppe
+
+##### (Aktion gültig bis 15.12.2023 / Anmeldeschluss)
+
+
+
+{{< buchung-vorauswahl text="Gruppe verbindlich buchen" veranstaltung="Gruppe verbindlich buchen: Selbsterfahrung-Jahresgruppe 2024 in Wien" value="1300" >}}
 
 
 {{< line icon="icon/3_standorte.png" >}}

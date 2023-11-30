@@ -38,7 +38,13 @@ rich_faq:
 
 ## SCHWINGUNGEN AUSLÖSEN. WIRKUNG ERZIELEN.
 
+#### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
 
+#### Aktionscode: weihnachtsaktion23_ks
+
+##### (Aktion gültig bis 15.12.2023)
+
+***
 
 <div class="box video">
 {{% small %}}
@@ -113,6 +119,12 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+#### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
+
+#### Aktionscode: weihnachtsaktion23_ks
+
+##### (Aktion gültig bis 15.12.2023)
+
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -170,9 +182,18 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
+***
+#### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
+
+#### Aktionscode: weihnachtsaktion23_ks
+
+##### (Aktion gültig bis 15.12.2023)
+
+
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
 </br>
+
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -407,6 +428,13 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 {{< /card-more >}}
 {{% /box %}}
 
+***
+#### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
+
+#### Aktionscode: weihnachtsaktion23_ks
+
+##### (Aktion gültig bis 15.12.2023)
+
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
 </br>
@@ -450,6 +478,13 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 
 **6. Gerichtstand:**
 Wien, Österreich
+
+***
+#### **Weihnachtsaktion nützen und € 790,- sparen auf die Einmalzahlung** 
+
+#### Aktionscode: weihnachtsaktion23_ks
+
+##### (Aktion gültig bis 15.12.2023)
 
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}

@@ -41,11 +41,14 @@ Sofern im Einzelfall nichts anderes zwischen der Silvia Podlisca und dem Kliente
 Für ihre Leistungen wird die Silvia Podlisca ein sofort fälliges Honorar von EUR 105,- für Einzelberatung / Einzelsupervision EUR 120,- / Paarberatungen EUR 195,-. (inklusive USt) pro angefangener Beratung-Einheit verrechnen. Dies gilt auch für Beratung via E-Mail, Skype oder Telefon. Eine Beratungs-Einheit beträgt 50 / 90 Minuten. Sollte das Beratungs-Ziel [für diese Einheit] vor Ablauf einer Beratungs-Einheit erreicht werden, wird die Einheit dennoch voll verrechnet. Die Zeit für die Vor- und Nachbereitung der Beratungs-Einheit ist im Honorar für diese Beratungs-Einheit enthalten.
 Das Honorar ist vorab zu überweisen. Bankdaten: Bank Austria IBAN: AT42 1200 0007 4443 4259 BIC: BKAUATWW - laufend auf Silvia Podlisca - IFGE
 
-Einzelstunden müssen mind. 48 Stunden vorher telefonisch, per E-Mail, WhatsApp oder SMS abgesagt werden. Anderenfalls werden diese voll verrechnet.
+**Einzelstunden** müssen mind. 48 Stunden vorher telefonisch, per E-Mail, WhatsApp oder SMS abgesagt werden. Anderenfalls werden diese voll verrechnet.
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise entnehmen Sie bitte dem Angebot.
+**Familienaufstellung:**
+Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die [Preise](https://www.ifge.at/gruppenselbsterfahrung/preise/) entnehmen Sie bitte dem Angebot.
+Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
 
-Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) – Silvia Podlisca e.U nicht für Verletzungen oder Schäden jeglicher Art - weder bei Mensch noch bei Tier. Die Institutskatzen halten sich bei Veranstaltungen im Unterrichts-/Seminarraum in Wien auf.
+
+Bei **Outdoor Veranstaltungen, Beratungsstunden im Freien** mit und ohne Tiere, tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) – Silvia Podlisca e.U nicht für Verletzungen oder Schäden jeglicher Art - weder bei Mensch noch bei Tier. Die Institutskatzen halten sich bei Veranstaltungen im Unterrichts-/Seminarraum in Wien auf.
 
 Ich möchte darauf hinweisen, dass meine Arbeit keine psychotherapeutische ist oder eine medizinische Behandlung ersetzt. Alle Angebote unterliegen strengster Vertraulichkeit!
 

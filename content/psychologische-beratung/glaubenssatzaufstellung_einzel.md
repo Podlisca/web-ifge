@@ -95,6 +95,8 @@ Als Teil einer Familie stellen wir Bedürfnisse nicht selten hinten an. Wir gebe
 
 ## Was Glaubenssatzaufstellung (nicht) ist.
 
+{{% floatbox %}}
+
 {{< image src="/img/glaubenssatzaufstellung_2.jpg" float="right" title="FOTOBESCHREIBUNG" >}}
 
 In der psychologischen Beratung ist die Glaubenssatzaufstellung eine fundierte Methode, um blockierende Muster und Tabus zu lösen. Dabei werden Sie von [erfahrenen und ausgebildeten Ausbildungsleiter*innen](https://www.ifge.at/about/ueber_mich/) begleitet. Denkweisen und Einstellungen werden oft über eine lange Zeit gefestigt und verinnerlicht, weshalb das Lösen dieser ein Prozess ist. Ein Prozess, der nicht nur professionelle Begleitung, sondern vor allem Zeit und die Bereitschaft an sich zu arbeiten braucht.
@@ -103,44 +105,18 @@ In der Glaubenssatzaufstellung richten wir den Blick auf die Gegenwart. Es geht 
 
 *Ich möchte etwas verändern. Etwas verbessern. Die Zukunft soll anders aussehen.* Diese Gedanken kennen wohl die meisten Menschen. In der Glaubenssatzaufstellung setzen wir genau bei solchen Gedanken an. Wir stellen uns die Frage: Was konkret verändern? Wie genau verbessern? Was soll anders werden? Was brauchen Sie um Ziele zu erreichen? In der Glaubenssatzaufstellung finden sie mit wertvoller Unterstützung durch Expert*innen und unter Anwendung der richtigen Methoden Antworten auf diese Fragen. 
 
+{{% /box %}}
 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
 
-## Glaubenssatzaufstellung am IFGE: Ablauf und Besonderheiten.
 
-{{< image src="/img/glaubenssatzaufstellung.jpg" float="left" title="FOTOBESCHREIBUNG" >}}
-
-Eine Glaubenssatzaufstellung folgt häufig im Anschluss an eine [Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/). Dieser Ablauf empfiehlt sich. Denn die Familienaufstellung richtet den Blick nicht nur, aber stark in die Vergangenheit, während in der Glaubenssatzaufstellung der Fokus auf der Gegenwart liegt. So können individuelle Lösungswege für Gegenwart und Zukunft im Einklang mit Vergangenheit und Herkunft aktiv erarbeitet werden. 
-
-Setting: 90 Minuten 
-
-Apropos Gegenwart: Die systemischen Aufstellungen am IFGE werden häufig von unseren [Institutskatzen](https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/) begleitet. Diese unterstützen uns ganz im Hier und Jetzt anzukommen, sorgen für eine entspannte Atmosphäre während des Seminars und geben nicht selten Impulse um eigene Bedürfnisse besser benennen zu können.
-
-{{% /small  %}}
-{{% /box %}}
-
-{{< line icon="icon/termine.png" >}}
-
-# Termine
-
-{{% box blue=1 %}}
-{{% small  %}}
-
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. 
-
-Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
-
-
-
-{{% /small  %}}
-{{% /box %}}
-
-{{< line icon="icon/aufstellung.png" >}}
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
+
+
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -159,31 +135,8 @@ Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich inte
 {{< youtube Ut0nAJ_Qh-Y >}}
 
 Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
+
+
 {{% /small  %}}
 {{% /box %}}
 
-[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
-
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/)**
-
-
-{{< line icon="icon/3_standorte.png" >}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-{{% /small  %}}
-{{% /box %}}

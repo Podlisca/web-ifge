@@ -78,6 +78,7 @@ Denn es ist die Familie, die uns als erste soziale Gruppe im Leben, Ideale vermi
 
 {{% /small %}}
 
+
 </div> 
 
 **Familien als Einheit von Persönlichkeiten sind Systeme der Interaktion und Kommunikation. Systeme, in denen Wunden, Kränkungen,  Ängste und Konflikte nicht selten über Generationen weitergegeben werden.** 
@@ -87,6 +88,11 @@ Systeme, in denen individuelle Bedürfnisse auf kollektive Erwartungen treffen. 
 
 {{% silvia %}}
 
+{{< line icon="icon/termine.png" >}}
+
+#### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
+
+{{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -98,6 +104,11 @@ Doch gerade dann, wenn wir uns in schweren Lebenssituationen befinden, wird unse
 Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum verständlich sind – herkommen und wofür diese im eigenen Leben stehen, kann durch Familienaufstellungen unnachahmlich beantwortet werden. Viele unserer Emotionen, Handlungsweisen und Verhaltensmuster haben mit dem zu tun, was in unserer Familiengeschichte heimlich wirkt. Die Heimlichkeit, von der wir in der systemischen Arbeit nach Hellinger sprechen, bezieht sich nicht zwangsläufig auf klassische Geheimnisse, sondern viel eher auf die heimliche Liebe und Loyalität zu Mitgliedern aus unserer Familie, welche zumeist ein schweres Schicksal hatten und vergessen oder ausgeklammert wurden. Dies verletzt jedoch eine existenzielle Grundregel jeder Familie: „Jeder hat das gleiche Recht auf Zugehörigkeit.“ 
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/termine.png" >}}
+
+
+#### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
 
 {{< line icon="icon/aufstellung.png" >}}
 
@@ -113,9 +124,15 @@ Die Ausgeklammerten werden durch das Verhalten, Denken oder Empfinden der nächs
 
 Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sichert, ist der Versuch unseres inneren aber blinden Kindes, zu helfen. Das Kind trägt dabei so schwer und „übersieht“ dadurch, dass es den Vorfahren nichts abnehmen kann, sondern im Gegenteil – das Schicksal wiederholt und es damit nicht zur Ruhe bzw. in Frieden kommen lässt. Daraus entsteht zumeist das Gefühl: „Was ich auch mache, es ist nie genug, es ist immer falsch.“ Denn den eigenen Vorfahren zu helfen oder sie gar zu retten, ist noch nie gelungen! 
 
-{{% /floatbox %}}
+{{< line icon="icon/termine.png" >}}
+
+#### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
 
 {{< line icon="icon/aufstellung.png" >}}
+
+{{% /floatbox %}}
+
+
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -134,6 +151,10 @@ Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Al
 {{% /small  %}}
 {{% /box %}}
 
+{{< line icon="icon/termine.png" >}}
+
+#### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
+
 {{< line icon="icon/aufstellung.png" >}}
 
 {{< image src="/img/aufs_noe.jpg" float="left" title="Familienaufstellungen mit Silvia Podlisca – Im vertraulichen Rahmen unter der Leitung von Silvia Podlisca können belastende Situationen beleuchtet werden. Familienaufstellungen eignen sich besonders gut bei folgenden Themen: körperlichen oder psychosomatischen Erkrankungen, Paar- und Beziehungsschwierigkeiten, zur Trauerbewältigung, kollektive Traumata, Wiederholung eines immer gleichen Musters, dem Gefühl nicht das eigene Leben zu leben, generationsübergreifende Traumata, für Eltern, deren Kinder besondere Auffälligkeiten zeigen, schweren Ereignissen in der Gegenwarts- oder Herkunftsfamilie, Versöhnungsarbeit mit der Herkunft-/Gegenwartsfamilie, bei Schwierigkeiten im Berufsleben, zur Neuorientierung, Selbsterfahrung, für ein besseres Verständnis der (Familien-) Geschichte" >}} 
@@ -146,20 +167,13 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 
 {{< line icon="icon/termine.png" >}}
 
-# Termine
+#### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
+
+{{< line icon="icon/aufstellung.png" >}}
+
 {{% box blue=1 %}}
 {{% small  %}}
 
-Unsere Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig unter der Woche statt. 
-
-Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie die [Termine bitte hier](/gruppenselbsterfahrung/termine/)! 
-
-
-
-{{% /small  %}}
-{{% /box %}}
-
-{{< line icon="icon/aufstellung.png" >}}
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
@@ -180,12 +194,21 @@ Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich inte
 {{< youtube Ut0nAJ_Qh-Y >}}
 
 Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
+
+
+
 {{% /small  %}}
 {{% /box %}}
 
-[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation.html)
 
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systemische Einzelberatung**
+
+
+
+{{% /small  %}}
+{{% /box %}}
+
+
+**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/)**
 
 
 {{< line icon="icon/3_standorte.png" >}}

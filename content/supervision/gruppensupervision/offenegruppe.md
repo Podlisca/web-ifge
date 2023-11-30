@@ -56,7 +56,7 @@ Stornobedingungen: Bei Absage bis zu 8 Wochen vor dem geplanten Beginn entsteht 
 {{< /card-more >}}
 
 {{< card-more icon="icon/gruppengroesse.png" title="Gruppengröße">}}
-Die Gruppe findet ab einer Mindestteilnehmeranzahl von 10 Personen statt und ist auf maximal 12 Teilnehmer begrenzt. Ein Einstieg in die Gruppensupervisions-Gruppe während des Jahres ist nicht möglich. Im Juli und August finden keine Gruppenabende statt (Sommerpause).
+Die Gruppe findet ab einer Mindestteilnehmeranzahl von 10 Personen statt und ist auf maximal 14 Teilnehmer:innen begrenzt. Ein Einstieg in die Gruppensupervisions-Gruppe während des Jahres ist nicht möglich. Im Juli und August finden keine Gruppenabende statt (Sommerpause).
 {{< /card-more >}}
 
 {{< card-more icon="icon/anerkennung.png" title="Anerkennung">}}

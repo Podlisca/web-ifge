@@ -25,6 +25,9 @@ rich_faq:
 {{< line icon="icon/beratung.png" >}}
 
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
+
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -177,7 +180,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off
-* **Betreute Lerngruppe** über Facebook
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 
 
 
@@ -328,6 +331,7 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 
 **6. Gerichtstand:**
 Wien, Österreich
+***
 
 
 <br>

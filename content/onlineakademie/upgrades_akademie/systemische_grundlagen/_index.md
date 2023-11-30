@@ -28,6 +28,10 @@ aliases:
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
+
+
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -184,7 +188,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter:innen **Feedback über das Erlebte**. Anschließend folgt eine **Fachdiskussion** mit Fragen von den Teilnehmer:innen und den Antworten von Silvia. 
 * Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
 * **3 Tage danach** startet das Kick off
-* **Betreute Lerngruppe** über Facebook
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 
 ***
 
@@ -329,6 +333,8 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 
 **6. Gerichtstand:**
 Wien, Österreich
+***
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Kurs kaufen" value="1980" >}}
