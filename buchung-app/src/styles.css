@@ -21,3 +21,7 @@ body {
 .mdc-button.large {
     font-size: 16px;
 }
+
+button.mdc-button:disabled {
+    background-color: var(--color-accent-200);
+}
