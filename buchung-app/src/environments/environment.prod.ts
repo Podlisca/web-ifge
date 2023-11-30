@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
   api: "https://api.ifge.cors.online",
-  url_success: "https://lsb.ifge.at/danke",
-  url_dsgvo: "https://lsb.ifge.at/datenschutz",
+  url_success: "https://www.ifge.at/anmeldung/bestaetigung/",
+  url_dsgvo: "https://www.ifge.at/datenschutz",
 };

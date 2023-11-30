@@ -1,4 +1,4 @@
-import { CommonModule, DOCUMENT } from '@angular/common';
+import { CommonModule, DOCUMENT, Location } from '@angular/common';
 import { Component, EventEmitter, Inject, Input, OnInit, Output, Renderer2, inject } from '@angular/core';
 import { FormGroup, FormsModule, NonNullableFormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { MatButtonModule } from '@angular/material/button';
@@ -9,6 +9,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatRadioModule } from '@angular/material/radio';
 import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 import { AnmeldeProdukt, AnmeldungService, Geschlecht, Produktkauf } from 'src/app/+core/gen';
+import { defaultConfig } from 'src/app/app.config';
 
 const RECAPTCHA_API = 'https://www.google.com/recaptcha/api.js';
 declare let grecaptcha: any;
@@ -41,6 +42,7 @@ export class KaufComponent implements OnInit {
   constructor(
     private fb: NonNullableFormBuilder,
     private snack: MatSnackBar,
+    private location: Location,
     private renderer: Renderer2,
     @Inject(DOCUMENT) private document: Document,
   ) { }
@@ -93,6 +95,7 @@ export class KaufComponent implements OnInit {
     this.api.kaufeProdukt(kauf).subscribe({
       next: res => {
         console.log(res);
+        location.href = defaultConfig.url_success;
       },
       error: err => this.snack.open("Leider ist beim Kauf ein Fehler aufgetreten.", "X", { duration: 5000 })
     });
