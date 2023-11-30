@@ -21,44 +21,36 @@ weight: 6
 {{% small  %}}
 
 
-Alle Aufstellungsseminare finden entweder geblockt an einem Wochenende (Freitag, Samstag und Sonntag) oder eintägig, sowohl unter der Woche wie auch am Wochenende, statt.
+Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Es gibt sowohl die Möglichkeit für ein zweitätiges Seminar oder ein Wochenende von Freitag Nachmittag bis Sonntag. 
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die Preise und AGB finden Sie hier: [Preise](https://www.ifge.at/gruppenselbsterfahrung/preise/) / [AGB](https://www.ifge.at/agb/)
+Bei den Eintagesseminaren kannst du ebenfalls in der Dauer unterscheiden. Diese werden in einem 4-stündigen, 6-stündigen und 8-stündigen Setting angeboten. 
 
-**Alle Familienaufstellungen finden immer unter der Leitung von Frau  Silva Podlisca statt.**
-
+Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. 
 
 {{% /small  %}}
 {{% /box %}}
 
 {{< line icon="icon/aufstellung.png" >}}
 
+#### Wähle den passenden Termin für dich:
+
 <br>
-{{< buchung vorlagen="Familienaufstellung Eintages Seminar;Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="160" >}}
+{{< buchung vorlagen="Familienaufstellung Vormittag (4 Stunden)" text="Jetzt verbindlich anmelden" value="120" >}}
 </br>
 
+#### Familienaufstellung 6 Stunden 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/beratungsraum_wien1.jpg" >}}
+<br>
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
+</br>
 
-{{% /small  %}}
+<br>
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (8 Stunden)" text="Jetzt verbindlich anmelden" value="240" >}}
+</br>
 
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum_bgld1.jpg,/img/beratung_garten.jpg,/img/beratungsraum_bgld.jpg,/img/kueche_bgld.jpg,/img/kuche_bgld1.jpg" >}}
-
-#### Dreitages Seminar
-
-
-**Freitag, 01.03.2024** von 14:00 bis 20:00 Uhr</br>
-**Samstag, 02.03.2024** von 10:00 bis 18:00 Uhr</br>
-**Sonntag, 03.03.2024** von 10:00 bis 17:00 Uhr</br>
-
-{{% /small  %}}
-{{% /box %}}
-
+<br>
+{{< buchung vorlagen="Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="360" >}}
+</br>
 
 
 {{% box top-align=1 %}}
