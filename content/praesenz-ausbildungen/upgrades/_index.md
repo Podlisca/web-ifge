@@ -39,7 +39,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 {{% kursbox %}}
 
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
-{{< kurs titel="Gender & Diversity in der psychologischen Praxis" link="/praesenz-ausbildungen/fortbildungen/gender_und_diversity" image="/img/gender.jpg" >}}
+
 {{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
 {{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
 

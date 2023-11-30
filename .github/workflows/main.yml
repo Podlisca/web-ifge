@@ -24,7 +24,7 @@ jobs:
         hugo-version: '0.115.0'
     
     - name: Build
-      run: hugo --baseUrl="https://www.ifge.at"
+      run: hugo --baseURL="https://www.ifge.at"
       env:
         TZ: Europe/Vienna 
 
