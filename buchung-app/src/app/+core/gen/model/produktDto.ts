@@ -31,6 +31,7 @@ export interface ProduktDto {
     maxTeilnehmer?: number;
     einzelprodukt?: boolean;
     gruppenprodukt?: boolean;
+    kaufbarToday?: boolean;
     typ?: ProduktTyp;
     parent?: ProduktNameDto;
     vorlage?: boolean;

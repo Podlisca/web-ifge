@@ -28,6 +28,7 @@ export interface Kauf {
     storniertAm?: Date;
     gutschein?: number;
     kommentar?: string;
+    external?: boolean;
     id?: number;
 }
 

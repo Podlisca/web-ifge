@@ -9,7 +9,7 @@
   <ul>
     <li *ngFor="let tag of produkt?.seminartage">
       {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{ tag.startzeit | date:
-        'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
+      'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
     </li>
   </ul>
 </ng-container>
@@ -68,8 +68,8 @@
   </mat-form-field>
   <mat-form-field>
     <mat-label>Deine Mitteilung an Silvia</mat-label>
-    <textarea matInput cdkTextareaAutosize autocomplete="off"
-      cdkAutosizeMinRows="2" formControlName="notiz" maxlength="400"></textarea>
+    <textarea matInput cdkTextareaAutosize autocomplete="off" cdkAutosizeMinRows="2" formControlName="notiz"
+      maxlength="400"></textarea>
   </mat-form-field>
   <mat-checkbox formControlName="agb" style="white-space: normal;">
     Ich stimme den <a href="https://ifge.at/agb/" target="_blank" rel="noopener">AGB</a> zu
@@ -87,7 +87,7 @@
   <button mat-raised-button (click)="goBack()" class="large">
     Zurück
   </button>
-  <button mat-raised-button color="primary" [disabled]="form.invalid" class="large" (click)="kaufRequest()">
+  <button mat-raised-button color="primary" [disabled]="form.invalid || loading" class="large" (click)="kaufRequest()">
     Bezahlungspflichtig Kaufen
   </button>
 </div>

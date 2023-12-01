@@ -1,4 +1,4 @@
-import { CommonModule, DOCUMENT, Location } from '@angular/common';
+import { CommonModule, DOCUMENT } from '@angular/common';
 import { Component, EventEmitter, Inject, Input, OnInit, Output, Renderer2, inject } from '@angular/core';
 import { FormGroup, FormsModule, NonNullableFormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { MatButtonModule } from '@angular/material/button';
@@ -19,7 +19,9 @@ declare let grecaptcha: any;
   standalone: true,
   templateUrl: './kauf.component.html',
   styleUrls: ['./kauf.component.css'],
-  imports: [CommonModule, MatRadioModule, MatButtonModule, FormsModule, MatInputModule, MatIconModule, MatFormFieldModule, ReactiveFormsModule, MatCheckboxModule, MatSnackBarModule],
+  imports: [CommonModule, MatRadioModule, MatButtonModule, FormsModule,
+    MatInputModule, MatIconModule, MatFormFieldModule,
+    ReactiveFormsModule, MatCheckboxModule, MatSnackBarModule],
   providers: [
     { provide: MAT_FORM_FIELD_DEFAULT_OPTIONS, useValue: { appearance: 'outline' } }
   ]
@@ -33,16 +35,12 @@ export class KaufComponent implements OnInit {
 
   api = inject(AnmeldungService);
 
-  url_dsgvo = ""
-  recaptchaResponse: string = "";
-
   form!: FormGroup
-
+  loading = false;
 
   constructor(
     private fb: NonNullableFormBuilder,
     private snack: MatSnackBar,
-    private location: Location,
     private renderer: Renderer2,
     @Inject(DOCUMENT) private document: Document,
   ) { }
@@ -75,6 +73,7 @@ export class KaufComponent implements OnInit {
   }
 
   kaufRequest() {
+    this.loading = true;
     grecaptcha.ready(() => {
       grecaptcha.execute(this.recaptchaSiteKey, { action: 'submit' }).then((token: any) => {
         // emit callback hook
@@ -97,7 +96,10 @@ export class KaufComponent implements OnInit {
         console.log(res);
         location.href = defaultConfig.url_success;
       },
-      error: err => this.snack.open("Leider ist beim Kauf ein Fehler aufgetreten.", "X", { duration: 5000 })
+      error: err => {
+        this.loading = false;
+        this.snack.open("Leider ist beim Kauf ein Fehler aufgetreten.", "X", { duration: 5000 });
+      }
     });
   }
 

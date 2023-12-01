@@ -19,6 +19,7 @@ export interface Produktkauf {
     nachname?: string;
     anrede?: Geschlecht;
     email?: string;
+    aktionscode?: string;
     notiz?: string;
     widerruf?: boolean;
     agb?: boolean;
