@@ -34,6 +34,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 # Wähle den passenden Termin für dich:
 
+**Entscheide dich für ein Eintagesseminar mit 4, 6 oder 8 Stunden oder für ein dreitätiges Seminar am Wochenende.**
+
 #### Familienaufstellung Dreitages Seminar
 
 <br>

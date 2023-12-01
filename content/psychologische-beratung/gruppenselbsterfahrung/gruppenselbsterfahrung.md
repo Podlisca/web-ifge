@@ -29,8 +29,6 @@ og_image: "/img/aufstellung_noe1.jpg"
 ***
 
 
-
-
 <div class="box video">
 {{% small %}}
 ### Lerne Silvia Podlisca kennen
@@ -51,6 +49,8 @@ Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Pot
 
 {{% /small %}}
 </div> 
+
+{{< line icon="icon/termine.png" >}}
 
 {{< buchung vorlagen="Selbsterfahrung Jahresgruppe" text="Gruppe verbindlich buchen" value="1400" >}}
 
