@@ -40,16 +40,18 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< buchung vorlagen="Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="360" >}}
 </br>
 
-#### Familienaufstellung 6 Stunden 
-
-<br>
-{{< buchung vorlagen="Familienaufstellung Eintages Seminar (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
-</br>
 
 #### Familienaufstellung 8 Stunden 
 
 <br>
 {{< buchung vorlagen="Familienaufstellung Eintages Seminar (8 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
+</br>
+
+
+#### Familienaufstellung 6 Stunden 
+
+<br>
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
 
 #### Familienaufstellung am Vormittag - 4 Stunden 
