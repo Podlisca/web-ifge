@@ -34,10 +34,10 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 # Wähle den passenden Termin für dich:
 
-#### Familienaufstellung am Vormittag - 4 Stunden 
+#### Familienaufstellung Dreitages Seminar
 
 <br>
-{{< buchung vorlagen="Familienaufstellung Vormittag (4 Stunden)" text="Jetzt verbindlich anmelden" value="120" >}}
+{{< buchung vorlagen="Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="360" >}}
 </br>
 
 #### Familienaufstellung 6 Stunden 
@@ -46,11 +46,18 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 {{< buchung vorlagen="Familienaufstellung Eintages Seminar (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
 
-#### Familienaufstellung Dreitages Seminar
+#### Familienaufstellung 8 Stunden 
 
 <br>
-{{< buchung vorlagen="Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="360" >}}
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (8 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
+
+#### Familienaufstellung am Vormittag - 4 Stunden 
+
+<br>
+{{< buchung vorlagen="Familienaufstellung Vormittag (4 Stunden)" text="Jetzt verbindlich anmelden" value="120" >}}
+</br>
+
 
 {{< line icon="icon/video.png" >}}
 ## Verschaffe dir einen ersten Einblick:
