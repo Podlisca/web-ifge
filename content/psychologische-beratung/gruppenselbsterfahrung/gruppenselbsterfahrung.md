@@ -28,6 +28,9 @@ og_image: "/img/aufstellung_noe1.jpg"
 
 ***
 
+
+
+
 <div class="box video">
 {{% small %}}
 ### Lerne Silvia Podlisca kennen
@@ -49,6 +52,8 @@ Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Pot
 {{% /small %}}
 </div> 
 
+{{< buchung vorlagen="Selbsterfahrung Jahresgruppe" text="Gruppe verbindlich buchen" value="1400" >}}
+
 
 {{< line icon="icon/aufstellung.png" >}}
 
@@ -66,32 +71,9 @@ Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 12
 **Anmeldeschluss: 15.12.2023** 
 
 {{< /card-more >}}
-{{< card-more icon="icon/storno.png" title="Termine & Leitung" >}}
+{{< card-more icon="icon/storno.png" title="Organisatorisches" >}}
 
 Die Selbsterfahrungsgruppe wird von **Silvia Podlisca geleitet**. Beginnend mit **10.01.2024** treffen wir uns jeden 2. und jeden 4. Mittwoch von 17:00 bis 20:00 Uhr für 20 Termine. In den **Sommermonaten Juli und August** finden **keine Termine statt**. Im **Dezember verschieben** sich die Termine auf den **ersten und zweiten Mittwoch** im Monat. Ein Einstieg in die laufende Selbsterfahungsgruppe ist nicht möglich. 
-
-**Termine:**
-
-10.01.24 Mi. 17:00 20:00 Wien <br/>
-24.01.24 Mi. 17:00 20:00 Wien <br/>
-14.02.24 Mi. 17:00 20:00 Wien <br/>
-28.02.24 Mi. 17:00 20:00 Wien <br/>
-13.03.24 Mi. 17:00 20:00 Wien <br/>
-27.03.24 Mi. 17:00 20:00 Wien <br/>
-10.04.24 Mi. 17:00 20:00 Wien <br/>
-24.04.24 Mi. 17:00 20:00 Wien <br/>
-08.05.24 Mi. 17:00 20:00 Wien <br/>
-22.05.24 Mi. 17:00 20:00 Wien <br/>
-12.06.24 Mi. 17:00 20:00 Wien <br/>
-26.06.24 Mi. 17:00 20:00 Wien <br/>
-11.09.24 Mi. 17:00 20:00 Wien <br/>
-25.09.24 Mi. 17:00 20:00 Wien <br/>
-09.10.24 Mi. 17:00 20:00 Wien <br/>
-23.10.24 Mi. 17:00 20:00 Wien <br/>
-13.11.24 Mi. 17:00 20:00 Wien <br/>
-27.11.24 Mi. 17:00 20:00 Wien <br/>
-04.12.24 Mi. 17:00 20:00 Wien <br/>
-11.12.24 Mi. 17:00 20:00 Wien <br/>
 
 [Termine als PDF](/downloads/selbsterfahrung_jahresgruppe_2024.pdf)
 
@@ -133,7 +115,6 @@ Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtssta
 ##### (Aktion gültig bis 15.12.2023 / Anmeldeschluss)
 
 {{< buchung vorlagen="Selbsterfahrung Jahresgruppe" text="Gruppe verbindlich buchen" value="1400" >}}
-
 
 {{< line icon="icon/3_standorte.png" >}}
 
