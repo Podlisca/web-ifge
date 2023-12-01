@@ -8,7 +8,8 @@
   <h4>Termine</h4>
   <ul>
     <li *ngFor="let tag of produkt?.seminartage">
-      {{ tag.datum }} {{ tag.startzeit | date: 'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+      {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{ tag.startzeit | date:
+        'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
     </li>
   </ul>
 </ng-container>
