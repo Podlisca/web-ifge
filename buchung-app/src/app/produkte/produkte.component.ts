@@ -45,7 +45,8 @@ export class ProdukteComponent implements OnInit {
     this.vm$ = this.service.getAnmeldeProdukte(this.query).pipe(
       map(arr => this.groupBy(arr, "ort")),
       map(byOrt => {
-        return Object.entries(byOrt).map(([ort, arr]) => {
+        // sort by reverse ort
+        return Object.entries(byOrt).sort((a, b) => b[0].localeCompare(a[0])).map(([ort, arr]) => {
           const vm: View[] = [];
           const byName = arr.filter(p => this.query?.produktNamen?.includes(p.name!))
             .sort(this.compareByDate)
