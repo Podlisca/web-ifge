@@ -176,12 +176,12 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
-{{% small  %}}
-
 
 ## DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
 
-{{% box top-align=1 %}}
+{{% /box %}}
+
+{{% box blue=1 %}}
 {{% small  %}}
 #### Familienaufstellung in St. Pölten Tag 1
 {{< youtube NY2Foh8-Fbo >}}
@@ -193,12 +193,14 @@ Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und 
 {{< youtube 9sTJHky6cUA >}}
 Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
 {{% /small  %}}
+
 {{% small  %}}
 #### Familienaufstellung in St. Pölten Tag 3
 {{< youtube Ut0nAJ_Qh-Y >}}
-
 Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
+{{% /small  %}}
 
+{{% /box %}}
 
 **Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über [systemische Einzelberatung](https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/)**
 
