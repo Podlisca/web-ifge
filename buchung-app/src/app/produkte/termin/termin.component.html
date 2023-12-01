@@ -5,8 +5,8 @@
             'longDate'}}</div>
         <ng-container *ngIf="produkt.vorlage">
             <div *ngFor="let tag of produkt?.seminartage">
-                {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'shortDate' }} {{ tag.startzeit | date:
-                'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+                {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{ tag.startzeit | date:
+                'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
             </div>
         </ng-container>
         <ng-container *ngIf="!produkt.isOnlineakademie; else online">
@@ -20,7 +20,8 @@
         </ng-container>
         <ng-template #online>
             <div>
-                Ich will flexibel online lernen.
+                Ja, ich will flexibel online lernen<br>
+                und sofort starten
             </div>
         </ng-template>
     </div>

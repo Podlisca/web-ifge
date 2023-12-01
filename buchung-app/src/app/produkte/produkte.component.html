@@ -1,5 +1,5 @@
 <ng-container *ngIf="vm$ | async as vm">
-    <div id="selection-container">
+    <div id="selection-container" *ngIf="vm.length > 0; else inPlanung">
         <ng-container *ngFor="let vmOrt of vm" class="ort">
             <div class="location" [style.color]="config.color_bundesland">
                 {{vmOrt[0].ort}}
@@ -16,4 +16,9 @@
             </div>
         </ng-container>
     </div>
+    <ng-template #inPlanung>
+        <div style="text-align: center;">
+            Termine in Planung...
+        </div>
+    </ng-template>
 </ng-container>

@@ -1,14 +1,15 @@
 <h4>Für folgendes Produkt hast du dich entschieden:</h4>
 
 <h3>
-  {{ produkt.name }} {{ produkt.unterrichtsKlient ? ' UK' : ''}}
+  {{ produkt.name }}
 </h3>
 
 <ng-container *ngIf="!produkt.isOnlineakademie">
-  <h4>Termine</h4>
+  <h4>Termin(e)</h4>
   <ul>
     <li *ngFor="let tag of produkt?.seminartage">
-      {{ tag.datum }} {{ tag.startzeit | date: 'HH:mm'}}-{{ tag.endzeit | date: 'HH:mm'}}
+      {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{ tag.startzeit | date:
+        'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
     </li>
   </ul>
 </ng-container>
@@ -23,8 +24,8 @@
   </mat-radio-group>
   <br>
   <mat-form-field>
-    <mat-label>Aktionscode</mat-label>
-    <input matInput placeholder="Hast du einen Aktionscode?" formControlName="aktionscode">
+    <mat-label>Hast du einen Aktionscode?</mat-label>
+    <input matInput placeholder="Bitte hier eingeben" formControlName="aktionscode">
   </mat-form-field>
 
   <h4>Persönliche Daten</h4>
@@ -66,8 +67,8 @@
     <input matInput placeholder="Ort" formControlName="ort" autocomplete="off">
   </mat-form-field>
   <mat-form-field>
-    <mat-label>Notiz</mat-label>
-    <textarea matInput placeholder="Ihre Mitteilung ans uns" cdkTextareaAutosize autocomplete="off"
+    <mat-label>Deine Mitteilung an Silvia</mat-label>
+    <textarea matInput cdkTextareaAutosize autocomplete="off"
       cdkAutosizeMinRows="2" formControlName="notiz" maxlength="400"></textarea>
   </mat-form-field>
   <mat-checkbox formControlName="agb" style="white-space: normal;">
