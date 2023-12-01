@@ -132,9 +132,7 @@ Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtssta
 
 ##### (Aktion gültig bis 15.12.2023 / Anmeldeschluss)
 
-
-
-{{< buchung-vorauswahl text="Gruppe verbindlich buchen" veranstaltung="Gruppe verbindlich buchen: Selbsterfahrung-Jahresgruppe 2024 in Wien" value="1300" >}}
+{{< buchung vorlagen="Selbsterfahrung Jahresgruppe" text="Gruppe verbindlich buchen" value="1400" >}}
 
 
 {{< line icon="icon/3_standorte.png" >}}
