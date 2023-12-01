@@ -7,6 +7,7 @@ import { AnmeldeProdukt, AnmeldeProduktQuery, AnmeldungService } from '../+core/
 import { defaultConfig } from '../app.config';
 import { KaufComponent } from './kauf/kauf.component';
 import { TerminComponent } from './termin/termin.component';
+import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 
 interface View {
   ort: string,
@@ -24,10 +25,11 @@ export interface ProduktSelection {
   standalone: true,
   templateUrl: './produkte.component.html',
   styleUrls: ['./produkte.component.css'],
-  imports: [CommonModule, MatExpansionModule, KaufComponent, MatIconModule, TerminComponent]
+  imports: [CommonModule, MatExpansionModule, KaufComponent, MatIconModule, TerminComponent, MatSlideToggleModule]
 })
 export class ProdukteComponent implements OnInit {
 
+  maxProducts = 6;
   config = defaultConfig;
 
   @Input({ required: true }) query!: AnmeldeProduktQuery

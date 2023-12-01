@@ -8,9 +8,14 @@
                 <div class="group" *ngFor="let view of vmOrt">
                     <div class="title"> {{view.title}}</div>
                     <div>
-                        <app-termin [produkt]="p" *ngFor="let p of view.produkte; let idx = index"
-                            (onSelect)="onSelect($event)" [idx]="idx"
-                            [class.selected]="idx === selection?.index && vmOrt[0].ort == selection?.produkt?.ort" />
+                        <ng-container *ngFor="let p of view.produkte; let idx = index">
+                            <app-termin [produkt]="p" (onSelect)="onSelect($event)" [idx]="idx"
+                                *ngIf="idx < maxProducts || showAll.checked"
+                                [class.selected]="idx === selection?.index && vmOrt[0].ort == selection?.produkt?.ort && selection?.produkt?.id == p.id" />
+                        </ng-container>
+                    </div>
+                    <div [class.hide]="view.produkte.length < maxProducts" class="toggle">
+                        <mat-slide-toggle #showAll>Zeige alle</mat-slide-toggle>
                     </div>
                 </div>
             </div>

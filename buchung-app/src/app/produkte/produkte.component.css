@@ -59,6 +59,13 @@
     font-weight: 300;
 }
 
+.hide {
+    display: none;
+}
+.toggle {
+    padding: 0.5rem;
+}
+
 @media screen and (max-width: 960px) {
     #selection-container {
         grid-template-columns: 1fr;
