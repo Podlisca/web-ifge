@@ -26,7 +26,7 @@ rich_faq:
         antwort: "Nach der Theorie vom Biologen Rupert Sheldrake werden Biologische Informationen einerseits über die Gene und andererseits über die morphische Resonanz weitergeben, auf welche sich ein Organismus einschwingt."
     -   frage: "Kann eine Familienaufstellung die Vergangeheit verändern?"
         antwort: "Familienaufstellung nach Bert Hellinger ist eine sehr schöne Versöhnungsarbeit mit der eigenen Geschichte. Versöhnung kann nicht die Vergangenheit verändern – sie bereichert aber unsere Zukunft ungemein!"
-    -   frage: "Welchen Einfluss haben vorangegangene Genrationen auf         Familienaufstellungen?"
+    -   frage: "Welchen Einfluss haben vorangegangene Genrationen auf Familienaufstellungen?"
         antwort: "Was in vorangegangenen Generationen gewirkt hat, holen wir aufgrund des starken Wunsches nach Zugehörigkeit – welcher das Überleben sichert – wieder in unser Leben.Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Alkoholabhängigkeit oder emotionale Härte) zerbrochen sind, zerbrechen beispielsweise heute stellvertretend Beziehungen und Ehen. Die Frauen dieser Kriegsgeneration, die – um zu überleben – alles alleine bewältigen mussten, haben gelernt: „Wir Frauen brauchen keine Männer, wir schaffen es alleine!“ Dies wirkt als ungeschriebenes Familiengesetz und führt dazu, dass es den Töchtern oder Enkelinnen dieser Generation in ihrem Leben schwer fällt, sich auf Beziehungen einzulassen."
     -   frage: "Was ist die Bewegung der Seele?"
         antwort: "In einer wortlosen Sequenz - ohne Eingriffe des Beraters/der Beraterin - wird die tiefe Verbundenheit zwischen den Personen erkennbar. Erst wenn ge­se­hen, ge­hört und an­er­kannt wird, was in der Größe der Fa­mi­li­en­see­le wirkt, kön­nen Lö­sun­gen be­gin­nen. "
@@ -131,11 +131,9 @@ Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sic
 
 {{< line icon="icon/aufstellung.png" >}}
 
-
-
-{{% floatbox blue=1 %}}
+{{% box blue=1 %}}
+{{% floatbox %}}
 {{% small %}}
-
 
 Hier findet sich auf die Erklärung dafür, warum gerade Menschen, die an sich selbst den verbissenen Anspruch haben, nur ja nie wie Vater, Mutter oder die Großeltern zu werden, häufig erst recht genau so wie diese werden. Denn sowohl die unbewusste Loyalität zu unseren Ahnen als auch der Wunsch nach Zugehörigkeit zur eigenen Sippe sind stärker als der bewusste Vorsatz, jemandem nicht ähnlich zu werden. 
 
@@ -151,6 +149,10 @@ Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Al
 
 {{% /small  %}}
 {{% /floatbox %}}
+{{% /box %}}
+
+
+
 
 {{< line icon="icon/termine.png" >}}
 
