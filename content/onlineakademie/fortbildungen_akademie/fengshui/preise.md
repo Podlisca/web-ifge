@@ -29,5 +29,5 @@ Zahlung sofort  <br/>
 
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
 </br>

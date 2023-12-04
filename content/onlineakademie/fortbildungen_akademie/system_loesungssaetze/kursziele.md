@@ -35,7 +35,7 @@ Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilne
 
 
 <br>
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>
 
 {{< line icon="icon/aufstellung.png" >}}

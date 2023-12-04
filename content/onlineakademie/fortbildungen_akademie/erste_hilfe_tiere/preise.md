@@ -26,5 +26,5 @@ Zahlung sofort <br/>
 
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Kurs kaufen" value="149" >}}
+{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
 </br>

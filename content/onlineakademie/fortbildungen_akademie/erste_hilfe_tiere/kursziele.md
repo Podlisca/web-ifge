@@ -32,7 +32,7 @@ Und das ist wichtig, denn wie beim Menschen, **zählen** auch bei Tieren bei Unf
 </div> 
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Kurs kaufen" value="149" >}}
+{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
 </br>
 
 

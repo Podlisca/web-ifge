@@ -89,7 +89,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Kurs kaufen" value="1490" >}}
+{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -146,7 +146,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Kurs kaufen" value="1490" >}}
+{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -295,7 +295,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Kurs kaufen" value="1490" >}}
+{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -335,7 +335,7 @@ Wien, Österreich
 
 
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Kurs kaufen" value="1490" >}}
+{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 

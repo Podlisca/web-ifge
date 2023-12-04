@@ -31,7 +31,6 @@ Zudem erschließt du im Online-Kurs **Wissen rund um Beratungssettings und -rahm
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Setting, Tools, Interventionen und Gesprächsführung in der Beratung/Coaching " >}}
 
 
 {{< line icon="icon/info_tuerkis.png" >}}

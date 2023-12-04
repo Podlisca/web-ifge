@@ -35,5 +35,5 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 
 <br>
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
 </br>

@@ -93,7 +93,7 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 <br>
-{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Kurs kaufen" value="1980" >}}
+{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -117,7 +117,7 @@ max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder 
 ## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 <br>
-{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Kurs kaufen" value="1980" >}}
+{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
 {{< /card-more >}}
@@ -154,7 +154,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 <br>
-{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Kurs kaufen" value="1980" >}}
+{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -297,7 +297,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 <br>
-{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Kurs kaufen" value="1980" >}}
+{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
@@ -337,7 +337,7 @@ Wien, Österreich
 
 
 <br>
-{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Kurs kaufen" value="1980" >}}
+{{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 

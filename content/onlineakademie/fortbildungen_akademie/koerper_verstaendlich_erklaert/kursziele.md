@@ -35,7 +35,7 @@ Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitione
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
 </br>
 
 

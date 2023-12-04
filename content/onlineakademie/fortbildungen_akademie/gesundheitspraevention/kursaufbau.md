@@ -90,4 +90,4 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Gesundheit & Prävention. " >}}
+{{< buchung-vorauswahl text="Jetzt loslegen" veranstaltung="Jetzt loslegen: Online-Ausbildung: Gesundheit & Prävention. " >}}

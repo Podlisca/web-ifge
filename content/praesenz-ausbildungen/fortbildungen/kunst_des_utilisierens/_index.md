@@ -92,7 +92,7 @@ Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den
 ##### (Aktion gültig bis 24.12.2023)
 
 
-{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Kurs kaufen" value="490" >}}
+{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Jetzt loslegen" value="490" >}}
 
 <br/>
 {{% box more=1 blue=1 %}}
@@ -163,7 +163,7 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 
 
-{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Kurs kaufen" value="490" >}}
+{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Jetzt loslegen" value="490" >}}
 
 
 

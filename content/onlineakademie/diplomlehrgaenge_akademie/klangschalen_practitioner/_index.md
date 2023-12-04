@@ -191,7 +191,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 <br>
-{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Kurs kaufen" value="2980" >}}
+{{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 </br>
 
 

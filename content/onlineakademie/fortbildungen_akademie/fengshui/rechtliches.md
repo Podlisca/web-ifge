@@ -44,7 +44,7 @@ Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von €
   
 
 <br>
-{{< buchung produkte="FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -74,5 +74,5 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
 </br>

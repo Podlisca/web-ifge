@@ -43,4 +43,3 @@ Zahlung nach Anmeldung. <br/>
 € 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
 
 
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Weihnachtsaktion - Online-Ausbildung: Tiergestütztes Coaching " >}}

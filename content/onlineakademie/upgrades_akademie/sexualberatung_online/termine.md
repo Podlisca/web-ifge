@@ -51,4 +51,4 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
 =======
-{{< buchung-vorauswahl text="Kurs kaufen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. " >}}
+{{< buchung-vorauswahl text="Jetzt loslegen" veranstaltung="Kurs kaufen: Online-Ausbildung: Besonderheit Sexualberatung. " >}}

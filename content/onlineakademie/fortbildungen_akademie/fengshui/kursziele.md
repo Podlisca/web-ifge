@@ -34,7 +34,7 @@ Der **Vorteil** des Kurses ist, dass dieser zu **100% digital** und ohne fest ei
 </div> 
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Kurs kaufen" value="490" >}}
+{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
 </br>
 
 {{< line icon="icon/feng_shui.png" >}}
