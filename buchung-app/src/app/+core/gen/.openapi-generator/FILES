@@ -10,6 +10,7 @@ api/planung.service.ts
 api/pruefung.service.ts
 api/referent.service.ts
 api/schueler.service.ts
+api/system.service.ts
 api/termin.service.ts
 api/uebung.service.ts
 api/webex.service.ts
@@ -172,6 +173,7 @@ model/seminartagPlanungDto.ts
 model/seminartagStatus.ts
 model/seminartagStatusDto.ts
 model/seminartagUnterrichtsplanungDto.ts
+model/setupDto.ts
 model/status.ts
 model/statusArbeit.ts
 model/statusThema.ts
@@ -206,6 +208,7 @@ model/unterrichtsthema.ts
 model/unterrichtsthemaDto.ts
 model/unterrichtstool.ts
 model/unterrichtsvideo.ts
+model/versionInfoDto.ts
 model/video.ts
 model/videoZuordnung.ts
 model/vorgabeDto.ts

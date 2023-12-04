@@ -19,6 +19,7 @@ export interface AnmeldeProdukt {
     vorlage?: string;
     lehrplan?: string;
     ort?: string;
+    leitung?: string;
     startdatum?: Date;
     preise?: Array<Preis>;
     seminartage?: Array<SeminartagDto>;

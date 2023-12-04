@@ -10,6 +10,7 @@ import { PlanungService } from './api/planung.service';
 import { PruefungService } from './api/pruefung.service';
 import { ReferentService } from './api/referent.service';
 import { SchuelerService } from './api/schueler.service';
+import { SystemService } from './api/system.service';
 import { TerminService } from './api/termin.service';
 import { UebungService } from './api/uebung.service';
 import { WebexService } from './api/webex.service';

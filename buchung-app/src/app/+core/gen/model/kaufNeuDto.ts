@@ -26,5 +26,6 @@ export interface KaufNeuDto {
     rabatt?: number;
     zahlungen?: Array<Zahlung>;
     anwesenheitenZubuchen?: boolean;
+    kommentar?: string;
 }
 
