@@ -62,9 +62,9 @@ IFGE Wien
 
 **Gruppengröße:** mind. 4 Teilnehmer:innen - max. 12 Teilnehmer:innen
 
+<!-- 
 {{< buchung-vorauswahl text="Anmelden" veranstaltung="Kurs buchen Praktische Tage: 03.12.2023" >}}
-
-
+ -->
 
 
 
