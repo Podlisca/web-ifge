@@ -11,7 +11,7 @@
 button {
     width: 100%;
     line-height: 20px;
-    border-radius: 3px!important;
+    border-radius: 3px !important;
     border: 1px solid lightgray;
     background-color: inherit;
 }
@@ -28,6 +28,11 @@ button .cont {
     align-items: center;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.product-title {
+    font-weight: bold;
+    color: var(--color-primary);
 }
 
 .bold {
