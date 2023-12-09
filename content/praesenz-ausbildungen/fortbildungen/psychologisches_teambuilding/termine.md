@@ -53,10 +53,10 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 #### Start: 04. Juni 2022
 
 Samstag von 09:00 bis 18:00 Uhr<br/>
-Sonntag von 09:00 bis 17:00 Uhr<br/>
+Sonntag von 09:00 bis 18:00 Uhr<br/>
 
-**Modul 1:** 04.06. und 05.06.2022<br/>
-**Modul 2:** 25.06. und 26.06.2022<br/>
+**Modul 1:** 13.07. und 14.07.2024<br/>
+**Modul 2:** 17.08. und 18.08.2022<br/>
 
 
 [Anmeldung](https://www.ifge.at/anmeldung/)

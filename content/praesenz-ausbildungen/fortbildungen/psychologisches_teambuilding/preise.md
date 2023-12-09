@@ -26,8 +26,8 @@ weight: 2
 ## Kosten (inkl. MwSt.)
 
 
-* Einmalzahlung: € 610,-
-* Modulzahlung: € 325,- (Gesamtsumme: € 650,-)
+* Einmalzahlung: € 890,-
+* Modulzahlung: € 490,- (Gesamtsumme: € 980,-)
 
 Die Ausbildung ist nur komplett buchbar.
 
