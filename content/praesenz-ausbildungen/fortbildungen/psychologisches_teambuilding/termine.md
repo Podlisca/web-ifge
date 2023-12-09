@@ -47,7 +47,7 @@ Samstag von 09:00 bis 18:00 Uhr<br/>
 Sonntag von 09:00 bis 18:00 Uhr<br/>
 
 **Modul 1:** 13.07. und 14.07.2024<br/>
-**Modul 2:** 17.08. und 18.08.2022<br/>
+**Modul 2:** 17.08. und 18.08.2024<br/>
 
 
 [Anmeldung](https://www.ifge.at/anmeldung/)
