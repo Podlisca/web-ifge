@@ -35,7 +35,7 @@ Wer [Systeme, Strukturen und Menschen](https://www.ifge.at/gruppenselbsterfahrun
 Im Rahmen der Erlebnistour „Jüdisches Wien“ & „Hitlers Wien“ begeben wir uns auf die [Spuren der Vergangenheit](https://www.ifge.at/praesenz-ausbildungen/fortbildungen/historische_politische_aspekte/), betrachten historische Geschehnisse und Schauplätze aus unterschiedlichen Perspektiven und stärken so unser systemisches Verständnis vom großen Ganzen.  
 
 
-{{< buchung-vorauswahl text="Tour buchen" veranstaltung="Tour kaufen: Erlebnistour: Hitlers Wien / Jüdisches Wien " >}}
+{{< buchung lehrplaene="Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="85" >}}
 
 {{% /floatbox %}}
 

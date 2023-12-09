@@ -48,7 +48,8 @@ jeweils von **10:00 bis ca. 12:30** Uhr mit max. 15 Teilnehmer:innen
 
 Die Termine können nur zusammen gebucht werden
 
-{{< buchung-vorauswahl text="Tour buchen" veranstaltung="Tour kaufen: Erlebnistour: Hitlers Wien / Jüdisches Wien " >}}
+{{< buchung lehrplaene="Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="85" >}}
+
 
 {{% /small  %}}
 {{% /box %}}

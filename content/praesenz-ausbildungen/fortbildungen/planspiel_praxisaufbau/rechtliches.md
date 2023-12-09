@@ -71,3 +71,5 @@ Sie erhalten rechtzeitig eine E-Mail mit den Zugangsdaten für die Onlineschulun
 Bitte sorgen Sie für eine stabile Internetverbindung sowie die Sicherstellung der technischen Voraussetzungen. Bei Internetausfall oder Verbindungsproblemen auf Ihrem Endgerät übernehmen wir keine Haftung und nehmen keine Rücküberweisungen des Webinarbeitrags vor. Weiters weisen wir darauf hin, dass Mittschnitt und Aufnahme des Webinars verboten sind.
 {{% /small  %}}
 {{% /box %}}
+
+{{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

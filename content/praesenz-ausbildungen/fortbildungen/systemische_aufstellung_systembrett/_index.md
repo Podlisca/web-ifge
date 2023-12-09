@@ -64,4 +64,6 @@ Das fachliche Niveau des Upgrades bietet auch für langjährig in der Aufstellun
 {{% /box %}}
 
 
+{{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
+
 

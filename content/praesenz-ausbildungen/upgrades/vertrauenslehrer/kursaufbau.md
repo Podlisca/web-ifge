@@ -59,3 +59,4 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 * [Bettina Schermann](/about/referenten-lsb/#mag-bettina-schermann)
 
 
+{{< buchung lehrplaene="Ausbildung Vertrauenslehrer" text="Kurs kaufen" value="1980" >}}

@@ -58,7 +58,13 @@ Als zentrale Säule der psychologischen Lebens- und Sozialberatung ist [Sexualbe
 Durch unsere hochmodernen Unterrichtsmethoden, die Expertise unserer Referent:innen und den idealen Mix aus der Vermittlung von aktuellstem Fachwissen und praxisnahen Übungssequenzen erweitern Sie Ihr fachspezifisches Wissen spielerisch und können sich mit Ihrem fundierten Zusatzangebot von Ihren Kolleg*innen  abgrenzen. 
 
 Die wesentlichen Inhalte der Zusatzausbildung konzentrieren sich dabei auf [sexuelle Orientierungen](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/), [Paraphilien](/psychologische-beratung/spezialisierungen/gesundeperversion/),Täter- und Opferhaltunge, Ausstieg aus Täter-/ Opferhaltungen, LGBTIQ,  [Opfer-](/psychologische-beratung/spezialisierungen/opferberatung/) und [Täterarbeit](/psychologische-beratung/spezialisierungen/taeterberatung/), verpönte Sexualität und vieles mehr. Dabei erarbeiten Sie die Themenkreise durch einen Methodenmix aus gewaltfreier, wertschätzender Kommunikation, vertiefender Gesprächsführung und systemischer Gesprächsführung im Einzel- sowie im Paarkontext.
+
 {{% /floatbox %}}
+
+<br>
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
+</br>
+
 
 {{% floatbox %}}
 {{< image src="/img/sexualberatung_paarberatung_4.jpg" title="Vieles wird in Kleingruppe erarbeitet und anschließend über die eigens für das IFGE entwickelte Software den Teilnehmern zur Verfügung gestellt. So erhalten Sie als Teilnehmer:in jederzeit Feedback von allen Trainer:innen am IFGE und können auch jederzeit eigenes Feedback – anonym oder offen – hinterlassen. " float="right" >}}
@@ -73,14 +79,15 @@ Diese Interventionstechniken sind gerade in der Arbeit mit [Opfern sexueller Gew
 {{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 %}}
-{{% small %}}
+{{% floatbox %}}
+
+
 ## VERTIEFENDE INHALTE IN DER SEXUALBERATUNG UND BEI RANDTHEMEN
 
+{{% small %}}
 Zu den vertiefenden Inhalten unserer Zusatzausbildung gehört auch die professionelle Beschäftigung mit Rand- und Tabuthemen, die zunehmende Bedeutung für Menschen gewinnen, weshalb gut ausgebildete Paar- und Sexualberater:innen immer wichtiger werden.
-{{% /small %}}
-{{% /box %}}
+{{% /small  %}}
 
-{{% box blue=1 %}}
 {{% small %}}
 {{< image src="/img/silvia_wien1.jpg" title="Oftmals wagen Klient:innen den Weg bei den sogenannten „heiklen Themen“ nicht in die psychologische Beratung. Angst vor Wertungen und Vorverurteilungen aber auch Angst die Themen endlich anzugehen sind oftmals hinderlich. Deshalb findet Silvia Podlisca – Institutsleiterin des IFGE, es besonders wichtig, in diesen Themen gut ausgebildet zu sein und auch durch einen bewussten Auftritt auf der Website sich als Expert:in für dieses Gebiet zu zeigen.  " float="left" >}}
 
@@ -91,10 +98,8 @@ Sie betrachten mögliche systemische Verstrickungen, vertiefen das Wissen rund u
 Welchen frühkindlichen Mechanismen kommt eine erhebliche Bedeutung beim Erkennen, Ziehen und Erweitern der eigenen Grenzen zu? Welche inneren – und äußeren – Konflikte können hierbei entstehen? Welche Rolle spielen die Erwartungen (oder Forderungen) des dominanten Parts beim Erkennen und Benennen möglicher Grenzen und Tabus? Inwiefern können Introjektionen und Identifizierungen Einfluss auf das Grenzerleben des devoten Gegenübers nehmen? Was, wenn Grenzen überschritten wurden? Was, wenn der Reiz des sexuellen Erlebens Suchtcharakter annimmt? Wie kann auch eine außergewöhnliche Form der Erotik in Zukunft wieder mit Genuss erlebt werden, wenn etwas schief gelaufen ist, ohne dass der bisher als lustvoll empfundenen sexuellen Spielart gänzlich der Rücken gekehrt werden muss?
 
 **Gesunde Grenzen** zu erkennen, zu setzen und ihnen zu erlauben, dass sie variieren dürfen, ist dabei Teil zahlreicher Problematiken, die Menschen in die Beratung führen. Nicht zuletzt deshalb werden viele Tools für die Beschäftigung mit und die Entwicklung der eigenen Grenzen  im Upgrade unterrichtet.
-{{% /small %}}
-{{% /box %}}
+{{% /small  %}}
 
-{{% box blue=1 %}}
 {{% small %}}
 {{< image src="/img/sex_upgrade_wien.jpg" title="Unterschiedliche Phantasien, unterschiedliches Lustempfinden, Wochenendbeziehungen, Patchworkfamilien – alles Themen die das Beziehungsleben belasten können. Sexualberatung – egal im Einzel oder als Paar – ist oftmals der erste Schritt in eine erfüllende Sexualität." float="right" >}}
 
@@ -108,6 +113,8 @@ Ein weiteres Randthema in der Sexualberatung wird ebenso in der Zusatzausbildung
 All diese Fragen werden in der Zusatzausbildung ausführlich beantwortet. 
 
 Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im Upgrade die intensive Beschäftigung mit dem Thema „Lustverbot“. Klient:innen ist oftmals wenig bis gar nicht bewusst, dass es – gelegentlich weit zurück liegende – Verbote sind, die sie am Ausleben einer befreiten Sexualität hindern. Ganz gleich, ob diese Verbote im Außen zu suchen sind oder aufgrund eines (unbewussten) inneren Lebensplans persönlich erstellt wurden: In der Zusatzausbildung lernen Sie, welche Interventionen es gibt, um Klient:innen dabei zu unterstützen, sich selbst die gesunde Erlaubnis für ihre Wünsche zu geben.
-{{% /small %}}
+
+{{% /small  %}}
+{{% /floatbox %}}
 {{% /box %}}
 

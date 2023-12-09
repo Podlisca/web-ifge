@@ -33,3 +33,4 @@ Die angegebenen Preise beinhalten bereits die Umsatzsteuer.
 
 Die Ausbildung ist nur komplett buchbar.
 
+{{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}

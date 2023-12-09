@@ -49,70 +49,15 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 ## Nächste Kurse & Lehrpläne 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-
-#### Termine folgen
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-#### [Termine LSB 24 herunterladen](/downloads/lsb_24_termine.pdf)
-
-{{% /small  %}}
-{{% small  %}}
-
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-
-
-#### Start: 11. Februar 2023
-
-Standort: Redezeit / Baden bei Wien
-jeweils samstags von 09:00 bis 17:30 Uhr
-
-11.02.23
-18.02.23
-11.03.23
-18.03.23
-25.03.23
-15.04.23
-22.04.23
-29.04.23
-06.05.23
-13.05.23
-20.05.23
-03.06.23
-10.06.23
-17.06.23
-24.06.23
-
-
-[Termine herunterladen](/downloads/upgrade_sexualitaet_und_paarberatung_baden.pdf)
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
-
-
-{{% /small  %}}
-{{% /box %}}
+{{< buchung lehrplaene="Upgrade: Sexualität & Paarberatung" text="Kurs kaufen" value="1980" >}}
 
 {{< line icon="icon/bus.png" >}}
 
 
 {{% box blue=1 %}}
 {{% small  %}}
-**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 

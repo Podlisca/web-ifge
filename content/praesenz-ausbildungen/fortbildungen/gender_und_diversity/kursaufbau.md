@@ -54,4 +54,5 @@ Diese Fortbildung endet ohne Prüfung.
 
 
 
+{{< buchung lehrplaene="Fortbildung: Gender & Diversity" text="Kurs kaufen" value="420" >}}
 

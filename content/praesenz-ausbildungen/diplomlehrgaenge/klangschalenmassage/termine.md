@@ -119,7 +119,7 @@ Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anme
 Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
-
+{{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}
 
 
 

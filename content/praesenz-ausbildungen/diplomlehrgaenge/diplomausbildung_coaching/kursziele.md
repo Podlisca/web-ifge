@@ -27,7 +27,8 @@ Moderne Präsentationstools, praktische Übungssequenzen und eine kleine, persö
 
 {{% silvia %}}
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}
+
+{{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}
 
 {{% /floatbox %}}
 

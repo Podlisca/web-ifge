@@ -61,3 +61,4 @@ Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Refle
 {{% /iconmenu %}}
 
 
+{{< buchung lehrplaene="Fortbildung: Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

@@ -87,5 +87,5 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
+{{< buchung lehrplaene="Upgrade: Sexualität & Paarberatung" text="Kurs kaufen" value="1980" >}}
 

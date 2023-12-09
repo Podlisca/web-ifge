@@ -51,3 +51,6 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 ## Leitung
 
 * [Dominique Karlovits](/about/referenten-lsb/#dominique-karlovits)
+
+
+{{< buchung lehrplaene="Fortbildung: Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

@@ -37,3 +37,5 @@ Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardu
 {{% /iconmenu %}}
 
 ***
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}

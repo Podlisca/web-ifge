@@ -56,4 +56,5 @@ Die Klangschalenmassage-Ausbildung richtet sich an Lebens- und Sozialberater:inn
 {{% /iconmenu %}}
 
 
+{{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}
 

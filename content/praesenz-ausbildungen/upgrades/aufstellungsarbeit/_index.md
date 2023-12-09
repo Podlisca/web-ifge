@@ -65,6 +65,8 @@ WKO Zertifizierungsnummer: RA-LSB FL-AU 002.0/2018
 {{< card icon="noun_Work_26704-2.png" title="Praktikum" >}}
 {{% /iconmenu %}}
 
+{{< buchung lehrplaene="LSB Upgrade Aufstellungsarbeit" text="Kurs kaufen" value="1980" >}}
+
 
 
 

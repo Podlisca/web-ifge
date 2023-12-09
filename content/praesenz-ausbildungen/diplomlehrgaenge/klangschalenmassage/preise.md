@@ -34,3 +34,5 @@ weight: 2
 * Monatliche Raten: 500,- Anzahlung / 9 Raten a € 500,- (Gesamt 5.000,-)
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+
+{{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}

@@ -38,3 +38,4 @@ Es handelt sich um eine Kurzausbildung im Ausmaß von 24 Stunden. Ziel ist nicht
 
 
 
+{{< buchung lehrplaene="Fortbildung: Gender & Diversity" text="Kurs kaufen" value="420" >}}

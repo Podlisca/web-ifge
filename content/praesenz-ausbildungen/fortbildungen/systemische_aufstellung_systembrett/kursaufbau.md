@@ -79,6 +79,6 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
+{{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
 
 

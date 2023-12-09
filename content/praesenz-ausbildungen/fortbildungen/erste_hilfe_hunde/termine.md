@@ -23,32 +23,8 @@ weight: 3
 
 
 ***
-## Nächste Kurse 
 
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< image src="/img/ifge_wien.jpg" title="IFGE Wien" >}}
-
-#### Termine folgen
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< image src="/img/ifge_pinkafeld.jpg" title="IFGE Pinkafeld" >}}
-
-#### Termine folgen
-
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< image src="/img/ifge_stpoelten.jpg" title="IFGE St. Pölten" >}}
-
-#### Termine folgen
-
-{{% /small  %}}
-{{% /box %}}
+{{< buchung lehrplaene="Erste Hilfe für Hunde" text="Kurs kaufen" value="98" >}}
 
 
 

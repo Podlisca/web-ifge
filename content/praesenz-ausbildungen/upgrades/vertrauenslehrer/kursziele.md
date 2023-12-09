@@ -81,3 +81,5 @@ Unsere hochmodernen Ausbildungsmethoden ermöglichen Ihnen dabei rasches und nac
 Der Unterricht besteht zu einem hohen Anteil aus vielen praktischen Übungseinheiten. Die Theorie wird mittels modernster Präsentationstools – wie unserem Smartboard – sehr interaktiv und lebhaft vermittelt. Alle in den Seminaren erarbeiteten Inhalte stehen Ihnen dank dieser einzigartigen Unterrichtsmethode im Anschluss an jedes Modul als PDF zur Verfügung.
 
 {{% /floatbox %}}
+
+{{< buchung lehrplaene="Ausbildung Vertrauenslehrer" text="Kurs kaufen" value="1980" >}}

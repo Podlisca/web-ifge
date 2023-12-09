@@ -50,7 +50,8 @@ WKO Zertifizierungsnummer: RA-LSB FL-SU 032.0/2016
 
 **Nach dieser Ausbildung dürfen Sie Supervision von Lebens- und Sozialberater:innen in Ausbildung anbieten.**
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
+
+{{< buchung lehrplaene="LSB Upgrade Supervisionslehrgang" text="Kurs kaufen" value="1980" >}}
 
 {{% /floatbox %}}
 

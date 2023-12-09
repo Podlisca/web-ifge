@@ -38,3 +38,5 @@ Ob Lebens- und Sozialberater:innen, Pädagog:innen, Betreuer*innen in Einrichtun
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+
+{{< buchung lehrplaene="Upgrade: Sexualität, Alter & Behinderung" text="Kurs kaufen" value="1980" >}}

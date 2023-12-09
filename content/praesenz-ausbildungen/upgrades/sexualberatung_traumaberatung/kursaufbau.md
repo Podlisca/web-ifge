@@ -79,5 +79,5 @@ Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie d
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 * [Dominique Karlovits](/about/referenten-lsb/#dominique-karlovits)
 
-
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
 

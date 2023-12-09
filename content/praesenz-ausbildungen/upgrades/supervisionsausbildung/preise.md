@@ -34,4 +34,4 @@ weight: 2
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
+{{< buchung lehrplaene="LSB Upgrade Supervisionslehrgang" text="Kurs kaufen" value="1980" >}}

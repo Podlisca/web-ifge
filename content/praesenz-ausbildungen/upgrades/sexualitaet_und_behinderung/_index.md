@@ -48,3 +48,4 @@ Genau hier setzt die Ausbildung Sexualität, Alter & Behinderung an. Durch die s
 
 
 
+{{< buchung lehrplaene="Upgrade: Sexualität, Alter & Behinderung" text="Kurs kaufen" value="1980" >}}

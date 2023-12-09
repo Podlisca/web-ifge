@@ -52,5 +52,4 @@ Diese Fortbildung endet ohne Prüfung.
 * [Alexandra Rahbar](/about/referenten-lsb/#mag-alexandra-rahbar)
 
 
-
-
+{{< buchung lehrplaene="Fortbildung: Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="420" >}}

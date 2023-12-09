@@ -64,5 +64,5 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}
+{{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}
 

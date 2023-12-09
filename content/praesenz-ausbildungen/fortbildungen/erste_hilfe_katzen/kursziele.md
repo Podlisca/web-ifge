@@ -37,3 +37,5 @@ Ziel des Kurses ist es, dass die Kursteilnehmer in Notfallsituationen Ruhe bewah
 
 ***
 
+{{< buchung lehrplaene="Erste Hilfe für Katzen" text="Kurs kaufen" value="98" >}}
+

@@ -43,3 +43,5 @@ Dass diese Überlegungen jedoch genauso zu einer erfolgreichen Gründung dazugeh
 {{% /iconmenu %}}
 
 
+{{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}
+

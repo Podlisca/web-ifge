@@ -36,3 +36,4 @@ Die angegebenen Preise beinhalten bereits die Umsatzsteuer.
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
+{{< buchung lehrplaene="LSB Upgrade Aufstellungsarbeit" text="Kurs kaufen" value="1980" >}}

@@ -29,3 +29,5 @@ weight: 2
 * Einmalzahlung: € 420,-
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+
+{{< buchung lehrplaene="Fortbildung: Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="420" >}}

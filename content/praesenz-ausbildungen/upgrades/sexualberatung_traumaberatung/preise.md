@@ -29,3 +29,5 @@ weight: 2
 * Modulzahlung: € 450,- Anzahlung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}

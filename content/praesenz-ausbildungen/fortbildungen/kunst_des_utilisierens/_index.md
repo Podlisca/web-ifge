@@ -96,19 +96,6 @@ Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den
 
 <br/>
 {{% box more=1 blue=1 %}}
-{{< card-more icon="noun_Euro_2244498-2.png" title="Termine" >}}
-
-* **Termine IFGE Wien:** <br/>
-**13.09.2024 - 15.09.202413** 
-
-**Seimiarzeiten:** </br>
-
-Freitagvon 14:00 - 20:00 Uhr</br>
-Samstag von 09:00 - 18:00 Uhr  </br>
-Sonntag von 09:00 - 18:00 Uhr</br>
-
-
-{{< /card-more >}}
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 

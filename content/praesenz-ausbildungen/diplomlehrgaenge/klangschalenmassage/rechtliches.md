@@ -64,3 +64,5 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 W
 Die Ausbildung ist nur komplett zu buchen.
  
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. 
+
+{{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}

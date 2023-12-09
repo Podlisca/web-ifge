@@ -36,3 +36,5 @@ Der Kurs umfasst ein Pensum von 100 Stunden und richtet sich an unterschiedliche
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+
+{{< buchung lehrplaene="Upgrade: Sexualität & BDSM" text="Kurs kaufen" value="1980" >}}

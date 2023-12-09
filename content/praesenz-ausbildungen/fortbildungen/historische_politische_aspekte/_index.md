@@ -58,3 +58,6 @@ In dieser Ausbildung begeben wir uns auf die Spuren der Vergangenheit und erarbe
 
 
 
+{{< buchung lehrplaene="Fortbildung: Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="420" >}}
+
+

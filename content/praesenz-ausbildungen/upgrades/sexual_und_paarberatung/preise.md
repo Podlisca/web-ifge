@@ -34,3 +34,4 @@ weight: 2
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowie das Abschluss-Zertifikat. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
 
+{{< buchung lehrplaene="Upgrade: Sexualität & Paarberatung" text="Kurs kaufen" value="1980" >}}

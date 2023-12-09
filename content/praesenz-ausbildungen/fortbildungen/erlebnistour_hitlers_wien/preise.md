@@ -43,5 +43,5 @@ zu überweisen. Bitte geben Sie als Verwendungszweck Ausbildung: "Erlebnistour J
 
 Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 8 Wochen vor Seminarbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten. 
 
-{{< buchung-vorauswahl text="Tour buchen" veranstaltung="Tour kaufen: Erlebnistour: Hitlers Wien / Jüdisches Wien " >}}
+{{< buchung lehrplaene="Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="85" >}}
 

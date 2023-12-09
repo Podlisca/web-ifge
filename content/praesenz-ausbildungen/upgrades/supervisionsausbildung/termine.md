@@ -106,3 +106,5 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 
 {{% /small  %}}
 {{% /box  %}}
+
+{{< buchung lehrplaene="LSB Upgrade Supervisionslehrgang" text="Kurs kaufen" value="1980" >}}

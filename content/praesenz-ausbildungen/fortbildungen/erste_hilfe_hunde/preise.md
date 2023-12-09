@@ -29,3 +29,5 @@ weight: 2
 * Einmalzahlung: € 98,-
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+
+{{< buchung lehrplaene="Erste Hilfe für Hunde" text="Kurs kaufen" value="98" >}}

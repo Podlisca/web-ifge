@@ -129,4 +129,4 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 * [Dr. Dieter Schmutzer](/about/referenten-lsb/#dr-dieter-schmutzer)
 
 
-
+{{< buchung lehrplaene="LSB Upgrade Supervisionslehrgang" text="Kurs kaufen" value="1980" >}}

@@ -32,3 +32,5 @@ weight: 2
 **Die Ausbildung ist nur komplett buchbar.**
 
 In den Kosten inbegriffen ist auch der Erhalt digitale Skripten sowie das Abschluss-Zertifikat. 
+
+{{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

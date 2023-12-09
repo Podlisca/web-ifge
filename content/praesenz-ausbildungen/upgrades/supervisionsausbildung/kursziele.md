@@ -51,3 +51,5 @@ Die eigene soziale Kompetenz und Kommunikationsfähigkeiten werden insbesondere 
 
 {{% /small %}}
 {{% /box %}}
+
+{{< buchung lehrplaene="LSB Upgrade Supervisionslehrgang" text="Kurs kaufen" value="1980" >}}

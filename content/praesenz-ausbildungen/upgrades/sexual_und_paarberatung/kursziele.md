@@ -38,3 +38,4 @@ Die Ausbildung richtet sich an alle, die sich beruflich mit Paaren und Sexualit√
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+{{< buchung lehrplaene="Upgrade: Sexualit√§t & Paarberatung" text="Kurs kaufen" value="1980" >}}

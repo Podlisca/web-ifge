@@ -71,4 +71,6 @@ weight: 3
 [Termine herunterladen](/downloads/coachinglehrgang_termine_2024.pdf)
 
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}
+
+{{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}
+

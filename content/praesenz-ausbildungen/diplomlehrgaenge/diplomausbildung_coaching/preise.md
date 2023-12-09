@@ -40,4 +40,5 @@ weight: 2
 
 In den Kosten inbegriffen ist auch der Erhalt digitale Skripten sowie das Diplom. 
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Diplomlehrgang Coaching 2024: 14.09.2024 in Pinkafeld" >}}
+
+{{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}

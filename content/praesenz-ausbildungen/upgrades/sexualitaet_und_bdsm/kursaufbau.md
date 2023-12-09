@@ -90,6 +90,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 
 
+{{< buchung lehrplaene="Upgrade: Sexualität & BDSM" text="Kurs kaufen" value="1980" >}}
 
 
 

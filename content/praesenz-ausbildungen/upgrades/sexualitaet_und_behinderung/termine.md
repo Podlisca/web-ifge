@@ -27,7 +27,7 @@ weight: 3
 # Termine
 ****  
 
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** über zusätzliche Sicherheit. 
+Die Ausbildung findet zu **100% in Präsenz** statt. 
 
 {{< line icon="icon/info_tuerkis.png" >}}
 {{% box blue=1 %}}
@@ -47,67 +47,15 @@ Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindru
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-## Nächste Kurse & Lehrpläne 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-
-#### Termine folgen
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-
-#### Start: 17. Februar 2023
-
-17.02.23
-24.02.23
-10.03.23
-17.03.23
-31.03.23
-14.04.23
-21.04.23
-28.04.23
-05.05.23
-19.05.23
-26.05.23
-02.06.23
-16.06.23
-23.06.23 
-30.06.23
-
-[Termine herunterladen](/downloads/termine_sex_alter_behinderung.pdf)
-
-[Anmeldung](https://www.ifge.at/anmeldung/)
-
-{{% /small  %}}
-{{% small  %}}
-
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-
-#### Termine folgen
-
-
-{{% /small  %}}
-{{% /box %}}
+{{< buchung lehrplaene="Upgrade: Sexualität, Alter & Behinderung" text="Kurs kaufen" value="1980" >}}
 
 {{< line icon="icon/bus.png" >}}
 
 
 {{% box blue=1 %}}
 {{% small  %}}
-**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
-
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
 
 Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
 

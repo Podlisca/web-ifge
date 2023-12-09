@@ -61,3 +61,4 @@ Die Ausbildung ist nur komplett zu buchen. Sollte die Ausbildung von einzelnen T
  
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Das IFGE verpflichtet sich, binnen 10 Tagen die Ersatztermine bekannt zu geben. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen. 
  
+ {{< buchung lehrplaene="Ausbildung Vertrauenslehrer" text="Kurs kaufen" value="1980" >}}

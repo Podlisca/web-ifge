@@ -149,6 +149,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 * Ursula Zingl
 
 
+{{< buchung lehrplaene="Upgrade: Sexualität, Alter & Behinderung" text="Kurs kaufen" value="1980" >}}
 
 
 

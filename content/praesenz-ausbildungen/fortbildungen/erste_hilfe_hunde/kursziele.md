@@ -37,3 +37,4 @@ Aufbau: im Wechsel: 2 Stunden Theorie / 2 Std. Üben: zur praktischen Anwendung 
 
 ***
 
+{{< buchung lehrplaene="Erste Hilfe für Hunde" text="Kurs kaufen" value="98" >}}

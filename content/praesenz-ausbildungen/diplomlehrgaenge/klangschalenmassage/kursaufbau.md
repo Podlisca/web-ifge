@@ -72,4 +72,4 @@ Um zur mündlichen Abschlussprüfung antreten zu können, ist eine 100%ige Anwes
 * [Dominique Karlovits](/about/referenten-lsb/#karlovits)
 
 
-
+{{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}

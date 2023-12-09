@@ -70,5 +70,5 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater/
 
 * [Dr. Josef Ferber](/about/referenten-lsb/#dr-josef-ferber) 
 
-
+{{< buchung lehrplaene="Erste Hilfe für Hunde" text="Kurs kaufen" value="98" >}}
 

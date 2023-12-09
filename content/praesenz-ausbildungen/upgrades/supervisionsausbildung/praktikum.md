@@ -33,4 +33,4 @@ Zusätzlich zu den 100 Ausbildungsstunden ist für die Aufnahme in die [Supervis
 
 Das IFGE befindet sich in Kooperation mit zwei Kindergärten, die mehrere Häuser mit jeweils an die 50 Angestellten (darunter u.a. eine fachliche pädagogische Leitung, ausgebildete Pädagog:innen, Assistent:innen..) umfasst. Als besonderes Zuckerl für alle Schüler:innen des Lehrgangs der Supervision am IFGE gibt es die Möglichkeit, die 100 erforderlichen Praktikumsstunden in diesen Kindergärten zu absolvieren (unentgeltlich). Näheres dazu sowie Tipps für das Praktikum enthält man im Zuge des Lehrgangs.
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
+{{< buchung lehrplaene="LSB Upgrade Supervisionslehrgang" text="Kurs kaufen" value="1980" >}}

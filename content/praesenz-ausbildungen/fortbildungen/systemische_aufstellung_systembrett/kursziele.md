@@ -38,5 +38,5 @@ Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theori
 
 ***
 
-
+{{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
 

@@ -132,4 +132,5 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
+{{< buchung lehrplaene="LSB Upgrade Aufstellungsarbeit" text="Kurs kaufen" value="1980" >}}
 

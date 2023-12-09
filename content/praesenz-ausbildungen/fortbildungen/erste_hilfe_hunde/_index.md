@@ -42,3 +42,4 @@ Mit den richtigen Erste-Hilfe-Maßnahmen wird die bestmögliche Voraussetzung f�
 
 ***
 
+{{< buchung lehrplaene="Erste Hilfe für Hunde" text="Kurs kaufen" value="98" >}}

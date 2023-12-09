@@ -54,3 +54,5 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis 
 
 
 Die Ausbildung ist nur komplett zu buchen. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
+
+{{< buchung lehrplaene="Fortbildung: Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="420" >}}

@@ -62,6 +62,7 @@ Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*
 
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
 
+{{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}
 
 
 

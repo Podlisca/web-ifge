@@ -45,3 +45,4 @@ Vertrauenslehrer:innen sind in vielen Schulen – von der Volksschule bis zur Ob
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+{{< buchung lehrplaene="Ausbildung Vertrauenslehrer" text="Kurs kaufen" value="1980" >}}

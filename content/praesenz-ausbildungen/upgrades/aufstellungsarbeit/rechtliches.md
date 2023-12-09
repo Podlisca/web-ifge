@@ -88,3 +88,5 @@ Bei Zahlungsverzug von mehr als 10 Tagen bei Einmal- oder Modulzahlung wird auto
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
 {{% /small  %}}
 {{% /box %}}
+
+{{< buchung lehrplaene="LSB Upgrade Aufstellungsarbeit" text="Kurs kaufen" value="1980" >}}

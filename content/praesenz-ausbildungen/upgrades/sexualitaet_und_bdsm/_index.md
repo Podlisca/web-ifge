@@ -47,4 +47,4 @@ Während romantische Erotik zumindest teilweise toleriert und auch kommuniziert 
 {{% /iconmenu %}}
 
 
-
+{{< buchung lehrplaene="Upgrade: Sexualität & BDSM" text="Kurs kaufen" value="1980" >}}

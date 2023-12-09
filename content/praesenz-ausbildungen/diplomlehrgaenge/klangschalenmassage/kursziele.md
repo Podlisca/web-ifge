@@ -66,3 +66,5 @@ So ermöglichen Sie Ihren KundInnen, dass sie auch große Belastungen in Zukunft
 
 {{% /small  %}}
 {{% /box %}}
+
+{{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}

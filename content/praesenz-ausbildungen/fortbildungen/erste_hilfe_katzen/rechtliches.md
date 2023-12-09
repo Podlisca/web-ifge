@@ -49,3 +49,5 @@ Bei Absage bis zu 8 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogeb
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
 Die Schweigepflicht bezüglich der Privatsphäre der KursteilnehmerInnen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben von Ausbildungen werden keine Kosten rückerstattet oder erlassen. 
+
+{{< buchung lehrplaene="Erste Hilfe für Katzen" text="Kurs kaufen" value="98" >}}
