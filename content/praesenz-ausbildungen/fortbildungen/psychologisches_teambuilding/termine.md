@@ -22,19 +22,10 @@ weight: 3
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-{{< line icon="icon/termine.png" >}}
-## Informationsveranstaltung
-
-
-Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
-
-Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
-
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
 
 {{< line icon="icon/termine.png" >}}
 
-## Nächste Kurse & Lehrpläne 
+## Nächster Termin 
 ****  
 
 
@@ -48,7 +39,7 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 Die Ausbildung ist nur komplett buchbar. 
 
-Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Alle Teilnehmer:innen erhalten eine **Bestätigung** über **32 Stunden fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
 {{% /small  %}}

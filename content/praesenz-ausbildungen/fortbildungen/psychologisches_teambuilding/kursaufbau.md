@@ -50,7 +50,7 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 
 ## Leitung
 
-* [Dominique Karlovits](/about/referenten-lsb/#dominique-karlovits)
+* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 
 {{< buchung lehrplaene="Fortbildung: Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
