@@ -42,12 +42,7 @@ So können Sie die verkehrte Welt mit der Umkehrbrille selbst erleben, bevor Sie
 
 {{% floatbox %}}
 
-
-
 #### INTENSIVER PSYCHOLOGISCHER SCHWERPUNKT
-{{% box %}}
-{{% small %}}
-
 
 In der Fortbildung fließen die langjährige, wirtschaftliche Erfahrung in großen Organisationen mit der umfassenden psychologischen Komponente der Teamarbeit zusammen. Die Zusatzausbildung „Psychologisches Teambuilding“ hebt sich durch den intensiv psychologischen Schwerpunkt von reinen Tool-Vermittlungs-Seminaren deutlich ab. An zwei Wochenenden wird ein besonderes Hauptaugenmerk auf die wesentlichen Faktoren von Gruppendynamiken in unterschiedlichsten Kontexten gelegt. 
 
@@ -57,9 +52,12 @@ Dies ermöglicht Ihnen, Strukturen rasch zu erkennen und somit letztlich auch, d
 
 
 Mit diesem Fachwissen auf dem Gebiet der Psychologie werden aus reinen Teamspielen somit echte Prozessarbeiten, die tatsächlich spürbare, positive Veränderungen für die Unternehmen und die Team-Mitglieder ermöglichen und zudem noch Spaß machen. Denn gerade der Eisatz spielerischer Elemente, die zur Erheiterung beitragen, ermöglicht Veränderung für die von Ihnen begleiteten Teams in einer Leichtigkeit, mit der Sie Widerstände von vornherein auf ein Mindestmaß begrenzen können. Durch einen heiteren, herzlichen Zugang, bei dem Sie gleichermaßen die psychologisch und teamdynamisch wesentlichen Prozesse im Blick haben, gelingen Lösungen der zweiten Ordnung simpel aber nachhaltig.
-{{% /small %}}
-{{% /box %}}
 
+{{% /floatbox %}}
+
+***
+
+{{% floatbox %}}
 {{% box blue=1 %}}
 {{% small %}}
 #### LANGJÄHRIGE ERFAHRUNG IM PSYCHOLOGISCHEN WIRTSCHAFTSBEREICH
