@@ -24,28 +24,14 @@ weight: 3
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-# Termine
-****  
-
-Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden alle dann geltende Covid Maßnahmen eingehalten. Darüber hinaus sorgen **integrierte Lüftungssysteme oder Luftfilter** für zusätzliche Sicherheit. 
-
-{{< line icon="icon/termin_kursplan.png" >}}
-## Informationsveranstaltung
-
-
-Ein persönliches Informationsgespräch bietet ausreichend Zeit, um einen detaillierten Eindruck  über die Ausbildung zu erhalten.
-
-Ihre Fragen werden direkt beantwortet und Sie können einen persönlichen Eindruck von unserem Institut gewinnen!
-
-JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 610 89 36!
-
-{{< line icon="icon/termin_kursplan.png" >}}
-## Nächste Kurse & Lehrpläne 
-
 {{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
 
 
-{{< line icon="icon/bus.png" >}}
+
+
+
+
+{{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}

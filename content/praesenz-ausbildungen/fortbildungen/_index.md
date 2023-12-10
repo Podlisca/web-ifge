@@ -32,13 +32,13 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 #### Upgrades
 ***
 
-
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
 ***
 #### Fortbildungen
 ***
 {{% kursbox %}}
 
-{{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+{{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" >}}
 {{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
 {{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
 

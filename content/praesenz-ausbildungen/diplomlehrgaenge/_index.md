@@ -35,6 +35,7 @@ aliases:
 #### Upgrades
 ***
 
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
 
 ***
 #### Fortbildungen

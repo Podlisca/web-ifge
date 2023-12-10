@@ -14,9 +14,8 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 {{< slogan >}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
 
-****  
+
 
 ***
 #### Diplomausbildungen
@@ -31,7 +30,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 #### Upgrades
 ***
 
-
+{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
 
 ***
 #### Fortbildungen
