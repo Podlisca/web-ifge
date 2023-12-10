@@ -11,5 +11,5 @@ disableScrollTop: true
 
 {{< line icon="icon/anmeldung.png" >}}
 
-Bitte nützen Sie das Kauformular beim gewünschten Produkt. Danke
+Bitte nützen Sie das Kauf- Anmeldeformular beim gewünschten Produkt. Danke
 
