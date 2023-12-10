@@ -80,4 +80,4 @@ Im Zuge des [Coaching-Unternehmens FCBP](www.fcbp.at) schult sie Führungskräft
 {{% /floatbox %}}
 
 
-{{< buchung lehrplaene="Fortbildung: Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
+{{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

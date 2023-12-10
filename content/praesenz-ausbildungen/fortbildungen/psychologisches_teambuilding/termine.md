@@ -29,7 +29,7 @@ weight: 3
 ****  
 
 
-{{< buchung lehrplaene="Fortbildung: Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
+{{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
 
 {{< line icon="icon/bus.png" >}}
 

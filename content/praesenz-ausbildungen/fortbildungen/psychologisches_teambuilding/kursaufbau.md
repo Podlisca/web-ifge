@@ -52,5 +52,4 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-
-{{< buchung lehrplaene="Fortbildung: Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
+{{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
