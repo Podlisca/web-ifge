@@ -25,30 +25,57 @@ aliases:
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-{{% floatbox %}}
-{{% float-images %}}
-{{< youtube 17RcDuirOWs>}}
-{{< linebreak >}}
-{{< youtube fmXmn39H7Zs>}}
-{{< linebreak >}}
-{{% /float-images %}}
-{{% /floatbox %}}
-
-
 ## Menschen bilden, begleiten und bereichern
 
-Das [Institut für ganzheitliches Erleben (IFGE)](https://www.ifge.at/about/institut/) zählt zu den qualitativsten Beratungs- sowie Ausbildungszentren im Bereich der psychologischen Arbeit in Wien und eröffnete 2019 in Pinkafeld die erste Zweigstelle und 2020 die Zweite in Sankt Pölten. [Zentral gelegen](https://www.ifge.at/kontakt/), an einer der besten Adressen der Stadt in der Mariahilfer Straße, am Hauptplatz in Pinkafeld und in der Schneckgasse in Sankt Pölten, vereint das Institut seit vielen Jahren Intuition, Fachwissen, Gefühl und Erfolg.
+
+
+<div class="box video">
+{{% small %}}
+{{< youtube 17RcDuirOWs>}}
+
+##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
+
+{{% /small %}}
+
+{{% small %}}
+
+Das [Institut für ganzheitliches Erleben (IFGE)](https://www.ifge.at/about/institut/) zählt zu den qualitativsten Beratungs- sowie Ausbildungszentren im Bereich der psychologischen Arbeit in Wien und eröffnete 2019 in Pinkafeld die erste Zweigstelle.
+
+[Zentral gelegen](https://www.ifge.at/kontakt/), an einer der besten Adressen der Stadt in der Hollandstraße  und am Hauptplatz in Pinkafeld  vereint das Institut seit vielen Jahren Intuition, Fachwissen, Gefühl und Erfolg.
 
 Unter der Leitung von [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) werden am IFGE seit Jahren zukünftige psychologische Berater:innen allumfassend ausgebildet. Im Institut können Teilnehmer:innen und Absolvent:innen gleichsam eine Vielzahl an [Diplomausbildungen](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/), [(Online)](https://www.ifge.at/online-ausbildungsangebote/onlinephilosophie/)[Fortbildungen](https://www.ifge.at/praesenz-ausbildungen/fortbildungen/) und [Upgrades](https://www.ifge.at/upgrades/) in Anspruch nehmen. 
 
-Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
+{{% /small %}}
+</div> 
 
-**SGF®-Methode**
-**Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca**
+
+{{< line icon="icon/aufstellung.png" >}}
+
+## SGF®-Methode
+## Systemisch-Ganzheitliche Familienaufstellung nach Silvia Podlisca
+
+
+
+<div class="box video">
+{{% small %}}
+{{< youtube SPpsVyp5aLI>}}
+
+##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
+
+{{% /small %}}
+
+{{% small %}}
+
+Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
 
 Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles, höchst persönliches Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht. Eine Methode mit Herz, Weitblick und Wertschätzung für Familien – wo jeder Mensch das gleiche Recht hat gesehen, gehört und anerkannt zu werden.	
 
 Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psychologischen Beratung mit Hunden und Katzen](https://www.ifge.at/psychologische-beratung/familienaufstellungen/).
+
+
+{{% /small %}}
+</div> 
+
 
 
 {{< silvia >}}
@@ -71,6 +98,12 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 ***
 #### Upgrades
 ***
+
+{{% kursbox %}}
+
+
+
+{{% /kursbox %}}
 
 ***
 #### Fortbildungen

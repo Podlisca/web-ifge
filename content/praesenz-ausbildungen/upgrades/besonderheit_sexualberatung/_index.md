@@ -7,16 +7,16 @@ menu:
 draft: false
 weight: 5
 aliases: 
-    - "/upgrades/sexualberatung_traumaberatung/"
+    - "/upgrades/besonderheit_sexualberatung"
 description: "Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
 og_title: "Ausbildung: Sexualberatung / Paarberatung"
 og_image: "/img/silvia_rot.jpg"
 aliases:
-    - "/ausbildungsangebote/sexualberatung-paarberatung/"
-    - "/ausbildungsangebote/sexualberatung-traumaberatung/"
+    - "/ausbildungsangebote/besonderheit_sexualberatung/"
+    - "/ausbildungsangebote/besonderheit_sexualberatung/"
 ---
 
-# Ausbildung: Sexualberatung / Traumaberatung
+# Ausbildung: Besonderheit Sexualberatung
 {{< slogan >}}
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
