@@ -11,10 +11,5 @@ disableScrollTop: true
 
 {{< line icon="icon/anmeldung.png" >}}
 
-Bitte geben Sie bekannt, für welchen Kurs/Lehrgang oder Seminar Sie sich anmelden.
+Bitte nützen Sie das Kauformular beim gewünschten Produkt. Danke
 
-Bei Familienaufstellungen bitte bekannt geben ob Sie als Teilnehmer:in mit eigenem Anliegen oder als Beobachter*in dabei sein wollen. Danke!
-
-Mit Ihrer Anmeldung stimmen Sie den [AGB](/agb/) zu. Die [Widerrufsbelehrung](/widerrufsbelehrung/) und [Datenschutzerklärungen](/datenschutz/) wurden gelesen und akzeptiert.
-
-{{< line >}}
