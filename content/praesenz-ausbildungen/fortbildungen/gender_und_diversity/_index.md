@@ -43,6 +43,8 @@ Warum ist es wichtig Individualität zu fördern? Wie kann menschliche Vielfalt 
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+***
+
 {{< buchung lehrplaene="Fortbildung: Gender & Diversity" text="Kurs kaufen" value="420" >}}
 
 
