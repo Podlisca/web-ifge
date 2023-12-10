@@ -66,4 +66,6 @@ Bei Zahlungsverzug von mehr als 10 Tagen bei Einmal- oder Modulzahlung wird auto
 
 Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
 
+{{< line icon="icon/termine.png" >}}
+
 {{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}

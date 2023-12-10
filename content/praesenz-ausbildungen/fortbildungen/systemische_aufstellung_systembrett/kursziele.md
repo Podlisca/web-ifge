@@ -36,7 +36,7 @@ Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theori
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/termine.png" >}}
 
 {{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
 

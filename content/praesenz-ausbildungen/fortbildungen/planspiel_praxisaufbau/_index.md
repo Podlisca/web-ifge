@@ -42,6 +42,7 @@ Dass diese Überlegungen jedoch genauso zu einer erfolgreichen Gründung dazugeh
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+{{< line icon="icon/termine.png" >}}
 
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}
 

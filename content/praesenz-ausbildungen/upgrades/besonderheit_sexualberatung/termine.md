@@ -36,7 +36,7 @@ weight: 3
 {{% box blue=1 %}}
 {{% small  %}}
 
-Die Ausbildung ist nur komplett buchbar. Hier können Sie sich verbindlich [Anmeldung](https://www.ifge.at/anmeldung/)
+Die Ausbildung ist nur komplett buchbar. 
 
 
 Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.

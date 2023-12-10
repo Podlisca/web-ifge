@@ -49,4 +49,6 @@ Antworten auf diese und sämtliche weitere Fragen rund um den tatsächlichen Sch
 
 In diesem Kurs wird Ihr kompletter Praxisaufbau inklusive des gesamten (ersten) Geschäftsjahres nachgespielt. Unbemerkte Geldfresser sowie Ausgaben, an die man kaum denkt, werden hier so deutlich aufgelistet, dass das Seminar demnach auch für alle Berater:innen wertvoll sein kann, die ihre wirtschaftliche Situation evaluieren oder auf Verbesserungspotenzial hin überprüfen. Immerhin geht es um Ihre Existenz: Ziel des Kurses ist es, dass Sie nach der Absolvierung unseres Planspiels einen realistischen Zugang zum (ersten) Geschäftsjahr haben. Unsere erfahrenen Referent:innen stellen mögliche Sorgen und Ängste in einen realistischen Kontext, zeigen auf, wo falsche Scheu unangebracht ist, und wo vielleicht bisher zu blauäugig an die Praxis(gründung) herangegangenen wurde. 
 
+{{< line icon="icon/termine.png" >}}
+
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

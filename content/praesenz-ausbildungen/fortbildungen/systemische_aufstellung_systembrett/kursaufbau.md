@@ -64,6 +64,7 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 {{% box top-align=1 %}}
 {{% small  %}}
 
+{{< line icon="icon/info_tuerkis.png" >}}
 
 ## Bestätigung
 
@@ -73,11 +74,9 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/referenten.png" >}}
 
-## Leitung
 
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
+{{< line icon="icon/termine.png" >}}
 
 {{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
 
