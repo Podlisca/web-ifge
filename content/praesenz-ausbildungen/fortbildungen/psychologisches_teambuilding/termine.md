@@ -25,8 +25,7 @@ weight: 3
 
 {{< line icon="icon/termine.png" >}}
 
-## Nächster Termin 
-****  
+
 
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

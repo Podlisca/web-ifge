@@ -60,6 +60,6 @@ Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Refle
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/termine.png" >}}
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

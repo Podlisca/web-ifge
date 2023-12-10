@@ -37,7 +37,7 @@ AUFBAU DES LEHRGANGS SUPERVISION
 * Viele Gruppentools (Gruppenspiele; keine Aufstellungen)
 * Reflexion der Gruppenspiele 
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/termine.png" >}}
 
 ## PRÜFUNG
 
@@ -46,10 +46,8 @@ Diese Fortbildung schließt ohne Prüfung ab.
 Alle TeilnehmerInnen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
-{{< line icon="noun_Information_478770-2.png" >}}
+{{< line icon="icon/termine.png" >}}
 
-## Leitung
 
-* [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
