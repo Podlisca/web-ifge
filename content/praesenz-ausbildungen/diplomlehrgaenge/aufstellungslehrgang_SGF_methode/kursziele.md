@@ -30,7 +30,7 @@ Wer bin ich? Warum bin ich, wie ich bin? Warum belasten und blockieren mich Zwei
 
 Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die eigene Sichtweise als auch die Familie als Ganzes werden systematisch aufgestellt und Schritt für Schritt unter Begleitung verstanden und ergründet. Unsere Geschichte und unsere Herkunft lassen sich nicht ändern, sehr wohl aber unsere Sichtweise und unser Verständnis für familiäre Prozesse und Konflikte. Und genau das ist Ziel der **SGF®-Methode nach Silvia Podlisca**. Die Familienaufstellung unterstützt Frieden mit der Vergangenheit zu schließen, traumatische Erinnerungen aufzuarbeiten, das System Familie zu verstehen und so unbelastet und zufrieden die Zukunft zu gestalten. 
 
-
+{{< line icon="icon/termine.png" >}}
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
 </br>

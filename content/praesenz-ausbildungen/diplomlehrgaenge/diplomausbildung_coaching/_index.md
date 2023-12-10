@@ -31,6 +31,7 @@ Die Kompetenzen & Methoden, die in dieser Ausbildung vermittelt werden sind viel
 
 {{% silvia %}}
 
+{{< line icon="icon/termine.png" >}}
 
 {{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}
 
