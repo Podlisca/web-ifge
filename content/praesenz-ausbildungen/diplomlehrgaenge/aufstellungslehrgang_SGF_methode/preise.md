@@ -39,9 +39,12 @@ weight: 2
 
 **Die Ausbildung ist nur komplett buchbar.**
 
-<br/>
 
-Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
+
+
+{{< line icon="icon/termine.png" >}}
+
+
 
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}

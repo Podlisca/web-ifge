@@ -20,52 +20,18 @@ weight: 3
 
 #### Termine am IFGE Burgenland (Pinkafeld)
 
-{{< image src="/img/seminarraum1.jpg" title="Coachingausbildungen gibt es mittlerweile wie Sand am Meer – weshalb soll ich als diplomierter Lebensberater:in - psychologischen Berater:in, Aufstellungsleiter:in oder Supervisor:in auch noch eine Coachingausbildung absolvieren? Die Diplomausbildung Coaching am IFGE bietet einen enorm hohen Praxisbezug und Sie lernen jeden einzelnen Schritt, welchen Sie als Coach gemeinsam mit Ihrem Coachee setzen, psychologisch zu betrachten. Dies verhindert, dass das Tempo die Lösung verhindert und gleichzeitig lernen Sie wie Sie mit Ihrem Coachee beim Prozess und der Lösung bleiben können auch ohne jahrelange Aufarbeitung der emotionalen Hindernisgründe."float="left " >}}
 
-
-
-#### Start: 07. September 2024
 
 **ca. alle 2 Wochen samstags von 09:00 bis 18:00 Uhr**
 
-07.09.24 /
-21.09.24 /
-05.10.24 /
-19.10.24 /
-02.11.24 /
-16.11.24 /
-30.11.24 /
-14.12.24 /
-11.01.25 /
-25.01.25 /
-08.02.25 /
-22.02.25 /
-08.03.25 /
-22.03.25 /
-05.04.25 /
-26.04.25 /
-10.05.25 /
-24.05.25 /
-14.06.25 /
-28.06.25 /
-06.09.25 /
-20.09.25 /
-04.10.25 /
-18.10.25 /
-25.10.25 /
-08.11.25 /
-22.11.25 /
-06.12.25 /
-13.12.25 /
-20.12.25 Prüfungstag
 
-[Termine herunterladen](/downloads/termine_sgf_lehrgang_2024.pdf)
 
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
 </br>
 
 
+[Termine herunterladen](/downloads/termine_sgf_lehrgang_2024.pdf)
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -82,7 +48,9 @@ weight: 3
 
 ## Der erste Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
 
-
+<br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+</br>
 
 {{< line icon="icon/bus.png" >}}
 

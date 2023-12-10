@@ -9,7 +9,7 @@ weight: 3
 ---
 
 
-# Ausbildung: psychologisches Teambuilding am IFGE Burgenland
+# Ausbildung: psychologisches Teambuilding am IFGE 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
