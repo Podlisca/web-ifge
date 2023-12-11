@@ -128,11 +128,13 @@ model/personZahlungFaelligDto.ts
 model/plissitLi.ts
 model/praktikumseintrag.ts
 model/preis.ts
+model/preisDto.ts
 model/produkt.ts
 model/produktDto.ts
 model/produktMailKategorie.ts
 model/produktNameDto.ts
 model/produktOffenDto.ts
+model/produktSchuelerDto.ts
 model/produktStatus.ts
 model/produktTeilnehmer.ts
 model/produktTyp.ts

@@ -16,5 +16,8 @@ export interface LehrplanDto {
     id?: number;
     name?: string;
     faecher?: Array<FachDto>;
+    abschlusspruefung?: boolean;
+    diplomarbeit?: boolean;
+    anzahlSemester?: number;
 }
 

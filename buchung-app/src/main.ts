@@ -1,14 +1,15 @@
 import { registerLocaleData } from '@angular/common';
-import { provideHttpClient } from '@angular/common/http';
+import { HTTP_INTERCEPTORS, provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
 import de from "@angular/common/locales/de";
 import { DEFAULT_CURRENCY_CODE, LOCALE_ID, enableProdMode } from '@angular/core';
 import { createCustomElement } from '@angular/elements';
 import { MAT_DATE_LOCALE } from '@angular/material/core';
 import { bootstrapApplication, createApplication } from '@angular/platform-browser';
 import { provideAnimations } from '@angular/platform-browser/animations';
+import { ErrorInterceptor } from './app/+core/error.interceptor';
+import { BASE_PATH } from './app/+core/gen';
 import { AppComponent } from './app/app.component';
 import { environment } from './environments/environment';
-import { BASE_PATH } from './app/+core/gen';
 
 if (environment.production) {
   enableProdMode();
@@ -22,8 +23,9 @@ if (!environment.production) {
   bootstrapApplication(AppComponent,
     {
       providers: [
-        provideHttpClient(),
+        provideHttpClient(withInterceptorsFromDi()),
         provideAnimations(),
+        { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
         { provide: DEFAULT_CURRENCY_CODE, useValue: "EUR" },
         { provide: LOCALE_ID, useValue: "de" },
         { provide: MAT_DATE_LOCALE, useValue: 'de-DE' },

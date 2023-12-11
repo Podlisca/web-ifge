@@ -31,3 +31,7 @@
 ul li {
     list-style-image: none;
 }
+
+mat-error {
+    font-size: 0.8rem;
+}

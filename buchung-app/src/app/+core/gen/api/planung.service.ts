@@ -39,6 +39,8 @@ import { Intervention } from '../model/intervention';
 // @ts-ignore
 import { Lehrplan } from '../model/lehrplan';
 // @ts-ignore
+import { LehrplanDto } from '../model/lehrplanDto';
+// @ts-ignore
 import { Modul } from '../model/modul';
 // @ts-ignore
 import { ModulThemen } from '../model/modulThemen';
@@ -96,7 +98,7 @@ import { Configuration }                                     from '../configurat
 })
 export class PlanungService {
 
-    protected basePath = 'http://192.168.81.115:8080';
+    protected basePath = 'http://localhost:8080';
     public defaultHeaders = new HttpHeaders();
     public configuration = new Configuration();
     public encoder: HttpParameterCodec;
@@ -552,9 +554,9 @@ export class PlanungService {
      * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
      * @param reportProgress flag to report request and response progress.
      */
-    public addLehrplan(lehrplan?: Lehrplan, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<object>;
-    public addLehrplan(lehrplan?: Lehrplan, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<object>>;
-    public addLehrplan(lehrplan?: Lehrplan, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<object>>;
+    public addLehrplan(lehrplan?: Lehrplan, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<LehrplanDto>;
+    public addLehrplan(lehrplan?: Lehrplan, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<LehrplanDto>>;
+    public addLehrplan(lehrplan?: Lehrplan, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<LehrplanDto>>;
     public addLehrplan(lehrplan?: Lehrplan, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
 
         let localVarHeaders = this.defaultHeaders;
@@ -598,7 +600,7 @@ export class PlanungService {
         }
 
         let localVarPath = `/api/planung/lehrplaene`;
-        return this.httpClient.request<object>('post', `${this.configuration.basePath}${localVarPath}`,
+        return this.httpClient.request<LehrplanDto>('post', `${this.configuration.basePath}${localVarPath}`,
             {
                 context: localVarHttpContext,
                 body: lehrplan,
@@ -2768,10 +2770,10 @@ export class PlanungService {
      * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
      * @param reportProgress flag to report request and response progress.
      */
-    public getLehrplaeneJson(observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<string>;
-    public getLehrplaeneJson(observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<string>>;
-    public getLehrplaeneJson(observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<string>>;
-    public getLehrplaeneJson(observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+    public getLehrplaene(observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<LehrplanDto>>;
+    public getLehrplaene(observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<LehrplanDto>>>;
+    public getLehrplaene(observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<LehrplanDto>>>;
+    public getLehrplaene(observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
 
         let localVarHeaders = this.defaultHeaders;
 
@@ -2805,7 +2807,7 @@ export class PlanungService {
         }
 
         let localVarPath = `/api/planung/lehrplaene`;
-        return this.httpClient.request<string>('get', `${this.configuration.basePath}${localVarPath}`,
+        return this.httpClient.request<Array<LehrplanDto>>('get', `${this.configuration.basePath}${localVarPath}`,
             {
                 context: localVarHttpContext,
                 responseType: <any>responseType_,
@@ -2822,9 +2824,9 @@ export class PlanungService {
      * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
      * @param reportProgress flag to report request and response progress.
      */
-    public getLehrplan(id: number, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<object>;
-    public getLehrplan(id: number, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<object>>;
-    public getLehrplan(id: number, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<object>>;
+    public getLehrplan(id: number, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<LehrplanDto>;
+    public getLehrplan(id: number, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<LehrplanDto>>;
+    public getLehrplan(id: number, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<LehrplanDto>>;
     public getLehrplan(id: number, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
         if (id === null || id === undefined) {
             throw new Error('Required parameter id was null or undefined when calling getLehrplan.');
@@ -2862,7 +2864,7 @@ export class PlanungService {
         }
 
         let localVarPath = `/api/planung/lehrplaene/${this.configuration.encodeParam({name: "id", value: id, in: "path", style: "simple", explode: false, dataType: "number", dataFormat: undefined})}`;
-        return this.httpClient.request<object>('get', `${this.configuration.basePath}${localVarPath}`,
+        return this.httpClient.request<LehrplanDto>('get', `${this.configuration.basePath}${localVarPath}`,
             {
                 context: localVarHttpContext,
                 responseType: <any>responseType_,

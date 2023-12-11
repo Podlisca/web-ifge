@@ -49,10 +49,10 @@ export class KaufComponent implements OnInit {
     this.form = this.fb.group({
       produktId: [this.produkt.id, Validators.required],
       anrede: [Geschlecht.W, Validators.required],
-      vorname: ["", Validators.required],
-      nachname: ["", Validators.required],
+      vorname: ["", [Validators.required, Validators.maxLength(45)]],
+      nachname: ["", [Validators.required, Validators.maxLength(45)]],
       email: ["", [Validators.required, Validators.email]],
-      notiz: ["", [Validators.maxLength(400)]],
+      notiz: ["", [Validators.maxLength(512)]],
       agb: [false, Validators.requiredTrue],
       datenschutz: [undefined, Validators.required],
       widerruf: [undefined, Validators.required],
@@ -98,7 +98,11 @@ export class KaufComponent implements OnInit {
       },
       error: err => {
         this.loading = false;
-        this.snack.open("Leider ist beim Kauf ein Fehler aufgetreten.", "X", { duration: 5000 });
+        if (typeof err?.message == 'string') {
+          this.snack.open("Leider ist beim Kauf ein Fehler aufgetreten: " + err.message, "X", { duration: 7000 });
+        } else {
+          this.snack.open("Leider ist beim Kauf ein Fehler aufgetreten.", "X", { duration: 7000 });
+        }
       }
     });
   }

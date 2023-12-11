@@ -39,11 +39,11 @@
   </div>
   <mat-form-field>
     <mat-label>Vorname</mat-label>
-    <input matInput placeholder="Vorname" formControlName="vorname">
+    <input matInput placeholder="Vorname" formControlName="vorname" maxlength="45">
   </mat-form-field>
   <mat-form-field>
     <mat-label>Nachname</mat-label>
-    <input matInput placeholder="Nachname" formControlName="nachname">
+    <input matInput placeholder="Nachname" formControlName="nachname" maxlength="45">
   </mat-form-field>
   <mat-form-field>
     <mat-label>E-Mail</mat-label>
@@ -61,6 +61,9 @@
   <mat-form-field>
     <mat-label>PLZ</mat-label>
     <input matInput placeholder="PLZ" formControlName="plz" autocomplete="off">
+    <mat-error *ngIf="form.controls['plz'].invalid && (form.controls['plz'].dirty || form.controls['plz'].touched)">
+      Postleitzahl Format ungültig
+    </mat-error>
   </mat-form-field>
   <mat-form-field>
     <mat-label>Ort</mat-label>
@@ -69,7 +72,7 @@
   <mat-form-field>
     <mat-label>Deine Mitteilung an Silvia</mat-label>
     <textarea matInput cdkTextareaAutosize autocomplete="off" cdkAutosizeMinRows="2" formControlName="notiz"
-      maxlength="400"></textarea>
+      maxlength="512"></textarea>
   </mat-form-field>
   <mat-checkbox formControlName="agb" style="white-space: normal;">
     Ich stimme den <a href="https://ifge.at/agb/" target="_blank" rel="noopener">AGB</a> zu

@@ -9,22 +9,11 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { PreisDto } from './preisDto';
-import { SeminartagDto } from './seminartagDto';
 
 
-export interface AnmeldeProdukt { 
+export interface PreisDto { 
     id?: number;
     name?: string;
-    vorlage?: string;
-    lehrplan?: string;
-    ort?: string;
-    leitung?: string;
-    startdatum?: Date;
-    preise?: Array<PreisDto>;
-    seminartage?: Array<SeminartagDto>;
-    freiePlaetze?: number;
-    unterrichtsKlient?: boolean;
-    isOnlineakademie?: boolean;
+    betrag?: number;
 }
 
