@@ -5,4 +5,4 @@
 
 
 <ifge-buchung produkte='{{ .Get "produkte" }}' vorlagen='{{ .Get "vorlagen" }}' lehrplaene='{{ .Get "lehrplaene" }}'
-{{ with .Get "text"}} text='{{ . }}' {{ end }} onsubmit="console.log({{ $value }}); gtag_report_conversion({{$value}});"></ifge-buchung>
+{{ with .Get "text"}} text='{{ . }}' {{ end }} onsubmit="gtag_report_conversion({{$value}});"></ifge-buchung>

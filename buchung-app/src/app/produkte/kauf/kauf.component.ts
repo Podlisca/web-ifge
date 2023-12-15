@@ -32,7 +32,7 @@ export class KaufComponent implements OnInit {
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
   @Input({ required: true }) produkt!: AnmeldeProdukt
   @Output() back = new EventEmitter<void>();
-  @Output('submit') anmeldung = new EventEmitter<void>();
+  @Output() anmeldung = new EventEmitter<number>();
 
   api = inject(AnmeldungService);
 
@@ -77,8 +77,8 @@ export class KaufComponent implements OnInit {
     this.loading = true;
     grecaptcha.ready(() => {
       grecaptcha.execute(this.recaptchaSiteKey, { action: 'submit' }).then((token: any) => {
-        // emit callback hook
-        this.anmeldung.emit();
+        // emit conversion callback with effective betrag
+        this.anmeldung.emit(this.form.controls['preis'].value.betrag);
 
         this.kaufe(token);
       });
@@ -88,6 +88,8 @@ export class KaufComponent implements OnInit {
   kaufe(token: string) {
     const kauf: Produktkauf = this.form.value;
     kauf.recaptcha_token = token;
+    // extract id from Preis
+    kauf.preis = this.form.controls['preis'].value.id;
 
     if (this.produkt.seminartage) {
       kauf.seminartage = this.produkt.seminartage.map(s => s.id!)
