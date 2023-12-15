@@ -10,6 +10,7 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
 import { AnmeldeProdukt, AnmeldungService, Geschlecht, Produktkauf } from 'src/app/+core/gen';
 import { defaultConfig } from 'src/app/app.config';
+import { environment } from 'src/environments/environment';
 
 const RECAPTCHA_API = 'https://www.google.com/recaptcha/api.js';
 declare let grecaptcha: any;
@@ -94,7 +95,10 @@ export class KaufComponent implements OnInit {
     this.api.kaufeProdukt(kauf).subscribe({
       next: res => {
         console.log(res);
-        location.href = defaultConfig.url_success;
+        this.loading = false;
+        if (environment.production) {
+          location.href = defaultConfig.url_success;
+        }
       },
       error: err => {
         this.loading = false;

@@ -6,6 +6,7 @@ import { AnmeldungComponent } from './anmeldung/anmeldung.component';
 import { LwrBookingEvent, defaultConfig } from './app.config';
 import { KaufComponent } from './produkte/kauf/kauf.component';
 import { ProdukteComponent } from './produkte/produkte.component';
+import { environment } from 'src/environments/environment';
 
 
 @Component({
@@ -25,7 +26,7 @@ export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  _vorlagen: string[] = [];//"Familienaufstellung Eintages Seminar (6 Stunden)"];
+  _vorlagen: string[] = environment.production ? [] : ["Familienaufstellung Eintages Seminar (8 Stunden)"];
   @Input() set vorlagen(val: string) {
     this._vorlagen = val.split(";");
   }
