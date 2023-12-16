@@ -40,6 +40,7 @@ else {
     providers: [
       provideHttpClient(),
       provideAnimations(),
+      { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
       { provide: DEFAULT_CURRENCY_CODE, useValue: "EUR" },
       { provide: LOCALE_ID, useValue: "de" },
       { provide: MAT_DATE_LOCALE, useValue: 'de-DE' },

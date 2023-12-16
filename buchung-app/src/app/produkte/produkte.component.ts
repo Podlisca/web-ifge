@@ -2,12 +2,12 @@ import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatIconModule } from '@angular/material/icon';
+import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { Observable, map } from 'rxjs';
 import { AnmeldeProdukt, AnmeldeProduktQuery, AnmeldungService } from '../+core/gen';
 import { defaultConfig } from '../app.config';
 import { KaufComponent } from './kauf/kauf.component';
 import { TerminComponent } from './termin/termin.component';
-import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 
 interface View {
   ort: string,
@@ -90,6 +90,7 @@ export class ProdukteComponent implements OnInit {
   }
 
   onSelect(event: ProduktSelection) {
+    // console.log("produkte select", event)
     this.selection = event;
     this.produktSelected.emit(event.produkt);
   }

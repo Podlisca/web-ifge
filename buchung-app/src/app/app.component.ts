@@ -1,9 +1,10 @@
 import { CommonModule } from '@angular/common';
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
+import { environment } from 'src/environments/environment';
 import { AnmeldeProdukt, AnmeldeProduktQuery } from './+core/gen';
 import { AnmeldungComponent } from './anmeldung/anmeldung.component';
-import { LwrBookingEvent, defaultConfig } from './app.config';
+import { defaultConfig } from './app.config';
 import { KaufComponent } from './produkte/kauf/kauf.component';
 import { ProdukteComponent } from './produkte/produkte.component';
 
@@ -25,7 +26,7 @@ export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  _vorlagen: string[] = [];//"Familienaufstellung Eintages Seminar (6 Stunden)"];
+  _vorlagen: string[] = environment.production ? [] : ["Familienaufstellung Eintages Seminar (8 Stunden)"];
   @Input() set vorlagen(val: string) {
     this._vorlagen = val.split(";");
   }
@@ -44,11 +45,7 @@ export class AppComponent implements OnInit {
 
   @Input() text = "Jetzt verbindlich anmelden";
 
-  @Output('submit') anmeldung = new EventEmitter<void>();
-
-  private continueListener?: (t: any) => {};
-  private terminSelectListener?: (t: any) => {};
-  private successListener?: (t: any) => {};
+  @Output('submit') anmeldung = new EventEmitter<number>();
 
   step = 0;
   selection?: AnmeldeProdukt
@@ -68,9 +65,11 @@ export class AppComponent implements OnInit {
 
   next() {
     this.step = 1;
-    if (this.continueListener) {
-      this.continueListener(this.selection);
-    }
+  }
+
+  emitAnmeldung(preis: number) {
+    // console.log("submitCb", preis)
+    this.anmeldung.emit(preis);
   }
 
   private configure() {
@@ -78,15 +77,6 @@ export class AppComponent implements OnInit {
       const [key, val] = d;
       if (key == "config") {
         this.config = Object.assign(this.config, val);
-      }
-      else if (key == LwrBookingEvent.selectTermin) {
-        this.terminSelectListener = d[1];
-      }
-      else if (key == LwrBookingEvent.continue) {
-        this.continueListener = d[1];
-      }
-      else if (key == LwrBookingEvent.success) {
-        this.successListener = d[1];
       }
     });
 

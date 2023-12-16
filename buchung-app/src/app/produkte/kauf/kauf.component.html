@@ -18,7 +18,7 @@
 
   <h4>Bitte wähle deine Zahlungsvariante</h4>
   <mat-radio-group class="preise" formControlName="preis">
-    <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis.id">
+    <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis">
       {{ preis.name }} {{preis.betrag | currency}}
     </mat-radio-button>
   </mat-radio-group>
