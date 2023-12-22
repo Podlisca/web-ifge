@@ -39,4 +39,5 @@ mat-error {
 ::ng-deep mat-radio-button label.mdc-label {
     padding-top: 5px;
     padding-bottom: 5px;
+    text-align: left;
 }

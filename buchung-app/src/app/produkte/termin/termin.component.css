@@ -4,7 +4,8 @@
 }
 
 :host.selected button {
-    background-color: var(--ltw-color-termin-selected);
+    /* background-color: var(--ltw-color-termin-selected); */
+    background-color: #16978c69;
     /* color: white; */
 }
 
