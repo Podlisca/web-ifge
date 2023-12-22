@@ -14,7 +14,7 @@ import { Rechnung } from './rechnung';
 
 
 export interface OffenePostenKundenDto { 
-    kunde?: PersonNameDto;
+    person?: PersonNameDto;
     summeOffen?: number;
     summeUeberfaellig?: number;
     rechnungen?: Array<Rechnung>;

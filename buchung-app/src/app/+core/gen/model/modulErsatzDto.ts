@@ -9,11 +9,13 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Rabatt } from './rabatt';
+import { ModulDto } from './modulDto';
 
 
-export interface RabattNeu { 
-    rabatt?: Rabatt;
-    personen?: Array<number>;
+export interface ModulErsatzDto { 
+    ersatzmodule?: Array<ModulDto>;
+    id?: number;
+    name?: string;
+    ue?: number;
 }
 

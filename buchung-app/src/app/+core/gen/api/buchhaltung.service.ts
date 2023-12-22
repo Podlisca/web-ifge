@@ -45,6 +45,8 @@ import { ProduktDto } from '../model/produktDto';
 // @ts-ignore
 import { Rabatt } from '../model/rabatt';
 // @ts-ignore
+import { RabattDto } from '../model/rabattDto';
+// @ts-ignore
 import { RabattNeu } from '../model/rabattNeu';
 // @ts-ignore
 import { Rechnungskontrolle } from '../model/rechnungskontrolle';
@@ -68,7 +70,7 @@ import { Configuration }                                     from '../configurat
 })
 export class BuchhaltungService {
 
-    protected basePath = 'http://localhost:8080';
+    protected basePath = 'http://192.168.81.115:8080';
     public defaultHeaders = new HttpHeaders();
     public configuration = new Configuration();
     public encoder: HttpParameterCodec;
@@ -314,6 +316,63 @@ export class BuchhaltungService {
             {
                 context: localVarHttpContext,
                 body: zahlungsausgang,
+                responseType: <any>responseType_,
+                withCredentials: this.configuration.withCredentials,
+                headers: localVarHeaders,
+                observe: observe,
+                reportProgress: reportProgress
+            }
+        );
+    }
+
+    /**
+     * @param id 
+     * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
+     * @param reportProgress flag to report request and response progress.
+     */
+    public deleteRabatt(id: number, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<object>;
+    public deleteRabatt(id: number, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<object>>;
+    public deleteRabatt(id: number, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<object>>;
+    public deleteRabatt(id: number, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+        if (id === null || id === undefined) {
+            throw new Error('Required parameter id was null or undefined when calling deleteRabatt.');
+        }
+
+        let localVarHeaders = this.defaultHeaders;
+
+        let localVarHttpHeaderAcceptSelected: string | undefined = options && options.httpHeaderAccept;
+        if (localVarHttpHeaderAcceptSelected === undefined) {
+            // to determine the Accept header
+            const httpHeaderAccepts: string[] = [
+                'application/json'
+            ];
+            localVarHttpHeaderAcceptSelected = this.configuration.selectHeaderAccept(httpHeaderAccepts);
+        }
+        if (localVarHttpHeaderAcceptSelected !== undefined) {
+            localVarHeaders = localVarHeaders.set('Accept', localVarHttpHeaderAcceptSelected);
+        }
+
+        let localVarHttpContext: HttpContext | undefined = options && options.context;
+        if (localVarHttpContext === undefined) {
+            localVarHttpContext = new HttpContext();
+        }
+
+
+        let responseType_: 'text' | 'json' | 'blob' = 'json';
+        if (localVarHttpHeaderAcceptSelected) {
+            if (localVarHttpHeaderAcceptSelected.startsWith('text')) {
+                responseType_ = 'text';
+            } else if (this.configuration.isJsonMime(localVarHttpHeaderAcceptSelected)) {
+                responseType_ = 'json';
+            } else {
+                responseType_ = 'blob';
+            }
+        }
+
+        let localVarPath = `/api/buchhaltung/rabatte/${this.configuration.encodeParam({name: "id", value: id, in: "path", style: "simple", explode: false, dataType: "number", dataFormat: undefined})}`;
+        return this.httpClient.request<object>('delete', `${this.configuration.basePath}${localVarPath}`,
+            {
+                context: localVarHttpContext,
                 responseType: <any>responseType_,
                 withCredentials: this.configuration.withCredentials,
                 headers: localVarHeaders,
@@ -624,14 +683,21 @@ export class BuchhaltungService {
     }
 
     /**
+     * @param includeZeros 
      * @param requestBody 
      * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
      * @param reportProgress flag to report request and response progress.
      */
-    public getOffenePostenKunden(requestBody?: Array<number>, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<OffenePostenKundenDto>>;
-    public getOffenePostenKunden(requestBody?: Array<number>, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<OffenePostenKundenDto>>>;
-    public getOffenePostenKunden(requestBody?: Array<number>, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<OffenePostenKundenDto>>>;
-    public getOffenePostenKunden(requestBody?: Array<number>, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+    public getOffenePostenKunden(includeZeros?: boolean, requestBody?: Array<number>, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<OffenePostenKundenDto>>;
+    public getOffenePostenKunden(includeZeros?: boolean, requestBody?: Array<number>, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<OffenePostenKundenDto>>>;
+    public getOffenePostenKunden(includeZeros?: boolean, requestBody?: Array<number>, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<OffenePostenKundenDto>>>;
+    public getOffenePostenKunden(includeZeros?: boolean, requestBody?: Array<number>, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+
+        let localVarQueryParameters = new HttpParams({encoder: this.encoder});
+        if (includeZeros !== undefined && includeZeros !== null) {
+          localVarQueryParameters = this.addToHttpParams(localVarQueryParameters,
+            <any>includeZeros, 'includeZeros');
+        }
 
         let localVarHeaders = this.defaultHeaders;
 
@@ -678,6 +744,7 @@ export class BuchhaltungService {
             {
                 context: localVarHttpContext,
                 body: requestBody,
+                params: localVarQueryParameters,
                 responseType: <any>responseType_,
                 withCredentials: this.configuration.withCredentials,
                 headers: localVarHeaders,
@@ -688,14 +755,21 @@ export class BuchhaltungService {
     }
 
     /**
+     * @param includeZeros 
      * @param requestBody 
      * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
      * @param reportProgress flag to report request and response progress.
      */
-    public getOffenePostenReferenten(requestBody?: Array<number>, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<OffenePostenReferentenDto>>;
-    public getOffenePostenReferenten(requestBody?: Array<number>, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<OffenePostenReferentenDto>>>;
-    public getOffenePostenReferenten(requestBody?: Array<number>, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<OffenePostenReferentenDto>>>;
-    public getOffenePostenReferenten(requestBody?: Array<number>, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+    public getOffenePostenReferenten(includeZeros?: boolean, requestBody?: Array<number>, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<OffenePostenReferentenDto>>;
+    public getOffenePostenReferenten(includeZeros?: boolean, requestBody?: Array<number>, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<OffenePostenReferentenDto>>>;
+    public getOffenePostenReferenten(includeZeros?: boolean, requestBody?: Array<number>, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<OffenePostenReferentenDto>>>;
+    public getOffenePostenReferenten(includeZeros?: boolean, requestBody?: Array<number>, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+
+        let localVarQueryParameters = new HttpParams({encoder: this.encoder});
+        if (includeZeros !== undefined && includeZeros !== null) {
+          localVarQueryParameters = this.addToHttpParams(localVarQueryParameters,
+            <any>includeZeros, 'includeZeros');
+        }
 
         let localVarHeaders = this.defaultHeaders;
 
@@ -742,6 +816,7 @@ export class BuchhaltungService {
             {
                 context: localVarHttpContext,
                 body: requestBody,
+                params: localVarQueryParameters,
                 responseType: <any>responseType_,
                 withCredentials: this.configuration.withCredentials,
                 headers: localVarHeaders,
@@ -867,18 +942,23 @@ export class BuchhaltungService {
 
     /**
      * @param kaufId 
+     * @param all 
      * @param observe set whether or not to return the data Observable as the body, response or events. defaults to returning the body.
      * @param reportProgress flag to report request and response progress.
      */
-    public getRabatte(kaufId?: number, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<Rabatt>>;
-    public getRabatte(kaufId?: number, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<Rabatt>>>;
-    public getRabatte(kaufId?: number, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<Rabatt>>>;
-    public getRabatte(kaufId?: number, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
+    public getRabatte(kaufId?: number, all?: boolean, observe?: 'body', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<Array<RabattDto>>;
+    public getRabatte(kaufId?: number, all?: boolean, observe?: 'response', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpResponse<Array<RabattDto>>>;
+    public getRabatte(kaufId?: number, all?: boolean, observe?: 'events', reportProgress?: boolean, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<HttpEvent<Array<RabattDto>>>;
+    public getRabatte(kaufId?: number, all?: boolean, observe: any = 'body', reportProgress: boolean = false, options?: {httpHeaderAccept?: 'application/json', context?: HttpContext}): Observable<any> {
 
         let localVarQueryParameters = new HttpParams({encoder: this.encoder});
         if (kaufId !== undefined && kaufId !== null) {
           localVarQueryParameters = this.addToHttpParams(localVarQueryParameters,
             <any>kaufId, 'kaufId');
+        }
+        if (all !== undefined && all !== null) {
+          localVarQueryParameters = this.addToHttpParams(localVarQueryParameters,
+            <any>all, 'all');
         }
 
         let localVarHeaders = this.defaultHeaders;
@@ -913,7 +993,7 @@ export class BuchhaltungService {
         }
 
         let localVarPath = `/api/buchhaltung/rabatte`;
-        return this.httpClient.request<Array<Rabatt>>('get', `${this.configuration.basePath}${localVarPath}`,
+        return this.httpClient.request<Array<RabattDto>>('get', `${this.configuration.basePath}${localVarPath}`,
             {
                 context: localVarHttpContext,
                 params: localVarQueryParameters,

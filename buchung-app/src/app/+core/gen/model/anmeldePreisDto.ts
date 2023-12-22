@@ -9,11 +9,14 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Rabatt } from './rabatt';
 
 
-export interface RabattNeu { 
-    rabatt?: Rabatt;
-    personen?: Array<number>;
+export interface AnmeldePreisDto { 
+    id?: number;
+    name?: string;
+    gesamtbetrag?: number;
+    anzahlung?: number;
+    anzahlTeilzahlungen?: number;
+    teilbetrag?: number;
 }
 

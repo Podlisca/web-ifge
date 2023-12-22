@@ -9,7 +9,7 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { PreisDto } from './preisDto';
+import { AnmeldePreisDto } from './anmeldePreisDto';
 import { SeminartagDto } from './seminartagDto';
 
 
@@ -21,7 +21,7 @@ export interface AnmeldeProdukt {
     ort?: string;
     leitung?: string;
     startdatum?: Date;
-    preise?: Array<PreisDto>;
+    preise?: Array<AnmeldePreisDto>;
     seminartage?: Array<SeminartagDto>;
     freiePlaetze?: number;
     unterrichtsKlient?: boolean;

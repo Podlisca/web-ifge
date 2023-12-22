@@ -9,13 +9,20 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { ModulErsatzDto } from './modulErsatzDto';
+import { Produktkategorie } from './produktkategorie';
+import { PersonLightDto } from './personLightDto';
 
 
-export interface FachDto { 
+export interface RabattDto { 
     id?: number;
     name?: string;
-    lehrplan?: string;
-    module?: Array<ModulErsatzDto>;
+    betrag?: number;
+    code?: string;
+    person?: PersonLightDto;
+    maxVerwendung?: number;
+    gueltigVon?: Date;
+    gueltigBis?: Date;
+    kategorien?: Array<Produktkategorie>;
+    gueltig?: boolean;
 }
 

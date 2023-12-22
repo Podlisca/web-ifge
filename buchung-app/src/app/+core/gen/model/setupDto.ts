@@ -16,5 +16,6 @@ export interface SetupDto {
     fromName?: string;
     replyMail?: string;
     replyName?: string;
+    silviaMail?: string;
 }
 

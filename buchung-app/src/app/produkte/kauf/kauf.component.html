@@ -19,7 +19,13 @@
   <h4>Bitte wähle deine Zahlungsvariante</h4>
   <mat-radio-group class="preise" formControlName="preis">
     <mat-radio-button *ngFor="let preis of produkt?.preise" [value]="preis">
-      {{ preis.name }} {{preis.betrag | currency}}
+      <div>
+        {{ preis.name }}<br>
+        Gesamtbetrag: {{preis.gesamtbetrag | currency}}
+        <span *ngIf="preis.anzahlung">(Anzahlung: {{preis.anzahlung | currency}}, {{preis.anzahlTeilzahlungen}}
+          Teilzahlungen a
+          {{preis.teilbetrag | currency}})</span>
+      </div>
     </mat-radio-button>
   </mat-radio-group>
   <br>

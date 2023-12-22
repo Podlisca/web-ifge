@@ -35,3 +35,8 @@ ul li {
 mat-error {
     font-size: 0.8rem;
 }
+
+::ng-deep mat-radio-button label.mdc-label {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

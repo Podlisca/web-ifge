@@ -24,6 +24,7 @@ model/abschlusspruefungDto.ts
 model/adresse.ts
 model/anfangsmeditation.ts
 model/anhang.ts
+model/anmeldePreisDto.ts
 model/anmeldeProdukt.ts
 model/anmeldeProduktQuery.ts
 model/anmeldung.ts
@@ -102,6 +103,7 @@ model/models.ts
 model/modul.ts
 model/modulAnwesenheit.ts
 model/modulDto.ts
+model/modulErsatzDto.ts
 model/modulThemen.ts
 model/modulmapping.ts
 model/modulpruefung.ts
@@ -122,13 +124,13 @@ model/pdfTemplate.ts
 model/peerGroup.ts
 model/person.ts
 model/personDto.ts
+model/personLightDto.ts
 model/personLsbDto.ts
 model/personNameDto.ts
 model/personZahlungFaelligDto.ts
 model/plissitLi.ts
 model/praktikumseintrag.ts
 model/preis.ts
-model/preisDto.ts
 model/produkt.ts
 model/produktDto.ts
 model/produktMailKategorie.ts
@@ -148,6 +150,7 @@ model/pruefung.ts
 model/pruefungDto.ts
 model/pruefungsfrage.ts
 model/rabatt.ts
+model/rabattDto.ts
 model/rabattNeu.ts
 model/raum.ts
 model/raumDto.ts

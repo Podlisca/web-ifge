@@ -9,11 +9,15 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Rabatt } from './rabatt';
+import { Geschlecht } from './geschlecht';
 
 
-export interface RabattNeu { 
-    rabatt?: Rabatt;
-    personen?: Array<number>;
+export interface PersonLightDto { 
+    id?: number;
+    titel?: string;
+    vorname?: string;
+    nachname?: string;
+    name?: string;
+    geschlecht?: Geschlecht;
 }
 

@@ -14,7 +14,7 @@ import { FremdrechnungDto } from './fremdrechnungDto';
 
 
 export interface OffenePostenReferentenDto { 
-    referent?: PersonNameDto;
+    person?: PersonNameDto;
     summeOffen?: number;
     fremdrechnungen?: Array<FremdrechnungDto>;
 }
