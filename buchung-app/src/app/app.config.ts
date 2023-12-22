@@ -23,7 +23,7 @@ export const defaultConfig: LwrConfig = {
     color_hintergrund: "#fcf5ee",
     color_bundesland: "#a34d5d",
     color_termin: "rgba(255,255,255,0.65)",
-    color_termin_selected: "#16978c",
+    color_termin_selected: "#16978c69",
     color_button: "#a34d5d",
     url_dsgvo: environment.url_dsgvo,
     url_success: environment.url_success,

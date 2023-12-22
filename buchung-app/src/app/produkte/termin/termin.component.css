@@ -5,7 +5,7 @@
 
 :host.selected button {
     background-color: var(--ltw-color-termin-selected);
-    color: white;
+    /* color: white; */
 }
 
 button {
