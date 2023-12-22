@@ -38,7 +38,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 3: 19.11.2022** <br/>
 **Modul 4: 20.11.2022** <br/>
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 {{% /small  %}}
 {{% /box %}}

@@ -93,7 +93,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 **Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/). Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
 
-Hier können Sie sich verbindlich anmelden:  [Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 
 Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.

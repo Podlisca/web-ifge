@@ -36,7 +36,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 **Modul 3:** 17. April 2021 von 10:00 bis 17:00 Uhr<br/>
 **Modul 4:** 18. April 2021 von 10:00 bis 17:00 Uhr<br/>
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 {{% /small  %}}
 {{% /box %}}

@@ -105,7 +105,6 @@ weight: 1
 {{% /small  %}}
 {{% /box %}}
 
-{{< buchung-vorauswahl text="ANMELDUNG" veranstaltung="Lehrgang Supervision Start: 10.09.2023 in Pinkafeld" >}}
 
 {{< line icon="icon/test.png" >}}
 

@@ -32,7 +32,6 @@ Ein Schwerpunkt der Weiterbildung ist das **Themengebiet Prävention** und damit
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Gesundheit & Prävention. " >}}
 {{< line icon="noun_Information_478770-2.png" >}}
 
 

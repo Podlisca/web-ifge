@@ -36,7 +36,7 @@ weight: 3
 ### Methoden der LSB (140 Stunden):
 **Termine folgen**
 
-Hier geht es zur [Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 ***
 
@@ -75,7 +75,7 @@ laufend Kurse in Wien - Bitte Kurs anfragen
 ### Methoden der LSB (140 Stunden):
 **Termine folgen**
 
-Hier geht es zur [Anmeldung](https://www.ifge.at/anmeldung/)
+
 ***
 
 ### Einführung:
@@ -111,7 +111,7 @@ laufend Kurse im Bgld.- Bitte Kurs anfragen
 ### Methoden der LSB (140 Stunden):
 **Termine folgen**
 
-Hier geht es zur [Anmeldung](https://www.ifge.at/anmeldung/)
+
 ***
 
 ### Einführung:
