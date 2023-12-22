@@ -60,7 +60,7 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         name = "Online-Akademie"
         identifier = "onlineakademie"
         url = "#"
-        weight = 5
+        weight = 99
 
     [[menu.main]]
         name = "Supervision"
