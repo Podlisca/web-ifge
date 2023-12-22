@@ -147,7 +147,7 @@ Die Vermittlung der Lehrinhalte erfolgt leicht verständlich und praxisorientier
 #### Burgenland - LSB 22
 #### Start: 4. September 2023
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Bgld: LSB 22  " >}}
+
 
 
 **immer montags von 14:00 bis 20:00 Uhr**
@@ -163,7 +163,6 @@ Die Vermittlung der Lehrinhalte erfolgt leicht verständlich und praxisorientier
 #### Wien - LSB 24
 #### Start: 09. Februar 2024 
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980" >}}
 
 **immer freitags von 14:00 bis 20:00 Uhr**
 

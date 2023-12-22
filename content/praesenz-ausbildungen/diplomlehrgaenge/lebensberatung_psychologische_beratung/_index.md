@@ -125,7 +125,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 
 **Anmeldeschluss: 30.11.2023**
 
-{{< buchung-vorauswahl text="Anmeldung" veranstaltung="Anmeldung: Diplomlehrgang Lebensberatung - Wien: LSB 24  " value="2980" >}}
+
 
 
 

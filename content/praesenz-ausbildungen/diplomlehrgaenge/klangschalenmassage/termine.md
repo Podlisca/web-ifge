@@ -96,7 +96,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 
 **Prüfung: 18.11.2023**
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 [Termine herunterladen](/downloads/Diplomlehrgang_Klangschalenmassage_2023.pdf)
 

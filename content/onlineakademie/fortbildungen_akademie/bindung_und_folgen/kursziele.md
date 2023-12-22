@@ -33,7 +33,6 @@ Der Schwerpunkt liegt dabei auf erwachsenen Menschen. Durch dieses Verständnis 
 {{% /small %}}
 </div> 
 
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. " >}}
 
 {{< line icon="icon/psychosomatik.png" >}}
 

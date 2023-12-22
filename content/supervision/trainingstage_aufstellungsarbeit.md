@@ -48,7 +48,7 @@ Bei dem Trainingstagen haben Sie die Möglichkeit Ihre Aufstellungstechnik zu ve
 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-### [Anmeldung](https://www.ifge.at/anmeldung/)
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -60,7 +60,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-### [Anmeldung](https://www.ifge.at/anmeldung/)
+
 {{% /small  %}}
 {{% small  %}}
 
@@ -72,7 +72,6 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
-### [Anmeldung](https://www.ifge.at/anmeldung/)
 {{% /small  %}}
 {{% /box %}}
 

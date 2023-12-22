@@ -38,7 +38,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 
 **Modul 1: in Planung** <br/>
 
-[Anmeldung](https://www.ifge.at/anmeldung/)
+
 
 {{% /small  %}}
 {{% /box %}}

@@ -45,5 +45,3 @@ Herzlichst
 
 {{% /small %}}
 </div> 
-
-{{< buchung-vorauswahl text="Kurs vorbestellen" veranstaltung="Kurs vorbestellen: Online-Ausbildung: Bindung und ihre Folgen für Erwachsene. " >}}
