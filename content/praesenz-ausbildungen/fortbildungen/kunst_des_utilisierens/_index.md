@@ -25,9 +25,7 @@ rich_faq:
 {{< line icon="icon/beratung.png" >}}
 
 ## Ressourcen erkennen & nutzbar machen. 
-#### **Weihnachtsaktion nützen und € 100,- sparen**: 
-#### Aktionscode: weihnachtsaktion23_kunst<br/> 
-##### (Aktion gültig bis 24.12.2023)
+
 ***
 
 <div class="box video">
@@ -84,15 +82,14 @@ Vertiefe dein Verständnis durch realistische Szenarien und lerne, wie du klient
 * **Praxisorientierte Anwendungen:** 
 Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den Umgang mit individuellen und kollektiven Herausforderungen in der Beratung.
 
-***
+{{< line icon="icon/beratung.png" >}}
 
 ## Ressourcen erkennen & nutzbar machen. 
-#### **Weihnachtsaktion nützen und € 100,- sparen**: 
-#### Aktionscode: weihnachtsaktion23_kunst<br/> 
-##### (Aktion gültig bis 24.12.2023)
 
 
 {{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Jetzt loslegen" value="490" >}}
+
+{{< line icon="icon/beratung.png" >}}
 
 <br/>
 {{% box more=1 blue=1 %}}
@@ -144,9 +141,6 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 
 ## Ressourcen erkennen & nutzbar machen. 
-#### **Weihnachtsaktion nützen und € 100,- sparen**: 
-#### Aktionscode: weihnachtsaktion23_kunst<br/> 
-##### (Aktion gültig bis 24.12.2023)
 
 
 

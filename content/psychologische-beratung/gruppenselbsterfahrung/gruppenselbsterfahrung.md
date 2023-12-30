@@ -20,11 +20,7 @@ og_image: "/img/aufstellung_noe1.jpg"
 {{< line icon="icon/aufstellung.png" >}}
 
 ## geschlossene Jahresgruppe in Wien: Start am 10.01.2024
-#### **Weihnachtsaktion nützen und € 100,- sparen auf die Einmalzahlung** 
 
-#### Aktionscode: weihnachtsaktion23_segruppe
-
-##### (Aktion gültig bis 15.12.2023 / Anmeldeschluss)
 
 ***
 
@@ -68,7 +64,7 @@ Die Einmalzahlung wird sofort nach Anmeldung fällig und ist bis 15.12.2023 gül
 
 Mindestteilnehmer:innenzahl: 8 / Höchstteilnehmer:innenzahl: 12
 
-**Anmeldeschluss: 15.12.2023** 
+**Anmeldeschluss: 01.01.2024** 
 
 {{< /card-more >}}
 {{< card-more icon="icon/storno.png" title="Organisatorisches" >}}
@@ -105,14 +101,10 @@ Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtssta
 {{< /card-more >}}
 {{% /box %}}
 
-*** 
+{{< line icon="icon/beratung.png" >}}
 
 ## geschlossene Jahresgruppe in Wien: Start am 10.01.2024
-#### **Weihnachtsaktion nützen und € 100,- sparen auf die Einmalzahlung** 
 
-#### Aktionscode: weihnachtsaktion23_segruppe
-
-##### (Aktion gültig bis 15.12.2023 / Anmeldeschluss)
 
 {{< buchung vorlagen="Selbsterfahrung Jahresgruppe" text="Gruppe verbindlich buchen" value="1400" >}}
 
