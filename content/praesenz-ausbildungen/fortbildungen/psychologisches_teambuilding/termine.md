@@ -34,7 +34,13 @@ JETZT kostenlos und unverbindlich ein Informationsgespräch vereinbaren: 0676 61
 
 {{< line icon="icon/termine.png" >}}
 
-## Nächste Kurse & Lehrpläne 
+## Terminübersicht
+
+Sa. 13.07.2024 von 09:00 - 18:00 Uhr
+So. 14.07.2024 von 09:00 - 18:00 Uhr
+Sa. 17.08.2024 von 09:00 - 18:00 Uhr
+So. 18.08.2024 von 09:00 - 18:00 Uhr
+
 ****  
 
 {{% box top-align=1 %}}
