@@ -107,9 +107,11 @@ Zahlung nach Anmeldung. <br/>
 € 490,- Zahlung sofort nach Anmeldung. <br/>
 1.490 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 372,50 €.<br/>
 
-* **Praktische Tage in Präsenz**  
+* **Praktische Tage in Präsenz - optional**  
 Kosten pro Tag: € 290,- <br/>
 max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
+
+Die Tage sind freiwillig und nicht verpflichtend für den Abschluss.
 
 
 {{< /card-more >}}
