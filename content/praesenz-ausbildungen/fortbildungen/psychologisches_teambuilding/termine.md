@@ -25,22 +25,8 @@ weight: 3
 
 {{< line icon="icon/termine.png" >}}
 
-## Terminübersicht
+## Termine & Anmeldung
 
-Sa. 13.07.2024 von 09:00 - 18:00 Uhr
-So. 14.07.2024 von 09:00 - 18:00 Uhr
-Sa. 17.08.2024 von 09:00 - 18:00 Uhr
-So. 18.08.2024 von 09:00 - 18:00 Uhr
-
-****  
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
