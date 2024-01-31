@@ -27,12 +27,13 @@ weight: 2
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort. <br/>
 
-* **<optional: Praktische Tage in Präsenz**  
-Kosten pro Tag: € 290,- <br/>
-max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
-
-## **[Hier geht es zu den Terminen der praktischen Tage & zum Veranstaltungsort](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/)** <br/>
 
 <br>
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 {{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}
 </br>

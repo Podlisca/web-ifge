@@ -28,7 +28,10 @@ aliases:
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
-
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
 
 ***
 
@@ -89,8 +92,17 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 
 </div> 
 
+*** 
+
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
+
+
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -149,6 +161,12 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
+***
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -293,6 +311,13 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
+***
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
@@ -332,6 +357,10 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 ***
 
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}

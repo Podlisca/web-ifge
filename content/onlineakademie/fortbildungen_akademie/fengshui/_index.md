@@ -25,6 +25,11 @@ rich_faq:
 
 ## Weil Umfeld & Umgebung zählen: Feng-Shui für Beratung & Coaching.
 
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 <div class="box video">
 {{% small %}}
 
@@ -52,6 +57,12 @@ Du erfährst, wie **Raumelemente, wie Einrichtung, Farben und Formen**, auf Mens
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „FengShui im psychologischen Setting“** selbstverständlich **abgezogen**.
 
 <br>
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 {{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
 </br>
 
