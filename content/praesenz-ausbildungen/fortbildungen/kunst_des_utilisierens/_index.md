@@ -144,7 +144,7 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 
 
-{{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Jetzt loslegen" value="490" >}}
+{{< buchung vorlagen="Fortbildung: Die Kunst des Utilisierens" text="Jetzt loslegen" value="490" >}}
 
 
 
