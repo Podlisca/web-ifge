@@ -17,6 +17,16 @@ rich_faq:
 
 {{< line icon="icon/zitat.png" >}}
 
+{{% iconmenu %}}
+{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
+{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
+{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
+{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
+{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
+{{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
+{{% /iconmenu %}}
+
+
 {{% floatbox %}}
 
 ## Die SGF®-Methode. 
@@ -31,6 +41,11 @@ Wer bin ich? Warum bin ich, wie ich bin? Warum belasten und blockieren mich Zwei
 Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die eigene Sichtweise als auch die Familie als Ganzes werden systematisch aufgestellt und Schritt für Schritt unter Begleitung verstanden und ergründet. Unsere Geschichte und unsere Herkunft lassen sich nicht ändern, sehr wohl aber unsere Sichtweise und unser Verständnis für familiäre Prozesse und Konflikte. Und genau das ist Ziel der **SGF®-Methode nach Silvia Podlisca**. Die Familienaufstellung unterstützt Frieden mit der Vergangenheit zu schließen, traumatische Erinnerungen aufzuarbeiten, das System Familie zu verstehen und so unbelastet und zufrieden die Zukunft zu gestalten. 
 
 {{< line icon="icon/termine.png" >}}
+
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
+
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
 </br>
@@ -39,14 +54,7 @@ Ansatzpunkt sind stets die individuellen Bedürfnisse und Konflikte. Sowohl die 
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-{{% iconmenu %}}
-{{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
-{{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
-{{< card icon="noun_Euro_2244498-2.png" title="Preise" >}}
-{{< card icon="noun_Calendar_3386688-2.png" title="Termine" >}}
-{{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
-{{< card icon="noun_Venn Diagram_50174-2.png" title="Familienaufstellung" >}}
-{{% /iconmenu %}}
+
 
 
 

@@ -72,4 +72,10 @@ Bitte sorgen Sie für eine stabile Internetverbindung sowie die Sicherstellung d
 {{% /small  %}}
 {{% /box %}}
 
+***
+
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
+
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

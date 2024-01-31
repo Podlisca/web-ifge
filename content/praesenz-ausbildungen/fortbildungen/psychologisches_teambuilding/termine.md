@@ -28,6 +28,9 @@ weight: 3
 ## Termine & Anmeldung
 
 
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
 

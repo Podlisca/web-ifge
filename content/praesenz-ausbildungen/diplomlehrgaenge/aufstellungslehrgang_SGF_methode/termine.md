@@ -24,7 +24,9 @@ weight: 3
 
 **ca. alle 2 Wochen samstags von 09:00 bis 18:00 Uhr**
 
-
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
 
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
@@ -47,6 +49,11 @@ weight: 3
 {{< line icon="icon/silvia.png" >}}
 
 ## Der erste Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
+
+
+
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+
 
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}

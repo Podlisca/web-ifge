@@ -33,4 +33,10 @@ weight: 2
 
 In den Kosten inbegriffen ist auch der Erhalt digitale Skripten sowie das Abschluss-Zertifikat. 
 
+***
+
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
+
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

@@ -55,4 +55,8 @@ Die Ausbildung ist nur komplett zu buchen. Bei Abbruch oder Fernbleiben der Ausb
 
 ***
 
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
+
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

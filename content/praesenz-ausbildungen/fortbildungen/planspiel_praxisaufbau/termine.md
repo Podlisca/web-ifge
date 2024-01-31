@@ -34,6 +34,11 @@ weight: 3
 
 Die Ausbildung findet zu **100% in Präsenz** statt. 
 
+***
+
+<br>
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+</br>
 
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}
 
