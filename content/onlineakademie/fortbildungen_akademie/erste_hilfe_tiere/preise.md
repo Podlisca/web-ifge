@@ -20,6 +20,11 @@ weight: 2
 
 ***
 
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 ## Kosten (inkl. MwSt.)
 **Ausbildungskosten:€ 149,-** <br/>
 Zahlung sofort <br/>

@@ -15,6 +15,10 @@ aliases:
 
 # Philosophie: Online Schulungen & Trainings 
 
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -75,6 +79,11 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
 
 
 ## Das sagen begeisterte Kunden:
@@ -160,6 +169,12 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
+***
 
 ## Verschaffen Sie sich einen Überblick über unsere Online-Kurse im 100% Online-Format
 

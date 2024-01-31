@@ -37,8 +37,15 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 * Modul 2 wird drei Wochen nach Modul 1 frei geschalten
 * Ab Beginn der Ausbildung können **Praktische Tage in Präsenz** am IFGE besucht werden. Die Kosten der praktischen Tage sind in der Ausbildung nicht inkludiert. Trainingsschwerpunkt der **Praktischen Tage**: alle Fragen zum Lehrstoff & viel praktisches Üben. 
 
+***
 
 <br>
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>
 
@@ -87,7 +94,14 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
+***
 
 <br>
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>

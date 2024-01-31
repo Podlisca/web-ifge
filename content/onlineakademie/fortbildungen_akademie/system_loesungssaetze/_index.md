@@ -29,6 +29,13 @@ rich_faq:
 
 ## Familienstrukturen verstehen. Persönlichkeitsentwicklung fördern.
 
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -55,6 +62,14 @@ Die **Lösungssätze** wurden von **Silvia Podlisca** laufend **weiterentwickelt
 Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberatung **](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 <br>
+
+***
+
+# **CRAZY PREISE im Fasching beim IFGE:**
+*  **–25% auf alle Produkte der IFGE Online-Akademie**
+* **gültig 01. – 13. Februar 2024**
+* **Aktionscode: #FASCHING24**
+
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>
 
