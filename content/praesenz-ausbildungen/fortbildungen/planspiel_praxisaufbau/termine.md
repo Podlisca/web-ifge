@@ -34,6 +34,12 @@ weight: 3
 
 Die Ausbildung findet zu **100% in Präsenz** statt. 
 
+Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
+
+{{% /small  %}}
+{{% /box  %}}
+
 ***
 
 <br>
@@ -44,8 +50,3 @@ Die Ausbildung findet zu **100% in Präsenz** statt.
 
 
 
-Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
-
-{{% /small  %}}
-{{% /box  %}}
