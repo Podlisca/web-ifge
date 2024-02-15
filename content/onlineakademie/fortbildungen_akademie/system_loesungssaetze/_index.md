@@ -29,10 +29,7 @@ rich_faq:
 
 ## Familienstrukturen verstehen. Persönlichkeitsentwicklung fördern.
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 ***
 
@@ -65,10 +62,7 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>

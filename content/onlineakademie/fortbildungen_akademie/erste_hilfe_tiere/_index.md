@@ -26,10 +26,7 @@ rich_faq:
 {{< line icon="icon/tiere.png" >}}
 ## Rasch, richtig & ruhig reagieren: Erste Hilfe für Hund & Katze.
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <div class="box video">
 {{% small %}}
@@ -57,10 +54,7 @@ Unsere **erfahrenen Referent:innen** zeigen dir in Form von Lehrvideos, Lernmate
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
 ***
  
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}

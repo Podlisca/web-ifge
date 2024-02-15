@@ -27,10 +27,7 @@ rich_faq:
 
 ## Tiere stärken Menschen: Tiere als Resilienzkonzept in der psychologischen Beratung.
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <div class="box video">
 {{% small %}}
@@ -59,10 +56,7 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 
 {{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}

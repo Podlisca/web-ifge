@@ -27,10 +27,7 @@ rich_faq:
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
 
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 ***
 
@@ -92,10 +89,7 @@ rich_faq:
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
@@ -161,10 +155,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
@@ -316,10 +307,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
@@ -363,10 +351,7 @@ Wien, Österreich
 
 <br>
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>

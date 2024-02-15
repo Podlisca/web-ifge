@@ -24,10 +24,7 @@ rich_faq:
 
 {{< line icon="icon/psychosomatik.png" >}}
 ## Das große Ganze sehen: Grundlagen Psychosomatik.
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 ***
 
@@ -59,10 +56,7 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 {{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
 </br>
