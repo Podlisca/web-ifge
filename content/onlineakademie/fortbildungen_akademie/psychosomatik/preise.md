@@ -29,10 +29,7 @@ weight: 2
 Zahlung sofort  <br/>
 
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 
 <br>

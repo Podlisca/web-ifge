@@ -28,10 +28,7 @@ aliases:
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 ***
 
@@ -99,10 +96,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -163,10 +157,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -313,10 +304,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -357,10 +345,7 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}

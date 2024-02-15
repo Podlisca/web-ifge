@@ -35,10 +35,7 @@ Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilne
 
 ***
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 <br>
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}

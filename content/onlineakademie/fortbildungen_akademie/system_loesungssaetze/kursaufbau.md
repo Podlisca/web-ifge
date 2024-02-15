@@ -41,10 +41,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 <br>
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>
@@ -98,10 +95,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 <br>
 
-# **CRAZY PREISE im Fasching beim IFGE:**
-*  **–25% auf alle Produkte der IFGE Online-Akademie**
-* **gültig 01. – 13. Februar 2024**
-* **Aktionscode: #FASCHING24**
+
 
 {{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>

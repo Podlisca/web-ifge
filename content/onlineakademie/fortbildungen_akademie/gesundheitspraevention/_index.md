@@ -25,6 +25,8 @@ rich_faq:
 
 ## Vorausdenken & Vorausschauen: Gesundheit & Prävention.
 
+***
+
 <div class="box video">
 {{% small %}}
 
