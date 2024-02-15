@@ -42,25 +42,15 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-# Termine: Praktische Tage in Wien:
+<center>Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
 
-{{% box top-align=1 %}}
-{{% small  %}}
-### Alle Themen aus der IFGE Onlineakademie sind herzlich Willkommen 
-**03.12.2023** </br>
-von 10:00 bis 17:00 Uhr
-
-{{% /small  %}}
-{{% /box %}}
+<br>
+{{< buchung vorlagen="Praktische Tage - Klangschalenspecial; Praktische Tage - Alle Themen der IFGE Onlin-Akademie" text="Jetzt verbindlich anmelden" value="290" >}}
+</br>
 
 **Kosten:** € 290,-  </br>
 
-**Leitung:** [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-
-**Veranstaltungsort:** </br>
-IFGE Wien
-
-**Gruppengröße:** mind. 4 Teilnehmer:innen - max. 12 Teilnehmer:innen
+**Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
 
 
 
