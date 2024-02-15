@@ -25,7 +25,7 @@ rich_faq:
 
 ## Weil Umfeld & Umgebung zählen: Feng-Shui für Beratung & Coaching.
 
-
+***
 
 <div class="box video">
 {{% small %}}

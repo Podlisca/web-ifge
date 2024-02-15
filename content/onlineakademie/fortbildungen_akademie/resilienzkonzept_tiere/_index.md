@@ -27,7 +27,7 @@ rich_faq:
 
 ## Tiere stärken Menschen: Tiere als Resilienzkonzept in der psychologischen Beratung.
 
-
+***
 
 <div class="box video">
 {{% small %}}
