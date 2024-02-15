@@ -45,7 +45,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 <center>Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
 
 <br>
-{{< buchung vorlagen="Praktische Tage - Klangschalenspecial; Praktische Tage - Alle Themen der IFGE Onlin-Akademie" text="Jetzt verbindlich anmelden" value="290" >}}
+{{< buchung vorlagen="Praktische Tage - Klangschalenspecial; Praktische Tage - Alle Themen der IFGE Online-Akademie" text="Jetzt verbindlich anmelden" value="290" >}}
 </br>
 
 **Kosten:** € 290,-  </br>
