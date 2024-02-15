@@ -18,6 +18,7 @@ rich_faq:
 {{< line icon="icon/beratung.png" >}}
 # Praktische Tage: Wissen aktiv anwenden.
 
+***
 
 <div class="box video">
 {{% small %}}
