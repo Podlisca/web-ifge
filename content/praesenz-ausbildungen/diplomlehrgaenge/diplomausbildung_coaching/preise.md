@@ -40,5 +40,4 @@ weight: 2
 
 In den Kosten inbegriffen ist auch der Erhalt digitale Skripten sowie das Diplom. 
 
-
 {{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}

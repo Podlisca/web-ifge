@@ -28,8 +28,6 @@ Moderne Präsentationstools, praktische Übungssequenzen und eine kleine, persö
 {{% silvia %}}
 
 
-{{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}
-
 {{% /floatbox %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -42,3 +40,6 @@ Moderne Präsentationstools, praktische Übungssequenzen und eine kleine, persö
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
+***
+
+{{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}

@@ -73,5 +73,6 @@ Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet o
 {{% /small  %}}
 {{% /box %}}
 
+***
 
 {{< buchung lehrplaene="Diplomlehrgang Coaching" text="Kurs kaufen" value="4300" >}}
