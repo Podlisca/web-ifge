@@ -99,7 +99,7 @@ export class KaufComponent implements OnInit {
         console.log(res);
         this.loading = false;
         if (environment.production) {
-          location.href = defaultConfig.url_success;
+          // location.href = defaultConfig.url_success;
         }
       },
       error: err => {

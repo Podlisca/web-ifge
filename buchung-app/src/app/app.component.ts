@@ -3,7 +3,6 @@ import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { environment } from 'src/environments/environment';
 import { AnmeldeProdukt, AnmeldeProduktQuery } from './+core/gen';
-import { AnmeldungComponent } from './anmeldung/anmeldung.component';
 import { defaultConfig } from './app.config';
 import { KaufComponent } from './produkte/kauf/kauf.component';
 import { ProdukteComponent } from './produkte/produkte.component';
@@ -16,7 +15,6 @@ import { ProdukteComponent } from './produkte/produkte.component';
   styleUrls: ['./app.component.css'],
   imports: [
     CommonModule,
-    AnmeldungComponent,
     ProdukteComponent,
     MatButtonModule,
     KaufComponent,
