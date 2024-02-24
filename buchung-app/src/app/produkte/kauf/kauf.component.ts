@@ -96,10 +96,14 @@ export class KaufComponent implements OnInit {
     }
     this.api.kaufeProdukt(kauf).subscribe({
       next: res => {
-        console.log(res);
-        this.loading = false;
         if (environment.production) {
-          // location.href = defaultConfig.url_success;
+          setTimeout(() => {
+            this.loading = false;
+            location.href = defaultConfig.url_success;
+          }, 700)
+        }
+        else {
+          this.loading = false;
         }
       },
       error: err => {
