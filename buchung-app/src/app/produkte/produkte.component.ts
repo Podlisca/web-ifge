@@ -1,13 +1,13 @@
 import { CommonModule } from '@angular/common';
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output, QueryList, ViewChildren } from '@angular/core';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatIconModule } from '@angular/material/icon';
+import { MatListModule, MatSelectionList } from '@angular/material/list';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { Observable, map } from 'rxjs';
 import { AnmeldeProdukt, AnmeldeProduktQuery, AnmeldungService } from '../+core/gen';
 import { defaultConfig } from '../app.config';
 import { KaufComponent } from './kauf/kauf.component';
-import { TerminComponent } from './termin/termin.component';
 
 interface View {
   ort: string,
@@ -25,7 +25,7 @@ export interface ProduktSelection {
   standalone: true,
   templateUrl: './produkte.component.html',
   styleUrls: ['./produkte.component.css'],
-  imports: [CommonModule, MatExpansionModule, KaufComponent, MatIconModule, TerminComponent, MatSlideToggleModule]
+  imports: [CommonModule, MatExpansionModule, KaufComponent, MatIconModule, MatSlideToggleModule, MatListModule]
 })
 export class ProdukteComponent implements OnInit {
 
@@ -35,6 +35,7 @@ export class ProdukteComponent implements OnInit {
   @Input({ required: true }) query!: AnmeldeProduktQuery
 
   @Output() produktSelected = new EventEmitter<AnmeldeProdukt>();
+  @ViewChildren(MatSelectionList) lists?: QueryList<MatSelectionList>
 
   vm$?: Observable<View[][]>
   selection?: ProduktSelection;
@@ -89,10 +90,13 @@ export class ProdukteComponent implements OnInit {
     );
   }
 
-  onSelect(event: ProduktSelection) {
-    // console.log("produkte select", event)
-    this.selection = event;
-    this.produktSelected.emit(event.produkt);
+  onSelect(selected: boolean, event: ProduktSelection, listId: string) {
+    if (selected) {
+      // clear other selections
+      this.lists?.filter(l => l._element.nativeElement.id != listId).map(l => l.deselectAll());
+      this.selection = event;
+      this.produktSelected.emit(event.produkt);
+    }
   }
 
   private groupBy(xs: any, key: string): { [key: string]: AnmeldeProdukt[] } {

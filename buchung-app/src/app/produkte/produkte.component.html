@@ -5,14 +5,36 @@
                 {{vmOrt[0].ort}}
             </div>
             <div class="content" [style.background-color]="config.color_termin">
-                <div class="group" *ngFor="let view of vmOrt">
+                <div class="group" *ngFor="let view of vmOrt; let viewIndex = index">
                     <div class="title"> {{view.title}}</div>
                     <div>
-                        <ng-container *ngFor="let p of view.produkte; let idx = index">
-                            <app-termin [produkt]="p" (onSelect)="onSelect($event)" [idx]="idx"
-                                *ngIf="idx < maxProducts || showAll.checked"
-                                [class.selected]="idx === selection?.index && vmOrt[0].ort == selection?.produkt?.ort && selection?.produkt?.id == p.id" />
-                        </ng-container>
+                        <mat-selection-list multiple="false" [id]="vmOrt[0].ort + viewIndex">
+                            <mat-list-option *ngFor="let produkt of view.produkte; let idx = index"
+                                (selectedChange)="onSelect($event, {index: idx, produkt}, vmOrt[0].ort + viewIndex)">
+                                <ng-container *ngIf="produkt.seminartage?.length! > 1 ?? false">
+                                    <span matListItemTitle class="bold">
+                                        Startdatum: {{produkt.startdatum | date: 'longDate'}}</span>
+                                </ng-container>
+                                <ng-container *ngIf="produkt.vorlage">
+                                    <span matListItemTitle *ngFor="let tag of produkt?.seminartage">
+                                        {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{
+                                        tag.startzeit | date: 'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
+                                    </span>
+                                </ng-container>
+                                <ng-container *ngIf="!produkt.isOnlineakademie; else online">
+                                    <span matListItemLine>
+                                        Leitung: {{produkt.leitung }}
+                                    </span>
+                                    <span matListItemLine class="status" [ngSwitch]="produkt.freiePlaetze">
+                                        <span *ngSwitchCase="0">ausgebucht</span>
+                                        <span *ngSwitchCase="1">nur noch 1 freier Platz</span>
+                                        <span *ngSwitchCase="2">nur noch 2 freie Plätze</span>
+                                        <span *ngSwitchCase="3">nur noch 3 freie Plätze</span>
+                                        <span *ngSwitchDefault>noch freie Plätze</span>
+                                    </span>
+                                </ng-container>
+                            </mat-list-option>
+                        </mat-selection-list>
                     </div>
                     <div [class.hide]="view.produkte.length < maxProducts" class="toggle">
                         <mat-slide-toggle #showAll>Zeige alle</mat-slide-toggle>
@@ -27,3 +49,10 @@
         </div>
     </ng-template>
 </ng-container>
+
+<ng-template #online>
+    <span matListItemTitle>
+        Klicke hier, um flexibel online zu lernen<br>
+        und den Onlinekurs zu buchen
+    </span>
+</ng-template>
