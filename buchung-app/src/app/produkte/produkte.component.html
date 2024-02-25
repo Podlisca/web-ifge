@@ -12,26 +12,30 @@
                             <mat-list-option *ngFor="let produkt of view.produkte; let idx = index"
                                 (selectedChange)="onSelect($event, {index: idx, produkt}, vmOrt[0].ort + viewIndex)">
                                 <ng-container *ngIf="produkt.seminartage?.length! > 1 ?? false">
-                                    <span matListItemTitle class="bold">
+                                    <span matListItemTitle>
                                         Startdatum: {{produkt.startdatum | date: 'longDate'}}</span>
                                 </ng-container>
                                 <ng-container *ngIf="produkt.vorlage">
-                                    <span matListItemTitle *ngFor="let tag of produkt?.seminartage">
+                                    <div *ngFor="let tag of produkt?.seminartage?.slice(0,1);" matListItemTitle>
                                         {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{
                                         tag.startzeit | date: 'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
-                                    </span>
+                                    </div>
+                                    <div *ngFor="let tag of produkt?.seminartage?.slice(1)" matListItemLine>
+                                        {{ tag.startzeit | date:'EEE' }} {{ tag.startzeit | date:'mediumDate' }} von {{
+                                        tag.startzeit | date: 'HH:mm'}} - {{ tag.endzeit | date: 'HH:mm'}} Uhr
+                                    </div>
                                 </ng-container>
                                 <ng-container *ngIf="!produkt.isOnlineakademie; else online">
                                     <span matListItemLine>
                                         Leitung: {{produkt.leitung }}
                                     </span>
-                                    <span matListItemLine class="status" [ngSwitch]="produkt.freiePlaetze">
+                                    <div matListItemLine class="status" [ngSwitch]="produkt.freiePlaetze">
                                         <span *ngSwitchCase="0">ausgebucht</span>
                                         <span *ngSwitchCase="1">nur noch 1 freier Platz</span>
                                         <span *ngSwitchCase="2">nur noch 2 freie Plätze</span>
                                         <span *ngSwitchCase="3">nur noch 3 freie Plätze</span>
                                         <span *ngSwitchDefault>noch freie Plätze</span>
-                                    </span>
+                                    </div>
                                 </ng-container>
                             </mat-list-option>
                         </mat-selection-list>

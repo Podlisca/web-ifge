@@ -75,3 +75,21 @@
         grid-auto-flow: row;
     }
 }
+
+mat-selection-list {
+    font-weight: 300;
+}
+
+.mat-mdc-list-item-line.mdc-list-item__secondary-text {
+    color: var(--mdc-list-list-item-label-text-color);
+}
+
+::ng-deep .mdc-list-item__content .mdc-list-item__secondary-text::before {
+    height: 0;
+    display: inline;
+}
+
+mat-list-option:nth-child(n) {
+    height: auto;
+    padding: 0.5rem;
+}
