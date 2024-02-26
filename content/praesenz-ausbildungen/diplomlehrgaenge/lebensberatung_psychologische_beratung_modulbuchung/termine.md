@@ -144,5 +144,3 @@ laufend Kurse in Noe. - Bitte Kurs anfragen
 {{% /box %}}
 
 
-{{% box blue=1 %}}
-{{% small  %}}

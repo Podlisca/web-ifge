@@ -137,6 +137,5 @@ rich_faq:
 * Marketing für Lebens- und SozialberaterInnen
 
 {{% /small  %}}
-{{% small  %}}
 
-
+{{% /box %}}

@@ -121,7 +121,8 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 
 {{< buchung lehrplaene="Diplomausbildung: Klangschalenmassage" text="Kurs kaufen" value="4300" >}}
 
-
+{{% /small  %}}
+{{% /box %}}
 
 
 

@@ -24,8 +24,9 @@ weight: 3
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
+{{% /small  %}}
 {{% box %}}
-{{% small  %}}
+
 ## Nächste Kurse & Lehrpläne 
 
 #### Start: Termin in Planung
@@ -62,6 +63,7 @@ Die Veranstaltung wird über Webex Meeting abgehalten.
 #### Niederösterreich
 {{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
+{{% /small  %}}
 
-
+{{% /box  %}}
 
