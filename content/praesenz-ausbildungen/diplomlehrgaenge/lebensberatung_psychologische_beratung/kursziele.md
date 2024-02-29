@@ -3,7 +3,7 @@ title: "Kursziele"
 menu: 
     main:
         parent: lsb
-draft: false
+draft: true
 weight: 1
 og_image:  "/img/unterricht_2022.jpg"
 rich_faq:

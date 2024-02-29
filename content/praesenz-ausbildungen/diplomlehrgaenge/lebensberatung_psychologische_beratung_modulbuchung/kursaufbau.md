@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: lsbmodulkursaufbau
-draft: false
+draft: true
 weight: 1
 rich_faq:
     -   frage: "Nach welchen Methoden arbeitet ein psychologischer Berater oder psychosoziale Beraterin?"

@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: lsbmodultermine
-draft: false
+draft: true
 weight: 3
 ---
 

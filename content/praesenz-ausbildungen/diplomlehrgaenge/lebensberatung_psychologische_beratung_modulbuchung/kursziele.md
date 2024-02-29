@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: lsbmodulkursziele
-draft: false
+draft: true
 weight: 1
 og_image:  "/img/modulbuchung1.jpg"
 

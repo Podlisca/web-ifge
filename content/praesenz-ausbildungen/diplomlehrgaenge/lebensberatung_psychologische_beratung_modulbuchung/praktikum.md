@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: lsbmodulpraktikum
-draft: false
+draft: true
 weight: 5
 ---
 

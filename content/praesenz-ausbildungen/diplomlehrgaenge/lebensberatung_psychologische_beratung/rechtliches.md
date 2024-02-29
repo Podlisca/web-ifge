@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsb
         identifier: lsbrechtliches
-draft: false
+draft: true
 weight: 4
 ---
 

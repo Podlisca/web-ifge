@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsbmodul
         identifier: lsbmodulpreise
-draft: false
+draft: true
 weight: 2
 ---
 

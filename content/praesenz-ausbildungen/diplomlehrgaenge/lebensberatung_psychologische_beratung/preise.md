@@ -4,7 +4,7 @@ menu:
     main:
         parent: lsb
         identifier: lsbpreise
-draft: false
+draft: true
 weight: 2
 ---
 
