@@ -19,7 +19,7 @@ aliases:
 ---
 
 # Ausbildungsphilosophie am IFGE 
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

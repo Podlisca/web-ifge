@@ -18,7 +18,7 @@ rich_logo: true
 ---
 
 # Über das IFGE<br/>
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

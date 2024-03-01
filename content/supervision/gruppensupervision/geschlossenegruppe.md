@@ -14,7 +14,7 @@ og_image: "/img/supervisionsgruppe_bgld.jpg"
 
 
 # Geschlossene Supervisionsgruppen
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

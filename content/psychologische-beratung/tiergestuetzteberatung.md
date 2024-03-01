@@ -16,6 +16,16 @@ og_image: "/img/upgrade_tiere.jpg"
 
 {{< slogan >}}
 
+
+{{< line icon="icon/tiere.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
 {{< line icon="icon/tiere.png" >}}
 
 {{% floatbox %}}
@@ -92,26 +102,14 @@ Die Hunde unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, 
 
 {{< line icon="icon/tiere.png" >}}
 
-{{% box blue=1 %}}
-{{% small  %}}
-## Hier finden Sie ausführliche Informationen über:
-{{% /small  %}}
-{{% /box %}}
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-{{% box blue=1 top-align=1 %}}
-{{% small  %}}
-{{< image src="/img/pluto.jpg" >}}
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-#### Pluto
-{{% /small  %}}
-
-{{% small  %}}
-{{< image src="/img/sally.jpg" >}}
-
-#### Sally
-
-{{% /small  %}}
-{{% /box %}}
+{{< line icon="icon/tiere.png" >}}
 
 
 
@@ -183,24 +181,3 @@ Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Ti
 {{% /box %}}
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
-#### Lernen am IFGE 
-
-Mit der eigens fürs **IFGE entwickelte Software**, werden sowohl das Lernen als auch das Sammeln der Stunden für die fachliche Assistenz am IFGE noch flexibler, noch einfacher, noch moderner und vor allem noch viel, viel angenehmer! Hier ein kleiner Einblick.
-
-<div class="box video">
-{{% small %}}
-
-### IFGE Software - Lehrgang und Praktikum leicht im Überblick
-{{< youtube hwxiCb0R620 >}}
-{{% /small %}}
-{{% small %}}
-
-### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube 17RcDuirOWs >}}
-{{% /small %}}
-{{% small %}}
-
-### Hunde & Katzen in der psychologischen Beratung
-{{< youtube cPN03jAzqJQ >}}
-{{% /small %}}
-</div> 

@@ -14,7 +14,17 @@ og_image: "/img/wien_silvia.jpg"
 # Sexualberatung
 {{< slogan >}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
+{{< line icon="icon/sexualberatung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/sexualberatung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -49,6 +59,19 @@ Mein **besonderes Augenmerk** in der Sexualberatung richte ich dabei seit Jahren
 
 Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. **Sexualität im Alter** findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
 
+{{< line icon="icon/sexualberatung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/sexualberatung.png" >}}
+
+
 Gerade wenn es um **spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geh**t, fragen sich viele Menschen, ob Ihr Denken und Handeln **„noch normal“ ist**. Am [IFGE](https://ifge.at/about/ueber_mich/) vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für **belebende sexuelle Höhenflüge** sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
 
 {{< image src="/img/sex_wuensche_2023.jpg" float="left" title="Bildbeschreibung" >}} 
@@ -80,9 +103,18 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 * Verhütung
 * Sexualität und Alter
 
+{{< line icon="icon/sexualberatung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-{{< line icon="/icon/beratung.png" >}}
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/sexualberatung.png" >}}
+
 # Spezialisierungen
 
 {{% box top-align=1 %}}
@@ -128,3 +160,5 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 * [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/sexualberatung.png" >}}

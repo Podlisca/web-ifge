@@ -25,9 +25,18 @@ rich_faq:
 ---
 
 # Paarberatung am IFGE
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **Aktionscode: #kennenlernen24**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
@@ -66,10 +75,31 @@ Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **onli
 
 Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
 
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **Aktionscode: #kennenlernen24**
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
 
 ### PAARBERATUNG  MIT SILVIA PODLISCA UND MARTIN BRANSKY
 
 Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologischen Berater Martin Bransky in Anspruch genommen werden. Die Möglichkeit, Ihren Beratungsprozess von einem männlichen Berater und einer weiblichen BeraterIn gleichzeitig begleiten zu lassen, bietet für Sie zusätzliche Vorteile, die besonders in festgefahren scheinenden Problembereichen für eine rasche Entspannung Ihrer Situation sorgen. Durch die volle Aufmerksamkeit zweier gegengeschlechtlicher BeraterInnen ist sowohl die männliche als auch die weibliche Sicht in Ihrem Beratungsprozess vertreten, wodurch bestehende und destruktive Verhaltensmuster besonders rasch sichtbar und damit bearbeitbar gemacht werden können. Sie erhalten Feedback von zwei professionellen BeraterInnen und erleben dadurch, dass sich jeder Teil des Paares in seiner bzw. ihrer Rolle wahrgenommen fühlt. Denn häufig fällt es Menschen leichter, sich in der Anwesenheit eines bzw. einer gleichgeschlechtlichen BeraterIn zu öffnen, wodurch Ihr Beratungsprozess von Ihnen beiden besonders konstruktiv genutzt werden kann.
+
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **Aktionscode: #kennenlernen24**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
@@ -154,3 +184,14 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 * [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/paar_tuerkis.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **Aktionscode: #kennenlernen24**
+
+{{< line icon="icon/paar_tuerkis.png" >}}

@@ -14,7 +14,7 @@ aliases:
 
 
 # Unsere Ausbildungen im Überblick
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

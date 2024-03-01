@@ -15,7 +15,7 @@ og_image: "/img/unterricht _2022_system.jpg"
 
 
 # Offene Supervisionstage 
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 {{< line icon="icon/supervision_tuerkis.png" >}}

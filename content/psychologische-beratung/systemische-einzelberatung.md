@@ -13,9 +13,19 @@ og_image: "/img/system_einzel.jpg"
 ---
 
 # Einzelsitzung – Systemische Beratung
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
+
+{{< line icon="icon/familienaufstellung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
@@ -34,20 +44,32 @@ Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **onli
 <br/>
 {{< silvia >}}
 
+{{< line icon="icon/familienaufstellung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/familienaufstellung.png" >}}
+
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 1
+#### Familienaufstellung Tag 1
 {{< youtube NY2Foh8-Fbo >}}
 Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und wie sich die Methode weiterentwickelt hat. Lösungen im Einklang mit der Familiensystem und den persönlichen Wünschen.
 {{% /small  %}}
 
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 2
+#### Familienaufstellung Tag  2
 {{< youtube 9sTJHky6cUA >}}
 Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
 {{% /small  %}}
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 3
+#### Familienaufstellung Tag  3
 {{< youtube Ut0nAJ_Qh-Y >}}
 
 Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
@@ -73,6 +95,16 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
 {{< /iconmenu >}}
 
+
+{{< line icon="icon/familienaufstellung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
@@ -104,6 +136,16 @@ Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, 
 
 Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient:innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können.
 
+
+{{< line icon="icon/familienaufstellung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/familienaufstellung.png" >}}
 

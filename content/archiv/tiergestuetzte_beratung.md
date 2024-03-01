@@ -10,7 +10,7 @@ description: "Hier vereinen sich meine beiden Leidenschaften &amp; Ausbildungen 
 ---
 
 # Philosophie
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

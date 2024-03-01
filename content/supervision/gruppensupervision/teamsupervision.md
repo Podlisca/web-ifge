@@ -14,7 +14,7 @@ og_image: "/img/teambuilding.jpg"
 ---
 
 # Teambuilding & Supervision
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

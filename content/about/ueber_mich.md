@@ -14,7 +14,7 @@ aliases:
 ---
 
 # Silvia Podlisca - Institutsleiterin
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

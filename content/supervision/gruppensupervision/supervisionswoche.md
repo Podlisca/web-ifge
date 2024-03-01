@@ -13,7 +13,7 @@ og_image: "/img/supervisionswoche.jpg"
 ---
 
 # Schulungs- und Supervisionswoche
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 {{< line icon="/icon/aufstellung.png" >}}

@@ -52,6 +52,16 @@ rich_faq:
 {{< slogan >}}
 {{< line icon="icon/aufstellung.png" >}}
 
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/aufstellung.png" >}}
+
 {{% floatbox %}}
 
 ## Weil uns Familie prägt: Familienaufstellung mit Silvia Podlisca.
@@ -139,18 +149,18 @@ Falls Sie gerne an einem Aufstellungsseminar teilnehmen wollen, entnehmen Sie di
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 1
+#### Familienaufstellung Tag 1
 {{< youtube NY2Foh8-Fbo >}}
 Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und wie sich die Methode weiterentwickelt hat. Lösungen im Einklang mit der Familiensystem und den persönlichen Wünschen.
 {{% /small  %}}
 
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 2
+#### Familienaufstellung Tag  2
 {{< youtube 9sTJHky6cUA >}}
 Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
 {{% /small  %}}
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 3
+#### Familienaufstellung Tag  3
 {{< youtube Ut0nAJ_Qh-Y >}}
 
 Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.

@@ -14,6 +14,15 @@ og_image: "/img/krise_2023_1.jpg"
 
 {{< line icon="icon/krise.png" >}}
 
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/krise.png" >}}
+
 {{% box blue=1 %}}
 {{% small  %}}
 ## Hier finden Sie ausführliche Informationen über:
@@ -55,7 +64,18 @@ Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, da
 
 Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wird klar, welche Schritte notwendig sind, um die Krise komplett zu bewältigen. Es ist, als würden die Lebensgeister völlig neu erwachen und Sie die Kraft finden, von der Ohnmacht in die Macht zu kommen, um etwas zu MACHEN.Das Erlebnis einer Krise macht uns bewusst, dass etwas getan werden muss. Wir sollten ein solches Tief als natürliche Warnreaktion betrachten. 
 
-Sehen Sie Ihre Krise nicht als persönliches Versagen, sondern als Chance für eine Neugestaltung!
+{{< line icon="icon/krise.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/krise.png" >}}
+
+### Sehen Sie Ihre Krise nicht als persönliches Versagen, sondern als Chance für eine Neugestaltung!
 
 {{< image src="/img/krise_2023_tiere.jpg" float="left" title="Bildbeschreibung" >}}
 

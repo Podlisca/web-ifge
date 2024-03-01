@@ -14,9 +14,19 @@ og_image: "/img/einzel_2023.jpg"
 ---
 
 # Lebensberatung und Sozialberatung
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
+
+{{< line icon="icon/beratung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/beratung.png" >}}
 
@@ -60,6 +70,16 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 {{< line icon="icon/beratung.png" >}}
 
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/beratung.png" >}}
+
 {{% floatbox %}}
 
 Am [IFGE](https://ifge.at/about/institut/) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
@@ -92,20 +112,32 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 <br/>
 {{< silvia >}}
 
+{{< line icon="icon/beratung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/beratung.png" >}}
+
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 1
+#### Familienaufstellung Tag 1
 {{< youtube NY2Foh8-Fbo >}}
 Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und wie sich die Methode weiterentwickelt hat. Lösungen im Einklang mit der Familiensystem und den persönlichen Wünschen.
 {{% /small  %}}
 
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 2
+#### Familienaufstellung Tag 2
 {{< youtube 9sTJHky6cUA >}}
 Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
 {{% /small  %}}
 {{% small  %}}
-#### Familienaufstellung in St. Pölten Tag 3
+#### Familienaufstellung 3
 {{< youtube Ut0nAJ_Qh-Y >}}
 
 Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
@@ -161,3 +193,17 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 * [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
+
+
+{{< line icon="icon/beratung.png" >}}
+
+# **FRÜHLINGSAKTION im März am IFGE:** 
+## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
+
+
+*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
+* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **Terminvereinbarung unter: + 43 676 610 89 36**
+
+{{< line icon="icon/beratung.png" >}}
+

@@ -4,7 +4,7 @@ menu: footer
 draft: false
 weight: 4
 ---
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 {{< line icon="icon/impressum.png" >}}

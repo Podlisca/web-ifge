@@ -15,7 +15,7 @@ aliases:
 ---
 
 # Klangschalenmassage mit Silvia Podlisca
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 

@@ -11,7 +11,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 
 # Unsere Ausbildungen im Überblick
-# Wien - Burgenland - Niederösterreich
+# Wien & Burgenland 
 
 {{< slogan >}}
 
