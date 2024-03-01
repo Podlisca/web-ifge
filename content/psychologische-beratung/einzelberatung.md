@@ -25,7 +25,7 @@ og_image: "/img/einzel_2023.jpg"
 
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/beratung.png" >}}
@@ -75,7 +75,7 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/beratung.png" >}}
@@ -119,7 +119,7 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/beratung.png" >}}
@@ -202,7 +202,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/beratung.png" >}}

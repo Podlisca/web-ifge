@@ -23,7 +23,7 @@ og_image: "/img/upgrade_tiere.jpg"
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/tiere.png" >}}
@@ -106,7 +106,7 @@ Die Hunde unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, 
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/tiere.png" >}}

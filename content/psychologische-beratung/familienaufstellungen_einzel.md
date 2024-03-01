@@ -57,7 +57,7 @@ rich_faq:
 
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/aufstellung.png" >}}

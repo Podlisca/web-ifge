@@ -18,7 +18,7 @@ og_image: "/img/krise_2023_1.jpg"
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/krise.png" >}}
@@ -70,7 +70,7 @@ Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wir
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
 * **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/krise.png" >}}

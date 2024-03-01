@@ -35,7 +35,7 @@ rich_faq:
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
 * **Aktionscode: #kennenlernen24**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
@@ -81,7 +81,7 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
 * **Aktionscode: #kennenlernen24**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
@@ -98,7 +98,7 @@ Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologi
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
 * **Aktionscode: #kennenlernen24**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
@@ -191,7 +191,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 ## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
-* **gültig 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
+* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
 * **Aktionscode: #kennenlernen24**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
