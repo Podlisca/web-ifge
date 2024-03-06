@@ -36,7 +36,7 @@ rich_faq:
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
 * **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Aktionscode: #kennenlernen24**
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
@@ -82,7 +82,7 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
 * **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Aktionscode: #kennenlernen24**
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
@@ -99,7 +99,7 @@ Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologi
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
 * **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Aktionscode: #kennenlernen24**
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
@@ -192,6 +192,6 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 *  **3 Paarberatungseinheiten a 90 Minuten um € 280,-** (statt € 315,-)
 * **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Aktionscode: #kennenlernen24**
+* **Terminvereinbarung unter: + 43 676 610 89 36**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
