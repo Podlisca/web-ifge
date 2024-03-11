@@ -36,6 +36,14 @@ rich_faq:
 
 {{< slogan >}}
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 ***
 
 
@@ -115,6 +123,14 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 ***
 
 
@@ -179,9 +195,17 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-{{< line icon="icon/klangschale.png">}}
 
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
+***
 
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
@@ -427,7 +451,13 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 <br>
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 
 <br>

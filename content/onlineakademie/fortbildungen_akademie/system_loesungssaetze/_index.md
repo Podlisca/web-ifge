@@ -29,7 +29,13 @@ rich_faq:
 
 ## Familienstrukturen verstehen. Persönlichkeitsentwicklung fördern.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 
@@ -59,6 +65,14 @@ Die **Lösungssätze** wurden von **Silvia Podlisca** laufend **weiterentwickelt
 Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und denken interdisziplinär. Dieser Kurs beinhaltet **das Beste** aus den Online-Ausbildungen [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/), [**Klangschalen-Practitioner**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) und [**Besonderheit Sexualberatung **](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) sowie Videos anderer IFGE Online-Ausbildungen. So **profitierst** du im Rahmen der Ausbildung auch von **zusätzlichen Tools und neuen Impulsen**.
 
 <br>
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 

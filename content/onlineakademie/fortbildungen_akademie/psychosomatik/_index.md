@@ -25,6 +25,13 @@ rich_faq:
 {{< line icon="icon/psychosomatik.png" >}}
 ## Das große Ganze sehen: Grundlagen Psychosomatik.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 
@@ -53,6 +60,15 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 
 
 <br>
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 
 ***
 

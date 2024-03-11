@@ -28,7 +28,13 @@ aliases:
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 
@@ -95,7 +101,13 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 
 <br>
@@ -154,6 +166,14 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 {{< /card-more >}}
 {{% /box %}}
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 
@@ -302,6 +322,15 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 ***
 
 
@@ -343,6 +372,16 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 
 **6. Gerichtstand:**
 Wien, Österreich
+
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 ***
 
 

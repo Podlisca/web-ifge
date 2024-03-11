@@ -45,6 +45,13 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 
@@ -129,6 +136,14 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 *** 
 
 
@@ -196,7 +211,13 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 ***
 <br>
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 </br>
@@ -241,7 +262,11 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
 
+**Aktionscode: silvia´s_50iger**
 
 
 *** 
@@ -498,7 +523,11 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 Wien, Österreich
 ***
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
 
+**Aktionscode: silvia´s_50iger**
 
 <br>
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}

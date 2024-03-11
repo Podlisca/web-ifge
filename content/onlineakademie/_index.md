@@ -15,7 +15,13 @@ aliases:
 
 # Philosophie: Online Schulungen & Trainings 
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -74,6 +80,14 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 {{% /floatbox %}}
 
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -164,6 +178,12 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 ***
 

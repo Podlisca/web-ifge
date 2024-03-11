@@ -30,6 +30,13 @@ Zahlung sofort  <br/>
 
 ## [KURS KAUFEN](https://www.ifge.at/anmeldung.php)
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
 
 <br>
 {{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}

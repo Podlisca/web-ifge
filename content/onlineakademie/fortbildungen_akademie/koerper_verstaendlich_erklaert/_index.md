@@ -27,6 +27,14 @@ rich_faq:
 
 ## Komplexes System verständlich erklärt: Der menschliche Körper im Überblick.
 
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
+# **Silvia wird 50 und das IFGE feiert mit** 
+*  **– 50% auf alle Onlineakademie Ausbildungen**
+* **gültig nur am 20. März 2024**
+
+**Aktionscode: silvia´s_50iger**
+
 <div class="box video">
 {{% small %}}
 
