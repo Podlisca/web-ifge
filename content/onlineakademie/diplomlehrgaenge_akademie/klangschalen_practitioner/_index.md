@@ -46,6 +46,8 @@ rich_faq:
 
 ***
 
+***
+
 
 
 
@@ -133,6 +135,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 ***
 
+***
+
 
 
 
@@ -204,6 +208,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 ***
 
@@ -458,6 +464,8 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 
 <br>

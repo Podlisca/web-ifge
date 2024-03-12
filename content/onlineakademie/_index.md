@@ -23,6 +23,8 @@ aliases:
 
 **Aktionscode: silvia´s_50iger**
 
+***
+
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 <div class="box video">
@@ -88,6 +90,8 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -184,6 +188,8 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 ***
 

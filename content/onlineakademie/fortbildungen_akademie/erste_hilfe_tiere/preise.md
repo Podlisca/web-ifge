@@ -28,6 +28,8 @@ weight: 2
 
 **Aktionscode: silvia´s_50iger**
 
+***
+
 
 ## Kosten (inkl. MwSt.)
 **Ausbildungskosten:€ 149,-** <br/>

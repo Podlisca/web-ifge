@@ -35,6 +35,8 @@ rich_faq:
 
 ***
 
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -68,6 +70,8 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 
 ***

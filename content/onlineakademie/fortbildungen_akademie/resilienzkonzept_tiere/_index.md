@@ -37,6 +37,8 @@ rich_faq:
 
 ***
 
+***
+
 <div class="box video">
 {{% small %}}
 

@@ -55,6 +55,8 @@ rich_faq:
 
 ***
 
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -144,6 +146,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 **Aktionscode: silvia´s_50iger**
 
+***
+
 *** 
 
 
@@ -219,6 +223,8 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 **Aktionscode: silvia´s_50iger**
 
+***
+
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 </br>
 
@@ -267,6 +273,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 
 *** 
@@ -528,6 +536,8 @@ Wien, Österreich
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 <br>
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}

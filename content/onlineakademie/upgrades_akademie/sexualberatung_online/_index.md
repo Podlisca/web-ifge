@@ -34,6 +34,8 @@ rich_faq:
 
 **Aktionscode: silvia´s_50iger**
 
+***
+
 
 ***
 
@@ -104,6 +106,8 @@ rich_faq:
 
 ***
 
+***
+
 
 
 ## Du kannst sofort starten
@@ -116,6 +120,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 <br>
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
@@ -184,6 +190,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 
 ***
@@ -345,6 +353,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
+***
+
 
 
 <br>
@@ -396,6 +406,8 @@ Wien, Österreich
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>

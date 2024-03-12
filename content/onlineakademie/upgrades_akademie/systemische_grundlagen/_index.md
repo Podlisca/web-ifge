@@ -38,6 +38,8 @@ aliases:
 
 ***
 
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -109,6 +111,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 **Aktionscode: silvia´s_50iger**
 
+***
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -174,6 +178,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 ***
 
@@ -333,6 +339,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
+***
+
 
 
 <br>
@@ -381,6 +389,8 @@ Wien, Österreich
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 ***
 

@@ -39,6 +39,8 @@ rich_faq:
 
 ***
 
+***
+
 <div class="box video">
 {{% small %}}
 
@@ -73,6 +75,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 * **gültig nur am 20. März 2024**
 
 **Aktionscode: silvia´s_50iger**
+
+***
 
 ***
 
