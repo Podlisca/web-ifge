@@ -40,7 +40,7 @@ rich_faq:
 
 # **Silvia wird 50 und das IFGE feiert mit** 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024**
+* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
 **Aktionscode: silvia´s_50iger**
 
@@ -129,7 +129,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 # **Silvia wird 50 und das IFGE feiert mit** 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024**
+* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
 **Aktionscode: silvia´s_50iger**
 
@@ -205,7 +205,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 # **Silvia wird 50 und das IFGE feiert mit** 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024**
+* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
 **Aktionscode: silvia´s_50iger**
 
@@ -461,7 +461,7 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 # **Silvia wird 50 und das IFGE feiert mit** 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024**
+* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
 **Aktionscode: silvia´s_50iger**
 
