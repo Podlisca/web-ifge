@@ -29,5 +29,6 @@ export interface KaufDto {
     zahlungen?: Array<Zahlung>;
     verrechnung?: any | null;
     storniertAm?: Date;
+    externeQuelle?: boolean;
 }
 

@@ -32,7 +32,12 @@
   <mat-form-field>
     <mat-label>Hast du einen Aktionscode?</mat-label>
     <input matInput placeholder="Bitte hier eingeben" formControlName="aktionscode">
+    <mat-icon matSuffix color="primary" *ngIf="codeValidation$ | async as v">check_circle</mat-icon>
   </mat-form-field>
+
+  <div *ngIf="codeValidation$ | async as v">Gutscheincode gültig mit Wert {{v | currency}}. <br>
+    Die Berücksichtigung erfolgt bei der Rechnungslegung. In der Bestätigungsmail kann der Gutschein noch nicht
+    ausgewiesen werden. Vorbehaltlich Prüfung.</div>
 
   <h4>Persönliche Daten</h4>
   <div>
@@ -90,7 +95,19 @@
     <a href="https://ifge.at/widerrufsbelehrung/" target="_blank" rel="noopener">Widerrufsbelehrung</a> gelesen u.
     akzeptiert
   </mat-checkbox>
+  <mat-checkbox formControlName="newsletter">
+    Newsletter Anmeldung
+  </mat-checkbox>
 </div>
+
+<ng-container *ngIf="produkt.stornobedingungen?.length">
+  <br>
+  <h4>Stornobedingungen</h4>
+  <p *ngFor="let st of produkt.stornobedingungen">
+    Bei Absagen bis {{st.tage}} Tage vor Kursbeginn fallen {{st.quote}} % der Kursgebühr als Stornokosten an.
+  </p>
+  Bei Absagen vor den genannten Zeiträumen wird keine Stornogebühr verrechnet.
+</ng-container>
 
 <div class="flex-cont">
   <button mat-raised-button (click)="goBack()" class="large">

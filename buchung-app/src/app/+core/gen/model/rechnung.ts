@@ -10,7 +10,7 @@
  * Do not edit the class manually.
  */
 import { Rechnungskondition } from './rechnungskondition';
-import { Zahlungsart } from './zahlungsart';
+import { Rechnungszahlung } from './rechnungszahlung';
 import { RechnungStatus } from './rechnungStatus';
 import { Rechnungsposition } from './rechnungsposition';
 import { Person } from './person';
@@ -27,9 +27,8 @@ export interface Rechnung {
     debitor?: Person;
     kondition?: Rechnungskondition;
     text?: string;
-    zahlungsdatum?: Date;
-    zahlungsart?: Zahlungsart;
     positionen?: Array<Rechnungsposition>;
+    rechnungszahlungen?: Array<Rechnungszahlung>;
     id?: number;
 }
 

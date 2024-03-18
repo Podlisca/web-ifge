@@ -13,6 +13,7 @@ import { Ort } from './ort';
 import { Preis } from './preis';
 import { Produktkategorie } from './produktkategorie';
 import { Seminartag } from './seminartag';
+import { Stornobedingung } from './stornobedingung';
 import { ProduktMailKategorie } from './produktMailKategorie';
 import { ProduktStatus } from './produktStatus';
 import { Rollenpaket } from './rollenpaket';
@@ -36,6 +37,7 @@ export interface Produkt {
     ort?: Ort;
     lehrplan?: Lehrplan;
     mailKategorie?: ProduktMailKategorie;
+    stornobedingungen?: Array<Stornobedingung>;
     seminartage?: Array<Seminartag>;
     kategorien?: Array<Produktkategorie>;
     rollenpakete?: Array<Rollenpaket>;

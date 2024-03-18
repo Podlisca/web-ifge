@@ -9,17 +9,17 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Preis } from './preis';
-import { Produktkategorie } from './produktkategorie';
+import { Zahlungsart } from './zahlungsart';
+import { PersonLightDto } from './personLightDto';
 
 
-export interface Produktgutschein { 
-    name?: string;
-    ue?: number;
-    kategorien?: Array<Produktkategorie>;
-    gueltigVon?: Date;
-    gueltigBis?: Date;
-    preise?: Array<Preis>;
+export interface RechnungszahlungDto { 
     id?: number;
+    datum?: Date;
+    kunde?: PersonLightDto;
+    rechnungsnr?: number;
+    rechnungsid?: number;
+    betrag?: number;
+    zahlungsart?: Zahlungsart;
 }
 

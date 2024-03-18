@@ -13,6 +13,7 @@ import { Preis } from './preis';
 import { LehrplanDto } from './lehrplanDto';
 import { Produktkategorie } from './produktkategorie';
 import { OrtDto } from './ortDto';
+import { Stornobedingung } from './stornobedingung';
 import { ProduktStatus } from './produktStatus';
 import { Rollenpaket } from './rollenpaket';
 import { ProduktTyp } from './produktTyp';
@@ -39,6 +40,7 @@ export interface ProduktDto {
     rollenpakete?: Array<Rollenpaket>;
     rollenmapping?: Array<Rollenmapping>;
     kategorien?: Array<Produktkategorie>;
+    stornobedingungen?: Array<Stornobedingung>;
     lehrplan?: LehrplanDto;
 }
 

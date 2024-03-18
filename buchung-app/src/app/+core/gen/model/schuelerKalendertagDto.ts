@@ -9,17 +9,13 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Preis } from './preis';
-import { Produktkategorie } from './produktkategorie';
+import { SchuelerTerminDto } from './schuelerTerminDto';
 
 
-export interface Produktgutschein { 
+export interface SchuelerKalendertagDto { 
+    datum?: string;
     name?: string;
-    ue?: number;
-    kategorien?: Array<Produktkategorie>;
-    gueltigVon?: Date;
-    gueltigBis?: Date;
-    preise?: Array<Preis>;
-    id?: number;
+    label?: string;
+    termine?: Array<SchuelerTerminDto>;
 }
 

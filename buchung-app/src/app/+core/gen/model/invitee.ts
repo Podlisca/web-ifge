@@ -9,17 +9,12 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
-import { Preis } from './preis';
-import { Produktkategorie } from './produktkategorie';
 
 
-export interface Produktgutschein { 
-    name?: string;
-    ue?: number;
-    kategorien?: Array<Produktkategorie>;
-    gueltigVon?: Date;
-    gueltigBis?: Date;
-    preise?: Array<Preis>;
-    id?: number;
+export interface Invitee { 
+    id?: string;
+    meetingId?: string;
+    email?: string;
+    displayName?: string;
 }
 

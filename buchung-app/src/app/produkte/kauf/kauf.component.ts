@@ -8,6 +8,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatInputModule } from '@angular/material/input';
 import { MatRadioModule } from '@angular/material/radio';
 import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
+import { Observable, catchError, debounceTime, distinctUntilChanged, filter, of, shareReplay, switchMap } from 'rxjs';
 import { AnmeldeProdukt, AnmeldungService, Geschlecht, Produktkauf } from 'src/app/+core/gen';
 import { defaultConfig } from 'src/app/app.config';
 import { environment } from 'src/environments/environment';
@@ -27,7 +28,7 @@ declare let grecaptcha: any;
     { provide: MAT_FORM_FIELD_DEFAULT_OPTIONS, useValue: { appearance: 'outline' } }
   ]
 })
-export class KaufComponent implements OnInit {
+export class KaufComponent {
 
   @Input() recaptchaSiteKey: string | undefined = "6Lce7dYZAAAAAH25vMIzl-FWL4vgYmyMC9Fhhoj8";
   @Input({ required: true }) produkt!: AnmeldeProdukt
@@ -36,8 +37,10 @@ export class KaufComponent implements OnInit {
 
   api = inject(AnmeldungService);
 
-  form!: FormGroup
+  form!: FormGroup;
   loading = false;
+
+  codeValidation$?: Observable<number | undefined>
 
   constructor(
     private fb: NonNullableFormBuilder,
@@ -57,6 +60,7 @@ export class KaufComponent implements OnInit {
       agb: [false, Validators.requiredTrue],
       datenschutz: [undefined, Validators.required],
       widerruf: [undefined, Validators.required],
+      newsletter: [false],
       preis: [undefined, Validators.required],
       aktionscode: [""],
       strasse: ["", Validators.required],
@@ -64,6 +68,13 @@ export class KaufComponent implements OnInit {
       plz: ["", [Validators.minLength(4), Validators.maxLength(6), Validators.required]],
       ort: ["", Validators.required],
     });
+    this.codeValidation$ = this.form.controls['aktionscode'].valueChanges.pipe(
+      distinctUntilChanged(),
+      debounceTime(500),
+      switchMap(code => code?.length > 2 ? this.api.validateGutscheincode(this.produkt.id!, code) : of(undefined)),
+      catchError(_ => of(undefined)),
+      shareReplay(1)
+    )
   }
 
   ngAfterViewInit(): void {

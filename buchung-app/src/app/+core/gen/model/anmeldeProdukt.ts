@@ -10,6 +10,7 @@
  * Do not edit the class manually.
  */
 import { AnmeldePreisDto } from './anmeldePreisDto';
+import { Stornobedingung } from './stornobedingung';
 import { SeminartagDto } from './seminartagDto';
 
 
@@ -20,6 +21,7 @@ export interface AnmeldeProdukt {
     lehrplan?: string;
     ort?: string;
     leitung?: string;
+    stornobedingungen?: Array<Stornobedingung>;
     startdatum?: Date;
     preise?: Array<AnmeldePreisDto>;
     seminartage?: Array<SeminartagDto>;

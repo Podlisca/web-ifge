@@ -24,6 +24,7 @@ export interface Produktkauf {
     widerruf?: boolean;
     agb?: boolean;
     datenschutz?: boolean;
+    newsletter?: boolean;
     strasse?: string;
     nr?: string;
     plz?: string;

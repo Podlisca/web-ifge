@@ -17,11 +17,10 @@ import { AnwesenheitMitSeminartagDto } from './anwesenheitMitSeminartagDto';
 export interface ProduktgutscheinDto { 
     name?: string;
     ue?: number;
-    ust?: number;
     kategorien?: Array<Produktkategorie>;
     gueltigVon?: Date;
     gueltigBis?: Date;
-    preise?: Array<Preis>;
+    preis?: Preis;
     anwesenheiten?: Array<AnwesenheitMitSeminartagDto>;
     verbrauch?: number;
 }
