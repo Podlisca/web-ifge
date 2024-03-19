@@ -34,7 +34,7 @@ aliases:
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s_50iger**
+**Aktionscode: silvia´s 50iger**
 
 ***
 
@@ -109,7 +109,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s_50iger**
+**Aktionscode: silvia´s 50iger**
 
 ***
 
@@ -177,7 +177,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s_50iger**
+**Aktionscode: silvia´s 50iger**
 
 ***
 
@@ -335,7 +335,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s_50iger**
+**Aktionscode: silvia´s 50iger**
 
 ***
 
@@ -388,7 +388,7 @@ Wien, Österreich
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s_50iger**
+**Aktionscode: silvia´s 50iger**
 
 ***
 

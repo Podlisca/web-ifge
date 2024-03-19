@@ -29,7 +29,7 @@ weight: 2
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s_50iger**
+**Aktionscode: silvia´s 50iger**
 
 ***
 
