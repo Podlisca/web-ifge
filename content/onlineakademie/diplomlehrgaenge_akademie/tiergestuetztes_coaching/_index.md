@@ -51,7 +51,7 @@ rich_faq:
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
+**Aktionscode: silvia´s 50iger_tiere**
 
 ***
 
@@ -144,7 +144,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
+**Aktionscode: silvia´s 50iger_tiere**
 
 ***
 
@@ -221,7 +221,7 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
+**Aktionscode: silvia´s 50iger_tiere**
 
 ***
 
@@ -272,7 +272,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
+**Aktionscode: silvia´s 50iger_tiere**
 
 ***
 
@@ -535,7 +535,7 @@ Wien, Österreich
 *  **– 50% auf alle Onlineakademie Ausbildungen**
 * **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
+**Aktionscode: silvia´s 50iger_tiere**
 
 ***
 
