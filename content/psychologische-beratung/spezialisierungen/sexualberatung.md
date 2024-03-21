@@ -16,15 +16,9 @@ og_image: "/img/wien_silvia.jpg"
 
 {{< line icon="icon/sexualberatung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/sexualberatung.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -61,15 +55,9 @@ Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Le
 
 {{< line icon="icon/sexualberatung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/sexualberatung.png" >}}
 
 
 Gerade wenn es um **spezielle Vorlieben, Neigungen oder sexuelle Bedürfnisse geh**t, fragen sich viele Menschen, ob Ihr Denken und Handeln **„noch normal“ ist**. Am [IFGE](https://ifge.at/about/ueber_mich/) vertrete ich die Ansicht der „gesunden Perversion“, die in einem ausgewogenen Maß für **belebende sexuelle Höhenflüge** sorgt und daher keiner Intervention bedarf. Wenn aus der Lust für Sie allerdings eine Last geworden ist oder ihre sexuellen Wünsche in Ihnen Druck erzeugen, biete ich Ihnen an meinem Institut einen wertschätzenden und sicheren Rahmen, in dem sie Ihre Anliegen besprechen können.
@@ -105,15 +93,9 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 {{< line icon="icon/sexualberatung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/sexualberatung.png" >}}
 
 # Spezialisierungen
 

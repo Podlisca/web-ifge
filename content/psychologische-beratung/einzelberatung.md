@@ -20,15 +20,9 @@ og_image: "/img/einzel_2023.jpg"
 
 {{< line icon="icon/beratung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/beratung.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -70,15 +64,8 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 {{< line icon="icon/beratung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
-
-{{< line icon="icon/beratung.png" >}}
 
 {{% floatbox %}}
 
@@ -114,15 +101,9 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 
 {{< line icon="icon/beratung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/beratung.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -197,13 +178,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{< line icon="icon/beratung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/beratung.png" >}}
 

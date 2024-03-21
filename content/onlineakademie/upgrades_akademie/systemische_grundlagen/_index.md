@@ -28,15 +28,6 @@ aliases:
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_aufstellung**
-
-***
 
 ***
 
@@ -105,13 +96,9 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_aufstellung**
 
-***
+
 
 
 <br>
@@ -171,17 +158,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_aufstellung**
-
-***
-
-***
+{{< line icon="icon/aufstellung.png" >}}
 
 
 
@@ -222,7 +200,7 @@ Nach jedem **Lehrvideo/Fall** geben alle Stellvertreter:innen **Feedback über d
 * **3 Tage danach** startet das Kick off
 * **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung**
 
-***
+{{< line icon="icon/aufstellung.png" >}}
 
 {{% box more=1 blue=1 %}}
 {{< card-more  title="Kick-off" >}}
@@ -329,17 +307,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_aufstellung**
-
-***
-
-***
+{{< line icon="icon/aufstellung.png" >}}
 
 
 
@@ -383,16 +351,6 @@ Wien, Österreich
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_aufstellung**
-
-***
-
-***
 
 
 

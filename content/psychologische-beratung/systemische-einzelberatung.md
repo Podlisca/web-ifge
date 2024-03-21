@@ -19,15 +19,9 @@ og_image: "/img/system_einzel.jpg"
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/familienaufstellung.png" >}}
 
 ## Systemische Beratung - ganzheitliche Lösungen mit Weitblick
 
@@ -46,15 +40,9 @@ Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **onli
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/familienaufstellung.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -98,15 +86,9 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/familienaufstellung.png" >}}
 
 {{% floatbox %}}
 
@@ -139,15 +121,9 @@ Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb bes
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/familienaufstellung.png" >}}
 
 {{< image src="/img/systemdimensionsbrett_2.jpg" float="left" title="Bei einer Aufstellung am dreidimensionalem Systembrett ist es besonders leicht möglich, Verstrickungen über mehrere Generationen zu erkennen. Silvia Podlisca ist Entwicklerin dieses Systembrettes und setzt das Systembrett sowohl in psychologischen Einzelsitzungen in Wien, St. Pölten und Pinkafeld, wie auch beim Diplomlehrgang – Lebensberatung – psychologische Beratung sowie beim Upgrade für Aufstellungsarbeit im Unterricht ein. " >}} 
 

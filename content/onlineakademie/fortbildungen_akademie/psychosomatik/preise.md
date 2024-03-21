@@ -19,19 +19,11 @@ weight: 2
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 ## Kosten (inkl. MwSt.)
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger**
-
-***
 
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort  <br/>
@@ -43,3 +35,5 @@ Zahlung sofort  <br/>
 <br>
 {{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
 </br>
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}

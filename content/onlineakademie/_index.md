@@ -17,15 +17,9 @@ aliases:
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
 
-***
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -84,17 +78,6 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger**
-
-***
-
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
 
 
 
@@ -183,15 +166,9 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
 
-***
 
-***
 
 ## Verschaffen Sie sich einen Überblick über unsere Online-Kurse im 100% Online-Format
 
@@ -238,30 +215,8 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 Wenn Sie sich auch für Präsenz-Ausbildungen interessieren, werfen Sie doch bitte einen Blick in unsere [Kursübersicht](/praesenz-ausbildungen). Vielleicht interessieren Sie auch unsere Online-Live-Formate. Mehr dazu finden Sie in unserer [Kursübersicht](/online-ausbildungsangebote).
 
+***
 
 
 
-
-
-{{< line icon="icon/raueme.png" >}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
- 
-{{% /small  %}}
-{{% /box  %}}
 

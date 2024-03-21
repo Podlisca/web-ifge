@@ -14,14 +14,9 @@ og_image: "/img/krise_2023_1.jpg"
 
 {{< line icon="icon/krise.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/krise.png" >}}
+
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -66,14 +61,9 @@ Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wir
 
 {{< line icon="icon/krise.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-*  **3 Beratungseinheiten a 50 Minuten um € 280,-** (statt € 315,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Person 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/krise.png" >}}
+
 
 ### Sehen Sie Ihre Krise nicht als persönliches Versagen, sondern als Chance für eine Neugestaltung!
 

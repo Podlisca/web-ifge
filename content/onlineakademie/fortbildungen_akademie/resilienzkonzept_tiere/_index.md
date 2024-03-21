@@ -29,15 +29,9 @@ rich_faq:
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger**
 
-***
 
-***
 
 <div class="box video">
 {{% small %}}

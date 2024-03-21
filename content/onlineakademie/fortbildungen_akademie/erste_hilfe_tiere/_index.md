@@ -24,15 +24,7 @@ rich_faq:
 
 
 {{< line icon="icon/tiere.png" >}}
-## Rasch, richtig & ruhig reagieren: Erste Hilfe für Hund & Katze.
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_erste_hilfe_tiere**
-
-***
 
 <div class="box video">
 {{% small %}}
@@ -58,7 +50,9 @@ Diese Fortbildung der [IFGE-Online-Akademie](https://www.ifge.at/onlineakademie/
 Unsere **erfahrenen Referent:innen** zeigen dir in Form von Lehrvideos, Lernmaterialen und Praxisübungen nicht nur **Erste-Hilfe-Maßnahmen für Tiere**, sondern erklären auch, wie **Gefahrensituationen vermeidbar** sind. 
 
 Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching/). Solltest du auch diesen Kurs kaufen, erhältst du den **Kaufpreis für „Tiere als Resilienzkonzept“ selbstverständlich abgezogen**.
-***
+
+
+{{< line icon="icon/tiere.png" >}}
  
 
 

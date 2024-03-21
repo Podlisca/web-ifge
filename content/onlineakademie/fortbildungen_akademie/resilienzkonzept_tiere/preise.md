@@ -20,7 +20,7 @@ weight: 2
 {{< card icon="noun_Law_3395158-2.png" title="Rechtliches" >}}
 {{% /iconmenu %}}
 
-***
+{{< line icon="noun_Information_478770-2.png" >}}
 
 ## Kosten (inkl. MwSt.)
 

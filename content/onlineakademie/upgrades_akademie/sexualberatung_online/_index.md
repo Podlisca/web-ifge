@@ -26,15 +26,6 @@ rich_faq:
 
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_sexualberatung**
-
-***
 
 
 ***
@@ -98,30 +89,13 @@ rich_faq:
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_sexualberatung**
-
-***
-
-***
-
 
 
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_sexualberatung**
-
 ***
+
 
 <br>
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
@@ -185,16 +159,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_sexualberatung**
-
-***
-
-
-***
 <br>
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>
@@ -345,16 +310,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_sexualberatung**
-
-***
-
-***
-
 
 
 <br>
@@ -394,20 +349,16 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 
 **6. Gerichtstand:**
 Wien, Österreich
-***
+
 
 
 <br>
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_sexualberatung**
 
-***
+
 
 {{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 </br>

@@ -45,17 +45,9 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
-
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
-
-**Aktionscode: silvia´s 50iger_tiere**
-
 ***
 
-***
+
 
 <div class="box video">
 {{% small %}}
@@ -140,15 +132,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_tiere**
-
-***
-
-*** 
 
 
 
@@ -159,7 +143,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 
-***
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
 
@@ -212,24 +196,23 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< /card-more >}}
 {{% /box %}}
 
-***
+
 <br>
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_tiere**
 
-***
+
 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 </br>
 
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+
+
+***
 
 ####  Du bist noch unsicher? 
 Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mich telefonisch unter **+43 676 610 89 36** kontaktieren.
@@ -268,13 +251,9 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_tiere**
 
-***
+
 
 
 *** 
@@ -531,13 +510,9 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist an
 Wien, Österreich
 ***
 
-# **Silvia wird 50 und das IFGE feiert mit** 
-*  **– 50% auf alle Onlineakademie Ausbildungen**
-* **gültig nur am 20. März 2024 und nur für die Einmalzahlung**
 
-**Aktionscode: silvia´s 50iger_tiere**
 
-***
+
 
 <br>
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}

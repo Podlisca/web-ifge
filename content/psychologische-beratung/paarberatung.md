@@ -31,14 +31,9 @@ rich_faq:
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-*  **3 Paarberatungseinheiten a 90 Minuten um € 490,-** (statt € 585,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/paar_tuerkis.png" >}}
+
 
 {{% floatbox %}}
 
@@ -77,14 +72,9 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-*  **3 Paarberatungseinheiten a 90 Minuten um € 490,-** (statt € 585,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/paar_tuerkis.png" >}}
+
 
 
 ### PAARBERATUNG  MIT SILVIA PODLISCA UND MARTIN BRANSKY
@@ -94,14 +84,9 @@ Paarberatungen für Paare können am IFGE auch in Kombination mit dem psychologi
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-*  **3 Paarberatungseinheiten a 90 Minuten um € 490,-** (statt € 585,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/paar_tuerkis.png" >}}
+
 
 ### SYSTEMISCHE BETRACHTUNGSWEISE
 
@@ -187,11 +172,5 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
-# **FRÜHLINGSAKTION im März am IFGE:** 
-## Lernen Silvia kennen und feiere schon bald deine ersten Erfolge durch proffessionelle Beratung
 
-*  **3 Paarberatungseinheiten a 90 Minuten um € 490,-** (statt € 585,-)
-* **gültig von 01. – 20. März 2024** / die Aktion kann pro Paar 1x genützt werden
-* **Terminvereinbarung unter: + 43 676 610 89 36**
 
-{{< line icon="icon/paar_tuerkis.png" >}}
