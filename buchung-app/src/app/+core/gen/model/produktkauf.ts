@@ -21,6 +21,7 @@ export interface Produktkauf {
     email?: string;
     aktionscode?: string;
     notiz?: string;
+    atu?: string;
     widerruf?: boolean;
     agb?: boolean;
     datenschutz?: boolean;
@@ -29,6 +30,7 @@ export interface Produktkauf {
     nr?: string;
     plz?: string;
     ort?: string;
+    nation?: string;
     seminartage?: Array<number>;
     recaptcha_token?: string;
 }

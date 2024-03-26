@@ -35,6 +35,7 @@ export interface Person {
     email?: string;
     titel?: string;
     geburtsdatum?: Date;
+    atuNummer?: string;
     benachrichtigung?: boolean;
     onlineFreigabe?: boolean;
     lsbPraktikumFreigabe?: boolean;

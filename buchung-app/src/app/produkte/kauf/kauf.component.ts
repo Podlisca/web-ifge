@@ -5,6 +5,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { MAT_FORM_FIELD_DEFAULT_OPTIONS, MatFormFieldModule } from '@angular/material/form-field';
 import { MatIconModule } from '@angular/material/icon';
+import { MatSelectModule } from '@angular/material/select';
 import { MatInputModule } from '@angular/material/input';
 import { MatRadioModule } from '@angular/material/radio';
 import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
@@ -21,7 +22,7 @@ declare let grecaptcha: any;
   standalone: true,
   templateUrl: './kauf.component.html',
   styleUrls: ['./kauf.component.css'],
-  imports: [CommonModule, MatRadioModule, MatButtonModule, FormsModule,
+  imports: [CommonModule, MatRadioModule, MatButtonModule, FormsModule, MatSelectModule,
     MatInputModule, MatIconModule, MatFormFieldModule,
     ReactiveFormsModule, MatCheckboxModule, MatSnackBarModule],
   providers: [
@@ -39,6 +40,9 @@ export class KaufComponent {
 
   form!: FormGroup;
   loading = false;
+  nations$ = this.api.getNationen().pipe(
+    shareReplay(1),
+  )
 
   codeValidation$?: Observable<number | undefined>
 
@@ -67,6 +71,8 @@ export class KaufComponent {
       nr: ["", Validators.required],
       plz: ["", [Validators.minLength(4), Validators.maxLength(6), Validators.required]],
       ort: ["", Validators.required],
+      nation: [{id: 1}, Validators.required],
+      atu: []
     });
     this.codeValidation$ = this.form.controls['aktionscode'].valueChanges.pipe(
       distinctUntilChanged(),
@@ -138,5 +144,9 @@ export class KaufComponent {
     script.src = src;
     renderer.appendChild(this.document.body, script);
     return script;
+  }
+
+  idCompare(o1: { id: number }, o2: { id: number }) {
+    return o1?.id == o2?.id;
   }
 }

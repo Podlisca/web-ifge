@@ -80,6 +80,23 @@
     <mat-label>Ort</mat-label>
     <input matInput placeholder="Ort" formControlName="ort" autocomplete="off">
   </mat-form-field>
+  
+  <mat-form-field>
+    <mat-label>Land</mat-label>
+    <mat-select formControlName="nation" [compareWith]="idCompare">
+      <mat-option *ngFor="let n of nations$ | async" [value]="{id: n.id}">{{n.name}}</mat-option>
+  </mat-select>
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>UID-Nummer</mat-label>
+    <input matInput formControlName="atu" autocomplete="off">
+  </mat-form-field>
+  
+  <div>
+    Bei Firmenrechnung: Bitte die Rechnungsadresse im Mitteilungsfeld ergänzen.
+  </div>
+
   <mat-form-field>
     <mat-label>Deine Mitteilung an Silvia</mat-label>
     <textarea matInput cdkTextareaAutosize autocomplete="off" cdkAutosizeMinRows="2" formControlName="notiz"

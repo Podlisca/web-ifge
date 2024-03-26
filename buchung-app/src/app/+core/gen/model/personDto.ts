@@ -25,6 +25,7 @@ export interface PersonDto {
     telefonPrivat?: string;
     telefonGeschaeftlich?: string;
     email?: string;
+    atuNummer?: string;
     geburtsdatum?: Date;
     notiz?: string;
     onlineFreigabe?: boolean;
