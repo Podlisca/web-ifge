@@ -21,9 +21,9 @@ weight: 6
 {{% small  %}}
 
 
-Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Es gibt sowohl die Möglichkeit für ein zweitätiges Aufstellungswochenende oder ein Wochenende von Freitag Nachmittag bis Sonntag. 
+Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Es gibt sowohl die Möglichkeit für ein zweitätiges Seminar oder ein Wochenende von Freitag Nachmittag bis Sonntag. 
 
-Bei Eintagesaufstellungen kannst du ebenfalls in der Dauer unterscheiden. Diese werden in einem 4-stündigen, 6-stündigen und 8-stündigen Setting angeboten. 
+Bei den Eintagesseminaren kannst du ebenfalls in der Dauer unterscheiden. Diese werden in einem 4-stündigen, 6-stündigen und 8-stündigen Setting angeboten. 
 
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. 
 
@@ -38,10 +38,10 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 ***
 
-#### Familienaufstellung Dreitages Wochenende
+#### Familienaufstellung Dreitages Seminar
 {{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
 <br>
-{{< buchung vorlagen="Familienaufstellung Dreitages Wochenende" text="Jetzt verbindlich anmelden" value="360" >}}
+{{< buchung vorlagen="Familienaufstellung Dreitages Seminar" text="Jetzt verbindlich anmelden" value="360" >}}
 </br>
 
 ***
@@ -49,7 +49,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Familienaufstellung 8 Stunden 
 {{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
 <br>
-{{< buchung vorlagen="Familienaufstellung Eintagesaufstellung (8 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (8 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
 
 ***
@@ -57,7 +57,7 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 #### Familienaufstellung 6 Stunden 
 {{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
 <br>
-{{< buchung vorlagen="Familienaufstellung Eintagesaufstellung (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
+{{< buchung vorlagen="Familienaufstellung Eintages Seminar (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
 
 ***
