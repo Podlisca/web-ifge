@@ -25,8 +25,8 @@ weight: 2
 
 ## Kosten
 
-* Einmalzahlung: € 1.980,-
-* Modulzahlung: € 450,- Anzahlung + 6x €  300,- pro Modul (Gesamtsumme: € 2.250,-)
+* Einmalzahlung: € 2.490,-
+* Modulzahlung: € 450,- Anzahlung + 6x € 415,- pro Modul (Gesamtsumme: € 2.940,-)
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 

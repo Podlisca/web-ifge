@@ -75,9 +75,9 @@ Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie d
 ## Leitung
 
 * [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
-* [Dr. Dieter Schmutzer](/about/referenten-lsb/#dr-dieter-schmutzer)
+* [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
 * [Antje Stimpfl](/about/referenten-lsb/#antje-stimpfl)
-* [Dominique Karlovits](/about/referenten-lsb/#dominique-karlovits)
+* [Marie-Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 
 {{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
 
