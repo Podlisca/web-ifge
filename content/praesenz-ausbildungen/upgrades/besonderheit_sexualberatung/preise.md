@@ -25,7 +25,8 @@ weight: 2
 
 ## Kosten
 
-* Einmalzahlung: € 2.490,-
+* Frühbucherbonus: € 2.250,- Anzahlung € 490,-/ Restzahlung ein Monat vor Beginn (gültig bis 31.05.2024)
+* Einmalzahlung: € 2.490,- Anzahlung € 490,-/ Restzahlung ein Monat vor Beginn
 * Modulzahlung: € 450,- Anzahlung + 6x € 415,- pro Modul (Gesamtsumme: € 2.940,-)
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
