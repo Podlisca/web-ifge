@@ -39,7 +39,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 ***
 
 #### Familienaufstellung Dreitages Wochenende
-{{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf deinen passenden Termin um dich anzumelden{{% /center %}}
+
 <br>
 {{< buchung vorlagen="Familienaufstellung Dreitages Wochenende" text="Jetzt verbindlich anmelden" value="360" >}}
 </br>
@@ -47,7 +48,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 ***
 
 #### Familienaufstellung 8 Stunden 
-{{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf deinen passenden Termin um dich anzumelden{{% /center %}}
+
 <br>
 {{< buchung vorlagen="Familienaufstellung Eintages Aufstellung (8 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
@@ -55,7 +57,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 ***
 
 #### Familienaufstellung 6 Stunden 
-{{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf deinen passenden Termin um dich anzumelden{{% /center %}}
+
 <br>
 {{< buchung vorlagen="Familienaufstellung Eintages Aufstellung (6 Stunden)" text="Jetzt verbindlich anmelden" value="180" >}}
 </br>
@@ -63,7 +66,8 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 ***
 
 #### Familienaufstellung am Vormittag - 4 Stunden 
-{{% center %}}Klicke auf deinen passenden Termin um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf deinen passenden Termin um dich anzumelden{{% /center %}}
+
 <br>
 {{< buchung vorlagen="Familienaufstellung Vormittag (4 Stunden)" text="Jetzt verbindlich anmelden" value="120" >}}
 </br>

@@ -30,6 +30,16 @@ weight: 2
 
 In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. Weiters werden an den Seminartagen in den Pausen gratis Snacks angeboten.
 
-{{< line icon="icon/termine.png" >}}
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
+#### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+<br>
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+</br>
+
+{{< line icon="icon/paar_sexualberatung.png" >}}

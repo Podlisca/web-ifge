@@ -24,14 +24,18 @@ weight: 3
 
 {{< line icon="icon/termin_kursplan.png" >}}
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
+#### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+<br>
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+</br>
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
 
 
-
-
-
-
-{{< line icon="noun_Information_478770-2.png" >}}
 
 {{% box blue=1 %}}
 {{% small  %}}

@@ -49,6 +49,17 @@ Als zentrale Säule der psychologischen Lebens- und Sozialberatung ist [Sexualbe
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
+#### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+<br>
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+</br>
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
 ## WAS BIETET UNSER LEHRGANG?
 
 {{% floatbox %}}
@@ -75,7 +86,13 @@ Diese **Interventionstechniken** sind gerade in der Arbeit mit [Opfern sexueller
 <br>
 {{< line icon="icon/termine.png" >}}
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Kurs kaufen" value="1980" >}}
+#### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+<br>
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -120,3 +137,15 @@ Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im
 {{% /floatbox %}}
 {{% /box %}}
 
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
+#### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+<br>
+
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+</br>
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
