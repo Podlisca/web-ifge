@@ -80,3 +80,15 @@ Bei Zahlungsverzug von mehr als 10 Tagen der gewählten Zahlungsvariante wird au
 
 {{% /small  %}}
 {{% /box %}}
+
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+#### Sicherer dir deinen Ausbildungsplatz für: 
+#### "Diplomlehrgang Familienaufstellung (SGF®-Methode)"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+<br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+<br>

@@ -44,10 +44,11 @@ weight: 2
 
 {{< line icon="icon/termine.png" >}}
 
-<br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
-</br>
+#### Sicherer dir deinen Ausbildungsplatz für: 
+#### "Diplomlehrgang Familienaufstellung (SGF®-Methode)"
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
 <br>
-{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
-</br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+<br>

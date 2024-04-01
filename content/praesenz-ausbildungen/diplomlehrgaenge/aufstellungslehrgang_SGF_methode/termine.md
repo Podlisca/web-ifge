@@ -18,19 +18,15 @@ weight: 3
 
 {{< line icon="icon/termine.png" >}}
 
-#### Termine am IFGE Burgenland (Pinkafeld)
 
+#### Sicherer dir deinen Ausbildungsplatz für: 
+#### "Diplomlehrgang Familienaufstellung (SGF®-Methode)"
 
-
-**ca. alle 2 Wochen samstags von 09:00 bis 18:00 Uhr**
-
-<br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
-</br>
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
 <br>
-{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
-</br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+<br>
 
 
 [Termine herunterladen](/downloads/termine_sgf_lehrgang_2024.pdf)
@@ -50,14 +46,17 @@ weight: 3
 
 ## Der erste Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
 
+***
 
+#### Sicherer dir deinen Ausbildungsplatz für: 
+#### "Diplomlehrgang Familienaufstellung (SGF®-Methode)"
 
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
-
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
 <br>
-{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Jetzt verbindlich anmelden" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
-</br>
+{{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
+<br>
+
 
 {{< line icon="icon/bus.png" >}}
 
