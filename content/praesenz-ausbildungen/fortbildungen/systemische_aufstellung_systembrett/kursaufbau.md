@@ -29,7 +29,11 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 
 **In den Modulen wird sehr viel praktisch geübt.**
 
-**32 Ausbildungsstunden mit mind. 8 max. 12 Teilnehmer*innen**
+**32 Ausbildungsstunden mit mind. 8 max. 14 Teilnehmer:innen**
+
+
+
+*
 
 ## Seminarhinhalte
 

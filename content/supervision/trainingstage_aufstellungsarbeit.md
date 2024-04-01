@@ -80,7 +80,8 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 
 ### Allgemeines
 
-* Mind. 8 Teilnehmer:innen / Max. 12 Teilnehmer:innen
+* Mind. 8 Teilnehmer:innen / max. 14 Teilnehmer:innen
+
 * ab dem 3. LSB Semseter 
 * Kosten: € 198,- (Zahlung bei Anmeldung)
 * Anmeldeschluss: 2 Wochen vorher
