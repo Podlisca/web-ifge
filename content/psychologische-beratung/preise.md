@@ -81,16 +81,6 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 
 {{% box top-align=1 %}}
 {{% small  %}}
-* Familienaufstellung Eintages Seminar 
-{{% /small  %}}
-{{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen: € 180,-
-* Teilnehmende:r Beobachter:in: € 60,-
-{{% /small  %}}
-{{% /box %}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
 * Familienaufstellung / Vormittag 4 Stunden 
 {{% /small  %}}
 {{% small  %}}
@@ -99,6 +89,26 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 {{% /small  %}}
 {{% /box %}}
 
+{{% box top-align=1 %}}
+{{% small  %}}
+* Familienaufstellung 6 Stunden 
+{{% /small  %}}
+{{% small  %}}
+* Teilnehmer:in mit eigenem Anliegen: € 180,-
+* Teilnehmende:r Beobachter:in: € 60,-
+{{% /small  %}}
+{{% /box %}}
+
+
+{{% box top-align=1 %}}
+{{% small  %}}
+* Familienaufstellung 8 Stunden 
+{{% /small  %}}
+{{% small  %}}
+* Teilnehmer:in mit eigenem Anliegen: € 240,-
+* Teilnehmende:r Beobachter:in: € 80,-
+{{% /small  %}}
+{{% /box %}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
