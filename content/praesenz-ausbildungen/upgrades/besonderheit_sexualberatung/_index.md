@@ -84,6 +84,29 @@ Diese **Interventionstechniken** sind gerade in der Arbeit mit [Opfern sexueller
 {{% /floatbox %}}
 
 <br>
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
+## In weiterer Folge buchbar
+
+{{% floatbox %}}
+
+{{< image src="/img/love_coach.png" float="left" title="Ausbildung zum Love Coach." >}} 
+
+Du hast Freude an der **Sexualberatung** gefunden und möchtest dein **Wissen und deine Fähigkeiten** weiter vertiefen? 
+
+Unsere **Diplomausbildung zum Love Coach**, bestehend aus insgesamt dem Basismodul und  4 Aufbaumodulen, ist genau darauf ausgelegt, dich noch vertiefender in den Bereichen **Sexual- und Sexual-Paarberatung** zu qualifizieren. 
+
+Beginnend mit **grundlegenden Aspekten der Sexualberatung**, wie dem Verständnis von sexuellen Identitäten und Orientierungen sowie Methoden zur Lustgewinnung, über die Feinheiten der Paarberatung und den Umgang mit **sexueller Gesundheit**, bis hin zu spezialisierten Themen wie der **Kultursensible Sexualberatung** und der Auseinandersetzung mit **abweichenden Neigungen** – diese Ausbildung bereitet dich darauf vor, ein empathischer und effektiver Begleiter für die vielfältigen Bedürfnisse deiner Klienten zu sein.
+
+**Sei dabei und erweitere dein Verständnis und deine Fähigkeiten auf dem spannenden Weg zum Love Coach.** Weitere Infos folgen. 
+
+
+
+{{< silvia >}}
+
+
+
+
 {{< line icon="icon/termine.png" >}}
 
 #### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
