@@ -43,10 +43,10 @@
   {{- $nav := resources.Get "/css/nav.css" -}}
   {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
   <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}" />
+  <script data-cookieconsent="ignore" async defer src="/app/ifge-buchung.js"></script>
 </head>
 
 <body>
-  <script data-cookieconsent="ignore" async defer src="/app/ifge-buchung.js"></script>
   <link rel="stylesheet" href="/app/ifge-buchung.css" type="text/css" />
   {{ block "includes" . }}{{ end }}
   <header>
