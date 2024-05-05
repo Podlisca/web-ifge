@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default "de" }}">
+<html lang="{{ $.Site.LanguageCode | default " de" }}">
 
 <head>
   <meta charset="utf-8">
@@ -7,27 +7,27 @@
   <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width,minimum-scale=1">  
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
   <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
 
   {{ if hugo.IsProduction }}
-    {{ partial "analytics" . }}
-    {{ partial "cookiebot" . }}
+  {{ partial "analytics" . }}
+  {{ partial "cookiebot" . }}
   {{ end }}
-  
-  <meta name="twitter:title" content="{{ .Params.Title }}"/>
+
+  <meta name="twitter:title" content="{{ .Params.Title }}" />
   <meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription}}">
-  <meta name="twitter:card" content="summary_large_image"/>
-  
+  <meta name="twitter:card" content="summary_large_image" />
+
   <meta property="og:title" content="{{ .Params.og_title | default .Params.Title }}">
-  <meta property="og:site_name" content="{{ .Site.Params.og_site_name }}"/>
-  <meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}"/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:locale" content="de_DE"/>
-  <meta property="og:url" content="{{ .Permalink }}"/>
+  <meta property="og:site_name" content="{{ .Site.Params.og_site_name }}" />
+  <meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="de_DE" />
+  <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:image" content="{{ (.Params.og_image | default .Site.Params.og_image) | absURL }}">
-  <meta property="og:image:width" content="1540"/>
-  <meta property="og:image:height" content="1070"/>
+  <meta property="og:image:width" content="1540" />
+  <meta property="og:image:height" content="1070" />
   {{ if .IsHome }}
   <meta name="facebook-domain-verification" content="sm8ajkm4l7k7gk7nkbasxai7899r07" />
   {{ end }}
@@ -42,17 +42,17 @@
   {{- $slider := resources.Get "/css/slider.css" -}}
   {{- $nav := resources.Get "/css/nav.css" -}}
   {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
-  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}"/>
+  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}" />
 </head>
 
 <body>
-  <script data-cookieconsent="ignore" crossorigin="anonymous" src="/app/ifge-buchung.js"></script>
-  <link rel="stylesheet" href="/app/ifge-buchung.css" type="text/css"/>
+  <script data-cookieconsent="ignore" async defer src="/app/ifge-buchung.js"></script>
+  <link rel="stylesheet" href="/app/ifge-buchung.css" type="text/css" />
   {{ block "includes" . }}{{ end }}
-  <header>    
+  <header>
     <div class="cont">
       <a href="/index.html">
-        <img src="/img/logo.jpg" alt="IFGE Logo" class="logo"/>
+        <img src="/img/logo.jpg" alt="IFGE Logo" class="logo" />
       </a>
       <div class="center-nav">
         <div class="topnav">
@@ -62,7 +62,7 @@
         </div>
       </div>
       <div>
-        {{ partial "site-navigation" . }}      
+        {{ partial "site-navigation" . }}
       </div>
     </div>
   </header>
@@ -79,24 +79,24 @@
     {{ partial "site-footer.html" . }}
   </footer>
 
-  {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "floating-button.html" "aside" }} {{ end }}    
+  {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "floating-button.html" "aside" }} {{ end }}
 
   {{ with .Params.disableScrollTop }} {{ else }} {{ partial "scroll-top.html" . }} {{ end }}
-  
-  {{ with .Params.disableNewsletterPopup }} {{ else }} 
-    {{ partial "body-blackout.html" }} 
-    {{ partial "subscribe.html" }} 
-    {{ partial "videopopup.html" }} 
+
+  {{ with .Params.disableNewsletterPopup }} {{ else }}
+  {{ partial "body-blackout.html" }}
+  {{ partial "subscribe.html" }}
+  {{ partial "videopopup.html" }}
   {{ end }}
 
   <script data-cookieconsent="ignore">
     const x = document.getElementById("topnavRef");
 
-    function toggleResponsive() {      
+    function toggleResponsive() {
       if (x.className === "topnav") {
-        x.className += " show";        
+        x.className += " show";
       } else {
-        x.className = "topnav";        
+        x.className = "topnav";
       }
     }
 
@@ -104,7 +104,7 @@
       obj.parentNode.parentNode.parentNode.classList.toggle("show");
     }
 
-    function toggleMore(obj) {      
+    function toggleMore(obj) {
       obj.parentNode.parentNode.classList.toggle("show");
     }
 
@@ -115,7 +115,7 @@
       obj.dataset.mode = obj.dataset.mode === "expand" ? "collapse" : "expand";
     }
   </script>
-  
+
   <script data-cookieconsent="ignore" src="/js/slider.js"></script>
 </body>
 
