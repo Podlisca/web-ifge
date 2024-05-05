@@ -4,7 +4,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule, MatSelectionList } from '@angular/material/list';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
-import { Observable, map } from 'rxjs';
+import { Observable, catchError, map, of } from 'rxjs';
 import { AnmeldeProdukt, AnmeldeProduktQuery, AnmeldungService } from '../+core/gen';
 import { defaultConfig } from '../app.config';
 import { KaufComponent } from './kauf/kauf.component';
@@ -86,6 +86,10 @@ export class ProdukteComponent implements OnInit {
           })
           return vm;
         });
+      }),
+      catchError(err => {
+        console.log(err);
+        return of(err)
       })
     );
   }
