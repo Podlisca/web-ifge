@@ -119,11 +119,11 @@
 
 <ng-container *ngIf="produkt.stornobedingungen?.length">
   <br>
-  <h4>Stornobedingungen</h4>
+  <h4>Rücktrittsbedingungen</h4>
   <p *ngFor="let st of produkt.stornobedingungen">
     Bei Absagen bis {{st.tage}} Tage vor Kursbeginn fallen {{st.quote}} % der Kursgebühr als Stornokosten an.
   </p>
-  Bei Absagen vor den genannten Zeiträumen wird keine Stornogebühr verrechnet.
+  Bei Absagen vor den genannten Zeiträumen wird keine Stornogebühr verrechnet. Es wird jedoch eine Bearbeitungsgebühr von 100,00 € verrechnet.
 </ng-container>
 
 <div class="flex-cont">
