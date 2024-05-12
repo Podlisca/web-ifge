@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  _vorlagen: string[] = environment.production ? [] : ["Familienaufstellung Dreitages Wochenende","Familienaufstellung Eintages Seminar (8 Stunden)", "Selbsterfahrung Jahresgruppe", "Intensivtraining Onlineakademie Tiergestütztes Coaching"];
+  _vorlagen: string[] = environment.production ? [] : ["Familienaufstellung Eintages Aufstellung (6 Stunden)","Familienaufstellung Eintages Seminar (8 Stunden)", "Selbsterfahrung Jahresgruppe", "Intensivtraining Onlineakademie Tiergestütztes Coaching"];
   @Input() set vorlagen(val: string) {
     this._vorlagen = val.split(";");
   }

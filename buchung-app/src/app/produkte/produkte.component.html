@@ -9,7 +9,7 @@
                     <div class="title"> {{view.title}}</div>
                     <div>
                         <mat-selection-list multiple="false" [id]="vmOrt[0].ort + viewIndex">
-                            <mat-list-option *ngFor="let produkt of view.produkte; let idx = index" [disabled]="produkt.freiePlaetze == 0"
+                            <mat-list-option *ngFor="let produkt of view.produkte | slice:0:(showAll.checked ? undefined : maxProducts); let idx = index" [disabled]="produkt.freiePlaetze == 0"
                                 (selectedChange)="onSelect($event, {index: idx, produkt}, vmOrt[0].ort + viewIndex)">
                                 <ng-container *ngIf="produkt.seminartage?.length! > 1 ?? false">
                                     <span matListItemTitle class="bold">
