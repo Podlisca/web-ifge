@@ -12,7 +12,7 @@
                             <mat-list-option *ngFor="let produkt of view.produkte; let idx = index" [disabled]="produkt.freiePlaetze == 0"
                                 (selectedChange)="onSelect($event, {index: idx, produkt}, vmOrt[0].ort + viewIndex)">
                                 <ng-container *ngIf="produkt.seminartage?.length! > 1 ?? false">
-                                    <span matListItemTitle>
+                                    <span matListItemTitle class="bold">
                                         Startdatum: {{produkt.startdatum | date: 'longDate'}}</span>
                                 </ng-container>
                                 <ng-container *ngIf="produkt.vorlage">
@@ -56,7 +56,6 @@
 
 <ng-template #online>
     <span matListItemTitle>
-        Klicke hier, um flexibel online zu lernen<br>
-        und den Onlinekurs zu buchen
+        Klicke hier, um flexibel online zu lernen und den Onlinekurs zu buchen
     </span>
 </ng-template>

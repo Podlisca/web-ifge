@@ -78,6 +78,7 @@
 
 mat-selection-list {
     font-weight: 300;
+    font-size: 0.9rem;
 }
 
 .mat-mdc-list-item-line.mdc-list-item__secondary-text {
@@ -92,4 +93,16 @@ mat-selection-list {
 mat-list-option:nth-child(n) {
     height: auto;
     padding: 0.5rem;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+span[matlistitemtitle] {
+    text-wrap: balance;
+}
+
+::ng-deep app-produkte mat-list-option .mdc-list-item__end {
+    margin-left: 0 !important;
 }

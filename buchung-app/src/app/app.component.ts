@@ -24,12 +24,12 @@ export class AppComponent implements OnInit {
 
   config = defaultConfig;
 
-  _vorlagen: string[] = environment.production ? [] : ["Familienaufstellung Eintages Seminar (8 Stunden)", "Selbsterfahrung Jahresgruppe", "Intensivtraining Onlineakademie Tiergestütztes Coaching"];
+  _vorlagen: string[] = environment.production ? [] : ["Familienaufstellung Dreitages Wochenende","Familienaufstellung Eintages Seminar (8 Stunden)", "Selbsterfahrung Jahresgruppe", "Intensivtraining Onlineakademie Tiergestütztes Coaching"];
   @Input() set vorlagen(val: string) {
     this._vorlagen = val.split(";");
   }
 
-  _produkte: string[] = environment.production ? [] : ["Offene SV Gruppe - März 2024", "LSB 21 Wien Montag", "Upgrade Grundlagen Aufstellungsarbeit & SGF Methode"];
+  _produkte: string[] = environment.production ? [] : ["Familienaufstellung Dreitages Wochenende", "Offene SV Gruppe - März 2024", "LSB 21 Wien Montag", "Upgrade Grundlagen Aufstellungsarbeit & SGF Methode"];
   @Input() set produkte(val: string) {
     this._produkte = val.split(";");
   }
