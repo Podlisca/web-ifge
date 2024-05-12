@@ -41,7 +41,7 @@ BIC: BKAUATWW
 zu überweisen. Bitte geben Sie als Verwendungszweck Ausbildung: "Erlebnistour Jüdisches Wien / Hitlers Wien" + Ihren Namen an.
 
 
-Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 8 Wochen vor Seminarbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten. 
+Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis zu 8 Wochen vor Seminarbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Seminargebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten. 
 
 {{< buchung lehrplaene="Historische, politische und gesellschaftliche Aspekte in der Beratung" text="Kurs kaufen" value="85" >}}
 

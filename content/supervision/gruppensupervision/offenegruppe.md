@@ -52,7 +52,7 @@ Preise: € 80,- für 4,5 Stunden / € 120,- für 7 Stunden/ € 160,- für 9 S
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen">}} 
-Stornobedingungen: Bei Absage bis zu 8 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr. Bei Fernbleiben oder Abbruch werden keine Kosten rückerstattet oder erlassen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
+Stornobedingungen: Bei Absage bis zu 8 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr. Bei Fernbleiben oder Abbruch werden keine Kosten rückerstattet oder erlassen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 {{< /card-more >}}
 
 {{< card-more icon="icon/gruppengroesse.png" title="Gruppengröße">}}

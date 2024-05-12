@@ -123,7 +123,7 @@ BIC: BKAUATWW
 zu überweisen. Bitte als Verwendungszweck "Die Kunst des Utilisierens + Deinen Namen" angeben.
 
 
-Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ein Monat vor geplantem Kursbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Kursbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
+Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ein Monat vor geplantem Kursbeginn. Bei Absage bis zu 8 Wochen vor dem geplanten Kursbeginn entsteht keine Stornogebühr. Bei Absage bis 6 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 {{< /card-more >}}
 
 

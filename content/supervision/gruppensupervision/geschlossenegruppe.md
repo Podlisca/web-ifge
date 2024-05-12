@@ -79,7 +79,7 @@ Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu.
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen" >}}
-1 mal im Jahr darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
+1 mal im Jahr darf man – entschuldigt - stornofrei (Krankheit/Urlaub) fehlen. Darüber hinaus gehendes Fernbleiben oder Abbruch wird in Rechnung gestellt. Bei Absage bis zu 12 Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 8 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gruppengebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
  Für Teilnehmer:innen die 90 Stunden Gruppensupervision in der Diplomausbildung Lebensberatung - psychologische Beratung im Preis inbegriffen haben: 1x kann ein kostenfreier Ersatztermin von 4 Stunden Gruppensupervision in Anspruch genommen werden. Weitere Fehleinheiten müssen kostenpflichtig nachgeholt werden."
 {{< /card-more >}}

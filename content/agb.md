@@ -45,7 +45,7 @@ Das Honorar ist vorab zu überweisen. Bankdaten: Bank Austria IBAN: AT42 1200 00
 
 **Familienaufstellung:**
 Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. Die [Preise](https://www.ifge.at/gruppenselbsterfahrung/preise/) entnehmen Sie bitte dem Angebot.
-Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 50,- einbehalten.
+Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
 
 Bei **Outdoor Veranstaltungen, Beratungsstunden im Freien** mit und ohne Tiere, tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) – Silvia Podlisca e.U nicht für Verletzungen oder Schäden jeglicher Art - weder bei Mensch noch bei Tier. Die Institutskatzen halten sich bei Veranstaltungen im Unterrichts-/Seminarraum in Wien auf.
@@ -106,7 +106,7 @@ Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung aus
 
 4. Garantie IFGE übernimmt keine Garantie dafür, dass der*die Kunde:in einen bestimmten wirtschaftlichen Erfolg erreicht.  
 
-5. Storno Intensivwoche Pinkafeld Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 250,- einbehalten.
+5. Storno Intensivwoche Pinkafeld Bei Absage bis zu 15 Wochen vor Seminar-/Lehrgangsbeginn entsteht keine Stornogebühr. Bei Absage bis 12 Wochen vor Beginn ist 50 % Stornogebühr zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
