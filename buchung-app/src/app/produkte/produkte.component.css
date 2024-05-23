@@ -101,6 +101,7 @@ mat-list-option:nth-child(n) {
 
 span[matlistitemtitle] {
     text-wrap: balance;
+    white-space: normal;
 }
 
 ::ng-deep app-produkte mat-list-option .mdc-list-item__end {

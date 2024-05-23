@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  api: "http://localhost:8080",  
-  // api: "https://api.ifge.cors.online/api/public/infoveranstaltung",
+  // api: "http://localhost:8080",  
+  api: "https://api.ifge.cors.online",
   // url_success: "/",
   url_success: "https://www.ifge.at/anmeldung/bestaetigung/",
   url_dsgvo: "https://www.ifge.at/datenschutz",
