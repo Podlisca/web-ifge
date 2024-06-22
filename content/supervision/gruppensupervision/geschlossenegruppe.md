@@ -20,8 +20,7 @@ og_image: "/img/supervisionsgruppe_bgld.jpg"
 
 {{< line icon="icon/gruppenselbsterfahrung_tuerkis.png" >}}
 
-## Gruppensupervision - Zwei neue Gruppen starten Januar 2024
-
+## Gruppensupervision - Eine neue Gruppe startet Januar 2025
 
 {{% floatbox %}}
 
