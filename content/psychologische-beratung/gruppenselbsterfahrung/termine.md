@@ -1,10 +1,13 @@
 ﻿---
 title: "Termine Familienaufstellung"
-menu: main
-
+menu: 
+    main:
+        parent: psychologischeberatung_gruppe
+        identifier: termine
 draft: false
-
-weight: 4
+aliases:
+    - "/gruppenselbsterfahrung/termine/"
+weight: 6
 ---
 # Termine: Familienaufstellungen mit Silvia Podlisca
 {{< slogan >}}

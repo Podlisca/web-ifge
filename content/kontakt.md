@@ -2,7 +2,7 @@
 title: "Kontakt"
 menu: main
 draft: false
-weight: 21
+weight: 4
 rich_logo: true
 ---
 
