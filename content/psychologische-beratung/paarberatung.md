@@ -41,7 +41,15 @@ rich_faq:
 
 Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Gefühlen immer auch Herausforderungen. Manches Mal werden diese als spielerisches Miteinander erlebt, gelegentlich fühlt sich ein Paar allerdings den eigenen Herausforderungen nicht mehr gewachsen. Wenn zwei Menschen versuchen, ihre eigenen Bedürfnisse und die Wünsche an sich selbst, den Partner:innen und die Beziehung unter einen gemeinsamen Hut zu bekommen, kann sich – wenn dies nicht gelingt – bei beiden das Gefühl einstellen, dass die eigenen Wünsche und Bedürfnisse auf der Strecke bleiben. <br/> <br/>Durch unpassende Kommunikation entsteht so ein Strudel aus faulen Kompromissen und Missverständnissen, der Paare häufig resignieren lässt. Oftmals haben dann beide Partner:innen das Gefühl, mehr als der jeweils andere in die Beziehung einzubringen. Dies trifft gleichermaßen auf gleichgeschlechtliche wie gegengeschlechtliche Paare zu.Indem in der Paarberatung beide in gleichem Maß gehört werden von mir darauf geachtet wird, dass die Anliegen beider Partner:innen in einer respektvollen Atmosphäre vorgebracht und verstanden werden, können Sie selbst den oftmals sehr kräfteraubenden und erschöpfenden Kreislauf Ihres persönlichen Beziehungs-streits sowie aus gegenseitigen Vorwürfen und Missverständnissen unterbrechen. 
 
-Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
+Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden. 
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+
 
 {{% /floatbox %}}
 
@@ -69,6 +77,12 @@ Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **onli
 
 
 Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
@@ -100,6 +114,14 @@ Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, 
 Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Beziehung so gestalten, wie es für Sie beide am besten dienlich ist – frei von übernommen Altlasten und (oft heimlich) schlechtem Gewissen gegenüber Ihren Eltern. 
 
 Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbsterfahrung/familienaufstellung/).
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+***
 
 {{% /floatbox %}}
 
@@ -170,7 +192,12 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/paar_tuerkis.png" >}}
 
 
+{{< line icon="icon/termine.png" >}}
 
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+***

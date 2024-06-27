@@ -33,7 +33,7 @@ og_image: "/img/system_einzel.jpg"
 Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der hypnosystemischen Beratung achte ich zum Beispiel darauf, dass Sie Ihre Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert – aber auch wohldosiert – für Ihre Lösungen einsetzen können, um neue wirksame Realitäten zu erschaffen.
 <br/>
 <br/>
-Beratungseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden.
+Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden. 
 <br/>
 <br/>
 {{< line icon="icon/termine.png" >}}

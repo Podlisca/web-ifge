@@ -72,7 +72,11 @@ In der Glaubenssatzaufstellung im Rahmen einer [psychologischen Beratung](https:
 
 {{% /floatbox %}}
 
-{{% silvia %}}
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 
 
@@ -137,3 +141,10 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{% /small  %}}
 {{% /box %}}
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+***

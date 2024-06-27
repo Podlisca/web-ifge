@@ -53,6 +53,12 @@ Mein **besonderes Augenmerk** in der Sexualberatung richte ich dabei seit Jahren
 
 Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. **Sexualität im Alter** findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
 {{< line icon="icon/sexualberatung.png" >}}
 
 
@@ -70,6 +76,12 @@ Das Ausleben einer **befriedigenden Sexualität** ist des Weiteren für Opfer vo
 Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen offen zu halten, um betroffene Klient:innen dabei zu unterstützen, selbst schauen und ihren **individuellen Lösungsweg** finden zu können. Eigene Bedürfnisse und Wünsche kennenzulernen, Erlebnisse zu verarbeiten, Freude am eigenen Körper und der **Lust (wieder) finden**, lernen die eigenen Grenzen und die des Partners/der Partnerin wahrzunehmen und zu achten, über Sexualität sprechen lernen, Respekt und Wertschätzung für sich und die Sexualpartner:innen zu entwickeln, sind häufige Themen in einer Sexualberatung.
 
 {{% /floatbox %}}
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/sexualberatung.png" >}}
 
@@ -90,6 +102,12 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 * Kinderlosigkeit
 * Verhütung
 * Sexualität und Alter
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/sexualberatung.png" >}}
 
@@ -142,5 +160,11 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 * [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/sexualberatung.png" >}}
