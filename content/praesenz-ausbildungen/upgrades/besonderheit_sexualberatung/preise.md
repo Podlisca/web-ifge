@@ -25,7 +25,7 @@ weight: 2
 
 ## Kosten
 
-* Frühbucherbonus: € 2.250,- Anzahlung € 490,-/ Restzahlung ein Monat vor Beginn (gültig bis 31.05.2024)
+* Sommeraktion: € 2.250,- Anzahlung € 490,-/ Restzahlung ein Monat vor Beginn (gültig bis 31.08.2024)
 * Einmalzahlung: € 2.490,- Anzahlung € 490,-/ Restzahlung ein Monat vor Beginn
 * Modulzahlung: € 450,- Anzahlung + 6x € 415,- pro Modul (Gesamtsumme: € 2.940,-)
 
@@ -35,6 +35,12 @@ In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. We
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
 #### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 

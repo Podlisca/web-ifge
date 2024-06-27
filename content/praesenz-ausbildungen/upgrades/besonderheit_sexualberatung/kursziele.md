@@ -41,6 +41,12 @@ Das vermittelte Wissen geht über klassische Sexualberatungsinhalte im Standardu
 
 #### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
+
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
 <br>

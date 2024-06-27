@@ -36,6 +36,12 @@ Als **zentrale Säule der psychologischen Lebens- und Sozialberatung** ist [Sexu
 
 {{% /floatbox %}}
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
+
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
@@ -50,6 +56,14 @@ Als **zentrale Säule der psychologischen Lebens- und Sozialberatung** ist [Sexu
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
 #### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
+
+
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
@@ -72,6 +86,13 @@ Die **wesentlichen Inhalte** der Zusatzausbildung konzentrieren sich dabei auf [
 
 {{% /floatbox %}}
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
+
+***
 
 {{% floatbox %}}
 {{< image src="/img/sexualberatung_paarberatung_4.jpg" title="Vieles wird in Kleingruppe erarbeitet und anschließend über die eigens für das IFGE entwickelte Software den Teilnehmern zur Verfügung gestellt. So erhalten Sie als Teilnehmer:in jederzeit Feedback von allen Trainer:innen am IFGE und können auch jederzeit eigenes Feedback – anonym oder offen – hinterlassen. " float="right" >}}
@@ -101,8 +122,14 @@ Beginnend mit **grundlegenden Aspekten der Sexualberatung**, wie dem Verständni
 **Sei dabei und erweitere dein Verständnis und deine Fähigkeiten auf dem spannenden Weg zum Love Coach.** Weitere Infos folgen. 
 
 
+{{< line icon="icon/aktion.png" >}}
 
-{{< silvia >}}
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
+
+
+
 {{% /floatbox %}}
 
 
@@ -110,6 +137,12 @@ Beginnend mit **grundlegenden Aspekten der Sexualberatung**, wie dem Verständni
 {{< line icon="icon/termine.png" >}}
 
 #### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
@@ -163,6 +196,12 @@ Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
 #### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Sommeraktion:** 
+#### **Spare bis 31.08.2024 bis zu 690 €** 
+#### **jetzt risikofrei anmelden!**
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
