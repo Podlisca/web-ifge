@@ -45,6 +45,12 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 </div> 
 
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% box blue=1 %}}
@@ -88,6 +94,12 @@ Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und ande
 {{% /small  %}}
 {{% /box %}}
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychologischen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen. " >}} 
@@ -99,10 +111,8 @@ Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir
 <br/>
 {{< silvia >}}
 
-{{< line icon="icon/beratung.png" >}}
 
-
-
+{{< line icon="icon/info_tuerkis.png" >}}
 
 
 {{% box top-align=1 %}}
@@ -127,6 +137,12 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 
 {{% /floatbox %}}
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
@@ -175,6 +191,12 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{% /small  %}}
 {{% /box %}}
 
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/beratung.png" >}}
 
