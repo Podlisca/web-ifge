@@ -47,11 +47,21 @@ Eine Krise kommt entweder **plötzlich und völlig unerwartet** auf uns zu – e
 
 Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologische-beratung/spezialisierungen/suchtberatung/) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+***
+
 Gerade in diesen selbst ausgelösten Krisen empfinden Klient:innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](/psychologische-beratung/einzelberatung/) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die Klient:innen nun **hilfreich sein kann**. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
 
 Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, das Gefühl der Überforderung zu erleben. Häufig geht diese Überforderung mit Emotionen wie Angst, Verzweiflung und Not einher. Eine Krise kann also dazu führen, dass wir uns ängstlich, panisch und völlig ohnmächtig fühlen. In vielen Fällen sorgen diese Gefühle dafür, dass Menschen erstarren und sich der Situation absolut ausgeliefert fühlen. **[Psychologische Beratung](/psychologische-beratung/einzelberatung/) hilft dabei, in diesen ausweglos scheinenden Situationen wieder handlungsfähig zu werden und persönliche Krisen meistern zu können.**
 
 {{< image src="/img/krise_bewaeltigt_2023.jpg" float="right" title="Bildbeschreibung" >}}
+
+
 
 ###  Mit jeder bewältigten Krise haben Sie eine wichtige Bewältigungsstrategie in Ihr Leben integriert.
 
@@ -59,9 +69,14 @@ Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, da
 
 Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wird klar, welche Schritte notwendig sind, um die Krise komplett zu bewältigen. Es ist, als würden die Lebensgeister völlig neu erwachen und Sie die Kraft finden, von der Ohnmacht in die Macht zu kommen, um etwas zu MACHEN.Das Erlebnis einer Krise macht uns bewusst, dass etwas getan werden muss. Wir sollten ein solches Tief als natürliche Warnreaktion betrachten. 
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+
 {{< line icon="icon/krise.png" >}}
-
-
 
 
 
@@ -78,6 +93,11 @@ Gleichzeitig erleben Klient:innen durch die oftmals recht amüsanten Verhaltensw
 Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und in Situationen, aus denen kein Ausweg möglich scheint. Sie bekommen bei mir Zeit und Raum, um in Ihrem Tempo über die Dinge zu sprechen, die Ihnen am Herzen liegen.
 {{% /floatbox %}}
 
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 
 {{< line icon="/icon/beratung.png" >}}
@@ -126,3 +146,11 @@ Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und i
 * [Suizid in der Familie](/psychologische-beratung/spezialisierungen/suizid/)
 {{% /small  %}}
 {{% /box %}}
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
+
+***
