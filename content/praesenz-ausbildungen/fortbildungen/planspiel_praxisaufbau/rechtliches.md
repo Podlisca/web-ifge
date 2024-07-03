@@ -4,7 +4,7 @@ menu:
     main:
         parent: planspiel
         identifier: planspiel_rechtliches
-draft: false
+draft: true
 weight: 4
 ---
 

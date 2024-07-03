@@ -4,7 +4,7 @@ menu:
     main:
         parent: planspiel
         identifier: planspiel_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/ifge_stpoelten.jpg"
 ---

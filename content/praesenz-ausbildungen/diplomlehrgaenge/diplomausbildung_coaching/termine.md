@@ -4,7 +4,7 @@ menu:
     main:
         parent: coaching
         identifier: coaching_termine
-draft: false
+draft: true
 weight: 3
 ---
 

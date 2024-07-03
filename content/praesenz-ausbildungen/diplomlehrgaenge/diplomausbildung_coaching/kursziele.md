@@ -4,7 +4,7 @@ menu:
     main:
         parent: coaching
         identifier: coaching_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/onlinecoaching_ziel_noe.jpg"
 ---
