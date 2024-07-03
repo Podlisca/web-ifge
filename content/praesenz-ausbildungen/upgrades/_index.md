@@ -22,7 +22,7 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 ***
 {{% kursbox %}}
 {{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode nach Silvia Podlisca" link="/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_SGF_methode/" image="/img/sgf_intro.jpg" >}}
-{{< kurs titel="Diplomausbildung: Coaching" link="/praesenz-ausbildungen/diplomlehrgaenge/diplomausbildung_coaching/" image="/img/psychologisches _coaching.jpg"color="light-red"  >}}
+
 
 {{% /kursbox %}}
 
@@ -39,8 +39,8 @@ og_image: "/img/silvia_noe_blaue_bank.jpg"
 
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
 
-{{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
+
+
 
 {{% /kursbox %}}
 
