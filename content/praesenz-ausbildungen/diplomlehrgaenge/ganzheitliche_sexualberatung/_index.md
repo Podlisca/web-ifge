@@ -72,7 +72,7 @@ Genau hier setzt die **Diplomausbildung Ganzheitliche Sexualberatungan** an. Dur
 {{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
 <br>
 
-{{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Kurs kaufen" value="4000" >}}
+{{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
 
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
@@ -109,6 +109,19 @@ Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du 
 
 
 Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung und ermöglicht gleichzeitig Flexibilität in der Wahl des Lernformats.
+
+{{< line icon="icon/beratung.png" >}}
+
+## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
+
+
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+<br>
+
+{{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
+
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
 
 ### Auszug der Ausbildungsinhalte
 
@@ -299,10 +312,13 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 {{< line icon="icon/beratung.png" >}}
 
-
 ## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
+
 
 {{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
 <br>
 
-{{< buchung lehrplaene="Diplomlehrgang Love-Coach" text="Kurs kaufen" value="4000" >}}
+{{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
+
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
