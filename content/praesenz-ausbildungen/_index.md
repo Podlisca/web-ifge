@@ -77,7 +77,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 </div> 
 
 
-
+65
 {{< silvia >}}
 
 
@@ -90,9 +90,10 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 #### Diplomausbildungen
 
 {{% kursbox %}}
+{{< kurs titel="Diplom Aufstellungslehrgang SGF®-Methode" link="/praesenz-ausbildungen/diplomlehrgaenge/aufstellungslehrgang_sgf_methode/" image="/img/sgf.jpg" >}}
+{{< kurs titel="Diplomlehrgang Ganzheitliche Sexualberatung" link="/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung/" image="/img/sex_wunsche1.jpg" color="light-red" >}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
 {{< kurs titel="Klangschalen-Practitioner" link="/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner" image="/img/onlineakademie_philo_2.jpg" color="light-red" >}}
-
 {{% /kursbox %}}
 
 ***
@@ -101,7 +102,8 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 {{% kursbox %}}
 
-{{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
+{{< kurs titel="Onlineakademie: Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
+{{< kurs titel="Präsenzausbildung: Besonderheit Sexualberatung" link="/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/" image="/img/sgf.jpg" >}}
 
 {{% /kursbox %}}
 
@@ -111,8 +113,9 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 {{% kursbox %}}
 
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
+{{< kurs titel="Die Kunst des Utilisierens" link="/praesenz-ausbildungen/fortbildungen/kunst_des_utilisierens/" image="/img/planspiel_praxisaufbau.jpg">}}
 {{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
-{{< kurs titel="Planspiel Praxisaufbau" link="/praesenz-ausbildungen/fortbildungen/planspiel_praxisaufbau/" image="/img/planspiel_praxisaufbau.jpg">}}
+
 
 {{% /kursbox %}}
 

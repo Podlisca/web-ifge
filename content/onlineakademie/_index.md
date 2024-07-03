@@ -172,9 +172,11 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 ## Verschaffen Sie sich einen Überblick über unsere Online-Kurse im 100% Online-Format
 
-
+***
 
 #### Diplomausbildungen
+
+***
 
 {{% kursbox %}}
 {{< kurs titel="Tiergestütztes Coaching" link="/onlineakademie/diplomlehrgaenge_akademie/tiergestuetztes_coaching" image="/img/onlineakademie_philo_9.jpg" >}}
@@ -182,7 +184,11 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 {{% /kursbox %}}
 
+***
+
 #### Upgrades
+
+***
 
 {{% kursbox %}}
 {{< kurs titel="Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
@@ -190,10 +196,11 @@ An der **IFGE-Online-Akademie** nutzen wir die Vorteile digitaler Formate. Gleic
 
 {{% /kursbox %}}
 
-
+***
 
 #### FortbildungenSGF Methode®
 
+***
 {{% kursbox %}}
 {{< kurs titel="Familienaufstellung - SGF Methode® - Lösungssätze" link="/onlineakademie/fortbildungen_akademie/system_loesungssaetze" image="/img/onlineakademie_philo_6.jpg" color="light-red" >}}
 {{< kurs titel="Ganzheitlich gesund - Grundlagen Psychosomatik" link="/onlineakademie/fortbildungen_akademie/psychosomatik" image="/img/onlineakademie_philo_4.jpg" >}}

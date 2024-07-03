@@ -4,7 +4,7 @@ menu:
     main:
         parent: fortb
         identifier: planspiel
-draft: false
+draft: true 
 weight: 10
 aliases: 
     - "/fortbildungen/planspiel_praxisaufbau/"

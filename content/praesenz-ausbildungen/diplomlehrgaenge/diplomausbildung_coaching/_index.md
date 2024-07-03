@@ -4,13 +4,13 @@ menu:
     main:
         parent: diplomlehrgaenge
         identifier: coaching
-draft: false
+draft: true
 weight: 4
 aliases: 
     - "/diplomlehrgaenge/diplomausbildung_coaching/"
 description: "Egal ob Sie MitarbeiterIn in einem Unternehmen sind oder Führungskraft – die Inhalte der Coaching-Ausbildung, können Ihnen persönlich und in Ihrer Tätigkeit einen Vorteil bringen und zielen darauf ab, dass Sie zukünftig auch Coachees in Prozessen begleiten können!"
 og_image: "/img/silvia_start.jpg"
-rich_kurs: true
+rich_kurs: false
 ---
 
 # Diplomlehrgang: Coaching
