@@ -66,7 +66,7 @@ Unter der Leitung von [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/) w
 
 {{% small %}}
 
-Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 22 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
+Silvia Podlisca verfügt neben ihrer herzlichen und kompetenten Ausbildungsmethode über Jahrzehnte lange Erfahrung in der Lebens- und Sozialberatung sowie in der [systemischen Familienaufstellung](https://www.ifge.at/psychologische-beratung/familienaufstellungen/) und entwickelte nach über 24 Jahren Aufstellungserfahrung ihre eigene Aufstellungsmethode.
 
 Eine Methode, welche nicht nur kollektive Dynamiken, sondern auch individuelles, höchst persönliches Erleben berücksichtigt und damit die Erarbeitung ganzheitlicher Lösungsansätze ermöglicht. Eine Methode mit Herz, Weitblick und Wertschätzung für Familien – wo jeder Mensch das gleiche Recht hat gesehen, gehört und anerkannt zu werden.	
 
@@ -77,7 +77,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 </div> 
 
 
-65
+
 {{< silvia >}}
 
 
@@ -128,8 +128,8 @@ Wenn Sie sich auch für Online-Ausbildungen interessieren, werfen Sie doch bitte
 {{< line icon="icon/info_tuerkis.png" >}}
 
 {{% box more=1 blue=1 %}}
-{{< card-more link="/about/institut/" icon="icon/3_standorte_schwarz.png"  title="Berufsbegleitendes Lernen an 3 Standorten in Wien, Nö & Bgld" >}}
-Für Schüler:innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschätzenden und offenen Umgebung - an 3 Standorten (Wien, Burgenland und Niederösterreich) - lernen können, in der auf die Stärken jedes Einzelnen Rücksicht genommen und jede/r individuell gefördert wird. Die gesammelte Kompetenz eines breiten Referentenpools vermittelt Wissen am IFGE spannend, tiefgreifend und praxisorientiert, sodass sich Fachwissen, Auftreten und praktische Erfahrung letztlich intensiv festigen. Damit ermögliche ich es, dass IFGE-Absolvent:innen nicht nur fachlich auf höchstem Niveau ausgebildet sind, sondern von meinem erfahrenen, kompetenten Expertenteam auch jene Handwerkzeuge mitbekommen, die für den erfolgreichen Start in der Lebens- und Sozialberatung – psychologische Beratung – oder Supervision notwendig sind. Kurs- und Ortshopping: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien, Burgenland oder Niederösterreich nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 3 Gehminuten vom Hauptbahnhof entfernt.
+{{< card-more link="/about/institut/" icon="icon/3_standorte_schwarz.png"  title="Berufsbegleitendes Lernen an 2 Standorten in Wien & Bgld" >}}
+Für Schüler:innen am IFGE bedeutet dieser Zugang, dass sie in einer wertschätzenden und offenen Umgebung - an 2 Standorten (Wien & Burgenland) - lernen können, in der auf die Stärken jedes Einzelnen Rücksicht genommen und jede/r individuell gefördert wird. Die gesammelte Kompetenz eines breiten Referentenpools vermittelt Wissen am IFGE spannend, tiefgreifend und praxisorientiert, sodass sich Fachwissen, Auftreten und praktische Erfahrung letztlich intensiv festigen. Damit ermögliche ich es, dass IFGE-Absolvent:innen nicht nur fachlich auf höchstem Niveau ausgebildet sind, sondern von meinem erfahrenen, kompetenten Expertenteam auch jene Handwerkzeuge mitbekommen, die für den erfolgreichen Start in der Lebens- und Sozialberatung – psychologische Beratung – oder Supervision notwendig sind. Kurs- und Ortshopping: erleichtert Ihnen zudem Ihre private bzw. berufliche Terminplanung und bietet die Möglichkeit Termine an parallel geführten Kursen in Wien und Burgenland nachzuholen beziehungsweise schon vorab zu besuchen. Wien - Pinkafeld verfügt über eine ausgezeichnete direkte Busverbindung. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. Die Zweigstelle Niederösterreich ist 3 Gehminuten vom Hauptbahnhof entfernt.
 {{< /card-more >}}
 
 {{< card-more link="/about/institut/" icon="icon/entwicklungspotential.png" title="Großartiges Entwicklungspotenzial am IFGE" >}}
@@ -141,49 +141,7 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 {{< /card-more >}}
 {{% /box %}}
 
- {{< line icon="icon/zertifikat.png" >}}
 
-<div class="box video">
-{{% small %}}
-
-### IFGE Software - Lehrgang und Praktikum leicht im Überblick
-{{< youtube hwxiCb0R620 >}}
-{{% /small %}}
-{{% small %}}
-
-### LSB Ausbildungen - mittlerweile an 3 Standorten
-{{< youtube R0Iyo_175nY >}}
-{{% /small %}}
-{{% small %}}
-
-### Hunde & Katzen in der psychologischen Beratung
-{{< youtube cPN03jAzqJQ >}}
-{{% /small %}}
-</div> 
-
-
-{{< line icon="icon/raueme.png" >}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
-
-
-#### Wien
-{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
-
-{{% /small  %}}
-{{% /box %}}
 
 {{< line icon="icon/bus.png" >}}
 
@@ -193,14 +151,6 @@ Im Laufe der Unterrichtstätigkeit hat sich  gezeigt, dass diese konstante Varia
 **Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
 
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
-
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
-
-Die Ausbildung ist nur komplett buchbar. 
-
-
-Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
 {{% /small  %}}
 {{% /box  %}}

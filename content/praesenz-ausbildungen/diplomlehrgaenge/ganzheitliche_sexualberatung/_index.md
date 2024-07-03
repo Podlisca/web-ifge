@@ -110,7 +110,7 @@ auf, um eine vertrauensvolle Beratungsbeziehung zu fördern.
 ## Kursaufbau & Lehrinhalte
 
 ### WAHLMÖGLICHKEIT FÜR DAS BASISMODUL:
-Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du kannst wählen, ob du es in Präsenz, online oder als eine Kombination aus beiden Optionen absolvieren möchtest. Diese Wahlmöglichkeit ermöglicht es dir, die Ausbildung an deinen persönlichen Zeitplan und Lernstil anzupassen.
+Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du kannst wählen, ob du es in **Präsenz ODER online** absolvieren möchtest. Diese Wahlmöglichkeit ermöglicht es dir, die Ausbildung an deinen persönlichen Zeitplan und Lernstil anzupassen.
 
 * **[Präsenzmodul buchen](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/):** [Hier](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/) kannst du das **erste Basismodul** in Präsenz buchen: **Start am 20.09.2024.** 
 * **[Onlinemodul buchen:](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**
@@ -290,13 +290,19 @@ Erst nach Zahlungseingang der Anzahlung ist der Platz für dich fix reserviert.
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zulassung & Zahlung" >}}
-**Das Basis Modul ist für alle offen**. 
+**Basis Modul:** Dieses Modul steht allen offen. Du kannst wählen, ob du es in **Präsenz oder online** am IFGE absolvieren möchtest.
 
-Für die Module 1 bis 4 wird ein Nachweis über 100 Ausbildungsstunden im Bereich der Sexualberatung benötigt. Wenn du die LSB-Ausbildung am IFGE absolviert hast oder den Kurs „Besonderheiten der Sexualberatung“ (egal ob online oder in Präsenz) am IFGE besucht hast, kannst du direkt mit Modul 1 beginnen. Die Module 1 bis 4 können nur komplett gebucht werden.
-<br/>
+**Module 1 bis 4:** Um mit Modul 1 zu beginnen, benötigst du einen Nachweis über 100 Ausbildungsstunden im Bereich der Sexualberatung. Dies kann auf drei Wegen erreicht werden:
 
-Nach Anmeldung ist die Anzahlung, sofort auf das Konto:
+* Durch Absolvierung der LSB-Ausbildung am IFGE.<br/>
+* Durch Teilnahme am Kurs „Besonderheiten der Sexualberatung“ am IFGE, unabhängig davon, ob der Kurs online oder in Präsenz besucht wurde.<br/>
+* Ausbildungsnachweis über 100 Stunden in der Methode der Sexualberatung<br/>
 
+**Buchung der Module 1 bis 4:** Diese Module müssen komplett gebucht werden.
+
+### Zahlung
+
+Nach Anmeldung ist die (An)Zahlung, sofort auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
 Bank Austria
@@ -306,15 +312,22 @@ BIC: BKAUATWW
 zu überweisen. Bitte als Verwendungszweck "Diplomausbildung Ganzheitliche Sexualberatung + Deinen Namen" angeben.
 
 
-Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ein Monat vor geplantem Kursbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Kursbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
+Nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ein Monat vor geplantem Kursbeginn. Bei Absage bis zu 15 Wochen vor dem geplanten Kursbeginn entsteht keine Stornogebühr. Bei Absage bis 10 Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 {{< /card-more >}}
 
 
 {{< card-more icon="icon/storno.png" title="AGB" >}}
 
-Die Ausbildung kann nur als Ganzes gebucht werden.
- 
-Bei einem Abbruch oder Fernbleiben werden keine Kosten zurückerstattet oder erlassen. Solltest du Unterrichtstage verpassen, hast du die Möglichkeit, bis zu drei Unterrichtstage kostenlos am IFGE nachzuholen, vorausgesetzt, es werden weitere Kurstermine angeboten. Das IFGE ist nicht verpflichtet, zusätzliche Kurse anzubieten, ist jedoch bemüht, Ersatztage für dich zu finden. Jedes weiter Fehlen wird in Rechnung gestellt (pro Kurstag 196,-). Bei Krankheit der Kursleitung kann es zu Terminverschiebungen oder Änderungen der Trainer kommen. Die Schweigepflicht bezüglich der privaten Angelegenheiten der Kursteilnehmerinnen und Kursteilnehmer ist zu wahren.
+**Kompensation für Fehltage:** Um deine 100%ige Anwesenheit trotz Fehlzeiten zu gewährleisten, kannst du entweder bis zu drei Tage kostenlos am IFGE nachholen ODER für jeden gefehlten Tag eine dreiseitige Kompensationsarbeit schreiben. Eine Kombination beider Optionen ist nicht möglich. Es dürfen maximal drei Tage gefehlt werden.
+
+
+**Nachholen von Unterrichtstagen:** Wenn du dich entscheidest, Tage nachzuholen, hast du die Möglichkeit, bis zu drei Unterrichtstage kostenlos nachzuholen, vorausgesetzt, dass weitere Kurstermine angeboten werden. Das IFGE ist nicht verpflichtet, zusätzliche Kurse anzubieten, ist jedoch bemüht, Ersatztage für dich zu finden.
+
+**Kosten bei weiterem Fehlen:** Solltest du über die drei nachholbaren Tage hinaus fehlen oder dich gegen das Nachholen entscheiden und keine Kompensationsarbeiten einreichen, wird jedes weitere Fehlen in Rechnung gestellt. Der Preis pro zusätzlich verpasstem Kurstag beträgt 196 Euro.
+
+**Rückerstattung bei Abbruch oder Fernbleiben:** Beachte, dass bei einem Abbruch oder Fernbleiben von den Modulen keine Kosten zurückerstattet oder erlassen werden.
+
+Diese Regelungen stellen sicher, dass du flexibel bist, um deine Ausbildung abzuschließen, aber auch, dass du die notwendige Verpflichtung und Präsenz zeigst, die für den erfolgreichen Abschluss der Module erforderlich sind.
 
 Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **300 Weiterbildungsstunden** bestätigt. 
 
