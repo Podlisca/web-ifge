@@ -168,7 +168,7 @@ Techniken, um Paaren zu helfen, über sexuelle Bedürfnisse und Wünsche offen z
 Ansätze zur Stärkung der emotionalen und physischen Nähe zwischen Partnern.
 * **Umgang mit Dysfunktionen:**<br/>
 Identifikation und Beratung bei sexuellen Funktionsstörungen.
-* **FRollenspiele und Szenarioarbeit:**<br/>
+* **Rollenspiele und Szenarioarbeit:**<br/>
 Anwendung von Rollenspielen zur Simulation und Lösung realer Probleme in der Partnerschaft.
 * **Resilienz in Beziehungen:**<br/>
 Entwicklung von Strategien zur Überwindung von Krisen und Konflikten in sexuellen Beziehungen.
