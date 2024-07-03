@@ -8,7 +8,7 @@ draft: false
 weight: 1
 description: "Erforschen Sie menschliche Sexualität in unserer Diplomausbildung. Lernen Sie, sensible Themen professionell zu beraten, und erweitern Sie Ihre Kompetenzen durch praktische Workshops. Flexibles Lernen mit Präsenz- und Online-Optionen verfügbar. "
 og_title: "Inhalt"
-og_image: "/img/intro_sex.jpg"
+og_image: "/img/sex_wunsche1.jpg"
 rich_kurs: true
 rich_faq:
     -   frage: "Was lernt man in der ganzheitlichen Sexualberatung am IFGE?"
@@ -205,7 +205,7 @@ Analyse, wie kulturelle Hintergründe Sexualverhalten und -wahrnehmungen beeinfl
 Entwicklung kultursensibler Beratungsstrategien, die die Vielfalt der Klient:innen respektieren.
 * **Interkulturelle Kommunikation:**<br/>
 Effektive Kommunikationstechniken zur Überbrückung kultureller Unterschiede.
-* **Ethik und Respekt in der Beratun:**<br/>
+* **Ethik und Respekt in der Beratung:**<br/>
 Fokus auf ethisches Handeln und Respekt gegenüber allen Kulturen.
 * **Case Studies und Beispiele:**<br/>
 Lernen anhand realer Fälle, um theoretisches Wissen praktisch anzuwenden.
@@ -235,7 +235,7 @@ Hier erwarten dich auch 2 spannende Exkursionen in das Reich/Welt BDSM, die dir 
 {{< card-more  title="Prüfungen" >}}
 
 Jedes Modul schließt mit einer eigenen Prüfung ab. Nach bestandener Prüfung erhältst Du ein IFGE Zertifikat.
-Alle Teilnehmer:innen erhalten am Ende der Diplomausbildung eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **300 Weiterbildungsstunden** bestätigt. 
+Alle Teilnehmer:innen erhalten am Ende der Diplomausbildung eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater:innen anerkannt. Für deine fachliche Fortbildung werden dir **300 Weiterbildungsstunden** bestätigt. 
 
 {{< /card-more >}}
 {{% /box %}}
