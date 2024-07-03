@@ -62,14 +62,14 @@ silvia.podlisca@ifge.at
 {{% /small %}}
 {{% small %}}
 ### Buchhaltung
-Antje Stimpfl<br/>
-+43 676 591 82 20<br/>
+Miriam Geiger<br/>
+Anfragen bitte per Mail<br/>
 buchhaltung@ifge.at
 
 {{% /small %}}
 {{% small %}}
 ### Büro
-Maureen Brunner<br/>
+Miriam Geiger<br/>
 Anfragen bitte per Mail<br/>
 office@ifge.at 
 {{% /small %}}

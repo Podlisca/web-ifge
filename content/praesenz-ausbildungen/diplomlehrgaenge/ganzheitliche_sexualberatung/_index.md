@@ -74,6 +74,9 @@ Genau hier setzt die **Diplomausbildung Ganzheitliche Sexualberatungan** an. Dur
 
 {{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
 
+**Deine weiteren Trainerinnen:** [Margit Knor](/about/referenten-lsb/#margit-knor) / [Alexandra Arend](/about/referenten-lsb/#mag-alexandra-arend)
+/ [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
+ / Maureen Brunner
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
@@ -95,8 +98,14 @@ Erhalte das Rüstzeug, um schwierige und tabuisierte Aspekte der Sexualität off
 Baue ein tiefgreifendes Verständnis für die emotionalen und psychologischen Aspekte der Sexualität deiner Klient
 auf, um eine vertrauensvolle Beratungsbeziehung zu fördern.
 
-{{< line icon="icon/paar_sexualberatung.png" >}}
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Einführungspreis** 
+#### **Spare bis 31.12.2024 bis zu 490 €** 
+#### **jetzt risikofrei anmelden!**
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
 
 ## Kursaufbau & Lehrinhalte
 
@@ -119,6 +128,10 @@ Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung un
 <br>
 
 {{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
+
+**Deine weiteren Trainerinnen:** [Margit Knor](/about/referenten-lsb/#margit-knor) / [Alexandra Arend](/about/referenten-lsb/#mag-alexandra-arend)
+/ [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
+ / Maureen Brunner
 
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
@@ -301,7 +314,7 @@ Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ei
 
 Die Ausbildung kann nur als Ganzes gebucht werden.
  
-Bei einem Abbruch oder Fernbleiben werden keine Kosten zurückerstattet oder erlassen. Solltest du Unterrichtstage verpassen, hast du die Möglichkeit, bis zu drei Unterrichtstage kostenlos am IFGE nachzuholen, vorausgesetzt, es werden weitere Kurstermine angeboten. Das IFGE ist nicht verpflichtet, zusätzliche Kurse anzubieten, ist jedoch bemüht, Ersatztage für dich zu finden. Bei Krankheit der Kursleitung kann es zu Terminverschiebungen oder Änderungen der Trainer kommen. Die Schweigepflicht bezüglich der privaten Angelegenheiten der Kursteilnehmerinnen und Kursteilnehmer ist zu wahren.
+Bei einem Abbruch oder Fernbleiben werden keine Kosten zurückerstattet oder erlassen. Solltest du Unterrichtstage verpassen, hast du die Möglichkeit, bis zu drei Unterrichtstage kostenlos am IFGE nachzuholen, vorausgesetzt, es werden weitere Kurstermine angeboten. Das IFGE ist nicht verpflichtet, zusätzliche Kurse anzubieten, ist jedoch bemüht, Ersatztage für dich zu finden. Jedes weiter Fehlen wird in Rechnung gestellt (pro Kurstag 196,-). Bei Krankheit der Kursleitung kann es zu Terminverschiebungen oder Änderungen der Trainer kommen. Die Schweigepflicht bezüglich der privaten Angelegenheiten der Kursteilnehmerinnen und Kursteilnehmer ist zu wahren.
 
 Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **300 Weiterbildungsstunden** bestätigt. 
 
@@ -320,5 +333,8 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 {{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
 
-
+**Deine weiteren Trainerinnen:** [Margit Knor](/about/referenten-lsb/#margit-knor) / [Alexandra Arend](/about/referenten-lsb/#mag-alexandra-arend)
+/ [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
+ / Maureen Brunner
+ 
 {{< line icon="icon/paar_sexualberatung.png" >}}
