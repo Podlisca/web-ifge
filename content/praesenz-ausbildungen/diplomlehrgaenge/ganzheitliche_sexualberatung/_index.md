@@ -6,19 +6,19 @@ menu:
         identifier: ganzheitliche_sexualberatung
 draft: false
 weight: 1
-description: "Ihre Diplomausbildung im Präsenz-Format im Bereich Liebe & Partnerschaft: Ganzheitliche Sexualberatung"
+description: "Erforschen Sie menschliche Sexualität in unserer Diplomausbildung. Lernen Sie, sensible Themen professionell zu beraten, und erweitern Sie Ihre Kompetenzen durch praktische Workshops. Flexibles Lernen mit Präsenz- und Online-Optionen verfügbar. "
 og_title: "Inhalt"
 og_image: "/img/intro_sex.jpg"
 rich_kurs: true
 rich_faq:
-    -   frage: "Was macht ein Love-Coach?"
-        antwort: "Ein Love-Coach arbeitet z. B. mit Paaren."
+    -   frage: "Was lernt man in der ganzheitlichen Sexualberatung am IFGE?"
+        antwort: "In der ganzheitlichen Sexualberatung am IFGE lernt man, sexuelle Vielfalt zu erkennen und zu verstehen, professionelle Beratungsmethoden anzuwenden und tabuisierte Themen sensibel anzusprechen. Die Ausbildung kombiniert theoretisches Wissen mit praktischen Workshops."
 
 
 ---
 
 # Diplomlehrgang
-## Ganzheitliche Sexualberatung TEst
+## Ganzheitliche Sexualberatung 
 {{< slogan >}}
 
 
