@@ -115,28 +115,28 @@ Diese **Interventionstechniken** sind gerade in der Arbeit mit [Opfern sexueller
 
 Du hast Freude an der **Sexualberatung** gefunden und möchtest dein **Wissen und deine Fähigkeiten** weiter vertiefen? 
 
-Unsere **Diplomausbildung zum Love Coach**, bestehend aus insgesamt dem Basismodul und  4 Aufbaumodulen, ist genau darauf ausgelegt, dich noch vertiefender in den Bereichen **Sexual- und Sexual-Paarberatung** zu qualifizieren. 
+Unsere **Diplomausbildung Ganzheitliche Sexualberatung**, bestehend aus insgesamt dem Basismodul und  4 Aufbaumodulen, ist genau darauf ausgelegt, dich noch vertiefender in den Bereichen **Sexual- und Sexual-Paarberatung** zu qualifizieren. 
 
 Beginnend mit **grundlegenden Aspekten der Sexualberatung**, wie dem Verständnis von sexuellen Identitäten und Orientierungen sowie Methoden zur Lustgewinnung, über die Feinheiten der Paarberatung und den Umgang mit **sexueller Gesundheit**, bis hin zu spezialisierten Themen wie der **Kultursensible Sexualberatung** und der Auseinandersetzung mit **abweichenden Neigungen** – diese Ausbildung bereitet dich darauf vor, ein empathischer und effektiver Begleiter für die vielfältigen Bedürfnisse deiner Klienten zu sein.
 
-**Sei dabei und erweitere dein Verständnis und deine Fähigkeiten auf dem spannenden Weg zum Love Coach.** Weitere Infos folgen. 
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
+## Kursaufbau & Lehrinhalte: Diplomausbildung Ganzheitliche Sexualberatung
+
+### WAHLMÖGLICHKEIT FÜR DAS BASISMODUL:
+Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du kannst wählen, ob du es in **Präsenz ODER online** absolvieren möchtest. Diese Wahlmöglichkeit ermöglicht es dir, die Ausbildung an deinen persönlichen Zeitplan und Lernstil anzupassen.
+
+* **[Präsenzmodul buchen](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/):** [Hier](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/) kannst du das **erste Basismodul** in Präsenz buchen: **Start am 20.09.2024.** 
+* **[Onlinemodul buchen:](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**
+[Hier](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) kannst du das **erste Basismodul** online buchen: **Start sofort möglich.** 
 
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Sommeraktion:** 
-#### **Spare bis 31.08.2024 bis zu 690 €** 
-#### **jetzt risikofrei anmelden!**
-
+Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung und ermöglicht gleichzeitig Flexibilität in der Wahl des Lernformats.
 
 
 {{% /floatbox %}}
 
-
-
-{{< line icon="icon/termine.png" >}}
-
-#### Sicherer dir deinen Ausbildungsplatz für "Besonderheit Sexualberatung"
 
 {{< line icon="icon/aktion.png" >}}
 
