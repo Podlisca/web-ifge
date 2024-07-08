@@ -111,7 +111,7 @@ Diese **Interventionstechniken** sind gerade in der Arbeit mit [Opfern sexueller
 
 {{% floatbox %}}
 
-{{< image src="/img/love_coach.png" float="left" title="Ausbildung zum Love Coach." >}} 
+{{< image src="/img/love_coach1.png" float="left" title="Ausbildung zum Love Coach." >}} 
 
 Du hast Freude an der **Sexualberatung** gefunden und möchtest dein **Wissen und deine Fähigkeiten** weiter vertiefen? 
 
