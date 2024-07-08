@@ -64,6 +64,23 @@ Während romantische Erotik zumindest teilweise toleriert und auch kommuniziert 
 
 Genau hier setzt die **Diplomausbildung Ganzheitliche Sexualberatungan** an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen bewusst aufgegriffen werden können.
 
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
+## Kursaufbau & Lehrinhalte
+
+### WAHLMÖGLICHKEIT FÜR DAS BASISMODUL:
+Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du kannst wählen, ob du es in **Präsenz ODER online** absolvieren möchtest. Diese Wahlmöglichkeit ermöglicht es dir, die Ausbildung an deinen persönlichen Zeitplan und Lernstil anzupassen.
+
+* **[Präsenzmodul buchen](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/):** [Hier](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/) kannst du das **erste Basismodul** in Präsenz buchen: **Start am 20.09.2024.** 
+* **[Onlinemodul buchen:](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**
+[Hier](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) kannst du das **erste Basismodul** online buchen: **Start sofort möglich.** 
+
+
+Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung und ermöglicht gleichzeitig Flexibilität in der Wahl des Lernformats.
+
+{{< line icon="icon/beratung.png" >}}
+
+
 {{< line icon="icon/beratung.png" >}}
 
 ## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
