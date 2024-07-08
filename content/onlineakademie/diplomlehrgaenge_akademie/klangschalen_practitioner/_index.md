@@ -133,7 +133,8 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-
++ **Neu: Abo Preis - 3 Jahre** <br/>
+Gesamtbetrag: 3.598,00 € (Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
 
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
@@ -143,6 +144,7 @@ Zahlung nach Anmeldung. <br/>
 * **Ratenzahlung: € 3.290,-** <br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>
 3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
+
 
 
 * **Optional - Intensivtraining in Pinkafeld**  
