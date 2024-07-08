@@ -111,7 +111,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
 * **Neu: Abo Preis - 3 Jahre** <br/>
-Gesamtbetrag: 2.169,00 € (Anzahlung: 90,00 €, 36 Teilzahlungen a 72,22 €)
+Gesamtbetrag: 2.690,00 € (Anzahlung: 90,00 €, 36 Teilzahlungen a 72,22 €)
 
 * **Ausbildungskosten:€ 1.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
