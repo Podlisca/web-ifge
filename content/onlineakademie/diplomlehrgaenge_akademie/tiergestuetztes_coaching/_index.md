@@ -44,6 +44,9 @@ rich_faq:
 {{< line icon="icon/tiere.png" >}}
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
+#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
+
+
 
 ***
 

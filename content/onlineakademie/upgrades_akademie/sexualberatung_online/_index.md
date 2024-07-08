@@ -25,7 +25,7 @@ rich_faq:
 {{< line icon="icon/beratung.png" >}}
 
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
-
+#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
 
 ***

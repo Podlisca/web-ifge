@@ -29,14 +29,18 @@ rich_faq:
 
 ---
 
-# Onlineausbildung: Klangschalen-Practitioner
-
-
-{{< line icon="icon/klangschale.png">}}
+# Onlineausbildung: 
+# Klangschalen-Practitioner
 
 {{< slogan >}}
 
+{{< line icon="icon/klangschale.png">}}
+
+## Schwingungen auslösen. Wirkung erzielen. 
+#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
+
 *** 
+
 
 
 

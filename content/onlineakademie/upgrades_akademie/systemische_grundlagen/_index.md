@@ -27,7 +27,7 @@ aliases:
 {{< line icon="icon/aufstellung.png" >}}
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
-
+#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
 ***
 
