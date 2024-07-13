@@ -78,7 +78,6 @@ Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du 
 
 Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung und ermöglicht gleichzeitig Flexibilität in der Wahl des Lernformats.
 
-{{< line icon="icon/beratung.png" >}}
 
 
 {{< line icon="icon/beratung.png" >}}
