@@ -21,7 +21,7 @@ weight:
 {{% box blue=1 %}}
 {{% grid %}}
 
-Einzelstunde (50 min)
+Einzelstunde (50 Minuten)
 
 Preis: € 105,-
 
@@ -33,15 +33,19 @@ Paarberatung mit Silvia Podlisca und Martin Bransky
 
 Preis: € 250,-
 
+Coaching (50 Minuten)
+
+Preis: € 120,-
+
 Wellness (30 Minuten Klangschalenmassage)
 
 Preis: € 60,-
 
-Selbsterfahrungsgruppe (2h)
+Selbsterfahrungsgruppe (2 Stunden)
 
 Preis: € 35,- pro Abend
 
-Selbsterfahrungsgruppe (3h)
+Selbsterfahrungsgruppe (3 Stunden)
 
 gesamt für alle Termine: € 440,-
 
@@ -49,19 +53,19 @@ Einzelsupervision
 
 Preis: € 120,-
 
-Supervisions – Jahresgruppe (4h)    
+Supervisions – Jahresgruppe (4 Stunden)    
 
 Preis: € 80,- pro Abend
 
-Supervisions – Jahresgruppe (4,5h)    
+Supervisions – Jahresgruppe (4,5 Stunden)    
 
 Preis: € 90,- pro Abend
 
-offene Supervisionsgruppe  (4h)    
+offene Supervisionsgruppe  (4 Stunden)    
 
 Preis: € 80,- pro Abend
 
-offene Supervisionsgruppe  (8h)    
+offene Supervisionsgruppe  (8 Stunden)    
 
 Preis: € 160,- pro Abend
 
