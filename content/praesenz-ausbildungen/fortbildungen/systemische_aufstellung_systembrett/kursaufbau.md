@@ -32,9 +32,6 @@ Familien-, Struktur- & Organisationsaufstellungen im Einzelsetting.
 **32 Ausbildungsstunden mit mind. 8 max. 14 Teilnehmer:innen**
 
 
-
-*
-
 ## Seminarhinhalte
 
 {{% box more=1 %}}

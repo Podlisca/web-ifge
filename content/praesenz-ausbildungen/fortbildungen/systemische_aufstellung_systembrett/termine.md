@@ -28,7 +28,7 @@ weight: 3
 
 
 
-{{< buchung lehrplaene="Fortbildung: LSB Upgrade Aufstellungsarbeit" text="Kurs kaufen" value="420" >}}
+{{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
 
 {{< line icon="icon/bus.png" >}}
 
