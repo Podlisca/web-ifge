@@ -51,7 +51,7 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Restzahlung 4 W
 ## Allgemeine Geschäftsbedingungen
 
 
-Die Ausbildung ist nur komplett zu buchen. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
+Die Ausbildung ist nur komplett zu buchen. Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen.
 
 ***
 

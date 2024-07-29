@@ -63,7 +63,7 @@ Erst nach Zahlungseingang ist der Platz für Sie fix reserviert. Bei Absage bis 
 {{% small  %}}
 ## Allgemeine Geschäftsbedingungen
 
-Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
+Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen.
 
 Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Das IFGE weißt ausdrücklich darauf hin, dass es sich hier um einzelne, zugelassene Module für die Ausbildung zur Dipl. Lebens- uns Sozialberaterin – psychologischen Beraterin / zum Lebens- und Sozialberater – psychologischen Berater handelt, und keine Vollausbildung ist. 
 

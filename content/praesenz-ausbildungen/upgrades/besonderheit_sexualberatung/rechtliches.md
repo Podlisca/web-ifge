@@ -69,7 +69,7 @@ Die Ausbildung ist nur komplett zu buchen und innerhalb von zwei Jahren (4 Semes
 
 Bei Zahlungsverzug von mehr als 10 Tagen bei Einmal- oder Modulzahlung wird automatisch der gesamte offene Restbetrag fällig. Der Lehrgang kann erst dann weiter besucht werden, wenn der gesamte Kursbetrag bezahlt ist. Jeglicher Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien.
 
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen.
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen.
 
 
 {{< line icon="icon/paar_sexualberatung.png" >}}

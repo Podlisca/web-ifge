@@ -110,7 +110,7 @@ Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung aus
 
 Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen.
 
-Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer*innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
+Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer:innen ist anzuerkennen. Etwaiger Zahlungsverzug wird dem gerichtlichen Mahnwesen zugeführt. Gerichtsstand ist das zuständige Gericht in Wien. Bei Abbruch oder Fernbleiben werden keine Kosten rückerstattet oder erlassen.
 
 6. Gerichtstand: Wien, Österreich
 
