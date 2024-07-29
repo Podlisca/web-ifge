@@ -81,18 +81,21 @@ office@ifge.at
 {{% box %}}
 
 {{% small %}}
-{{< slider content="/img/redezeit/redezeit_logo.png,/img/redezeit/redezeit_1.jpg,/img//redezeit/redezeit_2.jpg,/img//redezeit/redezeit_3.jpg" >}}
+{{< slider content="/img/knor_2.jpg,/img/knor_1.jpg,/img/margit_knor_noe.jpg" >}}
+
 {{% /small %}}
 
 {{% large %}}
-### Weiterer Ausbildungstandort in Baden bei Wien
 
-**Redezeit e.U.**
 
-Kaiser Franz Joseph-Ring 23<br>
-2500 Baden 
+**Margit Knor - Praxis für Psycho­logische Beratung**<br>
+Akad. Psychosoziale Beraterin
 
-[www.redezeit.at](https://www.redezeit.at)
+Eduard Hartmann Platz 2/1/8<br>
+2361 Laxenburg
+
++43 (0) 670 2055525<br>
+[www.margitknor.at](https://www.margitknor.at/)
 {{% /large %}}
 
 
