@@ -25,7 +25,7 @@ weight: 1
 
 ## Seminarhinhalte
 
-240 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+240 Ausbildungsstunden mit max. 14 Teilnehmer:innen
 
 * Wissenswertes über Klangschalen (Herkunft, Herstellung etc.)
 * Umgang mit Klangschalen

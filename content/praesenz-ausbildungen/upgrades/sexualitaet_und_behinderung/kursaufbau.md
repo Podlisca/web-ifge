@@ -25,7 +25,7 @@ weight: 1
 
 
 ## AUFBAU DES LEHRGANGS: Sexualität, Alter und Behinderung
-100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+100 Ausbildungsstunden mit max. 14 Teilnehmer:innen
 
 Die Thementage sind begleitet von interaktiven Methoden, Tools und Gruppenarbeiten sowie praxisbezogene Fallbeispielen, zahlreichen
 Literaturempfehlungen und Ideen zur Interaktion.

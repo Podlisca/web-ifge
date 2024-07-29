@@ -26,7 +26,7 @@ weight: 1
 
 
 ## AUFBAU DES LEHRGANGS SUPERVISION
-100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+100 Ausbildungsstunden mit max. 14 Teilnehmer:innen
 
 {{% box top-align=1 %}}
 {{% small %}}

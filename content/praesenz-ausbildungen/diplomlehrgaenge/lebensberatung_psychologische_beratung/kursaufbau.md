@@ -112,7 +112,7 @@ Nutzen Sie jetzt noch die Chance zum Beginn der Ausbildung unter dem aktuell gü
 * 16 Stunden Betriebswirtschaft
 * 16 Stunden Berufsethik und Berufsidentität
 
-584 Ausbildungsstunden auf 5 Semester mit **max. 12 Teilnehmer*innen.**
+584 Ausbildungsstunden auf 5 Semester mit **max. 14 Teilnehmer:innen.**
 
 
 {{< line icon="icon/beratung.png" >}}

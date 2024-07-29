@@ -25,7 +25,7 @@ weight: 1
 {{< line icon="icon/aufstellung.png" >}}
 
 AUFBAU DES LEHRGANGS<p>
-100 Ausbildungsstunden mit max. 12 Teilnehmer*innen
+100 Ausbildungsstunden mit max. 14 Teilnehmer:innen
 
 ## Seminarhinhalte
 
