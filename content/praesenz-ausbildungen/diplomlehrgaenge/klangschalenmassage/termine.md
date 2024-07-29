@@ -111,7 +111,7 @@ Die Ausbildung findet zu **100% in Präsenz** statt. Selbstverständlich werden 
 
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
+
 
 Die Ausbildung ist nur komplett buchbar. 
 

@@ -93,7 +93,7 @@ rich_faq:
 
 Die Vermittlung der Lehrinhalte erfolgt anhand von Praxisfällen. 100%iges praxisorientiertes Erarbeiten des Lernstoffes anhand von Aufstellungen und Fallbesprechungen. 
 
-240 Ausbildungsstunden auf 2 bis max. 3 Semester mit **max. 15 Teilnehmer*innen.**
+240 Ausbildungsstunden auf 2 bis max. 3 Semester mit **max. 14 Teilnehmer:innen.**
 
 ***
 

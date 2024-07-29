@@ -96,7 +96,7 @@ Sa., 06.01.24 / Sa., 13.01.24 / Sa., 20.01.24<br/>
 
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
+
 
 Die Ausbildung ist nur komplett buchbar. 
 

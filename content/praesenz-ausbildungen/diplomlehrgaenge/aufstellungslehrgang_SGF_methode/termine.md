@@ -44,7 +44,7 @@ weight: 3
 
 {{< line icon="icon/silvia.png" >}}
 
-## Der erste Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
+## Der Diplomlehrgang wird zu 100% von Frau Silvia Podlisca geleitet!
 
 ***
 
@@ -64,7 +64,7 @@ weight: 3
 
 Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
 
-**Die Zweigstelle** in **St. Pölten** ist in 3 Gehminuten vom Bahnhof erreichbar.
+
 
 Die Ausbildung ist nur komplett buchbar. 
 
