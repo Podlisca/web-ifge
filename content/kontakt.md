@@ -81,7 +81,7 @@ office@ifge.at
 {{% box %}}
 
 {{% small %}}
-{{< slider content="/img/knor_2.jpg,/img/knor_1.jpg,/img/margit_knor_noe.jpg" >}}
+{{< slider content="/img/knor_2.jpg,/img/knor_4.jpg,/img/margit_knor_noe.jpg" >}}
 
 {{% /small %}}
 
