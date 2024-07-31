@@ -202,11 +202,10 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 
 {{< line icon="icon/klangschale.png">}}
 
-####  Du bist noch unsicher? 
-Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mich telefonisch unter **+43 676 610 89 36** kontaktieren.
+####  **Noch Fragen?  Melde dich bei mir!**
 
-
-{{< booking produkte="Infoveranstaltung Klangschalen Practitioner Online" success="https://www.klangschalen-practitioner.ifge.at/danke/" >}}
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/klangschale.png">}}
 

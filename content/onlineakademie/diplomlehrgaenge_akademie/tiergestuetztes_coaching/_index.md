@@ -217,18 +217,12 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 
-***
+{{< line icon="icon/tiere.png" >}}
 
-####  Du bist noch unsicher? 
-Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mich telefonisch unter **+43 676 610 89 36** kontaktieren.
+####  **Noch Fragen?  Melde dich bei mir!**
 
-
-
-<br/>
-
-{{< booking produkte="Infoveranstaltung Tiergestützte Coachingausbildung Online" success="https://www.tiergestuetztes-coaching.ifge.at/danke-tiergestuetztes-coaching/" >}}
-
-
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/tiere.png" >}}
 
@@ -255,10 +249,6 @@ Gerne kannst Du dich auch zur **Online Live-Infoveranstaltung** anmelden oder mi
 ***
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
-
-
-
-
 
 
 *** 
@@ -471,9 +461,9 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< /card-more >}}
 {{% /box %}}
 
-***
 
-{{< buchung vorlagen="Intensivtraining Onlineakademie Tiergestütztes Coaching" text="Anmeldung Intensivtraining" value="1290" >}}
+{{< line icon="icon/tiere.png" >}}
+{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
