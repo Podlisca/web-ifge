@@ -129,7 +129,7 @@ Unser Lehrgang bietet einen hohen Theorie-Input u.a. in den Bereichen Systemisch
 
 Über 800 Seiten top aufbereitete und regelmäßig an neueste Erkenntnisse angepasste Skripten sorgen ebenso für Erfolg wie die individuelle Betreuung der SchülerInnen hin zu ihrem erfolgreichen beruflichen Weg in einer Institution oder in der Selbstständigkeit.
 
-Die TeilnehmerInnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 14 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
+Die Teilnehmer:nnen-Zahlen der unterschiedlichen Kurse sind dabei auf maximal 14 Personen begrenzt, damit auch wirklich jeder einzelne Schüler und jede einzelne Schülerin optimal betreut und gefördert werden kann.
 {{% /card-more  %}}
 
 {{% card-more title="Entwicklungspotenzial" img="entwicklung.jpg" %}}

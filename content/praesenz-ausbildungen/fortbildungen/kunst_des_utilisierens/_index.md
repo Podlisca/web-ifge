@@ -131,7 +131,7 @@ Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Restzahlung ei
 
 Das Seminar ist nur komplett zu buchen.
  
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen.  
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursTeilnehmer:nnen ist anzuerkennen.  
 
 Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **24 Weiterbildungsstunden** bestätigt. 
 

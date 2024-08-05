@@ -23,7 +23,7 @@ weight: 1
 
 ## AUFBAU DES LEHRGANGS
 
-12 Ausbildungsstunden mit max. 15 TeilnehmerInnen.
+12 Ausbildungsstunden mit max. 15 Teilnehmer:nnen.
 
 Neben der ärztlichen Betreuung kann der ganzheitliche Ansatz im psychologischen Beratungsprozess für Klient*innen demnach ein sehr wesentlicher sein. Um hier ein möglichst breites Spektrum an Bewusstsein für das Zusammenspiel von Organismus und Seele zu erhalten, beinhaltet unser fachlicher Streifzug durch die Psychosomatik unter anderem folgende Bereiche:
 

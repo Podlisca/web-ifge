@@ -21,7 +21,7 @@ weight: 1
 
 
 ## AUFBAU DES LEHRGANGS 
-28 Ausbildungsstunden mit max. 15 TeilnehmerInnen.
+28 Ausbildungsstunden mit max. 15 Teilnehmer:nnen.
 
 ### WELCHE FRAGEN IM WORKSHOP BEANTWORTET WERDEN
 

@@ -60,7 +60,7 @@ zu überweisen. Bitte geben Sie als Verwendungszweck "Fit and Safe für Mädchen
 
 Die Ausbildung ist nur komplett zu buchen.
 
-Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursteilnehmerInnen ist anzuerkennen.
+Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet oder erlassen. Bei Krankheit seitens der Kursleitung kann es zu Terminverschiebungen oder Traineränderungen kommen. Die Schweigepflicht über Umstände aus der Privatsphäre der KursTeilnehmer:nnen ist anzuerkennen.
 
 Sie erhalten rechtzeitig eine E-Mail mit den Zugangsdaten für die Onlineschulung. 
 

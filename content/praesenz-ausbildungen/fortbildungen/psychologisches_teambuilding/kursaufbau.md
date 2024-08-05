@@ -8,7 +8,8 @@ draft: false
 weight: 1
 ---
 
-# Ausbildung: psychologisches Teambuilding am IFGE Burgenland
+
+# Ausbildung: psychologisches Teambuilding 
 {{< slogan >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -43,7 +44,7 @@ AUFBAU DES LEHRGANGS SUPERVISION
 
 Diese Fortbildung schließt ohne Prüfung ab. 
 
-Alle TeilnehmerInnen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
+Alle Teilnehmer:nnen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
 
 {{< line icon="icon/termine.png" >}}

@@ -23,7 +23,7 @@ weight: 1
 
 
 ## AUFBAU DES LEHRGANGS 
-32 Ausbildungsstunden mit max. 15 TeilnehmerInnen.
+32 Ausbildungsstunden mit max. 15 Teilnehmer:nnen.
 
 ### Seminarinhalte
 

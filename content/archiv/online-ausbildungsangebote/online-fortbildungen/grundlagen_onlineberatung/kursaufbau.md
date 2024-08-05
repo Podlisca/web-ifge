@@ -23,7 +23,7 @@ weight: 1
 
 
 ## AUFBAU DER ONLINEAUSBILDUNG 
-12 Ausbildungsstunden (2 x 6 Stunden) mit max. 15 TeilnehmerInnen.
+12 Ausbildungsstunden (2 x 6 Stunden) mit max. 15 Teilnehmer:nnen.
 
 ## ONLINE RICHTIG BERATEN VON A WIE „AUFBAU DER BEZIEHUNG“ BIS Z WIE „ZOOM“
 Bei den Inhalten der digitalen Fortbildung macht sich der Leitspruch „Aus der Praxis für die Praxis“ ein weiteres Mal bezahlt. Denn Sie erhalten in dieser Ausbildung nicht nur einen theoretischen Grundüberblick, sondern vor allem erprobte Tools, Interventionen sowie Hinweise, die sich bereits in der Praxis bewährt haben:

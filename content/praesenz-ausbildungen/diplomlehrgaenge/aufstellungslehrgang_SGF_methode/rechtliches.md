@@ -37,7 +37,7 @@ weight: 4
 Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Diplom des Institut für ganzheitliches Erleben ab. 
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. 
-Mind. 8 TeilnehmerInnen / Max. 15 TeilnehmerInnen
+Mind. 8 Teilnehmer:nnen / Max. 15 Teilnehmer:nnen
 
 {{< line icon="icon/test_2.png" >}}
 {{% box blue=1 %}}

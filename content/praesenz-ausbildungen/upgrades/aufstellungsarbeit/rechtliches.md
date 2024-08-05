@@ -36,7 +36,7 @@ Der Lehrgang schließt mit einer Abschlussprüfung sowie der Ausstellung eines Z
 
 Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie die komplette Bezahlung. Das Zeugnis kann, bei entsprechender Supervision und Zugangsvoraussetzung, bei der WKO für die Aufnahme in die Expertenliste eingereicht werden.
 
-Mind. 8 TeilnehmerInnen / Max. 12 TeilnehmerInnen
+Mind. 8 Teilnehmer:nnen / Max. 12 Teilnehmer:nnen
 
 {{< line icon="icon/test.png" >}}
 

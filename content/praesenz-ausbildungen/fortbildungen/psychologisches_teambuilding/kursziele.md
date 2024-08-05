@@ -9,7 +9,8 @@ weight: 1
 og_image: "/img/teambuilding_ziel_1.jpg"
 ---
 
-# Ausbildung: psychologisches Teambuilding am IFGE Burgenland
+
+# Ausbildung: psychologisches Teambuilding 
 {{< slogan >}}
 
 {{< line icon="icon/teambuilding.png" >}}

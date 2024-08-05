@@ -9,7 +9,7 @@ weight: 5
 aliases: 
     - "/fortbildungen/psychologisches_teambuilding/"
 description: "Sie möchten als Lebens- und SozialberaterIn – psychologische/r BeraterIn – im Wirtschaftsbereich Fuß fassen oder Ihre Tools als Coach oder TrainerIn erweitern? Uns ist es ein besonderes Anliegen, dass Sie über ausreichend Wissen zu diesem umfangreichen Thema verfügen und möchten daher mit diesem Upgrade auf Ihr bestehendes Wissen aufbauen."
-og_title: "Ausbildung: psychologisches Teambuilding am IFGE Burgenland"
+og_title: "Ausbildung: psychologisches Teambuilding"
 og_image: "/img/ausbildung_teambuilding.jpg"
 aliases: 
     - "/ausbildungsangebote/ausbildung-psychologisches-teambuilding/"
@@ -28,7 +28,8 @@ rich_faq:
 
 ---
 
-# Ausbildung: psychologisches Teambuilding am IFGE Burgenland
+
+# Ausbildung: psychologisches Teambuilding 
 {{< slogan >}}
 
 {{< line icon="icon/teambuilding.png" >}}
@@ -44,7 +45,7 @@ Dynamik, Zusammenhalt und Einstellung von Teams ist ein wichtiger Erfolgsfaktor 
 
 Wer sich als Lebens- und Sozialberater:in im wirtschaftlichen Bereich wohlfühlt oder sein Angebot als Business Coach und Trainer:in erweitern möchte, der kann durch die Ausbildung psychologisches Teambuilding sein Methodenwissen erweitern. In dieser Weiterbildung lernen Sie zahlreiche Indoor- und Outdoortools für die aktive Begleitung und Unterstützung von Teams kennen. Auch fachliche Reflexion ist ein zentraler Pfeiler des Kurses.
 
-Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion in der Zweigstelle in Pinkafeld
+Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Reflexion
 
 
 {{% /floatbox %}}
