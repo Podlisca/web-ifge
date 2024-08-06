@@ -38,5 +38,10 @@ Die Fortbildung ist bewusst als eine Mischung aus inhaltlich systemischem Theori
 
 {{< line icon="icon/termine.png" >}}
 
+## Systeme aufstellen. Menschen verstehen.
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+<br>
+
 {{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}
 

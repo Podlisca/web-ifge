@@ -25,11 +25,9 @@ weight: 3
 
 {{< line icon="icon/termine.png" >}}
 
-## Termine & Anmeldung
+## Menschen fördern. Teams stärken.
 
-
-<br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

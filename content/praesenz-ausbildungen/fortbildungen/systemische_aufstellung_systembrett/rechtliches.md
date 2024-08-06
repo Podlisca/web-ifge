@@ -68,4 +68,9 @@ Bei Abbruch oder Fernbleiben der Ausbildung werden keine Kosten rückerstattet o
 
 {{< line icon="icon/termine.png" >}}
 
+## Systeme aufstellen. Menschen verstehen.
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+<br>
+
 {{< buchung lehrplaene="Fortbildung: Systemische Aufstellung am Systembrett" text="Kurs kaufen" value="420" >}}

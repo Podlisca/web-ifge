@@ -86,7 +86,7 @@ Entwickle gemeinsam mit Gleichgesinnten konkrete Ansätze und Lösungen für den
 
 ## Ressourcen erkennen & nutzbar machen. 
 
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 <br>
 
 {{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Kurs kaufen" value="690" >}}
@@ -145,7 +145,7 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 
 ## Ressourcen erkennen & nutzbar machen. 
 
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 <br>
 
 {{< buchung lehrplaene="Fortbildung: Die Kunst des Utilisierens" text="Kurs kaufen" value="690" >}}

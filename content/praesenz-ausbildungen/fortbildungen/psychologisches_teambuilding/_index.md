@@ -63,8 +63,11 @@ Methodenschwerpunkt: Gruppentools für Indoor und Outdoor inkl. fachlicher Refle
 
 {{< line icon="icon/termine.png" >}}
 
-<br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+
+
+## Menschen fördern. Teams stärken.
+
+{{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}
