@@ -27,7 +27,7 @@ Preis: € 115,-
 
 Paarberatung (1,5 Stunden)
 
-Preis: € 195,-
+Preis: € 210,-
 
 Paarberatung mit Silvia Podlisca und Martin Bransky
 
