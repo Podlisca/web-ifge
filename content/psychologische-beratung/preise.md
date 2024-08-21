@@ -23,7 +23,7 @@ weight:
 
 Einzelstunde (50 Minuten)
 
-Preis: € 105,-
+Preis: € 115,-
 
 Paarberatung (1,5 Stunden)
 

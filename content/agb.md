@@ -38,7 +38,7 @@ Sofern im Einzelfall nichts anderes zwischen der Silvia Podlisca und dem Kliente
 
 4 Honorar, Rechtliches und AGB
 
-Für ihre Leistungen wird die Silvia Podlisca ein sofort fälliges Honorar von EUR 105,- für Einzelberatung / Einzelsupervision EUR 120,- / Paarberatungen EUR 195,-. (inklusive USt) pro angefangener Beratung-Einheit verrechnen. Dies gilt auch für Beratung via E-Mail, Skype oder Telefon. Eine Beratungs-Einheit beträgt 50 / 90 Minuten. Sollte das Beratungs-Ziel [für diese Einheit] vor Ablauf einer Beratungs-Einheit erreicht werden, wird die Einheit dennoch voll verrechnet. Die Zeit für die Vor- und Nachbereitung der Beratungs-Einheit ist im Honorar für diese Beratungs-Einheit enthalten.
+Für ihre Leistungen wird die Silvia Podlisca ein sofort fälliges Honorar von EUR 115,- für Einzelberatung / Einzelsupervision EUR 120,- / Paarberatungen EUR 195,-. (inklusive USt) pro angefangener Beratung-Einheit verrechnen. Dies gilt auch für Beratung via E-Mail, Skype oder Telefon. Eine Beratungs-Einheit beträgt 50 / 90 Minuten. Sollte das Beratungs-Ziel [für diese Einheit] vor Ablauf einer Beratungs-Einheit erreicht werden, wird die Einheit dennoch voll verrechnet. Die Zeit für die Vor- und Nachbereitung der Beratungs-Einheit ist im Honorar für diese Beratungs-Einheit enthalten.
 Das Honorar ist vorab zu überweisen. Bankdaten: Bank Austria IBAN: AT42 1200 0007 4443 4259 BIC: BKAUATWW - laufend auf Silvia Podlisca - IFGE
 
 **Einzelstunden** müssen mind. 48 Stunden vorher telefonisch, per E-Mail, WhatsApp oder SMS abgesagt werden. Anderenfalls werden diese voll verrechnet.
