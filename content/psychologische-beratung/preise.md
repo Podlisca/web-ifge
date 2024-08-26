@@ -35,7 +35,7 @@ Preis: € 250,-
 
 Coaching (50 Minuten)
 
-Preis: € 120,-
+Preis: € 130,-
 
 Wellness (30 Minuten Klangschalenmassage)
 
@@ -51,7 +51,7 @@ gesamt für alle Termine: € 440,-
 
 Einzelsupervision
 
-Preis: € 120,-
+Preis: € 130,-
 
 Supervisions – Jahresgruppe (4 Stunden)    
 
@@ -88,7 +88,7 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung / Vormittag 4 Stunden 
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen: € 120,-
+* Teilnehmer:in mit eigenem Anliegen: € 130,-
 * Teilnehmende:r Beobachter:in: € 30,-
 {{% /small  %}}
 {{% /box %}}
@@ -120,7 +120,7 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 {{% /small  %}}
 {{% small  %}}
 * Teilnehmer:in mit eigenem Anliegen: € 290,-
-* Teilnehmende:r Beobachter:in: € 120,-
+* Teilnehmende:r Beobachter:in: € 130,-
 {{% /small  %}}
 {{% /box %}}
 

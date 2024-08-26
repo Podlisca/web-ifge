@@ -48,7 +48,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)<br/>
 
 {{< card-more icon="icon/rahmenbed.png" title="Allgemeine Rahnmenbedingungen">}}
 Schweigepflicht: Bereits ab dem ersten Abend stimmen Sie der Schweigepflicht zu. Das heißt, dass alles was in der Gruppe besprochen oder sichtbar gemacht wird, nicht nach außen getragen werden darf. 
-Preise: € 80,- für 4,5 Stunden / € 120,- für 7 Stunden/ € 160,- für 9 Stunden (inkl. 20 % Mwst.) Eine Supervisionsstd. = 45 Minuten. Die Zahlung ist sofort nach Anmeldung fällig.
+Preise: € 80,- für 4,5 Stunden / € 130,- für 7 Stunden/ € 160,- für 9 Stunden (inkl. 20 % Mwst.) Eine Supervisionsstd. = 45 Minuten. Die Zahlung ist sofort nach Anmeldung fällig.
 {{< /card-more >}}
 
 {{< card-more icon="icon/storno.png" title="Stornobedingungen">}} 
