@@ -36,7 +36,7 @@ weight: 3
 
 <br>
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
 </br>
 
 {{< line icon="icon/paar_sexualberatung.png" >}}

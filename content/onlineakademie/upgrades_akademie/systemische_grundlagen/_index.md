@@ -119,7 +119,7 @@ Zahlung nach Anmeldung. <br/>
 
 * **Ratenzahlung: € 2.450,-** <br/>
 € 450,- Zahlung sofort nach Anmeldung. <br/>
-2.000 € - Restbetrag wird aufgeteilt auf 6 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 333,- €.<br/>
+2.000 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 500,- €.<br/>
 
 * **Praktische Tage in Präsenz**  
 Kosten pro Tag: € 290,- <br/>

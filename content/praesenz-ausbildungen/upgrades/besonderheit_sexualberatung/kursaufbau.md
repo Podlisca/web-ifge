@@ -92,7 +92,7 @@ Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie d
 
 <br>
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
 </br>
 
 {{< line icon="icon/paar_sexualberatung.png" >}}

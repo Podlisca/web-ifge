@@ -69,7 +69,7 @@ Als **zentrale Säule der psychologischen Lebens- und Sozialberatung** ist [Sexu
 
 <br>
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
 </br>
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
@@ -148,7 +148,7 @@ Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung un
 
 <br>
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -207,7 +207,7 @@ Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im
 
 <br>
 
-{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="Ausbildung buchen" value="2490" >}}
+{{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
 </br>
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
