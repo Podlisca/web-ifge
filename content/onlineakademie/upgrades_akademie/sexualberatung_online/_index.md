@@ -65,6 +65,7 @@ rich_faq:
 
 Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung) zu besuchen.
 
+
 {{< line icon="icon/beratung.png" >}}
 
 # Hier drei kostenlose Lehrvideos für dich:
