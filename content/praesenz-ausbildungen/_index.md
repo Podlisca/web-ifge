@@ -114,7 +114,8 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 
 {{< kurs titel="Systemische Aufstellung am Systembrett" link="/praesenz-ausbildungen/fortbildungen/systemische_aufstellung_systembrett" image="/img/kursuebersicht_systembrett.jpg" color="light-red" >}}
 {{< kurs titel="Die Kunst des Utilisierens" link="/praesenz-ausbildungen/fortbildungen/kunst_des_utilisierens/" image="/img/planspiel_praxisaufbau.jpg">}}
-{{< kurs titel="Psychologisches Teambuilding" link="/praesenz-ausbildungen/fortbildungen/psychologisches_teambuilding" image="/img/team_6.jpg" color="light-red" >}}
+
+
 
 
 {{% /kursbox %}}
