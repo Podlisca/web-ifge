@@ -41,65 +41,7 @@ rich_faq:
 
 {{% small %}}
 
-#### SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
-
-
-Unsere Gesellschaft stellt sich heutzutage gerne als unvoreingenommen, offen und tolerant dar. Doch in Gesprächen, Gesellschaft und Medien wird schnell klar, dass Tabus, Vorurteile und Ablehnung nach wie vor bestehen. 
-
-Ganz nach dem Motto: **"Das, was ich nicht kenne oder was gesellschaftlich nicht als Norm gilt, finde ich (zumindest nach außen hin) nicht gut."** Ein Bereich, in dem dieses Phänomen häufig auftritt, ist Sexualität. Auch, wenn uns Werbung, Filme oder Zeitungen viel nackte Haut und aufreizende Szenen zeigen, ist und bleibt Sexualität etwas, über das viele nicht offen sprechen können. Zu groß ist die Angst die eigenen Bedürfnisse könnten als "nicht normal", pervers oder krank angesehen werden.
-
-
-{{% /small %}}
-</div> 
-
-{{< line icon="icon/aktion.png" >}}
-
-#### **Einführungspreis** 
-#### **Spare bis 31.12.2024 bis zu 490 €** 
-#### **jetzt risikofrei anmelden!**
-
-{{< line icon="icon/paar_sexualberatung.png" >}}
-
-Während romantische Erotik zumindest teilweise toleriert und auch kommuniziert wird, sind **Fetische, Paraphilien und BDSM** (Abkürzung für Bondage & Discipline, Dominance & Submission, Sadism & Masochism) und damit Dominanz, Unterwerfung und Bestrafung im Rahmen der [Sexualität](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) nach wie vor ein Tabu. Aber auch **alte und junge Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen** werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht.
-
-Genau hier setzt die **Diplomausbildung Ganzheitliche Sexualberatungan** an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen bewusst aufgegriffen werden können.
-
-{{< line icon="icon/paar_sexualberatung.png" >}}
-
-## Kursaufbau & Lehrinhalte
-
-### WAHLMÖGLICHKEIT FÜR DAS BASISMODUL:
-Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du kannst wählen, ob du es in **Präsenz ODER online** absolvieren möchtest. Diese Wahlmöglichkeit ermöglicht es dir, die Ausbildung an deinen persönlichen Zeitplan und Lernstil anzupassen.
-
-* **[Präsenzmodul buchen](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/):** [Hier](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/) kannst du das **erste Basismodul** in Präsenz buchen: **Start am 20.09.2024.** 
-* **[Onlinemodul buchen:](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**
-[Hier](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) kannst du das **erste Basismodul** online buchen: **Start sofort möglich.** 
-
-
-Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung und ermöglicht gleichzeitig Flexibilität in der Wahl des Lernformats.
-
-
-
-{{< line icon="icon/beratung.png" >}}
-
-## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
-
-
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
-<br>
-
-{{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
-
-**Deine weiteren Trainerinnen:** [Margit Knor](/about/referenten-lsb/#margit-knor) / [Alexandra Arend](/about/referenten-lsb/#mag-alexandra-arend)
-/ [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
- / Maureen Brunner
-
-{{< line icon="icon/paar_sexualberatung.png" >}}
-
-### Kursziele
-
-**Ziel** der Ausbildung ist nicht nur **sexuelle Vielfalt zu verstehen** und damit ein besseres Verständnis für unterschiedliche Bedürfnisse zu schaffen, sondern auch **geeignete Methoden** kennenzulernen und so die Sicherheit im Umgang mit dem Thema zu stärken. Wissen und Methoden werden sowohl durch Vorträge als auch durch praktische Workshops und Übungen erarbeitet. Dadurch ist eine theoretisch fundierte, aber gleichzeitig praktisch orientierte und abwechslungsreiche Weiterbildung gewährleistet.
-
+#### Lerne in 300 Ausbildungsstunden
 
 
 * **Sexuelle Vielfalt erkennen:** <br/>
@@ -115,25 +57,67 @@ Baue ein tiefgreifendes Verständnis für die emotionalen und psychologischen As
 auf, um eine vertrauensvolle Beratungsbeziehung zu fördern.
 
 
-{{< line icon="icon/aktion.png" >}}
+{{% /small %}}
+</div> 
 
+{{< line icon="icon/beratung.png" >}}
+
+### SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
+Unsere Gesellschaft stellt sich heutzutage gerne als **unvoreingenommen, offen und tolerant** dar. Doch in Gesprächen, Gesellschaft und Medien wird schnell klar, dass Tabus, Vorurteile und Ablehnung nach wie vor bestehen. 
+
+Ganz nach dem Motto: **"Das, was ich nicht kenne oder was gesellschaftlich nicht als Norm gilt, finde ich (zumindest nach außen hin) nicht gut."** Ein Bereich, in dem dieses Phänomen häufig auftritt, ist Sexualität. Auch, wenn uns Werbung, Filme oder Zeitungen viel nackte Haut und aufreizende Szenen zeigen, ist und bleibt Sexualität etwas, über das viele nicht offen sprechen können. Zu groß ist die Angst die eigenen Bedürfnisse könnten als "nicht normal", pervers oder krank angesehen werden.
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
+### Deine Vorteile im Überblick: 
+
+* **Umfassendes Fachwissen:**
+Erhalte fundiertes Wissen über die psychologischen und sozialen Aspekte der Sexualität durch eine Kombination aus theoretischem Unterricht und praktischen Anwendungen.
+* **Individuelle Fähigkeiten:** 
+Entwickle persönliche Fähigkeiten und Techniken, die speziell auf die ganzheitliche Sexualberatung zugeschnitten sind.
+* **Praxisnahe Erfahrungen:** 
+Nutze die Gelegenheit, in einem geschützten Rahmen reale Beratungssituationen zu simulieren und direktes Feedback zu erhalten.
+* **Netzwerk und Austausch:** 
+Tausche dich mit Fachleuten und Gleichgesinnten aus, um ein berufliches Netzwerk aufzubauen und Erfahrungen auszutauschen.
+* **Zertifizierte Qualifikation:** 
+Abschließe die Ausbildung mit einem Zertifikat, das deine Qualifikationen in der ganzheitlichen Sexualberatung bestätigt und deine beruflichen Chancen verbessert.
+
+
+{{< line icon="icon/aktion.png" >}}
 #### **Einführungspreis** 
 #### **Spare bis 31.12.2024 bis zu 490 €** 
 #### **jetzt risikofrei anmelden!**
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
+Während romantische Erotik zumindest teilweise toleriert und auch kommuniziert wird, sind **Fetische, Paraphilien und BDSM** (Abkürzung für Bondage & Discipline, Dominance & Submission, Sadism & Masochism) und damit Dominanz, Unterwerfung und Bestrafung im Rahmen der [Sexualität](https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/) nach wie vor ein Tabu. Aber auch **alte und junge Menschen und Menschen mit körperlichen und/oder geistigen Beeinträchtigungen** werden im Alltag mit zahlreichen Vorurteilen und Falschannahmen konfrontiert. Eine dieser Annahmen ist, dass alte Menschen oder Menschen mit Behinderung keine sexuellen Bedürfnisse haben. Damit wird ihnen das Verlangen nach Körperlichkeit, das Empfinden von Lust und das Ausleben der eigenen Sexualität in gewisser Weise abgesprochen und nicht ermöglicht.
+
+Genau hier setzt die **Diplomausbildung Ganzheitliche Sexualberatungan** an. Durch die systematische und begleitete Befassung mit dem Thema wird Bewusstsein geschaffen, wodurch die Bedürfnisse von Menschen bewusst aufgegriffen werden können.
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
 ## Kursaufbau & Lehrinhalte
 
-### WAHLMÖGLICHKEIT FÜR DAS BASISMODUL:
-Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Du kannst wählen, ob du es in **Präsenz ODER online** absolvieren möchtest. Diese Wahlmöglichkeit ermöglicht es dir, die Ausbildung an deinen persönlichen Zeitplan und Lernstil anzupassen.
+### [**DAS BASISMODUL:**](www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)
+Das Basismodul der Ausbildung bietet dir Flexibilität in der Durchführung: Dieses ist zu **100% Online** und im Selbststudium!
 
-* **[Präsenzmodul buchen](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/):** [Hier](https://www.ifge.at/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/) kannst du das **erste Basismodul** in Präsenz buchen: **Start am 20.09.2024.** 
-* **[Onlinemodul buchen:](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**
-[Hier](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) kannst du das **erste Basismodul** online buchen: **Start sofort möglich.** 
+* **[Basismodul buchen:](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)**
+[**Hier**](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) kannst du das [**erste Basismodul**](www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/) online buchen: **Start sofort möglich.** 
 
 
-Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung und ermöglicht gleichzeitig Flexibilität in der Wahl des Lernformats.
+**Modul 1 bis 4 sind in Präsenz** zu absolvieren.
+
+* **Modul 1:** Sexualberatung für Paare
+* **Modul 2:** Sexualität Alter & Behinderung
+* **Modul 3:** Kultursensible Sexualberatung
+* **Modul 4:** Abweichende Sexualität (BDSM)
+
+Die genauen Kursinhalte siehst du weiter unten.
+{{< line icon="icon/paar_sexualberatung.png" >}}
+## Zugangsvoraussetzungen für den Diplomlehrgang Ganzheitliche Sexualberatung:
+
+* Nachweis über den erfolgreichen Abschluss des Basismoduls am IFGE. [Basismodul buchen](https://www.ifge.at/onlineakademie/upgrades_akademie/sexualberatung_online/)
+* Für Absolvent des Diplomlehrgangs "Lebens- und Sozialberater (LSB)" am IFGE wird das Basismodul angerechnet.
 
 {{< line icon="icon/beratung.png" >}}
 
@@ -150,9 +134,18 @@ Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung un
  / Maureen Brunner
 
 
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Einführungspreis** 
+#### **Spare bis 31.12.2024 bis zu 490 €** 
+#### **jetzt risikofrei anmelden!**
+
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
-### Auszug der Ausbildungsinhalte
+
+
+## Auszug der Ausbildungsinhalte
 
 Die hier vorgestellten Inhalte sind Auszüge aus den umfassenden Modulen der Diplomausbildung in Ganzheitlicher Sexualberatung. Sie bieten einen Einblick in die Vielfalt und Tiefe der behandelten Themen und verdeutlichen die strukturierte Herangehensweise der Ausbildung. Die strukturierten und detaillierten Inhalte sind speziell darauf ausgerichtet, tiefgreifendes Wissen und praktische Fähigkeiten in den verschiedenen Bereichen der Sexualberatung zu vermitteln.
 
@@ -256,21 +249,26 @@ Alle Teilnehmer:innen erhalten am Ende der Diplomausbildung eine IFGE Bestätigu
 {{< /card-more >}}
 {{% /box %}}
 
-### Deine Vorteile im Überblick: 
+{{< line icon="icon/aktion.png" >}}
+#### **Einführungspreis** 
+#### **Spare bis 31.12.2024 bis zu 490 €** 
+#### **jetzt risikofrei anmelden!**
 
-* **Umfassendes Fachwissen:**
-Erhalte fundiertes Wissen über die psychologischen und sozialen Aspekte der Sexualität durch eine Kombination aus theoretischem Unterricht und praktischen Anwendungen.
-* **Individuelle Fähigkeiten:** 
-Entwickle persönliche Fähigkeiten und Techniken, die speziell auf die ganzheitliche Sexualberatung zugeschnitten sind.
-* **Praxisnahe Erfahrungen:** 
-Nutze die Gelegenheit, in einem geschützten Rahmen reale Beratungssituationen zu simulieren und direktes Feedback zu erhalten.
-* **Netzwerk und Austausch:** 
-Tausche dich mit Fachleuten und Gleichgesinnten aus, um ein berufliches Netzwerk aufzubauen und Erfahrungen auszutauschen.
-* **Zertifizierte Qualifikation:** 
-Abschließe die Ausbildung mit einem Zertifikat, das deine Qualifikationen in der ganzheitlichen Sexualberatung bestätigt und deine beruflichen Chancen verbessert.
+{{< line icon="icon/beratung.png" >}}
 
+## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
+
+
+{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+<br>
+
+{{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
+
+**Deine weiteren Trainerinnen:** [Margit Knor](/about/referenten-lsb/#margit-knor) / [Alexandra Arend](/about/referenten-lsb/#mag-alexandra-arend)
+/ [Sarah Schrödl](/about/referenten-lsb/#sarah-schrödl)
+ / Maureen Brunner
+ 
 {{< line icon="icon/paar_sexualberatung.png" >}}
-
 
 <br/>
 {{% box more=1 blue=1 %}}
