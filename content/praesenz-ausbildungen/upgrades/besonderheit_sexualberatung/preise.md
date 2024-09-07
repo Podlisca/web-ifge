@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_sexualberatung
         identifier: sexualberatung_preise
-draft: true
+draft: false
 weight: 2
 ---
 
