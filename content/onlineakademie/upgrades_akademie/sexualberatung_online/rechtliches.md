@@ -1,6 +1,6 @@
 ﻿---
 title: "Rechtliches"
-draft: false
+draft: rue
 weight: 4
 ---
 
