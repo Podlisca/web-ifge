@@ -2,8 +2,8 @@
 title: "HypnoSystemFlow Coach"
 menu: 
     main:
-        parent: upgrade_akademie
-        identifier: hypno_system_flow
+        parent: upgrade
+        identifier: upgrade_hypno_system_flow
 draft: false
 weight: 6
 description: "In dieser umfassenden Ausbildung erlernst du die einzigartige Verbindung von Hypnose und systemischen Ansätzen, um Menschen in ihrer persönlichen Entwicklung zu unterstützen."
@@ -15,6 +15,7 @@ rich_faq:
 
 
 ---
+
 # HypnoSystemFlow Coach
 
 ## Hybrid-Ausbildung:  100 % Online - Selbststudium 
