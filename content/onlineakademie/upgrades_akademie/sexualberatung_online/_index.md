@@ -63,7 +63,7 @@ rich_faq:
 
 ***
 
-Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung) zu besuchen.
+Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung) zu besuchen!
 
 
 {{< line icon="icon/beratung.png" >}}
@@ -110,7 +110,7 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 
 ***
 
-Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung) zu besuchen.
+Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung) zu besuchen!
 
 {{< line icon="icon/beratung.png" >}}
 
