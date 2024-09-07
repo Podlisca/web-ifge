@@ -1,6 +1,6 @@
 ﻿---
 title: "Kursaufbau"
-draft: true
+draft: false
 weight: 1
 ---
 

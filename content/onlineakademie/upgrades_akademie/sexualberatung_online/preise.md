@@ -1,6 +1,6 @@
 ﻿---
 title: "Preise"
-draft: true
+draft: false
 weight: 2
 ---
 

@@ -1,6 +1,6 @@
 ﻿---
 title: "Termine"
-draft: true
+draft: false
 weight: 3
 ---
 
