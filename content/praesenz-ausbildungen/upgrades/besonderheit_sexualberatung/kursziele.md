@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_sexualberatung
         identifier: upgrade_sexualberatung_ziele
-draft: false
+draft: true
 weight: 1
 og_image: "/img/kursziel_sexualberatung_paarberatung.jpg"
 ---
