@@ -103,7 +103,7 @@ Sie gilt darüber hinaus als führende Expertin in der tiergestützten [psycholo
 {{% kursbox %}}
 
 {{< kurs titel="Onlineakademie: Besonderheit Sexualberatung" link="/onlineakademie/upgrades_akademie/sexualberatung_online" image="/img/onlineakademie_philo_14.jpg" color="light-red" >}}
-{{< kurs titel="Präsenzausbildung: Besonderheit Sexualberatung" link="/praesenz-ausbildungen/upgrades/besonderheit_sexualberatung/" image="/img/sgf.jpg" >}}
+
 
 {{% /kursbox %}}
 

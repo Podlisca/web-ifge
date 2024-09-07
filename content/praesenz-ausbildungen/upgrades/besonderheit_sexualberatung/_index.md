@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade
         identifier: upgrade_sexualberatung
-draft: false
+draft: true
 weight: 5
 aliases: 
     - "/upgrades/besonderheit_sexualberatung"
