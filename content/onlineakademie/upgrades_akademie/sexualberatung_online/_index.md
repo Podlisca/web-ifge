@@ -351,6 +351,7 @@ Beginnend mit **grundlegenden Aspekten der Sexualberatung**, wie dem Verständni
 
 Ausführliche **Infos** findest du hier: [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung)
 
+{{% /floatbox %}}
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
