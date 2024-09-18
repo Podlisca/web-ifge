@@ -89,6 +89,8 @@ Bei Zahlungsverzug von mehr als 10 Tagen der gewählten Zahlungsvariante wird au
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
+
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
 <br>

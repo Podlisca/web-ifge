@@ -52,7 +52,7 @@ In diesem Kurs wird Ihr kompletter Praxisaufbau inklusive des gesamten (ersten) 
 {{< line icon="icon/termine.png" >}}
 
 <br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

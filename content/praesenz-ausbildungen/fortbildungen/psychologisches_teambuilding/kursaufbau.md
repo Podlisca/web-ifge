@@ -53,6 +53,8 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 ## Menschen fördern. Teams stärken.
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

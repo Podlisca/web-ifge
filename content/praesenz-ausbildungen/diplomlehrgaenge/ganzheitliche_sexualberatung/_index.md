@@ -124,7 +124,7 @@ Die genauen Kursinhalte siehst du weiter unten.
 ## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
 
 
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 <br>
 
 {{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
@@ -259,7 +259,7 @@ Alle Teilnehmer:innen erhalten am Ende der Diplomausbildung eine IFGE Bestätigu
 ## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
 
 
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 <br>
 
 {{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}
@@ -355,7 +355,7 @@ Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fort
 ## SEXUALITÄT IN DER PSYCHOLOGISCHEN ARBEIT: PASSEND ANSPRECHEN & BERATEN.
 
 
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 <br>
 
 {{< buchung lehrplaene="Diplomausbildung Ganzheitliche Sexualberatung" text="Ausbildung buchen" value="4000" >}}

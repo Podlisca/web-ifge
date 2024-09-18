@@ -36,7 +36,7 @@ In den Kosten inbegriffen ist auch der Erhalt digitale Skripten sowie das Abschl
 ***
 
 <br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

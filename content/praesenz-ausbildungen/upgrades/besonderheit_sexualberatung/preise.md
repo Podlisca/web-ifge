@@ -44,6 +44,8 @@ In den Kosten inbegriffen ist auch der Erhalt umfassender digitale  Skripten. We
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
+
 <br>
 
 {{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}

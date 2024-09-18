@@ -43,7 +43,7 @@ Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*
 ***
 
 <br>
-{{% center %}}Wähle zunächst deinen passenden Termin aus um dich anzumelden{{% /center %}}
+{{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Planspiel Praxisaufbau" text="Kurs kaufen" value="420" >}}

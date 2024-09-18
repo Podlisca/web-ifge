@@ -41,6 +41,8 @@ In den Kosten inbegriffen ist auch der Erhalt umfassender digitale Skripten sowi
 ## Menschen fördern. Teams stärken.
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
 </br>
 
 {{< buchung lehrplaene="Fortbildung: Psychologisches Teambuilding" text="Kurs kaufen" value="420" >}}

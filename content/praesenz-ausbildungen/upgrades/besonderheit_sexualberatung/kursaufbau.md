@@ -90,6 +90,8 @@ Voraussetzung hierfür ist die 100%-ige Anwesenheit im Rahmen des Kurses sowie d
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
+
 <br>
 
 {{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}

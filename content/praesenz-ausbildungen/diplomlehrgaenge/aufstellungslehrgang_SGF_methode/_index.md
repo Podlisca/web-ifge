@@ -92,6 +92,8 @@ Im Unterschied zu anderen Zugängen berücksichtigt die **SGF®-Methode von Silv
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
+
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}
 <br>
@@ -143,6 +145,8 @@ Wir können familiäre Vergangenheit nicht ändern, aber wir können uns damit v
 #### "Diplomlehrgang Familienaufstellung (SGF®-Methode)"
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
 
 <br>
 {{< buchung lehrplaene="Diplomlehrgang Familienaufstellung (SGF-Methode)" text="Ausbildung buchen" value="Diplomlehrgang Familienaufstellung (SGF-Methode)" >}}

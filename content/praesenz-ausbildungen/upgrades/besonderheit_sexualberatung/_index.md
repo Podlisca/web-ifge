@@ -67,6 +67,8 @@ Als **zentrale Säule der psychologischen Lebens- und Sozialberatung** ist [Sexu
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
+
 <br>
 
 {{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
@@ -146,6 +148,8 @@ Diese Struktur bietet einen klaren und schrittweisen Weg durch die Ausbildung un
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
 
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
+
 <br>
 
 {{< buchung lehrplaene="Upgrade: Besonderheit Sexualberatung" text="JETZT ANMELDEN" value="2490" >}}
@@ -204,6 +208,8 @@ Das Thema Lustverlust wird auf einer ganz neuen Ebene erarbeitet und enthält im
 #### **jetzt risikofrei anmelden!**
 
 {{% center %}}Klicke zuerst auf die Terminübersicht um dich anzumelden{{% /center %}}
+
+##### Um die Termine zu sehen, müssen die Cookies aktiviert sein
 
 <br>
 
