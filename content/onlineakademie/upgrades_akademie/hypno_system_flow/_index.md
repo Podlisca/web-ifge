@@ -63,6 +63,8 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 
 {{< line icon="icon/beratung.png" >}}
 
+## Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
+
 <br>
 {{< buchung produkte="HypnoSystemFlow" text="Jetzt loslegen" value="1980" >}}
 </br>
