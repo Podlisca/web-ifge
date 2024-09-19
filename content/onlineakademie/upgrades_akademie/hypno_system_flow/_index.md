@@ -66,7 +66,7 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 ## Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
 
 <br>
-{{< buchung produkte="HypnoSystemFlow - Praktische Tage" text="Jetzt loslegen" value="1980" >}}
+{{< buchung produkte="HypnoSystemFlow Lehrvideos u. Praktische Tage" text="Jetzt loslegen" value="1980" >}}
 </br>
 
 **Der HypnoSystemFlow - HSF Coach** kombiniert das **Beste** aus **systemischer Arbeit** und **moderner Hypnose**. Es vereint die **Vorzüge beider Welten** um tiefgreifende Veränderungen zu ermöglichen.
