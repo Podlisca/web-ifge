@@ -56,9 +56,9 @@ Das **Ziel** ist, deine persönlichen **Handlungsmöglichkeiten** und dein **Pot
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* pro Seminartag (Vorabüberweisung):€ 70,-, Anzahlung € 100,00  <br/>
-* monatliche Rate (Vorabüberweisung): € 110,-, Anzahlung € 130,00  <br/>
-* Einmalzahlung: € 1.400,- <br/>
+* pro Seminartag (Vorabüberweisung):€ 75,-, Anzahlung € 150,00  <br/>
+* monatliche Rate (Vorabüberweisung): € 125,-, Anzahlung € 130,00  <br/>
+* Einmalzahlung: € 1.580,- <br/>
 
 Die Einmalzahlung wird sofort nach Anmeldung fällig und ist bis 15.12.2023 gültig.
 

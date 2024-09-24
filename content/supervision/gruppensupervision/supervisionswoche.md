@@ -48,7 +48,7 @@ Leitung: [Silvia Podlisca](https://www.ifge.at/about/ueber_mich/)
 ### Allgemeines
 
 * Mind. 10 Teilnehmer:innen / Max. 14 Teilnehmer:innen
-* Kosten: € 675,- ( Anzahlung € 100,- bei Anmeldung, Rest bis einen Monat vor Beginn)
+* Kosten: € 890,- ( Anzahlung € 290,- bei Anmeldung, Rest bis einen Monat vor Beginn)
 * Anmeldeschluss: 2 Wochen vorher
  
 

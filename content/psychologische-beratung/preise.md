@@ -31,43 +31,45 @@ Preis: € 210,-
 
 Paarberatung mit Silvia Podlisca und Martin Bransky
 
-Preis: € 250,-
+Preis: € 390,-
 
 Coaching (50 Minuten)
 
-Preis: € 130,-
+Preis: € 145,-
 
 Wellness (30 Minuten Klangschalenmassage)
 
-Preis: € 60,-
+Preis: € 65,-
 
 Selbsterfahrungsgruppe (2 Stunden)
 
-Preis: € 35,- pro Abend
+Preis: € 52,- pro Abend
 
 Selbsterfahrungsgruppe (3 Stunden)
 
-gesamt für alle Termine: € 440,-
+pro Seminartag (Vorabüberweisung):€ 75,-, Anzahlung € 150,00  <br/>
+monatliche Rate (Vorabüberweisung): € 125,-, Anzahlung € 130,00  <br/>
+Einmalzahlung: € 1.580,- <br/>
 
 Einzelsupervision
 
-Preis: € 130,-
+Preis: € 145,-
 
 Supervisions – Jahresgruppe (4 Stunden)    
 
-Preis: € 80,- pro Abend
+Preis: € 85,- pro Abend
 
 Supervisions – Jahresgruppe (4,5 Stunden)    
 
-Preis: € 90,- pro Abend
+Preis: € 92,- pro Abend
 
 offene Supervisionsgruppe  (4 Stunden)    
 
-Preis: € 80,- pro Abend
+Preis: € 85,- pro Abend
 
 offene Supervisionsgruppe  (8 Stunden)    
 
-Preis: € 160,- pro Abend
+Preis: € 190,- pro Abend
 
 {{% /grid %}}
 {{% /box %}}
@@ -88,8 +90,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung / Vormittag 4 Stunden 
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen: € 130,-
-* Teilnehmende:r Beobachter:in: € 30,-
+* Teilnehmer:in mit eigenem Anliegen: € 145,-
+* Teilnehmende:r Beobachter:in: € 50,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -98,8 +100,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung 6 Stunden 
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen: € 180,-
-* Teilnehmende:r Beobachter:in: € 60,-
+* Teilnehmer:in mit eigenem Anliegen: € 210,-
+* Teilnehmende:r Beobachter:in: € 90,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -109,8 +111,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung 8 Stunden 
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen: € 240,-
-* Teilnehmende:r Beobachter:in: € 80,-
+* Teilnehmer:in mit eigenem Anliegen: € 260,-
+* Teilnehmende:r Beobachter:in: € 110,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -119,8 +121,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Zweitages Seminar
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen: € 290,-
-* Teilnehmende:r Beobachter:in: € 130,-
+* Teilnehmer:in mit eigenem Anliegen: € 320,-
+* Teilnehmende:r Beobachter:in: € 180,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -129,8 +131,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Dreitages Seminar
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen:€ 390,-
-* Teilnehmende:r Beobachter:in: € 130,-
+* Teilnehmer:in mit eigenem Anliegen:€ 450,-
+* Teilnehmende:r Beobachter:in: € 210,-
 {{% /small  %}}
 {{% /box %}}
 
@@ -140,8 +142,8 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 * Familienaufstellung Intensivwoche
 {{% /small  %}}
 {{% small  %}}
-* Teilnehmer:in mit eigenem Anliegen:€ 590,-
-* Teilnehmende:r Beobachter:in: € 240,-
+* Teilnehmer:in mit eigenem Anliegen:€ 890,-
+* Teilnehmende:r Beobachter:in: € 250,-
 {{% /small  %}}
 {{% /box %}}
 
