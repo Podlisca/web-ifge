@@ -43,11 +43,11 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-<center>Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
+<center>### Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
 
 {{% box top-align=1 %}}
 {{% small  %}}
-#### Prakische Tage
+### Prakische Tage
 <br>
 {{< buchung produkte="Hypno Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
@@ -55,7 +55,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{% /small  %}}
 
 {{% small  %}}
-#### Praktische Tage
+### Praktische Tage
 <br>
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>

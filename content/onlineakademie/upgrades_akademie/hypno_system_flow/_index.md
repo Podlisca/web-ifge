@@ -118,6 +118,8 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
 
+Hier kannst du die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen
+
 ## Systemische Aufstellungen – Der Schlüssel zum Verstehen 
 
 Systemische Herangehensweisen bieten einen unvergleichlichen Zugang, um soziale Systeme und deren Auswirkungen besser zu verstehen. Rollen werden deutlich, Barrieren spürbar und Dynamiken erkennbar. Die in der Ausbildung vermittelten Lösungssätze helfen dabei, individuelle und kollektive Erlebnisse in Einklang zu bringen und nachhaltige Lösungen zu entwickeln.
