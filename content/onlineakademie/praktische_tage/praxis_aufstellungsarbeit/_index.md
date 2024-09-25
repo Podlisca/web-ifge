@@ -47,7 +47,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 
 <br>
-{{< buchung vorlagen="Praktische Tage - Klangschalenspecial;Praktische Tage - Methodenmix;Praktische Tage - Aufstellung;Praktische Tage - Psychologische Beratung;Praktische Tage - HypnoSystemFlow - Hypnose;Praktische Tage - HypnoSystemFlow - System;Praktische Tage - Tiergestütztes Coaching" text="Jetzt verbindlich anmelden" value="290" >}}
+{{< buchung vorlagen="Praktische Tage - Klangschalenspecial;Praktische Tage - Methodenmix;Praktische Tage - Aufstellung;Praktische Tage - Psychologische Beratung;Hypno Tag;Praktische Tage - Tiergestütztes Coaching" text="Jetzt verbindlich anmelden" value="290" >}}
 </br>
 
 
