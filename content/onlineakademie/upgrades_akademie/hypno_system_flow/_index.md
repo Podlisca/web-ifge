@@ -68,7 +68,8 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 <br>
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
-**Hier kannst du die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen**.
+
+**Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
 
 Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
@@ -123,7 +124,7 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-**Hier kannst du die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen**.
+**Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
 
 Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
