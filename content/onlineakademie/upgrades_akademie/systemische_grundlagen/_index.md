@@ -105,6 +105,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 {{% box more=1 blue=1 %}}
@@ -168,6 +170,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -325,6 +329,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
 
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 {{< line icon="icon/aufstellung.png" >}}
@@ -367,5 +373,7 @@ Wien, Österreich
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
 </br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 

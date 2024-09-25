@@ -69,6 +69,10 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
 
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
+
 **Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
 
 Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
@@ -123,6 +127,12 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 <br>
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
 
 **Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
 

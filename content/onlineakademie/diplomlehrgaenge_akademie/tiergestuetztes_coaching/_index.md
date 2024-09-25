@@ -143,6 +143,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 </br>
 
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 
@@ -214,6 +216,8 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 </br>
 
 
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 
@@ -253,6 +257,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 *** 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
@@ -465,6 +471,8 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< line icon="icon/tiere.png" >}}
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
 {{< line icon="icon/tiere.png" >}}
@@ -513,6 +521,8 @@ Wien, Österreich
 <br>
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 </br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
