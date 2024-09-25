@@ -63,7 +63,7 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 
 {{< line icon="icon/beratung.png" >}}
 
-## Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
+### Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
 
 <br>
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
@@ -111,6 +111,8 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsprozesse anzustoßen. Ängste, Blockaden und Selbstzweifel sind oft in den familiären und sozialen Strukturen verankert, in denen wir aufgewachsen sind. Diese kollektiven Muster prägen sich tief in unser höchstpersönliches Erleben ein und beeinflussen unser Verhalten und unsere Emotionen auf unbewusster Ebene. Durch systemische Arbeit werden diese Strukturen sichtbar gemacht, und durch gezielte Hypnose werden neue, positive Verhaltensmuster verankert. So kannst du deinen Klient:innen helfen, belastende Muster zu unterbinden und nachhaltige Veränderungen in ihrem Leben zu erreichen.
 
 {{< line icon="icon/aufstellung.png" >}}
+
+### Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
 
 <br>
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
