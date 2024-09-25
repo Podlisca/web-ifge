@@ -45,14 +45,25 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 <center>Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
 
-
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Prakische Tage
 <br>
 {{< buchung produkte="Hypno Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
+{{% /small  %}}
+
+{{% small  %}}
+#### Praktische Tage
 <br>
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
+
+
+{{% /small  %}}
+{{% /box  %}}
+
 
 **Kosten für Externe Teilnehmer:innen:** € 590,-  </br>
 
@@ -106,10 +117,6 @@ Gerichtsstand ist das zuständige Gericht in Wien.
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
- 
+
 {{% /small  %}}
 {{% /box  %}}
