@@ -112,6 +112,10 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 
 {{< line icon="icon/aufstellung.png" >}}
 
+<br>
+{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
+</br>
+
 ## Systemische Aufstellungen – Der Schlüssel zum Verstehen 
 
 Systemische Herangehensweisen bieten einen unvergleichlichen Zugang, um soziale Systeme und deren Auswirkungen besser zu verstehen. Rollen werden deutlich, Barrieren spürbar und Dynamiken erkennbar. Die in der Ausbildung vermittelten Lösungssätze helfen dabei, individuelle und kollektive Erlebnisse in Einklang zu bringen und nachhaltige Lösungen zu entwickeln.
