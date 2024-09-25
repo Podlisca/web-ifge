@@ -47,11 +47,11 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 
 <br>
-{{< buchung produkte="Hypno Tag" text="Jetzt loslegen" value="1490" >}}
+{{< buchung produkte="Hypno Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
 <br>
-{{< buchung produkte="System Tag" text="Jetzt loslegen" value="1490" >}}
+{{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
 **Kosten für Externe Teilnehmer:innen:** € 290,-  </br>
