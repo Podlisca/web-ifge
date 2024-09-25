@@ -28,8 +28,7 @@ rich_faq:
 
 ## Hypnose und systemische Perspekt **T**IEFEn.
 ## Menschliche Psyche und Systeme verstehen.
-***
-# Seite im Aufbau
+
 ***
 
 <div class="box video">
@@ -63,6 +62,22 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 </div> 
 
 {{< line icon="icon/beratung.png" >}}
+
+### Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
+
+<br>
+{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
+</br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
+
+**Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
+
+Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
+
+{{< line icon="icon/aufstellung.png" >}}
 
 **Der HypnoSystemFlow - HSF Coach** kombiniert das **Beste** aus **systemischer Arbeit** und **moderner Hypnose**. Es vereint die **Vorzüge beider Welten** um tiefgreifende Veränderungen zu ermöglichen.
 
@@ -104,6 +119,23 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 ## Warum HypnoSystemFlow?
 
 Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsprozesse anzustoßen. Ängste, Blockaden und Selbstzweifel sind oft in den familiären und sozialen Strukturen verankert, in denen wir aufgewachsen sind. Diese kollektiven Muster prägen sich tief in unser höchstpersönliches Erleben ein und beeinflussen unser Verhalten und unsere Emotionen auf unbewusster Ebene. Durch systemische Arbeit werden diese Strukturen sichtbar gemacht, und durch gezielte Hypnose werden neue, positive Verhaltensmuster verankert. So kannst du deinen Klient:innen helfen, belastende Muster zu unterbinden und nachhaltige Veränderungen in ihrem Leben zu erreichen.
+
+{{< line icon="icon/aufstellung.png" >}}
+
+### Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
+
+<br>
+{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
+</br>
+
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
+
+**Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
+
+Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 {{< line icon="icon/aufstellung.png" >}}
 

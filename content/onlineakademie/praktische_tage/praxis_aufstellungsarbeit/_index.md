@@ -43,7 +43,9 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-<center>### Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
+<center>Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
+
+##### (um die Termine buchen zu können, müssen die Cookies aktiviert sein)
 
 {{% box top-align=1 %}}
 {{% small  %}}

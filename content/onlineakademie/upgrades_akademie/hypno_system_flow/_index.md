@@ -27,8 +27,7 @@ rich_faq:
 
 ## Hypnose und systemische Perspekt **T**IEFEn.
 ## Menschliche Psyche und Systeme verstehen.
-***
-# Seite im Aufbau
+
 ***
 
 <div class="box video">
@@ -128,7 +127,6 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
