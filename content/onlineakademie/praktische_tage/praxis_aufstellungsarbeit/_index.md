@@ -47,11 +47,14 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 
 <br>
-{{< buchung vorlagen="Praktische Tage - Klangschalenspecial;Praktische Tage - Methodenmix;Praktische Tage - Aufstellung;Praktische Tage - Psychologische Beratung;Hypno Tag;Praktische Tage - Tiergestütztes Coaching" text="Jetzt verbindlich anmelden" value="290" >}}
+{{< buchung produkte="Hypno Tag" text="Jetzt loslegen" value="1490" >}}
 </br>
 
+<br>
+{{< buchung produkte="System Tag" text="Jetzt loslegen" value="1490" >}}
+</br>
 
-**Kosten:** € 290,-  </br>
+**Kosten für Externe Teilnehmer:innen:** € 290,-  </br>
 
 **Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
 
