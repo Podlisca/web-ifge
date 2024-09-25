@@ -68,6 +68,11 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 <br>
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
+#### Hier kannst du die [**Praktischen Tage**](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.
+
+Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
+
+{{< line icon="icon/aufstellung.png" >}}
 
 **Der HypnoSystemFlow - HSF Coach** kombiniert das **Beste** aus **systemischer Arbeit** und **moderner Hypnose**. Es vereint die **Vorzüge beider Welten** um tiefgreifende Veränderungen zu ermöglichen.
 
@@ -118,7 +123,7 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-### Hier kannst du die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) gleich buchen.
+#### Hier kannst du die [**Praktischen Tage**](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.
 
 Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
