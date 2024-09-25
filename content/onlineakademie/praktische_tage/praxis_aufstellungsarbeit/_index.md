@@ -54,7 +54,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-**Kosten für Externe Teilnehmer:innen:** € 290,-  </br>
+**Kosten für Externe Teilnehmer:innen:** € 590,-  </br>
 
 **Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
 
