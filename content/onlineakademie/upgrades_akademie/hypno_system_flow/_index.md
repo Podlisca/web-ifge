@@ -118,7 +118,11 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsproze
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-Hier kannst du die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen
+### Hier kannst du die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) gleich buchen.
+
+Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
+
+{{< line icon="icon/aufstellung.png" >}}
 
 ## Systemische Aufstellungen – Der Schlüssel zum Verstehen 
 
