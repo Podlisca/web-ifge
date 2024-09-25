@@ -80,7 +80,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 ## Kosten & Zahlungsbedingungen
 
-Um den Platz verbindlich zu reservieren, ist nach Anmeldung die Kursgebühr € 290,- auf das Konto:
+Um den Platz verbindlich zu reservieren, ist nach Anmeldung die Kursgebühr auf das Konto:
 
 Silvia Podlisca - Institut für ganzheitliches Erleben
 Bank Austria
@@ -99,7 +99,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 ## Allgemeine Geschäftsbedingungen
 
-Bei Absage bis zu zwei Wochen vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis einer Wochen vor dem geplanten Beginn ist eine Stornogebühr von 50% der Gesamtsumme zu bezahlen; danach die volle Gebühr und ein Vertragsrücktritt ist ausgeschlossen.
+Bei Absage bis zu zwei Wochen nach Buchung entsteht keine Stornogebühr. Danach ist ein Rücktritt nicht mehr möglich und es werden keine Kosten erlassen oder rückerstattet. 
 
 Gerichtsstand ist das zuständige Gericht in Wien.
 
