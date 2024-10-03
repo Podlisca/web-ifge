@@ -213,7 +213,7 @@ Entdecke, wie du durch die Kombination von Hypnose und systemischer Arbeit tiefg
 * **3 Tage danach** startet das Kick off und du erhältst Kursmaterial für eine Woche
 * es folgen **4 Lernturnusse** mit Kursmaterial für jeweils **3 Wochen**
 * Im Anschluss darauf wird dir die **Onlineprüfung freigeschalten**
-* der wöchentliche **Lehraufwand** betragt ca. **5 - 6 Stunden** um die Prüfung zu bestehen
+* der wöchentliche **Lernaufwand** betragt ca. **5 - 6 Stunden** um die Prüfung zu bestehen
 * **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung** 
 * **3 Jahre Vollzugriff** auf alle Lehrmaterialien
 * **4 intensive Praxistage in Präsenz**, um das Erlernte in einem geschützten Rahmen zu vertiefen. Wähle zwischen Wien und Burgenland (Pinkafeld)
