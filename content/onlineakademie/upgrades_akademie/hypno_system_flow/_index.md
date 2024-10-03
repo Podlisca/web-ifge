@@ -119,10 +119,10 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungspro
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
 * **Vormerkpreis** <br/>
-Gesamtbetrag: 1.690,00 € (gültig bis 15.10-2024)
+Gesamtbetrag: 1.690,00 € (gültig bis 15.10.2024)
 
 * **Einführungspreis:€ 1.980,-** <br/>
-Zahlung nach Anmeldung (gültig bis 15.10-2024) <br/>
+Zahlung nach Anmeldung (gültig bis 15.10.2024) <br/>
 
 
 * **Zahlung nach Anmeldung: € 2.450,-** <br/>
@@ -138,7 +138,7 @@ Wähle als Zahlungsvariante bitte “HypnoSystemFlow Coach i.A”
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskaufdie Zahlung sofort auf das Konto:
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskauf die Zahlung sofort auf das Konto:
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
