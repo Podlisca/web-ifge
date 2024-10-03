@@ -22,6 +22,13 @@ rich_faq:
 
 {{< slogan >}}
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Kursstart 01.11.2024**
+#### **Vormerkpreis bis 15.10.2024** 
+#### **jetzt anmelden und bis zu 800 € sparen!**
+
+### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
@@ -43,13 +50,13 @@ rich_faq:
 
 {{% small %}}
 
-#### Lerne aus über 90 Lehrvideos 
+#### **Lerne aus über 90 Lehrvideos** 
 
 * HypnoSystemFlow bietet dir weit mehr als herkömmliche Methoden: Es vermittelt dir Werkzeuge, um **individuelle und kollektive Erfahrungen zu integrieren** und tiefgreifende Lösungen zu fördern. 
 
 * Du erlangst die **Fähigkeit, Veränderungsprozesse zu begleiten**, während die Lösungen immer bei der Klientin, beim Klienten selbst verankert bleiben. Deine Rolle ist es, den **Raum zu schaffen**, damit Klient:innen ihre eigenen Ressourcen aktivieren und **nachhaltige Veränderungen** erreichen können.
 
-#### Werde zum HypnoSystemFlow Coach.	
+#### **Werde zum HypnoSystemFlow Coach**	
 
 In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend, nicht nur die **äußeren Strukturen und Systeme** zu verstehen, sondern auch die **inneren Prozesse und Dynamiken**, die unser Denken, Fühlen und Handeln bestimmen. 
 
@@ -62,25 +69,11 @@ In einer Welt, die immer **komplexer und beweglicher wird**, ist es entscheidend
 
 {{< line icon="icon/beratung.png" >}}
 
-### Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
-
-<br>
-{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
-</br>
-
-##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
-
-**Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
-
-Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
-
-{{< line icon="icon/aufstellung.png" >}}
+## **Warum HypnoSystemFlow?**
 
 **Der HypnoSystemFlow - HSF Coach** kombiniert das **Beste** aus **systemischer Arbeit** und **moderner Hypnose**. Es vereint die **Vorzüge beider Welten** um tiefgreifende Veränderungen zu ermöglichen.
 
-### Erhalte 
+### **Erhalte:** 
 
 * **Sicherheit und Kompetenz** im Umgang mit komplexen menschlichen Themen 
 * **Fundiertes Wissen und praktische Werkzeuge**, um Veränderungsprozesse zu begleiten
@@ -88,6 +81,12 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 * **4 intensive Praxistage in Präsenz**, um das Erlernte in einem geschützten Rahmen zu vertiefen. Wähle zwischen Wien und Burgenland (Pinkafeld)
 * **Drei Jahre Vollzugriff** auf Lehrvideos und Lernmaterialien, damit du jederzeit nachschlagen und vertiefen kannst
 
+
+
+
+Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungsprozesse** anzustoßen. Ängste, Blockaden und Selbstzweifel sind oft in den familiären und sozialen Strukturen verankert, in denen wir aufgewachsen sind. Diese **kollektiven Muster prägen** sich tief in unser höchstpersönliches Erleben ein und **beeinflussen unser Verhalten und unsere Emotionen auf unbewusster Ebene**. Durch **systemische Arbeit** werden diese **Strukturen sichtbar** gemacht, und durch **gezielte Hypnose werden neue, positive Verhaltensmuster verankert**. 
+
+**So kannst du deinen Klient:innen helfen, belastende Muster zu unterbinden und nachhaltige Veränderungen in ihrem Leben zu erreichen.**
 
 
 {{< line icon="icon/beratung.png" >}}
@@ -114,14 +113,73 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 </div> 
 
-*** 
-## Warum HypnoSystemFlow?
+{{< line icon="icon/aufstellung.png" >}}
 
-Die HypnoSystemFlow-Methode ermöglicht es dir, tiefgreifende Veränderungsprozesse anzustoßen. Ängste, Blockaden und Selbstzweifel sind oft in den familiären und sozialen Strukturen verankert, in denen wir aufgewachsen sind. Diese kollektiven Muster prägen sich tief in unser höchstpersönliches Erleben ein und beeinflussen unser Verhalten und unsere Emotionen auf unbewusster Ebene. Durch systemische Arbeit werden diese Strukturen sichtbar gemacht, und durch gezielte Hypnose werden neue, positive Verhaltensmuster verankert. So kannst du deinen Klient:innen helfen, belastende Muster zu unterbinden und nachhaltige Veränderungen in ihrem Leben zu erreichen.
+{{% box more=1 blue=1 %}}
+{{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
+
+* **Vormerkpreis** <br/>
+Gesamtbetrag: 1.690,00 € (gültig bis 15.10-2024)
+
+* **Einführungspreis:€ 1.980,-** <br/>
+Zahlung nach Anmeldung (gültig bis 15.10-2024) <br/>
+
+
+* **Zahlung nach Anmeldung: € 2.450,-** <br/>
+Zahlung sofort nach Anmeldung. <br/>
+<br/>
+
+* **Praktische Tage in Präsenz**  
+Buche gleich deine [Praktische Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) 
+
+Wähle als Zahlungsvariante bitte “HypnoSystemFlow Coach i.A”
+
+{{< /card-more >}}
+
+
+{{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskaufdie Zahlung sofort auf das Konto:
+
+
+Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
+Bank Austria
+IBAN: AT42 1200 0007 4443 4259
+BIC: BKAUATWW
+
+zu überweisen. Bitte als Verwendungszweck "HypnoSystemFlow Coach + Deinen Namen" angeben.
+
+
+Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sollte es bei der Zahlung zu einem Zahlungsverzug von mehr als 10 Tagen kommen, wird der Zugang wird so lange gesperrt, bis die Zahlung eingetroffen ist. Bei einem Zahlungsverzug von mehr als 30 Tagen wird der Betrag gerichtlich eingefordert. 
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browser kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at 
+Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
+{{< /card-more >}}
+
+
+{{< card-more icon="icon/storno.png" title="Prüfung" >}}
+
+Der Lehrgang schließt mit einer Online-Abschlussprüfung im Rahmen am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab. Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
+
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+
+
+{{< /card-more >}}
+{{% /box %}}
+
 
 {{< line icon="icon/aufstellung.png" >}}
 
-### Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz
+## Du kannst sofort starten
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
+
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Kursstart 01.11.2024**
+#### **Vormerkpreis bis 15.10.2024** 
+#### **jetzt anmelden und bis zu 800 € sparen!**
+
+### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
 
 <br>
 {{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
@@ -142,22 +200,159 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 Systemische Herangehensweisen bieten einen unvergleichlichen Zugang, um soziale Systeme und deren Auswirkungen besser zu verstehen. Rollen werden deutlich, Barrieren spürbar und Dynamiken erkennbar. Die in der Ausbildung vermittelten Lösungssätze helfen dabei, individuelle und kollektive Erlebnisse in Einklang zu bringen und nachhaltige Lösungen zu entwickeln.
 
-{{< line icon="icon/aufstellung.png" >}}
-
 ## Hypnose – Die Kraft des Unbewussten nutzen 
 
 Lerne, wie Hypnose funktioniert und warum sie so effektiv ist. Entdecke die größten Mythen rund um Hypnose und erhalte Zugang zu allen wichtigen Techniken, die du in deinem Coaching-Prozess einsetzen kannst. Durch den strukturierten Aufbau des Kurses und die sorgfältige Vorbereitung wirst du in der Lage sein, Hypnose sicher und kompetent anzuwenden.
 
-{{< line icon="icon/aufstellung.png" >}}
-
-## Kursaufbau:
-
-* **Kick-off:** Einführung und Bereitstellung des Kursmaterials für die ersten 3 Tage
-* **4 Turnusse:** Jeder Turnus umfasst Kursmaterial für 3 Wochen, das systematisch und praxisnah aufgebaut ist
-
-
-Diese Ausbildung ist ideal für alle, die Menschen in ihrer persönlichen Entwicklung begleiten möchten – ob als Coach, Berater:innen oder Therapeut:innen
+## Kursaufbau & Lehrinhalte:
 
 Entdecke, wie du durch die Kombination von Hypnose und systemischer Arbeit tiefgreifende Veränderungsprozesse anstoßen und Menschen nachhaltig unterstützen kannst. Werde zum HypnoSystemFlow Coach und gestalte die Zukunft aktiv mit.
 
+* Du startest mit den  **Willkommensvideos und den ersten kleinen Aufgaben** 
+* **3 Tage danach** startet das Kick off und du erhältst Kursmaterial für eine Woche
+* es folgen **4 Lernturnusse** mit Kursmaterial für jeweils **3 Wochen**
+* Im Anschluss darauf wird dir die **Onlineprüfung freigeschalten**
+* der wöchentliche **Lehraufwand** betragt ca. **5 - 6 Stunden** um die Prüfung zu bestehen
+* **Ausführliche Online-Vorlesungen** sowie **Betreuung der Kommentare und Fragen** zu den Videos garantieren **individuelle und persönliche Betreuung** 
+* **3 Jahre Vollzugriff** auf alle Lehrmaterialien
+* **4 intensive Praxistage in Präsenz**, um das Erlernte in einem geschützten Rahmen zu vertiefen. Wähle zwischen Wien und Burgenland (Pinkafeld)
+
+{{< line icon="icon/aufstellung.png" >}}
+
+## Du kannst sofort starten
+Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
+
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Kursstart 01.11.2024**
+#### **Vormerkpreis bis 15.10.2024** 
+#### **jetzt anmelden und bis zu 800 € sparen!**
+
+### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
+
+<br>
+{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
+</br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen.
+
+**Nach Kurskauf kannst du hier die [Praktischen Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) buchen.**
+
+Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
+
+{{< line icon="icon/aufstellung.png" >}}
+
+### Lehrinhalte:
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Kick-off" >}}
+
+ **Kursmaterial für eine Woche**
+
+* genaue Auflistung folgt
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 1" >}}
+**Kursmaterial für 3 Wochen**
+
+* genaue Auflistung folgt
+
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 2" >}}
+
+**Kursmaterial für 3 Wochen**
+
+* genaue Auflistung folgt
+
+{{< /card-more >}}
+{{% /box %}}
+
+{{% box more=1 blue=1 %}}
+{{< card-more  title="Turnus 3" >}}
+**Kursmaterial für 3 Wochen**
+
+* genaue Auflistung folgt
+
+{{< /card-more >}}
+
+
+{{< card-more  title="Turnus 4" >}}
+**Kursmaterial für 3 Wochen**
+
+* genaue Auflistung folgt
+
+
+{{< /card-more >}}
+
+{{< card-more  title="Prüfung" >}}
+
+Der Lehrgang schließt mit **Online-Abschlussprüfung** ab. Nach bestandener Prüfung erhältst Du ein IFGE Zertifikat.
+Alle Teilnehmer:innen erhalten eine IFGE Bestätigung über die **fachliche Fortbildung**. Diese wird für die gesetzlich vorgeschriebene Weiterbildung für Lebensberater*innen anerkannt. Für deine fachliche Fortbildung werden dir **64 Weiterbildungsstunden** bestätigt. 
+
+Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschließen der Kurse nicht möglich. Sobald alle Kurse gesehen wurden, kann die Teilnahmebestätigung ausgestellt werden. 
+
+
+{{< /card-more >}}
+{{% /box %}}
+
+
+{{< line icon="icon/aufstellung.png" >}}
+
+
 ***
+### Allgemeine Geschäftsbedingungen
+
+**1.	Leistung**
+Der:die Teilnehmer:in Onlinelehrgangs „HypnoSystemFlow Coach“ des IFGE und der [Menatlakademie](https://mentalacademy.at/) erhält mit dieser Vereinbarung Zugang zu den Schulungsunterlagen des Kurses. Diese umfassen Bild-, Ton- und Videoaufnahmen sowie PDF-Dokumente. Darüber hinaus können vier Präsenztage gebucht werden – zwei Tage im Bereich „Systemische Arbeit“ und zwei Tage im Bereich „Hypnose“.
+
+Nach der Buchung der Präsenztage sind die Termine verbindlich. Eine einmalige kostenfreie Terminverschiebung kann nach Absprache und vorbehaltlich der Verfügbarkeit von Plätzen gewährt werden, jedoch besteht darauf kein Anspruch. Durch Fehlbleiben werden keine Kosten rückerstattet.
+
+**2.	Zugang** 
+* Die Ausbildung ist für alle offen
+
+Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
+
+
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. 
+
+Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
+
+
+**3.	Nutzungsbedingungen**
+Der:die Nutzer:in gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
+Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.
+Es ist jedem Nutzer weiters untersagt, die abgerufenen Bild-, Ton- und Videoaufnahmen gemäß Punkt 1. und 2. in welcher Form auch immer abzuspeichern oder aufzuzeichnen.
+Für den Fall des Zuwiderhandelns wird der Zugang des Nutzers sofort gesperrt und es entsteht kein Anspruch auf Rückerstattung von bereits bezahlten Gebühren. IFGE wird bei Zuwiderhandeln allfällige Schäden und Unterlassungsansprüche gegen den Nutzer ohne Verzug geltend machen. 
+Für den Fall des Zuwiderhandelns verpflichtet sich der Nutzer zur Zahlung einer Vertragsstrafe in Höhe von EUR 5.000,--. Die Vertragsstrafe wird binnen 14 Tagen nach Aufforderung durch IFGE zur Zahlung fällig.
+
+**4. Garantie**
+IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wirtschaftlichen Erfolg erreicht.
+
+
+**6. Gerichtstand:**
+Wien, Österreich
+
+
+{{< line icon="icon/raueme.png" >}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/ifge_wien.jpg,/img/raum_wien1.jpg,/img/beratungsraum_wien.jpg,/img/vorzimmer_wien.jpg,/img/ifge_wien.jpg,/img/blumen_wien.jpg,/img/raum_wien2.jpg,/img/beratungsraum_wien1.jpg" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+
+
+
+{{% /small  %}}
+{{% /box  %}}

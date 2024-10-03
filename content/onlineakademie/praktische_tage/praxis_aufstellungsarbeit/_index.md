@@ -99,7 +99,7 @@ Voraussetzung hierfür ist die 100%ige Anwesenheit im Rahmen des Kurses sowie di
 
 ## Allgemeine Geschäftsbedingungen
 
-Bei Absage bis zu zwei Wochen nach Buchung entsteht keine Stornogebühr. Danach ist ein Rücktritt nicht mehr möglich und es werden keine Kosten erlassen oder rückerstattet. 
+Nach der Buchung der Präsenztage sind die Termine verbindlich. Eine einmalige kostenfreie Terminverschiebung kann nach Absprache und vorbehaltlich der Verfügbarkeit von Plätzen gewährt werden, jedoch besteht darauf kein Anspruch. Durch Fehlbleiben werden keine Kosten rückerstattet. 
 
 Gerichtsstand ist das zuständige Gericht in Wien.
 
