@@ -25,7 +25,7 @@ rich_faq:
 
 {{< line icon="icon/aktion.png" >}}
 
-#### **Kursstart 01.11.2024**
+#### **Kursstart 15.11.2024**
 #### **Vormerkpreis bis 15.10.2024** 
 #### **jetzt anmelden und bis zu 800 € sparen!**
 
@@ -176,7 +176,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/aktion.png" >}}
 
-#### **Kursstart 01.11.2024**
+#### **Kursstart 15.11.2024**
 #### **Vormerkpreis bis 15.10.2024** 
 #### **jetzt anmelden und bis zu 800 € sparen!**
 
@@ -226,7 +226,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/aktion.png" >}}
 
-#### **Kursstart 01.11.2024**
+#### **Kursstart 15.11.2024**
 #### **Vormerkpreis bis 15.10.2024** 
 #### **jetzt anmelden und bis zu 800 € sparen!**
 
