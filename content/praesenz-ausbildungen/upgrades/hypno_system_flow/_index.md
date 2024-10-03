@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 6
 description: "In dieser umfassenden Ausbildung erlernst du die einzigartige Verbindung von Hypnose und systemischen Ansätzen, um Menschen in ihrer persönlichen Entwicklung zu unterstützen."
-og_image: "/img/logo_hypnp.png"
+og_image: "/img/hyno_neu.png"
 rich_kurs: true
 rich_faq:
     -   frage: "Was lernt man in der HypnoSystemFlow Coach Ausbildung?"

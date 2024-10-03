@@ -7,7 +7,7 @@ menu:
 draft: false
 weight: 6
 description: "In dieser umfassenden Ausbildung erlernst du die einzigartige Verbindung von Hypnose und systemischen Ansätzen, um Menschen in ihrer persönlichen Entwicklung zu unterstützen."
-og_image: "/img/logo_hypnp.png"
+og_image: "/img/hyno_neu.png"
 rich_kurs: true
 rich_faq:
     -   frage: "Was lernt man in der HypnoSystemFlow Coach Ausbildung?"
@@ -196,13 +196,17 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 {{< line icon="icon/aufstellung.png" >}}
 
-## Systemische Aufstellungen – Der Schlüssel zum Verstehen 
+## **Systemische Aufstellungen – Der Schlüssel zum Verstehen** 
+
 
 Systemische Herangehensweisen bieten einen unvergleichlichen Zugang, um soziale Systeme und deren Auswirkungen besser zu verstehen. Rollen werden deutlich, Barrieren spürbar und Dynamiken erkennbar. Die in der Ausbildung vermittelten Lösungssätze helfen dabei, individuelle und kollektive Erlebnisse in Einklang zu bringen und nachhaltige Lösungen zu entwickeln.
 
-## Hypnose – Die Kraft des Unbewussten nutzen 
+## **Hypnose – Die Kraft des Unbewussten nutzen**
 
 Lerne, wie Hypnose funktioniert und warum sie so effektiv ist. Entdecke die größten Mythen rund um Hypnose und erhalte Zugang zu allen wichtigen Techniken, die du in deinem Coaching-Prozess einsetzen kannst. Durch den strukturierten Aufbau des Kurses und die sorgfältige Vorbereitung wirst du in der Lage sein, Hypnose sicher und kompetent anzuwenden.
+
+
+{{< line icon="icon/aufstellung.png" >}}
 
 ## Kursaufbau & Lehrinhalte:
 
