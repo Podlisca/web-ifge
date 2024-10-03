@@ -305,7 +305,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< line icon="icon/aufstellung.png" >}}
 
 
-***
+
 ### Allgemeine Geschäftsbedingungen
 
 **1.	Leistung**
