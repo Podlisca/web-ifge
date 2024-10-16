@@ -25,6 +25,7 @@ rich_faq:
 {{< line icon="icon/aktion.png" >}}
 
 #### **Kursstart 15.11.2024**
+#### **Jetzt Einführungspreis sichern!**
 
 
 ### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
@@ -117,8 +118,6 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungspro
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* **Vormerkpreis** <br/>
-Gesamtbetrag: 1.690,00 € (gültig bis 15.10.2024)
 
 * **Einführungspreis:€ 1.980,-** <br/>
 Zahlung nach Anmeldung (gültig bis 31.12.2024) <br/>
@@ -175,6 +174,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 {{< line icon="icon/aktion.png" >}}
 
 #### **Kursstart 15.11.2024**
+#### **Jetzt Einführungspreis sichern!**
 
 
 ### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
@@ -228,6 +228,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 {{< line icon="icon/aktion.png" >}}
 
 #### **Kursstart 15.11.2024**
+#### **Jetzt Einführungspreis sichern!**
 
 
 ### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
