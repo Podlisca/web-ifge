@@ -2,7 +2,7 @@
 title: "MENSCHEN BEWEGEN, BEGLEITEN & BEREICHERN"
 draft: false
 description: " Menschen bewegen, begleiten und bereichern.
-Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr und am Wochenende von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie Supervision und Aufstellungsarbeit, sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
+Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau das steht seit mehr als 20 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen Qualitätsausbildungen, begleiten sie bei ihrer beruflichen sowie persönlichen Entwicklung und bereichern sie so mit neuen Perspektiven. Und das mit viel Intuition, fundiertem Fachwissen, jeder Menge Gefühl und großem Erfolg "
 og_title: "IFGE - Silvia Podlisca"
 og_image: "/img/silvia_onlineakdademie.jpg"
 ---
