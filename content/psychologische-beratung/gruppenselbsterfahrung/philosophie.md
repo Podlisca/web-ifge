@@ -47,10 +47,6 @@ Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten im
 In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
 {{% /floatbox %}}
 
-{{< line icon="icon/info_tuerkis.png" >}}
-
-
-
 
 {{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
 {{% floatbox %}}
