@@ -39,11 +39,24 @@ Schon sehr früh fiel mir dadurch auf, dass Menschen stets die gleichen Strategi
 
 
 
+{{% floatbox %}}
 
 
 Heute weiß ich, dass es in der menschlichen Natur liegt, bei Schwierigkeiten immer im Kreis zu denken und der Mensch so versucht, seine Probleme zu lösen. Auch heute fasziniert mich diese uns eigene Denkstruktur noch im gleichen Maß, nur weiß ich mittlerweile: Wenn es stimmen würde, was wir in belastenden Situationen so denken, hätten wir alle die Lösung schon längst selbst gefunden. Meistens jedoch verstricken wir uns tiefer und tiefer in unsere Muster sowie unsere Argumentationen. Unsere Gedanken sind dadurch quasi „Futter für das Problem“. 
 
 In der psychologischen Beratung lade ich Sie ein, wieder ganzheitlich zu denken, zu spüren und wahrzunehmen, um letztendlich anders und konstruktiv zu handeln. Doch wie gelingt das?
+{{% /floatbox %}}
+
+{{< line icon="icon/info_tuerkis.png" >}}
+
+
+
+
+{{< line icon="icon/gruppenselbsterfahrung_schmal_tuerkis.png" >}}
+{{% floatbox %}}
+
+{{% box %}}
+{{% small %}}
 
 In der Psychologie kennen wir verschiedene Bewusstseinsebenen. Neben dem, was wir täglich ganz klar und bewusst wahrnehmen, laufen in unserem Erleben zahlreiche Empfindungen unbewusst ab. Erlebnisse werden in diesem unbewussten Teil meist ganz anders verarbeitet und abgespeichert, als wir vordergründig erkennen können. Sie bemerken dies vielleicht, wenn Sie „so ein bestimmtes Gefühl“ haben. Dieses diffuse Bauchgefühl – unsere Intuition – wird von unserem bewussten Verstand häufig nicht ernst genommen. 
 {{% /small %}}
