@@ -99,7 +99,7 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 {{% /small  %}}
 {{% /box %}}
 
-**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systematische Einzelberatung**
+**Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich!**
 
 ***
 
