@@ -49,7 +49,6 @@ Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **o
 
 {{< iconmenu >}}
 {{< card icon="icon/einzel_sv.png" title="Einzelsupervision" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Geschlossene SV Gruppe" link="/geschlossenegruppe" >}}
 {{< card icon="icon/sv_gruppe_offen.png" title="Offene SV Tage" link="offenegruppe" >}}
 {{< card icon="icon/sv_woche.png" title="Intensivwoche" link="supervisionswoche" >}}
 {{< card icon="icon/sv_teambuilding.png" title="Teamsupervision" >}}
