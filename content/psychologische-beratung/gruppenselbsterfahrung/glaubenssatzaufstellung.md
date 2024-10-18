@@ -4,7 +4,7 @@ menu:
     main:
         parent: psychologischeberatung_gruppe
         identifier: glaubenssatzaufstellung
-draft: false
+draft: true
 weight: 3
 aliases:
     - "/gruppenselbsterfahrung/glaubenssatzaufstellung/"

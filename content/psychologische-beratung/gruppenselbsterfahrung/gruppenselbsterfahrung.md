@@ -4,7 +4,7 @@ menu:
     main:
         parent: psychologischeberatung_gruppe
         identifier: selbsterfahrungsgruppe
-draft: false
+draft: true
 weight: 4
 aliases:
     - "/gruppenselbsterfahrung/gruppenselbsterfahrung/"

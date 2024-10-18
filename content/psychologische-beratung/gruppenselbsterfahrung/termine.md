@@ -7,7 +7,7 @@ menu:
 draft: false
 aliases:
     - "/gruppenselbsterfahrung/termine/"
-weight: 6
+weight: 4
 ---
 # Termine: Familienaufstellungen mit Silvia Podlisca
 {{< slogan >}}
