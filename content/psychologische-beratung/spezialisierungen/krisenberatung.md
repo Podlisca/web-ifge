@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung_einzel
         identifier: krisenberatung
 draft: false
-weight: 8
+weight: 7
 description: "Sehen Sie Ihre Krisensituation nicht als persönliches Versagen, sondern als Chance für eine Neugestaltung! Nehmen Sie eine Krisenberatung in Wien in Anspruch, DENN Lebenskrisen sind auch immer eine Lebenschance!"
 og_image: "/img/krise_2023_1.jpg"
 ---

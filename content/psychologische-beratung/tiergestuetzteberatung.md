@@ -5,7 +5,7 @@ menu:
         parent: psychologischeberatung_einzel
         identifier: beratung_tiergestuetzt
 draft: false
-weight: 7
+weight: 8
 aliases:
     - "/psychologische-beratung/tiergestuetzteberatung/"
 description: "Hunde unterstützen jeden Prozess, indem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind. Sie sind uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese respektieren zu lernen."
