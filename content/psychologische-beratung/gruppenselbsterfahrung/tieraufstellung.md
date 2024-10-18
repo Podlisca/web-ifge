@@ -81,9 +81,6 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 {{% box blue=1 %}}
 {{% small  %}}
 
-### DEN ABLAUF EINER FAMILIENAUFSTELLUNG FINDEN SIE UNTER:
-
-[Fotodokumentation](/gruppenselbsterfahrung/fotodokumentation/)
 
 ***
 
@@ -103,6 +100,8 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 {{% /box %}}
 
 **Termine für Einzelsitzungen sind jederzeit nach Vereinbarung unter +43 676 610 89 36 möglich! Lesen Sie hier mehr über systematische Einzelberatung**
+
+***
 
 {{% /small  %}}
 {{% /box %}}
