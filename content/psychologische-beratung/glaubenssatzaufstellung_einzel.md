@@ -4,7 +4,7 @@ menu:
     main:
         parent: psychologischeberatung_einzel
         identifier: glaubenssatz
-draft: false
+draft: true
 aliases:
     - "/psychologische-beratung/glaubenssatzaufstellung/"
 weight: 5
