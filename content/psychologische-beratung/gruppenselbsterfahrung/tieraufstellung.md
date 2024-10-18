@@ -4,7 +4,7 @@ menu:
     main:
         parent: psychologischeberatung_gruppe
         identifier: tieraufstellung
-draft: false
+draft: true
 weight: 5
 aliases:
     - "/gruppenselbsterfahrung/tieraufstellung/"
