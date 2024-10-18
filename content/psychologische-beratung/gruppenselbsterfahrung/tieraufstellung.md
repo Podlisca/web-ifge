@@ -77,7 +77,7 @@ Das Anliegen soll sich klar um das Haustier drehen (Katze benützt das Katzenklo
 * Trauer um ein verstorbenes Tier
 * ...und vieles mehr
 
-{{< line icon="icon/tiere.png" >}}
+
 {{% box blue=1 %}}
 {{% small  %}}
 
