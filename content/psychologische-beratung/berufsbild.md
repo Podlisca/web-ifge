@@ -36,14 +36,13 @@ rich_faq:
 
 {{% floatbox %}}
 
-{{< image src="/img/lsb_info_noe.jpg" float="left" title="Als Lebensberater:in - psychologischen Berater:in arbeiten Sie mit Menschen in an der Gesundheitserhaltung. Das Ziel ist Entlastungsgespräche in belastenden Situationen, wie zum Beispiel bei Tod, Trauer, Trennung, Scheidung, Traumata, kollektive Traumata, Sucht, Beziehungsschwierigkeiten, Schwierigkeiten in der Sexualität oder ähnlich belastenden Themen anzubieten. Dabei gilt zu beachten, dass die Klienten:innen den Alltag noch alleine bewältigen können. Am IFGE wird der Diplomlehrgang Lebensberatung – psychologische Beratung mit folgenden Schwerpunkten angeboten: systemisch Beratung, systemisch-kollektive Beratung, Sexualberatung und Work-Life-Balance. " >}} 
+{{< image src="/img/beratung_angehoerige_noe.jpg" float="left" title="Lebensberater:innen - psychologischen Berater:in arbeiten mit Menschen an der Gesundheitserhaltung. Das Ziel ist Entlastungsgespräche in belastenden Situationen, wie zum Beispiel bei Tod, Trauer, Trennung, Scheidung, Traumata, kollektive Traumata, Sucht, Beziehungsschwierigkeiten, Schwierigkeiten in der Sexualität oder ähnlich belastenden Themen anzubieten. Dabei gilt zu beachten, dass die Klienten:innen den Alltag noch alleine bewältigen können." >}} 
 
-Als Lebens- und Sozialberater:in arbeiten Sie mit gesunden Menschen, die im Alltag mit belastenden Situationen konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist.
+**Lebensberater:innen - psychologischen Berater:in arbeiten mit gesunden Menschen**, die im Alltag mit **belastenden Situationen** konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. In der Beratung arbeiten wir **ressourcen- und lösungsorientiert**, ohne Defizite in den Vordergrund zu stellen. Der Fokus liegt darauf, Dich in **Deinen Stärken zu unterstützen und gemeinsam Lösungen** zu entwickeln. Wichtig: Es werden keine Diagnosen gestellt und keine Medikamente verschrieben.
 
-Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater*innen „fangen“ sozusagen genau jene Menschen auf, die in herausfordernden Situationen feststecken, sodass es erst gar nicht zu Störungen kommt.
+Lebensberater:innen - psychologischen Berater:in **begleiten wir Dich** in belastenden Situationen wie **Tod, Trauer, Trennung, Scheidung, Traumata, Sucht, Beziehungsschwierigkeiten oder Herausforderungen in der Sexualität**. Dabei ist entscheidend, dass Du Deinen Alltag noch alleine bewältigen kannst.
 
-Um Ihnen ein möglichst umfassendes Bild über die vielfältigen Methoden und Arbeitsbereiche der Lebens- und Sozialberatung - psychologischen Beratung  zu bieten, wurden die Inhalte dieser Homepage ganz bewusst sehr ausführlich und breit gefächert gestaltet. So können Sie sich besonders einfach darüber informieren, wie abwechslungsreich die psychologische Beratung ist und in welchen Bereichen Sie nach positivem Abschluss Ihrer Diplomausbildung arbeiten können.
-
+Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater:innen - pschologische Berater:innen **„fangen“** sozusagen genau jene **Menschen auf**, die in herausfordernden Situationen feststecken, sodass es **erst gar nicht zu Störungen kommt**.
 
 {{% /floatbox %}}
 
