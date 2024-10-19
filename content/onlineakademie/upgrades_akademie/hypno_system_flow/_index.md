@@ -254,14 +254,40 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
  **Kursmaterial für eine Woche**
 
-* genaue Auflistung folgt
+* Allgemeine Info zum Kick-OFF
+* Theorie erklärt: Regeln & Grundlagen für die Systemische Arbeit
+* Systemische Aufstellungsarbeit - Systemische Dynamiken 💗
+* Die systemischen Dynamiken: Nachfolge - Übernahme - Hinbewegung 👥
+* Die Geschichte der Hypnose
+* Die größten Hypnosemythen
+* Trancestufen
+* Kontraindikationen
+* Grundlagen des Coaching
+* Phasen des Coaching
+* Setting im Coaching
+* Grundhaltung im Coaching
+* Zielfindung und Auftragsklärung im Coaching 
+* Grenzen des Coaching
+
 {{< /card-more >}}
 
 
 {{< card-more  title="Turnus 1" >}}
 **Kursmaterial für 3 Wochen**
 
-* genaue Auflistung folgt
+* WH: Grundlagen & systemisch -kollektive Regeln
+* Hinbewegung/Versöhnung Vater/Mutter/Eltern
+* Geschwister
+* Verlorene/abgetriebene/abgegangene Kinder
+* Klientengespräch mit Silvia und Miriam (inneres Bild)
+* Ablauf einer klassischen Hypnosesitzung
+* Das Vorgespräch
+* Hypnotische Sprachmuster
+* Hypnotische Phänomene 
+* Übung: Setpiece Magnetische Finger
+* Übung: Setpiece - Magnetische Hände
+* Übung: Setpiece leichte und schwere Hand
+
 
 {{< /card-more >}}
 
@@ -270,7 +296,27 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 **Kursmaterial für 3 Wochen**
 
-* genaue Auflistung folgt
+* 
+Allgemeine Infos zu Modul 2
+* WH Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit 💗
+* Liebesbeziehungen
+* Trennung von Partner*in
+* Trauer um Eltern
+* Adoption
+* Kind wird von einer anderen Person mit aufgezogen
+* Leben/Schicksal/Tod
+* Klientengespräch mit Silvia und Miriam (inneres Bild) - Folgegespräch
+* Induktion - Erklärung
+* Induktion - Dave Elman
+* Induktion - Jacquin Powerlift
+* Vertiefung - Erklärung
+* Vertiefung - PMR Progressive Muskelrelaxation
+* Strandvertiefer
+* verschiedene Vertiefungstechniken
+* Exduktion - Aufwecken
+* Übung: Das Haus mit den 3 Räumen
+* Übung: Goldener Tropfen
+
 
 {{< /card-more >}}
 {{% /box %}}
@@ -279,7 +325,30 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 {{< card-more  title="Turnus 3" >}}
 **Kursmaterial für 3 Wochen**
 
-* genaue Auflistung folgt
+* Allgemeine Infos zu Modul 3
+* Dynamik - Nachfolge: Klientin folgt Mutter nach & Persönliches (eigene Abtreibung)
+* Dynamik - Nachfolge: Klientin folgt Mutter nach & Persönliches (eigene Abtreibung) - Fachdiskussion
+* Dynamik - Nachfolge: Klientin folgt Geschwisterkind nach
+* Dynamik - Nachfolge: Klientin folgt Geschwisterkind nach - Fachdiskussion
+* Dynamik Übernahme: Klientin "übernimmt" Nachfolge der Mutter
+* Dynamik Übernahme: Klientin "übernimmt" Nachfolge der Mutter - Fachdiskussion
+* Dynamik: Abgang
+* Dynamik: Abgang - Fachdiskussion
+* Dynamik: Abgang (Teil 2)
+* Dynamik: Abtreibung
+* Dynamik: Abtreibung - Fachdiskussion
+* Dynamik: Kind verstorben
+* Dynamik: Kind verstorben - Fachdiskussion
+* Weitere systemische Interventionen 👥
+* Klientengespräch mit Silvia und Martin (inneres Bild)
+* Blitzhypnose - Ablauf
+* Blitzhypnose: Hand Pull Induction
+* Blitzhypnose - Raketenstart
+* Hypnosetechnik I - Revivikation (Ankern)
+* Hypnosetechnik I - Time Line
+* Hypnosetechnik I - Fast Phobia Cure
+* Hypnosetechnik I - Parts Negotiation
+* Übung: Blockadenlösung - Seelenreinigung
 
 {{< /card-more >}}
 
@@ -287,7 +356,22 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 {{< card-more  title="Turnus 4" >}}
 **Kursmaterial für 3 Wochen**
 
-* genaue Auflistung folgt
+* Allgemeine Infos zu Modul 4
+* Schweres Schicksal/Zustimmung/Integration ins Leben
+* Mögliche Dynamiken bei Essstörungen
+* Seelenanteile/Abspaltung/erstarrte Welten
+* Krieg/Vergewaltigung im Krieg (Kriegsrecht)
+* sexuelle Gewalt: Vergewaltigung/Missbrauch
+* Klientengespräch mit Silvia (inneres Bild)
+* Hypnosetechnik II - Rossis Brief Therapy
+* Hypnosetechnik II - SMOKE STOP
+* Hypnosetechnik II - PAIN GONE
+* Hypnosetechnik II - Gewichtsreduktion
+* Hypnosetechnik II - Regression
+* Hypnosetechnik II - Vergebungsarbeit
+* Kinderhypnose
+* Wenn etwas "schief" läuft....
+
 
 
 {{< /card-more >}}
