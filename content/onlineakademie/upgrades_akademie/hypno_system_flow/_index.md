@@ -296,8 +296,7 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 **Kursmaterial für 3 Wochen**
 
-* 
-Allgemeine Infos zu Modul 2
+* Allgemeine Infos zu Modul 2
 * WH Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit 💗
 * Liebesbeziehungen
 * Trennung von Partner*in

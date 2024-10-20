@@ -272,6 +272,7 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 {{< card-more  title="Turnus 1" >}}
 **Kursmaterial für 3 Wochen**
 
+* Allgemeine Infos zu Modul 1
 * WH: Grundlagen & systemisch -kollektive Regeln
 * Hinbewegung/Versöhnung Vater/Mutter/Eltern
 * Geschwister
@@ -293,8 +294,7 @@ Wähle als Zahlungsvariante bitte "HypnoSystemFlow Coach i.A"
 
 **Kursmaterial für 3 Wochen**
 
-* 
-Allgemeine Infos zu Modul 2
+* Allgemeine Infos zu Modul 2
 * WH Systemische Aufstellungsarbeit - Regeln & Zugehörigkeit 💗
 * Liebesbeziehungen
 * Trennung von Partner*in
