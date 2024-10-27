@@ -137,7 +137,7 @@ Wähle als Zahlungsvariante bitte “HypnoSystemFlow Coach i.A”
 
 
 {{< card-more icon="noun_Euro_2244498-2.png" title="Zugang & Zahlung" >}}
-**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskau fdie Zahlung sofort auf das Konto:
+**Die Ausbildung ist für alle offen**. Um dir den Zugang frei zu schalten, ist nach Kurskauf die Zahlung sofort auf das Konto:
 
 
 Silvia Podlisca - Institut für ganzheitliches Erleben e.U./FN 395989m
