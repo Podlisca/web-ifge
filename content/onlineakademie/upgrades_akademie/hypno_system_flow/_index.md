@@ -40,9 +40,9 @@ rich_faq:
 <div class="box video">
 {{% small %}}
 
-### Erlebe Silvia Podlisca im Unterricht 
-##### Tool: Systemische Grunddynamiken & Hinbewegung
-{{< youtube fmXmn39H7Zs>}}
+### Aufbau der Ausbildung
+
+{{< youtube 6lz9iTCutHI>}}
 
 ##### (Um das Video zu sehen, müssen die Cookies aktiviert sein)
 
