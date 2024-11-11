@@ -103,7 +103,7 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungspro
 {{% /small %}}
 {{% small %}}
 
-### Systemische Grunddynamiken & Hinbewegung
+### Systemische Grunddynamiken 
 {{< youtube fmXmn39H7Zs>}}
 {{% /small %}}
 {{% small %}}
