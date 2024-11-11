@@ -98,18 +98,19 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungspro
 <div class="box video">
 {{% small %}}
 
+### Hypnoseanzeichen
+{{< youtube WT-DGPz7hhE>}}
+{{% /small %}}
+{{% small %}}
+
 ### Systemische Grunddynamiken & Hinbewegung
 {{< youtube fmXmn39H7Zs>}}
 {{% /small %}}
 {{% small %}}
 
-### Systemische Gewichtung erkennen
-{{< youtube VpGMUidEA6c >}}
-{{% /small %}}
-{{% small %}}
 
-### wichtige Tipps vor der Aufstellung
-{{< youtube ETq4wKksuLU>}}
+### Abgrenzung Coaching 
+{{< youtube oxZgiujqy1Q>}}
 {{% /small %}}
 
 </div> 
