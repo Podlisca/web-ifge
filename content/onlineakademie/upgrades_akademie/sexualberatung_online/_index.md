@@ -32,7 +32,7 @@ rich_faq:
 #### **Black Friday Week Angebot**
 #### **-20% Rabatt bis 02.12.2024**
 #### **Aktionscode: #blackfridayS**
-(Angebot nur auf die Einmalzahlung anwendbar)
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 ***
 
@@ -104,7 +104,12 @@ Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomaus
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-***
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayS**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 <br>
@@ -177,7 +182,12 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayS**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 <br>
@@ -333,7 +343,12 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayS**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -401,7 +416,12 @@ Wien, Österreich
 
 <br>
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayS**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 

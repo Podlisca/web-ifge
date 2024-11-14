@@ -29,6 +29,13 @@ aliases:
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 #### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayHG**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
+
 ***
 
 <div class="box video">
@@ -88,18 +95,17 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 
 </div> 
 
-*** 
 
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
 
-
-
-
-
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayHG**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -163,7 +169,12 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/aufstellung.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayHG**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -321,7 +332,12 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/aufstellung.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayHG**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -366,7 +382,12 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayHG**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
