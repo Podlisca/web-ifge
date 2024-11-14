@@ -27,6 +27,12 @@ rich_faq:
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
 #### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayS**
+(Angebot nur auf die Einmalzahlung anwendbar)
 
 ***
 
