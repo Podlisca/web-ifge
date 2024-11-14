@@ -39,6 +39,15 @@ rich_faq:
 ## Schwingungen auslösen. Wirkung erzielen. 
 #### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
+
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
+
+
 *** 
 
 
@@ -120,9 +129,12 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 
 
-***
+{{< line icon="icon/aktion.png" >}}
 
-
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 <br>
@@ -190,7 +202,12 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -443,12 +460,12 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 <br>
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
 
-
-
-
-
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
@@ -497,7 +514,12 @@ Die Schweigepflicht bezüglich der Privatsphäre der Kursteilnehmer:innen ist an
 **6. Gerichtstand:**
 Wien, Österreich
 
-{{< line icon="icon/klangschale.png">}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 

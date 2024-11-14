@@ -46,6 +46,12 @@ rich_faq:
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 #### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 ***
@@ -133,8 +139,12 @@ Neben der Tatsache, dass das Tier zu einer erfolgreichen Behandlung beiträgt, w
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
 
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -206,8 +216,12 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 <br>
 
-{{< line icon="icon/fachwissen_tuerkis.png" >}}
+{{< line icon="icon/aktion.png" >}}
 
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -254,8 +268,14 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+{{< line icon="icon/aktion.png" >}}
 
-*** 
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
+
+
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
@@ -468,7 +488,14 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{% /box %}}
 
 
-{{< line icon="icon/tiere.png" >}}
+{{< line icon="icon/aktion.png" >}}
+
+#### **Black Friday Week Angebot**
+#### **-20% Rabatt bis 02.12.2024**
+#### **Aktionscode: #blackfridayTK**
+##### (Angebot nur auf die Einmalzahlung anwendbar)
+
+
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
