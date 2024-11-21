@@ -25,7 +25,7 @@ rich_faq:
 
 {{< line icon="icon/aktion.png" >}}
 
-#### **Kursstart 15.11.2024**
+#### **Du kannst sofort starten**
 #### **Jetzt Einführungspreis sichern!**
 
 
@@ -175,7 +175,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/aktion.png" >}}
 
-#### **Kursstart 15.11.2024**
+#### **Du kannst sofort starten**
 #### **Jetzt Einführungspreis sichern!**
 
 
@@ -225,7 +225,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/aktion.png" >}}
 
-#### **Kursstart 15.11.2024**
+#### **Du kannst sofort starten**
 #### **Jetzt Einführungspreis sichern!**
 
 
