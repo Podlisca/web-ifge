@@ -360,25 +360,10 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
 
-{{< line icon="icon/beratung.png" >}}
 
 
-## In weiterer Folge buchbar:
-## [**Diplomlehrgang Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung/)
 
-{{% floatbox %}}
 
-{{< image src="/img/love_coach2.png" float="left" title="Ausbildung zum Love Coach." >}} 
-
-Du hast Freude an der **Sexualberatung** gefunden und möchtest dein **Wissen und deine Fähigkeiten** weiter vertiefen? 
-
-Unsere [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung), bestehend aus insgesamt dem Basismodul und  4 Aufbaumodulen, ist genau darauf ausgelegt, dich noch vertiefender in den Bereichen **Sexual- und Sexual-Paarberatung** zu qualifizieren. 
-
-Beginnend mit **grundlegenden Aspekten der Sexualberatung**, wie dem Verständnis von sexuellen Identitäten und Orientierungen sowie Methoden zur Lustgewinnung, über die Feinheiten der Paarberatung und den Umgang mit **sexueller Gesundheit**, bis hin zu spezialisierten Themen wie der **Kultursensible Sexualberatung** und der Auseinandersetzung mit **abweichenden Neigungen** – diese Ausbildung bereitet dich darauf vor, ein empathischer und effektiver Begleiter für die vielfältigen Bedürfnisse deiner Klienten zu sein.
-
-Ausführliche **Infos** findest du hier: [**Diplomausbildung Ganzheitliche Sexualberatung**](https://www.ifge.at/praesenz-ausbildungen/diplomlehrgaenge/ganzheitliche_sexualberatung)
-
-{{% /floatbox %}}
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
