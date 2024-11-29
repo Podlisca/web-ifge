@@ -88,9 +88,9 @@ Mit Ihrer Teilnahme stimmen Sie den allgemeinen Rahmenbedingungen zu.
 
  
 
-Preis pro Einheit (4 Stunden)  bis zu 8 Teilnehmer:innen: € 490,-  (inkl. 20 % Mwst.)
+Preis pro Einheit (eine Einheit = 45 Minuten)  bis zu 8 Teilnehmer:innen: € 210,-  (inkl. 20 % Mwst.)
 
-Preis pro Einheit (4 Stunden) ab 9 Teilnehme\r*innen mit 2 Trainer:innen: € 890,-  (inkl. 20 % Mwst.)
+Preis pro Einheit (eine Einheit = 45 Minuten)  ab 9 Teilnehme\r*innen mit 2 Trainer:innen: € 240,-  (inkl. 20 % Mwst.)
 
 {{< line icon="icon/supervision_tuerkis.png" >}}
 

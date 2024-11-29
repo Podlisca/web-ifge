@@ -78,7 +78,7 @@ Bei Kauf eines 10er Blocks ist die 11. Stunde kostenlos. Die Stunden/Einheiten w
 
 Zahlungsmöglichkeiten:Vorabüberweisung
 
-Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis, dass Stunden, die nicht mind. 48 Stunden vorher telefonisch abgesagt werden, voll verrechnet werden.
+Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis, dass Stunden, die nicht mind. 48 Stunden vorher telefonisch oder per Mail abgesagt werden, voll verrechnet werden.
 
 {{< line icon="icon/aufstellung.png" >}}
 
