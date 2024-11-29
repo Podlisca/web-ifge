@@ -131,21 +131,15 @@ Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomaus
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
 * **Neu: Abo Preis - 3 Jahre** <br/>
-Gesamtbetrag: 2.150,00 € (Anzahlung: 50,00 €, 36 Teilzahlungen a 58,33 €)
+Gesamtbetrag: 2.690,00 € (Anzahlung: 90,00 €, 36 Teilzahlungen a 72,22 €)
 
-* **Ausbildungskosten:€ 1.490,-** <br/>
+* **Ausbildungskosten:€ 1.980,-** <br/>
 Zahlung nach Anmeldung. <br/>
 
 
-* **Ratenzahlung: € 1.980,-** <br/>
-€ 490,- Zahlung sofort nach Anmeldung. <br/>
-1.490 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 372,50 €.<br/>
-
-* **Praktische Tage in Präsenz - optional**  
-Kosten pro Tag: € 290,- <br/>
-max. 18 Teilnehmer*\innen in Pinkafeld / max. 12 Teilnehmer*\innen in Wien oder St. Pölten
-
-Die Tage sind freiwillig und nicht verpflichtend für den Abschluss.
+* **Ratenzahlung: € 2.450,-** <br/>
+€ 450,- Zahlung sofort nach Anmeldung. <br/>
+2.000 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 500,- €.<br/>
 
 
 {{< /card-more >}}
