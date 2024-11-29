@@ -8,7 +8,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 ---
 
 # Herzlich Willkommen am IFGE
-# Wien & Burgenland 
+
 
 {{% banner img_position_x="85%" img_position_y="20%" alt="Silvia Podlisca" %}}
 
