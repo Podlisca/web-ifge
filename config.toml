@@ -17,8 +17,7 @@ unsafe = true
 
 [params]
 rich_provider = "IFGE"
-SiteDescription = "Als einziges Institut gibt es am IFGE den WKO zertifizierten Lehrgang für Lebens- und Sozialberatung immer wöchentlich an 3 Standorten (Wien, Burgenland & Niederösterreich) unter der Woche von 14:00 bis 20:00 Uhr  oder samstags von 10:00 bis 16:00 Uhr. Weitere WKO zertifizierte Upgrades wie \"Supervision\" und \"Aufstellungsarbeit\", sowie viele spannende Fortbildungen, finden auch an Wochenenden statt. Lernen in einer wertschätzenden und offenen Umgebung."
-og_site_name = "IFGE - Wir vereinen Intuition, Fachwissen, Gefühl und Erfolg!"
+SiteDescription = "Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau das steht seit mehr als 20 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen Qualitätsausbildungen, begleiten sie bei ihrer beruflichen sowie persönlichen Entwicklung und bereichern sie so mit neuen Perspektiven. Und das mit viel Intuition, fundiertem Fachwissen, jeder Menge Gefühl und großem Erfolg."
 og_image = "/img/silvia_onlineakdademie.jpg"
 
 [menu]
@@ -29,44 +28,18 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         url = "#"
         weight = 1
 
-    [[menu.main]]
-        name = "Präsenz-Ausbildungen"
-        identifier = "praesenz"
-        url = "#"       
-        weight = 5
-
-    [[menu.main]]
-        name = "Dipl. Ausbildungen"
-        identifier = "diplomlehrgaenge"
-        url = "#"       
-        weight = 1
-        parent = "praesenz"
-
-    [[menu.main]]
-        name = "Upgrades"
-        identifier = "upgrade"
-        url = "#"       
-        weight = 2
-        parent = "praesenz"
-
-    [[menu.main]]
-        name = "Fortbildungen"
-        identifier = "fortb"
-        url = "#"       
-        weight = 4
-        parent = "praesenz"
     
     [[menu.main]]
         name = "Online-Akademie"
         identifier = "onlineakademie"
         url = "#"
         weight = 99
-
+    
     [[menu.main]]
         name = "Supervision"
         identifier = "supervision"
         url = "#"
-        weight = 2
+        weight = 3
     
     [[menu.main]]
         name = "Psychologische Beratung"
@@ -88,7 +61,3 @@ og_image = "/img/silvia_onlineakdademie.jpg"
         weight = 12
         parent = "psychologischeberatung"
 
-    [[menu.main]]
-        name = "Videos"
-        url = "https://www.youtube.com/user/IFGEpodlisca/videos"
-        weight = 13
