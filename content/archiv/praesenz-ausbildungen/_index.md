@@ -3,7 +3,7 @@ title: "Ausbildungsphilosophie und Kursangebote"
 name: ausbildung
 menu: 
     main:
-        parent: praesenz
+        parent: "archiv"
         identifier: praesenz-ausbildungsphilosophie
 draft: true
 weight: 1
