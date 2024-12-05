@@ -29,14 +29,7 @@ aliases:
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
 #### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayHG**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
-
-***
+{{< line icon="icon/aufstellung.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -100,12 +93,7 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayHG**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
+{{< line icon="icon/aufstellung.png" >}}
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -164,12 +152,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayHG**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
+{{< line icon="icon/aufstellung.png" >}}
 
 
 
@@ -327,12 +310,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayHG**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
+{{< line icon="icon/aufstellung.png" >}}
 
 
 
@@ -377,12 +355,7 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayHG**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
+{{< line icon="icon/aufstellung.png" >}}
 
 
 

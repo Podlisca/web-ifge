@@ -27,14 +27,7 @@ rich_faq:
 ## Sexualität in der psychologischen Arbeit: Passend ansprechen & beraten. 
 #### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayS**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
-
-***
+{{< line icon="icon/beratung.png" >}}
 
 <div class="box video">
 {{% small %}}
@@ -104,12 +97,7 @@ Mit dem **Abschluss dieser Ausbildung** bist du berechtigt, unseren [**Diplomaus
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{< line icon="icon/aktion.png" >}}
-
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayS**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
+{{< line icon="icon/beratung.png" >}}
 
 
 <br>
@@ -175,13 +163,9 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
+{{< line icon="icon/beratung.png" >}}
 
-{{< line icon="icon/aktion.png" >}}
 
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayS**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 <br>
@@ -337,12 +321,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
-{{< line icon="icon/aktion.png" >}}
+{{< line icon="icon/beratung.png" >}}
 
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayS**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
@@ -395,12 +375,8 @@ Wien, Österreich
 
 <br>
 
-{{< line icon="icon/aktion.png" >}}
+{{< line icon="icon/beratung.png" >}}
 
-#### **Black Friday Week Angebot**
-#### **-20% Rabatt bis 02.12.2024**
-#### **Aktionscode: #blackfridayS**
-##### (Angebot nur auf die Einmalzahlung anwendbar)
 
 
 
