@@ -23,11 +23,11 @@ weight:
 
 Einzelstunde (50 Minuten)
 
-Preis: € 115,-
+Preis: € 125,-
 
 Paarberatung (1,5 Stunden)
 
-Preis: € 210,-
+Preis: € 225,-
 
 Paarberatung mit Silvia Podlisca und Martin Bransky
 
@@ -35,7 +35,7 @@ Preis: € 390,-
 
 Coaching (50 Minuten)
 
-Preis: € 145,-
+Preis: € 169,-
 
 Wellness (30 Minuten Klangschalenmassage)
 
