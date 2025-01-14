@@ -21,11 +21,9 @@ weight: 4
 {{% small  %}}
 
 
-Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Es gibt sowohl die Möglichkeit für ein zweitätiges Aufstellungswochenende oder ein Wochenende von Freitag Nachmittag bis Sonntag. 
+Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. 
 
-Bei Eintagesaufstellungen kannst du ebenfalls in der Dauer unterscheiden. Diese werden in einem 4-stündigen, 6-stündigen und 8-stündigen Setting angeboten. 
 
-Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. 
 
 {{% /small  %}}
 {{% /box %}}
@@ -34,7 +32,6 @@ Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwilli
 
 # Wähle den passenden Termin für dich:
 
-**Entscheide dich für ein Eintagesseminar mit 4, 6 oder 8 Stunden oder für ein dreitätiges Seminar am Wochenende.**
 
 ***
 
