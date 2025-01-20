@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode | default " de" }}">
+<html lang="{{ $.Site.LanguageCode | default "de" }}">
 
 <head>
   <meta charset="utf-8">
@@ -35,7 +35,6 @@
   {{- partial "rich-content" . -}}
 
   <link rel="canonical" href="https://www.ifge.at">
-
   <link rel="icon" type="image/png" href="/img/favicon.png">
 
   {{- $style := resources.Get "/css/style.css" -}}
@@ -44,6 +43,15 @@
   {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
   <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}" />
   <script data-cookieconsent="ignore" async defer src="/app/ifge-buchung.js"></script>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1053249710"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-1053249710');
+  </script>
 </head>
 
 <body>
