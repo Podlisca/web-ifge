@@ -50,7 +50,10 @@
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-QRLLE9DVGX');
+    gtag('config', 'G-QRLLE9DVGX', {
+      'send_page_view': true, // Sicherstellen, dass jede Seite getrackt wird
+      'allow_ad_personalization_signals': true // Optional: Personalisierte Anzeigen zulassen
+    });
   </script>
 </head>
 
