@@ -78,6 +78,7 @@ Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehun
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

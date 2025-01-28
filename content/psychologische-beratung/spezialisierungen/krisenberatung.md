@@ -10,12 +10,33 @@ description: "Sehen Sie Ihre Krisensituation nicht als persönliches Versagen, s
 og_image: "/img/krise_2023_1.jpg"
 ---
 # Krisenberatung
+## Krisenbewältigung mit Empathie und Kompetenz
 {{< slogan >}}
 
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 {{< line icon="icon/krise.png" >}}
 
 
 
+## Und mit einem Mal ist alles anders... 
+
+{{% floatbox %}}
+
+**Nichts ist mehr so, wie es vorher war. Plötzlich ist das gesamte Leben auf den Kopf gesellt. Und von jetzt auf gleich ist nicht mehr klar, wie es weitergehen kann...**
+
+{{< image src="/img/krise_2023_1.jpg" float="left" title="Bildbeschreibung" >}}
+
+Eine Krise kommt entweder **plötzlich und völlig unerwartet** auf uns zu – etwa durch Schicksalsschläge, wie den [Tod einer nahestehenden Person](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/), den Verlust des eigenen zu Hauses, die unerwartet ausgesprochene Kündigung oder tiefgreifende Erlebnisse wie Unfälle oder Übergriffe – **oder aber sie schleicht sich langsam durch Dauerbelastungen** in unseren Alltag ein, ohne dass wir sie kommen sehen bzw. wahrhaben wollten. 
+
+Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologische-beratung/spezialisierungen/suchtberatung/) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
+
+**"Ich bin in schwierigen Zeiten an Ihrer Seite".** *-Silvia Podlisca*
+
+{{< line icon="icon/termine.png" >}}
+
+#### **Terminvereinbarung unter** 
+#### **+43 676 610 89 36** 
+#### **silvia.podlisca@ifge.at**
 
 
 {{% box blue=1 %}}
@@ -35,25 +56,8 @@ og_image: "/img/krise_2023_1.jpg"
 
 {{< line icon="icon/krise.png" >}}
 
-## Und mit einem Mal ist alles anders... 
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 
-{{% floatbox %}}
-
-**Nichts ist mehr so, wie es vorher war. Plötzlich ist das gesamte Leben auf den Kopf gesellt. Und von jetzt auf gleich ist nicht mehr klar, wie es weitergehen kann...**
-
-{{< image src="/img/krise_2023_1.jpg" float="left" title="Bildbeschreibung" >}}
-
-Eine Krise kommt entweder **plötzlich und völlig unerwartet** auf uns zu – etwa durch Schicksalsschläge, wie den [Tod einer nahestehenden Person](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/), den Verlust des eigenen zu Hauses, die unerwartet ausgesprochene Kündigung oder tiefgreifende Erlebnisse wie Unfälle oder Übergriffe – **oder aber sie schleicht sich langsam durch Dauerbelastungen** in unseren Alltag ein, ohne dass wir sie kommen sehen bzw. wahrhaben wollten. 
-
-Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologische-beratung/spezialisierungen/suchtberatung/) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
-
-{{< line icon="icon/termine.png" >}}
-
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
-
-***
 
 Gerade in diesen selbst ausgelösten Krisen empfinden Klient:innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](/psychologische-beratung/einzelberatung/) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die Klient:innen nun **hilfreich sein kann**. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
 
@@ -102,6 +106,7 @@ Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und i
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

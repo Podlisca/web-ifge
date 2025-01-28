@@ -10,16 +10,18 @@ aliases:
 weight: 4
 ---
 # Termine: Familienaufstellungen mit Silvia Podlisca
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 {{< slogan >}}
 
 {{< line icon="icon/termine.png" >}}
 
-## MENSCHEN BEWEGEN, BEGLEITEN & BEREICHERN 
+## Gruppenselbsterfahrung – Gemeinsam wachsen und entdecken
 
 
 {{% box blue=1 %}}
 {{% small  %}}
 
+In der Gruppe entsteht ein sicherer Raum, um sich selbst besser kennenzulernen und neue Perspektiven zu gewinnen. Gemeinsam können wir alte Muster erkennen und in einem vertrauensvollen Miteinander Veränderung anstoßen.
 
 Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Teilnahme an Familienaufstellungen erfolgt eigenverantwortlich und freiwillig. 
 
@@ -31,11 +33,12 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 {{< line icon="icon/aufstellung.png" >}}
 
 # Wähle den passenden Termin für dich:
-
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 
 ***
 
 #### Familienaufstellung Dreitages Wochenende
+
 {{% center %}}Um die Termine zu sehen, müssen die Cookies aktiviert sein{{% /center %}}
 
 <br>

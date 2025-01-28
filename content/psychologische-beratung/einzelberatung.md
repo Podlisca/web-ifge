@@ -14,14 +14,13 @@ og_image: "/img/einzel_2023.jpg"
 ---
 
 # Lebensberatung und Sozialberatung
-# Wien & Burgenland 
-
+## Individuelle Unterstützung für Ihre persönliche Weiterentwicklung
 {{< slogan >}}
 
 {{< line icon="icon/beratung.png" >}}
 
 
-
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 
 
 <div class="box video">
@@ -52,6 +51,8 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 #### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/info_tuerkis.png" >}}
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -102,6 +103,8 @@ Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und ande
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+
 {{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychologischen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen. " >}} 
 
 Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. 
@@ -146,6 +149,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

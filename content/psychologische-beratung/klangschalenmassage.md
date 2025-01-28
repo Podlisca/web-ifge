@@ -15,7 +15,6 @@ aliases:
 ---
 
 # Klangschalenmassage mit Silvia Podlisca
-# Wien & Burgenland 
 
 {{< slogan >}}
 
@@ -94,6 +93,7 @@ Eine andere gute Möglichkeit ist, eine im Gespräch gefundene Lösung über die
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

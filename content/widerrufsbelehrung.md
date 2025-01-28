@@ -4,7 +4,6 @@ menu: footer
 draft: false
 weight: 3
 ---
-# Wien & Burgenland 
 
 {{< slogan >}}
 {{< line icon="icon/impressum.png" >}}

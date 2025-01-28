@@ -13,7 +13,7 @@ og_image: "/img/system_einzel.jpg"
 ---
 
 # Einzelsitzung – Systemische Beratung
-# Wien & Burgenland 
+## Systemische Beratung - ganzheitliche Lösungen mit Weitblick
 
 {{< slogan >}}
 
@@ -22,18 +22,19 @@ og_image: "/img/system_einzel.jpg"
 
 
 
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 
-## Systemische Beratung - ganzheitliche Lösungen mit Weitblick
+
 
 {{% floatbox %}}
 
-{{< image src="/img/system_einzel.jpg" float="left" title="Systemische Einzelberatung bedeutet, dass Sie im Focus der psychologischen Beratung stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im Zusammenhang mit der Umgebung (Familie, Beruf, Freunde) wirkt, und welche Wechselwirkung im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum." >}} 
+{{< image src="/img/system_einzel.jpg" float="left" title="**Systemische Einzelberatung** bedeutet, dass **Sie im Focus der psychologischen Beratung** stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im **Zusammenhang mit der Umgebung** (Familie, Beruf, Freunde) wirkt, und welche **Wechselwirkung** im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine **deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum**." >}} 
 
 
-Unterschiedliche systemische Zugänge ermöglichen – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der hypnosystemischen Beratung achte ich zum Beispiel darauf, dass Sie Ihre Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert – aber auch wohldosiert – für Ihre Lösungen einsetzen können, um neue wirksame Realitäten zu erschaffen.
+**Unterschiedliche systemische Zugänge ermöglichen** – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der **hypnosystemischen Beratung** achte ich zum Beispiel darauf, dass Sie Ihre **Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert** – aber auch wohldosiert – für Ihre **Lösungen** einsetzen können, um neue wirksame Realitäten zu erschaffen.
 <br/>
 <br/>
-Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden. 
+**Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden.** 
 <br/>
 <br/>
 {{< line icon="icon/termine.png" >}}
@@ -43,8 +44,6 @@ Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting sta
 #### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/familienaufstellung.png" >}}
-
-
 
 
 
@@ -71,7 +70,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
-
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 {{% box blue=1 %}}
 {{% small  %}}
 ## Hier finden Sie ausführliche Informationen über:
@@ -96,7 +95,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{% floatbox %}}
 
-
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 {{< image src="/img/systembrett_einzel_noe1.jpg" float="right" title="Durch sichtbar machen der Wechselwirkung auf dem Systembrett, werden neue Erkenntnisse und Einsichten möglich. Das Ziel ist, dass Sie im Familiensystem genau den Platz finden, wo Sie sich wohl und kraftvoll fühlen. Frei von Altlasten mit Blick in die Zukunft." >}} 
 
 Denn häufig begleitet meine Klient:innen jahrelang z.B. der Glaubenssatz, dass die Umsetzung ihrer Vorhaben oder der Schritt zur Weiterentwicklung einer hundertprozentigen Zustimmung ihrer selbst und auch der Zustimmung anderer bedürfen.  Fähigkeiten „wohldosiert“ einzusetzen, bedeutet hier also auch, zu erkennen, dass nicht zwangsläufig 100 Prozent von Ihnen gefordert sind, wenn Sie etwas verändern möchten. Denken Sie nur einmal an eine demokratische Abstimmung! Hier reicht schon eine einfach Mehrheit – also über 50 Prozent Zustimmung –, um in die Handlung zu gehen. Wo haben Sie sich vielleicht bisher etwas verwehrt oder haben sich nicht erlaubt, aktiv zu werden, weil Sie empfunden haben, für einen neuen Schritt „nur“ zu 80 Prozent gerüstet zu sein? Die sogenannte „innere Opposition“ ist sogar dringend notwendig, um sowohl flexibel als auch dynamisch zu bleiben und „Betriebsblindheiten“ zu vermeiden. 
@@ -126,6 +125,8 @@ Die [Philosophie](/about/institut/), die bei mir am Institut für ganzheitliches
 #### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/familienaufstellung.png" >}}
+
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 In Einzelsitzungen ist es überdies auch möglich, sich besonders viel Zeit für die Auswirkungen und persönlichen Folgen der in Gruppenaufstellungen sichtbar gewordenen Verstrickungen zu nehmen und Ihre neue Realität zu erschaffen. Ein bekannter Lösungssatz in der [klassischen Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) ist die Bitte der KlientInnen, dass jenes Familienmitglied, dem wir mit dem Lösen unseres Problems unähnlich werden, freundlich auf uns schauen möge, wenn es für uns anders und gut weitergehen darf. Diese eingeholte Erlaubnis – dieser freundliche Blick – am Ende einer Aufstellung nach Hellinger stellt den Beginn der [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung/) dar. Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie?
 
@@ -198,6 +199,7 @@ Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

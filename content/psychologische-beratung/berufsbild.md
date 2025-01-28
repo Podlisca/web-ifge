@@ -40,7 +40,7 @@ rich_faq:
 
 **Lebensberater:innen - psychologischen Berater:in arbeiten mit gesunden Menschen**, die im Alltag mit **belastenden Situationen** konfrontiert sind, jedoch noch keine krankhafte Störung vorhanden ist. In der Beratung arbeiten wir **ressourcen- und lösungsorientiert**, ohne Defizite in den Vordergrund zu stellen. Der Fokus liegt darauf, Dich in **Deinen Stärken zu unterstützen und gemeinsam Lösungen** zu entwickeln. Wichtig: Es werden keine Diagnosen gestellt und keine Medikamente verschrieben.
 
-Lebensberater:innen - psychologischen Berater:in **begleiten wir Dich** in belastenden Situationen wie **Tod, Trauer, Trennung, Scheidung, Traumata, Sucht, Beziehungsschwierigkeiten oder Herausforderungen in der Sexualität**. Dabei ist entscheidend, dass Du Deinen Alltag noch alleine bewältigen kannst.
+Als Lebensberater:innen - psychologischen Berater:in **begleiten wir Dich** in belastenden Situationen wie **Tod, Trauer, Trennung, Scheidung, Traumata, Sucht, Beziehungsschwierigkeiten oder Herausforderungen in der Sexualität**. Dabei ist entscheidend, dass Du Deinen Alltag noch alleine bewältigen kannst.
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater:innen - pschologische Berater:innen **„fangen“** sozusagen genau jene **Menschen auf**, die in herausfordernden Situationen feststecken, sodass es **erst gar nicht zu Störungen kommt**.
 
@@ -49,9 +49,15 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+
+
 {{% box blue=1 %}}
 {{% small  %}}
 ## Hier finden Sie ausführliche Informationen über:
+
+
+
 {{% /small  %}}
 {{% /box %}}
 
@@ -66,6 +72,7 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

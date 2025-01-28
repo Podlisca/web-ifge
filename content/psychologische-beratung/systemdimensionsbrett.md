@@ -69,6 +69,7 @@ Termine für Einzelberatungen bei mir sind jederzeit nach Vereinbarung unter +43
 {{% /box %}}
 
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

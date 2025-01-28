@@ -14,7 +14,6 @@ og_image: "/img/einzelsupervision_noe.jpg"
 
 
 # Einzelsupervision 
-# Wien & Burgenland 
 
 {{< slogan >}}
 

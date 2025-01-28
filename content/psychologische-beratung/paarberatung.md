@@ -25,13 +25,12 @@ rich_faq:
 ---
 
 # Paarberatung am IFGE
-# Wien & Burgenland 
-
+## Klärung, Entwicklung und neue Perspektiven
 {{< slogan >}}
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
-
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 
 
 
@@ -56,6 +55,8 @@ Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting sta
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
+
+
 {{% box blue=1 %}}
 {{% small  %}}
 ## Hier finden Sie ausführliche Informationen über:
@@ -78,7 +79,11 @@ Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting sta
 
 Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
 
+***
+
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
 {{< line icon="icon/termine.png" >}}
+
 
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
@@ -147,6 +152,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

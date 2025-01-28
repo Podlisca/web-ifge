@@ -81,6 +81,7 @@ Die Geschmeidigkeit der Institutskatzen und ihrer Bewegungen, ihr genüssliches 
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

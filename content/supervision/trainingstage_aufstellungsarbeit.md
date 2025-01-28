@@ -11,7 +11,6 @@ og_image: "/img/trainingstage.jpg"
 ---
 
 # Trainingstage: Aufstellungsarbeit
-# Wien & Burgenland 
 
 {{< slogan >}}
 {{< line icon="/icon/aufstellung.png" >}}

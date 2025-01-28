@@ -86,6 +86,7 @@ Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst,
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

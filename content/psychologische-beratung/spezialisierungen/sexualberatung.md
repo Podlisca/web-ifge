@@ -12,12 +12,39 @@ og_image: "/img/wien_silvia.jpg"
 ---
 
 # Sexualberatung
+## Systemische Sexualberatung – ganzheitlich, empathisch, kultursensibel
 {{< slogan >}}
 
 {{< line icon="icon/sexualberatung.png" >}}
 
 
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
+
+
+
+
+
+{{% floatbox %}}
+
+{{< image src="/img/sex_wunsche1.jpg" float="left" title="Bildbeschreibung" >}} 
+
+
+
+**Sexuelle Gesundheit** und **sexuelles Wohl­ergehen** haben einen großen Einfluss auf das **allgemeine Wohl­befinden** und sind für die meisten Menschen ebenso **wichtig** wie die **Gesundheit**.
+
+**Ängste und Hemmungen**, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, **belastende Vorlieben oder Neigungen** sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. 
+
+**Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität**. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
+
+{{< image src="/img/beratung_angehoerige_noe.jpg" float="right" title="Bildbeschreibung" >}}
+
+Mein **besonderes Augenmerk** in der Sexualberatung richte ich dabei seit Jahren ebenso auf **Teilbereiche der Sexualität**, die von Betroffenen **oftmals als besonders belastend** erlebt werden, die jedoch trotzdem häufig an den Rand des **gesellschaftlichen Bewusstseins** gedrängt werden. 
+
+Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. **Sexualität im Alter** findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
+
+
+{{< line icon="icon/sexualberatung.png" >}}
 
 
 {{% box blue=1 %}}
@@ -34,24 +61,6 @@ og_image: "/img/wien_silvia.jpg"
 {{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" link="../berufsbild" >}}
 {{< /iconmenu >}}
 
-{{< line icon="icon/sexualberatung.png" >}}
-
-
-{{% floatbox %}}
-
-{{< image src="/img/sex_wunsche1.jpg" float="left" title="Bildbeschreibung" >}} 
-
-**Sexuelle Gesundheit** und **sexuelles Wohl­ergehen** haben einen großen Einfluss auf das **allgemeine Wohl­befinden** und sind für die meisten Menschen ebenso **wichtig** wie die **Gesundheit**.
-
-**Ängste und Hemmungen**, gesammelte Er­fahrungen, alte Überzeugungen und Glau­bens­sätze, mangelnde Lust- und Liebes­fähigkeit, **belastende Vorlieben oder Neigungen** sowie sexualisierte Ge­walt kön­nen in Folge zu Konflikten, Lebenskrisen und schwerwiegenden Erkrankungen führen. 
-
-**Ein befriedigendes Sexualleben schafft Lebensfreude und Vitalität**. In einer sexuell orientierten Beratung geht es darum, herauszufinden, wie Sie ein befriedigendes Sexualleben erreichen kön­nen.
-
-{{< image src="/img/beratung_angehoerige_noe.jpg" float="right" title="Bildbeschreibung" >}}
-
-Mein **besonderes Augenmerk** in der Sexualberatung richte ich dabei seit Jahren ebenso auf **Teilbereiche der Sexualität**, die von Betroffenen **oftmals als besonders belastend** erlebt werden, die jedoch trotzdem häufig an den Rand des **gesellschaftlichen Bewusstseins** gedrängt werden. 
-
-Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Lebende und Liebende Menschen heute in unserer vermeintlich so offenen Welt erleben sowie die großen Veränderungen im sexuellen Erleben, denen Menschen im Alter begegnen. **Sexualität im Alter** findet in unserer Gesellschaft, in der Sexualität hauptsächlich mit Jugend und Vitalität in Verbindung gebracht wird, wenig Raum. Dieser wird gerade deshalb von mir am IFGE ganz bewusst geschaffen.
 
 {{< line icon="icon/termine.png" >}}
 
@@ -116,6 +125,7 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 
 # Spezialisierungen
+## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

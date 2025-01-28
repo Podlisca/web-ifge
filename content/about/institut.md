@@ -18,7 +18,6 @@ rich_logo: true
 ---
 
 # Über das IFGE<br/>
-# Wien & Burgenland 
 
 {{< slogan >}}
 

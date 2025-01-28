@@ -17,7 +17,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 {{< line icon="icon/beratung.png" >}}
 # Erleben Sie Silvia Podlisca.
 
-Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von mehr als **20 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
+Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von  **25 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
 
 
 <div class="box video">
@@ -58,7 +58,7 @@ Im Zentrum der [psychologischen Beratung](https://ifge.at/psychologische-beratun
 
 {{< card-more link="/online-ausbildungsangebote/onlinephilosophie/" icon="icon/gruppenselbsterfahrung_schwarz.png" title="Präsenzkurse">}}
 
-Seit über zehn Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den Diplomlehrgängen Lebens- und Sozialberatung – psychologische Beratung, Aufstellung nach der SGF®-Methode von Silvia Podlisca und Coaching, bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
+Seit über zwanzig Jahren bewegen, begleiten und bereichern wir Menschen mit fundierten, praxisorientierten Präsenzausbildungen. Neben den Diplomlehrgängen Lebens- und Sozialberatung – psychologische Beratung, Aufstellung nach der SGF®-Methode von Silvia Podlisca und Coaching, bieten wir auch zahlreiche Zusatzausbildungen und Upgrades. Unsere Präsenzausbildungen bieten Menschen die Möglichkeit zur beruflichen Neuorientierung sowie Weiterentwicklung.
 
 
 
