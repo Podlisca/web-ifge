@@ -18,7 +18,7 @@ og_image: "/img/wien_silvia.jpg"
 {{< line icon="icon/sexualberatung.png" >}}
 
 
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 
 
@@ -125,7 +125,7 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

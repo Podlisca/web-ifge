@@ -8,6 +8,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 ---
 
 # Herzlich Willkommen am IFGE
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 
 {{% banner img_position_x="85%" img_position_y="20%" alt="Silvia Podlisca" %}}

@@ -70,7 +70,7 @@ Und egal, als wie schlimm oder nicht schlimm Sie Ihre Erfahrung für sich bewert
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

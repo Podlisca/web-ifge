@@ -58,7 +58,7 @@ In der psychologischen Beratung nehme ich mir für Ihr Anliegen und Ihre Sorgen 
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

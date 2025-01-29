@@ -53,7 +53,7 @@ rich_faq:
 ---
 
 # Familienaufstellung mit Silvia Podlisca
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< slogan >}}
 {{< line icon="icon/aufstellung.png" >}}
 
@@ -92,7 +92,7 @@ Systeme, in denen individuelle Bedürfnisse auf kollektive Erwartungen treffen. 
 {{< line icon="icon/termine.png" >}}
 
 #### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
@@ -110,7 +110,7 @@ Die Frage, wo solche Gefühle und Sorgenkarusselle – die für uns oft kaum ver
 
 
 #### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% floatbox %}}
@@ -129,7 +129,7 @@ Diese angesprochene heimliche und tiefe Liebe, welche uns die Zugehörigkeit sic
 {{< line icon="icon/termine.png" >}}
 
 #### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}
@@ -158,7 +158,7 @@ Wo z.B. früher Männer im Krieg gefallen oder an den Folgen des Krieges (wie Al
 {{< line icon="icon/termine.png" >}}
 
 #### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% floatbox %}}
@@ -175,7 +175,7 @@ Ich empfehle vor einer Familien­auf­stel­lung ein Erstgespräch, um die Beweg
 {{< line icon="icon/termine.png" >}}
 
 #### **[Hier geht es zu den Aufstellungsterminen](https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/termine/)**
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/aufstellung.png" >}}
 
 {{% box blue=1 %}}

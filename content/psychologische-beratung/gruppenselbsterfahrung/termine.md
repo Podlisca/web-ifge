@@ -10,7 +10,7 @@ aliases:
 weight: 4
 ---
 # Termine: Familienaufstellungen mit Silvia Podlisca
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< slogan >}}
 
 {{< line icon="icon/termine.png" >}}
@@ -33,7 +33,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 {{< line icon="icon/aufstellung.png" >}}
 
 # Wähle den passenden Termin für dich:
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
 ***
 

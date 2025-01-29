@@ -65,7 +65,7 @@ Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut/)
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

@@ -59,7 +59,7 @@ Es ist wichtig, zu verstehen, dass eine einzige Tat nicht nur das Leben von Tät
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

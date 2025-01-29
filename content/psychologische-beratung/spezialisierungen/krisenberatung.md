@@ -13,7 +13,7 @@ og_image: "/img/krise_2023_1.jpg"
 ## Krisenbewältigung mit Empathie und Kompetenz
 {{< slogan >}}
 
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/krise.png" >}}
 
 
@@ -56,7 +56,7 @@ Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch we
 
 {{< line icon="icon/krise.png" >}}
 
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
 
 Gerade in diesen selbst ausgelösten Krisen empfinden Klient:innen gelegentlich ein Gefühl von Scham, welches verhindert, dass Hilfe in Anspruch genommen wird. Hier ist deutlich hervorzuheben, dass in der [psychologischen Beratung](/psychologische-beratung/einzelberatung/) weder kritisiert noch bewertet wird, sondern in offener und freundlicher Atmosphäre betrachtet wird, was für die Klient:innen nun **hilfreich sein kann**. Manchmal können auch Erlebnisse aus der Vergangenheit, denen wir keine Bedeutung beigemessen oder die wir gar vergessen haben, plötzlich in uns auftauchen und als völlig unvorhergesehene Krise unser gesamtes Gefühlsleben auf den Kopf stellen.
@@ -106,7 +106,7 @@ Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und i
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

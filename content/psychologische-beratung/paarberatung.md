@@ -30,7 +30,7 @@ rich_faq:
 
 {{< line icon="icon/paar_tuerkis.png" >}}
 
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
 
 
@@ -81,7 +81,7 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 
 ***
 
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 {{< line icon="icon/termine.png" >}}
 
 
@@ -152,7 +152,7 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

@@ -49,7 +49,7 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
 
 {{% box blue=1 %}}
@@ -72,7 +72,7 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}

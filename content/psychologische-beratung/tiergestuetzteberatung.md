@@ -38,7 +38,7 @@ Der **neue tierische Coach Ozzy** bereichert unser Team mit seiner **fröhlichen
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung 
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
 {{% box blue=1 %}}
 {{% small  %}}
@@ -128,7 +128,7 @@ Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Ti
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
-## Silvia - Seit 25 Jahren an Ihrer Seite: Für eine positive Lebensgestaltung
+## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
 {{% small  %}}
