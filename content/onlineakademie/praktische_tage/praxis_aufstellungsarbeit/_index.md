@@ -62,10 +62,8 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-***
 
 
-{{< buchung produkte="Praktische Tage - Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 
 {{% /small  %}}
 {{% /box  %}}
@@ -81,6 +79,11 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
+
+
+{{< buchung produkte="Praktische Tage - Sexualberatung" text="Jetzt loslegen" value="1490" >}}
+
+***
 
 ## Kosten & Zahlungsbedingungen
 
