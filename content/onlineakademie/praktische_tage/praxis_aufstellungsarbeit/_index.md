@@ -62,7 +62,10 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
-{{< buchung produkte="Sexualberatung -  April 2025" text="Jetzt loslegen" value="1490" >}}
+***
+
+
+{{< buchung produkte="Praktische Tage - Sexualberatung" text="Jetzt loslegen" value="1490" >}}
 
 {{% /small  %}}
 {{% /box  %}}
