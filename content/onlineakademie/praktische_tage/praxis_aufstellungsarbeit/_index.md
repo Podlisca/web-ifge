@@ -49,7 +49,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{% box top-align=1 %}}
 {{% small  %}}
-### Prakische Tage
+### Prakische Tage 2025
 <br>
 {{< buchung produkte="Hypno Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
@@ -57,7 +57,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{% /small  %}}
 
 {{% small  %}}
-### Praktische Tage
+### Praktische Tage 2025
 <br>
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
@@ -72,7 +72,35 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 **Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
 
 
+{{< line icon="noun_Information_478770-2.png" >}}
 
+<center>Wähle zunächst deinen passenden Termin aus um dich anzumelden</center>
+
+##### (um die Termine buchen zu können, müssen die Cookies aktiviert sein)
+
+{{% box top-align=1 %}}
+{{% small  %}}
+### Prakische Tage 2025
+<br>
+{{< buchung produkte="Sexualberatung April 2025" text="Jetzt loslegen" value="1950" >}}
+</br>
+
+{{% /small  %}}
+
+{{% small  %}}
+### Praktische Tage 2025
+<br>
+{{< buchung produkte="Tiergestütztes Coaching September 2025" text="Jetzt loslegen" value="1490" >}}
+</br>
+
+
+{{% /small  %}}
+{{% /box  %}}
+
+
+**Kosten:** € 290,-  </br>
+
+**Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
 
 
 
