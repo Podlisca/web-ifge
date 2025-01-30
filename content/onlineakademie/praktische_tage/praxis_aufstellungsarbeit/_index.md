@@ -49,7 +49,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{% box top-align=1 %}}
 {{% small  %}}
-### Prakische Tage 2025
+### Prakische Tage 2025 - Hypnose 
 <br>
 {{< buchung produkte="Hypno Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
@@ -57,7 +57,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{% /small  %}}
 
 {{% small  %}}
-### Praktische Tage 2025
+### Praktische Tage 2025 - Systemische Beratung 
 <br>
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
@@ -80,7 +80,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 {{% box top-align=1 %}}
 {{% small  %}}
-### Prakische Tage 2025
+### Prakische Tage 2025 - Sexualberatung
 <br>
 {{< buchung produkte="Sexualberatung April 2025" text="Jetzt loslegen" value="1950" >}}
 </br>
@@ -88,7 +88,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{% /small  %}}
 
 {{% small  %}}
-### Praktische Tage 2025
+### Praktische Tage 2025 - Tiergestütztes Coaching
 <br>
 {{< buchung produkte="Tiergestütztes Coaching September 2025" text="Jetzt loslegen" value="1490" >}}
 </br>
