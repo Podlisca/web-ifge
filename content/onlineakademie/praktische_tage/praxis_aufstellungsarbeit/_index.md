@@ -62,6 +62,7 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 {{< buchung produkte="System Tage" text="Jetzt loslegen" value="1490" >}}
 </br>
 
+
 {{% /small  %}}
 {{% /box  %}}
 
@@ -70,26 +71,12 @@ Ziel der **praktischen Tage** ist die **aktive Anwendung von Inhalten** aus den 
 
 **Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
 
+
+
+
+
+
 {{< line icon="noun_Information_478770-2.png" >}}
-
-<br>
-{{< buchung produkte="Sexualberatung April 2025" text="Jetzt loslegen" value="1490" >}}
-</br>
-
-{{< line icon="noun_Information_478770-2.png" >}}
-
-<br>
-{{< buchung produkte="Tiergestütztes Coaching September 2025" text="Jetzt loslegen" value="1490" >}}
-</br>
-
-{{% /small  %}}
-{{% /box  %}}
-
-**Kosten für Externe Teilnehmer:innen:** € 290,-  </br>
-
-**Gruppengröße:** mind. 4 Teilnehmer:innen - max. 15 Teilnehmer:innen
-
-***
 
 ## Kosten & Zahlungsbedingungen
 
