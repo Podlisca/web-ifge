@@ -71,7 +71,7 @@ buchhaltung@ifge.at
 ### Büro
 Miriam Geiger<br/>
 Anfragen bitte per Mail<br/>
-office@ifge.at 
+buchhaltung@ifge.at 
 {{% /small %}}
 {{% /box %}}
 
