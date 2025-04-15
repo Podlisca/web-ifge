@@ -34,6 +34,7 @@ Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch we
 
 {{< line icon="icon/termine.png" >}}
 
+#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -75,6 +76,7 @@ Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wir
 
 {{< line icon="icon/termine.png" >}}
 
+#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -99,6 +101,7 @@ Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und i
 
 {{< line icon="icon/termine.png" >}}
 
+#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -154,6 +157,7 @@ Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und i
 
 {{< line icon="icon/termine.png" >}}
 
+#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
