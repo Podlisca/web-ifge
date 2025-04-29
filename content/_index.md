@@ -20,26 +20,29 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 
 Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von  **25 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
 
+#### Ankommen. Durchatmen. Aufblühen.
+Die Räume sind so gestaltet, dass sich Körper, Geist und Seele gleichermaßen willkommen fühlen. In dieser Atmosphäre entfalten sich Klarheit und neue Perspektiven fast wie von selbst.
+Vertrauen, Präsenz und ein feines Gespür für das Wesentliche prägen jede Begegnung.
+Hier darf Entwicklung geschehen – in deinem Tempo, mit deiner Tiefe.
 
-<div class="box video">
-{{% small %}}
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
 
-### im Klientengespräch
-{{< youtube 1i4cXuwfH4w >}}
-{{% /small %}}
-{{% small %}}
+{{% /small  %}}
 
-### in der Online-Akademie
-{{< youtube b8tlo6e4M5M>}}
-{{% /small %}}
-{{% small %}}
+{{% small  %}}
+#### Burgenland
+
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
-### im Präsenzunterricht
-{{< youtube fmXmn39H7Zs>}}
-{{% /small %}}
 
-</div> 
+{{% /small  %}}
+{{% /box %}}
+
+
 
 *** 
 # Verschaffen Sie sich einen Überblick
@@ -79,27 +82,25 @@ Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die
 {{% /box %}}
 
 
+{{< line icon="icon/beratung.png" >}}
+# Erleben Sie Silvia Podlisca.
+
+<div class="box video">
+{{% small %}}
+
+### im Klientengespräch
+{{< youtube 1i4cXuwfH4w >}}
+{{% /small %}}
+{{% small %}}
+
+### in der Online-Akademie
+{{< youtube b8tlo6e4M5M>}}
+{{% /small %}}
+{{% small %}}
 
 
+### im Präsenzunterricht
+{{< youtube fmXmn39H7Zs>}}
+{{% /small %}}
 
-
-
-{{< line icon="icon/3_standorte.png" >}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-
-
-
-{{% /small  %}}
-{{% /box %}}
-
+</div> 
