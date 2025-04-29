@@ -19,7 +19,7 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 
 
 
-{{< line icon="icon/beratung.png" >}}
+***
 # Erlebe Silvia Podlisca.
 
 Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/)  profitierst du von **25 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
