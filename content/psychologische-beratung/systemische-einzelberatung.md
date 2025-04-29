@@ -39,7 +39,6 @@ og_image: "/img/system_einzel.jpg"
 <br/>
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -103,7 +102,6 @@ Denn häufig begleitet meine Klient:innen jahrelang z.B. der Glaubenssatz, dass 
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -122,7 +120,6 @@ Die [Philosophie](/about/institut/), die bei mir am Institut für ganzheitliches
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -142,7 +139,6 @@ Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb bes
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -197,7 +193,6 @@ Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -252,7 +247,6 @@ Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**

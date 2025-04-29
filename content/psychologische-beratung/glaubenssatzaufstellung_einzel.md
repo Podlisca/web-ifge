@@ -74,7 +74,6 @@ In der Glaubenssatzaufstellung im Rahmen einer [psychologischen Beratung](https:
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -144,7 +143,6 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**

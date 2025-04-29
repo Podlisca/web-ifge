@@ -44,7 +44,6 @@ Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting sta
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -86,7 +85,6 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 {{< line icon="icon/termine.png" >}}
 
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -124,7 +122,6 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -205,7 +202,6 @@ Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbster
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**

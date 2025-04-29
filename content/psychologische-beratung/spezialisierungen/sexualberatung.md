@@ -64,7 +64,6 @@ Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Le
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -89,7 +88,6 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -116,7 +114,6 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
@@ -176,7 +173,6 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 {{< line icon="icon/termine.png" >}}
 
-#### Jetzt Osteraktion nützen 🕊️ 3 Einheiten Psychologische Beratung um 298,- (statt 354,-)
 #### **Terminvereinbarung unter** 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
