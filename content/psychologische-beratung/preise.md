@@ -150,3 +150,22 @@ Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis
 Erst nach Zahlungseingang ist der Platz für dich fix reserviert. Bei Absage bis zu 14 Tage vor dem geplanten Beginn entsteht keine Stornogebühr. Bei Absage bis 7 Tage vor dem geplanten Beginn ist eine Stornogebühr von 50% der Kursgebühr zu bezahlen; danach die volle Kursgebühr und ein Vertragsrücktritt ist ausgeschlossen. Bei einer Abmeldung vor Beginn der Stornofrist wird eine Bearbeitungsgebühr von € 100,- einbehalten.
 
 Alle Preisangaben inklusive 20 % MwSt.
+
+{{< line icon="icon/3_standorte.png" >}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+
+
+
+{{% /small  %}}
+{{% /box %}}

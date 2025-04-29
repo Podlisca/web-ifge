@@ -129,7 +129,7 @@ Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.beru
 {{% /box %}}
 
 {{% /floatbox %}}
-{{< line icon="icon/raueme.png" >}}
+{{< line icon="icon/3_standorte.png" >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
@@ -140,13 +140,10 @@ Der [Berufsverband für Tiergestützte psychologische Beratung](https://www.beru
 
 {{% small  %}}
 #### Burgenland
+
 {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
 
 
-{{% /small  %}}
-{{% small  %}}
-#### Niederösterreich
-{{< slider content="/img/raum_noe1.jpg,/img/raum_noe_weis.jpg,/img/raum_noe_gruen.jpg,/img/raum_noe_paar.jpg,/img/raum_noe5.jpg,/img/buero_noe1.jpg,/img/buero_noe.jpg,/img/raum_weis_1.jpg" >}}
 
 {{% /small  %}}
-{{% /box  %}}
+{{% /box %}}
