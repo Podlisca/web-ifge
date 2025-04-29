@@ -9,7 +9,9 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 
 # Herzlich Willkommen am IFGE
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
+*„Ich glaube an dein Potenzial, dich neu zu entdecken – mit Leichtigkeit, Tiefe und einem offenen Herzen.“*
 
+{{< silvia >}}
 
 {{% banner img_position_x="85%" img_position_y="20%" alt="Silvia Podlisca" %}}
 
@@ -20,7 +22,9 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 {{< line icon="icon/beratung.png" >}}
 # Erlebe Silvia Podlisca.
 
-Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitieren Sie von  **25 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
+Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/)  profitierst du von **25 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
+
+
 
 #### Ankommen. Durchatmen. Aufblühen.
 Die Räume sind so gestaltet, dass sich Körper, Geist und Seele gleichermaßen willkommen fühlen. In dieser Atmosphäre entfalten sich Klarheit und neue Perspektiven fast wie von selbst.
@@ -85,7 +89,7 @@ Mit dem Ziel Weiterbildung noch mehr Menschen zu ermöglichen haben wir 2022 die
 
 
 {{< line icon="icon/beratung.png" >}}
-# Erleben Sie Silvia Podlisca.
+# Erlebe Silvia Podlisca.
 
 <div class="box video">
 {{% small %}}
