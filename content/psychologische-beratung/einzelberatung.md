@@ -201,7 +201,6 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
 
-{{< line icon="icon/beratung.png" >}}
 
 
 {{< line icon="icon/3_standorte.png" >}}

@@ -177,4 +177,21 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 #### **+43 676 610 89 36** 
 #### **silvia.podlisca@ifge.at**
 
-{{< line icon="icon/sexualberatung.png" >}}
+{{< line icon="icon/3_standorte.png" >}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+
+
+
+{{% /small  %}}
+{{% /box %}}
