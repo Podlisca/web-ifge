@@ -34,7 +34,7 @@ Die Räume sind so gestaltet, dass sich Körper, Geist und Seele gleichermaßen 
 
 ***
 
-</div>
+
 
 
 {{% box top-align=1 %}}
