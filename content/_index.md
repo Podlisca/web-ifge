@@ -9,9 +9,8 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 
 # Herzlich Willkommen am IFGE
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
-*„Ich glaube an dein Potenzial, dich neu zu entdecken – mit Leichtigkeit, Tiefe und einem offenen Herzen.“*
+*„Ich glaube an dein Potenzial, dich neu zu entdecken – mit Leichtigkeit, Tiefe und einem offenen Herzen.“ - Silvia Podlisca*
 
-{{< silvia >}}
 
 {{% banner img_position_x="85%" img_position_y="20%" alt="Silvia Podlisca" %}}
 
