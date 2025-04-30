@@ -20,13 +20,13 @@ og_image: "/img/silvia_onlineakdademie.jpg"
 
 {{% box-einfach %}}
 
-# Erlebe Silvia Podlisca.
+### Erlebe Silvia Podlisca.
 
 
 
 Ob in der [individuellen Beratung](https://ifge.at/psychologische-beratung/einzelselbsterfahrung/berufsbild/) oder im Rahmen von [Aufstellungen](https://ifge.at/psychologische-beratung/familienaufstellungen/). Ob in Präsenzkursen oder an der [Online-Akademie](https://ifge.at/onlineakademie/). In der Arbeit mit [Silvia Podlisca](https://ifge.at/about/ueber_mich/) profitierst du von **25 Jahren Erfahrung** im Bereich psychologische Ausbildung und Beratung.
 
-# ANKOMMEN. DURCHATMEN. AUFBLÜHEN.
+### ANKOMMEN. DURCHATMEN. AUFBLÜHEN.
 
 Die Räume sind so gestaltet, dass sich Körper, Geist und Seele gleichermaßen willkommen fühlen. In dieser Atmosphäre entfalten sich Klarheit und neue Perspektiven fast wie von selbst. Vertrauen, Präsenz und ein feines Gespür für das Wesentliche prägen jede Begegnung. Hier darf Entwicklung geschehen – in deinem Tempo, mit deiner Tiefe.
 
