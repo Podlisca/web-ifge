@@ -176,7 +176,7 @@ og_image: "/img/hollandst.jpg"
   <h2 style="color: white; font-size: 1.2rem; margin-bottom: 1rem;">
     Bereit für neue Perspektiven? Ich begleite dich mit Erfahrung, Klarheit und Herzenswärme.
   </h2>
-  <a href="https://www.ifge.at/kontakt/" class="button">Jetzt Termin unter +43 676 610 89 36 vereinbaren</a>
+  <a class="button">Jetzt Termin unter +43 676 610 89 36 vereinbaren</a>
 
 
 </div>
