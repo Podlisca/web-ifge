@@ -1087,4 +1087,15 @@ main .cst-intro a {
   margin-bottom: 1rem;
 }
 
+@media (max-width: 768px) {
+  .vorteile-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
