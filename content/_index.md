@@ -86,6 +86,7 @@ og_image: "/img/hollandst.jpg"
     </div>
   </div>
 
+  {{% /box %}}
 
 <section style="background-color: var(--color-green); color: white; text-align: center; padding: 2.5rem 1rem;">
   <p style="max-width: 900px; margin: 0 auto; font-size: 1.2rem; line-height: 1.6;">
