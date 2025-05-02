@@ -855,9 +855,236 @@ main .cst-intro a {
   grid-auto-flow: column;
 }
 
-@media (max-width: 700px) {
-  #termine {
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(16, auto);
+.ifge-hero {
+  position: relative;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.hero-banner {
+  background-image: url("/img/1020_11_gr.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 380px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end; /* 👈 wichtig: nach unten setzen */
+  position: relative;
+}
+
+.hero-textbox {
+  background-color: var(--color-red);
+  color: white;
+  padding: 0.6rem 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  max-width: 70%; /* 👈 schmäler */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  opacity: 0.95;
+
+  position: absolute;
+  bottom: 60px;  /* 👈 tiefer gesetzt */
+  left: 40px;    /* leicht eingerückt vom Bildrand */
+}
+
+
+
+.hero-textbox h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  color: white;
+}
+
+.ifge-kartenbereich {
+  background-color: var(--color-green);
+  padding: 3rem 1rem;
+  margin-top: -2rem;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 12px;
+}
+
+
+.karten-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.karte {
+  background: white;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  flex: 1 1 300px;
+  max-width: 360px;
+  text-align: center;
+}
+
+.karten-icon {
+  height: 80px;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+.karte h2 {
+  color: var(--color-green);
+  font-weight: 400;
+  margin: 1rem 0;
+}
+
+.karte p {
+  color: var(--color-text);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Optional für mobile Ansicht */
+/* Tablet: 2 Kästchen nebeneinander */
+@media (max-width: 900px) and (min-width: 701px) {
+  .karte {
+    flex: 1 1 45%;
+    max-width: 45%;
   }
 }
+
+/* Handy: 1 Kästchen pro Zeile */
+@media (max-width: 700px) {
+  .karten-container {
+    flex-wrap: wrap;
+  }
+  .karte {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+.ifge-hero {
+  position: relative;
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.hero-banner {
+  background-image: url("/img/1020_11_gr.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  position: relative;
+}
+
+.hero-textbox {
+  background-color: var(--color-red);
+  color: white;
+  padding: 0.6rem 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  max-width: 70%;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  opacity: 0.95;
+  position: absolute;
+  bottom: 20px;
+}
+
+.karten-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.karte {
+  background-color: white;
+  color: var(--color-text);
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  flex: 1 1 300px;
+  max-width: 360px;
+  text-align: center;
+}
+
+
+.small img {
+  border-radius: 12px;
+}
+
+.portrait-centered img {
+  max-width: 360px;
+  width: 100%;
+  border-radius: 12px;
+  margin: 1rem auto;
+  display: block;
+  box-shadow: none; /* kein weißer Hintergrund */
+}
+.intro-image img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+.vorteile-container .button {
+  background-color: var(--color-red);
+  color: white;
+  padding: 0.8rem 1.6rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  display: inline-block;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.vorteile-container .button:hover {
+  background-color: #8b3f4d; /* dunkleres Rot bei Hover */
+}
+
+.vorteil-box {
+  background-color: var(--color-green); /* Türkis */
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 2px solid white; /* Weißer Rahmen */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.vorteil-box:hover {
+  transform: translateY(-4px);
+}
+
+.vorteil-box h3 a {
+  color: white;
+  text-decoration: none;
+}
+
+.vorteil-box h3 a:hover {
+  text-decoration: underline;
+}
+
+.vorteil-icon {
+  width: 60px;
+  margin-bottom: 1rem;
+}
+
+

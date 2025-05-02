@@ -14,34 +14,16 @@ rich_logo: true
 
 {{% box top-align=1 %}}
 {{% small %}}
-## IFGE - Wien
-***
 
-{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
+### IFGE Wien
+Hollandstr. 12/9 <br/>
+1020 Wien
 
-
-***
-<iframe  width="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=IFGE+Wien&amp;maptype=roadmap" allowfullscreen="true">
-</iframe>
-
-### IFGE Wien 
-
-Hollandstraße 12/9<br/>
-1020 Wien<br/>
-
-{{% /small %}}
-
-{{% small %}}
-## IFGE - Burgenland
-***
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+{{% /small  %}}
 
 
-***
 
-<iframe width="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=IFGE+Burgenland&amp;maptype=roadmap" allowfullscreen="true">
-</iframe>
-
+{{% small  %}}
 ### IFGE Burgenland
 Bruckgasse 1<br/>
 7423 Pinkafeld 
@@ -74,6 +56,12 @@ Anfragen bitte per Mail<br/>
 buchhaltung@ifge.at 
 {{% /small %}}
 {{% /box %}}
+
+***
+
+<iframe width="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=IFGE+Burgenland&amp;maptype=roadmap" allowfullscreen="true">
+</iframe>
+
 
 {{< line icon="icon/kooperation.png" >}}
 
@@ -114,9 +102,33 @@ Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https:/
 
 Die Ausbildung ist nur komplett buchbar. 
 
+
+
 {{% /small  %}}
 {{% /box  %}}
 
 
+
+
 Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
 Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
+
+
+{{< line icon="icon/3_standorte.png" >}}
+
+{{% box top-align=1 %}}
+{{% small  %}}
+#### Wien
+{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
+
+{{% /small  %}}
+
+{{% small  %}}
+#### Burgenland
+
+{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+
+
+
+{{% /small  %}}
+{{% /box %}}
