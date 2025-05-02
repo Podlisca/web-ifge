@@ -29,10 +29,6 @@ og_image: "/img/hollandst.jpg"
     <!-- Textinhalte hier -->
   </div>
 </div>
-
-
-
-
 {{% /small  %}}
 
 {{% small  %}}
@@ -54,10 +50,6 @@ og_image: "/img/hollandst.jpg"
 
 <p>
 <p><strong>Ich begleite dich mit Klarheit, Humor und einer wertschätzenden Haltung – damit Wandel spürbar und möglich wird.</strong></p>
-
-
-
-
 </section>
 {{% small  %}}
 
@@ -109,8 +101,8 @@ og_image: "/img/hollandst.jpg"
 </div>
 
 
-+ {{% /box %}}
 
+    
   </p>
   <br />
 
@@ -183,7 +175,7 @@ og_image: "/img/hollandst.jpg"
   </h2>
   <a href="https://www.ifge.at/kontakt/" class="button">Jetzt Termin unter +43 676 610 89 36 vereinbaren</a>
 
-+ {{% /box %}}
+
 </div>
 
 </div> <!-- schließt .karten-container -->
