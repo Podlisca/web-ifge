@@ -29,6 +29,7 @@ og_image: "/img/hollandst.jpg"
     <!-- Textinhalte hier -->
   </div>
 </div>
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -56,6 +57,7 @@ og_image: "/img/hollandst.jpg"
 
 {{% /small  %}}
 {{% /box %}}
+</section>
 
 <!-- 3 Kästchen -->
 
@@ -130,6 +132,7 @@ og_image: "/img/hollandst.jpg"
 
 
 {{% /small  %}}
+{{% /box %}}
 
 </section>
 
