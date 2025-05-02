@@ -1100,3 +1100,24 @@ img {
   margin: 0 auto;
 }
 
+.hero-banner .hero-textbox {
+  background-color: rgba(140, 35, 58, 0.85); /* dein Rot halbtransparent */
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 15px;
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 90%;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .hero-banner {
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+  .hero-banner .hero-textbox {
+    max-width: 90%;
+    padding: 1rem;
+  }
+}
