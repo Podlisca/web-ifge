@@ -1001,13 +1001,14 @@ main .cst-intro a {
 
 .karten-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* erlaubt Zeilenumbruch */
   justify-content: center;
   gap: 2rem;
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
+
 
 .karte {
   background-color: white;
