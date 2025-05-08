@@ -35,9 +35,9 @@ og_image: "/img/einzel_2023.jpg"
 ### Psychologische Beratung - der Weg in ein erfülltes Leben
 
 
-Die klassische **Lebens- und Sozialberatung – auch psychologische Beratung** genannt – unterstützt Sie dabei, Ihre psychische Gesundheit zu erhalten und langfristige, **individuelle Lösungen** für Ihre Herausforderungen zu finden.
+Psychologische Beratung hilft dir dabei, deine **seelische Balance zu stärken** und deinen ganz persönlichen Weg im Leben wieder klarer zu sehen. Du musst **Herausforderungen nicht allein bewältigen – gemeinsam finden wir Lösungen**, die zu dir und deinem Alltag passen.
 
-Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und **genügend Zeit und Raum** haben, in einem **geschützten Rahmen** zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. 
+Professionelle Beratung bedeutet, dass du so **angenommen wirst, wie du bist – ohne Bewertung, ohne Druck**. Dort, wo du gerade stehst, darfst du einfach sein. Du bekommst Raum, um zur Ruhe zu kommen, dich neu zu sortieren und neue Kraft zu schöpfen. Denn manchmal braucht es nur einen geschützten Rahmen, um wieder in Bewegung zu kommen.
 
 {{< calendly-button >}}
 
@@ -48,68 +48,27 @@ Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, gena
 
 
 
-{{< line icon="icon/info_tuerkis.png" >}}
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
-
-{{% box blue=1 %}}
-{{% small  %}}
-## Hier finden Sie ausführliche Informationen über:
-{{% /small  %}}
-{{% /box %}}
-
-{{< iconmenu >}}
-{{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
-{{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
-{{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
-{{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
-{{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
-{{< /iconmenu >}}
 
 {{< line icon="icon/beratung.png" >}}
 
-
+## Psychologische Beratung – Dein Weg zu mehr Klarheit und Leichtigkeit
 
 
 {{% floatbox %}}
 
-Am [IFGE](https://ifge.at/about/institut/) biete ich Ihnen einen Raum nur für Sie, in dem Sie nicht funktionieren, nicht gut erzogen, nicht der starke Mann bzw. Vater oder die starke Frau bzw. Mutter sein müssen, sondern sich so erleben können, wie Sie sich im Moment fühlen. Dies ermöglicht Ihnen, sich wieder Stück für Stück zu finden und wie von selbst ergeben sich dadurch völlig neue, unerwartete Möglichkeiten.
+Am [IFGE](https://ifge.at/about/institut/) ch dir einen sicheren Raum, in dem du dich von den Anforderungen des Alltags befreien kannst. Hier bist du einfach du selbst, ohne Erwartungen und ohne Druck. Du darfst anhalten, durchatmen und herausfinden, was du wirklich brauchst, um dich neu zu orientieren.
 
 
-{{< image src="/img/einzel_noe.jpg" float="right" title="Wer die verborgenen Schätze des Unbewussten erkunden möchte und den Sinn für die jeweilige Situation ganzheitlich erfassen und verstehen lernen möchte, ist in der psychologischen Einzelberatung bei Silvia Podlisca in sehr erfahrenen Händen. Durch bewusstes Zuhören und Fragestellungen erfahren Sie neue Blickwinkel und Lösungsmöglichkeiten. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychologischen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an." >}} 
+{{< image src="/img/silvia_noe_blaue_bank.jpg" float="right" title="Wer die verborgenen Schätze des Unbewussten erkunden möchte und den Sinn für die jeweilige Situation ganzheitlich erfassen und verstehen lernen möchte, ist in der psychologischen Einzelberatung bei Silvia Podlisca in sehr erfahrenen Händen. Durch bewusstes Zuhören und Fragestellungen erfahren Sie neue Blickwinkel und Lösungsmöglichkeiten. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychologischen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an." >}} 
 
-Professionelle Beratung bedeutet, dass Ihnen weder Lösungen aufgezwungen, noch Sie in bestimmte Richtungen dirigiert werden. In der psychologischen Beratung geht es auch nicht darum, möglicherweise bereits gescheiterte Lösungsversuche zu wiederholen. Viel eher beschäftigen Sie sich in einem vertrauensvollen Rahmen mit neuen Lösungswegen, die oft so überraschend klar, einfach, leicht und umsetzbar sind, dass Sie diese in vielen Fällen innerlich schmunzeln lassen und immer groß machen. 
+Ich begleite dich auf deinem Weg, um aus alten Denkmustern auszubrechen und dir neue Perspektiven zu eröffnen. In einer vertrauensvollen Atmosphäre kannst du Veränderungen Schritt für Schritt angehen und deine persönlichen Ziele verwirklichen.
 
-Auch wenn Sie Ihre persönliche Lösung aktuell noch nicht finden können und vielleicht schon einige Um- oder Irrwege hinter sich oder fast schon das Vertrauen in sich verloren haben, sind solche Lösungen möglich! Und Sie wissen – tief in sich – am allerbesten, was für Sie persönlich in Ihrem Leben wichtig ist. 
+Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. Sie unterstützt nicht nur in Krisenzeiten, sondern trägt auch zur **Primärprävention** bei, indem sie hilft, **Gesundheitsverhalten neu zu erlernen** und das eigene Wohlbefinden aktiv zu fördern. Ziel ist es, durch **Salutogenese die Ressourcen zu aktivieren**, die dir helfen, gesund zu bleiben und mit den Herausforderungen des Lebens besser umzugehen.
 
-{{% box blue=1 %}}
-{{% small %}}
-Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Lebens- und Wertekonzept im Fokus des Beratungsprozesses steht. Deshalb können Sie sich bei mir am IFGE sicher sein, dass Sie sich als Person mit Ihrem gesamten, individuellen Erleben frei und in Ihrem persönlichen Tempo entfalten können. Als professionelle psychologische Beraterin habe ich immer Sie persönlich im Fokus und verzichte auf vorgefertigte Lösungskonzepte. Hier können Sie mehr über meine [Philosophie](https://ifge.at/about/institut/) in der Beratung lesen.
-
-Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt.
-
-Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und andere harmonische Lösungswege finden. Die bewusste Auseinandersetzung mit der eigenen Geschichte hat nicht nur einen merkbar positiven Einfluss auf Ihr Leben, sondern auch auf Ihr ganzes persönliches Umfeld.
-
-
-
-{{% /small  %}}
-{{% /box %}}
-
-
-
-{{< line icon="icon/info_tuerkis.png" >}}
-
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
-
-{{< image src="/img/silvia_noe_blaue_bank.jpg" float="left" title="Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychologischen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich und Burgenland an. Dabei achtet Silvia Podlisca stets darauf, dass Sie genau da abgeholt werden wo Sie gerade im Leben stehen. Lösungsschritte werden immer individuell, wertschätzend, herzlich und aufbauend auf Ihre bisherigen Lösungsansätze mit Ihnen erarbeitet. Oftmals bedarf es nur kleine Veränderungen oder Anpassungen, um zum gewünschten Erfolg zu kommen. " >}} 
-
-Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. 
-
-Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir am IFGE auch, dass aufgrund langjähriger Erfahrung und zahlreicher Zusatzausbildungen ein Mix aus unterschiedlichsten psychologischen Methoden ermöglicht wird, der somit die absolut individuelle Begleitung Ihres Prozesses sichert.
-<br/>
-<br/>
 {{< calendly-button >}}
+
+{{% /floatbox %}}
 
 
 
@@ -138,7 +97,6 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 
 
-{{% /floatbox %}}
 
 
 
@@ -203,9 +161,6 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 {{< line icon="icon/3_standorte.png" >}}
 
-
-
-## {{< calendly-button >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}
