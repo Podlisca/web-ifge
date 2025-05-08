@@ -26,17 +26,11 @@ og_image: "/img/einzelsupervision_noe.jpg"
 Alle Berater:innen stehen im Zuge der Karriere immer wieder vor fachlichen oder persönlichen Herausforderungen, die den Beratungsprozess verlangsamen, die ihn ins Stocken bringen oder im ungünstigsten Fall den Beratungsabbruch durch Klient:innen zur Folge haben können. Gerade in den ersten Jahren der beratenden Tätigkeit ist eine fachliche Begleitung für den persönlichen Erfolg ratsam. Aus diesem Grund schreibt auch die Wirtschaftskammer zur Eintragung des Gewerbes für Lebens- und Sozialberater:innen zumindest 100 Stunden an Supervision vor. 
 
 Damit Sie für Ihre Klient:innen bestmöglich da sein können, ist es empfehlenswert, sich in regelmäßigen Abständen oder bei besonders kniffligen Fällen methodenorientiert supervidieren zu lassen. 
-Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **online** gebucht werden. 
+Supervisionseinheiten können sowohl vor Ort oder **online** gebucht werden. 
 
-{{% /floatbox %}}
+{{< calendly-button >}}
 
-{{% box %}}
-{{% small  %}}
-{{< silvia >}}
 
-\- Institutsleiterin \-
-{{% /small  %}}
-{{% /box  %}}
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -55,10 +49,10 @@ In der Einzelsupervision ist es mir wichtig, dass wir uns nicht nur ansehen, wo 
 
 Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gruppensupervisionen](/supervision/philosophie/)  zu empfehlen, da in dieser durch spezielle Gruppendynamiken sichtbar wird, was in Einzelsitzungen manchmal im Verborgenen bleiben kann.
 
+{{< calendly-button >}}
+
 
 {{< line icon="icon/kontakt.png" >}}
-
-**Bitte kontaktieren Sie mich für einen Termin unter +43 676 610 89 36**
 
 Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung/preise/)
 
@@ -74,4 +68,6 @@ Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung
 * Begleitung bei Veränderungsprozessen
 * Klären und Gestalten von Aufgaben, Aufträgen, Funktionen und Rollen
 * Hilfestellung bei neuen Herausforderungen
+
+{{< calendly-button >}}
 

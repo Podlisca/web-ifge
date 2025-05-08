@@ -32,16 +32,10 @@ og_image: "/img/system_einzel.jpg"
 
 
 **Unterschiedliche systemische Zugänge ermöglichen** – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der **hypnosystemischen Beratung** achte ich zum Beispiel darauf, dass Sie Ihre **Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert** – aber auch wohldosiert – für Ihre **Lösungen** einsetzen können, um neue wirksame Realitäten zu erschaffen.
-<br/>
-<br/>
-**Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden.** 
-<br/>
-<br/>
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
+**Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden.**  {{< calendly-button >}}
+
+
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
@@ -100,11 +94,9 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 Denn häufig begleitet meine Klient:innen jahrelang z.B. der Glaubenssatz, dass die Umsetzung ihrer Vorhaben oder der Schritt zur Weiterentwicklung einer hundertprozentigen Zustimmung ihrer selbst und auch der Zustimmung anderer bedürfen.  Fähigkeiten „wohldosiert“ einzusetzen, bedeutet hier also auch, zu erkennen, dass nicht zwangsläufig 100 Prozent von Ihnen gefordert sind, wenn Sie etwas verändern möchten. Denken Sie nur einmal an eine demokratische Abstimmung! Hier reicht schon eine einfach Mehrheit – also über 50 Prozent Zustimmung –, um in die Handlung zu gehen. Wo haben Sie sich vielleicht bisher etwas verwehrt oder haben sich nicht erlaubt, aktiv zu werden, weil Sie empfunden haben, für einen neuen Schritt „nur“ zu 80 Prozent gerüstet zu sein? Die sogenannte „innere Opposition“ ist sogar dringend notwendig, um sowohl flexibel als auch dynamisch zu bleiben und „Betriebsblindheiten“ zu vermeiden. 
 
-{{< line icon="icon/termine.png" >}}
+{{< calendly-button >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
+
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
@@ -118,11 +110,9 @@ Systemische Beratung bedeutet in meinem Verständnis nicht – wie so oft anders
 
 Die [Philosophie](/about/institut/), die bei mir am Institut für ganzheitliches Erleben gelebt wird, ist viel eher die Lösung der kleinen, sicheren Schritte. Diese scheinen auf den ersten Blick möglicherweise nicht als so gewichtig wie die Lösungen, die in Gruppenaufstellungen sichtbar gemacht und bearbeitet werden, helfen aber ebenso durch das kontinuierliche innere Erleben, sichtbar Gewordenes nachhaltig in persönliche Lösungskonzepte zu integrieren. Systemische Einzelstunden festigen dazu oft den in der Gruppe erzielten Aufstellungserfolg.
 
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
+{{< calendly-button >}}
+
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
@@ -134,68 +124,13 @@ Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, 
 
 {{< image src="/img/system_zettel1_bgld.jpg" float="right" title="Ebenso möglich ist die Arbeit mit Zetteln. Auch bei dieser systemischen Variante ist es besonders gut möglich sich in die diversen Rollen einzuspüren. So erhalten Sie eine ganzheitliche Wahrnehmung. Bei allen Methoden wo der Körper mit spürbaren Phänomenen einbezogen wird, wird das sogenannte Körpergedächtnis mit einbezogen. Dies ermöglicht auf den prozeduralen Erinnerungsspeicher zuzugreifen und alte Erinnerungen von der damaligen Last zu befreien und neue – gewünschte Erfahrungen zu sammeln." >}} 
 
-Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient:innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können.
+Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient:innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können. 
 
-
-{{< line icon="icon/termine.png" >}}
-
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
-
-{{< line icon="icon/familienaufstellung.png" >}}
+{{< calendly-button >}}
 
 
 
 
-
-{{< image src="/img/systemdimensionsbrett_2.jpg" float="left" title="Bei einer Aufstellung am dreidimensionalem Systembrett ist es besonders leicht möglich, Verstrickungen über mehrere Generationen zu erkennen. Silvia Podlisca ist Entwicklerin dieses Systembrettes und setzt das Systembrett sowohl in psychologischen Einzelsitzungen in Wien, St. Pölten und Pinkafeld, wie auch beim Diplomlehrgang – Lebensberatung – psychologische Beratung sowie beim Upgrade für Aufstellungsarbeit im Unterricht ein. " >}} 
-
-Durch das von Mag. Rathkolb und mir entwickelte SystemDimensionsBrett® ist es mir möglich, noch besser auf die Systemik einzugehen und diese auch "anschaubar" zu machen.
-
-Das SystemDimensionsBrett® ist eine Weiterentwicklung klassischer Aufstellungsbretter, wie sie seit vielen Jahren in der systemischen Aufstellungsarbeit verwendet werden. Klassische Aufstellungsbretter erlauben es einem, eine Dimension oder eine Dynamik nach der anderen darzustellen. Mit dem SystemDimensionsBrett® arbeitet man mehrdimensional. Es werden mehrere Einsichten oder Zeitebenen gleichzeitig dargestellt. Das öffnet den Blick, verdeutlicht Zusammenhänge und Wechselwirkungen, und schafft Klarheit. Mögliche Folgen von Verstrickungen können so besser aufgedeckt werden.
-
-Weitere Infos zum SystemDimensionsBrett® finden Sie [hier]!
-
-### Arbeit mit Klient:innen
-
-{{< image src="/img/mit hand_1.jpg" float="right" title="In der psychologischen Praxis bietet die Arbeit mit dem Systemdimensionsbrett, für sehr erfahrene Aufstellungsleiter, besonders schnell ein klares Bild der systemisch – kollektiven Verstrickung. Durch die Arbeit mit dem Systembrett finden Sie Schritt für Schritt raus aus den übernommenen Verstrickungen und Gefühlen und können so kraftvoll Ihr eigenes Leben leben. Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychologischen Bereich tätig. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an" >}} 
-
-Aufstellungen können mit Hilfe von Repräsentanten – Personen, die bei der Aufstellung für jemand anderen dessen Platz im System einnehmen – durchgeführt werden oder mit Hilfe eines Brettes und imagen. Die Aufstellung mit einem Brett ist vergleichsweise leicht durchführbar, denn oft sind Problemstellungen so komplex, dass man viele Repräsentanten bräuchte. Zusätzlich wird  die Schwellenangst verringert.
-
-Der Aufstellungsprozess gliedert sich immer in Etappen. Zunächst gilt es, das Ist-Bild darzustellen. Dann werden die Ressourcen identifiziert, um schließlich zum Zielzustand zu kommen. Unter Anwendung ethischer Begriffe könnte die Unterteilung in die Bereiche des Seins, des Könnens und des Wollens erfolgen.
-
-Systemische Aufstellungsarbeit ermöglicht einen Ausgleich zwischen dem kollektiven und dem persönlichen Gewissen. Es geht darum der Ohnmacht, dem Gefühl der Starre, zu entkommen und Macht im Sinne von Handlungsfähigkeit zu erlangen.
-
-Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele und des Geistes.
-
-**Mit dem SystemDimensionsbrett können unterschiedliche Fragestellungen behandelt werden:**
-
-* Zukunft | Gegenwart | Vergangenheit | Ursprungsereignis
-* Seele | Geist | Körper | Ursprungsereignis
-* Auswirkung | berufliches System | privates System | Ursprungsereignis
-* Auswirkung | persönliches Gewissen | kollektives Gewissen | Ursprungsereignis
-
-### FAMILIENAUFSTELLUNGEN SIND U.A. HILFREICH BEI:
-
-* körperlichen oder psychosomatischen Erkrankungen
-* Paar- und Beziehungsschwierigkeiten
-* Wiederholung eines immer gleichen Musters
-* dem Gefühl nicht das eigene Leben zu leben
-* für Eltern, deren Kinder besondere Auffälligkeiten zeigen
-* schweren Ereignissen in der Gegenwarts- oder Herkunftsfamilie
-* Versöhnungsarbeit mit der Herkunft-/Gegenwartsfamilie
-* bei Schwierigkeiten im Berufsleben
-* zur Neuorientierung
-* Selbsterfahrung, für ein besseres Verständnis der (Familien-) Geschichte
-
-{{% /floatbox %}}
-
-{{< line icon="icon/termine.png" >}}
-
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
@@ -245,13 +180,12 @@ Dadurch gewinnt man mehr Entfaltungsmöglichkeiten für die Bewegungen der Seele
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/3_standorte.png" >}}
+
+{{< calendly-button >}}
+
 
 {{% box top-align=1 %}}
 {{% small  %}}

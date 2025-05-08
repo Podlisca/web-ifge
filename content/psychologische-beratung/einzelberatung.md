@@ -39,15 +39,14 @@ Die klassische **Lebens- und Sozialberatung – auch psychologische Beratung** g
 
 Professionelle Hilfe bedeutet, dass Sie so angenommen werden, wie Sie sind, genau da, wo Sie im Moment stehen und **genügend Zeit und Raum** haben, in einem **geschützten Rahmen** zu rasten sowie sich zu sammeln, um zu Kräften zu kommen. 
 
+{{< calendly-button >}}
+
+
 {{% /small %}}
 
 </div> 
 
 
-{{< line icon="icon/termine.png" >}}
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/info_tuerkis.png" >}}
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
@@ -91,14 +90,13 @@ Das bedeutet, dass in der seriösen Lebensberatung immer Ihr individuelles Leben
 Hier bei mir am IFGE können Sie in einer offenen und freundlichen Atmosphäre in Ruhe Ihre aktuelle Situation bearbeiten, neue Potenziale entwickeln und Zugang zu Ihren Ressourcen finden. Ein geschützter, professioneller und von Wertschätzung geprägter Rahmen ermöglicht es Ihnen, Themen zu besprechen, die Sie vielleicht schon lange belasten und begleiten. Selbstverständlich wird alles absolut vertraulich behandelt.
 
 Dadurch können Sie zukünftige Stresssituationen deutlich entschärfen und andere harmonische Lösungswege finden. Die bewusste Auseinandersetzung mit der eigenen Geschichte hat nicht nur einen merkbar positiven Einfluss auf Ihr Leben, sondern auch auf Ihr ganzes persönliches Umfeld.
+
+
+
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/info_tuerkis.png" >}}
 
@@ -111,7 +109,8 @@ Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu de
 Die dabei eingesetzte gezielte und strukturierte Gesprächsführung bedeutet mir am IFGE auch, dass aufgrund langjähriger Erfahrung und zahlreicher Zusatzausbildungen ein Mix aus unterschiedlichsten psychologischen Methoden ermöglicht wird, der somit die absolut individuelle Begleitung Ihres Prozesses sichert.
 <br/>
 <br/>
-{{< silvia >}}
+{{< calendly-button >}}
+
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -138,16 +137,14 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{% /box %}}
 
 
+
 {{% /floatbox %}}
 
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 {{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
+
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
 {{% box top-align=1 %}}
@@ -159,6 +156,9 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 * [Suchtberatung](/psychologische-beratung/spezialisierungen/suchtberatung/)
 * [Burn-out Beratung](/psychologische-beratung/spezialisierungen/burnout/)
 * [Trauerbewältigung](/psychologische-beratung/spezialisierungen/trauerbewaeltigung/)
+
+
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -170,6 +170,9 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 * [Sexualberatung für Paare](/psychologische-beratung/spezialisierungen/sexualitaetpaare/)
 * [Gleichgeschlechtliche Liebe](/psychologische-beratung/spezialisierungen/gleichgeschlechtlich/)
 * [Gesunde Perversion](/psychologische-beratung/spezialisierungen/gesundeperversion/)
+
+
+
 {{% /small  %}}
 
 {{% small  %}}
@@ -195,15 +198,14 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 {{% /box %}}
 
 
-{{< line icon="icon/termine.png" >}}
-
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 
 
 {{< line icon="icon/3_standorte.png" >}}
+
+
+
+## {{< calendly-button >}}
 
 {{% box top-align=1 %}}
 {{% small  %}}

@@ -30,13 +30,11 @@ Eine Krise kommt entweder **plötzlich und völlig unerwartet** auf uns zu – e
 
 Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch werden, was letztlich über erhöhte [Suchtgefährdung](/psychologische-beratung/spezialisierungen/suchtberatung/) bis hin zu körperlichen Krankheiten führen kann. Gelegentlich wird eine Krise auch dadurch ausgelöst, dass man zu lange die eigenen Grenzen missachtet oder sich etwas zu Schulden kommen hat lassen. 
 
-**"Ich bin in schwierigen Zeiten an Ihrer Seite".** *-Silvia Podlisca*
+**"Ich bin in schwierigen Zeiten an Ihrer Seite".** -{{< silvia >}} 
 
-{{< line icon="icon/termine.png" >}}
+{{< calendly-button >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
+{{< line icon="icon/krise.png" >}}
 
 
 {{% box blue=1 %}}
@@ -73,11 +71,9 @@ Eine Krise gleich welcher Art bedeutet für die Betroffenen zunächst einmal, da
 
 Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wird klar, welche Schritte notwendig sind, um die Krise komplett zu bewältigen. Es ist, als würden die Lebensgeister völlig neu erwachen und Sie die Kraft finden, von der Ohnmacht in die Macht zu kommen, um etwas zu MACHEN.Das Erlebnis einer Krise macht uns bewusst, dass etwas getan werden muss. Wir sollten ein solches Tief als natürliche Warnreaktion betrachten. 
 
-{{< line icon="icon/termine.png" >}}
+{{< calendly-button >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
+
 
 
 {{< line icon="icon/krise.png" >}}
@@ -95,13 +91,12 @@ Ihre **persönliche Neuorientierung** gelingt dadurch zumeist schneller und auch
 Gleichzeitig erleben Klient:innen durch die oftmals recht amüsanten Verhaltensweisen vor allem der Katzen, dass es auch noch Platz für Leichtigkeit und Heiterkeit im eigenen Leben geben darf. Dadurch fördern die Tiere Ihre Zuversicht, aus Ihrer Krise eine Lebenschance werden zu lassen.
 
 Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und in Situationen, aus denen kein Ausweg möglich scheint. Sie bekommen bei mir Zeit und Raum, um in Ihrem Tempo über die Dinge zu sprechen, die Ihnen am Herzen liegen.
+
+{{< calendly-button >}}
+
 {{% /floatbox %}}
 
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 
 {{< line icon="/icon/beratung.png" >}}
@@ -152,11 +147,7 @@ Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und i
 {{% /small  %}}
 {{% /box %}}
 
-{{< line icon="icon/termine.png" >}}
 
-#### **Terminvereinbarung unter** 
-#### **+43 676 610 89 36** 
-#### **silvia.podlisca@ifge.at**
 
 {{< line icon="icon/3_standorte.png" >}}
 
