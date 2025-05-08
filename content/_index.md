@@ -177,8 +177,6 @@ og_image: "/img/hollandst.jpg"
     Bereit für neue Perspektiven? Ich begleite dich mit Erfahrung, Klarheit und Herzenswärme.
   </h2>
   
-{{< calendly-button >}}
-
 
 
 
