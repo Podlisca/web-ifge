@@ -69,8 +69,13 @@ og_image = "/img/silvia_onlineakdademie.jpg"
 
 [[menu.main]]
 identifier = "onlinebuchung"
-name = "Onlinebuchung"
+name = "Online Terminbuchung"
 url = "/psychologische-beratung/onlinebuchung-beratung/"
 weight = 6
 class = "highlight-button"
+
+
+
+
+
 
