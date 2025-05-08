@@ -176,10 +176,9 @@ og_image: "/img/hollandst.jpg"
   <h2 style="color: white; font-size: 1.2rem; margin-bottom: 1rem;">
     Bereit für neue Perspektiven? Ich begleite dich mit Erfahrung, Klarheit und Herzenswärme.
   </h2>
-<button onclick="Calendly.initPopupWidget({url: 'https://calendly.com/silvia-podlisca-ifge/30min?share_attribution=expiring_link'}); return false;" 
-  style="background-color: #a50034; color: white; padding: 8px 16px; border: none; border-radius: 5px; font-size: 1rem; font-weight: 500; cursor: pointer;">
-  Jetzt Online-Termin buchen
-</button>
+  
+{{< calendly-button >}}
+
 
 
 
