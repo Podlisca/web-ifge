@@ -44,6 +44,8 @@ Als Lebensberater:innen - psychologischen Berater:in **begleiten wir Dich** in b
 
 Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre bestehen, können daraus ernstzunehmende (psychische) Krankheiten entstehen. Wir Lebensberater:innen - pschologische Berater:innen **„fangen“** sozusagen genau jene **Menschen auf**, die in herausfordernden Situationen feststecken, sodass es **erst gar nicht zu Störungen kommt**.
 
+{{< calendly-button >}}
+
 {{% /floatbox %}}
 
 
