@@ -922,7 +922,8 @@ main .cst-intro a {
   border-radius: 10px;
   padding: 2rem;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  flex: 1 1 300px;
+  flex: 0 1 30%;
+  min-width: 280px;
   max-width: 360px;
   text-align: center;
 }
@@ -1121,4 +1122,8 @@ img {
     max-width: 90%;
     padding: 1rem;
   }
+}
+
+main img {
+  margin-bottom: 1.5rem;
 }
