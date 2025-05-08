@@ -140,36 +140,42 @@ og_image: "/img/hollandst.jpg"
 
   <h2 style="color: white;">Mein Angebot für dich</h2>
 
-  <div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin-top: 2rem;">
-    <div class="vorteil-box">
-      <img src="/img/icon/start1.png" alt="Icon Einzelberatung" class="vorteil-icon" />
-      <h3><a href="https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/" target="_blank">Systemische Einzelberatung</a></h3>
-      <p>In schwierigen Lebenssituationen begleite ich dich professionell und empathisch – lösungsorientiert, klar und ressourcenstärkend.</p>
-    </div>
-    <div class="vorteil-box">
-      <img src="/img/icon/start1.png" alt="Icon Familienaufstellung" class="vorteil-icon" />
-      <h3><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familienaufstellung</a></h3>
-      <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
-    </div>
+<div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin-top: 2rem;">
+  <div class="vorteil-box">
+    <img src="/img/icon/start1.png" alt="Icon Einzelberatung" class="vorteil-icon" />
+    <h3><a href="https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/" target="_blank">Systemische Einzelberatung</a></h3>
+    <p>In schwierigen Lebenssituationen begleite ich dich professionell und empathisch – lösungsorientiert, klar und ressourcenstärkend.</p>
+    {{< calendly-button >}}
   </div>
+  <div class="vorteil-box">
+    <img src="/img/icon/start1.png" alt="Icon Familienaufstellung" class="vorteil-icon" />
+    <h3><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familienaufstellung</a></h3>
+    <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
+    {{< verlinkung-aufstellungstermine >}}
+  </div>
+</div>
 
-  <div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
-    <div class="vorteil-box">
-      <img src="/img/icon/start1.png" alt="Icon Krisenberatung" class="vorteil-icon" />
-      <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/" target="_blank">Krisenberatung</a></h3>
-      <p>Wenn es brennt: Rasche Hilfe bei akuten Krisen, Trennung, Verlust oder Überforderung – vertrauensvoll und stabilisierend.</p>
-    </div>
-    <div class="vorteil-box">
-      <img src="/img/icon/start1.png" alt="Icon Sexualberatung" class="vorteil-icon" />
-      <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/" target="_blank">Sexualberatung</a></h3>
-      <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
-    </div>
-    <div class="vorteil-box">
-      <img src="/img/icon/start1.png" alt="Icon Supervision" class="vorteil-icon" />
-      <h3><a href="https://www.ifge.at/supervision/einzelsetting/einzelsupervision/" target="_blank">Supervision</a></h3>
-      <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet und vertraulich.</p>
-    </div>
+<div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
+  <div class="vorteil-box">
+    <img src="/img/icon/start1.png" alt="Icon Krisenberatung" class="vorteil-icon" />
+    <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/" target="_blank">Krisenberatung</a></h3>
+    <p>Wenn es brennt: Rasche Hilfe bei akuten Krisen, Trennung, Verlust oder Überforderung – vertrauensvoll und stabilisierend.</p>
+    {{< calendly-button >}}
   </div>
+  <div class="vorteil-box">
+    <img src="/img/icon/start1.png" alt="Icon Sexualberatung" class="vorteil-icon" />
+    <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/" target="_blank">Sexualberatung</a></h3>
+    <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
+    {{< calendly-button >}}
+  </div>
+  <div class="vorteil-box">
+    <img src="/img/icon/start1.png" alt="Icon Supervision" class="vorteil-icon" />
+    <h3><a href="https://www.ifge.at/supervision/einzelsetting/einzelsupervision/" target="_blank">Supervision</a></h3>
+    <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet und vertraulich.</p>
+    {{< calendly-button >}}
+  </div>
+</div>
+
 
   <!-- Call-to-Action mit weißem Text -->
 <div style="margin-top: 3rem; text-align: center;">
@@ -177,8 +183,6 @@ og_image: "/img/hollandst.jpg"
     Bereit für neue Perspektiven? Ich begleite dich mit Erfahrung, Klarheit und Herzenswärme.
   </h2>
   
-
-{{< calendly-button >}}
 
 
 </div>
