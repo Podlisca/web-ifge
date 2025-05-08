@@ -147,6 +147,7 @@ og_image: "/img/hollandst.jpg"
     <p>In schwierigen Lebenssituationen begleite ich dich professionell und empathisch – lösungsorientiert, klar und ressourcenstärkend.</p>
     {{< calendly-button >}}
   </div>
+  
   <div class="vorteil-box">
     <img src="/img/icon/start1.png" alt="Icon Familienaufstellung" class="vorteil-icon" />
     <h3><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familienaufstellung</a></h3>
@@ -162,12 +163,14 @@ og_image: "/img/hollandst.jpg"
     <p>Wenn es brennt: Rasche Hilfe bei akuten Krisen, Trennung, Verlust oder Überforderung – vertrauensvoll und stabilisierend.</p>
     {{< calendly-button >}}
   </div>
+  
   <div class="vorteil-box">
     <img src="/img/icon/start1.png" alt="Icon Sexualberatung" class="vorteil-icon" />
     <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/" target="_blank">Sexualberatung</a></h3>
-    <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
+    <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
     {{< calendly-button >}}
   </div>
+  
   <div class="vorteil-box">
     <img src="/img/icon/start1.png" alt="Icon Supervision" class="vorteil-icon" />
     <h3><a href="https://www.ifge.at/supervision/einzelsetting/einzelsupervision/" target="_blank">Supervision</a></h3>
@@ -176,12 +179,6 @@ og_image: "/img/hollandst.jpg"
   </div>
 </div>
 
-
-  <!-- Call-to-Action mit weißem Text -->
-<div style="margin-top: 3rem; text-align: center;">
-  <h2 style="color: white; font-size: 1.2rem; margin-bottom: 1rem;">
-    Bereit für neue Perspektiven? Ich begleite dich mit Erfahrung, Klarheit und Herzenswärme.
-  </h2>
   
 
 

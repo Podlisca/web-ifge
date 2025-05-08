@@ -67,3 +67,10 @@ og_image = "/img/silvia_onlineakdademie.jpg"
     url = "/psychologische-beratung/gruppenselbsterfahrung/termine/"
     weight = 7
 
+[[menu.main]]
+identifier = "onlinebuchung"
+name = "Onlinebuchung"
+url = "/psychologische-beratung/onlinebuchung-beratung/"
+weight = 6
+class = "highlight-button"
+
