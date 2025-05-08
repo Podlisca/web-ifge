@@ -87,7 +87,7 @@ Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzäh
 
 
 
-{{% floatbox %}}
+
 
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 {{< image src="/img/systembrett_einzel_noe1.jpg" float="right" title="Durch sichtbar machen der Wechselwirkung auf dem Systembrett, werden neue Erkenntnisse und Einsichten möglich. Das Ziel ist, dass Sie im Familiensystem genau den Platz finden, wo Sie sich wohl und kraftvoll fühlen. Frei von Altlasten mit Blick in die Zukunft." >}} 
