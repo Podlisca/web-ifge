@@ -51,6 +51,7 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 
 {{< calendly-button >}}
 
+{{% /floatbox %}}
 
 {{< line icon="icon/kontakt.png" >}}
 
