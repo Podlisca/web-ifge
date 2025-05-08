@@ -22,113 +22,64 @@ og_image: "/img/system_einzel.jpg"
 
 
 
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
 
 
+## Silvia – Seit 25 Jahren an deiner Seite – Für eine positive Lebensgestaltung
 
 {{% floatbox %}}
 
-{{< image src="/img/system_einzel.jpg" float="left" title="**Systemische Einzelberatung** bedeutet, dass **Sie im Focus der psychologischen Beratung** stehen, jedoch geschaut wird, wie ihr Anliegen, ihre Situation im **Zusammenhang mit der Umgebung** (Familie, Beruf, Freunde) wirkt, und welche **Wechselwirkung** im System entsteht. Oftmals wiederholen wir dabei Muster unserer Eltern, die dieses Verhalten wieder von Ihren Eltern usw. übernommen haben. Systemisch und systemisch – kollektive Verstrickungen zu lösen, ohne schlechtem Gewissen der Familie gegenüber, bringt immer eine **deutliche persönliche Entlastung und erweitert ihren persönlichen Handlungsspielraum**." >}} 
+{{< image src="/img/system_einzel.jpg" float="left" title="**Systemische Einzelberatung** bedeutet, dass **du im Mittelpunkt der psychologischen Beratung** stehst. Gleichzeitig wird betrachtet, wie dein Anliegen im **Zusammenhang mit deinem Umfeld** – etwa Familie, Arbeit oder Freundeskreis – wirkt und welche **Wechselwirkungen** innerhalb deines Systems entstehen. Oft wiederholen wir Muster, die wir von unseren Eltern übernommen haben, ohne es bewusst zu merken. Diese systemischen Verstrickungen zu erkennen und aufzulösen, kann eine **große Entlastung bringen und deinen Handlungsspielraum deutlich erweitern.**" >}}
 
+In der systemischen Einzelberatung begleite ich dich mit **Herz und Verstand**. Du wirst eingeladen, dich auf eine Entdeckungsreise zu machen – zu deinen Gedanken, Gefühlen und inneren Überzeugungen. Gemeinsam schauen wir auf das, was dich im Moment belastet, und öffnen neue Sichtweisen. 
 
-**Unterschiedliche systemische Zugänge ermöglichen** – neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe –, auch in Einzelsitzungen eine breite Übersicht über Ihre [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und bekannten Handlungsmuster, welche Sie führen. <br/><br/> In der **hypnosystemischen Beratung** achte ich zum Beispiel darauf, dass Sie Ihre **Stärken und Fähigkeiten ganz bewusst erkennen und diese fokussiert** – aber auch wohldosiert – für Ihre **Lösungen** einsetzen können, um neue wirksame Realitäten zu erschaffen.
+Du kannst aus unterschiedlichen systemischen Zugängen wählen: Neben klassischen [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) in der Gruppe nutze ich in Einzelsettings auch Elemente der [Glaubenssatzarbeit](/gruppenselbsterfahrung/glaubenssatzaufstellung/) und der hypnosystemischen Beratung. Dabei geht es vor allem darum, dass du deine **Stärken erkennst, aktivierst und gezielt nutzt**, um eigene Lösungen zu finden – in deinem Tempo und auf deine Weise.
 
-**Beratungseinheiten können sowohl in Präsez oder Online über Webex Meeting statt finden.**  {{< calendly-button >}}
+Ob persönliche Gespräche in Wien oder online über Webex – du entscheidest, was am besten zu dir passt. Ich biete dir einen geschützten Raum, in dem du dich verstanden, gestärkt und begleitet fühlen darfst. 
 
+**Du möchtest einen Termin vereinbaren? Dann buche jetzt ganz einfach online.**
 
+{{< calendly-button >}}
+
+{{% /floatbox %}}
 
 {{< line icon="icon/familienaufstellung.png" >}}
 
 
 
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Familienaufstellung Tag 1
-{{< youtube NY2Foh8-Fbo >}}
-Hier gebe ich einen kurzen Einblick was bei Familienaufstellungen geschieht und wie sich die Methode weiterentwickelt hat. Lösungen im Einklang mit der Familiensystem und den persönlichen Wünschen.
-{{% /small  %}}
 
-{{% small  %}}
-#### Familienaufstellung Tag  2
-{{< youtube 9sTJHky6cUA >}}
-Familienaufstellung am IFGE ist eine Prozessarbeit. Über drei Tage bin ich intensiv mit allen Teilnehmer*innen gleichwertig im Kontakt. Bei mir am IFGE ist es kein Abarbeiten von Aufstellungen.
-{{% /small  %}}
-{{% small  %}}
-#### Familienaufstellung Tag  3
-{{< youtube Ut0nAJ_Qh-Y >}}
+## Die Kraft kollektiver Verstrickungen – unbewusste Loyalitäten erkennen und lösen
 
-Was lösen Familienaufstellungen bei Klienten*innen und bei mir aus. Hier erzähle ich, wie ich damit umgehen, wenn mich etwas tief berührt während ich eine Familienaufstellung leite.
-{{% /small  %}}
-{{% /box %}}
+{{% floatbox %}}
+
+{{< image src="/img/systembrett_einzel_noe1.jpg" float="right" title="Durch sichtbar machen der Wechselwirkung auf dem Systembrett, werden neue Erkenntnisse und Einsichten möglich. Das Ziel ist, dass du im Familiensystem genau den Platz findest, wo du dich wohl und kraftvoll fühlst." >}}
+
+Viele unserer tiefsitzenden Muster und inneren Konflikte haben ihren Ursprung nicht nur in unserer persönlichen Lebensgeschichte, sondern sind oft Ausdruck einer **kollektiven Dynamik**, die über Generationen weitergegeben wird. Diese kollektiven Verstrickungen wirken im Verborgenen: Wir übernehmen unbewusst Gefühle, Glaubenssätze oder Verhaltensweisen unserer Eltern, Großeltern oder anderer Familienmitglieder – manchmal aus Liebe, manchmal aus Schuld, oft aus einem tiefen Bedürfnis nach Zugehörigkeit.
+
+So kann es sein, dass du immer wieder ähnliche Schwierigkeiten im Leben erfährst – sei es in Beziehungen, im Beruf oder mit dir selbst – und nicht genau weißt, warum. Möglicherweise folgst du einer "inneren Verpflichtung", das Leid eines Familienmitglieds mitzutragen oder dessen unerfüllte Träume zu verwirklichen. Diese verborgenen Loyalitäten können dich ausbremsen, dich in wiederkehrende Muster zwingen oder dich in deiner Entfaltung behindern – selbst wenn dein eigenes Leben eigentlich frei davon sein dürfte.
+{{% /floatbox %}}
+
+{{% floatbox %}}
+{{< image src="/img/system_zettel1_bgld.jpg" float="left" title="Systemische Arbeit mit Bodenankern, Stühlen oder Zetteln macht innere Dynamiken sichtbar und spürbar. So entsteht ein ganzheitliches Erleben, das tief wirkt." >}}
+
+In der systemischen Einzelberatung schauen wir gemeinsam auf diese tieferliegenden Zusammenhänge. Du bekommst Werkzeuge an die Hand, um diese alten Verbindungen liebevoll zu würdigen und gleichzeitig klar zu entscheiden, was du davon loslassen möchtest. Das Ziel ist nicht, sich von der Familie abzuspalten, sondern deinen eigenen Platz einzunehmen – in Achtung vor deiner Herkunft und mit einem klaren Blick in deine Zukunft.
+
+
+
+Systemische Arbeit auf dieser Ebene bringt oft eine tiefgehende Erleichterung: Wenn du erkennst, dass manche deiner inneren Konflikte gar nicht (nur) "deine eigenen" sind, entsteht Raum für neue Entscheidungen, für persönliche Freiheit und für ein Leben, das wirklich dir gehört.
+
+{{< calendly-button >}}
+
 {{% /floatbox %}}
 
 
-{{< line icon="icon/info_tuerkis.png" >}}
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
-{{% box blue=1 %}}
-{{% small  %}}
-## Hier finden Sie ausführliche Informationen über:
-{{% /small  %}}
-{{% /box %}}
-
-{{< iconmenu >}}
-{{< card icon="icon/beratung_schwarz.png" title="Einzelberatung" >}}
-{{< card icon="icon/sv_gruppe_geschlossen.png" title="Systemische Einzelberatung" link="systemische-einzelberatung" >}}
-{{< card icon="icon/tiere_schwarz.png" title="Tiergestützte Beratung" link="tiergestuetzteberatung" >}}
-{{< card icon="icon/paar_schwarz.png" title="Paarberatung" >}}
-{{< card icon="icon/sv_gruppe_offen.png" title="Berufsbild" >}}
-{{< card icon="icon/ks_sw.png" title="Klangschalenmassage" >}}
-{{< /iconmenu >}}
-
-
 {{< line icon="icon/familienaufstellung.png" >}}
 
 
 
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
-{{< image src="/img/systembrett_einzel_noe1.jpg" float="right" title="Durch sichtbar machen der Wechselwirkung auf dem Systembrett, werden neue Erkenntnisse und Einsichten möglich. Das Ziel ist, dass Sie im Familiensystem genau den Platz finden, wo Sie sich wohl und kraftvoll fühlen. Frei von Altlasten mit Blick in die Zukunft." >}} 
-
-Denn häufig begleitet meine Klient:innen jahrelang z.B. der Glaubenssatz, dass die Umsetzung ihrer Vorhaben oder der Schritt zur Weiterentwicklung einer hundertprozentigen Zustimmung ihrer selbst und auch der Zustimmung anderer bedürfen.  Fähigkeiten „wohldosiert“ einzusetzen, bedeutet hier also auch, zu erkennen, dass nicht zwangsläufig 100 Prozent von Ihnen gefordert sind, wenn Sie etwas verändern möchten. Denken Sie nur einmal an eine demokratische Abstimmung! Hier reicht schon eine einfach Mehrheit – also über 50 Prozent Zustimmung –, um in die Handlung zu gehen. Wo haben Sie sich vielleicht bisher etwas verwehrt oder haben sich nicht erlaubt, aktiv zu werden, weil Sie empfunden haben, für einen neuen Schritt „nur“ zu 80 Prozent gerüstet zu sein? Die sogenannte „innere Opposition“ ist sogar dringend notwendig, um sowohl flexibel als auch dynamisch zu bleiben und „Betriebsblindheiten“ zu vermeiden. 
-
-{{< calendly-button >}}
-
-
-
-{{< line icon="icon/familienaufstellung.png" >}}
-
-Doch egal von welcher systemischen Schule geschaut wird, systemische Beratung bedeutet immer, dass das Anliegen bzw. das Problem, welches Sie gerade belastet und beschäftigt, IMMER im gesamten Kontext Ihrer Familie – also Ihres Systems – gesehen wird. Welchen Sinn haben die belastenden und oft zermürbenden Symptome oder Situationen in Ihrem Leben? Worauf möchten sie Sie vielleicht hinweisen? Ihre Anliegen bzw. Ihre Problemstellungen werden in der Systemik immer als wertvolle Hinweise und niemals als ausschließlich destruktive Belastung angesehen. Der verbissene Kampf gegen das Symptom oder gegen bestimmte Gedanken ist immer ein verlorener Kampf. Darüber hinaus nährt dieser innere Konflikt Ihr Problem, anstatt für Lösungen dienlich zu sein. In einer systemischen Beratung – egal ob in Einzelstunden oder bei [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) – begeben Sie sich auf die spannende Reise zu Ihren Wurzeln und entwickeln ein tiefes Verständnis für Ihre Denk- und Handlungsmuster. Wo sind Sie vielleicht „heimlich im Einklang mit dem Unglück“? (Näheres zur heimlichen Wirkung eines Systems lesen Sie [hier](/gruppenselbsterfahrung/familienaufstellung/)). Wir alle befinden uns gelegentlich in Situationen, in denen wir uns mit unseren belastenden Gefühlen versuchen abzufinden, sie ignorieren und letztlich vielleicht sogar resignieren. Anders ausgedrückt: „Leiden ist leichter als lösen“, wie es Bert Hellinger schon so treffend formuliert hat. Wo Klient*innen im unbewussten Einklang mit ihrem bewussten Leiden sind, setzt die systemische Beratung an. Solange im Zuge professioneller, psychologischer Begleitung nicht alles in den Blick genommen wird, helfen Disziplin und der brennende Wunsch nach Veränderung alleine in den seltensten Fällen. Gemeinsam nehmen wir in der systemischen Beratung alles in den Blick, was Ihre Herkunft ausmacht und Ihre aus der Familie entstandenen [Glaubenssätze](/gruppenselbsterfahrung/glaubenssatzaufstellung/) betrifft. Durch diesen systemischen Ansatz, der freundlich auch den Familienmitgliedern Platz einräumt, für die Sie vielleicht schon lange keinen Blick mehr haben, können Lösungen entstehen. Und zwar solche Lösungen, die mit gutem Gewissen gegenüber allen Ihren Familienmitgliedern dauerhaft gelingen – frei von Schuldgefühlen gegenüber jenen, die in Ihrer Familie ein schweres Schicksal hatten oder haben, die krank oder geschieden und womöglich in ihrem Unglück verhaftet sind.
-
-
-{{< image src="/img/system_einzel_2.jpg" float="left" title="Eine weitere Methode, um Klarheit zu bekommen, ist die Arbeit mit Stühlen. Oftmals entsteht dabei eine Kombination von systemischer Arbeit und Monodrama. Durch das Setzen auf den Stühlen gelingt das Einfühlen in die verschiedenen Rollen besonders leicht und ungeahnte, tiefgreifende Prozesse, Lösungen und Ressourcen kommen ans Licht. " >}} 
-
-
-Systemische Beratung bedeutet in meinem Verständnis nicht – wie so oft anders in Aussicht gestellt – dass mit einer großen Familienaufstellung in der Gruppe jedes einzelne belastende Thema von Klient:innen aufgearbeitet und für immer dauerhaft gelöst werden kann. 
-
-Die [Philosophie](/about/institut/), die bei mir am Institut für ganzheitliches Erleben gelebt wird, ist viel eher die Lösung der kleinen, sicheren Schritte. Diese scheinen auf den ersten Blick möglicherweise nicht als so gewichtig wie die Lösungen, die in Gruppenaufstellungen sichtbar gemacht und bearbeitet werden, helfen aber ebenso durch das kontinuierliche innere Erleben, sichtbar Gewordenes nachhaltig in persönliche Lösungskonzepte zu integrieren. Systemische Einzelstunden festigen dazu oft den in der Gruppe erzielten Aufstellungserfolg.
-
-
-{{< calendly-button >}}
-
-
-{{< line icon="icon/familienaufstellung.png" >}}
-
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
-
-In Einzelsitzungen ist es überdies auch möglich, sich besonders viel Zeit für die Auswirkungen und persönlichen Folgen der in Gruppenaufstellungen sichtbar gewordenen Verstrickungen zu nehmen und Ihre neue Realität zu erschaffen. Ein bekannter Lösungssatz in der [klassischen Familienaufstellung](/gruppenselbsterfahrung/familienaufstellung/) ist die Bitte der KlientInnen, dass jenes Familienmitglied, dem wir mit dem Lösen unseres Problems unähnlich werden, freundlich auf uns schauen möge, wenn es für uns anders und gut weitergehen darf. Diese eingeholte Erlaubnis – dieser freundliche Blick – am Ende einer Aufstellung nach Hellinger stellt den Beginn der [Glaubenssatzaufstellung](/gruppenselbsterfahrung/glaubenssatzaufstellung/) dar. Denn wenn es für Sie anders und gut weitergehen darf, wie sieht dieses „anders“ und „gut“ in Ihrem persönlichen Fall aus? Hier setzt das Finden Ihres Zieles – also Ihrer neuen Realität – an. Was ist Ihr Bedürfnis? Was benötigen Sie?
-
-Mir ist dabei wichtig, zu betonen, dass das Ziel, das Sie für sich definieren, keine einfache Umkehr darstellt, sondern viel eher eine [wirksame neue Realität](/gruppenselbsterfahrung/glaubenssatzaufstellung/) entsteht. 
-
-{{< image src="/img/system_zettel1_bgld.jpg" float="right" title="Ebenso möglich ist die Arbeit mit Zetteln. Auch bei dieser systemischen Variante ist es besonders gut möglich sich in die diversen Rollen einzuspüren. So erhalten Sie eine ganzheitliche Wahrnehmung. Bei allen Methoden wo der Körper mit spürbaren Phänomenen einbezogen wird, wird das sogenannte Körpergedächtnis mit einbezogen. Dies ermöglicht auf den prozeduralen Erinnerungsspeicher zuzugreifen und alte Erinnerungen von der damaligen Last zu befreien und neue – gewünschte Erfahrungen zu sammeln." >}} 
-
-Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb besonders ans Herz zu legen, da Sie nicht immer und überall auf eine Gruppe von Stellvertreter*\innen oder auf das [SystemDimensionsBrett®](/psychologische-beratung/systemdimensionsbrett/) (siehe weiter unten) zurückgreifen können. Was Sie allerdings in jeder Sekunde Ihres Lebens zur Verfügung haben, ist Ihr Körper als Wegweiser. In der systemischen Beratung lernen Klient:innen, auch ohne Unterstützung von außen, langfristig bewusst einzuordnen: „Was geht gerade in meinem Körper vor? Fühle ich Beklemmungen? Befinde ich mich in meiner Mitte? Habe ich ein stärkeres oder anderes Herzklopfen?“ Was verändert sich in Ihrem Körper, wenn Ihr Anliegen betrachtet wird? Was Ihr Körper Ihnen mit diesen Empfindungen sagen oder zeigen will, ist eine zentrale Frage in der systemischen Beratung – mit der immer Bezug auf Ihr persönliches Anliegen genommen wird. Im inneren Bild erleben Sie, welche Emotionen und Eindrücke Sie beeinflussen und wie sich diese auf Ihr körperliches Empfinden auswirken. Sie lernen, die kleinen, feinen Veränderungen bewusst wahrzunehmen und für Sie zu „entschlüsseln“. Dadurch entstehen nicht nur neue Denk- und Handlungsmuster, sondern Sie erlernen in wertschätzender Atmosphäre, wie Sie selbst ganz bewusst auch auf bisher blinde Flecken in Ihrem Erleben schauen können. Dadurch entwickeln Sie Ihr persönliches Handwerkszeug, welches Sie unabhängig vom Beratungsprozess selbst jederzeit anwenden können. 
-
-{{< calendly-button >}}
 
 
 
 
-
-{{< line icon="/icon/beratung.png" >}}
 # Spezialisierungen
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
 
@@ -180,7 +131,7 @@ Die zusätzliche systemische Arbeit in Einzelsitzungen ist vor allem deshalb bes
 
 {{< line icon="icon/3_standorte.png" >}}
 
-{{< calendly-button >}}
+
 
 
 {{% box top-align=1 %}}
