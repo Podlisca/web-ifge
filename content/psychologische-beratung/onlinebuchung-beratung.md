@@ -11,7 +11,7 @@ draft: false
 # Termin online buchen
 ***
 
-**Wähle bequem einen passenden Termin für deine psychologische Beratung.Die Buchung ist verbindlich, und du erhältst eine automatische Bestätigung per E-Mail.**
+**Wähle bequem einen passenden Termin für deine psychologische Beratung. Die Buchung ist verbindlich, und du erhältst eine automatische Bestätigung per E-Mail.**
 
 Wenn du eine **systemische Beratung, Sexualberatung oder Krisenintervention** suchst, wähle bitte die **psychologische Einzelberatung** aus. Diese Terminart umfasst all diese Themen und ist hier zusammengefasst, um dir die Buchung zu erleichtern.
 
