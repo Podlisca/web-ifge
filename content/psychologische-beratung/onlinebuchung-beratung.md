@@ -13,6 +13,9 @@ draft: false
 
 **Wähle bequem einen passenden Termin für deine psychologische Beratung.Die Buchung ist verbindlich, und du erhältst eine automatische Bestätigung per E-Mail.**
 
+Wenn du eine **systemische Beratung, Sexualberatung oder Krisenintervention** suchst, wähle bitte die **psychologische Einzelberatung** aus. Diese Terminart umfasst all diese Themen und ist hier zusammengefasst, um dir die Buchung zu erleichtern.
+
+Im **Kommentarfeld** während der Buchung kannst du mir gerne erste Hinweise geben – z. B., wenn du möchtest, dass Ozzy, der Hund, beim Gespräch dabei ist oder wenn es sonst etwas gibt, das ich im Vorfeld wissen sollte.
 
 
 <h3 style="text-align: center;">Termin auswählen</h3>
