@@ -32,7 +32,14 @@ Tiergestützte Beratung beginnt dort, wo **Gespräche und die Arbeit** mit einem
 
 Der **neue tierische Coach Ozzy** bereichert unser Team mit seiner **fröhlichen und verspielten Art**. Als junger Begleiter ist er noch in der **Lernphase und nicht perfekt** – aber genau das macht ihn so **besonders**. Auch das **Leben** ist oft nicht **perfekt**, und Ozzy erinnert uns daran, **mit Freude und Gelassenheit durch Herausforderungen** zu gehen. Seine **Natürlichkeit** schafft eine entspannte Atmosphäre, die **Veränderung und Entwicklung** fördert.
 <br/>
+<br/>
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div> 
 
 {{% /floatbox %}}
 
@@ -94,13 +101,13 @@ Die Einsatzmöglichkeiten von Hunden in der psychologischen Beratung sind fast u
 In der psychologischen Beratung können tiergestützte Aktivitäten in vielerlei Hinsicht miteinbezogen werden. Tiere helfen dabei, Kontakt aufzubauen, in Beziehung zu gehen, sich auf Beziehungen einzulassen, Hemmungen zu überwinden und sie helfen Ihnen, damit Sie auch schwierige oder heikle Themen ansprechen können.
 
 Die Hunde unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, manchmal spielerisch integriert werden und manchmal einfach nur da sind.  Sie zeigen uns durch ihre unbekümmerte  Art, dass neben Problemen auch immer noch Freude und Glück vorhanden sind. Auch sind sie uns dabei behilflich, eigene und fremde Grenzen wahrzunehmen und diese zu respektieren lernen.
+
+
 {{% /small  %}}
 {{% /box %}}
 
 
 {{< line icon="icon/tiere.png" >}}
-
-
 
 
 
@@ -122,6 +129,12 @@ Die Hunde unterstützen jeden Prozess in dem sie manchmal tröstend eingreifen, 
 Dies sind nur einige von vielen Beispielen, prinzipiell können Pluto & Sally in jeden Beratungsprozess eingesetzt werden.
 
 Hinweis: Bei Outdoor Veranstaltungen, Beratungsstunden im Freien mit und ohne Tiere, Tiergestützten Beratungsstunden in den Räumlichkeiten sowie Ausbildungsangebote mit Tieren, haftet das Institut für ganzheitliches Erleben (IFGE) Energetische Praxis – Silvia Podlisca e.U nicht für Verletzungen jeglicher Art - weder bei Mensch noch bei Tier.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
 
 {{% /floatbox %}}
 
