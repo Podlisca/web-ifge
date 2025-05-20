@@ -42,7 +42,10 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 
 {{< calendly-button >}}
 
-**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
 
 
 
@@ -78,7 +81,10 @@ Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da 
 
 {{< calendly-button >}}
 
-**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
 
 
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
@@ -115,7 +121,10 @@ Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Be
 
 {{< calendly-button >}}
 
-**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
 
 Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbsterfahrung/familienaufstellung/).
 

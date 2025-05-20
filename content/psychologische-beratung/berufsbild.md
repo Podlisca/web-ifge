@@ -46,7 +46,10 @@ Wenn Belastungen über mehrere Monate, manchmal sogar über mehrere Jahre besteh
 
 {{< calendly-button >}}
 
-**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
 
 {{% /floatbox %}}
 
