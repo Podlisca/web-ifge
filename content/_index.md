@@ -159,7 +159,7 @@ og_image: "/img/hollandst.jpg"
     <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
     {{< verlinkung-aufstellungstermine >}}
     <div style="border: 1px solid #fff; padding: 10px; font-size: 0.9em; margin-top: 10px; background-color: #008b8b0d;">
-📞 <strong>Fragen zur Teilnahme?</strong> Gerne erkläre ich dir den Ablauf: <strong>+43 676 610 89 36</strong><br>
+📞 <strong>Fragen zur Teilnahme?</strong> Melde dich: <strong>+43 676 610 89 36</strong><br>
 
 </div>
 
