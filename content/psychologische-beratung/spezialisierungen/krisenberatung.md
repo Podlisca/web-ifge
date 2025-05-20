@@ -34,6 +34,8 @@ Bewältigt der Mensch Krisen nicht bewusst, können diese unbemerkt chronisch we
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 {{< line icon="icon/krise.png" >}}
 
 
@@ -73,6 +75,8 @@ Die Kraftlosigkeit wird zur Kraft, die Hoffnungslosigkeit weicht und langsam wir
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 
 
 
@@ -93,6 +97,8 @@ Gleichzeitig erleben Klient:innen durch die oftmals recht amüsanten Verhaltensw
 Ich begleite meine Klient:innen schon langjährig u.a. im Falle von Krisen und in Situationen, aus denen kein Ausweg möglich scheint. Sie bekommen bei mir Zeit und Raum, um in Ihrem Tempo über die Dinge zu sprechen, die Ihnen am Herzen liegen.
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
 
 {{% /floatbox %}}
 

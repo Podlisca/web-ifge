@@ -42,6 +42,8 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 
 
 
@@ -75,6 +77,8 @@ Eine Beziehung zu führen bedeutet neben romantischen, innigen und vertrauten Ge
 Als professionelle Paarberaterin unterstütze ich Sie dabei, als Paar wieder da anzuknüpfen, wo gegenseitiges Verständnis und Wertschätzung produktive Konfliktlösung in Ihrer Beziehung noch gelingen ließ. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. Falls sich im Zuge der Beratung herausstellen sollte, dass sich für Sie beide eine Trennung als die gesündere Lösung erweist, kann sich eine Paarberatung zu einer Trennungsberatung entwickeln. In diesem Fall schaue ich als Beraterin darauf, dass Sie gemeinsam Wege finden, wie eine konstruktive Trennung für Sie gelingen kann. Dies bedeutet, dass ich besonders auf eine respektvolle und wertschätzende Kommunikation zwischen Ihnen achte, die letztlich ermöglicht, dass es für Sie beide gleichermaßen gut weitergehen kann. 
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
 
 
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
@@ -110,6 +114,8 @@ Fast alle Menschen leben in ähnlichen Beziehungen wie die Eltern. Gerade dann, 
 Durch Lösung der sogenannten Familien-verstrickungen können Sie Ihre eigene Beziehung so gestalten, wie es für Sie beide am besten dienlich ist – frei von übernommen Altlasten und (oft heimlich) schlechtem Gewissen gegenüber Ihren Eltern. 
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
 
 Lesen Sie hier mehr über die [systemische Wirkung in Familien](/gruppenselbsterfahrung/familienaufstellung/).
 

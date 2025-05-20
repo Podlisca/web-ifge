@@ -45,6 +45,8 @@ Dazu gehören etwa die **zahlreichen Diskrepanzen**, die gleichgeschlechtlich Le
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 
 {{< line icon="icon/sexualberatung.png" >}}
 
@@ -84,6 +86,8 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 {{% /floatbox %}}
 
 
@@ -109,6 +113,8 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 * Sexualität und Alter
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
 
 {{< line icon="icon/sexualberatung.png" >}}
 

@@ -146,6 +146,8 @@ og_image: "/img/hollandst.jpg"
     <h3><a href="https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/" target="_blank">Systemische Einzelberatung</a></h3>
     <p>In schwierigen Lebenssituationen begleite ich dich professionell und empathisch – lösungsorientiert, klar und ressourcenstärkend.</p>
     {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
   </div>
   
   <div class="vorteil-box">
@@ -162,6 +164,8 @@ og_image: "/img/hollandst.jpg"
     <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/" target="_blank">Krisenberatung</a></h3>
     <p>Wenn es brennt: Rasche Hilfe bei akuten Krisen, Trennung, Verlust oder Überforderung – vertrauensvoll und stabilisierend.</p>
     {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
   </div>
   
   <div class="vorteil-box">
@@ -169,6 +173,8 @@ og_image: "/img/hollandst.jpg"
     <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/" target="_blank">Sexualberatung</a></h3>
     <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
     {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
   </div>
   
   <div class="vorteil-box">
@@ -176,6 +182,8 @@ og_image: "/img/hollandst.jpg"
     <h3><a href="https://www.ifge.at/supervision/einzelsetting/einzelsupervision/" target="_blank">Supervision</a></h3>
     <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet und vertraulich.</p>
     {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
   </div>
 </div>
 

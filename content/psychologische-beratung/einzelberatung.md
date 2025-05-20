@@ -41,6 +41,10 @@ Professionelle Beratung bedeutet, dass du so **angenommen wirst, wie du bist –
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
+
+
 
 {{% /small %}}
 
@@ -67,6 +71,9 @@ Ich begleite dich auf deinem Weg, um aus alten Denkmustern auszubrechen und dir 
 Die psychologische Beratung gehört somit neben Medizin und Psychotherapie zu den Säulen in der Österreichischen Gesundheitspolitik und dient Ihnen neben der Prävention von psychischen Erkrankungen auch zur Unterstützung bei unterschiedlichsten Problem- und Entscheidungssituationen. Sie unterstützt nicht nur in Krisenzeiten, sondern trägt auch zur **Primärprävention** bei, indem sie hilft, **Gesundheitsverhalten neu zu erlernen** und das eigene Wohlbefinden aktiv zu fördern. Ziel ist es, durch **Salutogenese die Ressourcen zu aktivieren**, die dir helfen, gesund zu bleiben und mit den Herausforderungen des Lebens besser umzugehen.
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at 
+
 
 {{% /floatbox %}}
 

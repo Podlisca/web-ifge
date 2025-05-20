@@ -40,6 +40,8 @@ Ob persönliche Gespräche in Wien oder online über Webex – du entscheidest, 
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 {{% /floatbox %}}
 
 {{< line icon="icon/familienaufstellung.png" >}}
@@ -68,6 +70,8 @@ In der systemischen Einzelberatung schauen wir gemeinsam auf diese tieferliegend
 Systemische Arbeit auf dieser Ebene bringt oft eine tiefgehende Erleichterung: Wenn du erkennst, dass manche deiner inneren Konflikte gar nicht (nur) "deine eigenen" sind, entsteht Raum für neue Entscheidungen, für persönliche Freiheit und für ein Leben, das wirklich dir gehört.
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
 
 {{% /floatbox %}}
 

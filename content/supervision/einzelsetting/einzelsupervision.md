@@ -30,6 +30,8 @@ Supervisionseinheiten können sowohl vor Ort oder **online** gebucht werden.
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 
 
 {{< line icon="icon/info_tuerkis.png" >}}
@@ -51,6 +53,8 @@ Um Ihr Potenzial voll entfalten zu können, ist die ergänzende Teilnahme an [Gr
 
 {{< calendly-button >}}
 
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
+
 {{% /floatbox %}}
 
 {{< line icon="icon/kontakt.png" >}}
@@ -71,4 +75,6 @@ Die Kosten finden Sie hier: [Preise](https://www.ifge.at/psychologische-beratung
 * Hilfestellung bei neuen Herausforderungen
 
 {{< calendly-button >}}
+
+**Lieber telefonisch buchen?** Ruf mich gerne an unter +43 676 610 89 36 oder schreib mir eine Nachricht: silvia.podlisca@ifge.at
 
