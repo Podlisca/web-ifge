@@ -159,7 +159,7 @@ og_image: "/img/hollandst.jpg"
     <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
     {{< verlinkung-aufstellungstermine >}}
     <div style="border: 1px solid #fff; padding: 10px; font-size: 0.9em; margin-top: 10px; background-color: #008b8b0d;">
-📞 <strong>Fragen zur Familienaufstellung?</strong> Ruf mich gerne an <strong>+43 676 610 89 36</strong><br>
+📞 <strong>Fragen zur Teilnahme?</strong> Gerne erkläre ich dir den Ablauf: <strong>+43 676 610 89 36</strong><br>
 
 </div>
 
@@ -194,7 +194,7 @@ og_image: "/img/hollandst.jpg"
   <div class="vorteil-box">
     <img src="/img/icon/start1.png" alt="Icon Supervision" class="vorteil-icon" />
     <h3><a href="https://www.ifge.at/supervision/einzelsetting/einzelsupervision/" target="_blank">Supervision</a></h3>
-    <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet und vertraulich.</p>
+    <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet, lösungsorientiert und vertraulich.</p>
     {{< calendly-button >}}
 
 <div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
