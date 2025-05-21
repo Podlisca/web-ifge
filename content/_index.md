@@ -149,7 +149,10 @@ og_image: "/img/hollandst.jpg"
 
 
 <div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Gerne unter +43 676 610 89 36  
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
+<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
+</div>
+
 
 </div>
   </div>
@@ -160,7 +163,10 @@ og_image: "/img/hollandst.jpg"
     <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
     {{< verlinkung-aufstellungstermine >}}
 <div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 <strong>Fragen zur Teilnahme?</strong> Melde dich: <strong>+43 676 610 89 36</strong><br>
+📞 <strong>Fragen zur Teilnahme?</strong> 
+<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
+</div>
+
 
 </div>
 
@@ -175,7 +181,10 @@ og_image: "/img/hollandst.jpg"
     {{< calendly-button >}}
 
 <div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
+<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
+</div>
+
 
 </div>
   </div>
@@ -187,7 +196,10 @@ og_image: "/img/hollandst.jpg"
     {{< calendly-button >}}
 
 <div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
+<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
+</div>
+
 
 </div>
   </div>
@@ -199,7 +211,10 @@ og_image: "/img/hollandst.jpg"
     {{< calendly-button >}}
 
 <div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
+<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
+</div>
+
 
 </div>
 
