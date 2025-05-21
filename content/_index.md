@@ -147,7 +147,8 @@ og_image: "/img/hollandst.jpg"
     <p>In schwierigen Lebenssituationen begleite ich dich professionell und empathisch – lösungsorientiert, klar und ressourcenstärkend.</p>
     {{< calendly-button >}}
 
-<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px; color: #ffffff;">
 📞 Lieber telefonisch buchen? Gerne unter +43 676 610 89 36  
 
 </div>
@@ -158,7 +159,7 @@ og_image: "/img/hollandst.jpg"
     <h3><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familienaufstellung</a></h3>
     <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
     {{< verlinkung-aufstellungstermine >}}
-    <div style="border: 1px solid #fff; padding: 10px; font-size: 0.9em; margin-top: 10px; background-color: #008b8b0d;">
+    <div style="border: 1px solid #fff; padding: 10px; font-size: 0.9em; margin-top: 10px; color: #ffffff;">
 📞 <strong>Fragen zur Teilnahme?</strong> Melde dich: <strong>+43 676 610 89 36</strong><br>
 
 </div>
@@ -173,7 +174,7 @@ og_image: "/img/hollandst.jpg"
     <p>Wenn es brennt: Rasche Hilfe bei akuten Krisen, Trennung, Verlust oder Überforderung – vertrauensvoll und stabilisierend.</p>
     {{< calendly-button >}}
 
-<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px; color: #ffffff;">
 📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
 
 </div>
@@ -185,7 +186,7 @@ og_image: "/img/hollandst.jpg"
     <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
     {{< calendly-button >}}
 
-<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px; color: #ffffff;">
 📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
 
 </div>
@@ -197,7 +198,7 @@ og_image: "/img/hollandst.jpg"
     <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet, lösungsorientiert und vertraulich.</p>
     {{< calendly-button >}}
 
-<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px; color: #ffffff;">
 📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
 
 </div>
