@@ -147,7 +147,7 @@ og_image: "/img/hollandst.jpg"
 
 
 <div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
+📞 Lieber telefonisch buchen? Melde dich unter 
 <a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
 </div>
 
