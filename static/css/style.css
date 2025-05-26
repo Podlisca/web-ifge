@@ -1122,3 +1122,13 @@ img {
     padding: 1rem;
   }
 }
+
+h10 {
+  display: block;  /* Damit es sich wie ein Block-Element verhält */
+  font-size: 8.8rem;  /* So groß wie deine H1 oder H2, kannst du anpassen */
+  color: white;       /* Weiße Schrift */
+  text-align: center; /* Zentriert */
+  font-weight: bold;  /* Optional, falls du es dicker möchtest */
+  margin: 1rem 0;     /* Abstand oben und unten */
+  line-height: 1.2;   /* Zeilenhöhe für bessere Lesbarkeit */
+}

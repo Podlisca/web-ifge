@@ -75,6 +75,10 @@ weight = 6
 class = "highlight-button"
 
 
+[[menu.main]]
+name = "Soforthilfe"
+url = "/soforthilfe/"
+weight = 3
 
 
 
