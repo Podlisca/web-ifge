@@ -4,7 +4,7 @@ description: "Kleine Übungen und Impulse für belastende Momente."
 og_image: "/img/hollandst.jpg"
 ---
 
-{{< line icon="icon/silvia.png" >}}
+{{< line icon="icon/krise.png" >}}
 
 ## Soforthilfe – Erste Unterstützung für dich 
 
@@ -18,10 +18,11 @@ Diese Soforthilfe ersetzt keine Beratung, aber sie kann dir helfen, den nächste
 **Nimm dir Zeit für dich.** Auch kleine Schritte sind wichtig und wertvoll.  
 Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft zu finden.
 
-{{< line icon="icon/krise.png" >}}
+{{< line icon="icon/silvia.png" >}}
 ## WACHSE AUS DER KRISE – SCHRITT FÜR SCHRITT
-***
 
+
+**Der erste Schritt ist die Entscheidung für dich. Ein konstruktiver Gedanke oder eine gesunde Handlung – und du bist auf dem Weg.** 
 <!-- layouts/soforthilfe/list.html -->
 
 <section class="vorteile-container ifge-tuerkis">
