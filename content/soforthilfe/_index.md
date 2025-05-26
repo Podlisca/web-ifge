@@ -13,9 +13,7 @@ og_image: "/img/hollandst.jpg"
 **Manchmal wird es einfach zu viel.** Hier findest du kleine Übungen und Impulse, die dir in belastenden Momenten helfen können.  
 Diese Soforthilfe ersetzt keine Beratung, aber sie kann dir helfen, den nächsten Schritt zu machen.
 
-**Oft braucht es nur einen kleinen Anstoß, um wieder Klarheit zu gewinnen.** Diese Impulse unterstützen dich dabei, dich zu stabilisieren und für einen Moment innezuhalten.
-
-**Nimm dir Zeit für dich.** Auch kleine Schritte sind wichtig und wertvoll.  
+**Oft braucht es nur einen kleinen Anstoß, um wieder Klarheit zu gewinnen.** Diese Impulse unterstützen dich dabei, dich zu stabilisieren und für einen Moment innezuhalten. **Nimm dir Zeit für dich.** Auch kleine Schritte sind wichtig und wertvoll.  
 Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft zu finden.
 
 {{< line icon="icon/silvia.png" >}}
@@ -57,12 +55,23 @@ Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft z
     </div>
   </div>
 
-  <div style="text-align: center; margin-top: 3rem;">
-    <a href="/psychologische-beratung/onlinebuchung-beratung/"
-       style="background-color: #b14564; color: white; padding: 1rem 2rem; border-radius: 8px; font-size: 1.3rem; text-decoration: none; display: inline-block;">
-      📅 Jetzt Termin buchen
-    </a>
+<div class="soforthilfe-abschluss">
+  <p><strong>Scheue dich nicht, Hilfe in Anspruch zu nehmen – ich bin gerne für dich da.</strong></p>
+  <a href="/psychologische-beratung/onlinebuchung-beratung/" class="button">Jetzt Termin vereinbaren</a>
   </div>
 </section>
 
 
+{{< line icon="icon/silvia.png" >}}
+## PS: Silvias Lieblingsübung
+
+**Hundegassi mit Ozzy – mein kleiner Auszeit-Ritual**
+
+Jeden Morgen und Abend gehe ich mit meinem Hund Ozzy spazieren. Es ist meine bewusste Pause vom Alltag, ***mein Moment zum Durchatmen***. Morgens nutzen wir die 45 Minuten, um bewusst in den Tag zu starten – begleitet von frischer Luft, sanften Dehnübungen und dem ersten Sonnenstrahl. Abends drehe ich eine kleinere Runde, um den Arbeitstag hinter mir zu lassen.  
+Und Ozzy? Er liebt es, Leckerlis zu suchen und mich ins Hier und Jetzt zu holen.
+
+Manchmal, wenn Ärger aufkommt, halte ich kurz inne und atme bewusst mehrmals aus – so als würde ich den Ärger mit jedem Ausatmen loslassen. **Es ist eine kleine Entscheidung, die große Wirkung zeigt.**
+
+Diese täglichen Gassi-Runden sind nicht nur für Ozzy wichtig, sondern auch für mich: Sie helfen mir, den Kopf freizubekommen, mich zu entspannen und mein Gleichgewicht zu bewahren.
+
+{{< silvia >}}
