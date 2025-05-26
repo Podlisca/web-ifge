@@ -54,11 +54,17 @@ Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft z
       <p>Erinnere dich an einen Moment, in dem du dich stark und voller Freude gefühlt hast. Stelle dir diesen Moment lebendig vor, halte ihn in deinem Herzen und atme tief ein, um diese Kraft wieder zu spüren.</p>
     </div>
   </div>
+<div class="soforthilfe-abschluss" style="text-align: center; margin-top: 2rem;">
+  <p style="font-size: 1.4rem; font-weight: bold; text-align: center; margin-bottom: 1rem;">
+    Scheue dich nicht, Hilfe in Anspruch zu nehmen – ich bin gerne für dich da.
+  </p>
+  <a href="/psychologische-beratung/onlinebuchung-beratung/" class="button" style="font-size: 1.2rem; padding: 0.8rem 2rem; margin-top: 1rem;">
+    Jetzt Termin vereinbaren
+  </a>
+</div>
 
-<div class="soforthilfe-abschluss">
-  <p><strong>Scheue dich nicht, Hilfe in Anspruch zu nehmen – ich bin gerne für dich da.</strong></p>
-  <a href="/psychologische-beratung/onlinebuchung-beratung/" class="button">Jetzt Termin vereinbaren</a>
-  </div>
+
+
 </section>
 
 
