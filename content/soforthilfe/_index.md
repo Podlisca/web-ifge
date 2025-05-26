@@ -18,6 +18,9 @@ Diese Soforthilfe ersetzt keine Beratung, aber sie kann dir helfen, den nächste
 **Nimm dir Zeit für dich.** Auch kleine Schritte sind wichtig und wertvoll.  
 Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft zu finden.
 
+{{< line icon="icon/krise.png" >}}
+## WACHSE AUS DER KRISE – SCHRITT FÜR SCHRITT
+***
 
 <!-- layouts/soforthilfe/list.html -->
 
