@@ -71,12 +71,19 @@ Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft z
 {{< line icon="icon/silvia.png" >}}
 ## PS: Silvias Lieblingsübung
 
-**Hundegassi mit Ozzy – mein kleiner Auszeit-Ritual**
+### Hundegassi mit Ozzy – mein kleines Auszeit-Ritual
 
-Jeden Morgen und Abend gehe ich mit meinem Hund Ozzy spazieren. Es ist meine bewusste Pause vom Alltag, ***mein Moment zum Durchatmen***. Morgens nutzen wir die 45 Minuten, um bewusst in den Tag zu starten – begleitet von frischer Luft, sanften Dehnübungen und dem ersten Sonnenstrahl. Abends drehe ich eine kleinere Runde, um den Arbeitstag hinter mir zu lassen.  
+{{% floatbox %}}
+
+{{< image src="/img/ozzy.jpg" float="left" title="Tiere in der psychologischen Beratung bereichern den Prozess auf besondere Art und Weise. Durch ihre wertfreie und freundliche Haltung und ihr uneingeschränktes DA SEIN erreichen sie jeden Winkel unsers Herzens. Selbst Menschen mit Bindungsangst können sehr schnell in Beziehung zu den Tieren gehen. Dies überträgt sich günstig auf den Beratungsprozess und letzten Endes in ihr Leben. Dies Silvia Podlisca ist diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin und seit 2o Jahren im psychosozialen Bereich tätig. Sie ist Gründerin des Berufsverbands für tiergestützte psychologische Beratung. Sie bietet Beratungseinheiten und Familienaufstellungen in Wien, Niederösterreich (St. Pölten) und Burgenland (Pinkafeld) an." >}} 
+
+Jeden Morgen und Abend gehe ich mit meinem Hund Ozzy spazieren. Es ist meine bewusste Pause vom Alltag, ***mein Moment zum Durchatmen***. Morgens nutzen wir die 45 Minuten, um bewusst in den Tag zu starten – begleitet von frischer Luft, sanften Dehnübungen und dem ersten Sonnenstrahl. Abends drehe ich eine kleinere Runde, um den Arbeitstag hinter mir zu lassen. 
+
 Und Ozzy? Er liebt es, Leckerlis zu suchen und mich ins Hier und Jetzt zu holen.
 
 Manchmal, wenn Ärger aufkommt, halte ich kurz inne und atme bewusst mehrmals aus – so als würde ich den Ärger mit jedem Ausatmen loslassen. **Es ist eine kleine Entscheidung, die große Wirkung zeigt.**
+
+{{% /floatbox %}}
 
 Diese täglichen Gassi-Runden sind nicht nur für Ozzy wichtig, sondern auch für mich: Sie helfen mir, den Kopf freizubekommen, mich zu entspannen und mein Gleichgewicht zu bewahren.
 
