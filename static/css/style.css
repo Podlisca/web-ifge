@@ -1125,7 +1125,7 @@ img {
 
 h10 {
   display: block;  /* Damit es sich wie ein Block-Element verhält */
-  font-size: 4.4rem;  /* So groß wie deine H1 oder H2, kannst du anpassen */
+  font-size: 2.2rem;  /* So groß wie deine H1 oder H2, kannst du anpassen */
   color: white;       /* Weiße Schrift */
   text-align: center; /* Zentriert */
   font-weight: bold;  /* Optional, falls du es dicker möchtest */
