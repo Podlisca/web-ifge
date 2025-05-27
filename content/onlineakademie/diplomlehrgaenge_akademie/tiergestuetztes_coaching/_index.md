@@ -44,9 +44,11 @@ rich_faq:
 {{< line icon="icon/tiere.png" >}}
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
-#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
 
-{{< line icon="icon/tiere.png" >}}
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
+
 
 
 
@@ -133,6 +135,9 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< line icon="icon/tiere.png" >}}
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 
@@ -152,15 +157,20 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
+* **Neu: Flexi-Jahr - €  1200,-** <br/>
+(1 Jahr Zugriff auf alle Videos)
 
-* **Neu: Abo Preis - 3 Jahre** <br/>
-Gesamtbetrag: 3.598,00 € (Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
+* **Abo Preis - (3 Jahre Zugriff auf alle Videos)** <br/>
+Gesamtbetrag: 3.598,00 € <br/>
+(Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
 Zahlung nach Anmeldung. <br/>
 
 
 * **Ratenzahlung: € 3.290,-** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>
 3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
 
@@ -205,7 +215,9 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 {{< line icon="icon/tiere.png" >}}
 
-
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
@@ -250,7 +262,9 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-{{< line icon="icon/tiere.png" >}}
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
@@ -456,7 +470,7 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 {{< card-more  title="Intensivwoche" >}}
 **Kursmaterial für 3 Wochen**
 #### Optional - 
-#### Intensivtraining in Pinkafeld: 22.07. -26.07.2024
+#### Intensivtraining in Pinkafeld: Termine in Planung
 * Alle Fragen zum Lehrstoff sind Willkommen
 * Beratungsgespräche üben
 
@@ -467,6 +481,9 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 {{< line icon="icon/tiere.png" >}}
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 {{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
 
@@ -486,7 +503,7 @@ Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen (bzw. ein Jahr beim Flexi-Jahr) abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
@@ -515,7 +532,9 @@ Wien, Österreich
 {{< line icon="icon/tiere.png" >}}
 
 
-
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 <br>

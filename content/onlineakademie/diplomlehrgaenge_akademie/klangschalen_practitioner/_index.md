@@ -37,7 +37,11 @@ rich_faq:
 {{< line icon="icon/klangschale.png">}}
 
 ## Schwingungen auslösen. Wirkung erzielen. 
-#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
+
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
+
 
 
 {{< line icon="icon/klangschale.png">}}
@@ -119,6 +123,9 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 
@@ -137,22 +144,22 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-+ **Neu: Abo Preis - 3 Jahre** <br/>
-Gesamtbetrag: 3.598,00 € (Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
+* **Neu: Flexi-Jahr - €  1200,-** <br/>
+(1 Jahr Zugriff auf alle Videos)
 
+* **Abo Preis - (3 Jahre Zugriff auf alle Videos)** <br/>
+Gesamtbetrag: 3.598,00 € <br/>
+(Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
 
 * **Ausbildungskosten:€ 2.980,-** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
 Zahlung nach Anmeldung. <br/>
 
 
 * **Ratenzahlung: € 3.290,-** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>
 3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
-
-
-
-* **Optional - Intensivtraining in Pinkafeld**  
-€ 1.290,- max. 18 Teilnehmer*\innen & nur nach bestandener Prüfung möglich <br/>
 
 {{< /card-more >}}
 
@@ -191,6 +198,9 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< line icon="icon/klangschale.png">}}
 
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 <br>
@@ -443,6 +453,10 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 {{< line icon="icon/klangschale.png">}}
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
+
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
 </br>
@@ -464,7 +478,7 @@ Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Klangschalen Practitione
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren (bzw. ein Jahr beim Flexi-Jahr) die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
@@ -492,7 +506,9 @@ Wien, Österreich
 
 {{< line icon="icon/klangschale.png">}}
 
-
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
