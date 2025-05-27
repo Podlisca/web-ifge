@@ -32,7 +32,7 @@ aliases:
 </div>
 
 
-{{< line icon="icon/aufstellung.png" >}}
+***
 
 <div class="box video">
 {{% small %}}
@@ -165,7 +165,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/aufstellung.png" >}}
+***
 
 <div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
   🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
@@ -326,7 +326,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{% /box %}}
 
 
-{{< line icon="icon/aufstellung.png" >}}
+***
 
 <div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
   🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
@@ -374,7 +374,7 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 
-{{< line icon="icon/aufstellung.png" >}}
+***
 
 <div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
   🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
