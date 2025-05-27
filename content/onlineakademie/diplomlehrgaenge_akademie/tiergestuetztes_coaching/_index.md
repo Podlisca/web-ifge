@@ -160,21 +160,18 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 * **Neu: Flexi-Jahr - €  1200,-** <br/>
 (1 Jahr Zugriff auf alle Videos)
 
-* **Abo Preis - (3 Jahre Zugriff auf alle Videos)** <br/>
-Gesamtbetrag: 3.598,00 € <br/>
-(Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
-
 * **Ausbildungskosten:€ 2.980,-** <br/>
 (3 Jahre Zugriff auf alle Videos)<br/>
 Zahlung nach Anmeldung. <br/>
-
 
 * **Ratenzahlung: € 3.290,-** <br/>
 (3 Jahre Zugriff auf alle Videos)<br/>
 € 290,- Zahlung sofort nach Anmeldung. <br/>
 3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
 
-
+* **Abo Preis - (3 Jahre Zugriff auf alle Videos)** <br/>
+Gesamtbetrag: 3.598,00 € <br/>
+(Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
 
 
 {{< /card-more >}}

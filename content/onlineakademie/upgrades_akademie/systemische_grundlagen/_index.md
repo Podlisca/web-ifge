@@ -27,7 +27,10 @@ aliases:
 {{< line icon="icon/aufstellung.png" >}}
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
-#### Jetzt neu: Sichere dir unser komfortables 3-Jahres-Abo!
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
+
 
 {{< line icon="icon/aufstellung.png" >}}
 
@@ -88,12 +91,16 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 
 </div> 
 
+{{< line icon="icon/aufstellung.png" >}}
 
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 
-{{< line icon="icon/aufstellung.png" >}}
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
+
 
 <br>
 {{< buchung produkte="Upgrade Grundlagen Aufstellungsarbeit & SGF Methode" text="Jetzt loslegen" value="1980" >}}
@@ -106,16 +113,22 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* **Neu: Abo Preis - 3 Jahre** <br/>
-Gesamtbetrag: 2.690,00 € (Anzahlung: 90,00 €, 36 Teilzahlungen a 72,22 €)
+* **Neu: Flexi-Jahr - €  1200,-** <br/>
+(1 Jahr Zugriff auf alle Videos)
 
 * **Ausbildungskosten:€ 1.980,-** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
 Zahlung nach Anmeldung. <br/>
 
-
 * **Ratenzahlung: € 2.450,-** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
 € 450,- Zahlung sofort nach Anmeldung. <br/>
 2.000 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 500,- €.<br/>
+
+* **Abo Preis - 3 Jahre** <br/>
+(3 Jahre Zugriff auf alle Videos)<br/>
+Gesamtbetrag: 2.690,00 € (Anzahlung: 90,00 €, 36 Teilzahlungen a 72,22 €)
+
 
 
 
@@ -154,6 +167,9 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 {{< line icon="icon/aufstellung.png" >}}
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 <br>
@@ -312,6 +328,9 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 {{< line icon="icon/aufstellung.png" >}}
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 <br>
@@ -335,7 +354,7 @@ Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Grundlagen Aufstellungsa
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren (bzw. ein Jahr beim Flexi-Jahr) die Kursunterlagen abrufen kann. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
@@ -357,6 +376,9 @@ Wien, Österreich
 
 {{< line icon="icon/aufstellung.png" >}}
 
+<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
+  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
 
 
 <br>
