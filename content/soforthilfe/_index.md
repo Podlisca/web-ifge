@@ -74,8 +74,8 @@ Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft z
 
 </section>
 
+***
 
-{{< line icon="icon/silvia.png" >}}
 ## PS: Silvias Lieblingsübung
 
 ### Hundegassi mit Ozzy – mein kleines Auszeit-Ritual
