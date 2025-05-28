@@ -9,15 +9,22 @@ og_image: "/img/hollandst.jpg"
 ## Soforthilfe – Erste Unterstützung für dich 
 
 ***
-
-**Manchmal wird es einfach zu viel.** Hier findest du kleine Übungen und Impulse, die dir in belastenden Momenten helfen können.  
+Manchmal wird es einfach zu viel. Hier findest du kleine Übungen und Impulse, die dir in belastenden Momenten helfen können.
 Diese Soforthilfe ersetzt keine Beratung, aber sie kann dir helfen, den nächsten Schritt zu machen.
 
-**Oft braucht es nur einen kleinen Anstoß, um wieder Klarheit zu gewinnen.** Diese Impulse unterstützen dich dabei, dich zu stabilisieren und für einen Moment innezuhalten. **Nimm dir Zeit für dich.** Auch kleine Schritte sind wichtig und wertvoll.  
+Oft braucht es nur einen kleinen Anstoß, um wieder Klarheit zu gewinnen. Diese Impulse unterstützen dich dabei, dich zu stabilisieren und für einen Moment innezuhalten. Nimm dir Zeit für dich. Auch kleine Schritte sind wichtig und wertvoll.
 Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft zu finden.
 
-{{< line icon="icon/silvia.png" >}}
+{{< line icon="icon/feng_shui.png" >}}
+
 ## WACHSE AUS DER KRISE – SCHRITT FÜR SCHRITT
+
+
+{{< stresstest >}}
+
+
+
+
 
 
 **Der erste Schritt ist die Entscheidung für dich. Ein konstruktiver Gedanke oder eine gesunde Handlung – und du bist auf dem Weg.** 
@@ -88,3 +95,6 @@ Manchmal, wenn Ärger aufkommt, halte ich kurz inne und atme bewusst mehrmals au
 Diese täglichen Gassi-Runden sind nicht nur für Ozzy wichtig, sondern auch für mich: Sie helfen mir, den Kopf freizubekommen, mich zu entspannen und mein Gleichgewicht zu bewahren.
 
 {{< silvia >}}
+
+
+

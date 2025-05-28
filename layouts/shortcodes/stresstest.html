@@ -1,0 +1,123 @@
+<section id="stresstest" style="background-color: #e6f4f4; padding: 2rem; border-radius: 12px; max-width: 800px; margin: 2rem auto;">
+  <h2 style="text-align: center; color: #16978c;">Dein kleiner Stresstest</h2>
+  <p style="text-align: center;">Finde heraus, wie es dir gerade geht – spontan und ohne lange nachzudenken.</p>
+
+ <button type="button" onclick="toggleStresstest()" style="background-color: #b14564; color: white; padding: 10px 20px; border-radius: 8px; border: none; display: block; margin: 1rem auto;">👉 Jetzt den Stresstest starten!</button>
+
+  <div id="stresstest-content" style="display: none;">
+    <form id="stresstest-form">
+<form id="stresstest-form">
+    <p>1. Wie oft fühlst du dich in letzter Zeit überfordert?</p>
+    <label><input type="radio" name="frage1" value="3"> Oft</label><br>
+    <label><input type="radio" name="frage1" value="2"> Manchmal</label><br>
+    <label><input type="radio" name="frage1" value="1"> Selten</label><br><br>
+
+    <p>2. Kannst du abends gut abschalten?</p>
+    <label><input type="radio" name="frage2" value="1"> Ja, meistens</label><br>
+    <label><input type="radio" name="frage2" value="2"> Geht so</label><br>
+    <label><input type="radio" name="frage2" value="3"> Eher nicht</label><br><br>
+
+    <p>3. Bist du oft müde oder erschöpft?</p>
+    <label><input type="radio" name="frage3" value="3"> Ja</label><br>
+    <label><input type="radio" name="frage3" value="2"> Manchmal</label><br>
+    <label><input type="radio" name="frage3" value="1"> Nein</label><br><br>
+
+    <p>4. Hast du Zeit für dich selbst?</p>
+    <label><input type="radio" name="frage4" value="1"> Ja, regelmäßig</label><br>
+    <label><input type="radio" name="frage4" value="2"> Manchmal</label><br>
+    <label><input type="radio" name="frage4" value="3"> Selten</label><br><br>
+
+    <p>5. Fühlst du dich oft unter Druck?</p>
+    <label><input type="radio" name="frage5" value="3"> Ja, sehr</label><br>
+    <label><input type="radio" name="frage5" value="2"> Gelegentlich</label><br>
+    <label><input type="radio" name="frage5" value="1"> Nein</label><br><br>
+
+    <p>6. Schläfst du gut?</p>
+    <label><input type="radio" name="frage6" value="1"> Ja</label><br>
+    <label><input type="radio" name="frage6" value="2"> Geht so</label><br>
+    <label><input type="radio" name="frage6" value="3"> Schlecht</label><br><br>
+
+    <p>7. Hast du oft Kopfschmerzen oder Verspannungen?</p>
+    <label><input type="radio" name="frage7" value="3"> Ja</label><br>
+    <label><input type="radio" name="frage7" value="2"> Manchmal</label><br>
+    <label><input type="radio" name="frage7" value="1"> Nein</label><br><br>
+
+    <p>8. Nimmst du dir Pausen?</p>
+    <label><input type="radio" name="frage8" value="1"> Regelmäßig</label><br>
+    <label><input type="radio" name="frage8" value="2"> Selten</label><br>
+    <label><input type="radio" name="frage8" value="3"> Fast nie</label><br><br>
+
+    <p>9. Wie reagierst du auf Stress?</p>
+    <label><input type="radio" name="frage9" value="3"> Gereizt/ängstlich</label><br>
+    <label><input type="radio" name="frage9" value="2"> Wechselseitig</label><br>
+    <label><input type="radio" name="frage9" value="1"> Ruhig</label><br><br>
+
+    <p>10. Wie schätzt du dein allgemeines Wohlbefinden?</p>
+    <label><input type="radio" name="frage10" value="1"> Gut</label><br>
+    <label><input type="radio" name="frage10" value="2"> Geht so</label><br>
+    <label><input type="radio" name="frage10" value="3"> Schlecht</label><br><br>
+
+      <button type="button" onclick="auswerten()" style="background-color: #b14564; color: white; padding: 10px 20px; border-radius: 8px; border: none;">Auswertung anzeigen</button>
+    </form>
+  </div>
+
+  <div id="ergebnis" style="margin-top: 20px; text-align: center;"></div>
+
+  <p style="font-size: 0.9em; color: gray; text-align: center;">Hinweis: Diese Einschätzung basiert auf einer vereinfachten Selbsteinschätzung in Anlehnung an Kaluza und ersetzt keine professionelle Beratung.</p>
+</section>
+
+<script>
+function toggleStresstest() {
+  const content = document.getElementById("stresstest-content");
+  content.style.display = (content.style.display === "none") ? "block" : "none";
+}
+
+function auswerten() {
+  let summe = 0;
+  const fragen = 10;
+
+  for (let i = 1; i <= fragen; i++) {
+    const antwort = document.querySelector('input[name="frage' + i + '"]:checked');
+    if (antwort) {
+      summe += parseInt(antwort.value);
+    }
+  }
+
+  let auswertung = "";
+  let farbe = "";
+  let ampel = "";
+  let empfehlung = "";
+
+if (summe <= fragen * 1.5) {
+  farbe = "green";
+  ampel = "🟢";
+  auswertung = "Grün: Dein Stresslevel ist niedrig. Weiter so!";
+} else if (summe <= fragen * 2.2) {
+  farbe = "orange";
+  ampel = "🟠";
+  auswertung = "Gelb: Achte auf dich. Kleine Auszeiten und Achtsamkeit können helfen.";
+  empfehlung = `
+    <div style='background-color:#ffe599; padding:1rem; border-radius:8px; margin-top:1rem;'>
+      <strong>Mini-Übung:</strong> Setze dich bequem hin, atme 3-mal tief ein und aus, und nimm deine Umgebung bewusst wahr. Spüre, wie dein Körper sich entspannt.
+      <br><br>
+      <strong>Tipp:</strong> Möchtest du mehr über Stressbewältigung erfahren? 
+      <a href='https://www.ifge.at/psychologische-beratung/onlinebuchung-beratung/' style='color:#b14564; text-decoration:underline; font-weight:bold;'>Hier Termin vereinbaren</a> und ein Beratungsgespräch buchen.
+    </div>`;
+} else {
+  farbe = "red";
+  ampel = "🔴";
+  auswertung = "Rot: Dein Stresslevel ist hoch. Es ist jetzt wichtig, Unterstützung zu finden!";
+  empfehlung = `
+    <div style='background-color:#f4cccc; padding:1rem; border-radius:8px; margin-top:1rem;'>
+      <strong>Mini-Übung:</strong> Lege deine Hand auf dein Herz, atme tief ein und sage dir: 'Ich darf Hilfe annehmen'. Überlege, wer dich in dieser Situation unterstützen könnte.
+      <br><br>
+      <strong>Jetzt handeln:</strong> Warte nicht – 
+      <a href='https://www.ifge.at/psychologische-beratung/onlinebuchung-beratung/' style='color:#b14564; text-decoration:underline; font-weight:bold;'>hier Termin buchen</a> und deine Situation mit professioneller Unterstützung besprechen.
+    </div>`;
+}
+
+
+
+  document.getElementById("ergebnis").innerHTML = `<span style="color:${farbe}; font-size:1.2rem;">${ampel} ${auswertung}</span>${empfehlung}`;
+}
+</script>
