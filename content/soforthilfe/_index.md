@@ -26,8 +26,9 @@ Du bist nicht allein – und es gibt immer Wege, wieder zurück in deine Kraft z
 
 
 
+## Weitere kleine Übungen zur Stresslösung
+### Kleine Impulse – große Wirkung: Nimm dir einen Moment für dich und probiere aus, was dir jetzt gut tut.
 
-**Der erste Schritt ist die Entscheidung für dich. Ein konstruktiver Gedanke oder eine gesunde Handlung – und du bist auf dem Weg.** 
 <!-- layouts/soforthilfe/list.html -->
 
 <section class="vorteile-container ifge-tuerkis">
