@@ -40,16 +40,4 @@ Supervisionseinheiten können sowohl vor Ort (an allen drei Standorten) oder **o
 
 
 
-{{< line icon="icon/info_tuerkis.png" >}}
-{{% box blue=1 %}}
-{{% small  %}}
-## Hier finden Sie ausführliche Informationen über:
-{{% /small  %}}
-{{% /box %}}
 
-{{< iconmenu >}}
-{{< card icon="icon/einzel_sv.png" title="Einzelsupervision" >}}
-{{< card icon="icon/sv_gruppe_offen.png" title="Offene SV Tage" link="offenegruppe" >}}
-{{< card icon="icon/sv_woche.png" title="Intensivwoche" link="supervisionswoche" >}}
-{{< card icon="icon/sv_teambuilding.png" title="Teamsupervision" >}}
-{{< /iconmenu >}}
