@@ -38,7 +38,7 @@ og_image = "/img/silvia_onlineakdademie.jpg"
     [[menu.main]]
         name = "Supervision"
         identifier = "supervision"
-        url = "#"
+        url = "/supervision/einzelsetting/einzelsupervision/"
         weight = 3
     
     [[menu.main]]
