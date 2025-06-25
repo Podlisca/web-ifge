@@ -31,6 +31,8 @@ Wie kann ein vielleicht eben erst neu formiertes Team zu einer produktiven und v
 
 In dieser teamfokussierten [Supervisionsgruppe](/supervision/philosophie/) werden verschiedene bewährte und vor allem spannende Übungen mit in den Prozess einbezogen. In einer heiteren und wertschätzenden Atmosphäre geht es dabei um sehr viel mehr, als um oft belächelte „Teamspielchen“. Denn im Zuge der Supervision werden Strukturen nicht nur bildlich sichtbar gemacht, sondern für Sie erfolgbringend im Team-Kontext aufgedröselt.
 
+{{% /floatbox %}}
+
 {{< line icon="icon/coaching1.png" >}}
 
 {{% box blue=1 %}}
