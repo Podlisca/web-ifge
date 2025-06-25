@@ -4,7 +4,7 @@ menu:
     main:
         parent: "gruppensetting"
         identifier: "geschlossenegruppe"
-draft: true
+draft: false
 weight: 3
 aliases:
     - "/supervision/geschlossenegruppe/"
