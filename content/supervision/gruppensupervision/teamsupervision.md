@@ -4,7 +4,7 @@ menu:
     main:
         parent: "gruppensetting"
         identifier: "teamsupervision"
-draft: false
+draft: true
 weight: 7
 aliases:
     - "/supervision/teamsupervision/"
@@ -19,7 +19,7 @@ og_image: "/img/teambuilding.jpg"
 
 {{< line icon="icon/teambuilding.png" >}}
 
-{{% floatbox %}}
+
 
 {{< image src="/img/teambuilding.jpg" float="left" title="Teambuilding und Supervision die Spaß macht und zudem noch lehrreich ist. Am IFGE erhalten Sie durch die psychologische Betrachtungsweise der Teamübungen wertvolle Einblicke in verborgenen Ressourcen, neue Blickwinkel eröffnen sich und wie von selbst lösen sich – durch die spielerische Interaktion – starre Muster. " >}} 
 
@@ -31,7 +31,7 @@ Wie kann ein vielleicht eben erst neu formiertes Team zu einer produktiven und v
 
 In dieser teamfokussierten [Supervisionsgruppe](/supervision/philosophie/) werden verschiedene bewährte und vor allem spannende Übungen mit in den Prozess einbezogen. In einer heiteren und wertschätzenden Atmosphäre geht es dabei um sehr viel mehr, als um oft belächelte „Teamspielchen“. Denn im Zuge der Supervision werden Strukturen nicht nur bildlich sichtbar gemacht, sondern für Sie erfolgbringend im Team-Kontext aufgedröselt.
 
-{{% /floatbox %}}
+
 
 {{< line icon="icon/coaching1.png" >}}
 
