@@ -4,7 +4,7 @@ menu:
     main:
         parent: "gruppensetting"
         identifier: "teamsupervision"
-draft: true
+draft: false
 weight: 7
 aliases:
     - "/supervision/teamsupervision/"
