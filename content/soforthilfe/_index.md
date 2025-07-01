@@ -7,8 +7,9 @@ og_image: "/img/hollandst.jpg"
 {{< line icon="icon/krise.png" >}}
 
 ## Soforthilfe – Erste Unterstützung für dich 
+{{< slogan >}}
 
-***
+
 Manchmal wird es einfach zu viel. Hier findest du kleine Übungen und Impulse, die dir in belastenden Momenten helfen können.
 Diese Soforthilfe ersetzt keine Beratung, aber sie kann dir helfen, den nächsten Schritt zu machen.
 

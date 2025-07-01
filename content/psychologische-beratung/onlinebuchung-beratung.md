@@ -9,6 +9,8 @@ draft: false
 {{< line icon="icon/termine.png" >}}
 
 # Termin online buchen
+{{< slogan >}}
+
 ***
 
 **Wähle bequem einen passenden Termin für deine psychologische Beratung. Die Buchung ist verbindlich, und du erhältst eine automatische Bestätigung per E-Mail.**
