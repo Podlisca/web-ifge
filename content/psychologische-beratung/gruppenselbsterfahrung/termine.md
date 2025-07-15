@@ -32,8 +32,8 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
 {{< line icon="icon/aufstellung.png" >}}
 
-# Wähle den passenden Termin für dich:
-## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung 
+# Wähle den passenden Termin für dich in Wien
+
 
 ***
 
@@ -69,7 +69,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 </style>
 
 <div class="aufstellung-box">
-  <h4>🍃 FAMILIENAUFSTELLUNG – DREITAGES-WOCHENENDE IN WIEN</h4>
+  <h4> FAMILIENAUFSTELLUNG – DREITAGES-WOCHENENDE IN WIEN</h4>
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 12.09.2025 – 16:00 bis 20:00 Uhr<br>
   Sa, 13.09.2025 – 09:00 bis 18:00 Uhr<br>
@@ -148,13 +148,8 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 </script>
 
 
-
-
-
-
-
 <div class="aufstellung-box">
-  <h4>🍃 FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
+  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 14.11.2025 – 09:00 bis 18:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
@@ -162,8 +157,8 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
-    <button class="button-anliegen" onclick="auswahl('anliegen')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
-    <button class="button-repraesentant" onclick="auswahl('beobachtung')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
+    <button onclick="auswahl8h('anliegen8h')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
+    <button onclick="auswahl8h('beobachtung8h')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
   </div>
 
   <div id="zustimmungen8h" class="stufe">
@@ -191,6 +186,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
     document.getElementById('zustimmungen8h').style.display = 'block';
     document.getElementById('formular8h').style.display = 'none';
     document.getElementById('zahlungBtn8h').disabled = true;
+
     document.getElementById('agb8h').checked = false;
     document.getElementById('datenschutz8h').checked = false;
     document.getElementById('widerruf8h').checked = false;
@@ -222,16 +218,18 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   }
 
   function weiterleiten8h() {
-    if (produktwahl8h === 'anliegen8') {
+    if (produktwahl8h === 'anliegen8h') {
       window.location.href = 'https://buy.stripe.com/bJe14o2rcgRX7Wg0pU3sI02';
-    } else if (produktwahl8h === 'beobachtung8') {
+    } else if (produktwahl8h === 'beobachtung8h') {
       window.location.href = 'https://buy.stripe.com/dRm00kfdY1X3a4o4Ga3sI03';
     }
   }
 </script>
 
+
+
 <div class="aufstellung-box">
-  <h4>🍃 FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
+  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 20.12.2025 – 09:00 bis 18:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
@@ -239,156 +237,399 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
-    <button class="button-anliegen" onclick="auswahl('anliegen')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
-    <button class="button-repraesentant" onclick="auswahl('beobachtung')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
+    <button onclick="auswahl8hdez('anliegen8hdez')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
+    <button onclick="auswahl8hdez('beobachtung8hdez')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
   </div>
 
-  <div id="zustimmungen8h" class="stufe">
+  <div id="zustimmungen8hdez" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb8h"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz8h"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb8hdez"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
+    <label><input type="checkbox" id="datenschutz8hdez"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
+    <label><input type="checkbox" id="widerruf8hdez"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
   </div>
 
-  <div id="formular8h" class="stufe">
+  <div id="formular8hdez" class="stufe">
     <p><span class="tuerkis">3. Melde dich hier an:</span></p>
-    <label>Vorname*:<br><input type="text" id="vorname8h"></label>
-    <label>Nachname*:<br><input type="text" id="nachname8h"></label>
-    <label>E-Mail*:<br><input type="email" id="email8h"></label>
-    <label><input type="checkbox" id="newsletter8h"> Ich möchte den Newsletter erhalten</label>
-    <button id="zahlungBtn8h" disabled onclick="weiterleiten8h()">Zur Zahlung (Stripe)</button>
+    <label>Vorname*:<br><input type="text" id="vorname8hdez"></label>
+    <label>Nachname*:<br><input type="text" id="nachname8hdez"></label>
+    <label>E-Mail*:<br><input type="email" id="email8hdez"></label>
+    <label><input type="checkbox" id="newsletter8hdez"> Ich möchte den Newsletter erhalten</label>
+    <button id="zahlungBtn8hdez" disabled onclick="weiterleiten8hdez()">Zur Zahlung (Stripe)</button>
   </div>
 </div>
 
 <script>
-  let produktwahl8h = '';
+  let produktwahl8hdez = '';
 
-  function auswahl8h(wahl) {
-    produktwahl8h = wahl;
-    document.getElementById('zustimmungen8h').style.display = 'block';
-    document.getElementById('formular8h').style.display = 'none';
-    document.getElementById('zahlungBtn8h').disabled = true;
-    document.getElementById('agb8h').checked = false;
-    document.getElementById('datenschutz8h').checked = false;
-    document.getElementById('widerruf8h').checked = false;
+  function auswahl8hdez(wahl) {
+    produktwahl8hdez = wahl;
+    document.getElementById('zustimmungen8hdez').style.display = 'block';
+    document.getElementById('formular8hdez').style.display = 'none';
+    document.getElementById('zahlungBtn8hdez').disabled = true;
+
+    document.getElementById('agb8hdez').checked = false;
+    document.getElementById('datenschutz8hdez').checked = false;
+    document.getElementById('widerruf8hdez').checked = false;
   }
 
-  const agb8 = document.getElementById('agb8h');
-  const ds8 = document.getElementById('datenschutz8h');
-  const wid8 = document.getElementById('widerruf8h');
-  const vor8 = document.getElementById('vorname8h');
-  const nach8 = document.getElementById('nachname8h');
-  const mail8 = document.getElementById('email8h');
-  const btn8 = document.getElementById('zahlungBtn8h');
+  const agb8dez = document.getElementById('agb8hdez');
+  const ds8dez = document.getElementById('datenschutz8hdez');
+  const wid8dez = document.getElementById('widerruf8hdez');
+  const vor8dez = document.getElementById('vorname8hdez');
+  const nach8dez = document.getElementById('nachname8hdez');
+  const mail8dez = document.getElementById('email8hdez');
+  const btn8dez = document.getElementById('zahlungBtn8hdez');
 
-  [agb8, ds8, wid8].forEach(el => {
+  [agb8dez, ds8dez, wid8dez].forEach(el => {
     el.addEventListener('change', () => {
-      const zustimmOK = agb8.checked && ds8.checked && wid8.checked;
-      document.getElementById('formular8h').style.display = zustimmOK ? 'block' : 'none';
-      validate8h();
+      const zustimmOK = agb8dez.checked && ds8dez.checked && wid8dez.checked;
+      document.getElementById('formular8hdez').style.display = zustimmOK ? 'block' : 'none';
+      validate8hdez();
     });
   });
 
-  [vor8, nach8, mail8].forEach(el => {
-    el.addEventListener('input', validate8h);
+  [vor8dez, nach8dez, mail8dez].forEach(el => {
+    el.addEventListener('input', validate8hdez);
   });
 
-  function validate8h() {
-    const allesDa = vor8.value && nach8.value && mail8.value;
-    btn8.disabled = !allesDa;
+  function validate8hdez() {
+    const allesDa = vor8dez.value && nach8dez.value && mail8dez.value;
+    btn8dez.disabled = !allesDa;
   }
 
-  function weiterleiten8h() {
-    if (produktwahl8h === 'anliegen8') {
+  function weiterleiten8hdez() {
+    if (produktwahl8hdez === 'anliegen8hdez') {
       window.location.href = 'https://buy.stripe.com/bJe14o2rcgRX7Wg0pU3sI02';
-    } else if (produktwahl8h === 'beobachtung8') {
+    } else if (produktwahl8hdez === 'beobachtung8hdez') {
       window.location.href = 'https://buy.stripe.com/dRm00kfdY1X3a4o4Ga3sI03';
     }
   }
 </script>
 
+
+
+
+
+
+{{< line icon="icon/aufstellung.png" >}}
+
+## Wähle den passenden Termin für dich in Pinkafeld
+
 ***
 
-#### Familienaufstellung 6 Stunden in Pinkafeld
-
 <div class="aufstellung-box">
-  <h3 style="color: #b04a58;"><span style="font-size: 1.2em;">🍃</span> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h3>
-
-  <p><strong style="color: #009999;">Termin:</strong><br>
-    Mo, 13.10.2025 – 14:00 bis 20:00 Uhr
-  </p>
-  <p><strong style="color: #009999;">Leitung:</strong> Silvia Podlisca<br>
-     <span style="color: darkred;">📍 Ort:</span> Seminarraum Pinkafeld
-  </p>
+  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h4>
+  <p><span class="tuerkis">Termin:</span><br>
+  Mo, 13.10.2025 – 14:00 bis 20:00 Uhr</p>
+  <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
+  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
-    <button class="button-anliegen" onclick="auswahl('anliegen')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
-    <button class="button-repraesentant" onclick="auswahl('beobachtung')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
+    <button onclick="auswahl6hpink('anliegen6hpink')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
+    <button onclick="auswahl6hpink('beobachtung6hpink')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
   </div>
 
-  <div id="formular6h" style="display: none;">
-    <h4 style="color: #009999;">2. Melde dich hier an:</h4>
+  <div id="zustimmungen6hpink" class="stufe">
+    <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
+    <label><input type="checkbox" id="agb6hpink"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
+    <label><input type="checkbox" id="datenschutz6hpink"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
+    <label><input type="checkbox" id="widerruf6hpink"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+  </div>
 
-    <label for="vorname6h">Vorname*:</label><br>
-    <input type="text" id="vorname6h" required style="width: 100%; margin-bottom: 10px;"><br>
-
-    <label for="nachname6h">Nachname*:</label><br>
-    <input type="text" id="nachname6h" required style="width: 100%; margin-bottom: 10px;"><br>
-
-    <label for="email6h">E-Mail*:</label><br>
-    <input type="email" id="email6h" required style="width: 100%; margin-bottom: 15px;"><br>
-
-    <div style="font-size: 0.9em; margin-bottom: 10px;">
-      <input type="checkbox" id="agb6h"> Ich stimme den <a href="/agb/" target="_blank">AGB</a> zu *<br>
-      <input type="checkbox" id="datenschutz6h"> Ich akzeptiere die <a href="/datenschutz/" target="_blank">Datenschutzerklärung</a> *<br>
-      <input type="checkbox" id="widerruf6h"> Ich habe die <a href="/widerruf/" target="_blank">Widerrufsbelehrung</a> gelesen *<br>
-      <input type="checkbox" id="newsletter6h"> Ich möchte den Newsletter erhalten
-    </div>
-
-    <button id="zahlungBtn6h" onclick="zurStripeZahlung6h()" disabled style="background-color: #009999; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: not-allowed;">
-      Zur Zahlung (Stripe)
-    </button>
+  <div id="formular6hpink" class="stufe">
+    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+    <label>Vorname*:<br><input type="text" id="vorname6hpink"></label>
+    <label>Nachname*:<br><input type="text" id="nachname6hpink"></label>
+    <label>E-Mail*:<br><input type="email" id="email6hpink"></label>
+    <label><input type="checkbox" id="newsletter6hpink"> Ich möchte den Newsletter erhalten</label>
+    <button id="zahlungBtn6hpink" disabled onclick="weiterleiten6hpink()">Zur Zahlung (Stripe)</button>
   </div>
 </div>
 
 <script>
-  let auswahl6h = '';
-  const stripeLinks6h = {
-    'anliegen6h': 'https://buy.stripe.com/28EdRad5QeJP7Wg7Sm3sI05',
-    'repraesentant6h': 'https://buy.stripe.com/4gM6oIgi29pv6Sc7Sm3sI04'
-  };
+  let produktwahl6hpink = '';
 
-  function auswahlSetzen(option) {
-    if (option === 'anliegen6h' || option === 'repraesentant6h') {
-      auswahl6h = option;
-      document.getElementById('formular6h').style.display = 'block';
-      document.getElementById('zahlungBtn6h').disabled = false;
-      document.getElementById('zahlungBtn6h').style.cursor = 'pointer';
-    }
+  function auswahl6hpink(wahl) {
+    produktwahl6hpink = wahl;
+    document.getElementById('zustimmungen6hpink').style.display = 'block';
+    document.getElementById('formular6hpink').style.display = 'none';
+    document.getElementById('zahlungBtn6hpink').disabled = true;
+
+    document.getElementById('agb6hpink').checked = false;
+    document.getElementById('datenschutz6hpink').checked = false;
+    document.getElementById('widerruf6hpink').checked = false;
   }
 
-  function zurStripeZahlung6h() {
-    const vorname = document.getElementById('vorname6h').value.trim();
-    const nachname = document.getElementById('nachname6h').value.trim();
-    const email = document.getElementById('email6h').value.trim();
-    const agb = document.getElementById('agb6h').checked;
-    const datenschutz = document.getElementById('datenschutz6h').checked;
-    const widerruf = document.getElementById('widerruf6h').checked;
+  const agb6p = document.getElementById('agb6hpink');
+  const ds6p = document.getElementById('datenschutz6hpink');
+  const wid6p = document.getElementById('widerruf6hpink');
+  const vor6p = document.getElementById('vorname6hpink');
+  const nach6p = document.getElementById('nachname6hpink');
+  const mail6p = document.getElementById('email6hpink');
+  const btn6p = document.getElementById('zahlungBtn6hpink');
 
-    if (!vorname || !nachname || !email || !agb || !datenschutz || !widerruf) {
-      alert("Bitte alle Pflichtfelder ausfüllen und Häkchen setzen.");
-      return;
+  [agb6p, ds6p, wid6p].forEach(el => {
+    el.addEventListener('change', () => {
+      const zustimmOK = agb6p.checked && ds6p.checked && wid6p.checked;
+      document.getElementById('formular6hpink').style.display = zustimmOK ? 'block' : 'none';
+      validate6hpink();
+    });
+  });
+
+  [vor6p, nach6p, mail6p].forEach(el => {
+    el.addEventListener('input', validate6hpink);
+  });
+
+  function validate6hpink() {
+    const allesDa = vor6p.value && nach6p.value && mail6p.value;
+    btn6p.disabled = !allesDa;
+  }
+
+  function weiterleiten6hpink() {
+    if (produktwahl6hpink === 'anliegen6hpink') {
+      window.location.href = 'https://buy.stripe.com/28EdRad5QeJP7Wg7Sm3sI05';
+    } else if (produktwahl6hpink === 'beobachtung6hpink') {
+      window.location.href = 'https://buy.stripe.com/4gM6oIgi29pv6Sc7Sm3sI04';
     }
-
-    if (!auswahl6h || !stripeLinks6h[auswahl6h]) {
-      alert("Bitte Teilnahmevariante auswählen.");
-      return;
-    }
-
-    window.location.href = stripeLinks6h[auswahl6h];
   }
 </script>
+
+<div class="aufstellung-box">
+  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h4>
+  <p><span class="tuerkis">Termin:</span><br>
+  Mo, 27.10.2025 – 14:00 bis 20:00 Uhr</p>
+  <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
+  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+
+  <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button onclick="auswahl6h_2710('anliegen6h_2710')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
+    <button onclick="auswahl6h_2710('beobachtung6h_2710')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+  </div>
+
+  <div id="zustimmungen6h_2710" class="stufe">
+    <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
+    <label><input type="checkbox" id="agb6h_2710"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
+    <label><input type="checkbox" id="datenschutz6h_2710"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
+    <label><input type="checkbox" id="widerruf6h_2710"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+  </div>
+
+  <div id="formular6h_2710" class="stufe">
+    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+    <label>Vorname*:<br><input type="text" id="vorname6h_2710"></label>
+    <label>Nachname*:<br><input type="text" id="nachname6h_2710"></label>
+    <label>E-Mail*:<br><input type="email" id="email6h_2710"></label>
+    <label><input type="checkbox" id="newsletter6h_2710"> Ich möchte den Newsletter erhalten</label>
+    <button id="zahlungBtn6h_2710" disabled onclick="weiterleiten6h_2710()">Zur Zahlung (Stripe)</button>
+  </div>
+</div>
+
+<script>
+  let produktwahl6h_2710 = '';
+
+  function auswahl6h_2710(wahl) {
+    produktwahl6h_2710 = wahl;
+    document.getElementById('zustimmungen6h_2710').style.display = 'block';
+    document.getElementById('formular6h_2710').style.display = 'none';
+    document.getElementById('zahlungBtn6h_2710').disabled = true;
+
+    document.getElementById('agb6h_2710').checked = false;
+    document.getElementById('datenschutz6h_2710').checked = false;
+    document.getElementById('widerruf6h_2710').checked = false;
+  }
+
+  const agb_2710 = document.getElementById('agb6h_2710');
+  const ds_2710 = document.getElementById('datenschutz6h_2710');
+  const wid_2710 = document.getElementById('widerruf6h_2710');
+  const vor_2710 = document.getElementById('vorname6h_2710');
+  const nach_2710 = document.getElementById('nachname6h_2710');
+  const mail_2710 = document.getElementById('email6h_2710');
+  const btn_2710 = document.getElementById('zahlungBtn6h_2710');
+
+  [agb_2710, ds_2710, wid_2710].forEach(el => {
+    el.addEventListener('change', () => {
+      const zustimmOK = agb_2710.checked && ds_2710.checked && wid_2710.checked;
+      document.getElementById('formular6h_2710').style.display = zustimmOK ? 'block' : 'none';
+      validate6h_2710();
+    });
+  });
+
+  [vor_2710, nach_2710, mail_2710].forEach(el => {
+    el.addEventListener('input', validate6h_2710);
+  });
+
+  function validate6h_2710() {
+    const allesDa = vor_2710.value && nach_2710.value && mail_2710.value;
+    btn_2710.disabled = !allesDa;
+  }
+
+  function weiterleiten6h_2710() {
+    if (produktwahl6h_2710 === 'anliegen6h_2710') {
+      window.location.href = 'https://buy.stripe.com/28EdRad5QeJP7Wg7Sm3sI05';
+    } else if (produktwahl6h_2710 === 'beobachtung6h_2710') {
+      window.location.href = 'https://buy.stripe.com/4gM6oIgi29pv6Sc7Sm3sI04';
+    }
+  }
+</script>
+
+
+<div class="aufstellung-box">
+  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h4>
+  <p><span class="tuerkis">Termin:</span><br>
+  Mo, 08.12.2025 – 14:00 bis 20:00 Uhr</p>
+  <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
+  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+
+  <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button onclick="auswahl6h_0812('anliegen6h_0812')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
+    <button onclick="auswahl6h_0812('beobachtung6h_0812')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+  </div>
+
+  <div id="zustimmungen6h_0812" class="stufe">
+    <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
+    <label><input type="checkbox" id="agb6h_0812"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
+    <label><input type="checkbox" id="datenschutz6h_0812"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
+    <label><input type="checkbox" id="widerruf6h_0812"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+  </div>
+
+  <div id="formular6h_0812" class="stufe">
+    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+    <label>Vorname*:<br><input type="text" id="vorname6h_0812"></label>
+    <label>Nachname*:<br><input type="text" id="nachname6h_0812"></label>
+    <label>E-Mail*:<br><input type="email" id="email6h_0812"></label>
+    <label><input type="checkbox" id="newsletter6h_0812"> Ich möchte den Newsletter erhalten</label>
+    <button id="zahlungBtn6h_0812" disabled onclick="weiterleiten6h_0812()">Zur Zahlung (Stripe)</button>
+  </div>
+</div>
+
+<script>
+  let produktwahl6h_0812 = '';
+
+  function auswahl6h_0812(wahl) {
+    produktwahl6h_0812 = wahl;
+    document.getElementById('zustimmungen6h_0812').style.display = 'block';
+    document.getElementById('formular6h_0812').style.display = 'none';
+    document.getElementById('zahlungBtn6h_0812').disabled = true;
+
+    document.getElementById('agb6h_0812').checked = false;
+    document.getElementById('datenschutz6h_0812').checked = false;
+    document.getElementById('widerruf6h_0812').checked = false;
+  }
+
+  const agb_0812 = document.getElementById('agb6h_0812');
+  const ds_0812 = document.getElementById('datenschutz6h_0812');
+  const wid_0812 = document.getElementById('widerruf6h_0812');
+  const vor_0812 = document.getElementById('vorname6h_0812');
+  const nach_0812 = document.getElementById('nachname6h_0812');
+  const mail_0812 = document.getElementById('email6h_0812');
+  const btn_0812 = document.getElementById('zahlungBtn6h_0812');
+
+  [agb_0812, ds_0812, wid_0812].forEach(el => {
+    el.addEventListener('change', () => {
+      const zustimmOK = agb_0812.checked && ds_0812.checked && wid_0812.checked;
+      document.getElementById('formular6h_0812').style.display = zustimmOK ? 'block' : 'none';
+      validate6h_0812();
+    });
+  });
+
+  [vor_0812, nach_0812, mail_0812].forEach(el => {
+    el.addEventListener('input', validate6h_0812);
+  });
+
+  function validate6h_0812() {
+    const allesDa = vor_0812.value && nach_0812.value && mail_0812.value;
+    btn_0812.disabled = !allesDa;
+  }
+
+  function weiterleiten6h_0812() {
+    if (produktwahl6h_0812 === 'anliegen6h_0812') {
+      window.location.href = 'https://buy.stripe.com/28EdRad5QeJP7Wg7Sm3sI05';
+    } else if (produktwahl6h_0812 === 'beobachtung6h_0812') {
+      window.location.href = 'https://buy.stripe.com/4gM6oIgi29pv6Sc7Sm3sI04';
+    }
+  }
+</script>
+
+<div class="aufstellung-box">
+  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h4>
+  <p><span class="tuerkis">Termin:</span><br>
+  Mo, 12.01.2026 – 14:00 bis 20:00 Uhr</p>
+  <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
+  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+
+  <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button onclick="auswahl6h_1201('anliegen6h_1201')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
+    <button onclick="auswahl6h_1201('beobachtung6h_1201')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+  </div>
+
+  <div id="zustimmungen6h_1201" class="stufe">
+    <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
+    <label><input type="checkbox" id="agb6h_1201"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
+    <label><input type="checkbox" id="datenschutz6h_1201"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
+    <label><input type="checkbox" id="widerruf6h_1201"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+  </div>
+
+  <div id="formular6h_1201" class="stufe">
+    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+    <label>Vorname*:<br><input type="text" id="vorname6h_1201"></label>
+    <label>Nachname*:<br><input type="text" id="nachname6h_1201"></label>
+    <label>E-Mail*:<br><input type="email" id="email6h_1201"></label>
+    <label><input type="checkbox" id="newsletter6h_1201"> Ich möchte den Newsletter erhalten</label>
+    <button id="zahlungBtn6h_1201" disabled onclick="weiterleiten6h_1201()">Zur Zahlung (Stripe)</button>
+  </div>
+</div>
+
+<script>
+  let produktwahl6h_1201 = '';
+
+  function auswahl6h_1201(wahl) {
+    produktwahl6h_1201 = wahl;
+    document.getElementById('zustimmungen6h_1201').style.display = 'block';
+    document.getElementById('formular6h_1201').style.display = 'none';
+    document.getElementById('zahlungBtn6h_1201').disabled = true;
+
+    document.getElementById('agb6h_1201').checked = false;
+    document.getElementById('datenschutz6h_1201').checked = false;
+    document.getElementById('widerruf6h_1201').checked = false;
+  }
+
+  const agb_1201 = document.getElementById('agb6h_1201');
+  const ds_1201 = document.getElementById('datenschutz6h_1201');
+  const wid_1201 = document.getElementById('widerruf6h_1201');
+  const vor_1201 = document.getElementById('vorname6h_1201');
+  const nach_1201 = document.getElementById('nachname6h_1201');
+  const mail_1201 = document.getElementById('email6h_1201');
+  const btn_1201 = document.getElementById('zahlungBtn6h_1201');
+
+  [agb_1201, ds_1201, wid_1201].forEach(el => {
+    el.addEventListener('change', () => {
+      const zustimmOK = agb_1201.checked && ds_1201.checked && wid_1201.checked;
+      document.getElementById('formular6h_1201').style.display = zustimmOK ? 'block' : 'none';
+      validate6h_1201();
+    });
+  });
+
+  [vor_1201, nach_1201, mail_1201].forEach(el => {
+    el.addEventListener('input', validate6h_1201);
+  });
+
+  function validate6h_1201() {
+    const allesDa = vor_1201.value && nach_1201.value && mail_1201.value;
+    btn_1201.disabled = !allesDa;
+  }
+
+  function weiterleiten6h_1201() {
+    if (produktwahl6h_1201 === 'anliegen6h_1201') {
+      window.location.href = 'https://buy.stripe.com/28EdRad5QeJP7Wg7Sm3sI05';
+    } else if (produktwahl6h_1201 === 'beobachtung6h_1201') {
+      window.location.href = 'https://buy.stripe.com/4gM6oIgi29pv6Sc7Sm3sI04';
+    }
+  }
+</script>
+
 
 
 
