@@ -75,7 +75,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   Sa, 13.09.2025 – 09:00 bis 18:00 Uhr<br>
   So, 14.09.2025 – 09:00 bis 18:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Hohenstraße 12, Top 19, 1020 Wien</p>
+  📍 <strong>Ort:</strong> Hollandstr. 12/9, 1020 Wien</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
@@ -153,7 +153,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 14.11.2025 – 09:00 bis 18:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Seminarraum Wien</p>
+  📍 <strong>Ort:</strong> Hollandstr. 12/9, 1020 Wien</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
@@ -233,7 +233,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 20.12.2025 – 09:00 bis 18:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Seminarraum Wien</p>
+  📍 <strong>Ort:</strong> Hollandstr. 12/9, 1020 Wien</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
@@ -322,7 +322,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">Termin:</span><br>
   Mo, 13.10.2025 – 14:00 bis 20:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+  📍 <strong>Ort:</strong> Bruckgasse 1, 7423 Pinkafeld</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
@@ -400,7 +400,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">Termin:</span><br>
   Mo, 27.10.2025 – 14:00 bis 20:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+  📍 <strong>Ort:</strong> Bruckgasse 1, 7423 Pinkafeld</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
@@ -479,7 +479,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">Termin:</span><br>
   Mo, 08.12.2025 – 14:00 bis 20:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+  📍 <strong>Ort:</strong> Bruckgasse 1, 7423 Pinkafeld</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
@@ -557,7 +557,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">Termin:</span><br>
   Mo, 12.01.2026 – 14:00 bis 20:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Seminarraum Pinkafeld</p>
+  📍 <strong>Ort:</strong> Bruckgasse 1, 7423 Pinkafeld</p>
 
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
