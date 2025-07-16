@@ -80,7 +80,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button class="button-anliegen" onclick="auswahl('anliegen')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 450 €</button>
-    <button class="button-repraesentant" onclick="auswahl('beobachtung')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 210 €</button>
+    <button class="button-repraesentant" onclick="auswahl('beobachtung')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 210 €</button>
   </div>
 
   <div id="zustimmungen" class="stufe">
@@ -158,7 +158,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button onclick="auswahl8h('anliegen8h')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
-    <button onclick="auswahl8h('beobachtung8h')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
+    <button onclick="auswahl8h('beobachtung8h')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
   </div>
 
   <div id="zustimmungen8h" class="stufe">
@@ -238,7 +238,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button onclick="auswahl8hdez('anliegen8hdez')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
-    <button onclick="auswahl8hdez('beobachtung8hdez')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
+    <button onclick="auswahl8hdez('beobachtung8hdez')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
   </div>
 
   <div id="zustimmungen8hdez" class="stufe">
@@ -327,7 +327,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button onclick="auswahl6hpink('anliegen6hpink')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
-    <button onclick="auswahl6hpink('beobachtung6hpink')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+    <button onclick="auswahl6hpink('beobachtung6hpink')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
   </div>
 
   <div id="zustimmungen6hpink" class="stufe">
@@ -405,7 +405,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button onclick="auswahl6h_2710('anliegen6h_2710')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
-    <button onclick="auswahl6h_2710('beobachtung6h_2710')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+    <button onclick="auswahl6h_2710('beobachtung6h_2710')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
   </div>
 
   <div id="zustimmungen6h_2710" class="stufe">
@@ -484,7 +484,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button onclick="auswahl6h_0812('anliegen6h_0812')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
-    <button onclick="auswahl6h_0812('beobachtung6h_0812')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+    <button onclick="auswahl6h_0812('beobachtung6h_0812')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
   </div>
 
   <div id="zustimmungen6h_0812" class="stufe">
@@ -562,7 +562,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
     <button onclick="auswahl6h_1201('anliegen6h_1201')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 210 €</button>
-    <button onclick="auswahl6h_1201('beobachtung6h_1201')" style="border: 2px solid #B03C4C;">👁 Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
+    <button onclick="auswahl6h_1201('beobachtung6h_1201')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 90 €</button>
   </div>
 
   <div id="zustimmungen6h_1201" class="stufe">
