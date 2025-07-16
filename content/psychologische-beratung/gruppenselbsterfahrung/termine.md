@@ -85,9 +85,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular" class="stufe">
@@ -163,9 +163,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen8h" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb8h"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz8h"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb8h"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz8h"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular8h" class="stufe">
@@ -243,9 +243,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen8hdez" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb8hdez"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz8hdez"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf8hdez"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb8hdez"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz8hdez"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular8hdez" class="stufe">
@@ -332,9 +332,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen6hpink" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb6hpink"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz6hpink"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf6hpink"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb6hpink"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz6hpink"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf6hpink"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular6hpink" class="stufe">
@@ -410,9 +410,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen6h_2710" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb6h_2710"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz6h_2710"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf6h_2710"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb6h_2710"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz6h_2710"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf6h_2710"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular6h_2710" class="stufe">
@@ -489,9 +489,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen6h_0812" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb6h_0812"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz6h_0812"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf6h_0812"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb6h_0812"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz6h_0812"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf6h_0812"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular6h_0812" class="stufe">
@@ -567,9 +567,9 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
   <div id="zustimmungen6h_1201" class="stufe">
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb6h_1201"> Ich stimme den <a href="/agb/">AGB</a> zu *</label>
-    <label><input type="checkbox" id="datenschutz6h_1201"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> *</label>
-    <label><input type="checkbox" id="widerruf6h_1201"> Ich habe die <a href="/widerruf/">Widerrufsbelehrung</a> gelesen *</label>
+    <label><input type="checkbox" id="agb6h_1201"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz6h_1201"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf6h_1201"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular6h_1201" class="stufe">
