@@ -281,6 +281,20 @@ Tiere leben im Moment, sind wertfrei und haben unglaublich viel Gespür. Gespür
 
 {{< line icon="icon/tiere.png" >}}
 
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+</div>
+
+  <br>
+{{< kurskauf-tiercoaching >}}
+</br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
+
+{{< line icon="icon/fachwissen_tuerkis.png" >}}
+
 ## Kursaufbau & Lehrinhalte
 
 **Jeder Theorieblock wird zuerst fachlich erklärt und anschließend mit tiergestützten Interventionen kombiniert** 
