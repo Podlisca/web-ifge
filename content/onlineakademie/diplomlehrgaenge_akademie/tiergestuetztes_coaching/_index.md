@@ -463,7 +463,7 @@ Aus diktatischen Gründen kann es sein, dass die Kursinhalte in den Modulen vers
 * Glückwunsch du hast es geschafft
 * **Freischaltung der Onlineprüfung**
 
-Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Berufsverbands für tiergestützte psychologische Beratung](https://berufsverband-tiergestuetzteberatung.at/) kostenlos. 
+ 
 
 
 {{< /card-more >}}
