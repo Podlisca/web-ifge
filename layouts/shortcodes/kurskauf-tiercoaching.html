@@ -1,20 +1,22 @@
 <style>
   .kursbox {
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
     border: 2px solid #a3284f;
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 2rem;
     font-family: 'Roboto', sans-serif;
   }
 
   .kursbox h2 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     margin-bottom: 1rem;
     color: #a3284f;
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    justify-content: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
   }
 
   .kursbox h2 .icon {
@@ -27,11 +29,15 @@
     color: white;
     border: none;
     border-radius: 6px;
-    padding: 0.75rem;
+    padding: 0.9rem;
     font-size: 1rem;
     font-weight: bold;
     cursor: pointer;
     margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
   }
 
   .kurs-button:hover {
@@ -52,7 +58,7 @@
   }
 
   .kurs-checkboxes input[type="checkbox"] {
-    transform: scale(1.3);
+    transform: scale(1.2);
   }
 
   .stripe-button {
@@ -61,7 +67,7 @@
     color: white;
     border: none;
     border-radius: 6px;
-    padding: 0.75rem;
+    padding: 0.9rem;
     font-size: 1rem;
     font-weight: bold;
     margin-top: 1.5rem;
@@ -94,7 +100,7 @@
 
 <div class="kursbox">
   <h2><span class="icon">🎓</span>ONLINE-AKADEMIE – FLEXI-JAHR: TIERGESTÜTZTES COACHING</h2>
-  
+
   <p><strong>Produkt:</strong> <span style="color: #009688;">Diplomlehrgang Tiergestütztes Coaching – 1 Jahr Onlinezugang</span></p>
   <p><strong>Preis:</strong> 1.200 € (inkl. 20 % USt)</p>
   <p style="font-size: 0.9rem; color: #555;">(Um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)</p>
@@ -104,10 +110,10 @@
   <div id="formular-block" class="kurs-formular">
     <h3>Was du bekommst:</h3>
     <ul>
-      <li> Zugang zu allen Modulen</li>
-      <li> Videolektionen jederzeit abrufbar</li>
-      <li> Praxisorientiertes Wissen</li>
-      <li> Teilnahmebestätigung</li>
+      <li>Zugang zu allen Modulen</li>
+      <li>Videolektionen jederzeit abrufbar</li>
+      <li>Praxisorientiertes Wissen</li>
+      <li>Teilnahmebestätigung</li>
     </ul>
 
     <form action="https://buy.stripe.com/28E9AUd5QdFLdgA1tY" method="GET">
