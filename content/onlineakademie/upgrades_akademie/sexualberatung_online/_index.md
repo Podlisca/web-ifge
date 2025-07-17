@@ -106,15 +106,11 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
   🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
-
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
-</br>
+{{< kurskauf-sexualberatung-upgrade >}}
 
-##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
-
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 
 {{< line icon="icon/beratung.png" >}}
@@ -122,21 +118,10 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* **Neu: Flexi-Jahr - €  1200,-** <br/>
+* Flexi-Jahr - €  980,- <br/>
 (1 Jahr Zugriff auf alle Videos)
 
-* **Ausbildungskosten:€ 1.980,-** <br/>
-(3 Jahre Zugriff auf alle Videos)<br/>
-Zahlung nach Anmeldung. <br/>
 
-* **Ratenzahlung: € 2.450,-** <br/>
-(3 Jahre Zugriff auf alle Videos)<br/>
-€ 450,- Zahlung sofort nach Anmeldung. <br/>
-2.000 € - Restbetrag wird aufgeteilt auf 4 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 500,- €.<br/>
-
-* **Abo Preis - 3 Jahre** <br/>
-(3 Jahre Zugriff auf alle Videos)<br/>
-Gesamtbetrag: 2.690,00 € (Anzahlung: 90,00 €, 36 Teilzahlungen a 72,22 €)
 
 {{< /card-more >}}
 
@@ -180,12 +165,10 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
-</br>
+{{< kurskauf-sexualberatung-upgrade >}}
 
-##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 {{< line icon="icon/beratung.png" >}}
 
@@ -339,18 +322,11 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 </div>
 
 
-
-
 <br>
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
-</br>
-
-##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+{{< kurskauf-sexualberatung-upgrade >}}
 
 
-
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 
 
@@ -367,7 +343,7 @@ Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Besonderheit Sexualberat
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 4. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren (bzw. ein Jahr beim Flexi-Jahr) die Kursunterlagen abrufen kann. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von einem Jahr abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
@@ -398,11 +374,8 @@ Wien, Österreich
 </div>
 
 
+<br>
+{{< kurskauf-sexualberatung-upgrade >}}
 
 
-{{< buchung produkte="Upgrade Besonderheit Sexualberatung" text="Jetzt loslegen" value="1490" >}}
-</br>
-
-##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
-
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 

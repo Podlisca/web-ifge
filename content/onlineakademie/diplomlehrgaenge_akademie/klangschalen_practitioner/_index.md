@@ -128,7 +128,10 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
   🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
-{{< kurskauf-ks >}}
+{{< kurskauf-ks >}} 
+
+{{< upgrade-form >}}
+
 
 </br>
 
