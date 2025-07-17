@@ -105,7 +105,7 @@
   <p><strong>Preis:</strong> 1.200 € (inkl. 20 % USt)</p>
   <p style="font-size: 0.9rem; color: #555;">(Um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)</p>
 
-  <button class="kurs-button" onclick="document.getElementById('formular-block').style.display='block'">🛒 Jetzt Kurs kaufen</button>
+  <button id="kurs-button" class="kurs-button">🛒 Jetzt Kurs kaufen</button>
 
   <div id="formular-block" class="kurs-formular">
     <h3>Was du bekommst:</h3>
@@ -161,3 +161,17 @@
     </form>
   </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const button = document.getElementById('kurs-button');
+    const formBlock = document.getElementById('formular-block');
+    if (button && formBlock) {
+      button.addEventListener('click', function () {
+        formBlock.style.display = 'block';
+        button.style.display = 'none'; // Optional: Button ausblenden
+      });
+    }
+  });
+</script>
+
