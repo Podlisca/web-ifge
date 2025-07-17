@@ -27,9 +27,10 @@ aliases:
 {{< line icon="icon/aufstellung.png" >}}
 
 ## Systeme & Strukturen verstehen. Menschliche Entwicklung fördern.
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 ***
@@ -97,9 +98,10 @@ So wird der Onlineraum mit Interaktion, Menschlichkeit und Persönlichkeit berei
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 <br>
@@ -167,9 +169,10 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 <br>
@@ -328,9 +331,10 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 ***
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 <br>
@@ -376,9 +380,10 @@ Wien, Österreich
 
 ***
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 <br>

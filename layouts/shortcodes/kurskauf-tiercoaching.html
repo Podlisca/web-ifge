@@ -1,0 +1,157 @@
+<style>
+  .kursbox {
+    max-width: 800px;
+    margin: auto;
+    border: 2px solid #a3284f;
+    border-radius: 10px;
+    padding: 2rem;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .kursbox h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #a3284f;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .kursbox h2 .icon {
+    font-size: 1.5rem;
+  }
+
+  .kurs-button {
+    width: 100%;
+    background-color: #009688;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+
+  .kurs-button:hover {
+    background-color: #007d71;
+  }
+
+  .kurs-formular {
+    display: none;
+    margin-top: 2rem;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+
+  .kurs-checkboxes label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0.5rem 0;
+  }
+
+  .kurs-checkboxes input[type="checkbox"] {
+    transform: scale(1.3);
+  }
+
+  .stripe-button {
+    width: 100%;
+    background-color: #009688;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    cursor: pointer;
+  }
+
+  .kurs-feld {
+    margin-bottom: 0.75rem;
+    width: 100%;
+  }
+
+  .kurs-feld input,
+  .kurs-feld select,
+  .kurs-feld textarea {
+    width: 100%;
+    padding: 0.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+<div class="kursbox">
+  <h2><span class="icon">🎓</span>ONLINE-AKADEMIE – FLEXI-JAHR: TIERGESTÜTZTES COACHING</h2>
+  
+  <p><strong>Produkt:</strong> <span style="color: #009688;">Diplomlehrgang Tiergestütztes Coaching – 1 Jahr Onlinezugang</span></p>
+  <p><strong>Preis:</strong> 1.200 € (inkl. 20 % USt)</p>
+  <p style="font-size: 0.9rem; color: #555;">(Um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)</p>
+
+  <button class="kurs-button" onclick="document.getElementById('formular-block').style.display='block'">🛒 Jetzt Kurs kaufen</button>
+
+  <div id="formular-block" class="kurs-formular">
+    <h3>Was du bekommst:</h3>
+    <ul>
+      <li> Zugang zu allen Modulen</li>
+      <li> Videolektionen jederzeit abrufbar</li>
+      <li> Praxisorientiertes Wissen</li>
+      <li> Teilnahmebestätigung</li>
+    </ul>
+
+    <form action="https://buy.stripe.com/28E9AUd5QdFLdgA1tY" method="GET">
+      <div class="kurs-feld">
+        <label>Anrede*</label>
+        <select required>
+          <option value="">Bitte wählen</option>
+          <option>Frau</option>
+          <option>Herr</option>
+          <option>Divers</option>
+        </select>
+      </div>
+
+      <div class="kurs-feld">
+        <label>Akad. Titel</label>
+        <select>
+          <option value="">kein Titel</option>
+          <option>BSc</option>
+          <option>MSc</option>
+          <option>MA</option>
+          <option>Mag.</option>
+          <option>Dipl.-Ing.</option>
+          <option>Dr.</option>
+        </select>
+      </div>
+
+      <div class="kurs-feld"><label>Vorname*</label><input type="text" required></div>
+      <div class="kurs-feld"><label>Nachname*</label><input type="text" required></div>
+      <div class="kurs-feld"><label>E-Mail*</label><input type="email" required></div>
+      <div class="kurs-feld"><label>Straße & Nr.*</label><input type="text" required></div>
+      <div class="kurs-feld"><label>PLZ*</label><input type="text" required></div>
+      <div class="kurs-feld"><label>Ort*</label><input type="text" required></div>
+      <div class="kurs-feld"><label>Land*</label><input type="text" value="Österreich" required></div>
+      <div class="kurs-feld"><label>UID-Nummer (optional)</label><input type="text"></div>
+      <div class="kurs-feld"><label>Ihre Mitteilung an Silvia</label><textarea rows="3"></textarea></div>
+
+      <div class="kurs-checkboxes">
+        <label><input type="checkbox" required> Ich stimme den <a href="/agb" target="_blank">AGB</a> zu</label>
+        <label><input type="checkbox" required> Ich akzeptiere die <a href="/datenschutz" target="_blank">Datenschutzerklärung</a></label>
+        <label><input type="checkbox" required> Ich habe die <a href="/widerrufsbelehrung" target="_blank">Widerrufsbelehrung</a> gelesen</label>
+        <label><input type="checkbox"> Ich möchte den Newsletter erhalten</label>
+      </div>
+
+      <button type="submit" class="stripe-button">💳 Zur Zahlung mit Stripe</button>
+    </form>
+  </div>
+</div>

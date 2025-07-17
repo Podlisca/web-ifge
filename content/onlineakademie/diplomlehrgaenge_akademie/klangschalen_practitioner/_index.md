@@ -38,9 +38,10 @@ rich_faq:
 
 ## Schwingungen auslösen. Wirkung erzielen. 
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 
@@ -123,9 +124,10 @@ Mit der praxisorientierten Ausbildung zum/zur Klangschalen Practitioner eröffne
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 
@@ -198,9 +200,10 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< line icon="icon/klangschale.png">}}
 
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 
 <br>
@@ -453,9 +456,10 @@ Die Schwingungen der Klangschale breiten sich auf angenehme Art und Weise sowohl
 
 {{< line icon="icon/klangschale.png">}}
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}
@@ -506,9 +510,10 @@ Wien, Österreich
 
 {{< line icon="icon/klangschale.png">}}
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
+
 
 <br>
 {{< buchung produkte="Dipl. Klangschalen-Practitioner" text="Jetzt loslegen" value="2980" >}}

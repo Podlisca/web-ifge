@@ -45,8 +45,8 @@ rich_faq:
 
 ## Kraft der Tiere einsetzen. Menschen nachhaltig unterstützen.
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
 
@@ -135,20 +135,20 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
 
 
+
 <br>
-{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+{{< kurskauf-tiercoaching >}}
 </br>
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
-
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
@@ -157,21 +157,10 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* **Neu: Flexi-Jahr - €  1200,-** <br/>
+* ** Flexi-Jahr - €  1.200,-** <br/>
 (1 Jahr Zugriff auf alle Videos)
 
-* **Ausbildungskosten:€ 2.980,-** <br/>
-(3 Jahre Zugriff auf alle Videos)<br/>
-Zahlung nach Anmeldung. <br/>
 
-* **Ratenzahlung: € 3.290,-** <br/>
-(3 Jahre Zugriff auf alle Videos)<br/>
-€ 290,- Zahlung sofort nach Anmeldung. <br/>
-3.000 € - Restbetrag wird aufgeteilt auf 5 Raten und ist jeweils am 1. des jeweiligen Monats fällig. Die Rate beträgt 600.00 €.<br/>
-
-* **Abo Preis - (3 Jahre Zugriff auf alle Videos)** <br/>
-Gesamtbetrag: 3.598,00 € <br/>
-(Anzahlung: 70,00 €, 36 Teilzahlungen a 98,00 €)
 
 
 {{< /card-more >}}
@@ -212,18 +201,18 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 ***
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
 
-{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+<br>
+{{< kurskauf-tiercoaching >}}
 </br>
-
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 
 {{< line icon="icon/tiere.png" >}}
@@ -259,16 +248,17 @@ Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhal
 ## Du kannst sofort starten
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
-
-{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+<br>
+{{< kurskauf-tiercoaching >}}
+</br>
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 {{< line icon="icon/tiere.png" >}}
 
@@ -478,15 +468,18 @@ Nach **erfolgreicher Prüfung** erhalten Sie ein Jahr die Mitgliedschaft des [Be
 
 ***
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
-{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+
+<br>
+{{< kurskauf-tiercoaching >}}
+</br>
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
-Sobald Du den Kurs gekauft werden dir Die Zugangsdaten und die Rechnung innerhalb von drei Werktagen per Mail zugesand. Bitte die Kursgebühren an das angegebene Konto überweisen. 
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 {{< line icon="icon/tiere.png" >}}
 ### Allgemeine Geschäftsbedingungen
@@ -500,7 +493,7 @@ Der:die Nutzer:in ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching
 Der Onlinelehrgang schließt mit einer Abschlussprüfung am Ende des 7. Turnus sowie der Ausstellung eines Zertifikats des Instituts für ganzheitliches Erleben ab.
 
 
-Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen (bzw. ein Jahr beim Flexi-Jahr) abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
+Der:die Nutzer:in erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von einem Jahr abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
 Sobald die Videos gestartet wurden, ist ein Rücktritt oder eine Stornierung ausgeschlossen. Die Videos können auf maximal zwei Geräten/zwei unterschiedliche Browser angesehen werden. Alles 6 Monate kann ein Gerät/ein Browswer kostenlos gelöscht werden. Hierfür senden Sie bitte ein Mail an silvia.podlisca@ifge.at Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
 
@@ -528,14 +521,18 @@ Wien, Österreich
 
 ***
 
-<div style="background-color: #a34d5d; color: white; padding: 1em; text-align: center; font-size: 1.2em; font-weight: bold; border-radius: 10px; margin: 1em 0;">
-  🎉 <span style="font-size: 1.4em;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
+<div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
+  🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
 
 <br>
-{{< buchung produkte="Tiergestütztes Coaching" text="Jetzt loslegen" value="2900" >}}
+{{< kurskauf-tiercoaching >}}
 </br>
+
+##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
+
+Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
