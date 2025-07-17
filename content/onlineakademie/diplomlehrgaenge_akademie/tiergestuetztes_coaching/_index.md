@@ -157,7 +157,7 @@ Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbes
 {{% box more=1 blue=1 %}}
 {{< card-more icon="noun_Euro_2244498-2.png" title="Kosten" >}}
 
-* ** Flexi-Jahr - €  1.200,-** <br/>
+* Flexi-Jahr - €  1.200,- <br/>
 (1 Jahr Zugriff auf alle Videos)
 
 
