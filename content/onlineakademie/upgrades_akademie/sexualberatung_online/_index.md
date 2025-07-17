@@ -29,6 +29,7 @@ rich_faq:
   🎉 <span style="font-size: 1.1em; font-weight: 500;">NEU:</span> Flexi-Jahr – jetzt zugreifen und 1 Jahr alle Videos genießen! 🎉
 </div>
 
+<br>
 
 {{< line icon="icon/beratung.png" >}}
 
@@ -155,6 +156,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
+<br>
 
 {{< line icon="icon/beratung.png" >}}
 
@@ -315,6 +317,8 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 {{< /card-more >}}
 {{% /box %}}
 
+<br>
+
 {{< line icon="icon/beratung.png" >}}
 
 <div style="background-color: #a34d5d; color: white; padding: 0.7em 1em; text-align: center; font-size: 1em; font-weight: 400; border-radius: 12px; margin: 1.2em 0; font-family: 'Roboto', sans-serif;">
@@ -328,7 +332,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
-
+<br>
 
 {{< line icon="icon/paar_sexualberatung.png" >}}
 
