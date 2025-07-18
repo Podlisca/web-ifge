@@ -1,6 +1,6 @@
 <!-- Verstecktes Upgrade-Formular für Formspree -->
 <form action="https://formspree.io/f/xqalakkv" method="POST" style="display: none;" id="upgrade-form">
-  <input type="hidden" name="Produkt" value="Dynamisch durch JS einsetzen">
+  <input type="hidden" name="Produkt" id="form-produkt">
   <input type="hidden" name="Anrede" id="form-anrede">
   <input type="hidden" name="Titel" id="form-titel">
   <input type="hidden" name="Vorname" id="form-vorname">
@@ -27,16 +27,15 @@
       if (!form) return;
 
       form.addEventListener('submit', function (event) {
-        event.preventDefault(); // Verhindert direkte Stripe-Weiterleitung
+        event.preventDefault(); // Stripe erst nach Formspree absenden
 
-        const getVal = (selector, allIndex = null) => {
-          if (allIndex !== null) {
-            return form.querySelectorAll(selector)[allIndex]?.value.trim() || '';
+        const getVal = (selector, index = null) => {
+          if (index !== null) {
+            return form.querySelectorAll(selector)?.[index]?.value.trim() || '';
           }
           return form.querySelector(selector)?.value.trim() || '';
         };
 
-        // Daten auslesen
         const produkt = box.querySelector('h2')?.textContent.trim() || 'Unbekanntes Produkt';
         const anrede = getVal('select[required]');
         const titel = getVal('select:not([required])');
@@ -50,7 +49,8 @@
         const uid = getVal('input[type="text"]', 6);
         const mitteilung = form.querySelector('textarea')?.value.trim() || '';
 
-        // Hidden-Formular befüllen
+        // Hidden-Felder befüllen
+        upgrade.querySelector('#form-produkt').value = produkt;
         upgrade.querySelector('#form-anrede').value = anrede;
         upgrade.querySelector('#form-titel').value = titel;
         upgrade.querySelector('#form-vorname').value = vorname;
@@ -62,12 +62,11 @@
         upgrade.querySelector('#form-land').value = land;
         upgrade.querySelector('#form-uid').value = uid;
         upgrade.querySelector('#form-mitteilung').value = mitteilung;
-        upgrade.querySelector('input[name="Produkt"]').value = produkt;
 
-        // Formspree absenden und danach Stripe aufrufen
+        // Formular an Formspree senden
         upgrade.submit();
 
-        // Kurzes Delay, um sicherzustellen, dass die Mail abgesendet wird
+        // Weiterleitung zu Stripe nach kurzem Delay
         setTimeout(() => {
           const stripeLink = form.getAttribute('action');
           if (stripeLink) {
