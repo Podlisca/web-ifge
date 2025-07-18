@@ -110,6 +110,7 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 <br>
 {{< kurskauf-sexualberatung-upgrade >}}
 
+{{< upgrade-form >}}
 
 Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 

@@ -104,13 +104,15 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 
 {{< kurskauf-aufstellung >}}
 
+{{< upgrade-form >}}
+
 </br>
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
 
 Sobald Du den Kurs gekauft hast, werden dir Die Zugangsdaten und die Zahlungsbestätigung innerhalb von 24 Stunden (werktags) per Mail zugesand. 
 
-{{< upgrade-form >}}
+
 
 
 

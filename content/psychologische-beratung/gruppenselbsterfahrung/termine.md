@@ -36,6 +36,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
 
 ***
+{{< upgrade-form >}}
 
 
 <style>
@@ -66,6 +67,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
     font-weight: bold; cursor: pointer;
   }
   .stufe button:disabled { background-color: #ccc; cursor: not-allowed; }
+
 </style>
 
 <div class="aufstellung-box">
@@ -245,7 +247,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
     <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
     <label><input type="checkbox" id="agb8hdez"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
     <label><input type="checkbox" id="datenschutz8hdez"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
-    <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
+    <label><input type="checkbox" id="widerruf8hdez"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
   <div id="formular8hdez" class="stufe">
@@ -306,6 +308,86 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
   }
 </script>
 
+
+<div class="aufstellung-box">
+  <h4> FAMILIENAUFSTELLUNG – DREITAGES-WOCHENENDE IN WIEN</h4>
+  <p><span class="tuerkis">Termin:</span><br>
+  Fr, 03.04.2026 – 16:00 bis 20:00 Uhr<br>
+  Sa, 04.04.2026 – 09:00 bis 18:00 Uhr<br>
+  So, 05.04.2026 – 09:00 bis 18:00 Uhr</p>
+  <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
+  📍 <strong>Ort:</strong> Hollandstr. 12/9, 1020 Wien</p>
+
+  <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button class="button-anliegen" onclick="auswahl_april26('anliegen_april26')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 450 €</button>
+    <button class="button-repraesentant" onclick="auswahl_april26('beobachtung_april26')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 210 €</button>
+  </div>
+
+  <div id="zustimmungen_april26" class="stufe" style="display:none;">
+    <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
+    <label><input type="checkbox" id="agb_april26"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
+    <label><input type="checkbox" id="datenschutz_april26"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
+    <label><input type="checkbox" id="widerruf_april26"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
+  </div>
+
+  <div id="formular_april26" class="stufe" style="display:none;">
+    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+    <label>Vorname*:<br><input type="text" id="vorname_april26"></label>
+    <label>Nachname*:<br><input type="text" id="nachname_april26"></label>
+    <label>E-Mail*:<br><input type="email" id="email_april26"></label>
+    <label><input type="checkbox" id="newsletter_april26"> Ich möchte den Newsletter erhalten</label>
+    <button id="zahlungBtn_april26" disabled onclick="weiterleiten_april26()">Zur Zahlung (Stripe)</button>
+  </div>
+</div>
+
+<script>
+  let produktwahl_april26 = '';
+
+  function auswahl_april26(wahl) {
+    produktwahl_april26 = wahl;
+    document.getElementById('zustimmungen_april26').style.display = 'block';
+    document.getElementById('formular_april26').style.display = 'none';
+    document.getElementById('zahlungBtn_april26').disabled = true;
+
+    document.getElementById('agb_april26').checked = false;
+    document.getElementById('datenschutz_april26').checked = false;
+    document.getElementById('widerruf_april26').checked = false;
+  }
+
+  const agb_april = document.getElementById('agb_april26');
+  const ds_april = document.getElementById('datenschutz_april26');
+  const wid_april = document.getElementById('widerruf_april26');
+  const vor_april = document.getElementById('vorname_april26');
+  const nach_april = document.getElementById('nachname_april26');
+  const mail_april = document.getElementById('email_april26');
+  const btn_april = document.getElementById('zahlungBtn_april26');
+
+  [agb_april, ds_april, wid_april].forEach(el => {
+    el.addEventListener('change', () => {
+      const zustimmOK = agb_april.checked && ds_april.checked && wid_april.checked;
+      document.getElementById('formular_april26').style.display = zustimmOK ? 'block' : 'none';
+      validiere_april26();
+    });
+  });
+
+  [vor_april, nach_april, mail_april].forEach(el => {
+    el.addEventListener('input', validiere_april26);
+  });
+
+  function validiere_april26() {
+    const alleDa = vor_april.value && nach_april.value && mail_april.value;
+    btn_april.disabled = !alleDa;
+  }
+
+  function weiterleiten_april26() {
+    if (produktwahl_april26 === 'anliegen_april26') {
+      window.location.href = 'https://buy.stripe.com/bJe4gAfdYgRX3G0b4y3sI01'; // ← Dein Link mit Anliegen
+    } else if (produktwahl_april26 === 'beobachtung_april26') {
+      window.location.href = 'https://buy.stripe.com/00w6oIe9U45bfoIc8C3sI00'; // ← Dein Link ohne Anliegen
+    }
+  }
+</script>
 
 
 
