@@ -27,7 +27,7 @@
       if (!form) return;
 
       form.addEventListener('submit', function (event) {
-        // Optional: event.preventDefault(); falls du den Stripe-Zahlungsaufruf später manuell triggern möchtest
+        event.preventDefault(); // Verhindert direkte Stripe-Weiterleitung
 
         const getVal = (selector, allIndex = null) => {
           if (allIndex !== null) {
@@ -64,8 +64,16 @@
         upgrade.querySelector('#form-mitteilung').value = mitteilung;
         upgrade.querySelector('input[name="Produkt"]').value = produkt;
 
-        // Absenden
+        // Formspree absenden und danach Stripe aufrufen
         upgrade.submit();
+
+        // Kurzes Delay, um sicherzustellen, dass die Mail abgesendet wird
+        setTimeout(() => {
+          const stripeLink = form.getAttribute('action');
+          if (stripeLink) {
+            window.location.href = stripeLink;
+          }
+        }, 500);
       });
     });
   });
