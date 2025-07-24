@@ -25,6 +25,7 @@ weight: 4
 
 * Die Ausbildung ist für alle offen
  
+{{< upgrade-form >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen

@@ -23,6 +23,7 @@ weight: 3
 {{< line icon="noun_Information_478770-2.png" >}}
 
 
+{{< upgrade-form >}}
 
 <div class="box video">
 {{% small %}}

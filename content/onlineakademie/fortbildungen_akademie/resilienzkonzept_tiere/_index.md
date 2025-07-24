@@ -29,7 +29,7 @@ rich_faq:
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-
+{{< upgrade-form >}}
 
 
 
@@ -63,8 +63,8 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**
 
 
 
-{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}
-</br>
+
+
 
 {{% floatbox %}}
 
