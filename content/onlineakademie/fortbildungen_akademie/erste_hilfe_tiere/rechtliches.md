@@ -26,6 +26,9 @@ weight: 4
 
 
 {{< line icon="noun_Information_478770-2.png" >}}
+
+{{< upgrade-form >}}
+
 ## Zahlungsbedingungen
 
 Um Ihnen den Zugang frei zu schalten, ist nach Anmeldung die Zahlung sofort auf das Konto
@@ -43,7 +46,9 @@ Die Zugangsdaten werden innerhalb von drei Werktagen per Mail zugesand. Sobald d
 Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von € 25,- (inkl. 20% Ust.) verbunden. Die Zurücksetzung erfolgt erst nach erfolgter Zahlung.
   
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -73,5 +78,7 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>

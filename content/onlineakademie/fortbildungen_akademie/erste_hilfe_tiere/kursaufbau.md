@@ -11,6 +11,8 @@ weight: 1
 
 {{< line icon="icon/tiere.png" >}}
 
+{{< upgrade-form >}}
+
 {{% iconmenu %}}
 {{< card icon="noun_goal_3405526.png" title="Kursziele" >}}
 {{< card icon="noun_build_83813-2.png" title="Kursaufbau" >}}
@@ -80,5 +82,7 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 {{% /box %}}
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>

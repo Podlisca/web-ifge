@@ -25,6 +25,8 @@ rich_faq:
 
 {{< line icon="icon/tiere.png" >}}
 
+{{< upgrade-form >}}
+
 
 <div class="box video">
 {{% small %}}
@@ -57,7 +59,9 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**
 
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>
 
 {{< line icon="icon/info_tuerkis.png" >}}

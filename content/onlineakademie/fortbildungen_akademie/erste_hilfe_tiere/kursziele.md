@@ -13,6 +13,8 @@ og_image: "/img/tier_coaching_1.jpg"
 {{< line icon="icon/tiere.png" >}}
 ## Rasch, richtig & ruhig reagieren: Erste Hilfe für Hund & Katze.
 
+{{< upgrade-form >}}
+
 <div class="box video">
 {{% small %}}
 
@@ -32,7 +34,13 @@ Und das ist wichtig, denn wie beim Menschen, **zählen** auch bei Tieren bei Unf
 </div> 
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+
+
+{{< line icon="icon/tiere.png" >}}
+
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>
 
 

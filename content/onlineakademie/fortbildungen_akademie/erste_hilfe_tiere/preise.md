@@ -22,13 +22,13 @@ weight: 2
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
-
+{{< upgrade-form >}}
 
 ## Kosten (inkl. MwSt.)
-**Ausbildungskosten:€ 149,-** <br/>
-Zahlung sofort <br/>
 
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>

@@ -22,6 +22,7 @@ weight: 3
 
 {{< line icon="icon/tiere.png" >}}
 
+{{< upgrade-form >}}
 
 <div class="box video">
 {{% small %}}
@@ -47,5 +48,7 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 </div> 
 
 <br>
-{{< buchung produkte="Erste Hilfe für Hunde & Katzen" text="Jetzt loslegen" value="149" >}}
+{{< kurskauf-erstehilfe-tiere >}}
+
+
 </br>
