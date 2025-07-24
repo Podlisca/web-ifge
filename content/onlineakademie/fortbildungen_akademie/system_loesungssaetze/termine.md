@@ -35,6 +35,8 @@ weight: 3
 {{% small %}}
 ## Sarte Jetzt!
 
+{{< upgrade-form >}}
+
 Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse gut in den **Alltag integrieren** lassen und Du schnell los legen kannst.. <br/>
 
 Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst Du schon los starten. Du willst noch schneller los legen - kein Problem! Mit einer **Sofortüberweisung** hast Du den Zugang noch am gleichen Tag.
@@ -51,5 +53,6 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 
 <br>
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
 </br>

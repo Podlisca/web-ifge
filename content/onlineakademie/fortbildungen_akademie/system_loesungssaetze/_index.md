@@ -32,7 +32,7 @@ rich_faq:
 
 
 
-
+{{< upgrade-form >}}
 
 <div class="box video">
 {{% small %}}
@@ -63,13 +63,8 @@ Am **{{< red >}}IFGE{{< /red >}}** blicken wir gerne über den Tellerrand und de
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
+{{< kurskauf-lösungssätz >}}
 
-
-
-
-
-
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
 </br>
 
 {{< line icon="icon/aufstellung.png" >}}

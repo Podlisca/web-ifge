@@ -30,10 +30,11 @@ Zahlung sofort  <br/>
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
-
+{{< upgrade-form >}}
 
 
 
 <br>
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
 </br>

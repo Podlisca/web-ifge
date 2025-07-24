@@ -25,6 +25,7 @@ weight: 4
 
 * Die Ausbildung ist für alle offen
 
+{{< upgrade-form >}}
 
 {{< line icon="noun_Information_478770-2.png" >}}
 ## Zahlungsbedingungen
@@ -46,7 +47,8 @@ Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von €
 
 
 <br>
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -75,5 +77,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 <br>
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
 </br>

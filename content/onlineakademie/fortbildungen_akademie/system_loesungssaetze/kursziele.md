@@ -35,10 +35,11 @@ Da eine neue Methode auch neue Fragen mit sich bringen kann, können sich Teilne
 
 ***
 
-
+{{< upgrade-form >}}
 
 <br>
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
 </br>
 
 {{< line icon="icon/aufstellung.png" >}}

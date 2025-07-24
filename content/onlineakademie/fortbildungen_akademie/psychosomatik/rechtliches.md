@@ -22,6 +22,8 @@ weight: 4
 ***
 # Zugangsvoraussetzungen & Prüfung
 
+{{< upgrade-form >}}
+
 * Die Ausbildung ist für alle offen
 
 
@@ -74,5 +76,7 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 <br>
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-psychosomatik >}}
+
+
 </br>

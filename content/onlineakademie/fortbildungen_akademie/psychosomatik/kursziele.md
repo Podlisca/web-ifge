@@ -27,13 +27,16 @@ Das Kursangebot **Grundlagen Psychosomatik** richtet sich an alle, die im psycho
 
 Wir betrachten Psychosomatik aus **unterschiedlichen Perspektiven** und verknüpfen **Wissen aus Anatomie, Medizin und Psychologie**. Als psychologische:r Berater:in **profitierst** du von mehr **ganzheitlichem Verständnis** zu menschlichem Wohlbefinden. 
 
+{{< upgrade-form >}}
 
 
 {{% /small %}}
 </div> 
 
 <br>
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-psychosomatik >}}
+
+
 </br>
 
 {{< line icon="icon/psychosomatik.png" >}}

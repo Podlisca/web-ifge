@@ -28,8 +28,7 @@ rich_faq:
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
-
-
+{{< upgrade-form >}}
 
 <div class="box video">
 {{% small %}}
@@ -61,7 +60,9 @@ Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangscha
 
 
 
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-psychosomatik >}}
+
+
 </br>
 
 {{< line icon="icon/psychosomatik.png" >}}

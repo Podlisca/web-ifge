@@ -21,6 +21,7 @@ weight: 1
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
+{{< upgrade-form >}}
 
 ## Organisatorisches 
 Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangschalen-Practitioner](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) zusammen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
@@ -39,7 +40,9 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 Dieser Kurs setzt sich aus Elementen und Videos der Online-Ausbildung [Klangschalen-Practitioner](https://www.ifge.at/onlineakademie/diplomlehrgaenge_akademie/klangschalen_practitioner/) zusammen. So profitierst du im Rahmen der Ausbildung auch von zusätzlichen Tools und neuen Impulsen.
 
 <br>
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-psychosomatik >}}
+
+
 </br>
 
 ***
@@ -105,5 +108,7 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Marie Sophie Brandstetter](/about/referenten-lsb/#marie-sophie-brandstetter)
 
 <br>
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-psychosomatik >}}
+
+
 </br>

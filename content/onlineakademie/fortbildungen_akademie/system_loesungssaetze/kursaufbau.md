@@ -43,7 +43,10 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 
 
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
+{{< upgrade-form >}}
+
 </br>
 
 ***
@@ -97,5 +100,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 
-{{< buchung produkte="Fortbildung Familienaufstellung - SGF Methode - Lösungssätze" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-lösungssätz >}}
+
 </br>

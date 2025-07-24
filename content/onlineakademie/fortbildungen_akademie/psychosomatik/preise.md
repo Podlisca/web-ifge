@@ -29,11 +29,13 @@ weight: 2
 Zahlung sofort  <br/>
 
 
-
+{{< upgrade-form >}}
 
 
 <br>
-{{< buchung produkte="Fortbildung Ganzheitlich gesund - Grundlagen Psychosomatik" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-psychosomatik >}}
+
+
 </br>
 
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
