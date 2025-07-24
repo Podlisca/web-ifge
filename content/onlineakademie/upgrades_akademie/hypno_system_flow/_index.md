@@ -89,6 +89,8 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungspro
 
 {{< line icon="icon/beratung.png" >}}
 
+{{< upgrade-form >}}
+
 # Hier drei kostenlose Lehrvideos für dich:
 ##### (um die Videos sehen zu können, müssen die Cookies aktiviert sein)
 
@@ -125,10 +127,7 @@ Die HypnoSystemFlow-Methode ermöglicht es dir, **tiefgreifende Veränderungspro
 Zahlung sofort nach Anmeldung. <br/>
 <br/>
 
-* **Ratenzahlung: € 2.980,-** <br/>
-(Anzahlung: 480,00 €, 4 Teilzahlungen a 625,00 €)
- <br/>
-<br/>
+
 
 * **Praktische Tage in Präsenz**  
 Buche gleich deine [Praktische Tage](https://www.ifge.at/onlineakademie/praktische_tage/praxis_aufstellungsarbeit/) 
@@ -183,7 +182,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 ### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
 
 <br>
-{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
+{{< kurskauf-hypno >}}
+
 </br>
 
 
@@ -235,7 +235,8 @@ Wir wissen: **Aus- und Weiterbildung**ist dann **erfolgreich**, wenn sich Kurse 
 ### **Hybrid-Ausbildung: Lehrvideos zu 100 % Online im Selbststudium & 4 intensive Praxistage in Präsenz**
 
 <br>
-{{< buchung produkte="HypnoSystemFlow Coach" text="Jetzt loslegen" value="1490" >}}
+{{< kurskauf-hypno >}}
+
 </br>
 
 ##### (um den Kurs kaufen zu können, müssen die Cookies aktiviert sein)
@@ -442,3 +443,5 @@ Wien, Österreich
 
 {{% /small  %}}
 {{% /box  %}}
+
+
