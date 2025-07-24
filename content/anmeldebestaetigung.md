@@ -30,4 +30,4 @@ Herzliche Grüße
 \- Institutsleiterin \-
 
 
-{{% /floatbox %}}
+
