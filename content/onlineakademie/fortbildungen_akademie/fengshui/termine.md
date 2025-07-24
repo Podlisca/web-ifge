@@ -22,7 +22,7 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-
+{{< upgrade-form >}}
 
 <div class="box video">
 {{% small %}}
@@ -47,5 +47,6 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 </div> 
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-fengshui >}}
+
 </br>

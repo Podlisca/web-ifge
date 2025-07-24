@@ -22,6 +22,8 @@ weight: 4
 ***
 # Zugangsvoraussetzungen & Prüfung
 
+{{< upgrade-form >}}
+
 * Die Ausbildung ist für alle offen
 
 
@@ -74,5 +76,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-fengshui >}}
+
 </br>

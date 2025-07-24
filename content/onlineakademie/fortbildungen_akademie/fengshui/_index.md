@@ -25,6 +25,8 @@ rich_faq:
 
 ## Weil Umfeld & Umgebung zählen: Feng-Shui für Beratung & Coaching.
 
+{{< upgrade-form >}}
+
 ***
 
 <div class="box video">
@@ -57,7 +59,8 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Klangschalen-Practitioner*
 
 
 
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-fengshui >}}
+
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}

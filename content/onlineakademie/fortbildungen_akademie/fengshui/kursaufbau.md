@@ -25,6 +25,7 @@ weight: 1
 
 ## Organisatorisches 
 
+{{< upgrade-form >}}
 
 Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
@@ -38,7 +39,8 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-fengshui >}}
+
 </br>
 
 ***
@@ -81,5 +83,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 * [Margit Knor](/about/referenten-lsb/#margit-knor)
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-fengshui >}}
+
 </br>

@@ -14,6 +14,8 @@ og_image: "/img/tier_coaching_1.jpg"
 
 ## Mit Feng-Shui einen harmonischen Rahmen schaffen.
 
+{{< upgrade-form >}}
+
 <div class="box video">
 {{% small %}}
 
@@ -34,7 +36,8 @@ Der **Vorteil** des Kurses ist, dass dieser zu **100% digital** und ohne fest ei
 </div> 
 
 <br>
-{{< buchung produkte="Fortbildung: FengShui im psychosozialen Setting" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-fengshui >}}
+
 </br>
 
 {{< line icon="icon/feng_shui.png" >}}
