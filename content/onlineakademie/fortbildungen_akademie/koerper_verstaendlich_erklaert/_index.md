@@ -30,7 +30,7 @@ rich_faq:
 {{< line icon="icon/fachwissen_tuerkis.png" >}}
 
 
-
+{{< upgrade-form >}}
 
 
 <div class="box video">
@@ -55,7 +55,8 @@ Im Rahmen dieser **digitalen Weiterbildung** wird der **menschliche Körper einf
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-koerper >}}
+
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}

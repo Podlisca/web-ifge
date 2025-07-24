@@ -14,6 +14,8 @@ og_image: "/img/tier_coaching_1.jpg"
 
 ## Der menschliche Körper verständlich erklärt.
 
+{{< upgrade-form >}}
+
 <div class="box video">
 {{% small %}}
 
@@ -35,7 +37,8 @@ Der Onlinekurs ist entnommen aus der Onlineausbildung ["Klangschalen-Practitione
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-koerper >}}
+
 </br>
 
 

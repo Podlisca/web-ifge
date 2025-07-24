@@ -25,6 +25,7 @@ weight: 1
 
 ## Organisatorisches 
 
+{{< upgrade-form >}}
 
 Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze den Unterricht auflockert.
 
@@ -39,7 +40,8 @@ Wie am IFGE üblich, kann es sein, dass bei den Lehrvideos eine Institutskatze d
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-koerper >}}
+
 </br>
 
 ***
@@ -87,5 +89,6 @@ Um den **Lernfortschritt überprüfen** zu können, ist ein vorzeitiges abschlie
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-koerper >}}
+
 </br>

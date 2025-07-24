@@ -24,6 +24,8 @@ weight: 2
 
 ## Kosten (inkl. MwSt.)
 
+{{< upgrade-form >}}
+
 * **Ausbildungskosten:€ 490,-** <br/>
 Zahlung sofort  <br/>
 
@@ -37,5 +39,6 @@ Zahlung sofort  <br/>
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-koerper >}}
+
 </br>

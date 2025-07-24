@@ -22,7 +22,7 @@ weight: 3
 
 {{< line icon="noun_Information_478770-2.png" >}}
 
-
+{{< upgrade-form >}}
 
 <div class="box video">
 {{% small %}}
@@ -48,5 +48,6 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 
 
 <br>
-{{< buchung produkte="Fortbildung: Der menschliche Körper - verständlich erklärt" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-koerper >}}
+
 </br>
