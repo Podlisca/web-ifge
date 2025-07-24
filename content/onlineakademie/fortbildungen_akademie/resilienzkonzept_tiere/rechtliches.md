@@ -45,7 +45,8 @@ Jede weitere Löschung eines Gerätes oder eines Browsers ist mit Kosten von €
   
 
 <br>
-{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-resilienz-tiere >}}
+
 </br>
 
 {{< line icon="noun_Information_478770-2.png" >}}
@@ -75,5 +76,6 @@ IFGE übernimmt keine Garantie dafür, dass der:die Kunde:in einen bestimmten wi
 Wien, Österreich
 
 <br>
-{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-resilienz-tiere >}}
+
 </br>

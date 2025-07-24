@@ -32,5 +32,6 @@ Zahlung sofort. <br/>
 
 {{< upgrade-form >}}
 
-{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-resilienz-tiere >}}
+
 </br>

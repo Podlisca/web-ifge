@@ -58,8 +58,9 @@ Der Online-Kurs ist ein Teil der Online-Ausbildung [**Tiergestütztes Coaching**
 
 <br>
 
-***
+{{< line icon="icon/tiere.png" >}}
 
+{{< kurskauf-resilienz-tiere >}}
 
 
 

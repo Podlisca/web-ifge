@@ -24,7 +24,7 @@ weight: 3
 
 
 {{< upgrade-form >}}
-
+hugo
 <div class="box video">
 {{% small %}}
 
@@ -48,5 +48,6 @@ Sobald Du den Kurs gekauft hast und den **Kaufbetrag überwiesen** hast, kannst 
 </div> 
 
 <br>
-{{< buchung produkte="Tiere als Resilienzkonzept in der psychologischen Beratung" text="Jetzt loslegen" value="490" >}}
+{{< kurskauf-resilienz-tiere >}}
+
 </br>
