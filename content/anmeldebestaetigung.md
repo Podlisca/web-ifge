@@ -7,22 +7,24 @@ conversiontracker: true
 ---
 
 
-# 🎉 Danke für deine Anmeldung!
+
 
 {{< slogan >}}
 
+# 🎉 Vielen Dank für deine Anmeldung!
+
 {{< line icon="icon/anmeldung.png" >}}
 
-## Du hast die Anmeldung erfolgreich bestätigt.
+## Du bist fast am Ziel – bitte bestätige noch deine E-Mail-Adresse.
 
-Vielen lieben Dank für dein Interesse an meinem Newsletter!  
-Deine Anmeldung wurde erfolgreich bestätigt und du wirst künftig über Neuigkeiten, neue Angebote und Inspirationen informiert.
+Du bist fast am Ziel – bitte bestätige noch deine E-Mail-Adresse.
+Du erhältst gleich eine Nachricht mit einem Bestätigungslink. Schau bitte auch im Spam- oder Werbeordner nach.
 
-Du kannst dich jederzeit über den Link am Ende jeder E-Mail wieder abmelden.
+Erst nach der Bestätigung erhältst du regelmäßig Inspirationen, News und Angebote aus dem IFGE.
 
-Ich freue mich, dass du Teil der IFGE-Community bist!
+Ich freue mich, dich bald in der Community zu begrüßen!
 
-Herzliche Grüße  
+Herzliche Grüße,  
 
 
 {{< silvia >}}
