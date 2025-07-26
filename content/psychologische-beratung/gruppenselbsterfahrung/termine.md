@@ -92,15 +92,47 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
     <label><input type="checkbox" id="widerruf"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
-  <div id="formular" class="stufe">
-    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
-    <label>Vorname*:<br><input type="text" id="vorname"></label>
-    <label>Nachname*:<br><input type="text" id="nachname"></label>
-    <label>E-Mail*:<br><input type="email" id="email"></label>
-    <label><input type="checkbox" id="newsletter"> Ich möchte den Newsletter erhalten</label>
-    <button id="zahlungBtn" disabled onclick="weiterleiten()">Zur Zahlung (Stripe)</button>
-  </div>
+<div id="formular" class="stufe" data-termin="Fr, 12.09.2025 – 14.09.2025 (Wien)">
+  <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+
+  <input type="hidden" id="termin">
+
+
+  <label>Anrede*:<br>
+    <select id="anrede" required>
+      <option value="">Bitte wählen</option>
+      <option value="Frau">Frau</option>
+      <option value="Herr">Herr</option>
+      <option value="Divers">Divers</option>
+    </select>
+  </label>
+
+  <label>Titel (optional):<br>
+    <select id="titel">
+      <option value="">Kein Titel</option>
+      <option value="Mag.">Mag.</option>
+      <option value="Dr.">Dr.</option>
+      <option value="Prof.">Bsc.</option>
+      <option value="Prof.">Msc.</option>
+      <option value="Prof.">Dipl. Ing.</option>
+    </select>
+  </label>
+
+  <label>Vorname*:<br><input type="text" id="vorname"></label>
+  <label>Nachname*:<br><input type="text" id="nachname"></label>
+  <label>E-Mail*:<br><input type="email" id="email"></label>
+  <label>Straße:<br><input type="text" id="strasse"></label>
+  <label>PLZ:<br><input type="text" id="plz"></label>
+  <label>Ort:<br><input type="text" id="ort"></label>
+  <label>Land:<br><input type="text" id="land"></label>
+  <label>UID (wenn vorhanden):<br><input type="text" id="uid"></label>
+  <label>Mitteilung:<br><textarea id="mitteilung"></textarea></label>
+
+  <label><input type="checkbox" id="newsletter"> Ich möchte den Newsletter erhalten</label>
+
+  <button id="zahlungBtn" disabled onclick="weiterleiten()">Zur Zahlung (Stripe)</button>
 </div>
+
 
 <script>
   let produktwahl = '';
@@ -170,12 +202,44 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
     <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
-  <div id="formular8h" class="stufe">
-    <p><span class="tuerkis">3. Melde dich hier an:</span></p>
-    <label>Vorname*:<br><input type="text" id="vorname8h"></label>
-    <label>Nachname*:<br><input type="text" id="nachname8h"></label>
-    <label>E-Mail*:<br><input type="email" id="email8h"></label>
-    <label><input type="checkbox" id="newsletter8h"> Ich möchte den Newsletter erhalten</label>
+
+
+<div id="formular8h" class="stufe" data-termin="Fr, 14.11.2025 – 14.09.2025 (Wien)">
+  <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+
+  <input type="hidden" id="termin">
+
+
+  <label>Anrede*:<br>
+    <select id="anrede" required>
+      <option value="">Bitte wählen</option>
+      <option value="Frau">Frau</option>
+      <option value="Herr">Herr</option>
+      <option value="Divers">Divers</option>
+    </select>
+  </label>
+
+  <label>Titel (optional):<br>
+    <select id="titel">
+      <option value="">Kein Titel</option>
+      <option value="Mag.">Mag.</option>
+      <option value="Dr.">Dr.</option>
+      <option value="Prof.">Bsc.</option>
+      <option value="Prof.">Msc.</option>
+      <option value="Prof.">Dipl. Ing.</option>
+    </select>
+  </label>
+
+  <label>Vorname*:<br><input type="text" id="vorname8h"></label>
+  <label>Nachname*:<br><input type="text" id="nachname8h"></label>
+  <label>E-Mail*:<br><input type="email" id="email8h"></label>
+  <label>Straße:<br><input type="text" id="strasse"></label>
+  <label>PLZ:<br><input type="text" id="plz"></label>
+  <label>Ort:<br><input type="text" id="ort"></label>
+  <label>Land:<br><input type="text" id="land"></label>
+  <label>UID (wenn vorhanden):<br><input type="text" id="uid"></label>
+  <label>Mitteilung:<br><textarea id="mitteilung"></textarea></label>
+  <label><input type="checkbox" id="newsletter"> Ich möchte den Newsletter erhalten</label>
     <button id="zahlungBtn8h" disabled onclick="weiterleiten8h()">Zur Zahlung (Stripe)</button>
   </div>
 </div>
@@ -260,11 +324,42 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
     <label><input type="checkbox" id="widerruf6hpink"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
   </div>
 
-  <div id="formular6hpink" class="stufe">
+
+  <div id="formular6hpink" class="stufe" data-termin="Mo, 13.10.2025  (Bgld)">
+  <p><span class="tuerkis">3. Melde dich hier an:</span></p>
+
+  <input type="hidden" id="termin">
+
+
+  <label>Anrede*:<br>
+    <select id="anrede" required>
+      <option value="">Bitte wählen</option>
+      <option value="Frau">Frau</option>
+      <option value="Herr">Herr</option>
+      <option value="Divers">Divers</option>
+    </select>
+  </label>
+
+  <label>Titel (optional):<br>
+    <select id="titel">
+      <option value="">Kein Titel</option>
+      <option value="Mag.">Mag.</option>
+      <option value="Dr.">Dr.</option>
+      <option value="Prof.">Bsc.</option>
+      <option value="Prof.">Msc.</option>
+      <option value="Prof.">Dipl. Ing.</option>
+    </select>
+  </label>
     <p><span class="tuerkis">3. Melde dich hier an:</span></p>
     <label>Vorname*:<br><input type="text" id="vorname6hpink"></label>
     <label>Nachname*:<br><input type="text" id="nachname6hpink"></label>
     <label>E-Mail*:<br><input type="email" id="email6hpink"></label>
+    <label>Straße:<br><input type="text" id="strasse"></label>
+  <label>PLZ:<br><input type="text" id="plz"></label>
+  <label>Ort:<br><input type="text" id="ort"></label>
+  <label>Land:<br><input type="text" id="land"></label>
+  <label>UID (wenn vorhanden):<br><input type="text" id="uid"></label>
+  <label>Mitteilung:<br><textarea id="mitteilung"></textarea></label>
     <label><input type="checkbox" id="newsletter6hpink"> Ich möchte den Newsletter erhalten</label>
     <button id="zahlungBtn6hpink" disabled onclick="weiterleiten6hpink()">Zur Zahlung (Stripe)</button>
   </div>

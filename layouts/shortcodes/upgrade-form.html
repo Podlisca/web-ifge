@@ -17,7 +17,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    const boxes = document.querySelectorAll('.kursbox');
+    const boxes = document.querySelectorAll('.kursbox, .aufstellung-box');
     const upgrade = document.getElementById('upgrade-form');
 
     if (!upgrade) return;
@@ -36,7 +36,7 @@
           return form.querySelector(selector)?.value.trim() || '';
         };
 
-        const produkt = box.querySelector('h2')?.textContent.trim() || 'Unbekanntes Produkt';
+        const produkt = box.querySelector('h2, h4')?.textContent.trim() || 'Unbekanntes Produkt';
         const anrede = getVal('select[required]');
         const titel = getVal('select:not([required])');
         const vorname = getVal('input[type="text"]', 0);
