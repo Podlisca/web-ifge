@@ -133,8 +133,20 @@
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 
 
+<!-- NEU: Termin-Feld automatisch setzen -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const formularBoxen = document.querySelectorAll('[id^="formular"][data-termin]');
+    formularBoxen.forEach(box => {
+      const hiddenInput = box.querySelector('input#termin');
+      const terminText = box.getAttribute('data-termin');
+      if (hiddenInput) hiddenInput.value = terminText;
+    });
+  });
+</script>
 
 </body>
+
 
 </html>
 

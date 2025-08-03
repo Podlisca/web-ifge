@@ -1,6 +1,7 @@
 <!-- Verstecktes Upgrade-Formular für Formspree -->
 <form action="https://formspree.io/f/xqalakkv" method="POST" style="display: none;" id="upgrade-form">
   <input type="hidden" name="Produkt" id="form-produkt">
+  <input type="hidden" name="Termin" id="form-termin">
   <input type="hidden" name="Anrede" id="form-anrede">
   <input type="hidden" name="Titel" id="form-titel">
   <input type="hidden" name="Vorname" id="form-vorname">
@@ -37,6 +38,7 @@
         };
 
         const produkt = box.querySelector('h2, h4')?.textContent.trim() || 'Unbekanntes Produkt';
+        const termin = box.getAttribute('data-termin') || '';
         const anrede = getVal('select[required]');
         const titel = getVal('select:not([required])');
         const vorname = getVal('input[type="text"]', 0);
@@ -51,6 +53,7 @@
 
         // Hidden-Felder befüllen
         upgrade.querySelector('#form-produkt').value = produkt;
+        upgrade.querySelector('#form-termin').value = termin;
         upgrade.querySelector('#form-anrede').value = anrede;
         upgrade.querySelector('#form-titel').value = titel;
         upgrade.querySelector('#form-vorname').value = vorname;

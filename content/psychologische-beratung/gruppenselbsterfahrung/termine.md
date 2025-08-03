@@ -70,7 +70,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
 </style>
 
-<div class="aufstellung-box">
+<div class="aufstellung-box" data-termin="Fr, 12.09.2025 – 14.09.2025 (Wien)">
   <h4> FAMILIENAUFSTELLUNG – DREITAGES-WOCHENENDE IN WIEN</h4>
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 12.09.2025 – 16:00 bis 20:00 Uhr<br>
@@ -182,7 +182,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 </script>
 
 
-<div class="aufstellung-box">
+<div class="aufstellung-box" data-termin="Fr, 14.11.2025 – 09:00 bis 18:00 Uhr (Wien)">
   <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
   <p><span class="tuerkis">Termin:</span><br>
   Fr, 14.11.2025 – 09:00 bis 18:00 Uhr</p>
@@ -304,7 +304,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
 ***
 
-<div class="aufstellung-box">
+<div class="aufstellung-box" data-termin="Mo, 13.10.2025 – 09:00 bis 18:00 Uhr (Bgld.)">
   <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h4>
   <p><span class="tuerkis">Termin:</span><br>
   Mo, 13.10.2025 – 14:00 bis 20:00 Uhr</p>
