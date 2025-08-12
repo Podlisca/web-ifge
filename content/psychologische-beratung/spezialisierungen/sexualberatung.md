@@ -37,6 +37,8 @@ og_image: "/img/wien_silvia.jpg"
 
 {{% /floatbox %}}
 
+{{< line icon="icon/sexualberatung.png" >}}
+
 {{< sexualzufriedenheit >}}
 
 
@@ -101,6 +103,8 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 <div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
 📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
 ✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+<br>
+
 </div>
 
 {{% /floatbox %}}
