@@ -12,8 +12,6 @@ summaryLength = 30
 tag = "tags"
 category = "categories"
 
-[markup.goldmark.renderer]
-unsafe = true
 
 [params]
 rich_provider = "IFGE"
@@ -79,6 +77,11 @@ class = "highlight-button"
 name = "Soforthilfe"
 url = "/soforthilfe/"
 weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 
