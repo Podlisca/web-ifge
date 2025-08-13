@@ -2,7 +2,7 @@
 title: "Hart, aber einfühlsam. Karriere, aber 100% Vater. Ein neues Männerbild?"
 draft: draft
 tags: ["Familie", "Pädagogik"]
-weight: 134
+weight: 138
 img: "maennerbild.jpg"
 og_image: "/img/maennerbild.jpg"
 description: "Männer übernehmen wie alle anderen Menschen in unserer Gesellschaft viele Rollen. Sie sind Mitarbeiter, Berufstätige, (Ehe-)Partner, Väter, Söhne, Brüder, Freunde und vieles mehr. Diese Rollen haben Männer in gewisser Weise schon immer übernommen und doch befindet sich das Männerbild seit einiger Zeit im Wandel. Wir nehmen das als Anlass für unseren aktuellen Blog. "

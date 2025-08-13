@@ -2,7 +2,7 @@
 title: "Die IFGE-Online-Akademie: Portrait, Philosophie und Perspektiven."
 draft: draft
 tags: ["Digitalisierung", "Bildung", "Sozialberuf"]
-weight: 135
+weight: 134
 img: "blog_135.jpg"
 og_image: "/img/silvia_onlineakdademie.jpg"
 description: "Kennen Sie schon die neue IFGE-Online-Akademie? Seit Herbst 2022 bieten wir hier **100%-Online-Lehrgänge**. Wie es dazu kam, was die Vorteile für Sie sind und was uns bei digitalen Kursen wichtig ist, lesen Sie in diesem Blog. Los geht’s..."

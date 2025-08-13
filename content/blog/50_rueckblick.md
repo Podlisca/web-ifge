@@ -2,7 +2,7 @@
 title: "Jahresende, Jahresbeginn. Zeit für Rück- und Ausblick."
 draft: draft
 tags: ["Pädagogik", "Bildung"]
-weight: 137
+weight: 50
 img: "rueckblick.jpg"
 og_image: "/img/rueckblick.jpg"
 description: "Ein Blick auf den Kalender macht klar, dass sich das Jahr dem Ende zuneigt. Nicht mehr lange und 2022 mit 12 Monaten und 365 Tagen endet. Nicht mehr lange und 2023 mit 12 Monaten und 365 Tagen beginnt."
