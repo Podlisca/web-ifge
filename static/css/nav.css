@@ -1,155 +1,168 @@
 @import "theme.css";
 
-/* Add a black background color to the top navigation */
+/* ===========================
+   Top Navigation – Base
+   =========================== */
 
 .topnav {
   color: white;
   display: flex;
-  align-items: flex-start;
-  flex-wrap: wrap;
-  justify-content: flex-end;  
-  max-width: 740px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: nowrap;            /* verhindert Umbruch-Sprünge */
+  width: 100%;
+  min-height: 56px;             /* Platz reservieren -> weniger CLS */
+  position: relative;
 }
 
-/* Style the links inside the navigation bar */
-
-.topnav a, .topnav .has-dropdown {  
+/* Links und Dropdown-Trigger */
+.topnav a,
+.topnav .has-dropdown {
   display: block;
   color: inherit;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  line-height: 1;
 }
 
-.topnav .has-dropdown:hover {
-  cursor: default;
-}
-
-.topnav .active, .topnav .desktop .has-dropdown:hover {    
+/* Aktiver Link / aktives Dropdown */
+.topnav .active,
+.topnav .desktop .has-dropdown:hover {
   background: var(--color-creme);
   color: var(--color-red);
 }
 
-.desktop .has-dropdown:hover svg, .topnav .active svg {
-  fill: var(--color-red);
-}
-
-/* Add an active class to highlight the current page */
-
-.dropdown-content a.active {  
-  color: var(--color-red);
-  background-color: var(--color-creme);
-}
-
-.dropdown-content .subtitle {
-  padding: 8px;
-  padding-top: 12px;
-  padding-left: 16px;
-  font-weight: bold;
-}
-.dropdown-content .subcontent {
-  margin-left: 2rem;
-}
-
-/* Hide the link that should open and close the topnav on small screens */
-
-.topnav .icon {
-  display: none;
-}
-
-/* Dropdown container - needed to position the dropdown content */
-
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-
+/* Invertierte Variante (z. B. Button/CTA) */
 .topnav .invert {
   background-color: var(--color-red);
   color: var(--color-creme);
 }
 
-/* Style the dropdown button to fit inside the topnav */
+/* Burger-Icon standardmäßig ausblenden (wird mobil angezeigt) */
+.topnav .icon {
+  display: none;
+}
+
+/* ===========================
+   Dropdown Basis
+   =========================== */
+
+.dropdown {
+  position: relative;
+  float: left;
+  overflow: visible;
+}
 
 .dropdown .dropbtn {
   font-size: 17px;
   border: none;
   outline: none;
-  color: white;
+  color: inherit;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
+  cursor: pointer;
 }
-
-/* Style the dropdown content (hidden by default) */
 
 .dropdown-content {
   color: white;
-  display: none;
+  display: none;                        /* wird per Hover/JS sichtbar */
   position: absolute;
+  left: 0;
+  top: 100%;
   background-color: var(--color-green);
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
-  z-index: 1;
+  min-width: 220px;
+  box-shadow: 0 8px 16px rgba(0,0,0,.5);
+  z-index: 1000;
 }
 
-/* Style the links inside the dropdown */
-
+/* Links im Dropdown */
 .dropdown-content a {
-  float: none;
+  display: block;
   padding: 8px 16px;
   text-decoration: none;
-  display: block;
+  color: inherit;
   text-align: left;
+  white-space: nowrap;
 }
 
-/* Add a dark background on topnav links and the dropdown button on hover */
+/* Untertitel / Gruppen */
+.dropdown-content .subtitle {
+  padding: 12px 16px 8px;
+  font-weight: bold;
+}
 
-.mobile .topnav a:hover, .dropdown:hover .dropbtn {
+.dropdown-content .subcontent {
+  margin-left: 2rem;
+}
+
+/* Hover-Zustände (Desktop) */
+.topnav a:hover,
+.dropdown:hover .dropbtn {
   background-color: var(--color-creme);
   color: var(--color-red);
 }
-
-/* Add a grey background to dropdown links on hover */
 
 .dropdown-content a:hover {
   background-color: var(--color-creme);
   color: var(--color-red);
 }
 
-/* Show the dropdown menu when the user moves the mouse over the dropdown button */
+/* Aktive Links im Dropdown markieren */
+.dropdown-content a.active {
+  color: var(--color-red);
+  background-color: var(--color-creme);
+}
 
+/* Dropdown auf Desktop bei Hover zeigen */
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
-.submenu-toggler {
-  display: none;
-  width: 3em;
-}
-.topnav .dropdown .mobile {
-  display: none;
+/* ===========================
+   Pfeil-/Icon-Stile
+   =========================== */
+
+div.has-dropdown svg {
+  width: 10px;
+  height: auto;
+  fill: currentColor;                   /* folgt Textfarbe */
+  transition: transform 200ms ease;
 }
 
-/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+/* Rot färben bei aktiven/hovernden Items */
+.desktop .has-dropdown:hover svg,
+.topnav .active svg {
+  fill: var(--color-red);
+}
 
-@media screen and (max-width: 700px), (pointer: coarse) {
-  /* .topnav a:not(:first-child), .dropdown .dropbtn { */
-  .topnav a, .dropdown {
+/* Standard: auf Mobile leicht gekippt (zeigt Submenü) */
+.mobile div.has-dropdown svg {
+  transform: rotate(-90deg);
+}
+
+/* ===========================
+   Mobile / kleine Screens
+   =========================== */
+
+/* Nur echte schmale Screens, keine pauschale Touch-Abfrage */
+@media screen and (max-width: 700px) {
+  /* Standardmäßig: Links & Dropdowns verstecken; nur Icon zeigen */
+  .topnav a,
+  .dropdown {
     display: none;
   }
   .topnav a.icon {
-    float: right;
     display: block;
     font-size: 1.5em;
+    padding: 12px 16px;
+    margin-left: auto;
   }
-}
 
-/* The "show" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-
-@media screen and (max-width: 700px), (pointer: coarse) {
+  /* Geöffnetes Mobile-Menü */
   .topnav.show {
     position: absolute;
     background-color: var(--color-green);
@@ -157,87 +170,89 @@
     left: 0;
     width: 100%;
     flex-direction: column;
-    z-index: 99;
+    z-index: 9999;
   }
+
   .topnav.show > div {
     width: 100%;
   }
 
-  .topnav.show a, .topnav.show > div {
-    float: none;
-    
+  .topnav.show a,
+  .topnav.show > div {
     display: block;
     text-align: left;
     border-top: 1px solid var(--color-dark);
-    border-bottom: 1px rgba(0,0,0,.15) solid;    
+    border-bottom: 1px solid rgba(0,0,0,.15);
   }
+
   .topnav.show a {
-    padding: 0.5rem 1em;
+    padding: 12px 16px;
   }
-  .topnav.show .submenu-toggler {
+
+  .submenu-toggler {
     display: block;
+    width: 3em;
   }
+
+  .topnav .dropdown .mobile { display: none; } /* Basis: aus */
+  .topnav .dropdown .desktop { display: none; }
+
+  /* Dropdowns im Mobile-Menü – per JS .dropdown.show toggeln */
   .topnav.show .dropdown {
+    display: block;
     float: none;
   }
-  .topnav.show .dropdown-content {
-    position: relative;
-    margin-left: 20px;
-    /* box-shadow: -7px 1px 0px 0px rgba(0, 0, 0, 0.2); */
-  }
-  .topnav.topnav.show .icon {
-    align-self: flex-end;    
-  }
-  .topnav.topnav.show .icon a {
-    width: none;
-  }
+
   .topnav.show .dropdown .dropbtn {
     display: block;
     width: 100%;
     text-align: left;
   }
-  .dropdown:hover .dropdown-content {
-    display: none;
+
+  .topnav.show .dropdown-content {
+    position: relative;          /* nicht absolut im Mobile */
+    top: 0;
+    left: 0;
+    margin-left: 20px;
+    min-width: 0;
+    box-shadow: none;
+    display: none;               /* Standard: zu */
   }
-  .topnav.topnav.show .show .dropdown-content {
+
+  /* KORREKT: Dropdown-Inhalt zeigen, wenn .dropdown.show gesetzt */
+  .topnav.show .dropdown.show .dropdown-content {
     display: block;
   }
-  .topnav.show .submenu-toggler a {
-    border-bottom-width: 0px;
-  }
-  
-  .topnav.show .dropdown .mobile {
-    display: block;
-  }
-  .topnav.show .dropdown .desktop {
-    display: none;
-  }
+
+  /* Mobile-spezifische Blöcke (falls verwendet) */
+  .topnav.show .dropdown .mobile { display: block; }
+
+  /* Rechtsbündige Hilfslinks im Mobile-Menü */
   .topnav.show .toggleResponsive a {
     text-align: right;
   }
+
+  /* Hover auf Touch vermeiden: kein Hover-Open im Mobile */
+  .dropdown:hover .dropdown-content {
+    display: none;
+  }
 }
 
-.dropdown.show .has-dropdown svg {
-  transform: rotate(0);  
+/* ===========================
+   Touch-Optimierung auf größeren Touch-Devices
+   =========================== */
+
+@media (pointer: coarse) and (min-width: 701px) and (max-width: 1024px) {
+  /* Hover-Öffnen deaktivieren – nur Klick/JS */
+  .dropdown:hover .dropdown-content { display: none; }
 }
 
-div.has-dropdown svg {
-  fill: white;
-  width: 10px; 
-  height: auto;
-  transition: ease 200ms;
-}
+/* ===========================
+   Barrierefreiheit & Motion
+   =========================== */
 
-.mobile div.has-dropdown svg {
-  transform: rotate(-90deg);  
+@media (prefers-reduced-motion: reduce) {
+  div.has-dropdown svg {
+    transition: none;
+  }
 }
-
-.mobile .has-dropdown {
-  padding: 0;
-}
-
-.mobile .has-dropdown a span {
-  font-size: 0.5em;
-  margin-left: 3px;
-}
-
