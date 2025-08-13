@@ -4,7 +4,7 @@ menu:
     main:
         parent: upgrade_akademie
         identifier: hypno_system_flow
-draft: false
+draft: true
 weight: 6
 description: "In dieser umfassenden Ausbildung erlernst du die einzigartige Verbindung von Hypnose und systemischen Ansätzen, um Menschen in ihrer persönlichen Entwicklung zu unterstützen."
 og_image: "/img/hyno_neu.png"
