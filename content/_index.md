@@ -63,22 +63,51 @@ og_image: "/img/hollandst.jpg"
 
 <section class="ifge-kartenbereich">
   <div class="karten-container">
-    <div class="karte">
-      <img src="/img/icon/familienaufstellung.png" alt="Icon Beratung" class="karten-icon">
-      <h2><a href="https://www.ifge.at/psychologische-beratung/einzelberatung/" target="_blank">PSYCHOLOGISCHE BERATUNG</a></h2>
-      <p>Wenn du in einer belastenden Situation steckst, begleite ich dich – mit Herz, Klarheit und über 25 Jahren Erfahrung. Ob persönlich, online oder mit Hund: Du darfst dich verstanden fühlen – als Einzelperson, in der Partnerschaft oder im Familiensystem.</p>
-    </div>
-    <div class="karte">
-      <img src="/img/icon/familienaufstellung.png" alt="Icon Aufstellung" class="karten-icon">
-     <h2><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">FAMILIENAUFSTELLUNG</a></h2>
-      <p>Oft sind es unsichtbare Bindungen, die dich zurückhalten. In Aufstellungen – einzeln oder in der Gruppe – eröffne ich dir einen Raum, um mit systemischer Klarheit und Mitgefühl neue Perspektiven zu entdecken und dich zu stärken.</p>
-    </div>
-    <div class="karte">
-      <img src="/img/icon/familienaufstellung.png" alt="Icon Ausbildung" class="karten-icon">
-     <h2><a href="https://www.ifge.at/onlineakademie/" target="_blank">AUSBILDUNGSANGEBOTE</a></h2>
-      <p>Du möchtest selbst beratend arbeiten? In der IFGE Akademie und mit SinnSex vermittle ich dir fundiertes Wissen aus Praxis und Wissenschaft. Du lernst systemisch, kultursensibel und mit dem Blick auf das, was deine Klient:innen wirklich stärkt.</p>
-    </div>
-  </div>
+<div class="karte">
+  <img src="/img/icon/familienaufstellung.png" alt="Icon Beratung" class="karten-icon">
+  <h2>
+    <a href="https://www.ifge.at/psychologische-beratung/einzelberatung/" target="_blank">
+      PSYCHOLOGISCHE BERATUNG
+    </a>
+  </h2>
+  <p>
+    Wenn du in einer belastenden Situation steckst, begleite ich dich – mit Herz, Klarheit und über 25 Jahren Erfahrung. 
+    Ob <a href="https://www.ifge.at/psychologische-beratung/einzelberatung/" target="_blank">persönlich</a>, 
+    online oder <a href="https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/" target="_blank">mit Hund</a>: 
+    Du darfst dich verstanden fühlen – als Einzelperson, in der 
+    <a href="https://www.ifge.at/psychologische-beratung/paarberatung/" target="_blank">Partnerschaft</a> 
+    oder im <a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familiensystem</a>.
+  </p>
+</div>
+
+<div class="karte">
+  <img src="/img/icon/familienaufstellung.png" alt="Icon Aufstellung" class="karten-icon">
+  <h2>
+    <a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">
+      FAMILIENAUFSTELLUNG
+    </a>
+  </h2>
+  <p>
+    Oft sind es unsichtbare Bindungen, die dich zurückhalten. In Aufstellungen – 
+    <a href="https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/" target="_blank">einzeln</a> 
+    oder in der 
+    <a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Gruppe</a> – 
+    eröffne ich dir einen Raum, um mit systemischer Klarheit und Mitgefühl neue Perspektiven zu entdecken und dich zu stärken.
+  </p>
+</div>
+
+<div class="karte">
+  <img src="/img/icon/familienaufstellung.png" alt="Icon Ausbildung" class="karten-icon">
+  <h2><a href="https://www.ifge.at/onlineakademie/" target="_blank">AUSBILDUNGSANGEBOTE</a></h2>
+  <p>
+    Du möchtest selbst beratend arbeiten? In der 
+    <a href="https://www.ifge.at/onlineakademie/" target="_blank">IFGE Onlineakademie</a> 
+    und mit <a href="https://sinnsex.at/" target="_blank">SinnSex</a> 
+    vermittle ich dir fundiertes Wissen aus Praxis und Wissenschaft. 
+    Du lernst systemisch, kultursensibel und mit dem Blick auf das, was deine Klient:innen wirklich stärkt.
+  </p> 
+</div>
+
 
   {{% /box %}}
 
