@@ -37,7 +37,7 @@ og_image: "/img/wien_silvia.jpg"
 
 {{% /floatbox %}}
 
-{{< line icon="icon/sexualberatung.png" >}}
+***
 
 {{< sexualzufriedenheit >}}
 
