@@ -252,6 +252,8 @@ og_image: "/img/hollandst.jpg"
 <!-- Jetzt startet der Slider-Bereich außerhalb des türkisen Feldes -->
 <section class="slider-bereich">
 
+
+
   {{% box top-align=1 %}}
 
   {{% small  %}}
@@ -266,4 +268,9 @@ og_image: "/img/hollandst.jpg"
 
   {{% /box %}}
 
+
+
 </section>
+
+
+

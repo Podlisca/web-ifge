@@ -37,6 +37,17 @@ Bedarf es in der heutigen Zeit überhaupt noch einer gesonderten Erwähnung eine
 
 Gerade in unserer Zeit, in der vermeintliche und oberflächliche Offenheit propagiert wird, erscheint es mir besonders wichtig, sich mit dem zu beschäftigen, was unter der Oberfläche passiert. Und dort erleben Schwule, Lesben und Bi-Sexuelle auch in unserer vordergründig so weltoffenen Zeit immer noch offensichtliche – aber vor allem versteckte – Diskriminierungen. Viele gleichgeschlechtlich lebende und liebende erleben dabei ein Paradoxon unseres Zeitalters: Einerseits wird Offenheit in jeder Richtung als cool und hip wahrgenommen, etwa wenn bei Paraden wild tanzend und ausgelassen Regenbogenfahnen geschwenkt werden, andererseits gibt es da noch den Alltag, in dem Tante Hertha immer noch bei jedem Weihnachtsessen nachfragt, ob nicht vielleicht doch noch irgendwann auf Vater, Mutter, Kind zu hoffen ist, und in dem der rückständige Arbeitskollege die lesbische Kollegin fragt: „Na, was wäre, wenn du’s mal mit einem richtigen Mann probierst?“
 
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
+
 ### GLEICHGESCHLECHTLICHE LIEBE IN EINER HETERONORMATIVEN WELT
 
 {{< image src="/img/gleichgeschlechtlich_3.jpg" float="right" title="Bildbeschreibung" >}} 
@@ -50,6 +61,15 @@ Und neben den vielen Alltagsdiskriminierungen bewegen sich homosexuelle Menschen
 Besonders in Bereichen, in denen vermeintlich mit Sexualität und sexueller Orientierung sehr frei umgegangen wird, fällt es vielen Menschen schwer, sich überhaupt zu öffnen und drängende Fragen sowie Anliegen zu besprechen. Die grundsätzlich begrüßenswerte Strömung der Neosexualität bringt ebenso mit sich, dass wir Menschen an uns den Anspruch stellen, bereits alles wissen zu müssen, was es im Bereich von Liebe und Sex zu wissen gibt. Und selbst in dem Fall, dass der Kopf tatsächlich sehr viel weiß und das meiste davon rational verarbeiten kann, so bleiben dennoch häufig Gefühle und Empfindungen, die sich noch nicht einordnen lassen und die immer wieder Fragen aufwerfen. Doch Sie sind mit Ihren Fragen und Anliegen nicht alleine und auch nicht mit Ihren inneren Widersprüchlichkeiten, die Sie – wie viele andere Menschen – vielleicht empfinden.
 <br/>
 <br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/paar_sexualberatung.png" >}}
 
 ### COMING-OUT
 
@@ -66,6 +86,17 @@ Denn die inneren Diskrepanzen gehören zum Menschsein dazu und beschäftigten pr
 Der Wunsch nach Zugehörigkeit ist uns Menschen angeboren und damit tief in uns verankert. Denn im Gegensatz zu anderen Lebewesen sind wir als Baby und auch noch als Kleinkind völlig abhängige Wesen. Dieser angeborene Wunsch nach Zugehörigkeit sichert uns Menschen damit das Überleben und ist somit existentiell. Gerade als homosexueller Mensch kann genau dieser Wunsch häufig zu inneren Unsicherheiten führen. Denn wo fühlen wir uns in einer heteronormativen Welt zugehörig, wenn wir uns aufgrund unserer Zweifel auch in der homosexuellen Community nicht Willkommen fühlen?
 
 Ich lade Sie herzlich ein, sich am IFGE in Wien Willkommen zu fühlen, mit all dem, was Sie als Mensch ausmacht und mit dem, was Sie beschäftigt. Psychologische Beratung bedeutet auch professionelle Unterstützung dabei, sich den eigenen widersprüchlichen Empfindungen bewusst zu werden und diese miteinander in Einklang zu bringen.
+
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 

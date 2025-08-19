@@ -35,6 +35,17 @@ Wenig ist für Angehörige auf Dauer zermürbender als das Zusammenleben mit ein
 
 Letztlich geht es nicht um die Substanz, von welcher die Angehörigen abhängig sind, denn jede Abhängigkeit bedeutet in letzter Konsequenz den Ruin – sowohl den körperlichen als auch den existenziell-finanziellen. Die ständige Angst um Vater, Mutter, Kinder oder Geschwister, die in eine Abhängigkeit geschlittert sind, ist allgegenwärtig und genauso präsent wie die Sucht an sich. Die Sucht der anderen spielt im Leben von Angehörigen eine mindestens ebenso große Rolle wie für die Betroffenen selbst. 
 
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/angehoerige.png" >}}
+
 {{< image src="/img/sucht2_wien.jpg" float="right" title="Wo immer Sie geradestehen, ich habe ein offenes Ohr für ihre Ängste, Sorgen und bin gerne für Sie da. Wertungen, Ratschläge wie, Sie sollten ihren Mann/ihre Frau verlassen, werden Sie bei mir in der psychologischen Beratung nicht hören. Wie immer Ihr individueller Lösungsweg aussieht, psychologische, systemische Beratung und Familienaufstellungen helfen dabei Klarheit für Sie zu finden." >}}
 
 So betet die ängstliche Ehefrau etwa jeden Abend im Bett, dass ihr Mann nur hoffentlich nicht wieder betrunken von der Feier nach Hause fährt – wie schon so oft. Die Angst, es könnte ihrer großen Liebe etwas geschehen, oder ihr Mann könnte für den Tod eines unschuldigen Verkehrsteilnehmers verantwortlich werden, quält Angehörige mitunter nächtelang.
@@ -49,6 +60,17 @@ Sie haben vielleicht schon miterlebt, wie bisherige Selbstversuche Ihres Familie
 
 Gleichzeitig setz Ihnen die seit Kurzem – vorwiegend beim Thema Alkohol –  neu gelebte Philosophie zu, die abhängig machende Substanz nicht vollends auf Null zu setzen. Dieser immer wieder zu beobachtende Umgang mit Abhängigen hilft zwar den Süchtigen kurzfristig, da für diese der absolute und dauerhafte Verzicht als unüberwindbare und unvorstellbare Hürde gilt, für Sie jedoch bedeutet diese Herangehensweise – oftmals berechtigte – Sorgen und Ängste. 
 
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/angehoerige.png" >}}
+
 {{< image src="/img/noe_einzel7.jpg" float="left" title="In der psychologischen Beratung merken Sie wieder wie wichtig SIE sind. Auch Sie haben ein Recht auf ein erfülltes Leben voller Zukunftsaussichten und Hoffnung. Sie können wahrscheinlich nicht die an der Sucht erkrankten Person helfen oder sie gar retten, aber Sie können sich helfen UND sogar retten. Ich unterstütze Sie gerne dabei.">}} 
 
 Zu oft haben Sie vielleicht schon beobachtet, wie der abhängige Mensch, dem Sie nahe stehen, bei der ersten Krise wieder einen Rückfall erlebt und der belastende Teufelskreis für Sie von vorne losgeht. 
@@ -60,6 +82,18 @@ Und dies ist ein zu hoher Preis für Sie!
 Ich möchte nochmals erwähnen, dass das Zusammenleben mit einem oder einer Abhängigen zu den zermürbendsten und kräfteraubendsten Belastungen im Alltag gehört– ähnlich wie das gemeinsame Leben mit Depressiven oder schwer kranken Menschen. Gerade bei diesem Thema möchte ich die strenge Verschwiegenheit, der ich unterliege, noch einmal besonders betonen.
 
 Hier bei mir am IFGE stehen Sie mit Ihren Gedanken, Wünschen, Sorgen, Ängsten und Hoffnungen im Vordergrund. Sie finden hier einen Raum, an dem Sie nicht stark oder vorsichtig sein oder sich rechtfertigen müssen, sondern an dem Sie Platz für Sie ganz persönlich haben. Hier dürfen Sie einfach alles sagen, wonach Ihnen gerade ist. Dadurch finden Sie in der Beratung neue Möglichkeiten und individuelle Lösungen, wie Sie mit Ihrem Thema in Zukunft auf eine für Sie gesunde und stärkende Weise umgehen können.
+
+
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 

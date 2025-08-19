@@ -35,6 +35,15 @@ Das Wort „Burn-out“ ist dabei seit Jahren in aller Munde und aus dem geschä
 
 Je nachdem welches Erklärungsmodell herangezogen wird, entwickelt sich ein Burn-out in sieben oder zwölf Stufen bis zum Stadium der völligen Erschöpfung. Spätestens in diesem Stadium ist das Burn-out, welches zu diesem Zeitpunkt bereits einer Depression sehr ähnlich ist, professionell nur mehr durch ärztliche und psychotherapeutische Begleitung zu behandeln. 
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/burn_out.png" >}}
+
 Lassen Sie es nicht so weit kommen. Je früher Sie die Hilfe der psychologischen Beratung in Anspruch nehmen, umso leichter finden Sie wieder in Ihre gewohnte Kraft zurück. In der Beratung werden Sie Stück für Stück entdecken, wie Sie das Gefühl der Ohnmacht hinter sich lassen können, um Ihren Alltag wieder selbstbestimmt und aktiv zu gestalten. 
 
 {{< image src="/img/burnout_beratung.jpg" float="right" title="Bildbeschreibung" >}}
@@ -52,6 +61,14 @@ Dazu gehört, dass dieser Zustand mittlerweile gerne als Synonym für stressige 
 Menschen, die sich einem tatsächlichen Burn-out nähern, empfinden dadurch oft eine große Hemmschwelle, sich Hilfe zu holen. Die Sorge, dass die eigenen, nagenden Gefühle lapidar mit „Also dann streng dich halt mehr an“ oder „Das darfst du nicht so ernst nehmen“ abgetan werden, hindert Betroffene immer wieder daran, präventive Beratung in Anspruch zu nehmen. 
 
 Dabei sind gerade diese verinnerlichten Sätze wie „Ich muss stark und perfekt sein“ oder „Da muss ich jetzt durchbeißen“ erste recht deutliche Warnsignale, die unbedingt ernst genommen werden sollten.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
 
 {{< line icon="icon/burn_out.png" >}}
 

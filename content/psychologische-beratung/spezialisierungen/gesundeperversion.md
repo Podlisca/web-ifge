@@ -45,8 +45,18 @@ So mancher sexuellen Spielart haftet ein wenig Verruchtes, ja sogar etwas fast V
 Dieser befreite, lustvolle Umgang mit den eigenen sexuellen Bedürfnissen und die daraus entstehende Mega-Lust scheint für viele Menschen auch heute noch fast unerreichbar. Dadurch entsteht häufig Neid auf jene Menschen, die sich ihrer Sexualität völlig befreit – ja sogar enthemmt – hingeben. Diese unterschwellige Missgunst nährt auch heute noch so manche Glaubenssätze. Diese Glaubenssätze sind tief und fest in uns verankert: 
 
 „Das ist doch krank“, „Gute Frauen machen so etwas nicht“, „Ein richtiger Mann kann sich nicht fesseln lassen“, „Das ist ungesund“. Mir ist wichtig zu betonen, dass vieles „normaler“ ist, als so manche meiner Klient:innen denken. Sie sind also keineswegs verrückt, wenn Sie besondere Vorlieben, Fetische oder Beziehungsmodelle ausleben möchten.
+
+
 <br/>
-<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/sexualberatung.png" >}}
 
 {{< image src="/img/perversion_bgld1.jpg" float="left" title="Bildbeschreibung" >}} 
 
@@ -60,6 +70,15 @@ Ich begrüße diesen Paradigmenwechsel, der auch in der Sexualberatung stattfind
 
 Doch wenn aus der gesunden Würze – der ausgewogenen Perversion – nach und nach ein gewisser Leidensdruck entsteht, ist es wichtig, einen neuen Umgang mit der eigenen Sexualität zu finden, der er ermöglicht, Bedürfnisse lustvoll, gesund und befreit in Ihre Sexualität integrieren zu können. Wesentlich ist in der Sexualberatung heute also weniger, ob etwas im Allgemeinen (noch) gesund ist, sondern viel eher, wie Sie einen gesunden und vor allem risikofreien Umgang mit Ihren Bedürfnissen finden oder erhalten können. 
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/sexualberatung.png" >}}
+
 Durch meine langjährige Erfahrung in der Sexualberatung ist mir bewusst, dass sich viele Menschen die Frage stellen, ob das, was sie zu sexuellen Höhenflügen bewegt, noch gesund ist. Oder ob jener Fetisch vielleicht sogar „krank“ sein könnte? Eben jene Gedanken können vielfach von anfänglicher Besorgnis über Ängste bis hin zur völligen Lustlosigkeit führen. Was gerade noch zu einem absoluten Lustgewinn geführt hat, kann im nächsten Augenblick Scham und Unsicherheit erzeugen oder aber der absolute Lustgewinn wird sich selbst versagt, weil man meint, dass sich dies nicht gehöre. Diese ambivalenten Gefühle können so weit gehen, dass sich Menschen das offene Ausleben ihrer Sexualität bewusst verbieten. Dieser Verzicht kann im Extremfall eine Störung der eigenen Lust  zur Folge haben.
 
 {{< image src="/img/bgld_perversion.jpg" float="right" title="Bildbeschreibung" >}}
@@ -69,6 +88,15 @@ Doch der Leidensdruck rund um sexuelle Perversionen kann auch in einer gegensät
 Oftmals beginnt dann schleichend ein gefährliches Spiel unter dem Namen „höher, schneller, weiter“, um ein konstantes Lustlevel erreichen zu können. Die Phantasien werden z. B. extremer und allumfassender. 
 
 Sie drängen sich in jede noch so alltägliche Situation, fordern ihren Platz bei den unpassendsten Gelegenheiten und nehmen Betroffene immer weiter ein, wodurch das sexuelle Erleben zur aufreibenden Belastung wird. 
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/sexualberatung.png" >}}
 
 Wenn ein Mensch immer extremere Varianten des gleichen Spiels benötigt, kann sein Bedürfnis irgendwann nicht mehr befriedigt werden – ohne sich selbst oder andere zu belasten oder gar zu gefährden. Bevor ein derart frustrierender und risikobehafteter Zustand entsteht – spätestens aber, wenn dieser bereits entstanden ist –, lege ich Ihnen professionelle Unterstützung durch die psychologische Beratung besonders ans Herz!
 
@@ -80,7 +108,16 @@ Wo immer Sie sich in Ihren Gedanken gerade zwischen belastender, gelebter Sexual
 
 In der Sexualberatung entdecken Sie Ihre Sexualität für sich selbst völlig neu und können erleben, wie Sie Zugang zu Ihren inneren – oft tief – verborgenen Wünschen finden.
 
-Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst, Ihren Phantasien und Ihrer Sexualität finden, der Ihnen ein ausgewogenes, risikoarmes und befriedigendes Erleben Ihrer eigenen Lust ermöglicht.
+Durch diesen Zugang können Sie letztlich einen gesunden Umgang mit sich selbst, Ihren Phantasien und Ihrer Sexualität finden, der Ihnen ein ausgewogenes, risikoarmes und befriedigendes Erleben Ihrer eigenen Lust ermöglicht. 
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 {{% /floatbox %}}
 
 

@@ -38,6 +38,17 @@ Hinzu kommt die moralische Instanz, die meint: „Mir ist ja eh nix passiert.“
 
 Wenn gewalttätige Erfahrungen von nahestehenden Personen oder Familienmitgliedern berichtet werden oder ans Licht kommen, fühlen sich Angehörige oft in einem Strudel aus belastenden Gefühlen wieder: Diese Emotionen können von Angst, Wut, Zorn, Scham über Unsicherheit, Ungläubigkeit und vor allem Hilflosigkeit sowie Handlungsunfähigkeit bis hin zu Machtlosigkeit reichen. 
 
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/angehoerige.png" >}}
+
 {{< image src="/img/ziel_selbsthilfe1.jpg" float="right" title="Es bedarf großen Mut sich mit dem Thema Gewalt auseinander zu setzen. Ich, Silvia Podlisca, bietet am IFGE ganz bewusst einen Rahmen wo Sie sich genau mit diesem Thema auseinandersetzen können.  Völlig frei von einer Wertung oder Bewertung. Ganz im Gegenteil; ich habe größten Respekt und Hochachtung vor Ihrer Geschichte und Ihren Mut.">}}
 
 Als Angehörige von Täter:innen beschleicht Menschen oft ein Gefühl der Mitschuld oder Verantwortung. Scham, Ungläubigkeit, sowie Ohnmacht und Starre verhindern hier in vielen Fällen, sich in einer Beratung zeitgerecht Hilfe zu holen. Dabei ist die[ psychologische Begleitung](https://ifge.at/psychologische-beratung/systemische-einzelberatung/) gerade für das nahe Umfeld von Täter*innen eine wesentliche Möglichkeit, um mit der Tat des nahe stehenden Menschen umgehen zu lernen. 
@@ -46,12 +57,33 @@ Denn auch wenn etwa der Vater zum Straftäter wurde, bleibt er immer noch der ei
 
 Auch Angehörige von [Opfern](https://ifge.at/psychologische-beratung/spezialisierungen/opferberatung/) fühlen sich häufig schuldig und überfordert. Die Frage, ob man die Tat nicht hätte verhindern können, dreht sich in den Köpfen der betroffenen Personen oft in einer Dauerschleife, außerdem beschleicht sie immer wieder eine extreme – oftmals durchaus verständliche – Wut auf die Täter:innen. Manchmal erleben Angehörige die gleiche Ohnmacht und Hilflosigkeit wie das Opfer selbst. Werden diese Gefühle nicht verarbeitet, können sie chronisch werden und zukünftige Lösungen für das eigene Erleben verhindern sowie zu körperlichen Symptomen führen. Besonders hilf- und machtlos fühlen sich betroffene Eltern und auch Geschwister – die sich in solchen Fällen oft völlig vergessen fühlen, da die gesamte Aufmerksamkeit dem zum Opfer gewordenen Geschwisterkind gilt. Ebenso belastend kann die Hilflosigkeit für die eigenen Kinder oder Freunde werden, vor allem dann, wenn das Opfer selbst keine weiteren Schritte setzen möchte.
 
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/angehoerige.png" >}}
+
 {{< image src="/img/ziel_selbsthilfe2.jpg" float="left" title="Nach und nach kehrt Zuversicht zurück und JA, Ihr Leben wird anders sein als davor, vielleicht ist nichts mehr so wie es vor der Tat war, aber Sie werden wieder neuen Lebensmut finden. Ich, Silvia Podlisca, psychosoziale Beraterin, Aufstellungsleiterin, Supervisorin und Sexualberaterin begleite Sie gerne auf diesen Weg." >}}
 
 Angehörige von Opfern belasten sich zusätzlich auch mit inneren Vorwürfe, da es ihnen häufig nicht möglich ist, in der aktuellen Situation Mitgefühl zu zeigen. Dies wird dadurch nachvollziehbar, dass die Angehörigen selbst mit dieser Situation derart überfordert sind, dass „harte Reaktionen“ als die einzigen Handlungsmöglichkeiten erlebt werden. Sätze wie
 „Stell dich nicht so an!“, „So schlimm ist das doch gar nicht!“ oder „Warum hast du kein Taxi genommen?“ sind dann die Ergebnisse dieser Überforderung. Das Gefühl, auf seine eigenen Emotionen kein Recht zu haben, da man die Tat ja weder selbst begangen noch erlebt hat, sorgt bei Angehörigen oft für Scham, welche leider häufig verhindert, dass sie sich an Beratungsstellen werden. Männer leiden zudem immer wieder darunter, die Tat nicht verhindert und das Opfer nicht beschützt zu haben.
 
 Es ist wichtig, zu verstehen, dass eine einzige Tat nicht nur das Leben von Täter:innen und Opfern auf den Kopf stellen, sondern diese sich auf das gesamte [Familiensystem](https://ifge.at/about/institut/) und Umfeld auswirken kann. Auf jedes Ihrer Gefühle haben Sie somit absolutes Anrecht. In meinem Institut findet jede Ihrer Emotionen den Platz, den Sie ihnen einräumen möchten und Sie finden die Ruhe und Zeit vor, die Sie für das Verarbeiten Ihrer Erlebnisse als Angehöriger benötigen. In der psychologischen Beratung finden Sie zudem Lösungen, wie Sie langfristig mit Ihren Erfahrungen umgehen können. Lesen Sie mehr über meine Philosophie am [IFGE](https://ifge.at/about/institut/).
+
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
 
 
 {{% /floatbox %}}
