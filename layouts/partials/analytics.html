@@ -1,29 +1,38 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1153249710"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'AW-1153249710');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'AW-1153249710');
 </script>
 
 <!-- Event snippet for Kaufformular absenden conversion page -->
 <script>
-    function gtag_report_conversion(value, sendTo) {        
-        gtag('event', 'conversion', {
-            'send_to': sendTo,
-            'value': value ?? 0,
-            'currency': 'EUR', // Richtiges Währungsformat
-        });
-        return false;
-    }
+  function gtag_report_conversion(value, sendTo) {
+    gtag('event', 'conversion', {
+      'send_to': sendTo,
+      'value': value ?? 0,
+      'currency': 'EUR' // Richtiges Währungsformat
+    });
+    return false;
+  }
+</script>
 
-    <!-- Brevo Push Notification -->
 <!-- Brevo Push Notification -->
 <script>
-  window.sib = {id: "DEINE-BREVO-ID"};
+  window.sib = { id: "DEINE-BREVO-ID" };
 </script>
 <script src="https://cdn.brevo.com/push/sib-push.js" async></script>
 
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+      .then(function (registration) {
+        console.log('Service Worker registriert mit Scope:', registration.scope);
+      })
+      .catch(function (error) {
+        console.log('Service Worker Registrierung fehlgeschlagen:', error);
+      });
+  }
 </script>
-
