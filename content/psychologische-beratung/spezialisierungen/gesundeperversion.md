@@ -32,11 +32,18 @@ og_image: "/img/bgld_perversion1.jpg"
 {{% floatbox %}}
 ### ZWISCHEN LUSTVOLLEM HÖHENFLUG UND INNERER BELASTUNG
 
-{{< image src="/img/bgld_perversion1.jpg" float="left" title="Bildbeschreibung" >}} 
+{{< image src="/img/silvia_rot.jpg" float="left" title="Bildbeschreibung" >}} 
 
 Perversionen haben heute zumeist ihren anrüchigen Schrecken verloren und dank der neosexuellen Bewegung, die immer weiter voranschreitet, gibt es im sexuellen Beratungskontext nur mehr sehr wenige echte Tabus. Viel eher werden Perversionen als das Salz in der Suppe betrachtet:
 
 Die Würze macht die ansonsten schnell langweilige Suppe besonders aufregend. Aber wichtig zu bedenken ist: Eine versalzene Suppe schmeckt niemandem und zu viel Salz ist auf Dauer nicht gesund. Gesunde Perversion beschreibt den Zustand einer vielfältigen, lustvollen Sexualität, in der Menschen über ihren sexuellen Tellerrand hinausblicken. Rollenspiele, bestimmte Fetische, besondere sexuelle Vorlieben oder Phantasien, Swingerclub-Besuche und Fesselspielchen sind weiter verbreitet, als häufig angenommen wird.
+
+
+{{< line icon="icon/sex_frust.png" >}}
+
+{{< sexualzufriedenheit >}}
+
+{{< line icon="icon/sex_frust.png" >}}
 
 So mancher sexuellen Spielart haftet ein wenig Verruchtes, ja sogar etwas fast Verbotenes an, wodurch diejenigen, die sich ihre Leidenschaften erlauben, ihr Sexleben als besonders belebend, vielfältig und befriedigend empfinden. Der absolute sexuelle Kick wird in der Psychologie auch als die sogenannte „Mega-Lust“ beschrieben. Diese belebende Mega-Lust kann durch ein ausgewogenes Maß an „gesunder Perversion“ z. B. in langjährigen Partnerschaften nachhaltige Anziehung ermöglichen und Paare somit vor sexuellem Frust im Bett bewahren.
 

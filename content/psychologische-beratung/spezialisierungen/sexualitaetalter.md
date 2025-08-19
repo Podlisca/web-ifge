@@ -37,6 +37,21 @@ Während einem Mann in höherem Alter durchaus manchmal noch sexuelles Begehren 
 
 Dabei verspüren Frauen – wie Männer ebenso – auch im fortgeschrittenen Alter häufig den Wunsch nach mehr inniger Nähe und sexueller Zärtlichkeit.
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
+
+{{< line icon="icon/sex_frust.png" >}}
+
+{{< sexualzufriedenheit >}}
+
+{{< line icon="icon/sex_frust.png" >}}
+
 ### PROBLEME ÄLTERER MENSCHEN
 
 {{< image src="/img/sexualitaet_alter_2.jpg" float="right" title="Bildbeschreibung" >}}
@@ -57,6 +72,15 @@ Menschen im fortgeschrittenen Alter kommen häufig mit folgenden Anliegen zu mir
 * Unterschiedliche sexuelle Wünsche in der Partnerschaft
 
 Nutzen Sie die [Sexualberatung](/psychologische-beratung/spezialisierungen/sexualberatung/), um über Ihre Anliegen zu sprechen und um für diese Lösungen zu finden. Als langjährig praktizierende psychosoziale Beraterin weiß ich, wie belastend sexuelle Probleme gerade für ältere Klient*innen sein können. An meinem Institut biete ich Ihnen einen freundlichen Rahmen, in dem Sie sich ganz nach Ihrem Tempo offen entfalten können. **Denn für gelebte, befriedigende Sexualität sind Sie nie zu alt!**
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/sexualberatung.png" >}}
 
 Lesen Sie mehr über meine [Philosophie am IFGE](/about/institut/)
 

@@ -54,6 +54,12 @@ Gerade in unserer Zeit, in der vermeintliche und oberflächliche Offenheit propa
 
 Und neben den vielen Alltagsdiskriminierungen bewegen sich homosexuelle Menschen zum großen Teil in einer heteronormativen Welt, die wir uns gestaltet haben und die immer noch das vorherrschende Gesellschaftsbild darstellt. Da ist von „Mann und Frau“ die Rede, Männer werden danach gefragt, ob sie eine Freundin haben und bei Frauen erkundigt man sich nach dem Mann. Es scheint, dass abseits der hippen Regenbogen- und Liebesparaden gleichgeschlechtliche Paare trotz aller vordergründigen Offenheit nicht präsent sein dürfen. Und genau aus diesem Grund widme ich mich am IFGE den Anliegen von homosexuellen Menschen ganz bewusst – und spreche dies auch an. Denn Lebens- und Beziehungskrisen, Umbruchssituationen, Familienstreitigkeiten, belastende Muster, sexuelle Probleme und schwierige Alltagsphasen belasten eben nicht nur heterosexuelle Menschen, sondern selbstverständlich im gleichen Maße auch Homosexuelle. Mir ist an dieser Stelle wichtig zu betonen, dass – egal welches Anliegen Sie besprechen möchten – Sie nicht ausschließlich auf die wenigen speziell auf Schwule oder Lesben ausgerichteten Hilfsangebote angewiesen sind. Sie sind bei all Ihren Prozessen auch am IFGE herzlich Willkommen. Sowohl in der Einzelberatung als auch in der Paarberatung. Ich betrachte diese dezidierte Einladung als Zeichen der bewussten Eingliederung, um Schritt für Schritt einen Teil dazu beizutragen, starre und heteronormative Muster zu durchbrechen.
 
+{{< line icon="icon/sex_frust.png" >}}
+
+{{< sexualzufriedenheit >}}
+
+{{< line icon="icon/sex_frust.png" >}}
+
 ### VERMEINTLICHE OFFENHEIT
 
 {{< image src="/img/gleichgeschlechtlich_2.jpg" float="left" title="Bildbeschreibung" >}} 
