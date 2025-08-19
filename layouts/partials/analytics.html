@@ -19,12 +19,13 @@
   }
 </script>
 
-<!-- Brevo Push Notification -->
+<!-- Brevo Push Notification (alt) -->
 <script>
   window.sib = { id: "DEINE-BREVO-ID" };
 </script>
 <script src="https://cdn.brevo.com/push/sib-push.js" async></script>
 
+<!-- Service Worker Registrierung -->
 <script>
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js')
@@ -35,4 +36,17 @@
         console.log('Service Worker Registrierung fehlgeschlagen:', error);
       });
   }
+</script>
+
+<!-- Brevo Tracker (neu) -->
+<script src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
+<script>
+  // Version: 2.0
+  window.Brevo = window.Brevo || [];
+  Brevo.push([
+    "init",
+    {
+      client_key: "eh4n71if8r6ihyeb7lh6emg2"
+    }
+  ]);
 </script>
