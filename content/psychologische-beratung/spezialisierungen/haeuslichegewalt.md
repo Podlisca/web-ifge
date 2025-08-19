@@ -48,9 +48,27 @@ Opfer von häuslicher Gewalt stehen verschiedensten miteinander verwobenen Probl
 * Die Liebe zu Täter:innen sorgt dafür, dass Opfer sich nicht einmal mit engsten Vertrauten austauschen wollen, um die Täter:innen zu schützen.
 * Die Erfahrung mit oft wenig hilfreichen Aussagen wie „Dann geh’ doch!“, „Das lässt du dir gefallen?“, „Wer es einmal tut, wird es wieder tun.“ kann Opfer häuslicher Gewalt dazu bringen, über ihr Erlebtes gar nicht mehr sprechen zu wollen.
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/gewalt.png" >}}
+
 {{< image src="/img/noe_einzel7.jpg" float="right" title="Bildbeschreibung" >}}
 
 In der psychologischen Beratung nehme ich mir für Ihr Anliegen und Ihre Sorgen so viel Zeit wie nötig. Gerade in diesem Fall möchte ich die absolute Vertraulichkeit, welcher unsere Gespräche unterliegen, noch einmal besonders betonen. Hier bei mir am IFGE können Sie sich sicher sein, dass von mir keinerlei Schritte bzw. Maßnahmen getätigt, gefordert oder auch nur erwartet werden, wenn Sie für diese (noch) nicht bereit sind oder wenn diese Schritte für Ihre persönliche Lösung keinerlei Relevanz haben. Wichtig ist in erster Linie, dass Sie hier einen Platz finden, an dem Sie zur Ruhe kommen können und an dem Sie – mit all dem, was Sie bewegt – gehört werden. In meinen Beratungsräumen finden Sie die Sicherheit vor, die Sie benötigen, um sich selbst wieder zu finden und um kraftvolle Entscheidungen treffen sowie Schritte setzen zu können, wann auch immer die Zeit für Sie reif ist. 
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 

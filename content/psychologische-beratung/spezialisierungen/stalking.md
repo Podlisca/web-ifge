@@ -38,6 +38,15 @@ Stalking ist ein Wort, das uns leicht über die Lippen kommt. Gerade unter Jugen
 
 Der Begriff „Stalking“ beschreibt eine Konstellation von Handlungsweisen, die durch das wiederholte unerwünschte Eindringen in das Leben einer anderen Person in Form von direktem Kontakt bzw. Kommunikationsverhalten charakterisiert ist. 
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="/icon/stalking.png" >}}
+
 Stalkingverhalten unterscheidet sich nämlich im Gegensatz zu „normalen“ zwischenmenschlichen Interaktionen dadurch, dass es Angst oder Besorgnis beim Opfer auslöst. Stalking-Betroffene fürchten teilweise, körperliche Schäden durch StalkerInnen zu erleiden. Die Angst vor Gewalt ist zentral für das Phänomen Stalking. Allerdings kann nicht jedes Verhalten, das unerwünscht und wiederholt in das Leben eines anderen eindringt, als Stalking bezeichnet werden.    
 
 Ist man früher davon ausgegangen, dass Stalking nur berühmte Personen betreffen kann, hat dieses Phänomen – nicht zuletzt durch Social Media – deutlich und erschreckend an Bedeutung gewonnen, und zwar in jeder gesellschaftlichen Schicht.
@@ -53,11 +62,31 @@ Prinzipiell teilt man die Täter:innen in vier verschiedene Gruppen:
 * Typ 3: Wahnhaft fixiertes Stalking  (ca. 15 Prozent der Täter:innen)
 * Typ 4: Sadistisches Stalking  (ca. zwölf Prozent der Täter:innen)
 
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="/icon/stalking.png" >}}
+
 Durch die jahrelange Unterrichtstätigkeit im Bereich „Sexuelle Belästigung und Stalking“ sowie meiner beratenden Arbeit mit Täter:innen und Opfern weiß ich, dass sich die ersten beiden Stalking-Typen häufig bereits zu einem gewissen Grad bewusst sind, dass ihr Verhalten unpassend ist und somit durch professionelle, psychologische Beratung in vielen Fällen dabei unterstützt werden können, Stalking in Zukunft ganz zu vermeiden. Wahnhaft fixierte und sadistische Täter*ínnen hingegen gehören ohne Wenn und Aber in ärztliche sowie psychotherapeutische Behandlung    
 
 Da es sich bei den Täter:innen-Typen, welche ärztlicher und psychotherapeutischer Behandlung bedürfen, um – wie weiter oben ersichtlich – nur knapp 30 Prozent der Stalkingfälle handelt, zeigt sich deutlich, dass ein Großteil der Stalker:innen durch psychologische Beratung eine Chance darauf haben, ihr Verhalten in Zukunft wieder passend gestalten zu können. Gerade in der Prävention setzt meine Arbeit bewusst an und richtet sich vor allem an Ex-Beziehungs-Stalker:innen und jene Stalker:innen, die oft aufgrund von Verliebtheit ihr Gegenüber belästigen.
 
 Gerade diese (potenziellen) Täter:innen sind sich ihres unpassenden Verhaltens häufig – wie schon erwähnt – bereits bis zu einem gewissen Grad durchaus bewusst und die Entscheidung, Hilfe in Anspruch zu nehmen, ist ein wesentlicher, mutiger Schritt zur gelungenen Veränderung des eigenen belastenden Verhaltens. In der psychologischen Beratung arbeite ich in diesen Fällen mit meinen Klient:innen hauptsächlich daran, dass sie sich – in wertschätzender und offener Umgebung – noch bewusster mit ihrem Verhalten auseinander setzen können. Dadurch finden Sie heraus, was Ihre eigentliche Motivation ist, was Sie dazu treibt und was SIE brauchen, um das unangebrachte Stalken zu unterlassen. Sie erhalten Klarheit, werden dabei unterstützt, eine unerfüllte Liebe zu akzeptieren und können Ihren Fokus dadurch wieder auf Personen legen, die erreichbar für Sie sind. Hier bei mir am IFGE finden Sie die Möglichkeit, all das, was Sie beschäftigt, in Ihrem Tempo zu thematisieren und anzusprechen – ohne dass Sie von mir als Mensch bewertet werden. Durch die intensive Auseinandersetzung mit Ihrer Gedanken- und Gefühlswelt, gelingt es Ihnen, Ihr Verhalten – das im Gegensatz zu Ihrer Person sehr wohl kritisch betrachtet wird – letztlich verändern zu können. Wenn Sie erst wieder einen Schritt in ein für Sie erfülltes Leben getätigt haben, entsteht der Verzicht auf Stalking oftmals überraschend leicht. So dient die Beratung dem Wunsch der Klient:innen, ihre konstruktiven Gefühle besser einzuordnen, um sie schließlich hinter sich zu lassen.
+
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 
@@ -73,6 +102,16 @@ Ein ebenso häufiges Thema im Bereich Stalking in meiner Praxis ist das Stalken 
 Vielfach ist diesem weiblichen Stalking-Typ zu Beginn noch gar nicht bewusst, dass sie an dieser Stelle die Täterinnen sind. 
 
 Durch die psychologische Beratung lernen Sie, zu akzeptieren, dass Ihre Beziehung vorbei ist, was nicht nur eine mögliche Straftat verhindert, sondern Ihnen auch dabei hilft, in Zukunft wieder offen für neue und erfüllende Partnerschaften zu sein.
+
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 

@@ -39,6 +39,15 @@ In meiner langjährigen Erfahrung in der Suchtberatung konnte ich dieses Prinzip
 
 Mit der Suche. Suchtgefährdete und Süchtige sind auf der Suche nach der Stillung unerfüllter Bedürfnisse oder auf der Suche nach einem Weg, die Leere, die sie verspüren, zu füllen. Auf welcher Suche Sie sich auch immer – bewusst oder unbewusst – befinden: Der Weg in die psychologische Beratung ist der erste, bemerkenswert mutige Schritt dazu, dass Sie vielleicht schon bald in sich finden, was Sie bereits so lange suchen. Und auf dieser Suche begleite ich Sie gerne. Wofür Ihre Abhängigkeit möglicherweise steht und weshalb es für Sie so schwer ist, von Ihrem Suchtmittel loszukommen, kann neben der [klassischen Lebens- und Sozialberatung](/psychologische-beratung/einzelberatung/) auch durch [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) oder [systemische Methoden in Einzelberatungen](/psychologische-beratung/systemische-einzelberatung/) sichtbar gemacht werden.
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/sucht.png" >}}
+
 Meine besonderen Schwerpunkte am IFGE liegen dabei auf:
 
 * **Alkoholsucht** – Wenn die Ausnahme zur zerstörerischen Regel wird.
@@ -55,6 +64,14 @@ Abhängigkeiten ganz gleich welcher Art führen immer wieder zu dramatischen Sch
 Finden Sie wieder zurück in einen Alltag, der frei ist von der ständigen, unstillbaren Gier und den Sie wieder klar wahrnehmen sowie genießen können.
 
 Die psychologische Beratung ermöglicht Ihnen, die Lösungen für sich zu finden, durch die Sie sich wieder gefestigt und zuversichtlich fühlen können.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
 
 {{% /floatbox %}}
 

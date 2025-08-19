@@ -35,6 +35,17 @@ Auch wenn viele Bewegungen heute die Aufhebung klassischer Geschlechterrollen fo
 Ein Großteil der Männer identifiziert sich auch in Zeiten des geteilten Haushalts und der gemeinsamen Kindererziehung sowie in gleichberechtigten Beziehungsmodellen mit vermeintlich männlichen Werten wie „Stärke und Souveränität“. 
 
 Glaubenssätze wie „Ein Indianer kennt keinen Schmerz“ und „Buben weinen nicht“ sind im Unterbewusstsein vieler Männer weiterhin ganz tief verankert und genau das führt dazu, dass sich männliche Opfer sehr spät bis gar keine Hilfe holen.
+<br/>
+<br/>
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="/icon/beratung.png" >}}
 
 ### OPFER SEIN – MANN SEIN
 
@@ -46,7 +57,16 @@ Das Bild einer prügelnden Frau oder die Vorstellung einer zerstörerisch demüt
 
 Gerade deshalb ist es mir ein Bedürfnis, für Sie da zu sein und mit Ihnen gemeinsam dort hinzusehen, wo andernorts vielfach die Augen verschlossen werden. 
 
-In der psychologischen Beratung zeigt sich dabei auch immer wieder, dass selbst den betroffenen Männern vielfach die sogenannte „Opferidentität“ fehlt. Dabei beobachte ich häufig, dass Männer dazu neigen, ihre Gewalterfahrungen zu bagatellisieren. Zu groß ist die Scham und die Angst, dass das Umfeld auf die eigenen Erlebnisse verständnislos oder gar spöttisch reagieren könnte. Hier bei mir am IFGE erhalten Sie so viel Raum und Zeit wie nötig, um sich Stück für Stück mit Ihren Erlebnissen auseinandersetzen zu können. Denn Mann sein – und Mensch sein –  bedeutet auch, sich die Hilfe zu holen, die es benötigt, um kraftvoll und klar in die Zukunft blicken zu können. 
+In der psychologischen Beratung zeigt sich dabei auch immer wieder, dass selbst den betroffenen Männern vielfach die sogenannte „Opferidentität“ fehlt. Dabei beobachte ich häufig, dass Männer dazu neigen, ihre Gewalterfahrungen zu bagatellisieren. Zu groß ist die Scham und die Angst, dass das Umfeld auf die eigenen Erlebnisse verständnislos oder gar spöttisch reagieren könnte. Hier bei mir am IFGE erhalten Sie so viel Raum und Zeit wie nötig, um sich Stück für Stück mit Ihren Erlebnissen auseinandersetzen zu können. Denn Mann sein – und Mensch sein –  bedeutet auch, sich die Hilfe zu holen, die es benötigt, um kraftvoll und klar in die Zukunft blicken zu können.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="/icon/beratung.png" >}}
 
 {{< image src="/img/einzel_bgld.jpg" float="left" title="Bildbeschreibung" >}} 
 
@@ -60,7 +80,16 @@ Laut der Wiener Interventionsstelle gegen Gewalt in der Familie (Tätigkeitsberi
 
 Die Dunkelziffer der Männer, die es vorerst nicht wagen, sich an eine Beratungsstelle zu wenden, ist meiner Erfahrung nach wesentlich höher.
 
-{{< line icon="icon/beratung.png" >}}
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="/icon/beratung.png" >}}
+
+
 
 # Häusliche Gewalt – Psychische Gewalt
 
@@ -83,7 +112,16 @@ Aber es sind letztlich nicht ausschließlich körperliche Übergriffe, die Scham
 
 **Doch das ist er –  und auch Sie haben ein Recht auf eine wertschätzende und gewaltfreie Beziehung!**
 
-{{< line icon="icon/beratung.png" >}}
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="/icon/beratung.png" >}}
+
+
 
 # Sexuelle Gewalt gegen Männer und Buben
 
@@ -106,7 +144,16 @@ Sie alleine bestimmen das Tempo, mit dem wir uns Ihren Erlebnissen annähern und
 
 Unsere Gespräche können das Erlebte dabei nicht ungeschehen machen, doch ich unterstütze Sie individuell und professionell dabei, bei Bedarf auch angemessene Reaktionen setzen zu können, sowie dabei, Ihre Erfahrungen zu verschmerzen, um diese so in ihr zukünftiges Leben zu integrieren, dass Sie alle Ihre Anteile wieder dynamisch leben können. 
 
-Dadurch gelingt es schließlich auch Ihnen, oftmals lebenslang bestehende Muster zu durchbrechen, wodurch Sie wieder offen für gesunde und respektvolle Beziehungen sind, die Sie frei von Gewalt und erfüllend erleben können.    
+Dadurch gelingt es schließlich auch Ihnen, oftmals lebenslang bestehende Muster zu durchbrechen, wodurch Sie wieder offen für gesunde und respektvolle Beziehungen sind, die Sie frei von Gewalt und erfüllend erleben können.   
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 

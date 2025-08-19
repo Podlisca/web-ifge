@@ -37,8 +37,18 @@ og_image: "/img/einzelberatung_weis_noe.jpg"
 In der psychologischen Beratung konzentriere ich mich dabei neben der Beratung von Opfern ganz bewusst auf die Arbeit mit Täter:innen, die einen Rückfall vermeiden wollen sowie auf Männer und Frauen, die befürchten, zu Täter*innen zu werden. Als absolutes Tabu gelten nach wie vor Frauen, die zu Täterinnen werden – übrigens verhält es sich bei männlichen Opfern ebenso – und das obwohl nach einem Bericht der Deutschen Gesellschaft für Prävention und Intervention bei Kindesmisshandlung und -vernachlässigung davon ausgegangen wird, dass zehn Prozent aller sexuellen Gewalttaten von Frauen verübt werden. Dies passt so gar nicht in das Rollenbild unserer Gesellschaft. 
 
 Da aber ein Problem nicht gelöst wird, indem man es ignoriert, führe ich hier, ganz bewusst die Begriffe „Täter und Täterinnen“ an. 
+<br/>
 
 **Die präventive Täter:innenarbeit ist für mich dabei eine der wichtigsten Teilgebiete meiner Profession, denn wo es keine Täter:innen (mehr) gibt, kann es auch keine Opfer (mehr) geben.**
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/oper_taeter.png" >}}
 
 
 {{< image src="/img/burnout2_bgld.jpg" float="right" title="Bildbeschreibung" >}}
@@ -51,6 +61,15 @@ Bis zur aktiven Handlung ist es hier nicht mehr weit: Genau an diesem Punkt setz
 
 Wiewohl ich die enorme Überwindung, die es potenziellen Täter:innen kostet, sich Hilfe zu holen, verstehen kann, macht es mich umso betroffener, dass diese oft Angst haben müssen, über ihre Befürchtungen und Phantasien offen zu sprechen. Dabei ist mir besonders wichtig zu betonen, dass Phantasien sind, was sie sind:
 Nämlich fiktive Gedankenspiele im Kopf. 
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/oper_taeter.png" >}}
 
 ### Eine Phantasie alleine, macht aus einem Menschen noch keinen Täter und keine Täterin.
 
@@ -66,6 +85,15 @@ Wenn Sie
 * Angst haben, zum Täter bzw. zur Täterin zu werden,
 
 zögern Sie nicht, sich einen Beratungstermin am IFGE bei mir auszumachen. Was immer Sie auch belastet, hier finden Sie ein offenes Ohr. In unserem Gespräch sehe ich Sie als der Mensch, der Sie sind, mit all dem, was Sie führt. Das bedeutet, dass Sie sich in meinen Beratungsräumlichkeiten mit all Ihren Gedanken, Sorgen und Anliegen in Ihrem Tempo entfalten und weiterentwickeln können – frei von Urteilen und Wertungen suchen wir gemeinsam nach für Sie passenden Lösungen, damit Sie zukünftig lernen, mit Ihren Phantasien umzugehen, ohne eine strafbare Handlung zu setzen. Ich möchte Ihnen an dieser Stelle nicht verschweigen, dass dies oftmals einen lebenslangen Prozess bedeutet. Aus diesem Grund gibt es in der Täter*innen-Beratung auch ganz klare Richtlinien und Regeln, auf deren Einhaltung von mir zu Ihrem Wohl genau geachtet wird. Nicht zum Täter oder zur Täterin zu werden, heißt für Betroffene, konsequent und intensiv an sich selbst zu arbeiten. Dafür biete ich Ihnen gerne einen wertschätzenden Raum: Denn Ihre Neigung haben Sie sich nicht ausgesucht, aber es liegt ganz allein an Ihnen, ob Sie aus Phantasien sexuelle Gewalttaten entstehen lassen, die durch absolut nichts zu rechtfertigen sind.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+
 
 {{% /floatbox %}}
 

@@ -33,6 +33,15 @@ Der Tod eines geliebten oder nahe stehenden Menschen gehört zu den traurigsten 
 
 Die Phasen, die Sie durchleben, sind ebenso individuell wie Ihre Trauer selbst. Häufig durchlaufen wir Menschen bestimmte Trauerphasen mehrmals oder sogar parallel. Da die Trauerphasen nicht immer nacheinander erlebt werden und in vielen Fällen wieder neu hochkommen, entsteht für die Trauernden häufig eine enorme Belastung. Das Durchleben dieser Trauerphasen, die eben nicht zwangsläufig einer Zeitvorgabe folgen, ist jedoch – auch wenn es schwer ist – wichtig, um sie letztlich abschließen zu können. Denn nur durch das Zulassen ALL Ihrer Emotionen, kann ein Abschied und das Verschmerzen Ihres Verlustes beginnen.
 
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/trauer.png" >}}
+
 {{< image src="/img/trauer_beratung_wien.jpg" float="right" title="Bildbeschreibung" >}}
 
 Hinzu kommt, dass wir in der heutigen Zeit das Gefühl haben, uns kaum mehr Zeit zum Trauern nehmen zu dürfen. Die Zeiten werden immer schnelllebiger, wodurch alte Bräuche wie das früher bewusst gelebte „Trauerjahr“ oder die in ländlichen Gegenden in der Vergangenheit verbreiteten „Trauerschleifen“ völlig aus dem Blickfeld verschwunden sind. Da wir uns die Zeit für den oft schmerzhaften Abschied von Verstorbenen kaum mehr nehmen, beobachte ich immer häufiger das Phänomen der verzögerten Trauer. 
@@ -40,6 +49,15 @@ Hinzu kommt, dass wir in der heutigen Zeit das Gefühl haben, uns kaum mehr Zeit
 Die Emotionen des Verlustes kommen bei einigen Klient:innen oft erst nach Jahren wieder zum Vorschein. Dies ist für Klient:innen besonders belastend, da diese ihre Gefühle zu Beginn schwer als Trauer erkennen können. Es ist ja schon so lange her und man meint vordergründig, den Tod bereits gut verarbeitet zu haben.
 
 Neben dem Gefühlscocktail aus großem Schmerz, verzweifeltem Unverständnis, Sock, Ungerechtigkeitsempfinden und Wut, welchen der Tod von Angehörigen, guten Freund:innen oder auch Kolleg:innen in uns auslösen kann, erlebe ich vielfach, dass meine Klient:innen sich für Aussagen oder Verhaltensweisen schämen, die mit dem oder der Toten in Verbindung stehen. Ein Streit etwa, der sich mit dem oder der nun Verstorbenen zugetragen hat, nagt ohne professionelle Unterstützung oft das gesamte weitere Leben an uns Menschen. Das Gefühl, es nun „nie mehr wieder gut machen zu können“ und die damit einhergehende Scham, führt oft dazu, dass Klient:innen sich eine gelungene Trauerbewältigung versagen, was letztlich zur permanenten Belastung der eigenen Lebensqualität führen kann.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/trauer.png" >}}
 
 {{< image src="/img/bgld_trauer_beratung.jpg" float="left" title="Bildbeschreibung" >}} 
 
@@ -54,6 +72,15 @@ in Anspruch nehmen zu „dürfen“. Aber bitte bedenken Sie, dass es nicht daru
 Der bewusste Abschied von einem ungeborenen Kind ist für das Verschmerzen Ihrer Erfahrung von zentraler Bedeutung. Wenn sich Klientinnen diesen Abschied versagen, kommt es immer wieder vor, dass sich Frauen als unbewusste Bewältigungsstrategie überstürzt in medizinische Behandlung begeben, um so schnell wie möglich ein neues Kind zu zeugen. 
 
 Ganz gleich, ob dieses Vorhaben letztlich von Erfolg gekrönt ist oder ein Kind weiterhin auf sich warten lässt: Das Phänomen der weiter oben beschriebenen verzögerten Trauer ist gerade bei solchen – oftmals übereilten – Bewältigungsstrategien immer wieder zu beobachten und zeigt sich etwa in [Familienaufstellungen](/gruppenselbsterfahrung/familienaufstellung/) oft eine oder zwei Generationen später, indem z. B. Nachgeborene da trauern, wo Sie es sich nicht erlaubt haben. Wichtig ist dabei, dass Sie in Ihrem Trauerprozess einen Raum finden, an dem Sie all Ihre Gefühle zulassen dürfen, um sie schließlich verschmerzen zu können. Diesen Raum biete ich Ihnen am IFGE sehr gerne.
+
+{{< calendly-button >}}
+
+<div style="border: 1px solid #ddd; padding: 10px; font-size: 0.9em; margin-top: 10px;">
+📞 Lieber telefonisch buchen? Ruf mich gerne an unter +43 676 610 89 36  
+✉️ Oder schreib mir eine Nachricht: <a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a>
+</div>
+
+{{< line icon="icon/trauer.png" >}}
 
 {{< image src="/img/trauer_silvia_bgld.jpg" float="right" title="Bildbeschreibung" >}}
 
