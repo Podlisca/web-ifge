@@ -298,7 +298,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
 
 
-{{< line icon="icon/aufstellung.png" >}}
+***
 
 ## Wähle den passenden Termin für dich in Pinkafeld
 
