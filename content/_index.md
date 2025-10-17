@@ -156,9 +156,9 @@ og_image: "/img/hollandst.jpg"
 
 ***
 
-##### Die IFGE Räumlichkeiten
+<h1 style="color: white;">Die IFGE Räumlichkeiten</h1>
 
- ***
+***
   <p><strong>Die IFGE Räume sind mehr als nur ein Ort</strong> – sie laden ein zum Ankommen, Innehalten und Entfalten.</p>
 
   <p>Im IFGE verbinden sich Erfahrung, Haltung und Atmosphäre zu einem Ort, der stärkt, nährt und inspiriert.  
