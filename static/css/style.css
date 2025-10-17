@@ -899,7 +899,7 @@ main .cst-intro a {
 
 .ifge-kartenbereich {
   background-color: var(--color-green);
-  padding: rem 1rem;
+  padding: 3rem 1rem;
   margin-top: -2rem;
   max-width: 1200px;
   margin-left: auto;
