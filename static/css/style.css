@@ -1138,3 +1138,34 @@ h10 {
   margin: 1rem 0;     /* Abstand oben und unten */
   line-height: 1.2;   /* Zeilenhöhe für bessere Lesbarkeit */
 }
+
+/* 🔹 Bilder automatisch an kleine Bildschirme anpassen */
+@media (max-width: 768px) {
+
+  /* Alle Bilder im Inhaltsbereich */
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+
+  /* Falls du irgendwo große Banner oder Grid-Bilder hast */
+  .hero-banner img,
+  .karten-container img,
+  .vorteile-container img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Etwas kleinere Abstände, um vertikal Platz zu sparen */
+  section img {
+    margin: 0.5rem auto;
+  }
+}
+
+@media (max-width: 500px) {
+  .hero-banner {
+    min-height: 320px; /* etwas mehr Tiefe, wirkt harmonischer */
+    background-position: center bottom; /* statt top, damit der Teppich sichtbar bleibt */
+  }
+}
