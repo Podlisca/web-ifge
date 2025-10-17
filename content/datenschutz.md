@@ -183,7 +183,7 @@ Wir klären Sie darüber auf, dass die Bereitstellung personenbezogener Daten zu
 Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als Externer Datenschutzbeauftragter München tätig ist, in Kooperation mit dem Datenschutz Anwalt Christian Solmecke erstellt.
 
-### HINWEISE ZUR DATENVERARBEITUNG IM ZUSAMMENHANG MIT WEBEX MEETING
+### HINWEISE ZUR DATENVERARBEITUNG IM ZUSAMMENHANG MIT Teams meeting
 
 Cisco Systems, Inc. und dessen Tochtergesellschaften (gemeinschaftlich als „Cisco“ bezeichnet) sind bestrebt, Ihre Daten zu schützen und dafür zu sorgen, dass Sie die Nutzung unserer Websites sowie die Verwendung unserer Produkte und Services („Lösung“ oder „Lösungen“) positiv wahrnehmen.
 

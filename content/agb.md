@@ -33,7 +33,7 @@ Diese Einwilligung kann ich jederzeit gemäß Art 21 DSGVO mittels Briefs an IFG
 
 3 Ort der Beratung
 
-Sofern im Einzelfall nichts anderes zwischen der Silvia Podlisca und dem Klienten/die Klientin vereinbart wird, finden die Beratungs-Einheiten in den Räumlichkeiten der Silvia Podlisca statt. Wird im Einzelfall ein abweichender Ort vereinbart, so kann die Silvia Podlisca zusätzlich eine Anfahrtskostenpauschale in Höhe von EUR 95,-- pro Stunde Fahrtzeit (inkl. USt) verrechnen. Onlienberatung, Onlinetrainings, Onlineausbildung, Onlinesupervision werden über die Plattform "Webex Meeting" abgehalten. Bei Beratungsstunden im Freien (Beratung & Bewegung mit Hunden) wird der Ort individuell bekannt gegeben. In Wien entstehen keine Anfahrtskosten.
+Sofern im Einzelfall nichts anderes zwischen der Silvia Podlisca und dem Klienten/die Klientin vereinbart wird, finden die Beratungs-Einheiten in den Räumlichkeiten der Silvia Podlisca statt. Wird im Einzelfall ein abweichender Ort vereinbart, so kann die Silvia Podlisca zusätzlich eine Anfahrtskostenpauschale in Höhe von EUR 95,-- pro Stunde Fahrtzeit (inkl. USt) verrechnen. Onlienberatung, Onlinetrainings, Onlineausbildung, Onlinesupervision werden über die Plattform "Teams meeting" abgehalten. Bei Beratungsstunden im Freien (Beratung & Bewegung mit Hunden) wird der Ort individuell bekannt gegeben. In Wien entstehen keine Anfahrtskosten.
 
 4 Honorar, Rechtliches und AGB
 

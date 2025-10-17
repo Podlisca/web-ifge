@@ -28,7 +28,7 @@ weight: 3
 #### Start: Termine in Planung 
 
 Jedes Modul besteht aus 6 Unterrichtsstsunden. 
-Die Veranstaltung wird über Webex Meeting abgehalten.
+Die Veranstaltung wird über Teams meeting abgehalten.
 
 **Modul 1:** <br/>
 **Modul 2:** <br/>

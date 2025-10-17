@@ -28,7 +28,7 @@ weight: 3
 #### Start: 08.10.2022
 
 Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
-Die Veranstaltung wird über Webex Meeting abgehalten.
+Die Veranstaltung wird über Teams meeting abgehalten.
 
 **Modul 1:** 08.10.2022 <br/>
 **Modul 2:** 09.10.2022 <br/>

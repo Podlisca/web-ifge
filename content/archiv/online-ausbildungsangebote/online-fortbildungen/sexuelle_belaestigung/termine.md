@@ -31,7 +31,7 @@ Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
 
 Immer von 10:00 bis 17:00 Uhr.<br/>
 
-Die Veranstaltung wird über Webex Meeting abgehalten.
+Die Veranstaltung wird über Teams meeting abgehalten.
 
 **Modul 1: 12.11.2022** <br/>
 **Modul 2: 13.11.2022** <br/>

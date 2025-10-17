@@ -57,7 +57,7 @@ Sozialarbeiter:innen, Betreuer:innen, Psycholog:innen und Pädagog:innen, Heilpr
 * Kompetente Referent:innen mit mehrjährigem Background aus der tiergestützten Beratung bzw. der Arbeit mit Tieren
 * Vertiefung der Theorie mit zahlreichen praxisnahen Übungssequenzen
 * Einen kurzweiligen Unterricht unter Einbeziehung entsprechend ausgebildeter Vierbeiner
-* Interaktive Lehrveranstaltungen (Live-Call über Webex Meeting) bieten Ihnen die Möglichkeit für direkte Fragestellungen und den Austauch mit anderen Kursteilnehmern
+* Interaktive Lehrveranstaltungen (Live-Call über Teams meeting) bieten Ihnen die Möglichkeit für direkte Fragestellungen und den Austauch mit anderen Kursteilnehmern
 * Umfangreiche, im Ausbildungspreis inbegriffene, Skripten
 * Sehr gute Organisation und Abwicklung durch mehrjährige Erfahrung in der Gestaltung sowie Durchführung von Ausbildungen
 * Verkürzen Sie sich die Wartezeit bis zum Ausbildungsstart: Sie erhalten nach der Zusage von Ihrem Ausbildungsplatz direkt die ersten Unterlagen um sich auf den Kursstart vorzubereiten. 

@@ -1,5 +1,9 @@
 <!-- Verstecktes Upgrade-Formular für Formspree -->
-<form action="https://formspree.io/f/xqalakkv" method="POST" style="display: none;" id="upgrade-form">
+<form id="upgrade-form"
+      action="https://formspree.io/f/xqalakkv"
+      method="POST"
+      accept-charset="UTF-8"
+      style="visibility:hidden; position:absolute; left:-9999px;">
   <input type="hidden" name="Produkt" id="form-produkt">
   <input type="hidden" name="Termin" id="form-termin">
   <input type="hidden" name="Anrede" id="form-anrede">
@@ -17,66 +21,78 @@
 </form>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const boxes = document.querySelectorAll('.kursbox, .aufstellung-box');
-    const upgrade = document.getElementById('upgrade-form');
+document.addEventListener('DOMContentLoaded', function () {
+  const boxes = document.querySelectorAll('.kursbox, .aufstellung-box');
+  const upgrade = document.getElementById('upgrade-form');
 
-    if (!upgrade) return;
+  if (!upgrade) return;
 
-    boxes.forEach(function (box) {
-      const form = box.querySelector('form');
-      if (!form) return;
+  boxes.forEach(function (box) {
+    const form = box.querySelector('form');
+    if (!form) return;
 
-      form.addEventListener('submit', function (event) {
-        event.preventDefault(); // Stripe erst nach Formspree absenden
+    form.addEventListener('submit', function (event) {
+      event.preventDefault(); // Stripe erst nach Formspree absenden
 
-        const getVal = (selector, index = null) => {
-          if (index !== null) {
-            return form.querySelectorAll(selector)?.[index]?.value.trim() || '';
-          }
-          return form.querySelector(selector)?.value.trim() || '';
-        };
+      const getVal = (selector, index = null) => {
+        if (index !== null) {
+          return form.querySelectorAll(selector)?.[index]?.value.trim() || '';
+        }
+        return form.querySelector(selector)?.value.trim() || '';
+      };
 
-        const produkt = box.querySelector('h2, h4')?.textContent.trim() || 'Unbekanntes Produkt';
-        const termin = box.getAttribute('data-termin') || '';
-        const anrede = getVal('select[required]');
-        const titel = getVal('select:not([required])');
-        const vorname = getVal('input[type="text"]', 0);
-        const nachname = getVal('input[type="text"]', 1);
-        const email = getVal('input[type="email"]');
-        const strasse = getVal('input[type="text"]', 2);
-        const plz = getVal('input[type="text"]', 3);
-        const ort = getVal('input[type="text"]', 4);
-        const land = getVal('input[type="text"]', 5);
-        const uid = getVal('input[type="text"]', 6);
-        const mitteilung = form.querySelector('textarea')?.value.trim() || '';
+      const produkt = box.querySelector('h2, h4')?.textContent.trim() || 'Unbekanntes Produkt';
+      const termin = box.getAttribute('data-termin') || '';
+      const anrede = getVal('select[required]');
+      const titel = getVal('select:not([required])');
+      const vorname = getVal('input[type="text"]', 0);
+      const nachname = getVal('input[type="text"]', 1);
+      const email = getVal('input[type="email"]');
+      const strasse = getVal('input[type="text"]', 2);
+      const plz = getVal('input[type="text"]', 3);
+      const ort = getVal('input[type="text"]', 4);
+      const land = getVal('input[type="text"]', 5);
+      const uid = getVal('input[type="text"]', 6);
+      const mitteilung = form.querySelector('textarea')?.value.trim() || '';
 
-        // Hidden-Felder befüllen
-        upgrade.querySelector('#form-produkt').value = produkt;
-        upgrade.querySelector('#form-termin').value = termin;
-        upgrade.querySelector('#form-anrede').value = anrede;
-        upgrade.querySelector('#form-titel').value = titel;
-        upgrade.querySelector('#form-vorname').value = vorname;
-        upgrade.querySelector('#form-nachname').value = nachname;
-        upgrade.querySelector('#form-email').value = email;
-        upgrade.querySelector('#form-strasse').value = strasse;
-        upgrade.querySelector('#form-plz').value = plz;
-        upgrade.querySelector('#form-ort').value = ort;
-        upgrade.querySelector('#form-land').value = land;
-        upgrade.querySelector('#form-uid').value = uid;
-        upgrade.querySelector('#form-mitteilung').value = mitteilung;
+      // Hidden-Felder befüllen
+      upgrade.querySelector('#form-produkt').value = produkt;
+      upgrade.querySelector('#form-termin').value = termin;
+      upgrade.querySelector('#form-anrede').value = anrede;
+      upgrade.querySelector('#form-titel').value = titel;
+      upgrade.querySelector('#form-vorname').value = vorname;
+      upgrade.querySelector('#form-nachname').value = nachname;
+      upgrade.querySelector('#form-email').value = email;
+      upgrade.querySelector('#form-strasse').value = strasse;
+      upgrade.querySelector('#form-plz').value = plz;
+      upgrade.querySelector('#form-ort').value = ort;
+      upgrade.querySelector('#form-land').value = land;
+      upgrade.querySelector('#form-uid').value = uid;
+      upgrade.querySelector('#form-mitteilung').value = mitteilung;
 
-        // Formular an Formspree senden
-        upgrade.submit();
+      console.log("✅ Form wird an Formspree gesendet:", produkt, email);
 
-        // Weiterleitung zu Stripe nach kurzem Delay
-        setTimeout(() => {
-          const stripeLink = form.getAttribute('action');
-          if (stripeLink) {
-            window.location.href = stripeLink;
-          }
-        }, 500);
+      // Formular sicher an Formspree senden
+      fetch(upgrade.action, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams(new FormData(upgrade)).toString()
+      })
+      .then(response => {
+        console.log("✅ Formspree-Response:", response.status);
+      })
+      .catch(error => {
+        console.error("❌ Fehler beim Senden an Formspree:", error);
       });
+
+      // Danach Stripe öffnen
+      setTimeout(() => {
+        const stripeLink = form.getAttribute('action');
+        if (stripeLink) {
+          window.location.href = stripeLink;
+        }
+      }, 500);
     });
   });
+});
 </script>

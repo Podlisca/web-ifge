@@ -29,7 +29,7 @@ s
 #### Start: Termine in Planung
 
 Die Ausbildung umfasst 28 Ausbildungststunden.<br/>
-Die Veranstaltung wird über Webex Meeting abgehalten.
+Die Veranstaltung wird über Teams meeting abgehalten.
 
 **Modul 1:** 13. März 2021 von 10:00 bis 17:00 Uhr<br/>
 **Modul 2:** 14. März 2021 von 10:00 bis 17:00 Uhr <br/>

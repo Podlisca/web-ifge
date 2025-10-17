@@ -65,7 +65,7 @@ Der Nutzer ist Teilnehmer des Onlinelehrgangs „Tiergestütztes Coaching“ des
 2.	Zugang
 Der Nutzer erhält per E-Mail einen Link samt Zugangscode, mit dem er für den Zeitraum von drei Jahren die Kursunterlagen abrufen kann. Die Video - Aufzeichnungen der Lehrgänge werden von IFGE gespeichert und stehen dem Nutzer für den Zeitraum des jeweiligen Lehrgangs zum jederzeitigen Abruf in der Mediathek zur Verfügung. 
 
-Alle Interaktiven Lehrveranstaltungen werden über Webex Meeting aufgezeichnet. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Nach Ablauf des Lehrgangs werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. In der Mediathek sind somit immer nur die Video - Aufzeichnungen des laufenden Lehrgangs abrufbar. 
+Alle Interaktiven Lehrveranstaltungen werden über Teams meeting aufgezeichnet. Mit der Teilnahme an den Interakten Lehrveranstaltungen stimmen Sie der Aufzeichnung zu. Nach Ablauf des Lehrgangs werden die gespeicherten Video - Aufzeichnungen von IFGE nicht mehr zur Verfügung gestellt. In der Mediathek sind somit immer nur die Video - Aufzeichnungen des laufenden Lehrgangs abrufbar. 
 3.	Nutzungsbedingungen
 Die Nutzung gemäß Punkt 1. und 2. steht ausschließlich Lehrgangsteilnehmern des IFGE zur Verfügung, die eine entsprechende Lizenz erworben haben. Der Zugang ist nur zur ausschließlich persönlichen Verwendung gestattet.
 Es ist daher jedem Nutzer untersagt, nicht berechtigten Personen Zugang zu den Leistungen gemäß Punkt 1. und 2. zu verschaffen, sei es durch Weitergabe der Zugangsdaten, Überlassung von eingeloggten Endgeräten, Vorführungen oder auf welche Art auch immer.

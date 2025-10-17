@@ -27,7 +27,7 @@ weight: 3
 #### Start: 10. Dezember 2022 
 
 Jedes Modul besteht aus 12 Unterrichtsstsunden. 
-Die Veranstaltung wird über Webex Meeting abgehalten.
+Die Veranstaltung wird über Teams meeting abgehalten.
 
 **Modul 1: 10.12.2022** von 10:00 bis 16:00 Uhr <br/>
 **Modul 2: 14.12.2022** von 10:00 bis 16:00 Uhr <br/>

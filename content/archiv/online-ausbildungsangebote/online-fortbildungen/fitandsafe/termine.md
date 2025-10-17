@@ -35,7 +35,7 @@ Die Ausbildung umfasst 6 Ausbildungststunden.<br/>
 
 Seminarzeit 10:00 bis 16:00 Uhr.<br/>
 
-Die Veranstaltung wird über Webex Meeting abgehalten.
+Die Veranstaltung wird über Teams meeting abgehalten.
 
 **Modul 1: in Planung** <br/>
 
