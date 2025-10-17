@@ -59,113 +59,10 @@ og_image: "/img/hollandst.jpg"
 {{% /box %}}
 </section>
 
-<!-- 3 Kästchen -->
-
 <section class="ifge-kartenbereich">
   <div class="karten-container">
-<div class="karte">
-  <img src="/img/icon/familienaufstellung.png" alt="Icon Beratung" class="karten-icon">
-  <h2>
-    <a href="https://www.ifge.at/psychologische-beratung/einzelberatung/" target="_blank">
-      PSYCHOLOGISCHE BERATUNG
-    </a>
-  </h2>
-  <p>
-    Wenn du in einer belastenden Situation steckst, begleite ich dich – mit Herz, Klarheit und über 25 Jahren Erfahrung. 
-    Ob <a href="https://www.ifge.at/psychologische-beratung/einzelberatung/" target="_blank">persönlich</a>, 
-    online oder <a href="https://www.ifge.at/psychologische-beratung/tiergestuetzteberatung/" target="_blank">mit Hund</a>: 
-    Du darfst dich verstanden fühlen – als Einzelperson, in der 
-    <a href="https://www.ifge.at/psychologische-beratung/paarberatung/" target="_blank">Partnerschaft</a> 
-    oder im <a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familiensystem</a>.
-  </p>
-</div>
-
-<div class="karte">
-  <img src="/img/icon/familienaufstellung.png" alt="Icon Aufstellung" class="karten-icon">
-  <h2>
-    <a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">
-      FAMILIENAUFSTELLUNG
-    </a>
-  </h2>
-  <p>
-    Oft sind es unsichtbare Bindungen, die dich zurückhalten. In Aufstellungen – 
-    <a href="https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/" target="_blank">einzeln</a> 
-    oder in der 
-    <a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Gruppe</a> – 
-    eröffne ich dir einen Raum, um mit systemischer Klarheit und Mitgefühl neue Perspektiven zu entdecken und dich zu stärken.
-  </p>
-</div>
-
-<div class="karte">
-  <img src="/img/icon/familienaufstellung.png" alt="Icon Ausbildung" class="karten-icon">
-  <h2><a href="https://www.ifge.at/onlineakademie/" target="_blank">AUSBILDUNGSANGEBOTE</a></h2>
-  <p>
-    Du möchtest selbst beratend arbeiten? In der 
-    <a href="https://www.ifge.at/onlineakademie/" target="_blank">IFGE Onlineakademie</a> 
-    und mit <a href="https://sinnsex.at/" target="_blank">SinnSex</a> 
-    vermittle ich dir fundiertes Wissen aus Praxis und Wissenschaft. 
-    Du lernst systemisch, kultursensibel und mit dem Blick auf das, was deine Klient:innen wirklich stärkt.
-  </p> 
-</div>
-
-
-  {{% /box %}}
-
-<section style="background-color: var(--color-green); color: white; text-align: center; padding: 2.5rem 1rem;">
-  <p style="max-width: 900px; margin: 0 auto; font-size: 1.2rem; line-height: 1.6;">
-
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
-  <p><strong>Die IFGE Räume sind mehr als nur ein Ort</strong> – sie laden ein zum Ankommen, Innehalten und Entfalten.</p>
-
-  <p>Im IFGE verbinden sich Erfahrung, Haltung und Atmosphäre zu einem Ort, der stärkt, nährt und inspiriert.  
-  Ob du auf der Suche nach neuer Orientierung bist, dich in einer herausfordernden Lebensphase befindest  
-  oder frische Impulse für deine beraterische Praxis suchst – hier darfst du einfach sein.</p>
-
-  <p>Manchmal genügt ein Moment der Stille, ein geschützter Raum oder ein echtes Gespräch,  
-  um bei dir selbst anzukommen und neue Perspektiven zu entfalten.</p>
-
-  <p><em><strong>„Das Leben will gelebt werden.“</strong></em><br />
-  Dieser Satz begleitet mich seit vielen Jahren – als innere Haltung, als Einladung und Erinnerung daran,  
-  dass Wandel möglich ist. Dass du dich zeigen darfst – mit dem, was ist – und dass Entwicklung immer wieder neu beginnen kann.</p>
-
-  <p>Du bist herzlich willkommen, diesen Raum für dich zu entdecken.</p>
-</div>
-
-
-
-    
-  </p>
-  <br />
-
-{{% box top-align=1 %}}
-
-{{% small %}}
-<div style="margin-bottom: 1.5rem;">
-  {{< image src="/img/1020_3.webp" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an." >}}
-</div>
-{{% /small %}}
-
-{{% small %}}
-<div style="margin-bottom: 1.5rem;">
-  {{< image src="/img/1020_4.webp" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." >}}
-</div>
-{{% /small %}}
-
-{{% small %}}
-<div style="margin-bottom: 1.5rem;">
-  {{< image src="/img/1020_15.webp" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." >}}
-</div>
-{{% /small %}}
-
-{{% /box %}}
-
-
-
-</section>
-
 <section class="vorteile-container ifge-tuerkis">
-
-  <h2 style="color: white;">Mein Angebot für dich</h2>
+  <h1 style="color: white;">Mein Angebot für dich</h1>
 
 <div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin-top: 2rem;">
   <div class="vorteil-box">
@@ -247,26 +144,71 @@ og_image: "/img/hollandst.jpg"
 </div>
 
 </div> <!-- schließt .karten-container -->
-</section> <!-- schließt türkisen Bereich -->
+</div>
 
-<!-- Jetzt startet der Slider-Bereich außerhalb des türkisen Feldes -->
-<section class="slider-bereich">
-
-
-
-  {{% box top-align=1 %}}
-
-  {{% small  %}}
-  <h3 style="color: white; text-align: center;">Wien</h3>
-  {{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img/1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,/img/1020_14.webp" >}}
-  {{% /small  %}}
-
-  {{% small  %}}
-  <h3 style="color: white; text-align: center;">Burgenland</h3>
-  {{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
-  {{% /small  %}}
 
   {{% /box %}}
+
+<section style="background-color: var(--color-green); color: white; text-align: center; padding: 2.5rem 1rem;">
+  <p style="max-width: 900px; margin: 0 auto; font-size: 1.2rem; line-height: 1.6;">
+
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+
+***
+
+ <h1 style="color: white;">Die IFGE Räumlichkeiten</h1>
+
+ ***
+  <p><strong>Die IFGE Räume sind mehr als nur ein Ort</strong> – sie laden ein zum Ankommen, Innehalten und Entfalten.</p>
+
+  <p>Im IFGE verbinden sich Erfahrung, Haltung und Atmosphäre zu einem Ort, der stärkt, nährt und inspiriert.  
+  Ob du auf der Suche nach neuer Orientierung bist, dich in einer herausfordernden Lebensphase befindest  
+  oder frische Impulse für deine beraterische Praxis suchst – hier darfst du einfach sein.</p>
+
+  <p>Manchmal genügt ein Moment der Stille, ein geschützter Raum oder ein echtes Gespräch,  
+  um bei dir selbst anzukommen und neue Perspektiven zu entfalten.</p>
+
+  <p><em><strong>„Das Leben will gelebt werden.“</strong></em><br />
+  Dieser Satz begleitet mich seit vielen Jahren – als innere Haltung, als Einladung und Erinnerung daran,  
+  dass Wandel möglich ist. Dass du dich zeigen darfst – mit dem, was ist – und dass Entwicklung immer wieder neu beginnen kann.</p>
+
+  <p>Du bist herzlich willkommen, diesen Raum für dich zu entdecken.</p>
+</div>
+
+
+
+    
+  </p>
+  <br />
+
+{{% box top-align=1 %}}
+
+{{% small %}}
+<div style="margin-bottom: 1.5rem;">
+  {{< image src="/img/1020_3.webp" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an." >}}
+</div>
+{{% /small %}}
+
+{{% small %}}
+<div style="margin-bottom: 1.5rem;">
+  {{< image src="/img/1020_4.webp" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." >}}
+</div>
+{{% /small %}}
+
+{{% small %}}
+<div style="margin-bottom: 1.5rem;">
+  {{< image src="/img/1020_15.webp" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." >}}
+</div>
+{{% /small %}}
+
+{{% /box %}}
+
+
+
+</section>
+
+
+</section> <!-- schließt türkisen Bereich -->
 
 
 
