@@ -156,7 +156,7 @@ og_image: "/img/hollandst.jpg"
 
 ***
 
- <h1 style="color: white;">Die IFGE Räumlichkeiten</h1>
+##### Die IFGE Räumlichkeiten
 
  ***
   <p><strong>Die IFGE Räume sind mehr als nur ein Ort</strong> – sie laden ein zum Ankommen, Innehalten und Entfalten.</p>

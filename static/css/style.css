@@ -1113,15 +1113,18 @@ img {
 }
 
 @media (max-width: 768px) {
-  .hero-banner {
-    text-align: center;
-    padding: 2rem 1rem;
-  }
   .hero-banner .hero-textbox {
-    max-width: 90%;
-    padding: 1rem;
+    max-width: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    border-radius: 0;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 1.2rem;
   }
 }
+
 
 h10 {
   display: block;  /* Damit es sich wie ein Block-Element verhält */
