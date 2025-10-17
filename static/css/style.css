@@ -1122,8 +1122,11 @@ img {
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     padding: 1.2rem;
+    bottom: -20px; /* 👈 verschiebt den Banner nach unten */
+    position: relative; /* wichtig, damit "bottom" wirkt */
   }
 }
+
 
 
 h10 {
