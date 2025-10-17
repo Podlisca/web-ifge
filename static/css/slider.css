@@ -90,7 +90,7 @@
   
   .slider .active,
   .blogSlider__dots--dot:hover {
-    background-color: #717171;
+    background-color: rgba(255, 255, 255, 0.25);
   }
   
   

@@ -224,7 +224,7 @@ main {
 
 body > footer {
   grid-area: footer;
-  background-color: var(--color-gray);
+  background-color:  #909090; /* gleiche Farbe wie innen */
   color: white;
   font-size: 0.8rem;
   display: flex;
@@ -232,6 +232,7 @@ body > footer {
   align-items: center;
   padding: 20px;
 }
+
 
 footer .line1 {
   display: flex;

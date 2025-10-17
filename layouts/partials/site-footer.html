@@ -1,10 +1,12 @@
-
+<footer class="ifge-footer">
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
     .ifge-footer {
-      background-color: #7b2b39; /* IFGE-Weinrot */
+      background-color:  #909090; /* Das dunklere Grau – entspricht dem äußeren Bereich */
       color: #fff;
       padding: 3rem 1.5rem 1.5rem;
-      font-family: "Helvetica Neue", sans-serif;
+      font-family: 'Roboto', sans-serif;
       letter-spacing: 0.2px;
     }
 
@@ -20,10 +22,10 @@
     .footer-column h4 {
       text-transform: uppercase;
       font-size: 1rem;
-      color: #fff;
+      color: #ffffff;
       letter-spacing: 0.8px;
       margin-bottom: 0.75rem;
-      font-weight: 700;
+      font-weight: 500;
     }
 
     .footer-column ul {
@@ -37,19 +39,25 @@
     }
 
     .footer-column a {
-      color: #fff;
+      color: #ffffff; /* Weiß, für beste Lesbarkeit */
       text-decoration: underline;
       text-underline-offset: 3px;
       transition: color 0.3s ease;
     }
 
     .footer-column a:hover {
-      color: #00a6a6; /* IFGE-Türkis beim Hover */
+      color: #7b2b39; /* Weinrot beim Hover */
+    }
+
+    .footer-column p {
+      margin: 0;
+      line-height: 1.6;
+      color: #ffffff;
     }
 
     .footer-btn {
       display: inline-block;
-      background-color: #00a6a6; /* Türkis */
+      background-color: #7b2b39; /* Weinrot */
       color: #fff !important;
       padding: 0.6rem 1.2rem;
       border-radius: 4px;
@@ -62,11 +70,11 @@
     }
 
     .footer-btn:hover {
-      background-color: #009090;
+      background-color: #a03a4b;
     }
 
     .footer-bottom {
-      border-top: 1px solid rgba(255, 255, 255, 0.25);
+      border-top: 1px solid  #909090;
       text-align: left;
       margin-top: 2.5rem;
       padding-top: 1rem;
@@ -74,7 +82,6 @@
       color: #f8f8f8;
     }
 
-    /* Mobil optimiert */
     @media (max-width: 768px) {
       .footer-container {
         grid-template-columns: 1fr;
@@ -86,7 +93,6 @@
   </style>
 
   <div class="footer-container">
-    <!-- Spalte 1 -->
     <div class="footer-column">
       <h4>Angebote</h4>
       <ul>
@@ -98,7 +104,6 @@
       </ul>
     </div>
 
-    <!-- Spalte 2 -->
     <div class="footer-column">
       <h4>Informationen</h4>
       <ul>
@@ -110,15 +115,14 @@
       </ul>
     </div>
 
-    <!-- Spalte 3 -->
     <div class="footer-column">
       <h4>Kontakt</h4>
       <p>
         Silvia Podlisca<br>
         Institut für ganzheitliches Erleben<br>
         1020 Wien, Hollandstraße 12/9<br><br>
-        <a href="tel:+436766108936" style="color:#fff; text-decoration:none;">+43 676 610 89 36</a><br>
-        <a href="mailto:silvia.podlisca@ifge.at" style="color:#fff; text-decoration:none;">silvia.podlisca@ifge.at</a>
+        <a href="tel:+436766108936" style="color:#ffffff; text-decoration:none;">+43 676 610 89 36</a><br>
+        <a href="mailto:silvia.podlisca@ifge.at" style="color:#ffffff; text-decoration:none;">silvia.podlisca@ifge.at</a>
       </p>
       <a href="https://www.ifge.at/psychologische-beratung/onlinebuchung-beratung/" class="footer-btn">Termin vereinbaren</a>
     </div>
