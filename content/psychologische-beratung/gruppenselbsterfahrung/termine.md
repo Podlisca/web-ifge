@@ -76,7 +76,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 <div class="aufstellung-box" data-termin="Fr, 14.11.2025 – 09:00 bis 18:00 Uhr (Wien)">
   <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
   <p><span class="tuerkis">Termin:</span><br>
-  Fr, 21.11.2025 – 09:00 bis 18:00 Uhr</p>
+  Sa, 22.11.2025 – 09:00 bis 18:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
   📍 <strong>Ort:</strong> Hollandstr. 12/9, 1020 Wien</p>
 
