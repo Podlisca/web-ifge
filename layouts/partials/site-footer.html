@@ -1,19 +1,130 @@
-<div class="line1">
-    <img src="/img/impulspro.jpg" alt="ImpulsPro" class="logo"/>
-    <img src="/img/aufstellungsarbeit.jpg" alt="ImpulsPro Aufstellungsarbeit" class="logo"/>
-    <img src="/img/supervision.jpg" alt="ImpulsPro Supervision" class="logo"/>
-</div>
-<div class="line2">
-<img src="/img/logo_2025.jpg" alt="IFGE Logo klein" class="logo"/>
 
-{{ $currentPage := . }}
-{{ range .Site.Menus.footer }}
-    <div>
-        <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>   
-    </div>      
-{{ end }}
-<div><a href="javascript:void(0)" class="popup-trigger" data-popup-trigger="subscribe">Newsletter</a></div>
-<div>{{ now.Format "02.01.2006"}}</div>
-</div>
+  <style>
+    .ifge-footer {
+      background-color: #7b2b39; /* IFGE-Weinrot */
+      color: #fff;
+      padding: 3rem 1.5rem 1.5rem;
+      font-family: "Helvetica Neue", sans-serif;
+      letter-spacing: 0.2px;
+    }
 
-{{/*  15:04   */}}
+    .footer-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 2.5rem;
+      max-width: 1100px;
+      margin: 0 auto;
+      text-align: left;
+    }
+
+    .footer-column h4 {
+      text-transform: uppercase;
+      font-size: 1rem;
+      color: #fff;
+      letter-spacing: 0.8px;
+      margin-bottom: 0.75rem;
+      font-weight: 700;
+    }
+
+    .footer-column ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-column ul li {
+      margin-bottom: 0.45rem;
+    }
+
+    .footer-column a {
+      color: #fff;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      transition: color 0.3s ease;
+    }
+
+    .footer-column a:hover {
+      color: #00a6a6; /* IFGE-Türkis beim Hover */
+    }
+
+    .footer-btn {
+      display: inline-block;
+      background-color: #00a6a6; /* Türkis */
+      color: #fff !important;
+      padding: 0.6rem 1.2rem;
+      border-radius: 4px;
+      margin-top: 1.2rem;
+      font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      transition: background-color 0.3s ease;
+      text-decoration: none !important;
+    }
+
+    .footer-btn:hover {
+      background-color: #009090;
+    }
+
+    .footer-bottom {
+      border-top: 1px solid rgba(255, 255, 255, 0.25);
+      text-align: left;
+      margin-top: 2.5rem;
+      padding-top: 1rem;
+      font-size: 0.85rem;
+      color: #f8f8f8;
+    }
+
+    /* Mobil optimiert */
+    @media (max-width: 768px) {
+      .footer-container {
+        grid-template-columns: 1fr;
+      }
+      .footer-bottom {
+        text-align: center;
+      }
+    }
+  </style>
+
+  <div class="footer-container">
+    <!-- Spalte 1 -->
+    <div class="footer-column">
+      <h4>Angebote</h4>
+      <ul>
+        <li><a href="https://www.ifge.at/psychologische-beratung/einzelberatung/">Psychologische Einzelberatung</a></li>
+        <li><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/">Sexualberatung</a></li>
+        <li><a href="https://www.ifge.at/psychologische-beratung/paarberatung/">Paarberatung</a></li>
+        <li><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/">Krisenberatung</a></li>
+        <li><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/">Familienaufstellungen</a></li>
+      </ul>
+    </div>
+
+    <!-- Spalte 2 -->
+    <div class="footer-column">
+      <h4>Informationen</h4>
+      <ul>
+        <li><a href="https://www.ifge.at/impressum/">Impressum</a></li>
+        <li><a href="https://www.ifge.at/agb/">AGB</a></li>
+        <li><a href="https://www.ifge.at/widerrufsbelehrung/">Widerrufsbelehrung</a></li>
+        <li><a href="https://www.ifge.at/datenschutz/">Datenschutz</a></li>
+        <li><a href="https://www.ifge.at/cookie-richtlinie/">Cookie-Richtlinie</a></li>
+      </ul>
+    </div>
+
+    <!-- Spalte 3 -->
+    <div class="footer-column">
+      <h4>Kontakt</h4>
+      <p>
+        Silvia Podlisca<br>
+        Institut für ganzheitliches Erleben<br>
+        1020 Wien, Hollandstraße 12/9<br><br>
+        <a href="tel:+436766108936" style="color:#fff; text-decoration:none;">+43 676 610 89 36</a><br>
+        <a href="mailto:silvia.podlisca@ifge.at" style="color:#fff; text-decoration:none;">silvia.podlisca@ifge.at</a>
+      </p>
+      <a href="https://www.ifge.at/psychologische-beratung/onlinebuchung-beratung/" class="footer-btn">Termin vereinbaren</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    © 2025 IFGE – Institut für ganzheitliches Erleben | Silvia Podlisca e.U.
+  </div>
+</footer>
