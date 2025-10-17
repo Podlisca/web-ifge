@@ -70,22 +70,26 @@ document.addEventListener('DOMContentLoaded', function () {
       upgrade.querySelector('#form-uid').value = uid;
       upgrade.querySelector('#form-mitteilung').value = mitteilung;
 
-      console.log("✅ Form wird an Formspree gesendet:", produkt, email);
+      console.log("✅ Formular wird an Formspree gesendet:", produkt, email);
 
-      // Formular sicher an Formspree senden
+      // Formular sicher an Formspree senden (ohne Header-Probleme)
+      const formData = new FormData(upgrade);
       fetch(upgrade.action, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: new URLSearchParams(new FormData(upgrade)).toString()
+        body: formData
       })
       .then(response => {
-        console.log("✅ Formspree-Response:", response.status);
+        if (response.ok) {
+          console.log("✅ Form erfolgreich an Formspree gesendet!");
+        } else {
+          console.error("❌ Formspree-Fehler:", response.status);
+        }
       })
       .catch(error => {
         console.error("❌ Fehler beim Senden an Formspree:", error);
       });
 
-      // Danach Stripe öffnen
+      // Danach Stripe öffnen (nach kurzem Delay)
       setTimeout(() => {
         const stripeLink = form.getAttribute('action');
         if (stripeLink) {
