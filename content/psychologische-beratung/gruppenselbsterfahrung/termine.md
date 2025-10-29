@@ -73,115 +73,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 
 
 
-<div class="aufstellung-box" data-termin="Fr, 14.11.2025 – 09:00 bis 18:00 Uhr (Wien)">
-  <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (8 STUNDEN) IN WIEN</h4>
-  <p><span class="tuerkis">Termin:</span><br>
-  Sa, 22.11.2025 – 09:00 bis 18:00 Uhr</p>
-  <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
-  📍 <strong>Ort:</strong> Hollandstr. 12/9, 1020 Wien</p>
 
-  <p><span class="tuerkis">1. Bitte wähle deine Teilnahmevariante:</span></p>
-  <div class="teilnahme-buttons">
-    <button onclick="auswahl8h('anliegen8h')" style="border: 2px solid #00A6A6;">✨ Teilnehmer:in mit Anliegen: Preis: 260 €</button>
-    <button onclick="auswahl8h('beobachtung8h')" style="border: 2px solid #B03C4C;">✨Teilnehmer:in ohne Anliegen: Preis: 110 €</button>
-  </div>
-
-  <div id="zustimmungen8h" class="stufe">
-    <p><span class="tuerkis">2. Bitte bestätige vor der Anmeldung:</span></p>
-    <label><input type="checkbox" id="agb8h"> Ich stimme den <a href="/agb/">AGB</a> zu </label>
-    <label><input type="checkbox" id="datenschutz8h"> Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a> </label>
-    <label><input type="checkbox" id="widerruf8h"> Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen </label>
-  </div>
-
-
-
-<div id="formular8h" class="stufe" data-termin="Fr, 14.11.2025 – 14.09.2025 (Wien)">
-  <p><span class="tuerkis">3. Melde dich hier an:</span></p>
-
-  <input type="hidden" id="termin">
-
-
-  <label>Anrede*:<br>
-    <select id="anrede" required>
-      <option value="">Bitte wählen</option>
-      <option value="Frau">Frau</option>
-      <option value="Herr">Herr</option>
-      <option value="Divers">Divers</option>
-    </select>
-  </label>
-
-  <label>Titel (optional):<br>
-    <select id="titel">
-      <option value="">Kein Titel</option>
-      <option value="Mag.">Mag.</option>
-      <option value="Dr.">Dr.</option>
-      <option value="Prof.">Bsc.</option>
-      <option value="Prof.">Msc.</option>
-      <option value="Prof.">Dipl. Ing.</option>
-    </select>
-  </label>
-
-  <label>Vorname*:<br><input type="text" id="vorname8h"></label>
-  <label>Nachname*:<br><input type="text" id="nachname8h"></label>
-  <label>E-Mail*:<br><input type="email" id="email8h"></label>
-  <label>Straße:<br><input type="text" id="strasse"></label>
-  <label>PLZ:<br><input type="text" id="plz"></label>
-  <label>Ort:<br><input type="text" id="ort"></label>
-  <label>Land:<br><input type="text" id="land"></label>
-  <label>UID (wenn vorhanden):<br><input type="text" id="uid"></label>
-  <label>Mitteilung:<br><textarea id="mitteilung"></textarea></label>
-  <label><input type="checkbox" id="newsletter"> Ich möchte den Newsletter erhalten</label>
-    <button id="zahlungBtn8h" disabled onclick="weiterleiten8h()">Zur Zahlung (Stripe)</button>
-  </div>
-</div>
-
-<script>
-  let produktwahl8h = '';
-
-  function auswahl8h(wahl) {
-    produktwahl8h = wahl;
-    document.getElementById('zustimmungen8h').style.display = 'block';
-    document.getElementById('formular8h').style.display = 'none';
-    document.getElementById('zahlungBtn8h').disabled = true;
-
-    document.getElementById('agb8h').checked = false;
-    document.getElementById('datenschutz8h').checked = false;
-    document.getElementById('widerruf8h').checked = false;
-  }
-
-  const agb8 = document.getElementById('agb8h');
-  const ds8 = document.getElementById('datenschutz8h');
-  const wid8 = document.getElementById('widerruf8h');
-  const vor8 = document.getElementById('vorname8h');
-  const nach8 = document.getElementById('nachname8h');
-  const mail8 = document.getElementById('email8h');
-  const btn8 = document.getElementById('zahlungBtn8h');
-
-  [agb8, ds8, wid8].forEach(el => {
-    el.addEventListener('change', () => {
-      const zustimmOK = agb8.checked && ds8.checked && wid8.checked;
-      document.getElementById('formular8h').style.display = zustimmOK ? 'block' : 'none';
-      validate8h();
-    });
-  });
-
-  [vor8, nach8, mail8].forEach(el => {
-    el.addEventListener('input', validate8h);
-  });
-
-  function validate8h() {
-    const allesDa = vor8.value && nach8.value && mail8.value;
-    btn8.disabled = !allesDa;
-  }
-
-  function weiterleiten8h() {
-    if (produktwahl8h === 'anliegen8h') {
-      window.location.href = 'https://buy.stripe.com/bJe14o2rcgRX7Wg0pU3sI02';
-    } else if (produktwahl8h === 'beobachtung8h') {
-      window.location.href = 'https://buy.stripe.com/dRm00kfdY1X3a4o4Ga3sI03';
-    }
-  }
-</script>
 
 
 <div class="aufstellung-box" data-termin="Fr, 12.09.2025 – 14.09.2025 (Wien)">
@@ -307,7 +199,7 @@ Die Familienaufstellungen werden in unterschiedlichen Settings angeboten. Die Te
 <div class="aufstellung-box" data-termin="Mo, 13.10.2025 – 09:00 bis 18:00 Uhr (Bgld.)">
   <h4> FAMILIENAUFSTELLUNG – EINTAGES-AUFSTELLUNG (6 STUNDEN) IN PINKAFELD</h4>
   <p><span class="tuerkis">Termin:</span><br>
-  Mo, 27.10.2025 – 14:00 bis 20:00 Uhr</p>
+  Mo, 08.12.2025 – 14:00 bis 20:00 Uhr</p>
   <p><span class="tuerkis">Leitung:</span> Silvia Podlisca<br>
   📍 <strong>Ort:</strong> Bruckgasse 1, 7423 Pinkafeld</p>
 
