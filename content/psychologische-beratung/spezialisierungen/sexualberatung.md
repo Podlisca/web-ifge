@@ -141,8 +141,26 @@ Hier gilt es für mich als Beraterin, ganz bewusst und wertschätzend die Augen 
 {{< line icon="icon/sexualberatung.png" >}}
 
 
+<section id="joyclub-kooperation" class="mt-8 mb-12">
+  <div class="container mx-auto px-4 text-center">
+    <h2 class="text-2xl font-semibold mb-4">Kooperation mit JOYclub</h2>
+    <p class="mb-4">
+      Ich freue mich, Teil der <strong>Sex Education Initiative von 
+      <a href="https://www.joyclub.de/" target="_blank" rel="noopener noreferrer">
+      JOYclub – Meine Community für stilvolle Erotik</a></strong> zu sein.
+    </p>
+    <p class="mb-4">
+      Im Rahmen dieser Kooperation gestalte ich regelmäßig <strong>Vorträge, Workshops und Live-Events</strong> 
+      zu Themen rund um Sexualität, Beziehung und persönliche Entwicklung.
+    </p>
+    <p>
+      Mein Ziel ist es, Menschen auf <strong>wertschätzende und wissenschaftlich fundierte Weise</strong> dabei zu unterstützen,
+      mehr Bewusstsein, Freude und Verbundenheit in ihrer Sexualität zu erleben.
+    </p>
+  </div>
+</section>
 
-
+{{< line icon="icon/sexualberatung.png" >}}
 
 # Spezialisierungen
 ## Silvia - Seit 25 Jahren an deiner Seite - Für eine positive Lebensgestaltung
