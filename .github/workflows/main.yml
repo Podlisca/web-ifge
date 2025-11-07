@@ -1,46 +1,31 @@
 name: Hugo build
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   push:
     branches: [ master ]
-    
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v4
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2.6.0
+      uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.123.4'
-    
+        hugo-version: '0.80.0'
+
     - name: Build
-      run: hugo --baseURL="https://www.ifge.at"
+      run: hugo --baseURL="https://www.fcbp.at"
       env:
         TZ: Europe/Vienna 
-
-    - name: Zip
-      run: |
-        mkdir out
-        zip out/public.zip ./public/* -r
 
     - name: Deploy to FTP 
       uses: sebastianpopp/ftp-action@releases/v2
       with:
         host: ftp://host38.ssl-net.net
-        user: fcbp_at_ifge_leichtware
+        user: fcbp_at
         password: ${{ secrets.FTP_PASSWORD }}
-        localDir: "out"
+        localDir: "public"
         remoteDir: "/"
-
-    - name: Trigger unzip
-      run: curl https://ifge.at/update.php
