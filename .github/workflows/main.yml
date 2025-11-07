@@ -17,7 +17,7 @@ jobs:
         hugo-version: '0.80.0'
 
     - name: Build
-      run: hugo --baseURL="https://www.fcbp.at"
+      run: hugo --baseURL="https://www.ifge.at"
       env:
         TZ: Europe/Vienna 
 
@@ -25,7 +25,7 @@ jobs:
       uses: sebastianpopp/ftp-action@releases/v2
       with:
         host: ftp://host38.ssl-net.net
-        user: fcbp_at
+        user: fcbp_at_ifge_leichtware
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "public"
-        remoteDir: "/"
+        remoteDir: "/ifge.at"
