@@ -24,7 +24,7 @@ jobs:
     - name: Deploy to FTP 
       uses: sebastianpopp/ftp-action@releases/v2
       with:
-        host: ftp://host38.ssl-net.net
+        host: host38.ssl-net.net
         user: fcbp_at_ifge_leichtware
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "public"
