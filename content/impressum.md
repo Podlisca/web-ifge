@@ -51,8 +51,6 @@ Gerichtsstand ist das zuständige Gericht in Wien.
  Videos: [Alina Sprenger](https://alinasprenger.com/) & Silvia Podlisca <br/>
  Icons by [Noun Project](https://thenounproject.com/)
 
- 
-
  test 3
 
  
