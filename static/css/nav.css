@@ -1,19 +1,20 @@
 @import "theme.css";
 
-/* Add a black background color to the top navigation */
+/* ---------- Hauptnavigation ---------- */
 
 .topnav {
   color: white;
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
-  justify-content: flex-end;  
+  justify-content: flex-end;
   max-width: 740px;
 }
 
-/* Style the links inside the navigation bar */
+/* ---------- Links und Dropdown-Buttons ---------- */
 
-.topnav a, .topnav .has-dropdown {  
+.topnav a,
+.topnav .has-dropdown {
   display: block;
   color: inherit;
   text-align: center;
@@ -26,21 +27,25 @@
   cursor: default;
 }
 
-.topnav .active, .topnav .desktop .has-dropdown:hover {    
+/* Aktiver Menüpunkt */
+.topnav .active,
+.topnav .desktop .has-dropdown:hover {
   background: var(--color-creme);
   color: var(--color-red);
 }
 
-.desktop .has-dropdown:hover svg, .topnav .active svg {
+.desktop .has-dropdown:hover svg,
+.topnav .active svg {
   fill: var(--color-red);
 }
 
-/* Add an active class to highlight the current page */
-
-.dropdown-content a.active {  
+/* Aktiver Link in Dropdown */
+.dropdown-content a.active {
   color: var(--color-red);
   background-color: var(--color-creme);
 }
+
+/* ---------- Dropdown-Struktur ---------- */
 
 .dropdown-content .subtitle {
   padding: 8px;
@@ -48,17 +53,10 @@
   padding-left: 16px;
   font-weight: bold;
 }
+
 .dropdown-content .subcontent {
   margin-left: 2rem;
 }
-
-/* Hide the link that should open and close the topnav on small screens */
-
-.topnav .icon {
-  display: none;
-}
-
-/* Dropdown container - needed to position the dropdown content */
 
 .dropdown {
   float: left;
@@ -70,8 +68,7 @@
   color: var(--color-creme);
 }
 
-/* Style the dropdown button to fit inside the topnav */
-
+/* Dropdown-Button */
 .dropdown .dropbtn {
   font-size: 17px;
   border: none;
@@ -83,8 +80,7 @@
   margin: 0;
 }
 
-/* Style the dropdown content (hidden by default) */
-
+/* Dropdown-Inhalt */
 .dropdown-content {
   color: white;
   display: none;
@@ -95,8 +91,7 @@
   z-index: 1;
 }
 
-/* Style the links inside the dropdown */
-
+/* Links im Dropdown */
 .dropdown-content a {
   float: none;
   padding: 8px 16px;
@@ -105,131 +100,117 @@
   text-align: left;
 }
 
-/* Add a dark background on topnav links and the dropdown button on hover */
-
-.mobile .topnav a:hover, .dropdown:hover .dropbtn {
+/* Hover-Effekte */
+.mobile .topnav a:hover,
+.dropdown:hover .dropbtn {
   background-color: var(--color-creme);
   color: var(--color-red);
 }
-
-/* Add a grey background to dropdown links on hover */
 
 .dropdown-content a:hover {
   background-color: var(--color-creme);
   color: var(--color-red);
 }
 
-/* Show the dropdown menu when the user moves the mouse over the dropdown button */
-
+/* Dropdown sichtbar beim Hover */
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/* ---------- Submenüs ---------- */
 
 .submenu-toggler {
   display: none;
   width: 3em;
 }
+
 .topnav .dropdown .mobile {
   display: none;
 }
 
-/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+/* ---------- Mobile Navigation (neu, verbessert) ---------- */
 
 @media screen and (max-width: 700px), (pointer: coarse) {
-  /* .topnav a:not(:first-child), .dropdown .dropbtn { */
-  .topnav a, .dropdown {
-    display: none;
+  .topnav {
+    flex-wrap: wrap;
+    justify-content: center;
   }
+
+  .topnav a,
+  .dropdown {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+  }
+
   .topnav a.icon {
-    float: right;
-    display: block;
+    display: inline-block;
     font-size: 1.5em;
+    margin-left: auto;
   }
-}
 
-/* The "show" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-
-@media screen and (max-width: 700px), (pointer: coarse) {
-  .topnav.show {
-    position: absolute;
+  .dropdown-content {
+    position: static;
+    box-shadow: none;
     background-color: var(--color-green);
-    top: 0;
-    left: 0;
-    width: 100%;
+  }
+
+  .dropdown-content a {
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+  }
+
+  .topnav.show {
     flex-direction: column;
+    background-color: var(--color-green);
+    width: 100%;
     z-index: 99;
   }
-  .topnav.show > div {
-    width: 100%;
+
+  .topnav.show a {
+    display: block;
+    padding: 0.75rem 1em;
+    text-align: center;
+    border-top: 1px solid var(--color-creme);
   }
 
-  .topnav.show a, .topnav.show > div {
-    float: none;
-    
-    display: block;
-    text-align: left;
-    border-top: 1px solid var(--color-dark);
-    border-bottom: 1px rgba(0,0,0,.15) solid;    
-  }
-  .topnav.show a {
-    padding: 0.5rem 1em;
-  }
   .topnav.show .submenu-toggler {
     display: block;
   }
+
   .topnav.show .dropdown {
     float: none;
   }
+
   .topnav.show .dropdown-content {
     position: relative;
-    margin-left: 20px;
-    /* box-shadow: -7px 1px 0px 0px rgba(0, 0, 0, 0.2); */
+    margin: 0;
   }
-  .topnav.topnav.show .icon {
-    align-self: flex-end;    
-  }
-  .topnav.topnav.show .icon a {
-    width: none;
-  }
-  .topnav.show .dropdown .dropbtn {
-    display: block;
-    width: 100%;
-    text-align: left;
-  }
-  .dropdown:hover .dropdown-content {
-    display: none;
-  }
-  .topnav.topnav.show .show .dropdown-content {
-    display: block;
-  }
-  .topnav.show .submenu-toggler a {
-    border-bottom-width: 0px;
-  }
-  
+
   .topnav.show .dropdown .mobile {
     display: block;
   }
+
   .topnav.show .dropdown .desktop {
     display: none;
   }
-  .topnav.show .toggleResponsive a {
-    text-align: right;
-  }
 }
 
+/* ---------- Icons & Pfeile ---------- */
+
 .dropdown.show .has-dropdown svg {
-  transform: rotate(0);  
+  transform: rotate(0);
 }
 
 div.has-dropdown svg {
   fill: white;
-  width: 10px; 
+  width: 10px;
   height: auto;
   transition: ease 200ms;
 }
 
 .mobile div.has-dropdown svg {
-  transform: rotate(-90deg);  
+  transform: rotate(-90deg);
 }
 
 .mobile .has-dropdown {
@@ -240,4 +221,3 @@ div.has-dropdown svg {
   font-size: 0.5em;
   margin-left: 3px;
 }
-
