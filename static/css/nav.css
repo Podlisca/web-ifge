@@ -1,5 +1,9 @@
 @import "theme.css";
 
+/* =========================================================
+   IFGE Navigation & Icons – vollständiger, optimierter Code
+   ========================================================= */
+
 /* ---------- Hauptnavigation ---------- */
 
 .topnav {
@@ -48,9 +52,7 @@
 /* ---------- Dropdown-Struktur ---------- */
 
 .dropdown-content .subtitle {
-  padding: 8px;
-  padding-top: 12px;
-  padding-left: 16px;
+  padding: 8px 16px 0 16px;
   font-weight: bold;
 }
 
@@ -87,7 +89,7 @@
   position: absolute;
   background-color: var(--color-green);
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
 
@@ -128,7 +130,7 @@
   display: none;
 }
 
-/* ---------- Mobile Navigation (neu, verbessert) ---------- */
+/* ---------- Mobile Navigation ---------- */
 
 @media screen and (max-width: 700px), (pointer: coarse) {
   .topnav {
@@ -220,4 +222,36 @@ div.has-dropdown svg {
 .mobile .has-dropdown a span {
   font-size: 0.5em;
   margin-left: 3px;
+}
+
+/* =========================================================
+   ICON-FIX (Mobile & Tablet)
+   ========================================================= */
+
+/* Einheitliche Skalierung für alle Bilder & SVGs */
+img,
+svg {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Wenn Icons in Containern wie .icon oder .card liegen */
+.icon img,
+.icon svg,
+.card img,
+.card svg {
+  max-width: 120px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Speziell für mobile Geräte */
+@media screen and (max-width: 768px) {
+  img,
+  svg {
+    max-width: 80px;
+    height: auto;
+  }
 }
