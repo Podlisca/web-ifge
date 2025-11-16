@@ -37,23 +37,23 @@
 
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/nav.css">
-  <link rel="stylesheet" href="/css/slider.css">
-
+  <!-- DEINE CSS–DATEIEN AUS static/css -->
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/nav.css"   | relURL }}">
+  <link rel="stylesheet" href="{{ "css/slider.css"| relURL }}">
 </head>
 
 <body>
 
-{{ partial "site-navigation" . }}
+  <!-- DEINE NAVI: site-navigation.html -->
+  {{ partial "site-navigation" . }}
 
   <main id="main">
-    {{ block "main" . }}
-    {{ end }}
+    {{ block "main" . }}{{ end }}
   </main>
 
+  <!-- DEIN FOOTER & JS-PARTIAL -->
   {{ partial "footer" . }}
-
   {{ partial "js" . }}
 
 </body>
