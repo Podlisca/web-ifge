@@ -37,12 +37,15 @@
 
   <link rel="canonical" href="{{ .Permalink }}">
 
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/nav.css">
+  <link rel="stylesheet" href="/css/slider.css">
 
 </head>
 
 <body>
 
-  {{ partial "header" . }}
+{{ partial "site-navigation" . }}
 
   <main id="main">
     {{ block "main" . }}
