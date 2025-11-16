@@ -33,16 +33,13 @@
 
   {{- partial "rich-content" . -}}
 
-  <link rel="canonical" href="https://www.ifge.at">
-  <link rel="icon" type="image/png" href="/img/favicon.png">
-  <!-- PWA/Push: Manifest -->
-  <link rel="manifest" href="/manifest.json">
-
+  <!-- KORREKTE EINZIGE HUGO-CSS-PIPELINE -->
   {{- $style := resources.Get "/css/style.css" -}}
   {{- $slider := resources.Get "/css/slider.css" -}}
   {{- $nav := resources.Get "/css/nav.css" -}}
-  {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
-  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}" />
+  {{- $global := slice $style $slider $nav | resources.Concat "/css/global.min.css" | minify | fingerprint -}}
+  <link rel="stylesheet" type="text/css" href="{{ $global.RelPermalink }}" />
+
   <script data-cookieconsent="ignore" async defer src="/app/ifge-buchung.js"></script>
 
   <!-- Google tag (gtag.js) -->
@@ -52,20 +49,23 @@
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-QRLLE9DVGX', {
-      send_page_view: true,               // Sicherstellen, dass jede Seite getrackt wird
-      allow_ad_personalization_signals: true // Optional: Personalisierte Anzeigen zulassen
+      send_page_view: true,
+      allow_ad_personalization_signals: true
     });
   </script>
 </head>
 
 <body>
   <link rel="stylesheet" href="/app/ifge-buchung.css" type="text/css" />
+
   {{ block "includes" . }}{{ end }}
+
   <header>
     <div class="cont">
       <a href="/index.html">
         <img src="/img/logo_2025.jpg" alt="IFGE Logo" class="logo" />
       </a>
+
       <div class="center-nav">
         <div class="topnav">
           <div class="invert">
@@ -73,6 +73,7 @@
           </div>
         </div>
       </div>
+
       <div>
         {{ partial "site-navigation" . }}
       </div>
@@ -116,9 +117,11 @@
       obj.parentNode.parentNode.classList.toggle("show");
     }
     function toggleKursbox(obj) {
-      obj.parentElement.parentElement.querySelectorAll('.kurs:nth-child(n+4)').forEach(node => {
-        node.style.display = obj.dataset.mode === "expand" ? "grid" : "none";
-      });
+      obj.parentElement.parentElement
+        .querySelectorAll('.kurs:nth-child(n+4)')
+        .forEach(node => {
+          node.style.display = obj.dataset.mode === "expand" ? "grid" : "none";
+        });
       obj.dataset.mode = obj.dataset.mode === "expand" ? "collapse" : "expand";
     }
   </script>
@@ -139,5 +142,6 @@
       });
     });
   </script>
+
 </body>
 </html>
