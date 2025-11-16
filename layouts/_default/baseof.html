@@ -3,36 +3,55 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
+  <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription }}">
 
   {{ if hugo.IsProduction }}
     {{ partial "analytics" . }}
     {{ partial "cookiebot" . }}
   {{ end }}
 
-  <meta name="twitter:title" content="{{ .Params.Title }}" />
-  <meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription}}">
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription }}">
+  <meta name="twitter:card" content="summary_large_image">
 
-  <meta property="og:title" content="{{ .Params.og_title | default .Params.Title }}">
-  <meta property="og:site_name" content="{{ .Site.Params.og_site_name }}" />
-  <meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:locale" content="de_DE" />
-  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:title" content="{{ .Params.og_title | default .Title }}">
+  <meta property="og:site_name" content="{{ .Site.Params.og_site_name }}">
+  <meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="de_DE">
+  <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:image" content="{{ (.Params.og_image | default .Site.Params.og_image) | absURL }}">
-  <meta property="og:image:width" content="1540" />
-  <meta property="og:image:height" content="1070" />
+  <meta property="og:image:width" content="1540">
+  <meta property="og:image:height" content="1070">
 
   {{ if .IsHome }}
-    <meta name="facebook-domain-verification" content="sm8ajkm4l7k7gk7nkbasxai7899r07" />
+    <meta name="facebook-domain-verification" content="sm8ajkm4l7k7gk7nkbasxai7899r07">
   {{ end }}
 
-  {{- partial "rich-content" . -}}
+  {{ partial "rich-content" . }}
 
-  <link rel="canonical"
+  <link rel="canonical" href="{{ .Permalink }}">
+
+  {{ partial "css" . }}
+</head>
+
+<body>
+
+  {{ partial "header" . }}
+
+  <main id="main">
+    {{ block "main" . }}
+    {{ end }}
+  </main>
+
+  {{ partial "footer" . }}
+
+  {{ partial "js" . }}
+
+</body>
+</html>
