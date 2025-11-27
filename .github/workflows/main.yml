@@ -40,7 +40,7 @@ jobs:
         user: fcbp_at_ifge_leichtware
         password: ${{ secrets.FTP_PASSWORD }}
         localDir: "out"
-        remoteDir: "/"
+        remotedir: "/ifge.at/public"
 
     - name: Trigger unzip
       run: curl https://ifge.at/update.php
