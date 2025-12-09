@@ -484,3 +484,10 @@
 }
 
 
+/* MOBILE LOGO – endgültige Größe */
+@media (max-width: 768px) {
+    .nav-logo img {
+        height: 60px !important;   /* kleiner */
+        width: auto !important;
+    }
+}
