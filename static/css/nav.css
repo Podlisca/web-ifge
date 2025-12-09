@@ -420,3 +420,24 @@
         height: 88px !important;
     }
 }
+
+/* ============================================
+   MOBILE VERSION – kürzerer CTA-Text
+   ============================================ */
+@media (max-width: 600px) {
+    .nav-cta a {
+        font-size: 14px;            /* kleinere Schrift */
+        padding: 10px 14px;         /* kompakter */
+        white-space: nowrap;        /* Verhindert Zeilenumbruch */
+    }
+
+    /* Button-Text nur auf Mobile ändern */
+    .nav-cta a::after {
+        content: "Online-Termin";
+    }
+
+    /* Originaltext entfernen */
+    .nav-cta a span {
+        display: none;
+    }
+}
