@@ -133,8 +133,10 @@ input.button:disabled {
 }
 
 main {
-  margin-bottom: 4em;
+  margin-top: 0.5em;     /* NEU — schöner kleiner Abstand */
+  margin-bottom: 3em;    /* damit unten genug Platz bleibt */
 }
+
 
 img.logo {
   max-width: 160px;
@@ -195,6 +197,7 @@ header {
   background-color: var(--color-green);
 }
 
+
 header .cont {
   display: flex;
   justify-content: space-between;
@@ -219,8 +222,9 @@ header.responsive {
 
 main {
   grid-area: main;
-  padding: var(--padding-main);
+  padding: 0.7em;   /* deutlich kleiner */
 }
+
 
 body > footer {
   grid-area: footer;
@@ -1169,4 +1173,773 @@ h10 {
     min-height: 320px; /* etwas mehr Tiefe, wirkt harmonischer */
     background-position: center bottom; /* statt top, damit der Teppich sichtbar bleibt */
   }
+}
+/* Button neu – neutraler Icon, weiß, schmaler, mittig */
+.cta-small {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+
+    margin-top: 18px;
+    padding: 8px 0;
+    width: 150px;
+    height: 36px;
+
+    background: #A34D5D !important;
+    color: #ffffff !important;       /* ← HIER erzwingen wir Weiß */
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-weight: normal;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+
+    transition: 0.25s;
+}
+
+.cta-small:hover {
+    background: #8e3c4a !important;
+    color: #ffffff !important;       /* ← Auch beim Hover bleibt Weiß */
+    transform: translateY(-2px);
+}
+
+/* Icon neutral */
+.cta-icon {
+    font-size: 14px;
+    opacity: 0.9;
+    color: #ffffff !important;       /* ← Icon auch weiß */
+}
+
+/* ===========================================
+   FIX 1 – Abstand zwischen Navigation & Banner
+   =========================================== */
+
+header {
+    padding: 4px 0 !important;
+}
+
+header .cont {
+    align-items: center;
+}
+
+main {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* ===========================================
+   FIX 2 – STARTSEITEN-BANNER (Desktop & Mobile)
+   =========================================== */
+
+.ifge-hero {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.hero-banner {
+    width: 100%;
+    min-height: 520px;                 /* Größer, wirkt luxuriöser */
+    background-size: cover !important; /* Bild nicht verzerren */
+    background-position: center center !important;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+}
+
+/* Textbox Desktop */
+.hero-textbox {
+    background-color: rgba(163, 77, 93, 0.88);
+    padding: 1rem 2rem;
+    border-radius: 14px;
+    max-width: 70%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+    .hero-banner {
+        min-height: 420px;             /* Größer als bisher */
+        background-position: center bottom !important;
+    }
+
+    .hero-textbox {
+        width: 90%;
+        max-width: 90%;
+        border-radius: 12px;
+        padding: 1.2rem;
+        margin-bottom: 15px;
+        position: relative;
+        bottom: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .hero-banner {
+        min-height: 360px;             /* Für sehr kleine Geräte */
+        background-position: center bottom !important;
+    }
+}
+
+/* Banner override: globale img-Regeln NICHT auf Banner anwenden */
+.start-banner img,
+.sub-banner img,
+.page-banner-img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+/* ===========================================
+   OPTIMIERTER BANNER – MOBILE FIX
+   =========================================== */
+
+@media (max-width: 768px) {
+
+    .hero-banner {
+        min-height: 380px !important;
+        background-position: center bottom !important;  
+        padding-bottom: 20px;
+    }
+
+    .hero-textbox {
+        width: 92% !important;
+        max-width: 92% !important;
+        left: 50% !important;
+        transform: translateX(-50%);
+        bottom: -10px !important;
+        border-radius: 12px 12px 0 0 !important;
+        position: absolute !important;
+        padding: 1.2rem !important;
+    }
+}
+
+@media (max-width: 500px) {
+
+    .hero-banner {
+        min-height: 330px !important;
+        background-position: center bottom !important;
+    }
+}
+
+/* ==========================================
+   ANGEBOTE – KOMPAKTES NEUES DESIGN
+   ========================================== */
+
+.offer-wrapper {
+    max-width: 1300px;
+    margin: 60px auto;
+    padding: 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+}
+
+.offer-box {
+    background: #ffffff;
+    border: 3px solid #16978C;
+    border-radius: 12px;
+
+    width: 230px;              
+    min-height: 200px;         
+    padding: 20px;
+
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    transition: 0.3s ease;
+}
+
+.offer-box:hover {
+    transform: translateY(-4px);
+    box-shadow: 0px 4px 14px rgba(0,0,0,0.10);
+}
+
+.offer-box-title {
+    color: #16978C;
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.offer-box p {
+    font-size: 16px;
+    line-height: 1.45;
+    margin: 0 0 12px 0;
+}
+
+/* BUTTON */
+.offer-btn {
+    background: #000000;
+    color: #F8EADA !important;
+    padding: 10px 14px;
+    border-radius: 6px;
+    border: 1px solid #A34D5D;
+    text-align: center;
+    text-decoration: none !important;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 15px;
+    transition: 0.2s ease-in-out;
+}
+
+.offer-btn:hover {
+    background: #A34D5D !important;
+    color: #000000 !important;
+}
+/* =================================================
+   RÄUMLICHKEITEN – SAUBERE, STABILE VERSION
+   ================================================= */
+
+/* Überschrift-Styling */
+.raeume-title {
+    text-align: center;
+    font-weight: 400;
+    color: #A34D5D;
+    margin: 25px 0;
+    font-family:'Roboto', sans-serif;
+}
+
+/* HR */
+.raeume-hr {
+    margin: 30px auto;
+    width: 100%;
+    border: 1px solid #A34D5D;
+}
+
+/* DESKTOP – Drei Spalten */
+@media (min-width: 769px) {
+    .raeume-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+        max-width: 1100px;
+        margin: 0 auto 60px auto;
+    }
+
+    .raeume-item {
+        flex: 1 1 300px;
+        max-width: 350px;
+    }
+
+    .raeume-item img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        display: block;
+    }
+}
+
+/* MOBILE – immer untereinander, wie Startseite */
+@media (max-width: 768px) {
+    .raeume-wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 22px;
+        width: 100%;
+        padding: 0 15px;
+        margin: 0 auto 40px auto;
+    }
+
+    .raeume-item img {
+        width: 100%;
+        max-width: 420px;
+        margin: 0 auto;
+        border-radius: 8px;
+        display: block;
+    }
+}
+
+/* =================================================
+   KONTAKT – MOBILE FIX
+   ================================================= */
+
+@media (max-width: 768px) {
+    .contact-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        padding: 0 15px;
+    }
+
+    .contact-box {
+        width: 100%;
+        max-width: 340px;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius: 12px;
+    }
+}
+
+/* ============================================
+   GLOBAL MOBILE FIX – IFGE 2025 – VERSION 3
+   ============================================ */
+
+/* --------------------------------------------
+   GLOBAL: LOGO optimieren für kleine Handys
+   -------------------------------------------- */
+@media (max-width: 480px) {
+    .logo-wrapper img,
+    .logo {
+        width: 70px !important;
+        height: auto !important;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .logo-wrapper img,
+    .logo {
+        width: 95px !important;
+        height: auto !important;
+    }
+}
+
+
+/* --------------------------------------------
+   1) MOBILE NAVIGATION – SAUBER & MODERN
+   -------------------------------------------- */
+@media (max-width: 768px) {
+
+    /* Basis-Reset */
+    .topnav,
+    .topnav div,
+    .topnav a {
+        all: unset;
+        box-sizing: border-box;
+    }
+
+    /* Navigation ausgeschaltet – bis Hamburger klickt */
+    .topnav {
+        display: none !important;
+        width: 100%;
+        background: var(--color-green);
+        padding: 0;
+        margin: 0;
+    }
+
+    /* Navigation sichtbar, wenn Hamburger geklickt */
+    .topnav.show {
+        display: block !important;
+        padding: 10px 0 20px 0;
+    }
+
+    /* Hauptpunkte */
+    .topnav > div > a,
+    .topnav > .dropdown > .mobile a {
+        display: block;
+        width: 100%;
+        padding: 14px 22px;
+        font-size: 18px;
+        color: white;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(255,255,255,0.15);
+    }
+
+    /* Dropdown-Container */
+    .dropdown-content {
+        display: none;
+        background: rgba(0,0,0,0.15);
+    }
+
+    /* Dropdown sichtbar */
+    .dropdown.show .dropdown-content {
+        display: block;
+    }
+
+    /* Dropdown-Links */
+    .dropdown-content a {
+        display: block;
+        padding: 12px 32px;
+        color: white;
+        font-size: 17px;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    /* Icon-Wrapper (Hamburger) */
+    .toggleResponsive {
+        display: block !important;
+        padding-right: 20px;
+    }
+
+    /* Entferne Desktop-Dropdown */
+    .desktop {
+        display: none !important;
+    }
+
+    /* Mobile-Dropdown DARF sichtbar sein */
+    .mobile {
+        display: block !important;
+    }
+}
+
+
+/* --------------------------------------------
+   2) DESKTOP – Hamburger verstecken
+   -------------------------------------------- */
+@media (min-width: 769px) {
+    .toggleResponsive {
+        display: none !important;
+    }
+}
+
+
+/* --------------------------------------------
+   3) RÄUMLICHKEITEN – IMMER UNTEREINANDER
+   -------------------------------------------- */
+@media (max-width: 768px) {
+    .raeume-wrapper {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        gap: 22px !important;
+        padding: 0 12px;
+        width: 100% !important;
+    }
+
+    .raeume-wrapper img {
+        width: 100% !important;
+        height: auto !important;
+    }
+}
+
+
+/* --------------------------------------------
+   4) KONTAKT-KÄSTCHEN
+   -------------------------------------------- */
+@media (max-width: 768px) {
+    .kontakt-boxen,
+    .contact-grid {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 20px !important;
+    }
+
+    .kontakt-boxen > div,
+    .contact-grid > div {
+        width: 100% !important;
+    }
+}
+
+
+/* --------------------------------------------
+   5) CONTENT-BILDER, HR, ABSTÄNDE
+   -------------------------------------------- */
+@media (max-width: 768px) {
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    hr {
+        width: 90% !important;
+        margin: 20px auto !important;
+    }
+}
+
+/* ==========================================
+   ANGEBOTE – 3 Kästchen pro Reihe (Desktop)
+   ========================================== */
+@media (min-width: 901px) {
+    .karten-container {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 2.5rem !important;
+        justify-items: center;
+    }
+
+    .karte {
+        max-width: 330px !important;
+        width: 100% !important;
+    }
+}
+
+/* LOGO-FIX (ÜBERSCHREIBT ALLES) */
+@media (min-width: 769px) {
+    header .ifge-header-logo img,
+    header img.logo {
+        width: 300px !important;
+        height: auto !important;
+    }
+}
+
+@media (max-width: 768px) {
+    header .ifge-header-logo img,
+    header img.logo {
+        width: 180px !important;
+        height: auto !important;
+    }
+}
+
+
+/* ============================================================
+   GLOBAL FIX – ALTE NAVIGATION KOMPLETT DEAKTIVIEREN
+   ============================================================ */
+
+.topnav,
+.topnav *,
+.dropdown,
+.dropdown *,
+.dropdown-mobile,
+.dropdown-mobile *,
+.mobile-nav,
+.mobile-nav *,
+.mobile-burger,
+.mobile-burger *,
+.toggleResponsive,
+.toggleResponsive *,
+.desktop,
+.mobile,
+.center-nav,
+.center-nav * {
+    all: unset !important;
+    display: none !important;
+    position: static !important;
+    height: 0 !important;
+    width: 0 !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+
+
+/* ===============================================
+   CTA Sichtbarkeit – Desktop vs. Mobile
+   =============================================== */
+
+/* Standard: nur Desktop-CTA anzeigen */
+.nav-cta {
+    display: inline-block;
+}
+.nav-cta-mobile {
+    display: none;
+}
+
+/* Mobile: nur Mobile-CTA anzeigen, Desktop-CTA ausblenden */
+@media (max-width: 900px) {
+    .nav-cta {
+        display: none !important;
+    }
+    .nav-cta-mobile {
+        display: inline-block !important;
+        background: #A34D5D;
+        color: white;
+        padding: 10px 14px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 400;
+        margin: 0 auto;
+        font-size: 17px;
+    }
+}
+
+/* ============================================
+   MOBILE: Räumlichkeiten-Bilder wirklich kleiner
+   ============================================ */
+@media (max-width: 768px) {
+
+  .raeume-wrapper img,
+  .raeume-item img {
+    width: 70% !important;        /* << HIER wird es kleiner */
+    max-width: 70% !important;    /* Sicherheitsnetz */
+    height: auto !important;
+    display: block !important;
+    margin: 0 auto 25px !important;
+    border-radius: 12px;
+  }
+}
+
+/* Weiterbildung – Universal-Shortcode */
+.ifge-weiterbildung {
+    margin: 60px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.ifge-wb-title {
+    font-size: 28px;
+    margin-bottom: 35px;
+    color: #A34D5D;
+    font-weight: 600;
+}
+
+.ifge-wb-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.ifge-wb-box {
+    border: 2px solid #16978C;
+    border-radius: 12px;
+    padding: 25px 22px;
+    background: #fff;
+    text-align: left;
+}
+
+.ifge-wb-box h3 {
+    color: #16978C;
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+.ifge-wb-box p {
+    margin-bottom: 18px;
+    line-height: 1.5;
+}
+
+.ifge-wb-btn {
+    display: inline-block;
+    background: #A34D5D;
+    color: #fff;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+}
+.ifge-wb-btn:hover {
+    background: #8e3a4b;
+}
+
+
+/* ============================================================
+   UNIVERSAL – ROTE TRENNLINIEN FÜR BEIDE SHORTCODES
+   ============================================================ */
+.ifge-divider {
+    width: 100%;                     /* GANZE SEITENBREITE */
+    margin: 25px 0;
+    border: 0;
+    border-top: 1px solid #A34D5D;   /* IFGE Rot */
+}
+
+
+/* ============================================================
+   WEITERBILDUNG (2 BOXEN: Online-Akademie + SinnSex-Akademie)
+   Shortcode: {{< weiterbildung >}}
+   ============================================================ */
+
+.ifge-weiterbildung {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.ifge-wb-title {
+    font-size: 26px;
+    color: #A34D5D;
+    margin: 20px 0 30px 0;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.ifge-wb-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 32px;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.ifge-wb-box {
+    border: 2px solid #16978C;       /* IFGE Türkis */
+    border-radius: 12px;
+    padding: 26px 24px;
+    background: #fff;
+    text-align: left;
+}
+
+.ifge-wb-box h3 {
+    color: #16978C;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.ifge-wb-box p {
+    margin-bottom: 20px;
+    line-height: 1.55;
+}
+
+.ifge-wb-btn {
+    display: inline-block;
+    background: #A34D5D;
+    color: #fff;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+}
+
+.ifge-wb-btn:hover {
+    background: #8e3a4b;
+}
+
+
+
+/* ============================================================
+   SINNSEX – EINZELBOX VARIANTE
+   Shortcode: {{< sinnsex >}}
+   ============================================================ */
+
+.ifge-sinnsex-block {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.ifge-sinnsex-title {
+    font-size: 26px;
+    color: #A34D5D;
+    margin: 20px 0 30px 0;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.ifge-sinnsex-box {
+    border: 2px solid #16978C;
+    border-radius: 12px;
+    padding: 26px 24px;
+    background: #fff;
+    max-width: 520px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.ifge-sinnsex-box h3 {
+    color: #16978C;
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.ifge-sinnsex-box p {
+    margin-bottom: 20px;
+    line-height: 1.55;
+}
+
+.ifge-sinnsex-btn {
+    display: inline-block;
+    background: #A34D5D;
+    color: #fff;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+}
+
+.ifge-sinnsex-btn:hover {
+    background: #8e3a4b;
 }

@@ -21,7 +21,7 @@ Für den Inhalt verantwortlich:
 {{< red >}}Institut für ganzheitliches Erleben (IFGE){{< /red >}} – {{< green >}}Silvia Podlisca e.U.{{< /green >}}
 
 Kontakt:<br/>
-Silvia Podlisca<br/>
+Silvia Podlisca, B.Sc.<br/>
 
 Anschrift:<br/>
 1020 Wien,<br/>
@@ -47,8 +47,8 @@ Silvia Podlisca ist für den Inhalt von verlinkten Webseiten anderer Betreiber n
 
 Gerichtsstand ist das zuständige Gericht in Wien.
 
- Fotoquelle: Stefan Seelig, [Carina Fritz](https://www.carinafritz.at/) & [Alina Sprenger](https://alinasprenger.com/)<br/>
- Videos: [Alina Sprenger](https://alinasprenger.com/) & Silvia Podlisca <br/>
+Fotoquelle: [Carina Fritz](https://www.carinafritz.at/) & [Alina Sprenger](https://alinasprenger.com/)<br/>
+ Video: [Alina Sprenger](https://alinasprenger.com/) & Silvia Podlisca <br/>
  Icons by [Noun Project](https://thenounproject.com/)
 
 

@@ -1,3 +1,17 @@
-{{ define "main"}}    
-    {{ .Content }}
+{{ define "main" }}
+
+  <!-- SLOGAN -->
+  <div style="text-align:center; margin-top:25px;">
+    {{ partial "slogan.html" . }}
+  </div>
+
+  <!-- STARTSEITEN-CONTENT RENDERN -->
+<div class="homepage-content">
+    {{ .Content | safeHTML }}
+</div>
+
+<!-- ANGEBOTE EINBINDEN -->
+{{ partial "angebote.html" . }}
+
+
 {{ end }}

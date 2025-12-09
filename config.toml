@@ -1,88 +1,120 @@
-baseURL = "/"
-title = "IFGE"
-author = "Leichtware GmbH"
-
-assetDir = "static"
-
-languageCode = "de"
-defaultContentLanguage = "de"
-summaryLength = 30
-
-[taxonomies]
-tag = "tags"
-category = "categories"
-
-
-[params]
-rich_provider = "IFGE"
-SiteDescription = "Weiterbildung. Veränderung. Selbstverwirklichung. Das gehört zu einem erfüllten Leben dazu. Und genau das steht seit mehr als 20 Jahren im Zentrum unseres Instituts. Wir bewegen Menschen mit vielfältigen Qualitätsausbildungen, begleiten sie bei ihrer beruflichen sowie persönlichen Entwicklung und bereichern sie so mit neuen Perspektiven. Und das mit viel Intuition, fundiertem Fachwissen, jeder Menge Gefühl und großem Erfolg."
-og_image = "/img/silvia_onlineakdademie.jpg"
-
 [menu]
 
-    [[menu.main]]
-        name = "Übers IFGE"
-        identifier = "IFGE"
-        url = "#"
-        weight = 1
+############################################
+# 1) Über mich
+############################################
+[[menu.main]]
+name       = "Über mich"
+identifier = "ueber_mich"
+url        = "/about/ueber_mich/"
+weight     = 1
 
-    
-    [[menu.main]]
-        name = "Online-Akademie"
-        identifier = "onlineakademie"
-        url = "#"
-        weight = 99
-    
-    [[menu.main]]
-        name = "Supervision"
-        identifier = "supervision"
-        url = "/supervision/einzelsetting/einzelsupervision/"
-        weight = 3
-    
-    [[menu.main]]
-        name = "Psychologische Beratung"
-        identifier = "psychologischeberatung"
-        url = "#"
-        weight = 2
-    
-    [[menu.main]]
-        name = "Einzelsetting"
-        identifier = "psychologischeberatung_einzel"
-        url = "#"
-        weight = 10
-        parent = "psychologischeberatung"
-    
-    [[menu.main]]
-        name = "Gruppensetting"
-        identifier = "psychologischeberatung_gruppe"
-        url = "#"
-        weight = 12
-        parent = "psychologischeberatung"
 
-    [[menu.main]]
-    name = "Familienaufstellung: Termin online wählen"
-    identifier = "familienaufstellung-termin"
-    url = "/psychologische-beratung/gruppenselbsterfahrung/termine/"
-    weight = 7
+############################################
+# 2) Psychologische Beratung (Hauptpunkt)
+############################################
+[[menu.main]]
+name       = "Psychologische Beratung"
+identifier = "psychologische_beratung"
+url        = "/psychologische-beratung/"
+weight     = 2
+
+# ── Unterpunkte ────────────────────────────────
+[[menu.main]]
+name       = "Einzelberatung"
+identifier = "einzelberatung"
+url        = "/psychologische-beratung/einzelberatung/"
+parent     = "psychologische_beratung"
+weight     = 1
 
 [[menu.main]]
-identifier = "onlinebuchung"
-name = "Online Terminbuchung"
-url = "/psychologische-beratung/onlinebuchung-beratung/"
-weight = 6
-class = "highlight-button"
-
+name       = "Krisenberatung"
+identifier = "krisenberatung"
+url        = "/psychologische-beratung/krisenberatung/"
+parent     = "psychologische_beratung"
+weight     = 2
 
 [[menu.main]]
-name = "Soforthilfe"
-url = "/soforthilfe/"
-weight = 3
+name       = "Sexualberatung"
+identifier = "sexualberatung"
+url        = "/psychologische-beratung/sexualberatung/"
+parent     = "psychologische_beratung"
+weight     = 3
 
+[[menu.main]]
+name       = "Paarberatung"
+identifier = "paarberatung"
+url        = "/psychologische-beratung/paarberatung/"
+parent     = "psychologische_beratung"
+weight     = 4
+
+[[menu.main]]
+name       = "Sexualität für Paare"
+identifier = "sexualitaetpaare"
+url        = "/psychologische-beratung/sexualitaetpaare/"
+parent     = "psychologische_beratung"
+weight     = 5
+
+[[menu.main]]
+name       = "Tiergestützte Beratung"
+identifier = "tiergestuetzteberatung"
+url        = "/psychologische-beratung/tiergestuetzteberatung/"
+parent     = "psychologische_beratung"
+weight     = 6
+
+[[menu.main]]
+name       = "Klangschalenmassage"
+identifier = "klangschalenmassage"
+url        = "/psychologische-beratung/klangschalenmassage/"
+parent     = "psychologische_beratung"
+weight     = 7
+
+
+############################################
+# 3) Familienaufstellungen
+############################################
+[[menu.main]]
+name       = "Familienaufstellungen"
+identifier = "familienaufstellungen"
+url        = "/familienaufstellungen/familienaufstellung/"
+weight     = 3
+
+
+############################################
+# 4) Supervision
+############################################
+[[menu.main]]
+name       = "Supervision"
+identifier = "supervision"
+url        = "/supervision/einzelsupervision/"
+weight     = 4
+
+
+############################################
+# 5) Preise
+############################################
+[[menu.main]]
+name       = "Preise"
+identifier = "preise"
+url        = "/preise/"
+weight     = 5
+
+
+############################################
+# 6) Kontakt
+############################################
+[[menu.main]]
+name       = "Kontakt"
+identifier = "kontakt"
+url        = "/kontakt/"
+weight     = 6
+
+
+
+############################################
+# HTML in Markdown erlauben (wichtig!)
+############################################
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-
-
-

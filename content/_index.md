@@ -1,218 +1,246 @@
 ﻿---
-title: "MENSCHEN BEWEGEN, BEGLEITEN & BEREICHERN"
+title: "IFGE – gesehen, gehört & verstanden werden"
+description: "Psychologische Beratung, Paarberatung, Sexualberatung & Familienaufstellungen in Wien."
 draft: false
-description: "Silvia begleitet dich – seit über 25 Jahren an deiner Seite für ein erfülltes Leben. Veränderung. Selbstverwirklichung. Entwicklung. Beratung & Ausbildung mit Herz, Erfahrung und wissenschaftlicher Tiefe."
-og_image: "/img/hollandst.jpg"
 ---
 
-<!-- HERO-BILD mit Banner -->
-<section class="ifge-hero">
-  <div class="hero-banner">
-    <div class="hero-textbox">
-      <h1>MENSCHEN BEWEGEN. BEGLEITEN. BEREICHERN.</h1>
-    </div>
-  </div>
-</section>
+{{< banner_start 
+    image="/img/banner_blaue_bank.jpg"
+    focus="center 5%"
+>}}
 
-<!-- WILLKOMMENSTEXT -->
-<section class="ifge-welcome" style="text-align: center; padding: 1.5rem 1rem 2rem;">
+<style>
 
- 
-{{% box top-align=1 %}}
-{{% small  %}}
+/* -------------------------------
+   GLOBAL SPACING OPTIMIERUNG
+--------------------------------*/
+section, .intro, .offer-grid {
+    margin-top: 25px!important;
+}
 
-<div class="intro-grid">
-  <div class="intro-image">
-    <img src="/img/silvia_start.png" alt="Silvia Podlisca" />
-  </div>
-  <div class="intro-text">
-    <!-- Textinhalte hier -->
-  </div>
-</div>
+/* -------------------------------
+   BANNER – MOBILE OPTIMIERT
+--------------------------------*/
+.banner-start img {
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    object-position: center 20%;
+}
 
-{{% /small  %}}
+@media (max-width: 600px) {
+  .banner-start img {
+      height: 260px;
+      object-position: center 25%;
+  }
+}
 
-{{% small  %}}
+/* -------------------------------
+   INTRO
+--------------------------------*/
+.intro {
+    max-width: 900px;
+    margin: 30px auto 20px auto;
+    padding: 0 20px;
+    font-size: 1.15rem;
+    line-height: 1.65;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
 
-</p>
-</p>
+.intro h3 {
+    color: #16978C;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 18px;
+}
 
-  <h2>HERZLICH WILLKOMMEN AM IFGE</h2> 
+/* -------------------------------
+   ANGEBOTE: GRID – FIX 3/3/3
+--------------------------------*/
+.offer-grid {
+    max-width: 1140px; 
+    margin: 20px auto 40px auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
 
-  <h4 class="green">SILVIA – SEIT ÜBER 25 JAHREN AN DEINER SEITE FÜR EIN ERFÜLLTES LEBEN</h3>
-  <p><em>„Ich glaube an dein Potenzial, dich neu zu entdecken – mit Leichtigkeit, Tiefe und einem offenen Herzen.“</em></p>
-   <br/>
-   <div style="margin-top: 1rem;">{{< silvia >}}</div>
+@media (max-width: 992px) {
+    .offer-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 24px;
+    }
+}
 
-   <br/>
+@media (max-width: 600px) {
+    .offer-grid {
+        grid-template-columns: 1fr;
+        gap: 22px;
+    }
+}
 
-  <p style="margin-top: 1rem;">
-<p>Vielleicht spürst du schon länger, dass eine Veränderung ansteht. Gemeinsam erkunden wir, was dich stärkt und was sich wandeln darf – in deinem Tempo, auf deine Weise. Dabei darf alles da sein, was dich bewegt: Gedanken, Gefühle, Fragen – oder einfach der Wunsch nach mehr Lebendigkeit, Orientierung oder innerer Ruhe.</p>
+/* -------------------------------
+   ANGEBOTS-KARTEN
+--------------------------------*/
+.offer-card {
+    background: #fff;
+    border: 3px solid #16978C;   /* TÜRKISER RAHMEN */
+    border-radius: 14px;
+    padding: 20px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: 0.25s;
+}
+
+.offer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+
+.offer-card strong {
+    font-size: 20px;
+    color: #16978C;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* -------------------------------
+   BUTTONS
+--------------------------------*/
+.offer-btn {
+    background: #A34D5D;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.offer-btn:hover {
+    background: #A34D5D;
+}
+
+/* -------------------------------
+   RÄUMLICHKEITEN – MOBILE OPTIMIERT
+--------------------------------*/
+.raeume-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 22px;
+    margin: 20px auto 50px auto;
+    padding: 0 20px;
+}
+
+.raeume-grid div {
+    flex: 1 1 300px;
+    max-width: 350px;
+}
+
+.raeume-grid img {
+    width: 100%;
+    border-radius: 10px;
+    height: 240px;
+    object-fit: cover;
+}
+
+@media (max-width: 600px) {
+    .raeume-grid img {
+        height: 280px; /* größer mobil */
+    }
+}
+
+/* Abstand Linie */
+.section-divider {
+    margin: 28px auto;
+    width: 60%;
+    border: 1px solid #A34D5D;
+
+}
+
+
+@media (max-width: 600px) {
+
+  /* GRID: Karten schmäler */
+  .offer-grid {
+      grid-template-columns: 1fr;
+      gap: 18px;
+      padding: 0 25px; /* schmäler: nicht mehr Vollbreite */
+  }
+
+  /* KARTEN: kompakter, höher, nicht so langgezogen */
+  .offer-card {
+      padding: 18px 20px;   /* statt 50px – perfekt kompakt */
+      min-height: 140px;    /* schön aufrecht, nicht zu lang */
+      border-width: 3px;
+      border-radius: 12px;
+      max-width: 480px;     /* verhindert Riesenbreite – macht es elegant */
+      margin: 0 auto;       /* zentriert */
+  }
+
+  /* Titel kleiner */
+  .offer-card strong {
+      font-size: 18px;
+  }
+
+  /* Beschreibung kompakter */
+  .offer-card p {
+      font-size: 14px;
+      line-height: 1.45;
+      margin-bottom: 12px;
+  }
+
+  /* Button kleiner */
+  .offer-btn {
+      padding: 8px 12px;
+      font-size: 14px;
+      margin-top: 10px;
+  }
+}
+
+
+</style>
+
+
+
+<hr style="margin:25px auto; width:60%; border:1px solid #A34D5D;">
+
+<h1 style="text-align:center; color:#A34D5D; font-weight:300; margin-bottom:10px;">
+    Herzlich Willkommen am IFGE
+</h1>
+
+<hr style="margin:25px auto; width:60%; border:1px solid #A34D5D;">
+
+
+
+
+<div class="intro">
+<h3>Schön, dass Sie da sind</h3>
 
 <p>
-<p><strong>Ich begleite dich mit Klarheit, Humor und einer wertschätzenden Haltung – damit Wandel spürbar und möglich wird.</strong></p>
-</section>
-{{% small  %}}
+Vielleicht befinden Sie sich gerade in einer Zeit des Wandels, einer Belastung oder einer inneren Frage,
+die Raum braucht. Hier bei mir im <strong>IFGE – Institut für ganzheitliches Erleben</strong> finden Sie
+einen geschützten Rahmen, in dem Sie zur Ruhe kommen, Klarheit gewinnen und neue Perspektiven entdecken können.
+</p>
 
-
-{{% /small  %}}
-{{% /box %}}
-</section>
-
-<section class="ifge-kartenbereich">
-  <div class="karten-container">
-<section class="vorteile-container ifge-tuerkis">
-  <h1 style="color: white;">Mein Angebot für dich</h1>
-
-<div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin-top: 2rem;">
-  <div class="vorteil-box">
-    <img src="/img/icon/start1.png" alt="Icon Einzelberatung" class="vorteil-icon" />
-    <h3><a href="https://www.ifge.at/psychologische-beratung/systemische-einzelberatung/" target="_blank">Systemische Einzelberatung</a></h3>
-    <p>In schwierigen Lebenssituationen begleite ich dich professionell und empathisch – lösungsorientiert, klar und ressourcenstärkend.</p>
-    {{< calendly-button >}}
-
-
-<div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Melde dich unter 
-<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
+<p>
+In meiner Arbeit begegne ich Ihnen mit Achtsamkeit, Wertschätzung und echtem Interesse.
+Gemeinsam schauen wir auf das, was stärkt, auf das, was möglich wird, und auf das, was Sie als Mensch ausmacht.
+<strong>Sanft, ehrlich und in Ihrem Tempo.</strong>
+</p>
 </div>
 
 
-</div>
-
-  
-  <div class="vorteil-box">
-    <img src="/img/icon/start1.png" alt="Icon Familienaufstellung" class="vorteil-icon" />
-    <h3><a href="https://www.ifge.at/psychologische-beratung/gruppenselbsterfahrung/familienaufstellung/" target="_blank">Familienaufstellung</a></h3>
-    <p>Erkenne verborgene Dynamiken und finde Klarheit – in geschütztem Rahmen und mit über 25 Jahren Erfahrung in der Leitung.</p>
-    {{< verlinkung-aufstellungstermine >}}
-<div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 <strong>Fragen zur Teilnahme?</strong> 
-<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
-</div>
-
-
-</div>
-
-  </div>
-</div>
-
-<div class="vorteile-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
-  <div class="vorteil-box">
-    <img src="/img/icon/start1.png" alt="Icon Krisenberatung" class="vorteil-icon" />
-    <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/krisenberatung/" target="_blank">Krisenberatung</a></h3>
-    <p>Wenn es brennt: Rasche Hilfe bei akuten Krisen, Trennung, Verlust oder Überforderung – vertrauensvoll und stabilisierend.</p>
-    {{< calendly-button >}}
-
-<div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
-<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
-</div>
-
-
-</div>
-
-  
-  <div class="vorteil-box">
-    <img src="/img/icon/start1.png" alt="Icon Sexualberatung" class="vorteil-icon" />
-    <h3><a href="https://www.ifge.at/psychologische-beratung/spezialisierungen/sexualberatung/" target="_blank">Sexualberatung</a></h3>
-    <p>Sexualität ist Teil deiner Lebendigkeit. Ich unterstütze dich dabei, Klarheit zu finden – einfühlsam, professionell und kultursensibel.</p>
-    {{< calendly-button >}}
-
-<div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
-<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
-</div>
-
-
-
-  </div>
-  
-  <div class="vorteil-box">
-    <img src="/img/icon/start1.png" alt="Icon Supervision" class="vorteil-icon" />
-    <h3><a href="https://www.ifge.at/supervision/einzelsetting/einzelsupervision/" target="_blank">Supervision</a></h3>
-    <p>Reflektiere deine berufliche Praxis und finde neue Perspektiven – einzeln, professionell begleitet, lösungsorientiert und vertraulich.</p>
-    {{< calendly-button >}}
-
-<div style="background-color: #006e6b; color: #ffffff; padding: 10px; font-size: 0.9em; margin-top: 10px; border-radius: 6px;">
-📞 Lieber telefonisch buchen? Ruf mich gerne an unter 
-<a href="tel:+436766108936" style="color: #ffffff; text-decoration: none;"><strong>+43 676 610 89 36</strong></a>
-</div>
-
-
-  
-</div>
-
-</div> <!-- schließt .karten-container -->
-</div>
-
-
-  {{% /box %}}
-
-<section style="background-color: var(--color-green); color: white; text-align: center; padding: 2.5rem 1rem;">
-  <p style="max-width: 900px; margin: 0 auto; font-size: 1.2rem; line-height: 1.6;">
-
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
-
-***
-
-<h1 style="color: white;">Die IFGE Räumlichkeiten</h1>
-
-***
-  <p><strong>Die IFGE Räume sind mehr als nur ein Ort</strong> – sie laden ein zum Ankommen, Innehalten und Entfalten.</p>
-
-  <p>Im IFGE verbinden sich Erfahrung, Haltung und Atmosphäre zu einem Ort, der stärkt, nährt und inspiriert.  
-  Ob du auf der Suche nach neuer Orientierung bist, dich in einer herausfordernden Lebensphase befindest  
-  oder frische Impulse für deine beraterische Praxis suchst – hier darfst du einfach sein.</p>
-
-  <p>Manchmal genügt ein Moment der Stille, ein geschützter Raum oder ein echtes Gespräch,  
-  um bei dir selbst anzukommen und neue Perspektiven zu entfalten.</p>
-
-  <p><em><strong>„Das Leben will gelebt werden.“</strong></em><br />
-  Dieser Satz begleitet mich seit vielen Jahren – als innere Haltung, als Einladung und Erinnerung daran,  
-  dass Wandel möglich ist. Dass du dich zeigen darfst – mit dem, was ist – und dass Entwicklung immer wieder neu beginnen kann.</p>
-
-  <p>Du bist herzlich willkommen, diesen Raum für dich zu entdecken.</p>
-</div>
-
-
-
-    
-  </p>
-  <br />
-
-{{% box top-align=1 %}}
-
-{{% small %}}
-<div style="margin-bottom: 1.5rem;">
-  {{< image src="/img/1020_3.webp" title="Jeder Mensch erlebt im Laufe seines Lebens Situationen in denen man sich gefangen fühlt. Wut, Ohnmacht, Hilflosigkeit und Verzweiflung oder aber auch Starre und tiefe Traurigkeit können dazu führen, dass der Sinn des Lebens in Frage gestellt wird. Psychologische Beratung hilft, diese Lebenssituation zu überwinden, Mut wiederzufinden und gestärkt aus der Situation herausgehen zu können. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Krisenberatung an." >}}
-</div>
-{{% /small %}}
-
-{{% small %}}
-<div style="margin-bottom: 1.5rem;">
-  {{< image src="/img/1020_4.webp" title="Sexualität ist ein wichtiger Bestandteil für die menschliche Gesundheit. Belastungen welcher Art auch immer führen oftmals zu ernsthaften Beeinträchtigungen im Leben. Rückzug, Vermeidung, Kompensation bis hin zur Isolation sind bekannte, ungesunde Bewältigungsversuche. Der Leidensweg der Betroffenen ist oft lange und mühevoll. Doch der Kreislauf kann unterbrochen werden. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Sexualberatung an und achtet dabei im besonderen Maß auf ihre persönliche Stabilität, und Sicherheit. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." >}}
-</div>
-{{% /small %}}
-
-{{% small %}}
-<div style="margin-bottom: 1.5rem;">
-  {{< image src="/img/1020_15.webp" title="Angehörige sind die oft vergessene Gruppe und leiden still und heimlich. Zumeist richtet sich die gesamte Aufmerksamkeit auf die kranke beziehungsweise betroffenen Person. Die Not und die Verzweiflung der Angehörigen bleiben oft unerkannt. Silvia Podlisca, diplomierte Lebens- und Sozialberaterin - psychologische Beraterin, eingetragene Supervisorin & Aufstellungsleiterin, Sexualberaterin bieten in Wien, Niederösterreich und Burgenland Beratungen und einen Raum speziell für Angehörige an – damit auch Sie gehört und gesehen werden. Selbstverständlich unterliegen alle Themen strengster Vertraulichkeit." >}}
-</div>
-{{% /small %}}
-
-{{% /box %}}
-
-
-
-</section>
-
-
-</section> <!-- schließt türkisen Bereich -->
-
-
-
-</section>
+<hr style="margin:25px auto; width:60%; border:1px solid #A34D5D;">
+<h2 style="text-align:center; font-weight:400; color:#A34D5D; font-family:'Roboto', sans-serif;">
+    MEINE ANGEBOTE
+</h2>
+<hr style="margin:25px auto; width:60%; border:1px solid #A34D5D;">
 
 
 

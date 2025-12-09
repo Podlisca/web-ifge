@@ -1,134 +1,87 @@
 ﻿---
 title: "Kontakt"
-menu: main
 draft: false
-weight: 4
 rich_logo: true
 ---
 
-# {{< param title >}}
-
 {{< slogan >}}
 
-{{< line icon="icon/raueme.png" >}}
-
-{{% box top-align=1 %}}
-{{% small %}}
-
-### IFGE Wien
-Hollandstr. 12/9 <br/>
-1020 Wien
-
-{{% /small  %}}
+{{< banner_sub 
+    image="/img/banner_raum.jpg"
+    focus="center 20%"
+>}}
 
 
-
-{{% small  %}}
-### IFGE Burgenland
-Bruckgasse 1<br/>
-7423 Pinkafeld 
-
-{{% /small %}}
-{{% /box  %}}
-
-
-
-{{< line icon="icon/kontakt.png" >}}
-
-{{% box blue=1 %}}
-{{% small %}}
-### Institutsleitung
-Silvia Podlisca<br/>
-+43 676 610 89 36<br/>
-silvia.podlisca@ifge.at
-{{% /small %}}
-{{% small %}}
-### Buchhaltung
-Miriam Geiger<br/>
-Anfragen bitte per Mail<br/>
-buchhaltung@ifge.at
-
-{{% /small %}}
-{{% small %}}
-### Büro
-Miriam Geiger<br/>
-Anfragen bitte per Mail<br/>
-buchhaltung@ifge.at 
-{{% /small %}}
-{{% /box %}}
 
 ***
 
-<iframe width="100%" height="400" frameborder="0" style="border: 0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASzqnCrYBWXhFtdlXXBg_KCLxQTa1I5Y4&amp;q=IFGE+Burgenland&amp;maptype=roadmap" allowfullscreen="true">
-</iframe>
+## Kontakt
 
+*** 
 
-{{< line icon="icon/kooperation.png" >}}
+<style>
+.contact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 25px;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
 
-## Kooperationspartner
-{{% box %}}
+.contact-box {
+    border: 2px solid #16978C;
+    border-radius: 12px;
+    padding: 20px 25px;
+    background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
 
-{{% small %}}
-{{< slider content="/img/knor_2.jpg,/img/knor_4.jpg,/img/margit_knor_noe.jpg" >}}
+.contact-box h3 {
+    color: #16978C;
+    font-size: 18px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
 
-{{% /small %}}
+.contact-box p,
+.contact-box a {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 3px 0;
+    color: inherit;
+    text-decoration: none;
+}
 
-{{% large %}}
+.contact-box a:hover {
+    text-decoration: underline;
+    color: #A34D5D;
+}
+</style>
 
+<div class="contact-grid">
 
-**Margit Knor - Praxis für Psycho­logische Beratung**<br>
-Akad. Psychosoziale Beraterin
+  <div class="contact-box">
+        <h3>Institutsleitung</h3>
+        <p>Silvia Podlisca</p>
+        <p>+43 676 610 89 36</p>
+        <p><a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a></p>
+    </div>
 
-Eduard Hartmann Platz 2/1/8<br>
-2361 Laxenburg
+  <div class="contact-box">
+        <h3>Adresse</h3>
+        <p>Hollandstr. 12/9</p>
+        <p>1020 Wien</p>
+    </div>
 
-+43 (0) 670 2055525<br>
-[www.margitknor.at](https://www.margitknor.at/)
-{{% /large %}}
+  <div class="contact-box">
+        <h3>Buchhaltung</h3>
+        <p>Miriam Geiger</p>
+        <p><a href="mailto:buchhaltung@ifge.at">buchhaltung@ifge.at</a></p>
+    </div>
 
-
-
-{{% /box %}}
-
-
-{{< line icon="icon/bus.png" >}}
-{{% box blue=1 %}}
-{{% small  %}}
-**Wien - Pinkafeld** verfügt über eine **ausgezeichnete direkte Busverbindung**. Die Haltestelle Pinkafeld Hauptplatz ist ca. eine Gehminute entfernt. [Hier finden Sie die aktuellen Fahrpläne](https://richard.at/fahrplaene/g1/).
-
-Sollten Sie in Pinkafeld übernachten wollen: das [Stadthotel Pinkafeld](https://stadthotel-pinkafeld.at/) ist in 3 Gehminuten erreichbar.
-
-
-
-Die Ausbildung ist nur komplett buchbar. 
-
-
-
-{{% /small  %}}
-{{% /box  %}}
-
-
-
-
-Alle Teilnehmer:innen erhalten eine **Bestätigung** über **fachliche Fortbildung**.
-Diese wird für die gesetzlich vorgeschriebenen Weiterbildung der Lebensberater*innen anerkannt.
-
-
-{{< line icon="icon/3_standorte.png" >}}
-
-{{% box top-align=1 %}}
-{{% small  %}}
-#### Wien
-{{< slider content="/img/1020_3.webp,/img/1020_4.webp,/img/1020_5.webp,/img/1020_15.webp,/img//1020_11.webp,/img/1020_12.webp,/img/1020_16.webp,/img/1020_7.webp,/img/1020_2.webp,img/1020_14.webp" >}}
-
-{{% /small  %}}
-
-{{% small  %}}
-#### Burgenland
-
-{{< slider content="/img/seminarraum1.jpg,/img/seminarraum2.jpg,/img/beratungsraum.jpg,/img/beratungsraum1.jpg,/img/beratungsraum2.jpg,/img/beratungsraum4.jpg,/img/beratungsraum5.jpg,/img/kueche.jpg,/img/seminarraum.jpg,/img/buero.jpg" >}}
+</div>
 
 
 
-{{% /small  %}}
-{{% /box %}}
+{{< raeumlichkeiten >}}

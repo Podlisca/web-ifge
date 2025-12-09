@@ -1,0 +1,32 @@
+{{/* Banner für UNTERSEITEN */}}
+
+{{ $image  := .Get "image" }}
+{{ $focus  := .Get "focus" | default "center" }}
+
+<div class="sub-banner">
+    <img src="{{ $image }}"
+         alt="Banner"
+         style="object-position:{{ $focus }};">
+</div>
+
+<style>
+.sub-banner {
+    width: 100%;
+    height: 320px;       /* Desktop */
+    overflow: hidden;
+}
+
+.sub-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Handy */
+@media (max-width: 768px) {
+    .sub-banner {
+        height: 200px;
+    }
+}
+</style>

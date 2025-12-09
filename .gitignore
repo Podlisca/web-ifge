@@ -1,4 +1,21 @@
+# Hugo output folders (niemals ins Repo!)
+/public/
+/resources/
 
-public/*
-web-ifge.code-workspace
+# Node
+/node_modules/
+
+# Hugo lock file
+/.hugo_build.lock
+
+# VS Code workspace file
+/*.code-workspace
+
+# OS junk
 .DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.cache

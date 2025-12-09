@@ -3,141 +3,149 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription}}">
 
-  {{ if hugo.IsProduction }}
-    {{ partial "analytics" . }}
-    {{ partial "cookiebot" . }}
-  {{ end }}
-
-  <meta name="twitter:title" content="{{ .Params.Title }}" />
-  <meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription}}">
-  <meta name="twitter:card" content="summary_large_image" />
-
+  <!-- OG / Social -->
   <meta property="og:title" content="{{ .Params.og_title | default .Params.Title }}">
-  <meta property="og:site_name" content="{{ .Site.Params.og_site_name }}" />
-  <meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:locale" content="de_DE" />
-  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:site_name" content="{{ .Site.Params.og_site_name }}">
+  <meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:image" content="{{ (.Params.og_image | default .Site.Params.og_image) | absURL }}">
-  <meta property="og:image:width" content="1540" />
-  <meta property="og:image:height" content="1070" />
-  {{ if .IsHome }}
-    <meta name="facebook-domain-verification" content="sm8ajkm4l7k7gk7nkbasxai7899r07" />
-  {{ end }}
 
-  {{- partial "rich-content" . -}}
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/nav.css">
+  <link rel="stylesheet" href="/css/slider.css">
 
-  <link rel="canonical" href="https://www.ifge.at">
+  <!-- Favicon -->
   <link rel="icon" type="image/png" href="/img/favicon.png">
-  <!-- PWA/Push: Manifest -->
-  <link rel="manifest" href="/manifest.json">
 
-  {{- $style := resources.Get "/css/style.css" -}}
-  {{- $slider := resources.Get "/css/slider.css" -}}
-  {{- $nav := resources.Get "/css/nav.css" -}}
-  {{- $global := slice $style $slider $nav | resources.Concat "/css/global.css" | minify | fingerprint -}}
-  <link rel="stylesheet" type="text/css" href="{{ $global.Permalink | relURL }}" />
-  <script data-cookieconsent="ignore" async defer src="/app/ifge-buchung.js"></script>
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QRLLE9DVGX"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'G-QRLLE9DVGX', {
-      send_page_view: true,               // Sicherstellen, dass jede Seite getrackt wird
-      allow_ad_personalization_signals: true // Optional: Personalisierte Anzeigen zulassen
-    });
-  </script>
+  <!-- Brevo -->
+  <meta name="brevo-integration" content="form,popup,push">
+  <script id="brevo-sdk" src="https://cdn.brevo.com/js/sdk-loader.js"></script>
 </head>
 
 <body>
-  <link rel="stylesheet" href="/app/ifge-buchung.css" type="text/css" />
-  {{ block "includes" . }}{{ end }}
-  <header>
-    <div class="cont">
-      <a href="/index.html">
-        <img src="/img/logo_2025.jpg" alt="IFGE Logo" class="logo" />
-      </a>
-      <div class="center-nav">
-        <div class="topnav">
-          <div class="invert">
-            <a href='{{ relref . "onlineakademie" }}'>Online-Akademie</a>
-          </div>
-        </div>
-      </div>
-      <div>
-        {{ partial "site-navigation" . }}
-      </div>
-    </div>
-  </header>
 
-  <main>
+<!-- =====================================================
+     FIXED IFGE HEADER – LOGO / MOBILE-CTA / BURGER / NAV
+====================================================== -->
+<header class="ifge-header">
+  <div class="nav-wrapper">
+
+    <!-- LOGO -->
+    <a href="/" class="nav-logo">
+      <img src="/img/logo_bsc2.png" alt="IFGE Logo">
+    </a>
+
+    <!-- MOBILE CTA (nur auf Handy sichtbar) -->
+    <a href="/online-terminvereinbarung" class="nav-cta-mobile">
+      Online-Terminvereinbarung
+    </a>
+
+    <!-- HAMBURGER rechts -->
+    <button class="nav-burger" id="navBurger" aria-label="Menü öffnen">
+      <span></span><span></span><span></span>
+    </button>
+
+    <!-- NAVIGATION -->
+    <nav class="nav-menu" id="navMenu">
+      <!-- Mobile Logo oben im Menü -->
+<div class="mobile-menu-logo">
+  <a href="/">
+    <img src="/img/logo_bsc2.png" alt="IFGE Logo">
+  </a>
+</div>
+
+
+      {{ range .Site.Menus.main }}
+
+        {{ if .HasChildren }}
+
+          <!-- Menüpunkt mit Dropdown -->
+          <div class="nav-item has-children">
+
+            <a class="nav-link">
+              {{ .Name }}
+              <span class="nav-arrow">▾</span>
+            </a>
+
+            <div class="nav-dropdown">
+              {{ range .Children }}
+                <a class="dropdown-link" href="{{ .URL }}">
+                  {{ .Name }}
+                </a>
+              {{ end }}
+            </div>
+
+          </div>
+
+        {{ else }}
+
+          <!-- normaler Link -->
+          <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+
+        {{ end }}
+
+      {{ end }}
+
+      <!-- Desktop CTA (nur am Desktop sichtbar) -->
+      <a href="/online-terminvereinbarung" class="nav-cta">
+        Online-Terminvereinbarung
+      </a>
+
+    </nav>
+
+  </div>
+</header>
+
+
+
+
+<!-- MAIN -->
+<main>
+  {{ if .IsHome }}
+    {{ block "main" . }}{{ end }}
+  {{ else }}
     <div class="cont">
       {{ block "main" . }}{{ end }}
     </div>
-    {{ partial "floating-button.html" "bottom" }}
-  </main>
-
-  <footer>
-    {{ partial "site-footer.html" . }}
-  </footer>
-
-  {{ with .Params.disableNewsletterPopup }} {{ else }} {{ partial "floating-button.html" "aside" }} {{ end }}
-  {{ with .Params.disableScrollTop }} {{ else }} {{ partial "scroll-top.html" . }} {{ end }}
-
-  {{ with .Params.disableNewsletterPopup }} {{ else }}
-    {{ partial "body-blackout.html" }}
-    {{ partial "subscribe.html" }}
-    {{ partial "videopopup.html" }}
   {{ end }}
+</main>
 
-  <script data-cookieconsent="ignore">
-    const x = document.getElementById("topnavRef");
+<!-- FOOTER -->
+<footer>
+  {{ partial "site-footer.html" . }}
+</footer>
 
-    function toggleResponsive() {
-      if (x.className === "topnav") {
-        x.className += " show";
-      } else {
-        x.className = "topnav";
-      }
-    }
-    function toggleSubmenuMobile(obj) {
-      obj.parentNode.parentNode.parentNode.classList.toggle("show");
-    }
-    function toggleMore(obj) {
-      obj.parentNode.parentNode.classList.toggle("show");
-    }
-    function toggleKursbox(obj) {
-      obj.parentElement.parentElement.querySelectorAll('.kurs:nth-child(n+4)').forEach(node => {
-        node.style.display = obj.dataset.mode === "expand" ? "grid" : "none";
-      });
-      obj.dataset.mode = obj.dataset.mode === "expand" ? "collapse" : "expand";
-    }
-  </script>
+<!-- Slider -->
+<script src="/js/slider.js"></script>
 
-  <script data-cookieconsent="ignore" src="/js/slider.js"></script>
 
-  <!-- Calendly Widget Script -->
-  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<!-- =====================================================
+     EINZIGES NAVIGATIONSSCRIPT (Desktop + Mobile)
+====================================================== -->
+<script>
+// BURGER – Menü auf/zu
+document.getElementById("navBurger").addEventListener("click", function () {
+    document.getElementById("navMenu").classList.toggle("open");
+    this.classList.toggle("open");
+});
 
-  <!-- NEU: Termin-Feld automatisch setzen -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const formularBoxen = document.querySelectorAll('[id^="formular"][data-termin]');
-      formularBoxen.forEach(box => {
-        const hiddenInput = box.querySelector('input#termin');
-        const terminText = box.getAttribute('data-termin');
-        if (hiddenInput) hiddenInput.value = terminText;
-      });
+// MOBILE DROPDOWNS – nur unter 900px
+document.querySelectorAll(".nav-item.has-children .nav-link").forEach(link => {
+    link.addEventListener("click", function (e) {
+        if (window.innerWidth <= 900) {
+            e.preventDefault();
+            this.parentElement.classList.toggle("open");
+        }
     });
-  </script>
+});
+</script>
+
 </body>
 </html>

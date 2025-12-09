@@ -1,58 +1,10 @@
-<nav class="topnav" id="topnavRef">  
-  <div class="toggleResponsive">
-    <a href="javascript:void(0);" class="icon" onclick="toggleResponsive()">&#9776;</a>    
-  </div>
-  {{ $currentPage := . }}
-  {{ range .Site.Menus.main }}
-    {{ if .HasChildren }}
-      <div class="dropdown{{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }} {{ if eq .Identifier "onlineakademie" }} invert{{ end }}">
-        <div class="mobile">
-          <div class="has-dropdown">
-            <a href="javascript:void(0);" onclick="toggleSubmenuMobile(this);">{{ .Name }} 
-              <svg xmlns="http://www.w3.org/2000/svg" width="270" height="240" viewBox="0 0 270 240">
-                <path d="M5,5H265L135,230"/>
-                </svg>
-              </a>
-          </div>          
-        </div>
-        <div class="desktop">
-          <div class="has-dropdown">
-            {{ .Name }} 
-            <svg xmlns="http://www.w3.org/2000/svg" width="270" height="240" viewBox="0 0 270 240">
-              <path d="M5,5H265L135,230"/>
-              </svg>
-          </div>          
-        </div>
+<!-- 
+  Altes Navigationssystem deaktiviert.
+  Diese Datei wird bewusst leer gehalten,
+  damit das neue Menü in baseof.html 
+  nicht überlagert oder blockiert wird.
+  
+  (Bitte NICHT löschen – Hugo erwartet diese Partial-Datei.)
+-->
 
-        <div class="dropdown-content">
-          {{ range .Children }}    
-
-            {{ if gt (len .Children) 0 }}
-              <div class="subtitle">{{ .Name }}</div>
-              <div class="subcontent">
-                {{ range .Children }}
-                  <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
-                {{ end }}
-              </div>
-            {{ else }}
-              <a class="{{ if or ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . )}}active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
-            {{ end }}
-          
-          {{ end }}
-        </div>
-      </div>
-    {{ else if (eq .Page nil) }}
-      <div>
-        <a href="{{ .URL }}">{{ .Name }}</a>
-      </div>
-    {{ else }}
-      <div>
-        <a class="{{ if or (and (eq .Page.FirstSection.Name "BLOG") (eq $currentPage.CurrentSection.Name "BLOG")) (and (eq .Page.FirstSection.Name "VIDEOS") (eq $currentPage.CurrentSection.Name "VIDEOS")) ($currentPage.IsMenuCurrent "main" . ) ($currentPage.HasMenuCurrent "main" . ) }}active{{ end }}" 
-        href="{{ .URL }}">{{ .Name }}</a>
-      </div>
-    
-
-    {{ end }}
-  {{ end }}  
-</nav>
-
+<!-- Navigation wird nun vollständig im baseof.html gesteuert -->
