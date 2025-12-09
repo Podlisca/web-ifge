@@ -19,6 +19,20 @@
     justify-content: space-between;
 }
 
+/* MOBILE: Logo nach links rücken */
+@media (max-width: 600px) {
+
+    .nav-wrapper {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+    }
+
+    .nav-logo img {
+        margin-left: 0 !important;   /* falls Hugo/Theme es überschreibt */
+    }
+}
+
+
 /* LOGO */
 .nav-logo img {
     height: 100px;
@@ -436,7 +450,7 @@
 
     /* Neuen Text einfügen */
     .nav-cta-mobile::after {
-        content: "Online-Termin";
+        content: "Online - Termin";
         font-size: 15px !important;
         font-weight: 400;
         color: #fff;
