@@ -27,8 +27,7 @@ Von **2012 bis 2025** habe ich mich intensiv der **Ausbildung angehender Kolleg:
 ## **Warum ich Psychologie studiert habe**
 
 Bevor ich mich für das Psychologie-Studium entschieden habe, war ich bereits viele Jahre in
-verschiedenen Fachrichtungen ausgebildet – unter anderem in **systemischer Arbeit**,  
-**Sexualberatung**, **Gesprächsführung**, **Transaktionsanalyse**, **Hypnosystemik**  
+verschiedenen Fachrichtungen ausgebildet – unter anderem in **systemischer Arbeit**, **Sexualberatung**, **Gesprächsführung**, **Transaktionsanalyse**, **Hypnosystemik**  
 sowie in der **Supervision**. Diese Grundlagen prägen meine Arbeit bis heute.
 
 Trotzdem wurde für mich nach vielen Jahren in der Praxis deutlich, dass sich die Arbeitsfelder,
@@ -104,6 +103,5 @@ Ich arbeite immer mit dem Ziel, dass Menschen **ihre eigenen Lösungen** entdeck
 
 
 
-{{< sinnsex >}}
 
 
