@@ -139,8 +139,7 @@ Bitte wählen Sie den passenden Termin aus.
 ### Nach Ihrer Anmeldung erhalten Sie automatisch:
 
 * eine E-Mail-Bestätigung  
-* alle Informationen zum Ablauf  
-* den passenden Stripe-Zahlungslink  
+* alle Informationen zum Ablauf   
 * organisatorische Details zum gewählten Termin  
 
 Ich freue mich darauf, Sie im Rahmen der Aufstellung achtsam zu begleiten und Sie 
