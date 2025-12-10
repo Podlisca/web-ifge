@@ -24,7 +24,7 @@ Im **Kommentarfeld** während der Buchung können Sie mir gerne erste Hinweise g
 
 <h3 style="text-align: center;">Termin auswählen</h3>
 <p style="text-align: center; max-width: 700px; margin: 0 auto;">
-  Sie können zwischen <strong>Psychologischer Einzelberatung</strong>, <strong>Paarberatung</strong> und <strong>Einzelsupervision</strong>. Wähle aus, welches Gespräch du buchen möchtest:
+  Sie können zwischen <strong>Psychologischer Einzelberatung</strong>, <strong>Paarberatung</strong> und <strong>Einzelsupervision</strong>. Wählen Sie aus, welches Gespräch Sie buchen möchten:
 </p>
 
 <div style="text-align: center; margin-top: 1rem;">
