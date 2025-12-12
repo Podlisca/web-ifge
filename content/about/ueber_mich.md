@@ -18,7 +18,7 @@ description: ""
 # **Silvia Podlisca, B.Sc. Angewandte Psychologie**
 **Institut für ganzheitliches Erleben – IFGE**
 
-Seit mehr als **25 Jahren** begleite ich als Psychologische Beraterin Menschen in persönlichen, emotionalen und familiären Entwicklungsprozessen – stets mit einem Bein in der Praxis und mit der Haltung, dass Veränderung sanft, klar und in deinem eigenen Tempo entstehen darf.
+Seit mehr als **25 Jahren** begleite ich als **Psychologische Beraterin** Menschen in persönlichen, emotionalen und familiären Entwicklungsprozessen – stets mit einem Bein in der Praxis und mit der Haltung, dass Veränderung sanft, klar und in deinem eigenen Tempo entstehen darf.
 
 Von **2012 bis 2025** habe ich mich intensiv der **Ausbildung angehender Kolleg:innen** gewidmet und meine methodische Arbeit in unterschiedlichen Fachbereichen weiterentwickelt. Gleichzeitig war mir immer wichtig, auch selbst in der Beratung tätig zu bleiben – mit einem starken Standbein in der Praxis. Heute liegt mein Fokus wieder klar auf der **Einzelberatung**, der **Sexualberatung**, der **tiergestützten Begleitung** sowie meinen Weiterbildungs-Angeboten der **Online-Akademie** und der **[SinnSex Akademie](https://sinnsex.at/)**.
 
