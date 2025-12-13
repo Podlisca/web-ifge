@@ -2048,3 +2048,28 @@ main {
   }
 }
 
+.newsletter-phone {
+  margin-top: 14px;
+  text-align: center;
+}
+
+.newsletter-phone a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  font-size: 15px;
+  color: #16978C; /* IFGE Grün */
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.newsletter-phone a:hover {
+  text-decoration: underline;
+}
+
+.phone-icon {
+  font-size: 18px;
+  line-height: 1;
+}
+
