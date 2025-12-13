@@ -2073,3 +2073,17 @@ main {
   line-height: 1;
 }
 
+/* Brevo Widgets dürfen keine Klicks blockieren */
+iframe,
+.brevo-widget,
+.brevo-overlay {
+  pointer-events: auto;
+}
+
+/* Hauptinhalt immer klickbar */
+main, 
+.contact-box, 
+.kontakt-boxen {
+  position: relative;
+  z-index: 1;
+}
