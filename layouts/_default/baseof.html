@@ -43,11 +43,7 @@
        BREVO (Newsletter + Push)
   ====================================================== -->
   <meta name="brevo-integration" content="form,popup,push">
-  <script
-    id="brevo-sdk"
-    src="https://cdn.brevo.com/js/sdk-loader.js"
-    async>
-  </script>
+  <script id="brevo-sdk" src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
 
 </head>
 
@@ -64,7 +60,7 @@
       <img src="/img/logo_bsc2.png" alt="IFGE Logo">
     </a>
 
-    <!-- Mobile CTA -->
+    <!-- Mobile / Tablet CTA -->
     <a href="/online-terminvereinbarung" class="nav-cta-mobile">
       Online-Terminvereinbarung
     </a>
@@ -144,27 +140,28 @@
 document.addEventListener("DOMContentLoaded", function () {
 
   /* =========================
-     BURGER TOGGLE
+     BURGER / NAV
   ========================= */
   const burger = document.getElementById("navBurger");
-  const menu = document.getElementById("navMenu");
+  const menu   = document.getElementById("navMenu");
 
   if (burger && menu) {
     burger.addEventListener("click", function () {
-      menu.classList.toggle("open");
       burger.classList.toggle("open");
+      menu.classList.toggle("open");
     });
   }
 
   /* =========================
-     MOBILE DROPDOWNS (iOS safe)
+     MOBILE DROPDOWNS
   ========================= */
-  if (window.matchMedia("(max-width: 900px)").matches) {
-
+  if (window.matchMedia("(max-width: 1024px)").matches) {
     document.querySelectorAll(".nav-item.has-children > .nav-link")
       .forEach(link => {
+        link.addEventListener("click", function (e) {
 
-        link.addEventListener("touchstart", function (e) {
+          if (e.target.closest('.newsletter-float, iframe')) return;
+
           e.preventDefault();
           e.stopPropagation();
 
@@ -176,9 +173,42 @@ document.addEventListener("DOMContentLoaded", function () {
             });
 
           parent.classList.toggle("open");
-        }, { passive: false });
-
+        });
       });
+  }
+
+  /* =========================
+     NEWSLETTER FLOATING
+  ========================= */
+  const float  = document.querySelector(".newsletter-float");
+  const toggle = document.querySelector(".newsletter-toggle");
+  const close  = document.querySelector(".newsletter-close");
+
+  if (float && toggle) {
+
+    toggle.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      float.classList.toggle("open");
+    });
+
+    if (close) {
+      close.addEventListener("click", function () {
+        float.classList.remove("open");
+      });
+    }
+
+    document.addEventListener("click", function (e) {
+      if (!float.contains(e.target)) {
+        float.classList.remove("open");
+      }
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        float.classList.remove("open");
+      }
+    });
   }
 
 });
@@ -190,9 +220,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <script>
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function () {
-    navigator.serviceWorker
-      .register("/service-worker.js")
-      .catch(() => {});
+    navigator.serviceWorker.register("/service-worker.js").catch(() => {});
   });
 }
 </script>

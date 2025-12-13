@@ -2087,3 +2087,26 @@ main,
   position: relative;
   z-index: 1;
 }
+
+/* =========================================
+   FLOATING NEWSLETTER – FIX
+========================================= */
+
+.newsletter-float {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 2147483647;
+  pointer-events: auto;
+}
+
+.newsletter-float * {
+  pointer-events: auto;
+}
+
+/* iframe explizit freigeben */
+.newsletter-float iframe {
+  pointer-events: auto;
+  position: relative;
+  z-index: 1;
+}
