@@ -2140,32 +2140,3 @@ header {
 }
 
 
-/* =========================================
-   KONTAKT – iPHONE OPTIMIERUNG
-   (echte Geräte, z. B. iPhone 12 Pro)
-   ========================================= */
-@media (max-width: 430px) {
-
-  .contact-grid {
-    padding: 0 8px;
-    gap: 14px;
-  }
-
-  .contact-box {
-    max-width: 320px;      /* <<< entscheidend */
-    margin: 0 auto;
-    padding: 12px 14px;    /* <<< weniger „luftig“ */
-    border-radius: 10px;
-  }
-
-  .contact-box h3 {
-    font-size: 15px;
-    margin-bottom: 6px;
-  }
-
-  .contact-box p,
-  .contact-box a {
-    font-size: 14px;
-    line-height: 1.35;
-  }
-}
