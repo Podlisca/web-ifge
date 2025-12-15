@@ -1462,25 +1462,29 @@ main {
 }
 
 /* =================================================
-   KONTAKT – MOBILE FIX
+   KONTAKT – MOBILE FIX (STABIL)
    ================================================= */
 
 @media (max-width: 768px) {
-    .contact-grid {
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-        padding: 0 15px;
-    }
 
-    .contact-box {
-        width: 100%;
-        max-width: 340px;
-        margin: 0 auto;
-        padding: 20px;
-        border-radius: 12px;
-    }
+  .contact-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0 12px;
+    max-width: 100%;
+    margin: 24px auto;
+  }
+
+  .contact-box {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 18px;
+    box-sizing: border-box;
+  }
 }
+
 
 /* ============================================
    GLOBAL MOBILE FIX – IFGE 2025 – VERSION 3
@@ -1507,41 +1511,40 @@ main {
 
 
 /* --------------------------------------------
-   1) MOBILE NAVIGATION – SAUBER & MODERN
+   1) MOBILE NAVIGATION – SAUBER & STABIL
    -------------------------------------------- */
 @media (max-width: 768px) {
 
-    /* Basis-Reset */
+    /* Grundreset OHNE all: unset */
     .topnav,
-    .topnav div,
-    .topnav a {
-        all: unset;
+    .topnav * {
         box-sizing: border-box;
     }
 
-    /* Navigation ausgeschaltet – bis Hamburger klickt */
+    /* Navigation standardmäßig ausgeblendet */
     .topnav {
-        display: none !important;
+        display: none;
         width: 100%;
-        background: var(--color-green);
-        padding: 0;
+        background-color: var(--color-green);
         margin: 0;
+        padding: 0;
     }
 
-    /* Navigation sichtbar, wenn Hamburger geklickt */
+    /* Sichtbar nach Klick auf Hamburger */
     .topnav.show {
-        display: block !important;
+        display: block;
         padding: 10px 0 20px 0;
     }
 
-    /* Hauptpunkte */
+    /* Haupt-Navigationslinks */
     .topnav > div > a,
     .topnav > .dropdown > .mobile a {
         display: block;
         width: 100%;
         padding: 14px 22px;
         font-size: 18px;
-        color: white;
+        line-height: 1.3;
+        color: #ffffff;
         text-decoration: none;
         border-bottom: 1px solid rgba(255,255,255,0.15);
     }
@@ -1549,10 +1552,10 @@ main {
     /* Dropdown-Container */
     .dropdown-content {
         display: none;
-        background: rgba(0,0,0,0.15);
+        background-color: rgba(0,0,0,0.15);
     }
 
-    /* Dropdown sichtbar */
+    /* Dropdown geöffnet */
     .dropdown.show .dropdown-content {
         display: block;
     }
@@ -1561,27 +1564,31 @@ main {
     .dropdown-content a {
         display: block;
         padding: 12px 32px;
-        color: white;
         font-size: 17px;
+        line-height: 1.3;
+        color: #ffffff;
+        text-decoration: none;
         border-bottom: 1px solid rgba(255,255,255,0.1);
     }
 
-    /* Icon-Wrapper (Hamburger) */
+    /* Hamburger-Icon sichtbar */
     .toggleResponsive {
         display: block !important;
         padding-right: 20px;
+        cursor: pointer;
     }
 
-    /* Entferne Desktop-Dropdown */
+    /* Desktop-Navigation aus */
     .desktop {
         display: none !important;
     }
 
-    /* Mobile-Dropdown DARF sichtbar sein */
+    /* Mobile-Navigation an */
     .mobile {
         display: block !important;
     }
 }
+
 
 
 /* --------------------------------------------
@@ -1681,35 +1688,6 @@ main {
 }
 
 
-/* ============================================================
-   GLOBAL FIX – ALTE NAVIGATION KOMPLETT DEAKTIVIEREN
-   ============================================================ */
-
-.topnav,
-.topnav *,
-.dropdown,
-.dropdown *,
-.dropdown-mobile,
-.dropdown-mobile *,
-.mobile-nav,
-.mobile-nav *,
-.mobile-burger,
-.mobile-burger *,
-.toggleResponsive,
-.toggleResponsive *,
-.desktop,
-.mobile,
-.center-nav,
-.center-nav * {
-    all: unset !important;
-    display: none !important;
-    position: static !important;
-    height: 0 !important;
-    width: 0 !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-    pointer-events: none !important;
-}
 
 
 /* ===============================================
