@@ -2124,3 +2124,17 @@ main,
     word-break: break-word;   /* schützt Mail & Telefonnummer */
   }
 }
+
+/* =========================================
+   FIX 1 – Z-INDEX / SICHTBARKEIT FLOATING
+   ========================================= */
+
+header {
+    position: relative;
+    z-index: 10;
+}
+
+.newsletter-float {
+    position: fixed;
+    z-index: 9999;
+}
