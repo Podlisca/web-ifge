@@ -2110,3 +2110,39 @@ main,
   position: relative;
   z-index: 1;
 }
+
+/* =========================================================
+   KONTAKT – MOBILE FIX (SEHR KLEINE GERÄTE)
+   Version 8
+   ========================================================= */
+
+@media (max-width: 480px) {
+
+  .contact-grid {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 16px !important;
+
+    max-width: 100% !important;
+    margin: 24px auto !important;
+    padding: 0 12px !important;   /* weniger Rand = mehr Platz */
+  }
+
+  .contact-box {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    padding: 16px 16px !important;
+    box-sizing: border-box !important;
+  }
+
+  .contact-box h3 {
+    font-size: 17px;
+  }
+
+  .contact-box p,
+  .contact-box a {
+    font-size: 15px;
+    word-break: break-word;   /* schützt Mail & Telefonnummer */
+  }
+}
