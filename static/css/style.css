@@ -2139,4 +2139,27 @@ header {
     z-index: 9999;
 }
 
+/* =========================================
+   FIX – CONTENT-BILDER AUF UNTERSEITEN
+   verhindert Mini-Bilder & horizontales Wackeln
+========================================= */
+
+/* NUR Bilder im Contentbereich */
+main img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Mobile: kein Überbreit-Werden */
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  main {
+    overflow-x: hidden;
+  }
+}
 
