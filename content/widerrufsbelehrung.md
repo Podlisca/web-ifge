@@ -6,7 +6,7 @@ weight: 3
 ---
 
 {{< slogan >}}
-{{< line icon="icon/impressum.png" >}}
+***
 
 # Widerrufsbelehrung und -formular
 ***

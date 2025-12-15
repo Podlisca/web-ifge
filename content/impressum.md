@@ -6,7 +6,7 @@ weight: 1
 ---
 
 {{< slogan >}}
-{{< line icon="icon/impressum.png" >}}
+***
 
 # Impressum
 ***

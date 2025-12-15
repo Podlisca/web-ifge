@@ -6,7 +6,7 @@ weight: 2
 ---
 
 {{< slogan >}}
-{{< line icon="icon/impressum.png" >}}
+***
 
 ## Allgemeine Geschäftsbedingungen
 ***

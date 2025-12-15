@@ -6,7 +6,7 @@ weight: 4
 ---
 
 {{< slogan >}}
-{{< line icon="icon/impressum.png" >}}
+***
 
 # Datenschutzerklärung
 ***

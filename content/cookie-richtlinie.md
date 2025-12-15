@@ -6,7 +6,7 @@ weight: 5
 ---
 
 {{< slogan >}}
-{{< line icon="icon/impressum.png" >}}
+***
 
 # Cookie-Richtlinie
 ***
