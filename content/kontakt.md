@@ -63,7 +63,7 @@ rich_logo: true
 
   <div class="contact-box">
         <h3>Institutsleitung</h3>
-        <p>Silvia Podlisca</p>
+        <p>Silvia Podlisca, B.Sc.</p>
         <p>+43 676 610 89 36</p>
         <p><a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a></p>
     </div>
