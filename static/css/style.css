@@ -2163,3 +2163,22 @@ main img {
   }
 }
 
+/* =========================================
+   CONTENT-BILDER – wie Startseite, aber nur gezielt
+========================================= */
+
+.content-image {
+  width: 100%;
+  max-width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto 22px;
+}
+
+@media (max-width: 600px) {
+  .content-image {
+    height: 300px;
+  }
+}
