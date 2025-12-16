@@ -7,15 +7,14 @@
   ====================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription }}">
 
   <title>
     {{ block "title" . }}
       {{ .Site.Title }}{{ with .Params.Title }} | {{ . }}{{ end }}
     {{ end }}
   </title>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ .Description | default .Site.Params.SiteDescription }}">
 
   <!-- =====================================================
        OPEN GRAPH
@@ -37,22 +36,9 @@
   <!-- =====================================================
        FAVICON
   ====================================================== -->
+  <link rel="icon" href="/img/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" href="/img/favicon.png">
-  <!-- Favicon Standard -->
-<link rel="icon" href="/img/favicon.ico" sizes="any">
-
-<!-- Apple Touch Icon (iPhone / iPad) -->
-<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-
-<!-- Fallback für ältere Browser -->
-<link rel="shortcut icon" href="/img/favicon.ico">
-
-
-  <!-- =====================================================
-       BREVO (Newsletter + Push)
-  ====================================================== -->
-  <meta name="brevo-integration" content="form,popup,push">
-  <script id="brevo-sdk" src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 
 </head>
 
@@ -69,7 +55,7 @@
       <img src="/img/logo_bsc2.png" alt="IFGE Logo">
     </a>
 
-    <!-- Mobile / Tablet CTA -->
+    <!-- Mobile CTA -->
     <a href="/online-terminvereinbarung" class="nav-cta-mobile">
       Online-Terminvereinbarung
     </a>
@@ -142,7 +128,6 @@
 <!-- =====================================================
      SCRIPTS
 ====================================================== -->
-
 <script src="/js/slider.js"></script>
 
 <script>
@@ -168,11 +153,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".nav-item.has-children > .nav-link")
       .forEach(link => {
         link.addEventListener("click", function (e) {
-
-          if (e.target.closest('.newsletter-float, iframe')) return;
-
           e.preventDefault();
-          e.stopPropagation();
 
           const parent = this.parentElement;
 
@@ -208,7 +189,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     document.addEventListener("click", function (e) {
-      if (!float.contains(e.target)) {
+      if (!float.contains(e.target) && !toggle.contains(e.target)) {
         float.classList.remove("open");
       }
     });
@@ -221,17 +202,6 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
 });
-</script>
-
-<!-- =====================================================
-     BREVO SERVICE WORKER (Push)
-====================================================== -->
-<script>
-if ("serviceWorker" in navigator) {
-  window.addEventListener("load", function () {
-    navigator.serviceWorker.register("/service-worker.js").catch(() => {});
-  });
-}
 </script>
 
 </body>
