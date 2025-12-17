@@ -32,7 +32,7 @@ Sie ist ein Ausdruck der Beziehung – nicht der Maßstab für ihren Wert.
 
 ***
 
-## Worum es in der Paarberatung geht
+## Typische Themen in der Paarberatung
 
 ### {{< ifge-dot >}} Kommunikation & gegenseitiges Verständnis
 Wenn Gespräche aneinander vorbeigehen oder Missverständnisse den Alltag prägen.

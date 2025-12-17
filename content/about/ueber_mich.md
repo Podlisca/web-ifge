@@ -16,6 +16,7 @@ description: ""
 ***
 
 # **Silvia Podlisca, B.Sc. Angewandte Psychologie**
+***
 **Institut für ganzheitliches Erleben – IFGE**
 
 Seit mehr als **25 Jahren** begleite ich als **Psychologische Beraterin** Menschen in persönlichen, emotionalen und familiären Entwicklungsprozessen – stets mit einem Bein in der Praxis und mit der Haltung, dass Veränderung sanft, klar und in deinem eigenen Tempo entstehen darf.

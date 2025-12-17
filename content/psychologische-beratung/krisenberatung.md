@@ -25,14 +25,38 @@ Wir richten den Fokus bewusst auf das, **was Ihnen Halt gibt**: Ihre bisherigen 
 
 Die Vergangenheit beziehen wir dabei nur insofern ein, wie es jetzt hilfreich ist – dort, wo sie Ihr aktuelles Erleben beeinflusst. Entscheidend ist, dass Sie spüren, **welche Schritte jetzt stimmig sind und was Ihnen guttut**.
 
----
+***
+
+## Typische Themen in der Krisenberatung
+
+### {{< ifge-dot >}} Akute Überforderung & emotionale Erschöpfung  
+Wenn nichts mehr geht und die innere Belastung kaum noch auszuhalten scheint.
+
+### {{< ifge-dot >}} Trennung, Verlust oder Abschied  
+Nach dem Ende einer Beziehung, bei Todesfällen oder anderen einschneidenden Verlusten.
+
+### {{< ifge-dot >}} Plötzliche Lebensveränderungen  
+Kündigung, Krankheit, familiäre Umbrüche oder unerwartete Ereignisse, die den Boden entziehen.
+
+### {{< ifge-dot >}} Gefühl von Kontrollverlust oder innerem Chaos  
+Wenn Gedanken kreisen, Entscheidungen schwerfallen oder alles gleichzeitig zu viel ist.
+
+### {{< ifge-dot >}} Akute Konflikte & eskalierende Situationen  
+In Partnerschaften, Familien oder im beruflichen Umfeld.
+
+### {{< ifge-dot >}} Angst, innere Unruhe oder starke Anspannung  
+Wenn der Körper ständig „auf Alarm“ ist und kaum Entlastung möglich scheint.
+
+### {{< ifge-dot >}} Orientierungslosigkeit & Entscheidungsdruck  
+Wenn rasch Klarheit gebraucht wird, der nächste Schritt aber noch unklar ist.
+
+
+Diese Aufzählung dient der Orientierung und ersetzt keine individuelle Einschätzung.  
+Krisen zeigen sich sehr unterschiedlich – entscheidend ist nicht, **wie groß** eine Krise wirkt, sondern **wie sehr sie Sie im Moment belastet**.
+***
 
 ## **Krisenberatung unterstützt Sie dabei, Orientierung zu finden:**
 
-❓ Welche Belastungen wirken gerade am stärksten?  
-❓ Was braucht Ihr System jetzt, um sich zu regulieren?  
-❓ Wo entsteht Druck – und wo kann erste Entlastung möglich werden?  
-❓ Welche Unterstützung ist jetzt realistisch und hilfreich?
 
 Mit einer klaren, lösungsorientierten Haltung, Impulsen aus der **Positiven Psychologie**, achtsamen Fragen und einem geschulten Blick auf Ihre Ressourcen gewinnen Sie wieder Überblick, Stabilität und die Fähigkeit, Ihren nächsten Schritt zu erkennen.
 

@@ -21,13 +21,13 @@ Die folgenden Angebote stehen Ihnen in meiner Praxis in Wien und online zur Verf
 
 
 
-* Einzelstunde (50 Minuten) € 118,- ab 01.01.2026 € 125,-<br>
+* Einzelstunde (50 Minuten) € 118,- / ab 01.01.2026 € 125,-<br>
 
 * Paarberatung  (90 Minuten) € 225,-<br>
 
 * Einzelsupervision (50 Minuten) € 146,- <br>
 
-* Klangschalenmassage (30Minten) € 65,-<br>
+* Klangschalenmassage (30 Minuten) € 65,-<br>
 
 * 3tages Familienaufstellung <br> 
 - mit eigenem Anliegen € 450,- <br>
