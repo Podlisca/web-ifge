@@ -21,7 +21,7 @@ Die folgenden Angebote stehen Ihnen in meiner Praxis in Wien und online zur Verf
 
 
 
-* Einzelstunde (50 Minuten) € 118,- / ab 01.01.2026 € 125,-<br>
+* Einzelstunde (50 Minuten) € 125,-<br>
 
 * Paarberatung  (90 Minuten) € 225,-<br>
 
