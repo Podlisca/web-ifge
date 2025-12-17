@@ -6,7 +6,7 @@ draft: false
 
 {{< slogan >}}
 
-***
+
 
 {{< banner_sub 
     image="/img/banner_aufstellung.jpg"
