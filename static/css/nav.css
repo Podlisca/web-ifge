@@ -379,12 +379,8 @@
         display: block;
     }
 
-    /* WICHTIG: Desktop-Logo in der offenen Mobile-Navigation ausblenden */
-    .nav-menu.open + .nav-logo img,
-    .nav-wrapper .nav-logo img {
-        height: auto;
-    }
-}
+    
+
 
 /* ===========================================
    MOBILE: Roter Hover-Balken breiter
