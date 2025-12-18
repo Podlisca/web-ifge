@@ -16,7 +16,7 @@
     padding: 0 40px;   /* mehr Abstand links & rechts */
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    
 }
 
 /* MOBILE: Logo nach links rücken */
@@ -365,19 +365,19 @@
 
 @media (max-width: 1100px) {
 
-    /* Logo NUR anzeigen, wenn Menü offen */
     .nav-menu.open .mobile-menu-logo {
         display: block;
         padding: 5px 0 20px 0;
         text-align: left;
     }
 
-    /* Kleines, klares Logo – unabhängig vom Desktop-Logo */
     .nav-menu.open .mobile-menu-logo img {
-        width: 180px;     /* perfekte Größe */
-        height: auto;     /* kein Verzerren */
+        width: 180px;
+        height: auto;
         display: block;
     }
+}
+
 
     
 
@@ -486,4 +486,131 @@
         height: 60px !important;   /* kleiner */
         width: auto !important;
     }
+}
+
+@media (min-width: 768px) and (max-width: 1100px) {
+  .nav-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-cta {
+    display: inline-flex !important;
+    margin-left: auto;
+  }
+
+  .nav-burger {
+    display: flex !important;
+  }
+}
+
+@media (max-width: 1100px) {
+  .nav-burger {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    z-index: 20000;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1100px) {
+  .nav-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .nav-cta {
+    display: inline-flex !important;
+    margin-left: auto;
+  }
+
+  .nav-burger {
+    display: flex !important;
+  }
+}
+
+/* =========================
+   DESKTOP & TABLET
+   CTA immer ganz rechts
+========================= */
+@media (min-width: 900px) {
+
+  .nav-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    margin-left: auto; /* schiebt Menü + CTA nach rechts */
+  }
+
+  .nav-cta {
+    margin-left: 20px; /* Abstand zwischen Menü und Button */
+  }
+}
+
+/* =========================
+   DESKTOP & TABLET
+   Menü + CTA nach rechts schieben
+========================= */
+@media (min-width: 900px) {
+
+  .nav-menu {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 22px;
+  }
+
+  .nav-cta {
+    margin-left: 20px;
+  }
+}
+
+/* =========================
+   DESKTOP & TABLET
+   Reihenfolge fixieren
+========================= */
+@media (min-width: 900px) {
+
+  .nav-logo {
+    order: 1;
+  }
+
+  .nav-menu {
+    order: 2;
+    margin-left: auto;
+  }
+
+  .nav-cta {
+    order: 3;
+    margin-left: 20px;
+  }
+
+  .nav-burger {
+    order: 4;
+  }
+}
+
+
+/* =========================
+   BURGER IMMER SICHTBAR
+   sobald Desktop endet
+========================= */
+@media (max-width: 1100px) {
+  .nav-burger {
+    display: flex !important;
+  }
+
+  .nav-menu {
+    display: none;
+  }
+
+  .nav-menu.open {
+    display: flex;
+  }
 }
