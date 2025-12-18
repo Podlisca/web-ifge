@@ -450,7 +450,7 @@
 
     /* Neuen Text einfügen */
     .nav-cta-mobile::after {
-        content: "Online - Termin";
+        content: "Termin buchen";
         font-size: 15px !important;
         font-weight: 400;
         color: #fff;
