@@ -121,6 +121,16 @@ und Veränderung wird leichter möglich.
 ### Hier finden Sie eine Übersicht aller kommenden Aufstellungstermine.  
 Bitte wählen Sie den passenden Termin aus.
 
+**Seminarzeiten:**
+
+* Freitag: 15:00 – 20:00 Uhr
+* Samstag: 10:00 – 17:00 Uhr
+* Sonntag: 10:00 – 17:00 Uhr
+
+Die Teilnahme ist nur als **vollständiger Drei-Tage-Prozess** möglich. Einzelne Tage können nicht separat gebucht werden.
+
+Familienaufstellungen sind kein punktuelles Bearbeiten eines Themas, sondern ein **intensiver innerer Weg**. Das Dazwischen – das Darüber-Schlafen, das Wahrnehmen von Veränderungen und das Nachreifen – ist ein wesentlicher Teil des Prozesses.
+
 <!-- Brevo-Formular Wrapper – garantiert groß & zentriert -->
 <div style="max-width:1000px; margin:0 auto;">
 <iframe 
