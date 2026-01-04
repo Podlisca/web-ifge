@@ -75,7 +75,7 @@ lautend auf Silvia Podlisca – IFGE
 ### Absageregelung
 Einzelstunden müssen **mindestens 48 Stunden vorher** telefonisch, per E-Mail, WhatsApp oder SMS abgesagt werden; andernfalls wird die Einheit voll verrechnet.
 ***
-### Familienaufstellungen (3 Tage)
+### Familienaufstellungen 
 Die Teilnahme erfolgt eigenverantwortlich und freiwillig.  
 Mit Zahlungseingang ist der Platz fix reserviert.
 
