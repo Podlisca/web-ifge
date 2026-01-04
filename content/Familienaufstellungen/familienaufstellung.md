@@ -149,8 +149,7 @@ Familienaufstellungen sind kein punktuelles Bearbeiten eines Themas, sondern ein
 * Sie erhalten im Anschluss persönlich alle weiteren Informationen zum Ablauf.   
 
 
-Ich freue mich darauf, Sie im Rahmen der Aufstellung achtsam zu begleiten und Sie 
-bei der Lösung alter Bindungen und Muster zu unterstützen.
+**Ich freue mich darauf, Sie im Rahmen der Aufstellung achtsam zu begleiten und Sie bei der Lösung alter Bindungen und Muster zu unterstützen.**
 
 {{< silvia >}}
 
