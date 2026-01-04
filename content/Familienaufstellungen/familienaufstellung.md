@@ -131,26 +131,18 @@ Die Teilnahme ist nur als **vollständiger Drei-Tage-Prozess** möglich. Einzeln
 
 Familienaufstellungen sind kein punktuelles Bearbeiten eines Themas, sondern ein **intensiver innerer Weg**. Das Dazwischen – das Darüber-Schlafen, das Wahrnehmen von Veränderungen und das Nachreifen – ist ein wesentlicher Teil des Prozesses.
 
-<!-- Brevo-Formular Wrapper – garantiert groß & zentriert -->
-<div style="max-width:1000px; margin:0 auto;">
-<iframe 
-    width="100%" 
-    height="550" 
-    src="https://3667d760.sibforms.com/serve/MUIFAMwdGHGdcc52d47SUaYMuXrKBLc5ZhF7saU0x3KXQO4xtxkpCj-556Szorj9x-yymGctSznuxcIpFSnKUMJQrzw1xgO_ZjY0WONJHr7jLzjrUKDH5uXIOMPVHEPRvQwSi_d2EhJAS1ybrzqn8-2RjkkfrDLAcTb0lgxK-tLWxa2NK7DOuvmMRL-Aiw0zJkL35UGpdQ76WHMZ"
-    frameborder="0" 
-    scrolling="auto" 
-    allowfullscreen 
-    style="display:block; margin:auto; max-width:100%; border:none;">
-</iframe>
-</div>
 
-***
 
-### Nach Ihrer Anmeldung erhalten Sie automatisch:
 
-* eine E-Mail-Bestätigung  
-* alle Informationen zum Ablauf   
-* organisatorische Details zum gewählten Termin  
+{{< aufstellungen_stripe >}}
+
+
+
+### Nach Ihrer Anmeldung:
+
+* Ihr Platz wird nach Eingang der Anmeldung und Zahlung verbindlich reserviert.
+* Sie erhalten im Anschluss persönlich alle weiteren Informationen zum Ablauf.   
+
 
 Ich freue mich darauf, Sie im Rahmen der Aufstellung achtsam zu begleiten und Sie 
 bei der Lösung alter Bindungen und Muster zu unterstützen.

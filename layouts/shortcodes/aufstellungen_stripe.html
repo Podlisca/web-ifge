@@ -1,0 +1,398 @@
+<style>
+  :root{
+    --ifge-rot:#B03C4C;
+    --ifge-tuerkis:#00A6A6;
+  }
+
+  .aufstellung-box{
+    border:2px solid var(--ifge-rot);
+    border-radius:14px;
+    padding:24px 22px;
+    margin:22px auto;
+    max-width:760px;
+    background:#fff;
+  }
+
+  .aufstellung-trenner{
+    height:1px;
+    background:rgba(0,0,0,.14);
+    margin:18px 0;
+  }
+
+  .aufstellung-untertitel{ margin:0 0 10px 0; }
+
+  .aufstellung-termin-label{
+    color:var(--ifge-tuerkis);
+    font-weight:800;
+  }
+
+  .aufstellung-termin{
+    display:block;
+    margin-top:6px;
+    color:var(--ifge-tuerkis);
+    font-weight:900;
+    font-size:1.12rem;
+  }
+
+  .teilnahme-buttons{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    margin:10px 0 6px 0;
+  }
+
+  .teilnahme-buttons button{
+    cursor:pointer;
+    padding:10px 12px;
+    border-radius:10px;
+    background:#fff;
+    font-weight:700;
+  }
+
+  .teilnahme-buttons button.is-active{
+    outline:3px solid rgba(0,0,0,.12);
+  }
+
+  .stufe{ margin-top:14px; }
+
+  /* ✅ FIX: Checkbox + Text immer links, egal was das Theme macht */
+.aufstellung-box .check-row{
+  display:flex !important;
+  align-items:flex-start !important;
+  justify-content:flex-start !important;
+  gap:10px !important;
+  margin:10px 0 !important;
+  text-align:left !important;
+}
+
+.aufstellung-box .check-row input[type="checkbox"]{
+  flex:0 0 auto !important;
+  width:auto !important;
+  margin:3px 0 0 0 !important;     /* überschreibt Theme-Margins */
+}
+
+.aufstellung-box .check-row label{
+  flex:1 1 auto !important;
+  display:block !important;
+  margin:0 !important;
+  padding:0 !important;
+  text-align:left !important;
+  max-width:100% !important;
+  white-space:normal !important;
+}
+
+
+  .form-grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:12px;
+    margin-top:10px;
+  }
+
+  .form-grid .full{ grid-column: 1 / -1; }
+
+  @media (max-width: 700px){
+    .form-grid{ grid-template-columns: 1fr; }
+    .form-grid .full{ grid-column:auto; }
+  }
+
+  .aufstellung-box input{
+    width:100%;
+    padding:10px 10px;
+    border:1px solid rgba(0,0,0,.20);
+    border-radius:10px;
+    box-sizing:border-box;
+  }
+
+  .js-zahlung{
+    margin-top:14px;
+    padding:12px 14px;
+    border-radius:12px;
+    font-weight:900;
+    cursor:pointer;
+    border:2px solid var(--ifge-rot);
+    background:var(--ifge-rot);
+    color:#fff;
+  }
+
+  .js-zahlung[disabled]{ opacity:.5; cursor:not-allowed; }
+
+  .hinweis{
+    margin-top:10px;
+    display:none;
+    font-size:.92rem;
+    opacity:.9;
+  }
+</style>
+
+<!-- APRIL -->
+<div class="aufstellung-box"
+  data-termin="17.–19. April 2026"
+  data-stripe-anliegen="https://buy.stripe.com/bJe4gAfdYgRX3G0b4y3sI01"
+  data-stripe-reprae="https://buy.stripe.com/00w6oIe9U45bfoIc8C3sI00">
+
+  <h4>FAMILIENAUFSTELLUNG (3 TAGE) – WIEN</h4>
+
+  <p class="aufstellung-untertitel">
+    <span class="aufstellung-termin-label">Termin:</span>
+    <span class="aufstellung-termin">17.–19. April 2026</span>
+  </p>
+
+  <div class="aufstellung-trenner"></div>
+
+  <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in)</button>
+  </div>
+
+  <div class="stufe js-zustimmungen" style="display:none;">
+    <p><span class="tuerkis">2. Bitte bestätigen Sie vor der Anmeldung:</span></p>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-agb" id="agb-apr">
+      <label for="agb-apr">Ich stimme den <a href="/agb/">AGB</a> zu.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-datenschutz" id="ds-apr">
+      <label for="ds-apr">Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a>.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-widerruf" id="wid-apr">
+      <label for="wid-apr">Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen.</label>
+    </div>
+  </div>
+
+  <div class="stufe js-formular" style="display:none;">
+    <p><span class="tuerkis">3. Kontaktdaten (für Ihre persönliche Bestätigung):</span></p>
+
+    <div class="form-grid">
+      <div>
+        <label for="vor-apr">Vorname*</label><br>
+        <input id="vor-apr" type="text" class="js-vorname" required>
+      </div>
+      <div>
+        <label for="nach-apr">Nachname*</label><br>
+        <input id="nach-apr" type="text" class="js-nachname" required>
+      </div>
+      <div class="full">
+        <label for="mail-apr">E-Mail*</label><br>
+        <input id="mail-apr" type="email" class="js-email" required>
+      </div>
+      <div class="full">
+        <label for="tel-apr">Telefon (optional)</label><br>
+        <input id="tel-apr" type="text" class="js-telefon">
+      </div>
+    </div>
+
+    <button type="button" class="js-zahlung" disabled>Zur Zahlung (Stripe)</button>
+    <div class="hinweis js-hinweis">Sie werden jetzt zu Stripe weitergeleitet. Mit Abschluss der Zahlung ist Ihre Teilnahme fixiert.</div>
+  </div>
+</div>
+
+<!-- SEPT -->
+<div class="aufstellung-box"
+  data-termin="25.–27. September 2026"
+  data-stripe-anliegen="https://buy.stripe.com/00w3cw9TEfNT2BW7Sm3sI0j"
+  data-stripe-reprae="https://buy.stripe.com/7sY14oc1MfNT90k1tY3sI0k">
+
+  <h4>FAMILIENAUFSTELLUNG (3 TAGE) – WIEN</h4>
+
+  <p class="aufstellung-untertitel">
+    <span class="aufstellung-termin-label">Termin:</span>
+    <span class="aufstellung-termin">25.–27. September 2026</span>
+  </p>
+
+  <div class="aufstellung-trenner"></div>
+
+  <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in)</button>
+  </div>
+
+  <div class="stufe js-zustimmungen" style="display:none;">
+    <p><span class="tuerkis">2. Bitte bestätigen Sie vor der Anmeldung:</span></p>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-agb" id="agb-sep">
+      <label for="agb-sep">Ich stimme den <a href="/agb/">AGB</a> zu.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-datenschutz" id="ds-sep">
+      <label for="ds-sep">Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a>.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-widerruf" id="wid-sep">
+      <label for="wid-sep">Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen.</label>
+    </div>
+  </div>
+
+  <div class="stufe js-formular" style="display:none;">
+    <p><span class="tuerkis">3. Kontaktdaten (für Ihre persönliche Bestätigung):</span></p>
+
+    <div class="form-grid">
+      <div>
+        <label for="vor-sep">Vorname*</label><br>
+        <input id="vor-sep" type="text" class="js-vorname" required>
+      </div>
+      <div>
+        <label for="nach-sep">Nachname*</label><br>
+        <input id="nach-sep" type="text" class="js-nachname" required>
+      </div>
+      <div class="full">
+        <label for="mail-sep">E-Mail*</label><br>
+        <input id="mail-sep" type="email" class="js-email" required>
+      </div>
+      <div class="full">
+        <label for="tel-sep">Telefon (optional)</label><br>
+        <input id="tel-sep" type="text" class="js-telefon">
+      </div>
+    </div>
+
+    <button type="button" class="js-zahlung" disabled>Zur Zahlung (Stripe)</button>
+    <div class="hinweis js-hinweis">Sie werden jetzt zu Stripe weitergeleitet. Mit Abschluss der Zahlung ist Ihre Teilnahme fixiert.</div>
+  </div>
+</div>
+
+<!-- DEZ -->
+<div class="aufstellung-box"
+  data-termin="18.–20. Dezember 2026"
+  data-stripe-anliegen="https://buy.stripe.com/5kQ00k0j459fccwfkO3sI0l"
+  data-stripe-reprae="https://buy.stripe.com/cNi9AU3vgcBH0tOb4y3sI0m">
+
+  <h4>FAMILIENAUFSTELLUNG (3 TAGE) – WIEN</h4>
+
+  <p class="aufstellung-untertitel">
+    <span class="aufstellung-termin-label">Termin:</span>
+    <span class="aufstellung-termin">18.–20. Dezember 2026</span>
+  </p>
+
+  <div class="aufstellung-trenner"></div>
+
+  <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in)</button>
+  </div>
+
+  <div class="stufe js-zustimmungen" style="display:none;">
+    <p><span class="tuerkis">2. Bitte bestätigen Sie vor der Anmeldung:</span></p>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-agb" id="agb-dez">
+      <label for="agb-dez">Ich stimme den <a href="/agb/">AGB</a> zu.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-datenschutz" id="ds-dez">
+      <label for="ds-dez">Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a>.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-widerruf" id="wid-dez">
+      <label for="wid-dez">Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen.</label>
+    </div>
+  </div>
+
+  <div class="stufe js-formular" style="display:none;">
+    <p><span class="tuerkis">3. Kontaktdaten (für Ihre persönliche Bestätigung):</span></p>
+
+    <div class="form-grid">
+      <div>
+        <label for="vor-dez">Vorname*</label><br>
+        <input id="vor-dez" type="text" class="js-vorname" required>
+      </div>
+      <div>
+        <label for="nach-dez">Nachname*</label><br>
+        <input id="nach-dez" type="text" class="js-nachname" required>
+      </div>
+      <div class="full">
+        <label for="mail-dez">E-Mail*</label><br>
+        <input id="mail-dez" type="email" class="js-email" required>
+      </div>
+      <div class="full">
+        <label for="tel-dez">Telefon (optional)</label><br>
+        <input id="tel-dez" type="text" class="js-telefon">
+      </div>
+    </div>
+
+    <button type="button" class="js-zahlung" disabled>Zur Zahlung (Stripe)</button>
+    <div class="hinweis js-hinweis">Sie werden jetzt zu Stripe weitergeleitet. Mit Abschluss der Zahlung ist Ihre Teilnahme fixiert.</div>
+  </div>
+</div>
+
+<script>
+(function () {
+  function initBox(box) {
+    let wahl = null;
+
+    const zust = box.querySelector('.js-zustimmungen');
+    const form = box.querySelector('.js-formular');
+    const hinweis = box.querySelector('.js-hinweis');
+
+    const cbAGB = box.querySelector('.js-agb');
+    const cbDS  = box.querySelector('.js-datenschutz');
+    const cbWid = box.querySelector('.js-widerruf');
+
+    const inVor  = box.querySelector('.js-vorname');
+    const inNach = box.querySelector('.js-nachname');
+    const inMail = box.querySelector('.js-email');
+
+    const btn = box.querySelector('.js-zahlung');
+    const varianteButtons = Array.from(box.querySelectorAll('.js-variante'));
+
+    function zustimmOK() { return cbAGB.checked && cbDS.checked && cbWid.checked; }
+    function pflichtOK() { return inVor.value.trim() && inNach.value.trim() && inMail.value.trim(); }
+    function validate() { btn.disabled = !(wahl && zustimmOK() && pflichtOK()); }
+
+    function resetAll() {
+      cbAGB.checked = false;
+      cbDS.checked = false;
+      cbWid.checked = false;
+      zust.style.display = 'block';
+      form.style.display = 'none';
+      hinweis.style.display = 'none';
+      btn.disabled = true;
+    }
+
+    // WICHTIG: Immer resetten, sobald man eine Variante klickt (auch wenn man hin- und her klickt)
+    varianteButtons.forEach(b => {
+      b.addEventListener('click', () => {
+        const neueWahl = b.dataset.wahl;
+
+        varianteButtons.forEach(x => x.classList.remove('is-active'));
+        b.classList.add('is-active');
+
+        // bei jeder Entscheidung reset (damit es nie „hängen bleibt“)
+        wahl = neueWahl;
+        resetAll();
+      });
+    });
+
+    [cbAGB, cbDS, cbWid].forEach(cb => cb.addEventListener('change', () => {
+      form.style.display = zustimmOK() ? 'block' : 'none';
+      hinweis.style.display = 'none';
+      validate();
+    }));
+
+    [inVor, inNach, inMail].forEach(inp => inp.addEventListener('input', validate));
+
+    btn.addEventListener('click', () => {
+      const link = (wahl === 'anliegen') ? box.dataset.stripeAnliegen : box.dataset.stripeReprae;
+      if (!link || !link.startsWith('http')) {
+        alert('Stripe-Link fehlt oder ist ungültig.');
+        return;
+      }
+      hinweis.style.display = 'block';
+      window.location.href = link;
+    });
+  }
+
+  document.querySelectorAll('.aufstellung-box').forEach(initBox);
+})();
+</script>
