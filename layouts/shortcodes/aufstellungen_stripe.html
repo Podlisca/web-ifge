@@ -55,6 +55,38 @@
 
   .stufe{ margin-top:14px; }
 
+  /* ✅ Button "gefüllt" markieren */
+.teilnahme-buttons button.is-active{
+  outline:3px solid rgba(0,0,0,.12);
+  background: rgba(0, 166, 166, .12); /* default: türkis */
+  border-color: var(--ifge-tuerkis);
+}
+
+/* Wenn der aktive Button die rote Variante ist: mit Rot füllen */
+.teilnahme-buttons button.is-active[data-wahl="reprae"]{
+  background: rgba(176, 60, 76, .10);
+  border-color: var(--ifge-rot);
+}
+
+/* ✅ ganzen Termin-Kasten subtil highlighten, wenn Auswahl getroffen */
+.aufstellung-box.is-selected{
+  background: rgba(0, 166, 166, .05);
+  box-shadow: 0 0 0 3px rgba(0, 166, 166, .14);
+}
+
+/* wenn Repräsentant*in gewählt wurde: roter highlight */
+.aufstellung-box.is-selected.is-reprae{
+  background: rgba(176, 60, 76, .04);
+  box-shadow: 0 0 0 3px rgba(176, 60, 76, .14);
+}
+
+/* optional: Termin-Zeile beim Selektieren etwas stärker */
+.aufstellung-box.is-selected .aufstellung-termin,
+.aufstellung-box.is-selected .aufstellung-termin-label{
+  filter: saturate(1.1);
+}
+
+
   /* ✅ FIX: Checkbox + Text immer links, egal was das Theme macht */
 .aufstellung-box .check-row{
   display:flex !important;
@@ -142,8 +174,75 @@
 
   <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
-    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen</button>
-    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in)</button>
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen € 450</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in) € 210,-</button>
+  </div>
+
+  <div class="stufe js-zustimmungen" style="display:none;">
+    <p><span class="tuerkis">2. Bitte bestätigen Sie vor der Anmeldung:</span></p>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-agb" id="agb-apr">
+      <label for="agb-apr">Ich stimme den <a href="/agb/">AGB</a> zu.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-datenschutz" id="ds-apr">
+      <label for="ds-apr">Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a>.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-widerruf" id="wid-apr">
+      <label for="wid-apr">Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen.</label>
+    </div>
+  </div>
+
+  <div class="stufe js-formular" style="display:none;">
+    <p><span class="tuerkis">3. Kontaktdaten (für Ihre persönliche Bestätigung):</span></p>
+
+    <div class="form-grid">
+      <div>
+        <label for="vor-apr">Vorname*</label><br>
+        <input id="vor-apr" type="text" class="js-vorname" required>
+      </div>
+      <div>
+        <label for="nach-apr">Nachname*</label><br>
+        <input id="nach-apr" type="text" class="js-nachname" required>
+      </div>
+      <div class="full">
+        <label for="mail-apr">E-Mail*</label><br>
+        <input id="mail-apr" type="email" class="js-email" required>
+      </div>
+      <div class="full">
+        <label for="tel-apr">Telefon (optional)</label><br>
+        <input id="tel-apr" type="text" class="js-telefon">
+      </div>
+    </div>
+
+    <button type="button" class="js-zahlung" disabled>Zur Zahlung (Stripe)</button>
+    <div class="hinweis js-hinweis">Sie werden jetzt zu Stripe weitergeleitet. Mit Abschluss der Zahlung ist Ihre Teilnahme fixiert.</div>
+  </div>
+</div>
+
+<!-- Juli 2026 -->
+<div class="aufstellung-box"
+  data-termin="20.–24. Juli 2026"
+  data-stripe-anliegen="https://buy.stripe.com/cNieVe8PAdFLa4odcG3sI0n"
+  data-stripe-reprae="https://buy.stripe.com/14A4gA7LweJP4K4fkO3sI0o">
+
+  <h4>FAMILIENAUFSTELLUNG - INTENSIVWOCHE – WIEN</h4>
+
+  <p class="aufstellung-untertitel">
+    <span class="aufstellung-termin-label">Termin:</span>
+    <span class="aufstellung-termin">20.–24. Juli 2026</span>
+  </p>
+
+  <div class="aufstellung-trenner"></div>
+
+  <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen € 690,-</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in) € 350,-</button>
   </div>
 
   <div class="stufe js-zustimmungen" style="display:none;">
@@ -209,8 +308,8 @@
 
   <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
-    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen</button>
-    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in)</button>
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen € 450,-</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in) € 210,-</button>
   </div>
 
   <div class="stufe js-zustimmungen" style="display:none;">
@@ -276,8 +375,8 @@
 
   <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
   <div class="teilnahme-buttons">
-    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen</button>
-    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in)</button>
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen € 450</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in) € 210,-</button>
   </div>
 
   <div class="stufe js-zustimmungen" style="display:none;">

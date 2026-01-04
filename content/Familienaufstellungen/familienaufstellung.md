@@ -121,11 +121,16 @@ und Veränderung wird leichter möglich.
 ### Hier finden Sie eine Übersicht aller kommenden Aufstellungstermine.  
 Bitte wählen Sie den passenden Termin aus.
 
-**Seminarzeiten:**
+**Seminarzeiten 3 Tages Aufstellungen :**
 
 * Freitag: 15:00 – 20:00 Uhr
 * Samstag: 10:00 – 17:00 Uhr
 * Sonntag: 10:00 – 17:00 Uhr
+
+**Seminrarzeiten Intensivwoche:**
+
+* Montag bis Freitag: 10:00 – 17:00 Uhr
+
 
 Die Teilnahme ist nur als **vollständiger Drei-Tage-Prozess** möglich. Einzelne Tage können nicht separat gebucht werden.
 

@@ -33,6 +33,9 @@ Die folgenden Angebote stehen Ihnen in meiner Praxis in Wien und online zur Verf
 - mit eigenem Anliegen € 450,- <br>
 - als Repräsentant:in € 210,-
 <br>
+* Intensivwoche <br> 
+- mit eigenem Anliegen € 690,- <br>
+- als Repräsentant:in € 350,-
 
 
 **Achtung:** Da auch ich Ihnen Zeit und Raum zur Verfügung stelle, bitte ich um Verständnis, dass Termine, 
