@@ -132,7 +132,7 @@ Bitte wählen Sie den passenden Termin aus.
 * Montag bis Freitag: 10:00 – 17:00 Uhr
 
 
-Die Teilnahme ist nur als **vollständiger Drei-Tage-Prozess** möglich. Einzelne Tage können nicht separat gebucht werden.
+Die Teilnahme ist nur als **vollständiger Prozess** möglich. Einzelne Tage können nicht separat gebucht werden.
 
 Familienaufstellungen sind kein punktuelles Bearbeiten eines Themas, sondern ein **intensiver innerer Weg**. Das Dazwischen – das Darüber-Schlafen, das Wahrnehmen von Veränderungen und das Nachreifen – ist ein wesentlicher Teil des Prozesses.
 
