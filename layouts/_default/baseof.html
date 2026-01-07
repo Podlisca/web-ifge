@@ -152,6 +152,29 @@
 ====================================================== -->
 <script src="/js/slider.js"></script>
 
+<!-- =========================
+     BREVO WEB PUSH (Loader + Init)
+========================= -->
+<script src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
+<script>
+  window.Brevo = window.Brevo || [];
+  Brevo.push(["init", { client_key: "eh4n71if8r6ihyeb7lh6emg2" }]);
+</script>
+
+<!-- =========================
+     SERVICE WORKER für BREVO registrieren
+     (WICHTIG: wir registrieren /service-worker.js)
+========================= -->
+<script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/sw.js")
+      .then(reg => console.log("Brevo SW ok:", reg.scope))
+      .catch(err => console.error("Brevo SW Fehler:", err));
+  }
+</script>
+
+
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
