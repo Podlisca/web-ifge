@@ -64,7 +64,7 @@ rich_logo: true
   <div class="contact-box">
         <h3>Institutsleitung</h3>
         <p>Silvia Podlisca, B.Sc.</p>
-        <p>+43 676 610 89 36</p>
+        <p><a href="tel:+436766108936">+43 676 610 89 36</a></p>
         <p><a href="mailto:silvia.podlisca@ifge.at">silvia.podlisca@ifge.at</a></p>
     </div>
 
@@ -80,6 +80,67 @@ rich_logo: true
         <p><a href="mailto:buchhaltung@ifge.at">buchhaltung@ifge.at</a></p>
     </div>
 
+</div>
+
+<style>
+  .office-grid {
+    max-width: 1000px;
+    margin: 10px auto 30px auto;
+    padding: 0 20px;
+  }
+
+  .office-box {
+    border: 2px solid #16978C;
+    border-radius: 12px;
+    padding: 22px 25px;
+    background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .office-box h3 {
+    color: #16978C;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+
+  .office-box p {
+    font-size: 16px;
+    line-height: 1.55;
+    margin: 6px 0;
+  }
+
+  .cta-termin {
+    display: inline-block;
+    margin-top: 14px;
+    padding: 12px 18px;
+    border-radius: 10px;
+    background: #A34D5D;
+    color: #fff !important;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    transition: transform 0.08s ease-in-out, opacity 0.15s ease-in-out;
+  }
+
+  .cta-termin:hover {
+    opacity: 0.95;
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+</style>
+
+<div class="office-grid">
+  <div class="office-box">
+    <h3>Öffnungszeiten & Terminvereinbarung</h3>
+        <p>
+      <strong>Telefonische Erreichbarkeit:</strong> Montag bis Freitag, 09:00–18:00 Uhr.<br>
+      Sollte ich mich gerade in Beratungseinheiten befinden, rufe ich Sie schnellstmöglich und verlässlich zurück.
+    </p>
+    <p><strong>Hinweis:</strong> Krisen können nicht warten – oft hilft schon der erste Schritt, wenn man weiß: <strong>Ein Termin ist fix.</strong></p>
+    <p>Bitte buchen Sie Ihren Termin bequem online:</p>
+    <a class="cta-termin" href="/online-terminvereinbarung/">Termin buchen</a>
+  </div>
 </div>
 
 
