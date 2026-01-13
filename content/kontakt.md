@@ -135,7 +135,7 @@ rich_logo: true
     <h3>Öffnungszeiten & Terminvereinbarung</h3>
         <p>
       <strong>Telefonische Erreichbarkeit:</strong> <br>
-      Montag bis Freitag, 09:00–18:00 Uhr / Samstag von 10 bis 16 Uhr.<br> <br>
+      Montag bis Freitag, 09:00–18:00 Uhr <br> <br>
       Sollte ich mich gerade in Beratungseinheiten befinden, rufe ich Sie schnellstmöglich und verlässlich zurück.
     </p>
     <p><strong>Hinweis:</strong> Krisen können nicht warten – oft hilft schon der erste Schritt, wenn man weiß: <strong>Ein Termin ist fix.</strong></p>
