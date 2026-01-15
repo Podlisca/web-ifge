@@ -3,17 +3,102 @@
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
     .ifge-footer {
-      background-color:  #909090; /* Das dunklere Grau – entspricht dem äußeren Bereich */
+      background-color: #909090;
       color: #fff;
-      padding: 3rem 1.5rem 1.5rem;
+      padding: 3.2rem 1.5rem 1.6rem;
       font-family: 'Roboto', sans-serif;
       letter-spacing: 0.2px;
     }
 
+    /* ============================
+       Online-Akademie Highlight
+       ============================ */
+    .footer-academy-wrap{
+      max-width: 1100px;
+      margin: 0 auto 2.4rem; /* Abstand darunter */
+      display: flex;
+      justify-content: center;
+    }
+
+    .footer-academy-card{
+      width: 100%;
+      max-width: 860px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.18);
+      border-radius: 16px;
+      padding: 1.35rem 1.45rem;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.25rem;
+
+      box-shadow: 0 12px 26px rgba(0,0,0,0.14);
+    }
+
+    .footer-academy-text{
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+
+    .footer-academy-kicker{
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      letter-spacing: 0.9px;
+      opacity: 0.92;
+      font-weight: 500;
+    }
+
+    .footer-academy-title{
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin: 0;
+      line-height: 1.25;
+    }
+
+    .footer-academy-sub{
+      font-size: 0.98rem;
+      opacity: 0.95;
+      line-height: 1.4;
+      max-width: 560px;
+    }
+
+    .footer-academy-btn{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+
+      background-color: #16978C;  /* Türkis */
+      color: #fff !important;
+      text-decoration: none !important;
+
+      padding: 0.95rem 1.25rem;
+      border-radius: 12px;
+
+      font-size: 0.95rem;
+      font-weight: 700;
+      letter-spacing: 0.35px;
+      text-transform: uppercase;
+      white-space: nowrap;
+
+      box-shadow: 0 10px 22px rgba(0,0,0,0.18);
+      transition: transform 0.15s ease, opacity 0.2s ease;
+    }
+
+    .footer-academy-btn:hover{
+      transform: translateY(-1px);
+      opacity: 0.96;
+    }
+
+    /* ============================
+       Footer Content Grid
+       ============================ */
     .footer-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 2.5rem;
+      gap: 2.6rem;
       max-width: 1100px;
       margin: 0 auto;
       text-align: left;
@@ -24,7 +109,7 @@
       font-size: 1rem;
       color: #ffffff;
       letter-spacing: 0.8px;
-      margin-bottom: 0.75rem;
+      margin: 0 0 0.85rem 0;
       font-weight: 500;
     }
 
@@ -35,53 +120,59 @@
     }
 
     .footer-column ul li {
-      margin-bottom: 0.45rem;
+      margin-bottom: 0.55rem; /* etwas luftiger */
     }
 
     .footer-column a {
-      color: #ffffff; /* Weiß, für beste Lesbarkeit */
+      color: #ffffff;
       text-decoration: underline;
       text-underline-offset: 3px;
       transition: color 0.3s ease;
     }
 
     .footer-column a:hover {
-      color: #7b2b39; /* Weinrot beim Hover */
+      color: #7b2b39;
     }
 
     .footer-column p {
       margin: 0;
-      line-height: 1.6;
+      line-height: 1.65;
       color: #ffffff;
     }
 
+    /* Standard Footer Button (weinrot) */
     .footer-btn {
       display: inline-block;
-      background-color: #7b2b39; /* Weinrot */
+      background-color: #7b2b39;
       color: #fff !important;
-      padding: 0.6rem 1.2rem;
-      border-radius: 4px;
+      padding: 0.65rem 1.25rem;
+      border-radius: 8px;
       margin-top: 1.2rem;
       font-size: 0.95rem;
       text-transform: uppercase;
       letter-spacing: 0.5px;
-      transition: background-color 0.3s ease;
+      transition: background-color 0.3s ease, transform 0.15s ease;
       text-decoration: none !important;
     }
 
     .footer-btn:hover {
       background-color: #a03a4b;
+      transform: translateY(-1px);
     }
 
     .footer-bottom {
-      border-top: 1px solid  #909090;
-      text-align: left;
-      margin-top: 2.5rem;
-      padding-top: 1rem;
+      border-top: 1px solid rgba(255,255,255,0.22);
+      max-width: 1100px;
+      margin: 2.4rem auto 0;
+      padding-top: 1.1rem;
       font-size: 0.85rem;
-      color: #f8f8f8;
+      color: rgba(255,255,255,0.92);
+      text-align: left;
     }
 
+    /* ============================
+       Mobile
+       ============================ */
     @media (max-width: 768px) {
       .footer-container {
         grid-template-columns: 1fr;
@@ -89,35 +180,64 @@
       .footer-bottom {
         text-align: center;
       }
+      .footer-academy-card{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.25rem 1.15rem;
+      }
+      .footer-academy-btn{
+        width: 100%;
+        max-width: 520px;
+      }
+      .footer-academy-sub{
+        max-width: 100%;
+      }
     }
   </style>
 
+  <!-- ✅ Online-Akademie Box -->
+  <div class="footer-academy-wrap" role="region" aria-label="Hinweis zur IFGE Online-Akademie">
+    <div class="footer-academy-card">
+      <div class="footer-academy-text">
+        <div class="footer-academy-kicker">Neu & Online</div>
+        <div class="footer-academy-title">Sie suchen die IFGE Online-Akademie?</div>
+        <div class="footer-academy-sub">
+          Aus- und Weiterbildungen, Videos & Onlineformate – flexibel, praxisnah und berufsbegleitend.
+        </div>
+      </div>
+
+      <a href="https://www.ifge-onlineakademie.at/" class="footer-academy-btn" target="_blank" rel="noopener noreferrer">
+        Zur IFGE Online-Akademie
+      </a>
+    </div>
+  </div>
+
+  <!-- Footer Links -->
   <div class="footer-container">
+
     <div class="footer-column">
       <h4>Angebote</h4>
       <ul>
-  <li><a href="/psychologische-beratung/einzelberatung/">Psychologische Einzelberatung</a></li>
-  <li><a href="/psychologische-beratung/krisenberatung/">Krisenberatung</a></li>
-  <li><a href="/familienaufstellungen/familienaufstellung/">Familienaufstellungen</a></li>
-  <li><a href="/psychologische-beratung/sexualberatung/">Sexualberatung</a></li>
-  <li><a href="/psychologische-beratung/paarberatung/">Paarberatung</a></li>
-  <li><a href="/psychologische-beratung/sexualitaetpaare/">Paar-Sexualberatung</a></li>
-  <li><a href="/supervision/einzelsupervision/">Einzelsupervision</a></li>
-  <li><a href="/psychologische-beratung/tiergestuetzteberatung/">Tiergestützte Beratung</a></li>
-</ul>
-
+        <li><a href="/psychologische-beratung/einzelberatung/">Psychologische Einzelberatung</a></li>
+        <li><a href="/psychologische-beratung/krisenberatung/">Krisenberatung</a></li>
+        <li><a href="/familienaufstellungen/familienaufstellung/">Familienaufstellungen</a></li>
+        <li><a href="/psychologische-beratung/sexualberatung/">Sexualberatung</a></li>
+        <li><a href="/psychologische-beratung/paarberatung/">Paarberatung</a></li>
+        <li><a href="/psychologische-beratung/sexualitaetpaare/">Paar-Sexualberatung</a></li>
+        <li><a href="/supervision/einzelsupervision/">Einzelsupervision</a></li>
+        <li><a href="/psychologische-beratung/tiergestuetzteberatung/">Tiergestützte Beratung</a></li>
+      </ul>
     </div>
 
     <div class="footer-column">
       <h4>Informationen</h4>
-<ul>
-  <li><a href="/impressum/">Impressum</a></li>
-  <li><a href="/agb/">AGB</a></li>
-  <li><a href="/widerrufsbelehrung/">Widerrufsbelehrung</a></li>
-  <li><a href="/datenschutz/">Datenschutz</a></li>
-  <li><a href="/cookie-richtlinie/">Cookie-Richtlinie</a></li>
-</ul>
-
+      <ul>
+        <li><a href="/impressum/">Impressum</a></li>
+        <li><a href="/agb/">AGB</a></li>
+        <li><a href="/widerrufsbelehrung/">Widerrufsbelehrung</a></li>
+        <li><a href="/datenschutz/">Datenschutz</a></li>
+        <li><a href="/cookie-richtlinie/">Cookie-Richtlinie</a></li>
+      </ul>
     </div>
 
     <div class="footer-column">
@@ -131,9 +251,10 @@
       </p>
       <a href="https://www.ifge.at/online-terminvereinbarung/" class="footer-btn">Termin vereinbaren</a>
     </div>
+
   </div>
 
   <div class="footer-bottom">
-    © 2025 IFGE – Institut für ganzheitliches Erleben | Silvia Podlisca e.U.
+    © 2026 IFGE – Institut für ganzheitliches Erleben | Silvia Podlisca e.U.
   </div>
 </footer>
