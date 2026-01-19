@@ -182,36 +182,74 @@
       text-align: left;
     }
 
-    /* ============================
-       Responsive
-       ============================ */
-    @media (max-width: 980px) {
-      .footer-highlights-grid{
-        grid-template-columns: 1fr;
-        gap: 1.2rem;
-      }
-      .footer-highlight-card{
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 1.25rem 1.15rem;
-      }
-      .footer-highlight-btn{
-        width: 100%;
-        max-width: 520px;
-      }
-      .footer-highlight-sub{
-        max-width: 100%;
-      }
-    }
+  /* ============================
+   Responsive – Tablet & Mobile
+   ============================ */
 
-    @media (max-width: 768px) {
-      .footer-container {
-        grid-template-columns: 1fr;
-      }
-      .footer-bottom {
-        text-align: center;
-      }
-    }
+/* Tablet & kleine Laptops */
+@media (max-width: 980px) {
+  .footer-highlights-grid{
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+
+  .footer-highlight-card{
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.25rem 1.15rem;
+  }
+
+  .footer-highlight-btn{
+    width: 100%;
+    max-width: 520px;
+  }
+
+  .footer-highlight-sub{
+    max-width: 100%;
+  }
+}
+
+/* Klassisches Mobile (iPhone Plus, Android groß) */
+@media (max-width: 768px) {
+  .footer-container {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-bottom {
+    text-align: center;
+  }
+}
+
+/* Speziell für iphone 12 / kleine Smartphones */
+@media (max-width: 420px) {
+
+  .footer-highlights-wrap{
+    margin-bottom: 2rem;
+  }
+
+  .footer-highlight-card{
+    padding: 1.05rem 1rem;
+    border-radius: 14px;
+  }
+
+  .footer-highlight-title{
+    font-size: 1.05rem;
+    line-height: 1.25;
+  }
+
+  .footer-highlight-sub{
+    font-size: 0.92rem;
+    line-height: 1.4;
+  }
+
+  .footer-highlight-btn{
+    font-size: 0.9rem;
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+  }
+} /* ✅ DIESE KLAMMER FEHLT BEI DIR */
+
+
   </style>
 
   <!-- ✅ 2 Highlights nebeneinander -->
