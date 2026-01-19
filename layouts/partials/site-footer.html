@@ -11,39 +11,50 @@
     }
 
     /* ============================
-       Online-Akademie Highlight
+       2 Highlights (Online + Präsenz)
+       Fix: kein Überlappen, mehr Luft
        ============================ */
-    .footer-academy-wrap{
+    .footer-highlights-wrap{
       max-width: 1100px;
-      margin: 0 auto 2.4rem; /* Abstand darunter */
-      display: flex;
-      justify-content: center;
+      margin: 0 auto 2.4rem;
     }
 
-    .footer-academy-card{
-      width: 100%;
-      max-width: 860px;
+    .footer-highlights-grid{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.8rem;                 /* ✅ mehr Abstand */
+      align-items: stretch;
+      position: relative;
+      z-index: 1;
+    }
+
+    .footer-highlight-card{
       background: rgba(255,255,255,0.08);
       border: 1px solid rgba(255,255,255,0.18);
-      border-radius: 16px;
-      padding: 1.35rem 1.45rem;
+      border-radius: 18px;
+      padding: 1.4rem 1.5rem;
 
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 1.25rem;
 
-      box-shadow: 0 12px 26px rgba(0,0,0,0.14);
+      /* ✅ softer shadow (weniger "reinziehen") */
+      box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+
+      /* ✅ verhindert Layout-Overflows */
+      min-width: 0;
+      overflow: hidden;
     }
 
-    .footer-academy-text{
-      color: #fff;
+    .footer-highlight-text{
       display: flex;
       flex-direction: column;
-      gap: 0.3rem;
+      gap: 0.35rem;
+      min-width: 0;
     }
 
-    .footer-academy-kicker{
+    .footer-highlight-kicker{
       font-size: 0.82rem;
       text-transform: uppercase;
       letter-spacing: 0.9px;
@@ -51,21 +62,21 @@
       font-weight: 500;
     }
 
-    .footer-academy-title{
-      font-size: 1.25rem;
+    .footer-highlight-title{
+      font-size: 1.22rem;
       font-weight: 700;
       margin: 0;
       line-height: 1.25;
     }
 
-    .footer-academy-sub{
+    .footer-highlight-sub{
       font-size: 0.98rem;
       opacity: 0.95;
-      line-height: 1.4;
+      line-height: 1.45;
       max-width: 560px;
     }
 
-    .footer-academy-btn{
+    .footer-highlight-btn{
       display: inline-flex;
       align-items: center;
       justify-content: center;
@@ -74,7 +85,7 @@
       color: #fff !important;
       text-decoration: none !important;
 
-      padding: 0.95rem 1.25rem;
+      padding: 0.95rem 1.2rem;
       border-radius: 12px;
 
       font-size: 0.95rem;
@@ -83,11 +94,12 @@
       text-transform: uppercase;
       white-space: nowrap;
 
-      box-shadow: 0 10px 22px rgba(0,0,0,0.18);
+      box-shadow: 0 10px 22px rgba(0,0,0,0.16);
       transition: transform 0.15s ease, opacity 0.2s ease;
+      flex: 0 0 auto;
     }
 
-    .footer-academy-btn:hover{
+    .footer-highlight-btn:hover{
       transform: translateY(-1px);
       opacity: 0.96;
     }
@@ -120,7 +132,7 @@
     }
 
     .footer-column ul li {
-      margin-bottom: 0.55rem; /* etwas luftiger */
+      margin-bottom: 0.55rem;
     }
 
     .footer-column a {
@@ -171,8 +183,27 @@
     }
 
     /* ============================
-       Mobile
+       Responsive
        ============================ */
+    @media (max-width: 980px) {
+      .footer-highlights-grid{
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+      }
+      .footer-highlight-card{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.25rem 1.15rem;
+      }
+      .footer-highlight-btn{
+        width: 100%;
+        max-width: 520px;
+      }
+      .footer-highlight-sub{
+        max-width: 100%;
+      }
+    }
+
     @media (max-width: 768px) {
       .footer-container {
         grid-template-columns: 1fr;
@@ -180,35 +211,43 @@
       .footer-bottom {
         text-align: center;
       }
-      .footer-academy-card{
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 1.25rem 1.15rem;
-      }
-      .footer-academy-btn{
-        width: 100%;
-        max-width: 520px;
-      }
-      .footer-academy-sub{
-        max-width: 100%;
-      }
     }
   </style>
 
-  <!-- ✅ Online-Akademie Box -->
-  <div class="footer-academy-wrap" role="region" aria-label="Hinweis zur IFGE Online-Akademie">
-    <div class="footer-academy-card">
-      <div class="footer-academy-text">
-        <div class="footer-academy-kicker">Neu & Online</div>
-        <div class="footer-academy-title">Sie suchen die IFGE Online-Akademie?</div>
-        <div class="footer-academy-sub">
-          Aus- und Weiterbildungen, Videos & Onlineformate – flexibel, praxisnah und berufsbegleitend.
+  <!-- ✅ 2 Highlights nebeneinander -->
+  <div class="footer-highlights-wrap" role="region" aria-label="Hinweise zu IFGE Angeboten">
+    <div class="footer-highlights-grid">
+
+      <!-- Online-Akademie -->
+      <div class="footer-highlight-card" aria-label="Hinweis zur IFGE Online-Akademie">
+        <div class="footer-highlight-text">
+          <div class="footer-highlight-kicker">Neu & Online</div>
+          <div class="footer-highlight-title">Sie suchen die IFGE Online-Akademie?</div>
+          <div class="footer-highlight-sub">
+            Aus- und Weiterbildungen, Videos & Onlineformate – flexibel, praxisnah und berufsbegleitend.
+          </div>
         </div>
+
+        <a href="https://www.ifge-onlineakademie.at/" class="footer-highlight-btn" target="_blank" rel="noopener noreferrer">
+          Zur IFGE Online - Akademie
+        </a>
       </div>
 
-      <a href="https://www.ifge-onlineakademie.at/" class="footer-academy-btn" target="_blank" rel="noopener noreferrer">
-        Zur IFGE Online-Akademie
-      </a>
+      <!-- Ausbildungsakademie (Präsenz) -->
+      <div class="footer-highlight-card" aria-label="Hinweis zur IFGE Ausbildungsakademie">
+        <div class="footer-highlight-text">
+          <div class="footer-highlight-kicker">Neu & Präsenz</div>
+          <div class="footer-highlight-title">Sie suchen die Präsenz-Ausbildungen?</div>
+          <div class="footer-highlight-sub">
+            Neue Formate, Intensiv-, Prozess- und Tagesformate – fundiert, praxisnah und in kleinen Gruppen.
+          </div>
+        </div>
+
+        <a href="https://www.ifge-ausbildungsakademie.at/" class="footer-highlight-btn" target="_blank" rel="noopener noreferrer">
+          Zur IFGE - Ausbildungsakademie
+        </a>
+      </div>
+
     </div>
   </div>
 
