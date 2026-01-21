@@ -10,9 +10,15 @@
       letter-spacing: 0.2px;
     }
 
+    /* ✅ iOS/Safari Overflow-Fix: 100% inkl. Padding/Border korrekt berechnen */
+    .ifge-footer *,
+    .ifge-footer *::before,
+    .ifge-footer *::after {
+      box-sizing: border-box;
+    }
+
     /* ============================
        2 Highlights (Online + Präsenz)
-       Fix: kein Überlappen, mehr Luft
        ============================ */
     .footer-highlights-wrap{
       max-width: 1100px;
@@ -22,7 +28,7 @@
     .footer-highlights-grid{
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 1.8rem;                 /* ✅ mehr Abstand */
+      gap: 1.8rem;
       align-items: stretch;
       position: relative;
       z-index: 1;
@@ -39,10 +45,9 @@
       justify-content: space-between;
       gap: 1.25rem;
 
-      /* ✅ softer shadow (weniger "reinziehen") */
       box-shadow: 0 10px 22px rgba(0,0,0,0.12);
 
-      /* ✅ verhindert Layout-Overflows */
+      /* ✅ verhindert Flex/Grid Overflows */
       min-width: 0;
       overflow: hidden;
     }
@@ -81,7 +86,7 @@
       align-items: center;
       justify-content: center;
 
-      background-color: #16978C;  /* Türkis */
+      background-color: #16978C;
       color: #fff !important;
       text-decoration: none !important;
 
@@ -92,11 +97,16 @@
       font-weight: 700;
       letter-spacing: 0.35px;
       text-transform: uppercase;
+
+      /* Desktop darf ruhig "eine Zeile" sein */
       white-space: nowrap;
 
       box-shadow: 0 10px 22px rgba(0,0,0,0.16);
       transition: transform 0.15s ease, opacity 0.2s ease;
+
       flex: 0 0 auto;
+      min-width: 0;
+      max-width: 100%;
     }
 
     .footer-highlight-btn:hover{
@@ -152,7 +162,6 @@
       color: #ffffff;
     }
 
-    /* Standard Footer Button (weinrot) */
     .footer-btn {
       display: inline-block;
       background-color: #7b2b39;
@@ -182,74 +191,76 @@
       text-align: left;
     }
 
-  /* ============================
-   Responsive – Tablet & Mobile
-   ============================ */
+    /* ============================
+       Responsive – Tablet & Mobile
+       ============================ */
 
-/* Tablet & kleine Laptops */
-@media (max-width: 980px) {
-  .footer-highlights-grid{
-    grid-template-columns: 1fr;
-    gap: 1.2rem;
-  }
+    @media (max-width: 980px) {
+      .footer-highlights-grid{
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
+      }
 
-  .footer-highlight-card{
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 1.25rem 1.15rem;
-  }
+      .footer-highlight-card{
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.25rem 1.15rem;
+      }
 
-  .footer-highlight-btn{
-    width: 100%;
-    max-width: 520px;
-  }
+      /* ✅ iOS Fix: Button darf umbrechen + garantiert innerhalb bleiben */
+      .footer-highlight-btn{
+        width: 100%;
+        max-width: 100%;
+        flex: 1 1 auto;
+        min-width: 0;
+        white-space: normal;   /* KEY-FIX gegen Überstand */
+        text-align: center;
+      }
 
-  .footer-highlight-sub{
-    max-width: 100%;
-  }
-}
+      .footer-highlight-sub{
+        max-width: 100%;
+      }
+    }
 
-/* Klassisches Mobile (iPhone Plus, Android groß) */
-@media (max-width: 768px) {
-  .footer-container {
-    grid-template-columns: 1fr;
-  }
+    @media (max-width: 768px) {
+      .footer-container {
+        grid-template-columns: 1fr;
+      }
 
-  .footer-bottom {
-    text-align: center;
-  }
-}
+      .footer-bottom {
+        text-align: center;
+      }
+    }
 
-/* Speziell für iphone 12 / kleine Smartphones */
-@media (max-width: 420px) {
+    @media (max-width: 420px) {
+      .footer-highlights-wrap{
+        margin-bottom: 2rem;
+        padding: 0 0.25rem; /* optionales Sicherheitsnetz */
+      }
 
-  .footer-highlights-wrap{
-    margin-bottom: 2rem;
-  }
+      .footer-highlight-card{
+        padding: 1.05rem 1rem;
+        border-radius: 14px;
+      }
 
-  .footer-highlight-card{
-    padding: 1.05rem 1rem;
-    border-radius: 14px;
-  }
+      .footer-highlight-title{
+        font-size: 1.05rem;
+        line-height: 1.25;
+      }
 
-  .footer-highlight-title{
-    font-size: 1.05rem;
-    line-height: 1.25;
-  }
+      .footer-highlight-sub{
+        font-size: 0.92rem;
+        line-height: 1.4;
+      }
 
-  .footer-highlight-sub{
-    font-size: 0.92rem;
-    line-height: 1.4;
-  }
-
-  .footer-highlight-btn{
-    font-size: 0.9rem;
-    padding: 0.75rem 1rem;
-    border-radius: 10px;
-  }
-} /* ✅ DIESE KLAMMER FEHLT BEI DIR */
-
-
+      .footer-highlight-btn{
+        font-size: 0.9rem;
+        padding: 0.75rem 1rem;
+        border-radius: 10px;
+        width: 100%;
+        max-width: 100%;
+      }
+    }
   </style>
 
   <!-- ✅ 2 Highlights nebeneinander -->
