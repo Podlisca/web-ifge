@@ -456,31 +456,6 @@
     }
 }
 
-/* ============================================
-   TABLET (600–1100px)
-   CTA oben wieder anzeigen
-   ============================================ */
-@media (min-width: 600px) and (max-width: 1100px) {
-
-    /* Desktop-CTA auf Tablet sichtbar */
-    .nav-cta {
-        display: inline-block !important;
-    }
-
-    /* Mobile CTA ausblenden */
-    .nav-cta-mobile {
-        display: none !important;
-    }
-
-    /* Text wieder Langversion */
-    .nav-cta a::after {
-        content: "" !important;
-    }
-
-    .nav-cta a span {
-        display: inline !important;
-    }
-}
 
 
 /* MOBILE LOGO – endgültige Größe */

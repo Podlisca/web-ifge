@@ -1694,31 +1694,31 @@ main {
    CTA Sichtbarkeit – Desktop vs. Mobile
    =============================================== */
 
-/* Standard: nur Desktop-CTA anzeigen */
-.nav-cta {
-    display: inline-block;
-}
-.nav-cta-mobile {
-    display: none;
+/* CTA Sichtbarkeit – Desktop vs. Mobile */
+.nav-cta { display: inline-block; }
+.nav-cta-mobile { display: none; }
+
+/* ✅ ab Burger-Breakpoint: Mobile-CTA zeigen */
+@media (max-width: 1100px) {
+  .nav-cta { 
+    display: none !important; 
+  }
+
+  .nav-cta-mobile {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    background: #A34D5D;
+    color: #fff !important;
+    padding: 10px 14px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 17px;
+    white-space: nowrap;
+  }
 }
 
-/* Mobile: nur Mobile-CTA anzeigen, Desktop-CTA ausblenden */
-@media (max-width: 900px) {
-    .nav-cta {
-        display: none !important;
-    }
-    .nav-cta-mobile {
-        display: inline-block !important;
-        background: #A34D5D;
-        color: white;
-        padding: 10px 14px;
-        border-radius: 6px;
-        text-decoration: none;
-        font-weight: 400;
-        margin: 0 auto;
-        font-size: 17px;
-    }
-}
 
 /* ============================================
    MOBILE: Räumlichkeiten-Bilder wirklich kleiner
