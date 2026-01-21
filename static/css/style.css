@@ -1593,12 +1593,21 @@ main {
 
 /* --------------------------------------------
    2) DESKTOP – Hamburger verstecken
+   (erst ab richtigem Desktop)
    -------------------------------------------- */
-@media (min-width: 769px) {
-    .toggleResponsive {
-        display: none !important;
-    }
+@media (min-width: 1101px) {
+  .toggleResponsive {
+    display: none !important;
+  }
 }
+
+/* Tablet + Mobile: Hamburger IMMER sichtbar */
+@media (max-width: 1100px) {
+  .toggleResponsive {
+    display: block !important;
+  }
+}
+
 
 
 /* --------------------------------------------

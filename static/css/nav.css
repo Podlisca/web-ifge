@@ -465,3 +465,22 @@
         width: auto !important;
     }
 }
+
+/* ==========================================
+   FINAL NAV FIX – Burger immer korrekt sichtbar
+   ========================================== */
+
+/* ab hier: BREAKPOINT, ab wann Burger statt Desktop-Menü */
+@media (max-width: 1200px) {
+  .nav-burger,
+  .toggleResponsive {
+    display: flex !important;
+  }
+}
+
+@media (min-width: 1201px) {
+  .nav-burger,
+  .toggleResponsive {
+    display: none !important;
+  }
+}
