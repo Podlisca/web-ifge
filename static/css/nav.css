@@ -1,35 +1,38 @@
+
 /* -------------------------------
    BASIS
 -------------------------------- */
-.ifge-header {
-    width: 100%;
-    background: #16978C;
-    padding: 28px 0;
-    position: sticky;
-    top: 0;
-    z-index: 9999;
+.ifge-header{
+  width: 100%;
+  background: #16978C;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  padding: 28px 0;
 }
 
-.nav-wrapper {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 0 40px;   /* mehr Abstand links & rechts */
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.nav-wrapper{
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 40px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 28px; /* ✅ Mindestabstand zwischen Logo / Menü / CTA */
 }
 
-/* MOBILE: Logo nach links rücken */
-@media (max-width: 600px) {
+/* MOBILE: kompaktere Seitenränder */
+@media (max-width: 600px){
+  .nav-wrapper{
+    padding: 0 16px;
+    gap: 16px; /* ✅ etwas enger, damit alles Platz hat */
+  }
 
-    .nav-wrapper {
-        padding-left: 16px !important;
-        padding-right: 16px !important;
-    }
-
-    .nav-logo img {
-        margin-left: 0 !important;   /* falls Hugo/Theme es überschreibt */
-    }
+  .nav-logo img{
+    margin-left: 0;
+  }
 }
 
 
