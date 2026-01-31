@@ -157,6 +157,74 @@
   }
 </style>
 
+
+<!-- SEPT -->
+<div class="aufstellung-box"
+  data-termin="21. März 2026"
+  data-stripe-anliegen="https://buy.stripe.com/bJe14o2rcgRX7Wg0pU3sI02"
+  data-stripe-reprae="https://buy.stripe.com/dRm00kfdY1X3a4o4Ga3sI03">
+
+  <h4>FAMILIENAUFSTELLUNG (1 TAG) – WIEN</h4>
+
+  <p class="aufstellung-untertitel">
+    <span class="aufstellung-termin-label">Termin:</span>
+    <span class="aufstellung-termin">21. März 2026</span>
+  </p>
+
+  <div class="aufstellung-trenner"></div>
+
+  <p><span class="tuerkis">1. Bitte wählen Sie Ihre Teilnahmevariante:</span></p>
+  <div class="teilnahme-buttons">
+    <button type="button" class="js-variante" data-wahl="anliegen" style="border:2px solid var(--ifge-tuerkis);">✨ Teilnahme mit eigenem Anliegen € 260,-</button>
+    <button type="button" class="js-variante" data-wahl="reprae" style="border:2px solid var(--ifge-rot);">✨ Teilnahme als Repräsentant*in (Beobachter:in) € 110,-</button>
+  </div>
+
+  <div class="stufe js-zustimmungen" style="display:none;">
+    <p><span class="tuerkis">2. Bitte bestätigen Sie vor der Anmeldung:</span></p>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-agb" id="agb-sep">
+      <label for="agb-sep">Ich stimme den <a href="/agb/">AGB</a> zu.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-datenschutz" id="ds-sep">
+      <label for="ds-sep">Ich akzeptiere die <a href="/datenschutz/">Datenschutzerklärung</a>.</label>
+    </div>
+
+    <div class="check-row">
+      <input type="checkbox" class="js-widerruf" id="wid-sep">
+      <label for="wid-sep">Ich habe die <a href="/widerrufsbelehrung/">Widerrufsbelehrung</a> gelesen.</label>
+    </div>
+  </div>
+
+  <div class="stufe js-formular" style="display:none;">
+    <p><span class="tuerkis">3. Kontaktdaten (für Ihre persönliche Bestätigung):</span></p>
+
+    <div class="form-grid">
+      <div>
+        <label for="vor-sep">Vorname*</label><br>
+        <input id="vor-sep" type="text" class="js-vorname" required>
+      </div>
+      <div>
+        <label for="nach-sep">Nachname*</label><br>
+        <input id="nach-sep" type="text" class="js-nachname" required>
+      </div>
+      <div class="full">
+        <label for="mail-sep">E-Mail*</label><br>
+        <input id="mail-sep" type="email" class="js-email" required>
+      </div>
+      <div class="full">
+        <label for="tel-sep">Telefon (optional)</label><br>
+        <input id="tel-sep" type="text" class="js-telefon">
+      </div>
+    </div>
+
+    <button type="button" class="js-zahlung" disabled>Zur Zahlung (Stripe)</button>
+    <div class="hinweis js-hinweis">Sie werden jetzt zu Stripe weitergeleitet. Mit Abschluss der Zahlung ist Ihre Teilnahme fixiert.</div>
+  </div>
+</div>
+
 <!-- APRIL -->
 <div class="aufstellung-box"
   data-termin="17.–19. April 2026"
@@ -167,7 +235,7 @@
 
   <p class="aufstellung-untertitel">
     <span class="aufstellung-termin-label">Termin:</span>
-    <span class="aufstellung-termin">17.–19. April 2026</span>
+    <span class="aufstellung-termin">17.–19. April 2026 - nur noch 2 Plätze frei</span>
   </p>
 
   <div class="aufstellung-trenner"></div>

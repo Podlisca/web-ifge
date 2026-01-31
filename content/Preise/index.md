@@ -46,6 +46,10 @@ die nicht mindestens 48 Stunden vorher telefonisch oder per Mail abgesagt werden
 - mit eigenem Anliegen € 690,- <br>
 - als Repräsentant:in € 350,-
 
+### Familienaufstellung - Tagesseminar  <br> 
+- mit eigenem Anliegen € 260,- <br>
+- als Repräsentant:in € 110,-
+
 
 Die Teilnahme erfolgt eigenverantwortlich und freiwillig.Mit Zahlungseingang ist der Platz fix reserviert.
 

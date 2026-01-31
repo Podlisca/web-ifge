@@ -118,6 +118,13 @@ und Veränderung wird leichter möglich.
 
 # Anmeldung zu den Aufstellungen
 
+Familienaufstellungen sind eine **wirkungsvolle Form der inneren Klärung und Veränderung**.
+Je nach Anliegen, persönlicher Situation und Rahmenbedingungen können sie in unterschiedlichen Formaten stattfinden.
+
+**Mehrtägige Aufstellungen** ermöglichen einen besonders intensiven Prozess, in dem innere Bewegungen Zeit zum Wirken, Integrieren und Nachreifen haben. Das Dazwischen – das Darüber-Schlafen, das Wahrnehmen von Veränderungen und das erneute Hinspüren – ist dabei ein wertvoller Teil der Arbeit.
+
+Gleichzeitig kann auch eine **Tagesaufstellung** eine klare, tiefgehende Wirkung entfalten – insbesondere bei fokussierten Anliegen oder eingebettet in einen begleitenden Beratungsprozess.
+
 ### Hier finden Sie eine Übersicht aller kommenden Aufstellungstermine.  
 Bitte wählen Sie den passenden Termin aus.
 
@@ -127,6 +134,8 @@ Bitte wählen Sie den passenden Termin aus.
 * Samstag: 10:00 – 17:00 Uhr
 * Sonntag: 10:00 – 17:00 Uhr
 
+Die Teilnahme ist nur als **vollständiger Prozess** möglich. Einzelne Tage können nicht separat gebucht werden.
+
 **Seminrarzeiten Intensivwoche:**
 
 * Montag bis Freitag: 10:00 – 17:00 Uhr
@@ -134,8 +143,10 @@ Bitte wählen Sie den passenden Termin aus.
 
 Die Teilnahme ist nur als **vollständiger Prozess** möglich. Einzelne Tage können nicht separat gebucht werden.
 
-Familienaufstellungen sind kein punktuelles Bearbeiten eines Themas, sondern ein **intensiver innerer Weg**. Das Dazwischen – das Darüber-Schlafen, das Wahrnehmen von Veränderungen und das Nachreifen – ist ein wesentlicher Teil des Prozesses.
 
+**Seminarzeiten Tagesseminar:**
+
+* Samstag: 10 - 17 Uhr
 
 
 
