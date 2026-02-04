@@ -20,10 +20,10 @@ url: "/danke_terminbuchung/"
 **Super!** Ich habe Ihre Online-Terminbuchung erhalten.  
 Sie bekommen (je nach Buchungsweg) in Kürze eine **Bestätigung per E-Mail**.
 
----
 
+Herzlichst
 
-
+{{< silvia >}}
 
 ---
 
